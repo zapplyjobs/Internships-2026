@@ -1,304 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T00:06:59.794Z",
+  "lastUpdated": "2026-01-20T01:49:48.074Z",
   "jobs": [
-    {
-      "id": "the-coca-cola-company-data-scientist-intern-atlanta-2026-01-13-1",
-      "jobId": "the-coca-cola-company-data-scientist-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Data Scientist Intern",
-      "postedToDiscord": "2026-01-13T00:40:30.191Z",
-      "sourceDate": "2026-01-12T23:29:30.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Scientist-Intern_R-133158-1",
-      "discordThreadId": "1460433276706754664",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-global-marketing-generative-ai-intern-atlanta-2026-01-13-1",
-      "jobId": "the-coca-cola-company-global-marketing-generative-ai-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Global Marketing Generative AI Intern",
-      "postedToDiscord": "2026-01-13T00:40:33.848Z",
-      "sourceDate": "2026-01-12T23:29:25.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Global-Marketing-Generative-AI-Intern_R-133476",
-      "discordThreadId": "1460433292229738760",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-information-operational-technology-intern-atlanta-2026-01-13-1",
-      "jobId": "the-coca-cola-company-information-operational-technology-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Information / Operational Technology Intern",
-      "postedToDiscord": "2026-01-13T00:40:37.524Z",
-      "sourceDate": "2026-01-12T23:29:21.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Information---Operational-Technology-Intern_R-133345",
-      "discordThreadId": "1460433307316518935",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-global-development-innovation-digital-capability-intern-atlanta-2026-01-13-1",
-      "jobId": "the-coca-cola-company-global-development-innovation-digital-capability-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Global Development & Innovation – Digital Capability Intern",
-      "postedToDiscord": "2026-01-13T00:40:40.922Z",
-      "sourceDate": "2026-01-12T23:29:21.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Global-Development---Innovation--Digital-Capability-Intern_R-133453",
-      "discordThreadId": "1460433322508419113",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cambria-salesforce-ai-analyst-eden-prairie-2026-01-13-1",
-      "jobId": "cambria-salesforce-ai-analyst-eden-prairie",
-      "company": "Cambria",
-      "title": "Salesforce AI Analyst",
-      "postedToDiscord": "2026-01-13T00:40:44.524Z",
-      "sourceDate": "2026-01-12T23:26:08.000Z",
-      "sourceUrl": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Eden-Prairie-MN/Salesforce-AI-Analyst-Intern_R-102765",
-      "discordThreadId": "1460433336857268429",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-it-operations-analytics-intern-atlanta-2026-01-13-1",
-      "jobId": "the-coca-cola-company-it-operations-analytics-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "IT Operations & Analytics Intern",
-      "postedToDiscord": "2026-01-13T00:40:53.554Z",
-      "sourceDate": "2026-01-12T23:29:16.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/IT-Intern_R-130606-1",
-      "discordThreadId": "1460433369237029096",
-      "instanceNumber": 1
-    },
-    {
-      "id": "t-mobile-summer-2026-software-development-engineer-internship-bellevue-2026-01-13-1",
-      "jobId": "t-mobile-summer-2026-software-development-engineer-internship-bellevue",
-      "company": "T-Mobile",
-      "title": "Summer 2026 Software Development Engineer Internship",
-      "postedToDiscord": "2026-01-13T00:40:57.077Z",
-      "sourceDate": "2026-01-12T23:25:31.000Z",
-      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Software-Development-Engineer-Internship_REQ342323",
-      "discordThreadId": "1460433389944307854",
-      "instanceNumber": 1
-    },
-    {
-      "id": "legend-biotech-master-data-management-governance-intern-bridgewater-township-2026-01-13-1",
-      "jobId": "legend-biotech-master-data-management-governance-intern-bridgewater-township",
-      "company": "Legend Biotech",
-      "title": "Master Data Management & Governance Intern",
-      "postedToDiscord": "2026-01-13T00:41:03.655Z",
-      "sourceDate": "2026-01-12T23:26:40.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/legendcareers/jobs/4632787005",
-      "discordThreadId": "1460433417286979686",
-      "instanceNumber": 1
-    },
-    {
-      "id": "howard-hughes-medical-institute-hhmi-science-strategy-data-intern-bethesda-2026-01-13-1",
-      "jobId": "howard-hughes-medical-institute-hhmi-science-strategy-data-intern-bethesda",
-      "company": "Howard Hughes Medical Institute (HHMI)",
-      "title": "Science Strategy & Data Intern",
-      "postedToDiscord": "2026-01-13T00:41:07.325Z",
-      "sourceDate": "2026-01-12T23:23:06.000Z",
-      "sourceUrl": "https://hhmi.wd1.myworkdayjobs.com/external/job/Headquarters/Science-Strategy---Data-Intern_R-4064",
-      "discordThreadId": "1460433432323690518",
-      "instanceNumber": 1
-    },
-    {
-      "id": "robert-bosch-venture-capital-sales-team-data-science-intern-southfield-2026-01-13-1",
-      "jobId": "robert-bosch-venture-capital-sales-team-data-science-intern-southfield",
-      "company": "Robert Bosch Venture Capital",
-      "title": "Sales Team Data Science Intern",
-      "postedToDiscord": "2026-01-13T01:05:39.340Z",
-      "sourceDate": "2026-01-12T23:22:30.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000103123800",
-      "discordThreadId": "1460439605991182503",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-2026-summer-intern-genentech-gred-computational-sciences-center-of-excellence-san-bruno-2026-01-13-1",
-      "jobId": "genentech-2026-summer-intern-genentech-gred-computational-sciences-center-of-excellence-san-bruno",
-      "company": "Genentech",
-      "title": "2026 Summer Intern - Genentech Gred Computational Sciences - Center of Excellence",
-      "postedToDiscord": "2026-01-13T01:05:42.956Z",
-      "sourceDate": "2026-01-12T23:15:37.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Genentech-gRED-Computational-Sciences---Center-of-Excellence_202601-100479-1",
-      "discordThreadId": "1460439622122340414",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kla-product-development-engineer-intern-milpitas-2026-01-13-1",
-      "jobId": "kla-product-development-engineer-intern-milpitas",
-      "company": "KLA Corporation",
-      "title": "Product Development Engineer Intern",
-      "postedToDiscord": "2026-01-13T01:05:46.537Z",
-      "sourceDate": "2026-01-12T23:13:36.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Development-Engineering-Intern_2633673-1",
-      "discordThreadId": "1460439636760334396",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amcor-maintenance-systems-analytics-intern-lawrence-2026-01-13-1",
-      "jobId": "amcor-maintenance-systems-analytics-intern-lawrence",
-      "company": "Amcor",
-      "title": "Maintenance Systems & Analytics Intern",
-      "postedToDiscord": "2026-01-13T01:05:53.044Z",
-      "sourceDate": "2026-01-12T23:21:53.000Z",
-      "sourceUrl": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Maintenance-Systems---Analytics-Intern---Summer-2026_REQ_84473",
-      "discordThreadId": "1460439664421896445",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paccar-summer-2026-intern-warranty-data-analyst-kirkland-2026-01-13-1",
-      "jobId": "paccar-summer-2026-intern-warranty-data-analyst-kirkland",
-      "company": "Paccar",
-      "title": "Summer 2026 Intern - Warranty Data Analyst",
-      "postedToDiscord": "2026-01-13T01:05:56.501Z",
-      "sourceDate": "2026-01-12T23:18:33.000Z",
-      "sourceUrl": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-Warranty-Data-Analyst-WA-98033/1282631801/?ats=successfactors",
-      "discordThreadId": "1460439679110348994",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rtx-crypto-software-engineering-intern-el-segundo-2026-01-13-1",
-      "jobId": "rtx-crypto-software-engineering-intern-el-segundo",
-      "company": "RTX",
-      "title": "Crypto Software Engineering Intern",
-      "postedToDiscord": "2026-01-13T01:06:03.025Z",
-      "sourceDate": "2026-01-12T23:14:16.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HCA45-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/Crypto-Software-Engineering-Intern-Summer-2026--Onsite-_01811252",
-      "discordThreadId": "1460439706293764226",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ciena-jira-automation-intern-with-ai-gai-insights-remote-in-usa-2026-01-13-1",
-      "jobId": "ciena-jira-automation-intern-with-ai-gai-insights-remote-in-usa",
-      "company": "Ciena",
-      "title": "JIRA Automation Intern with AI/GAI Insights",
-      "postedToDiscord": "2026-01-13T01:06:06.496Z",
-      "sourceDate": "2026-01-12T23:06:20.000Z",
-      "sourceUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/JIRA-Automation-Intern-with-AI-GAI-Insights_R029750",
-      "discordThreadId": "1460439720998994033",
-      "instanceNumber": 1
-    },
-    {
-      "id": "toll-brothers-web-development-intern-ambler-2026-01-13-1",
-      "jobId": "toll-brothers-web-development-intern-ambler",
-      "company": "Toll Brothers",
-      "title": "Web Development Intern",
-      "postedToDiscord": "2026-01-13T01:06:10.085Z",
-      "sourceDate": "2025-11-25T03:47:22.000Z",
-      "sourceUrl": "https://jobs-tollbrothers.icims.com/jobs/24248/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460439735536455833",
-      "instanceNumber": 1
-    },
-    {
-      "id": "westwood-survey-intern-mclean-2026-01-13-1",
-      "jobId": "westwood-survey-intern-mclean",
-      "company": "Westwood",
-      "title": "Survey Intern",
-      "postedToDiscord": "2026-01-13T01:06:16.569Z",
-      "sourceDate": "2025-12-17T16:34:34.000Z",
-      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7163/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460439763315064973",
-      "instanceNumber": 1
-    },
-    {
-      "id": "westwood-environmental-intern-midlothian-2026-01-13-1",
-      "jobId": "westwood-environmental-intern-midlothian",
-      "company": "Westwood",
-      "title": "Environmental Intern",
-      "postedToDiscord": "2026-01-13T01:47:05.867Z",
-      "sourceDate": "2025-11-17T23:22:46.000Z",
-      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7613/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460450035740184729",
-      "instanceNumber": 1
-    },
-    {
-      "id": "m-t-bank-technology-intern-program-buffalo-2026-01-13-1",
-      "jobId": "m-t-bank-technology-intern-program-buffalo",
-      "company": "M&T Bank",
-      "title": "Technology Intern Program",
-      "postedToDiscord": "2026-01-13T01:47:09.324Z",
-      "sourceDate": "2026-01-12T23:34:54.000Z",
-      "sourceUrl": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R78761",
-      "discordThreadId": "1460450050923823155",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cms-energy-intern-co-op-applications-analytics-1-jackson-2026-01-13-1",
-      "jobId": "cms-energy-intern-co-op-applications-analytics-1-jackson",
-      "company": "CMS Energy",
-      "title": "Intern/Co-Op-Applications & Analytics 1",
-      "postedToDiscord": "2026-01-13T01:47:16.112Z",
-      "sourceDate": "2025-09-09T17:25:19.000Z",
-      "sourceUrl": "https://careers.consumersenergy.com/job/JACKSON-InternCo-Op-Applications-&-Analytics-1-MI/1324380700/?ats=successfactors",
-      "discordThreadId": "1460450078362697815",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tencent-ai-software-engineer-intern-palo-alto-2026-01-13-1",
-      "jobId": "tencent-ai-software-engineer-intern-palo-alto",
-      "company": "Tencent",
-      "title": "AI Software Engineer Intern",
-      "postedToDiscord": "2026-01-13T01:47:19.426Z",
-      "sourceDate": "2026-01-12T23:43:44.000Z",
-      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer-Intern_R106673",
-      "discordThreadId": "1460450093743477041",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jones-lang-lasalle-jll-business-intelligence-intern-chicago-chicago-2026-01-13-1",
-      "jobId": "jones-lang-lasalle-jll-business-intelligence-intern-chicago-chicago",
-      "company": "Jones Lang LaSalle (JLL)",
-      "title": "Business Intelligence Intern - Chicago",
-      "postedToDiscord": "2026-01-13T01:47:22.973Z",
-      "sourceDate": "2026-01-12T23:37:59.000Z",
-      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Intelligence-Summer-2026-Internship---Chicago_REQ478977",
-      "discordThreadId": "1460450107731349534",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cadence-design-software-engineer-intern-compilers-san-jose-2026-01-13-1",
-      "jobId": "cadence-design-software-engineer-intern-compilers-san-jose",
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer Intern - Compilers",
-      "postedToDiscord": "2026-01-13T01:47:26.513Z",
-      "sourceDate": "2026-01-12T23:35:36.000Z",
-      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Software-Engineer-Intern--Compilers----Summer-2026_R52507-2",
-      "discordThreadId": "1460450122788769878",
-      "instanceNumber": 1
-    },
-    {
-      "id": "prudential-financial-pgim-quantitative-solutions-investment-technology-associate-intern-mba-masters-newark-2026-01-13-1",
-      "jobId": "prudential-financial-pgim-quantitative-solutions-investment-technology-associate-intern-mba-masters-newark",
-      "company": "Prudential Financial",
-      "title": "PGIM: Quantitative Solutions – Investment Technology Associate Intern - MBA/Masters",
-      "postedToDiscord": "2026-01-13T01:47:33.258Z",
-      "sourceDate": "2026-01-12T23:38:04.000Z",
-      "sourceUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2026-Quantitative-Solutions--Investment-Technology-Summer-Associate-Internship--MBA-Masters-_R-122963-1",
-      "discordThreadId": "1460450150165119110",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-data-science-engineer-intern-summer-2026-remote-in-usa-2026-01-13-1",
-      "jobId": "dropbox-data-science-engineer-intern-summer-2026-remote-in-usa",
-      "company": "Dropbox",
-      "title": "Data Science Engineer Intern - Summer 2026",
-      "postedToDiscord": "2026-01-13T01:47:39.767Z",
-      "sourceDate": "2026-01-12T23:36:51.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7527941",
-      "discordThreadId": "1460450178116096165",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-data-science-intern-summer-2026-remote-in-usa-2026-01-13-1",
-      "jobId": "dropbox-data-science-intern-summer-2026-remote-in-usa",
-      "company": "Dropbox",
-      "title": "Data Science Intern - Summer 2026",
-      "postedToDiscord": "2026-01-13T01:47:43.158Z",
-      "sourceDate": "2026-01-12T23:36:19.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7527921",
-      "discordThreadId": "1460450192997351444",
-      "instanceNumber": 1
-    },
     {
       "id": "northrop-grumman-systems-engineering-intern-graduate-level-wayzata-2026-01-13-1",
       "jobId": "northrop-grumman-systems-engineering-intern-graduate-level-wayzata",
@@ -15500,15 +15203,27 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7327143",
       "discordThreadId": "1462961558844866561",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-finance-and-strategy-partner-gtm-chicago-san-francisco-seattle-new-york-city-2026-01-20-1",
+      "jobId": "stripe-finance-and-strategy-partner-gtm-chicago-san-francisco-seattle-new-york-city",
+      "company": "stripe",
+      "title": "Finance and Strategy Partner, GTM",
+      "postedToDiscord": "2026-01-20T01:49:48.074Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7463755",
+      "discordThreadId": "1462987430968692992",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1409,
+    "totalJobs": 1383,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T00:06:59.794Z",
-      "archived": 0
+      "date": "2026-01-20T01:49:48.074Z",
+      "archived": 27,
+      "monthsAffected": 1
     }
   }
 }
