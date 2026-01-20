@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:24:58.695Z",
+  "lastUpdated": "2026-01-20T07:31:58.797Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16721,14 +16721,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7378953",
       "discordThreadId": "1463071780607623293",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-taxonomist-ontologist-denver-co-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "gusto-taxonomist-ontologist-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Taxonomist / Ontologist",
+      "postedToDiscord": "2026-01-20T07:31:17.833Z",
+      "sourceDate": "2026-01-09T15:41:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7364020",
+      "discordThreadId": "1463073370869465255",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-principal-product-manager-gusto-solo-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-principal-product-manager-gusto-solo-san-francisco-ca",
+      "company": "gusto",
+      "title": "Principal Product Manager, Gusto Solo",
+      "postedToDiscord": "2026-01-20T07:31:24.328Z",
+      "sourceDate": "2026-01-09T15:41:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7346791",
+      "discordThreadId": "1463073399126626397",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-head-of-revenue-analytics-denver-co-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "gusto-head-of-revenue-analytics-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Head of Revenue Analytics",
+      "postedToDiscord": "2026-01-20T07:31:29.050Z",
+      "sourceDate": "2026-01-09T15:41:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7283301",
+      "discordThreadId": "1463073413341118573",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-government-affairs-lead-small-business-healthcare-benefits-and-hr-policy-washington-dc-denver-co-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "gusto-government-affairs-lead-small-business-healthcare-benefits-and-hr-policy-washington-dc-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Government Affairs Lead (Small Business Healthcare, Benefits, and HR Policy)",
+      "postedToDiscord": "2026-01-20T07:31:35.588Z",
+      "sourceDate": "2026-01-09T15:41:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7295836",
+      "discordThreadId": "1463073446014746773",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-head-of-sales-compensation-denver-co-united-states-new-york-new-york-united-states-san-francisco-ca-united-states-2026-01-20-1",
+      "jobId": "gusto-head-of-sales-compensation-denver-co-united-states-new-york-new-york-united-states-san-francisco-ca-united-states",
+      "company": "gusto",
+      "title": "Head of Sales Compensation",
+      "postedToDiscord": "2026-01-20T07:31:42.055Z",
+      "sourceDate": "2026-01-09T15:41:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7357313",
+      "discordThreadId": "1463073473671991418",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-head-of-sales-and-gtm-operations-denver-co-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "gusto-head-of-sales-and-gtm-operations-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Head of Sales and GTM Operations",
+      "postedToDiscord": "2026-01-20T07:31:45.536Z",
+      "sourceDate": "2026-01-09T15:41:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7283297",
+      "discordThreadId": "1463073488276553792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-corporate-tax-manager-denver-co-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "gusto-corporate-tax-manager-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Corporate Tax Manager",
+      "postedToDiscord": "2026-01-20T07:31:48.943Z",
+      "sourceDate": "2026-01-09T15:41:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7228256",
+      "discordThreadId": "1463073502784389192",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-staff-software-engineer-infrastructure-denver-co-san-francisco-ca-new-york-ny-seattle-wa-ontario-can-remote-united-states-remote-2026-01-20-1",
+      "jobId": "gusto-staff-software-engineer-infrastructure-denver-co-san-francisco-ca-new-york-ny-seattle-wa-ontario-can-remote-united-states-remote",
+      "company": "gusto",
+      "title": "Staff Software Engineer,  Infrastructure ",
+      "postedToDiscord": "2026-01-20T07:31:55.392Z",
+      "sourceDate": "2026-01-09T15:41:44-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7306716",
+      "discordThreadId": "1463073529711951895",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-team-lead-sr-salesforce-developer-san-francisco-ca-denver-co-2026-01-20-1",
+      "jobId": "gusto-team-lead-sr-salesforce-developer-san-francisco-ca-denver-co",
+      "company": "gusto",
+      "title": "Team Lead - Sr. Salesforce Developer",
+      "postedToDiscord": "2026-01-20T07:31:58.796Z",
+      "sourceDate": "2026-01-09T15:41:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7145016",
+      "discordThreadId": "1463073544316522633",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1520,
+    "totalJobs": 1529,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T07:24:58.695Z",
+      "date": "2026-01-20T07:31:58.797Z",
       "archived": 0
     }
   }
