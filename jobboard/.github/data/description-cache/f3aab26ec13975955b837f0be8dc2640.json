@@ -1,0 +1,17 @@
+{
+  "url": "https://stripe.com/jobs/search?gh_jid=7505572",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Help increase the GDP of the internet as part of our Go-to-Market team.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://stripe.com/jobs/search?gh_jid=7505572",
+      "fetchedAt": "2026-01-20T04:56:26.041Z"
+    }
+  },
+  "cachedAt": 1768884986042
+}

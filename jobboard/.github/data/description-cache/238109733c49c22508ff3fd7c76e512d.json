@@ -1,0 +1,17 @@
+{
+  "url": "https://stripe.com/jobs/search?gh_jid=7394633",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Help increase the GDP of the internet as part of our Solutions Architect team.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://stripe.com/jobs/search?gh_jid=7394633",
+      "fetchedAt": "2026-01-20T04:56:22.487Z"
+    }
+  },
+  "cachedAt": 1768884982487
+}
