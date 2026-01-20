@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:59:19.776Z",
+  "lastUpdated": "2026-01-20T11:09:31.428Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -18305,14 +18305,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T11:09:24.064Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7178512/?gh_jid=7178512",
+      "discordThreadId": "1463128259154677953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T11:09:24.079Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T11:09:24.092Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-chicago-illinois-usa-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-chicago-illinois-usa",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T11:09:24.107Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6522755/?gh_jid=6522755",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-georgia-usa-remote-tennessee-usa-remote-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-georgia-usa-remote-tennessee-usa-remote",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T11:09:24.118Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-florida-usa-remote-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-florida-usa-remote",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T11:09:24.128Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-fed-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-fed-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote",
+      "company": "datadog",
+      "title": "Strategic Account Executive (FED)",
+      "postedToDiscord": "2026-01-20T11:09:27.792Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359",
+      "discordThreadId": "1463128274250105022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-sled-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-sled-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-20T11:09:31.414Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7077431/?gh_jid=7077431",
+      "discordThreadId": "1463128289815036001",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-sled-district-of-columbia-usa-remote-florida-usa-remote-maryland-usa-remote-north-carolina-usa-remote-south-carolina-usa-remote-virginia-usa-remote-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-sled-district-of-columbia-usa-remote-florida-usa-remote-maryland-usa-remote-north-carolina-usa-remote-south-carolina-usa-remote-virginia-usa-remote",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-20T11:09:31.428Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1664,
+    "totalJobs": 1673,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T10:59:19.776Z",
+      "date": "2026-01-20T11:09:31.428Z",
       "archived": 0
     }
   }
