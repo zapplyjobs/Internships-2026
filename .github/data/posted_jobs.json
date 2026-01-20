@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T18:00:24.400Z",
+  "lastUpdated": "2026-01-20T18:54:27.534Z",
   "jobs": [
-    {
-      "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
-      "jobId": "visa-software-engineer-highlands-ranch",
-      "company": "Visa",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-13T18:19:39.950Z",
-      "sourceDate": "2026-01-13T16:18:00.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103273985",
-      "discordThreadId": "1460699823849345210",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paccar-manufacturing-engineering-data-analytics-intern-columbus-2026-01-13-1",
-      "jobId": "paccar-manufacturing-engineering-data-analytics-intern-columbus",
-      "company": "Paccar",
-      "title": "Manufacturing Engineering Data Analytics Intern",
-      "postedToDiscord": "2026-01-13T18:19:46.649Z",
-      "sourceDate": "2026-01-13T16:17:46.000Z",
-      "sourceUrl": "https://jobs.paccar.com/job/Columbus-Manufacturing-Engineering-Data-Analytics-Intern-Fall-2026-MS-39701/1282953201/?ats=successfactors",
-      "discordThreadId": "1460699851749851217",
-      "instanceNumber": 1
-    },
-    {
-      "id": "visa-software-engineer-intern-ashburn-2026-01-13-1",
-      "jobId": "visa-software-engineer-intern-ashburn",
-      "company": "Visa",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2026-01-13T18:51:39.803Z",
-      "sourceDate": "2026-01-13T16:18:18.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103274324",
-      "discordThreadId": "1460707875029516440",
-      "instanceNumber": 1
-    },
-    {
-      "id": "visa-software-engineer-intern-summer-2026-austin-austin-2026-01-13-1",
-      "jobId": "visa-software-engineer-intern-summer-2026-austin-austin",
-      "company": "Visa",
-      "title": "Software Engineer – Intern - Summer 2026 - Austin",
-      "postedToDiscord": "2026-01-13T18:51:43.453Z",
-      "sourceDate": "2026-01-13T16:18:13.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103272876",
-      "discordThreadId": "1460707891056087074",
-      "instanceNumber": 1
-    },
-    {
-      "id": "visa-software-engineer-intern-summer-2026-bellevue-bellevue-2026-01-13-1",
-      "jobId": "visa-software-engineer-intern-summer-2026-bellevue-bellevue",
-      "company": "Visa",
-      "title": "Software Engineer – Intern - Summer 2026 - Bellevue",
-      "postedToDiscord": "2026-01-13T18:51:43.458Z",
-      "sourceDate": "2026-01-13T16:18:06.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103272705",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "paccar-manufacturing-engineering-data-analytics-intern-summer-2026-columbus-2026-01-13-1",
-      "jobId": "paccar-manufacturing-engineering-data-analytics-intern-summer-2026-columbus",
-      "company": "Paccar",
-      "title": "Manufacturing Engineering Data Analytics Intern Summer 2026",
-      "postedToDiscord": "2026-01-13T18:51:49.979Z",
-      "sourceDate": "2026-01-13T16:17:35.000Z",
-      "sourceUrl": "https://jobs.paccar.com/job/Columbus-Manufacturing-Engineering-Data-Analytics-Intern-Summer-2026-MS-39701/1282952101/?ats=successfactors",
-      "discordThreadId": "1460707919069970698",
-      "instanceNumber": 1
-    },
-    {
-      "id": "field-ai-field-application-engineer-intern-mineral-virginia-palmyra-2026-01-13-1",
-      "jobId": "field-ai-field-application-engineer-intern-mineral-virginia-palmyra",
-      "company": "Field AI",
-      "title": "Field Application Engineer / Intern - Mineral - Virginia",
-      "postedToDiscord": "2026-01-13T18:51:53.583Z",
-      "sourceDate": "2026-01-13T16:08:24.000Z",
-      "sourceUrl": "https://jobs.lever.co/field-ai/7fc508bf-041d-46a6-86c7-3251d6b88e72/apply",
-      "discordThreadId": "1460707934186246154",
-      "instanceNumber": 1
-    },
-    {
-      "id": "idemia-power-bi-data-analyst-internship-summer-2026-reston-2026-01-13-1",
-      "jobId": "idemia-power-bi-data-analyst-internship-summer-2026-reston",
-      "company": "IDEMIA",
-      "title": "Power BI Data Analyst Internship - Summer 2026",
-      "postedToDiscord": "2026-01-13T18:52:00.136Z",
-      "sourceDate": "2025-10-03T03:00:54.000Z",
-      "sourceUrl": "https://uscareers-idemia.icims.com/jobs/8295/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460707961960661157",
-      "instanceNumber": 1
-    },
     {
       "id": "visa-software-engineer-intern-atlanta-2026-01-13-1",
       "jobId": "visa-software-engineer-intern-atlanta",
@@ -18965,14 +18877,113 @@
       "sourceUrl": "https://www.brex.com/careers/8362822002?gh_jid=8362822002",
       "discordThreadId": "1463231692994117717",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-web-content-strategist-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-web-content-strategist-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Web Content Strategist",
+      "postedToDiscord": "2026-01-20T18:54:03.389Z",
+      "sourceDate": "2026-01-06T13:12:19-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5736009004?gh_jid=5736009004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-software-engineer-product-frontend-2-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only-2026-01-20-1",
+      "jobId": "airtable-software-engineer-product-frontend-2-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only",
+      "company": "airtable",
+      "title": "Software Engineer, Product Frontend (2-8 YOE)",
+      "postedToDiscord": "2026-01-20T18:54:07.178Z",
+      "sourceDate": "2026-01-05T20:12:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845265002",
+      "discordThreadId": "1463245208782115103",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-sales-recruiter-12-month-contract-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-sales-recruiter-12-month-contract-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "postedToDiscord": "2026-01-20T18:54:13.695Z",
+      "sourceDate": "2026-01-05T22:20:37-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8093381002?gh_jid=8093381002",
+      "discordThreadId": "1463245237051719809",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-sales-recruiter-12-month-contract-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-sales-recruiter-12-month-contract-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "postedToDiscord": "2026-01-20T18:54:13.711Z",
+      "sourceDate": "2026-01-05T22:20:37-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8073319002?gh_jid=8073319002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-sales-recruiter-12-month-contract-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-sales-recruiter-12-month-contract-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Sales Recruiter (12-month contract)",
+      "postedToDiscord": "2026-01-20T18:54:13.726Z",
+      "sourceDate": "2026-01-05T22:20:37-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8075296002?gh_jid=8075296002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-tax-director-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-tax-director-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Tax Director",
+      "postedToDiscord": "2026-01-20T18:54:20.320Z",
+      "sourceDate": "2026-01-05T20:55:40-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8360086002?gh_jid=8360086002",
+      "discordThreadId": "1463245264553775328",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-tax-director-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-tax-director-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Tax Director",
+      "postedToDiscord": "2026-01-20T18:54:20.333Z",
+      "sourceDate": "2026-01-05T20:54:47-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8307573002?gh_jid=8307573002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-gtm-strategy-manager-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-gtm-strategy-manager-new-york-ny-united-states",
+      "company": "figma",
+      "title": "GTM Strategy Manager ",
+      "postedToDiscord": "2026-01-20T18:54:23.910Z",
+      "sourceDate": "2026-01-05T16:34:19-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739002004?gh_jid=5739002004",
+      "discordThreadId": "1463245279846469674",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-director-product-marketing-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-director-product-marketing-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Director, Product Marketing ",
+      "postedToDiscord": "2026-01-20T18:54:27.534Z",
+      "sourceDate": "2026-01-05T13:20:00-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732415004?gh_jid=5732415004",
+      "discordThreadId": "1463245294664945837",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1724,
+    "totalJobs": 1725,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T18:00:24.400Z",
+      "date": "2026-01-20T18:54:27.534Z",
       "archived": 0
     }
   }
