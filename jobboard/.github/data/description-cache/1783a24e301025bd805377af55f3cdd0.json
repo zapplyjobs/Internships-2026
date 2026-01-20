@@ -1,0 +1,17 @@
+{
+  "url": "https://stripe.com/jobs/search?gh_jid=7396430",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "We operate at significant scale, but we’re tiny relative to the opportunity ahead. Want to join us? See what career opportunities are available across our global teams.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://stripe.com/jobs/search?gh_jid=7396430",
+      "fetchedAt": "2026-01-20T05:21:20.346Z"
+    }
+  },
+  "cachedAt": 1768886480346
+}
