@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T06:45:47.213Z",
+  "lastUpdated": "2026-01-20T07:02:37.982Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16424,14 +16424,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7524662",
       "discordThreadId": "1463061918997680246",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-research-scientist-personalization-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-research-scientist-personalization-new-york-ny",
+      "company": "spotify",
+      "title": "Research Scientist - Personalization",
+      "postedToDiscord": "2026-01-20T07:01:57.634Z",
+      "sourceDate": "2026-01-09T22:41:51.138Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/a576428e-002b-4b2e-a39d-69c9e61dd927",
+      "discordThreadId": "1463065989649268864",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-ios-engineer-application-stability-performance-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-ios-engineer-application-stability-performance-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior iOS Engineer, Application Stability & Performance",
+      "postedToDiscord": "2026-01-20T07:02:04.434Z",
+      "sourceDate": "2026-01-09T17:32:46-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8369151002?gh_jid=8369151002",
+      "discordThreadId": "1463066017013170239",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-people-tech-integrations-developer-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-people-tech-integrations-developer-san-francisco-ca",
+      "company": "gusto",
+      "title": "People Tech Integrations Developer",
+      "postedToDiscord": "2026-01-20T07:02:07.899Z",
+      "sourceDate": "2026-01-09T15:41:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7460244",
+      "discordThreadId": "1463066032234037321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-sales-engineer-key-accounts-west-illinois-usa-remote-oregon-usa-remote-texas-usa-remote-washington-usa-remote-2026-01-20-1",
+      "jobId": "datadog-senior-sales-engineer-key-accounts-west-illinois-usa-remote-oregon-usa-remote-texas-usa-remote-washington-usa-remote",
+      "company": "datadog",
+      "title": "Senior Sales Engineer - Key Accounts (West)",
+      "postedToDiscord": "2026-01-20T07:02:14.339Z",
+      "sourceDate": "2026-01-09T17:27:49-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7516279/?gh_jid=7516279",
+      "discordThreadId": "1463066059455074305",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-sales-development-representative-denver-co-las-vegas-nv-atlanta-ga-chicago-il-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-sales-development-representative-denver-co-las-vegas-nv-atlanta-ga-chicago-il-phoenix-az",
+      "company": "gusto",
+      "title": "Sales Development Representative",
+      "postedToDiscord": "2026-01-20T07:02:17.752Z",
+      "sourceDate": "2026-01-09T15:41:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7474010",
+      "discordThreadId": "1463066073917296641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-retirement-account-executive-scottsdale-az-denver-co-san-francisco-ca-atlanta-ga-chicago-il-united-states-remote-2026-01-20-1",
+      "jobId": "gusto-retirement-account-executive-scottsdale-az-denver-co-san-francisco-ca-atlanta-ga-chicago-il-united-states-remote",
+      "company": "gusto",
+      "title": "Retirement Account Executive",
+      "postedToDiscord": "2026-01-20T07:02:21.198Z",
+      "sourceDate": "2026-01-09T15:41:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7473996",
+      "discordThreadId": "1463066088278462597",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-sales-operations-analyst-business-insurance-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-senior-sales-operations-analyst-business-insurance-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az",
+      "company": "gusto",
+      "title": "Senior Sales Operations Analyst - Business Insurance",
+      "postedToDiscord": "2026-01-20T07:02:27.674Z",
+      "sourceDate": "2026-01-09T15:41:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7524560",
+      "discordThreadId": "1463066115189117063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-finance-bizops-strategy-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-finance-bizops-strategy-san-francisco-ca",
+      "company": "gusto",
+      "title": "Finance, BizOps, & Strategy",
+      "postedToDiscord": "2026-01-20T07:02:31.152Z",
+      "sourceDate": "2026-01-09T15:41:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7467274",
+      "discordThreadId": "1463066129705603214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-people-technology-delivery-manager-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-people-technology-delivery-manager-san-francisco-ca",
+      "company": "gusto",
+      "title": "People Technology Delivery Manager",
+      "postedToDiscord": "2026-01-20T07:02:37.982Z",
+      "sourceDate": "2026-01-09T15:41:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7460250",
+      "discordThreadId": "1463066157480153098",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1493,
+    "totalJobs": 1502,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T06:45:47.213Z",
+      "date": "2026-01-20T07:02:37.982Z",
       "archived": 0
     }
   }
