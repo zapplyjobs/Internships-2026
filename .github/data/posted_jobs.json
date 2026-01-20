@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:31:28.347Z",
+  "lastUpdated": "2026-01-20T10:47:54.773Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -18107,14 +18107,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7440306/?gh_jid=7440306",
       "discordThreadId": "1463118712902123655",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-software-engineer-distributed-systems-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-software-engineer-distributed-systems-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Software Engineer - Distributed Systems",
+      "postedToDiscord": "2026-01-20T10:47:20.962Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927",
+      "discordThreadId": "1463122709406941228",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-software-engineer-frontend-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-software-engineer-frontend-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-20T10:47:20.977Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/4732393/?gh_jid=4732393",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-staff-engineer-event-platform-storage-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-staff-engineer-event-platform-storage-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Staff Engineer - Event Platform Storage",
+      "postedToDiscord": "2026-01-20T10:47:24.437Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7081040/?gh_jid=7081040",
+      "discordThreadId": "1463122724825202759",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-staff-software-engineer-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-staff-software-engineer-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Staff Software Engineer ",
+      "postedToDiscord": "2026-01-20T10:47:28.275Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424",
+      "discordThreadId": "1463122739593351353",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-software-engineer-ide-ai-experiences-llm-engineer-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-senior-software-engineer-ide-ai-experiences-llm-engineer-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Senior Software Engineer - IDE AI Experiences - LLM Engineer",
+      "postedToDiscord": "2026-01-20T10:47:34.766Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873",
+      "discordThreadId": "1463122767527284738",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-staff-genai-engineer-application-performance-monitoring-apm-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-staff-genai-engineer-application-performance-monitoring-apm-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "postedToDiscord": "2026-01-20T10:47:38.089Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
+      "discordThreadId": "1463122782454808618",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-tax-accountant-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-tax-accountant-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Tax Accountant - NYC",
+      "postedToDiscord": "2026-01-20T10:47:44.781Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7395012/?gh_jid=7395012",
+      "discordThreadId": "1463122809357340716",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-accountant-ii-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-accountant-ii-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff Accountant II - NYC",
+      "postedToDiscord": "2026-01-20T10:47:48.251Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7027505/?gh_jid=7027505",
+      "discordThreadId": "1463122824695644308",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-services-architect-3-new-york-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-services-architect-3-new-york-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Services Architect 3 - New York",
+      "postedToDiscord": "2026-01-20T10:47:54.773Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7088666/?gh_jid=7088666",
+      "discordThreadId": "1463122851732389989",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1646,
+    "totalJobs": 1655,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T10:31:28.347Z",
+      "date": "2026-01-20T10:47:54.773Z",
       "archived": 0
     }
   }
