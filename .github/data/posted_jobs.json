@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:55:03.725Z",
+  "lastUpdated": "2026-01-20T12:21:11.052Z",
   "jobs": [
     {
       "id": "commvault-technical-enablement-intern-shrewsbury-2026-01-13-1",
@@ -18701,14 +18701,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7888378002",
       "discordThreadId": "1463139749978964114",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-ai-research-engineer-new-phd-graduate-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-ai-research-engineer-new-phd-graduate-new-york-ny",
+      "company": "duolingo",
+      "title": "AI Research Engineer, New PhD Graduate",
+      "postedToDiscord": "2026-01-20T12:21:07.560Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002",
+      "discordThreadId": "1463146308184314046",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-director-of-learning-design-immersive-language-learning-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-director-of-learning-design-immersive-language-learning-new-york-ny",
+      "company": "duolingo",
+      "title": "Director of Learning Design, Immersive Language Learning",
+      "postedToDiscord": "2026-01-20T12:21:11.052Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8290478002?gh_jid=8290478002",
+      "discordThreadId": "1463146324286509119",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1700,
+    "totalJobs": 1702,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T11:55:03.725Z",
+      "date": "2026-01-20T12:21:11.052Z",
       "archived": 0
     }
   }
