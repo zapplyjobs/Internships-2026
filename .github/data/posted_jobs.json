@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T06:12:27.251Z",
+  "lastUpdated": "2026-01-20T06:25:21.190Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16226,14 +16226,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7343534",
       "discordThreadId": "1463053531102842964",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-data-engineer-ads-product-tech-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-data-engineer-ads-product-tech-new-york-ny",
+      "company": "spotify",
+      "title": "Data Engineer, Ads Product & Tech",
+      "postedToDiscord": "2026-01-20T06:24:51.350Z",
+      "sourceDate": "2026-01-12T20:02:57.087Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/6698ffb1-ad8f-4173-bf81-884357eaba0d",
+      "discordThreadId": "1463056651991908490",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-legal-counsel-audiobook-licensing-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-legal-counsel-audiobook-licensing-new-york-ny",
+      "company": "spotify",
+      "title": "Legal Counsel, Audiobook Licensing",
+      "postedToDiscord": "2026-01-20T06:24:55.047Z",
+      "sourceDate": "2026-01-12T16:00:28.923Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/f4e84f7b-c89b-40b1-ba39-700ba2ec2719",
+      "discordThreadId": "1463056665959207004",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-director-corporate-securities-counsel-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-director-corporate-securities-counsel-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Director, Corporate & Securities Counsel",
+      "postedToDiscord": "2026-01-20T06:25:01.374Z",
+      "sourceDate": "2026-01-12T14:14:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5752781004?gh_jid=5752781004",
+      "discordThreadId": "1463056694190932222",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-senior-manager-enterprise-sales-figma-weave-new-york-united-states-new-york-ny-2026-01-20-1",
+      "jobId": "figma-senior-manager-enterprise-sales-figma-weave-new-york-united-states-new-york-ny",
+      "company": "figma",
+      "title": "Senior Manager, Enterprise Sales - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-20T06:25:04.702Z",
+      "sourceDate": "2026-01-12T13:58:27-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5741899004?gh_jid=5741899004",
+      "discordThreadId": "1463056707977613385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-expansion-account-executive-enterprise-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-expansion-account-executive-enterprise-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Expansion Account Executive, Enterprise",
+      "postedToDiscord": "2026-01-20T06:25:08.112Z",
+      "sourceDate": "2026-01-12T11:11:30-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8220031002?gh_jid=8220031002",
+      "discordThreadId": "1463056721609097384",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-expansion-account-executive-enterprise-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-expansion-account-executive-enterprise-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Expansion Account Executive, Enterprise",
+      "postedToDiscord": "2026-01-20T06:25:08.123Z",
+      "sourceDate": "2026-01-12T11:11:29-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8220030002?gh_jid=8220030002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-expansion-account-executive-enterprise-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-expansion-account-executive-enterprise-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Expansion Account Executive, Enterprise",
+      "postedToDiscord": "2026-01-20T06:25:08.134Z",
+      "sourceDate": "2026-01-12T11:11:27-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8220013002?gh_jid=8220013002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-business-recruiter-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-business-recruiter-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Business Recruiter",
+      "postedToDiscord": "2026-01-20T06:25:14.691Z",
+      "sourceDate": "2026-01-12T13:59:08-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5754209004?gh_jid=5754209004",
+      "discordThreadId": "1463056749211947168",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-partner-marketing-manager-public-sector-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote-2026-01-20-1",
+      "jobId": "datadog-partner-marketing-manager-public-sector-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote",
+      "company": "datadog",
+      "title": "Partner Marketing Manager (Public Sector)",
+      "postedToDiscord": "2026-01-20T06:25:21.190Z",
+      "sourceDate": "2026-01-12T12:36:11-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
+      "discordThreadId": "1463056776512536774",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1475,
+    "totalJobs": 1484,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T06:12:27.251Z",
+      "date": "2026-01-20T06:25:21.190Z",
       "archived": 0
     }
   }
