@@ -152,13 +152,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1834 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1830 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1834 roles
-- **🏢 Companies**: 204 companies  
+- **📁 Total Positions**: 1830 roles
+- **🏢 Companies**: 200 companies  
 - **⭐ FAANG+ Opportunities**: 87 positions
 
 ### ⭐ **FAANG+** (85 positions)
@@ -432,7 +432,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |------|----------|-------|-----------|-----|
 | Finance & Data Analytics Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/10xgenomics/jobs/7516617) | 1w |
 
-### 🏭 **Manufacturing & Industrial** (21 positions)
+### 🏭 **Manufacturing & Industrial** (20 positions)
 
 #### ⚗️ **Applied Materials** (1 position)
 
@@ -476,12 +476,11 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |------|----------|-------|-----------|-----|
 | Software Engineer Co-op | Huntsville, AL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.siemens.com/careers/job/563156132037214) | 1mo |
 
-#### 📡 **Analog Devices** (3 positions)
+#### 📡 **Analog Devices** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Data Analytics Intern | Burlington, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Data-Analytics-Intern_R258069) | 1mo |
-| Robot Learning Intern - PhD | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Robot-Learning-Intern--PhD-_R257051) | 1mo |
 | Applications Engineer Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1) | 1mo |
 
 #### 🏗️ **Honeywell** (1 position)
