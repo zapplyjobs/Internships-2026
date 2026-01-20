@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T15:51:17.796Z",
+  "lastUpdated": "2026-01-20T16:19:52.636Z",
   "jobs": [
-    {
-      "id": "westinghouse-electric-company-collaboration-automation-intern-grove-city-2026-01-13-1",
-      "jobId": "westinghouse-electric-company-collaboration-automation-intern-grove-city",
-      "company": "Westinghouse Electric Company",
-      "title": "Collaboration Automation Intern",
-      "postedToDiscord": "2026-01-13T16:05:01.591Z",
-      "sourceDate": "2025-12-10T23:12:11.000Z",
-      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Collaboration-Automation-Intern-Summer-2026-NC/1338434100/?ats=successfactors",
-      "discordThreadId": "1460665940856537130",
-      "instanceNumber": 1
-    },
     {
       "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
       "jobId": "visa-software-engineer-highlands-ranch",
@@ -18767,14 +18756,36 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002",
       "discordThreadId": "1463199201235304617",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-ios-software-engineer-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-ios-software-engineer-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior iOS Software Engineer",
+      "postedToDiscord": "2026-01-20T16:19:49.259Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318257002?gh_jid=8318257002",
+      "discordThreadId": "1463206377941111037",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-site-reliability-engineer-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-site-reliability-engineer-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior Site Reliability Engineer",
+      "postedToDiscord": "2026-01-20T16:19:52.635Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8100021002?gh_jid=8100021002",
+      "discordThreadId": "1463206394097303582",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1706,
+    "totalJobs": 1707,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T15:51:17.796Z",
+      "date": "2026-01-20T16:19:52.636Z",
       "archived": 0
     }
   }
