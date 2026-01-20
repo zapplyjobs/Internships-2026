@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:15:18.069Z",
+  "lastUpdated": "2026-01-20T10:31:28.347Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -18008,14 +18008,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7065807/?gh_jid=7065807",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-product-marketing-manager-ai-new-york-new-york-usa-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-senior-product-marketing-manager-ai-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (AI)",
+      "postedToDiscord": "2026-01-20T10:30:54.499Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7182750/?gh_jid=7182750",
+      "discordThreadId": "1463118572351000701",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-software-engineer-ai-code-gen-agent-engineer-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-software-engineer-ai-code-gen-agent-engineer-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
+      "postedToDiscord": "2026-01-20T10:30:57.892Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875",
+      "discordThreadId": "1463118587240910893",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-product-marketing-manager-ai-security-new-york-new-york-usa-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-senior-product-marketing-manager-ai-security-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (AI Security)",
+      "postedToDiscord": "2026-01-20T10:31:04.344Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7373098/?gh_jid=7373098",
+      "discordThreadId": "1463118614277390378",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-product-marketing-manager-cloud-cost-management-new-york-new-york-usa-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-senior-product-marketing-manager-cloud-cost-management-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Senior Product Marketing Manager (Cloud Cost Management)",
+      "postedToDiscord": "2026-01-20T10:31:07.754Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7329541/?gh_jid=7329541",
+      "discordThreadId": "1463118628651139072",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-security-engineer-threat-detection-engineering-boston-massachusetts-usa-denver-colorado-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-security-engineer-threat-detection-engineering-boston-massachusetts-usa-denver-colorado-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Security Engineer - Threat Detection Engineering",
+      "postedToDiscord": "2026-01-20T10:31:11.182Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7521096/?gh_jid=7521096",
+      "discordThreadId": "1463118642794463275",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-software-engineer-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-software-engineer-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Software Engineer ",
+      "postedToDiscord": "2026-01-20T10:31:14.785Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935",
+      "discordThreadId": "1463118657310949509",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-sales-engineer-chicago-illinois-usa-minnesota-usa-remote-2026-01-20-1",
+      "jobId": "datadog-senior-sales-engineer-chicago-illinois-usa-minnesota-usa-remote",
+      "company": "datadog",
+      "title": "Senior Sales Engineer",
+      "postedToDiscord": "2026-01-20T10:31:21.249Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368",
+      "discordThreadId": "1463118684808810662",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-sales-engineer-majors-northeast-new-jersey-usa-remote-2026-01-20-1",
+      "jobId": "datadog-senior-sales-engineer-majors-northeast-new-jersey-usa-remote",
+      "company": "datadog",
+      "title": "Senior Sales Engineer - Majors Northeast",
+      "postedToDiscord": "2026-01-20T10:31:21.261Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7393792/?gh_jid=7393792",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-security-engineer-data-security-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-security-engineer-data-security-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Security Engineer, Data Security",
+      "postedToDiscord": "2026-01-20T10:31:28.347Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7440306/?gh_jid=7440306",
+      "discordThreadId": "1463118712902123655",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1637,
+    "totalJobs": 1646,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T10:15:18.069Z",
+      "date": "2026-01-20T10:31:28.347Z",
       "archived": 0
     }
   }
