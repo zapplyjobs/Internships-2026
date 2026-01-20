@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T15:19:30.172Z",
+  "lastUpdated": "2026-01-20T15:51:17.796Z",
   "jobs": [
     {
       "id": "westinghouse-electric-company-collaboration-automation-intern-grove-city-2026-01-13-1",
@@ -18734,16 +18734,48 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002",
       "discordThreadId": "1463191200155570329",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-head-of-brand-campaigns-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-head-of-brand-campaigns-new-york-ny",
+      "company": "duolingo",
+      "title": "Head of Brand Campaigns",
+      "postedToDiscord": "2026-01-20T15:51:07.854Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8224301002?gh_jid=8224301002",
+      "discordThreadId": "1463199159304847374",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-android-engineer-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-android-engineer-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior Android Engineer",
+      "postedToDiscord": "2026-01-20T15:51:14.455Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002",
+      "discordThreadId": "1463199186630475991",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-ios-engineer-app-builds-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-ios-engineer-app-builds-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-20T15:51:17.796Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002",
+      "discordThreadId": "1463199201235304617",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1703,
+    "totalJobs": 1706,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T15:19:30.172Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-20T15:51:17.796Z",
+      "archived": 0
     }
   }
 }
