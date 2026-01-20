@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T03:18:09.604Z",
+  "lastUpdated": "2026-01-20T03:54:20.267Z",
   "jobs": [
-    {
-      "id": "t-mobile-summer-2026-software-engineering-internship-bellevue-2026-01-13-1",
-      "jobId": "t-mobile-summer-2026-software-engineering-internship-bellevue",
-      "company": "T-Mobile",
-      "title": "Summer 2026 Software Engineering Internship",
-      "postedToDiscord": "2026-01-13T03:46:45.613Z",
-      "sourceDate": "2026-01-13T02:24:22.000Z",
-      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Software-Engineering-Internship_REQ341138",
-      "discordThreadId": "1460480150360821774",
-      "instanceNumber": 1
-    },
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
       "jobId": "icf-intern-software-developer-reston",
@@ -15247,14 +15236,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6363655",
       "discordThreadId": "1463009668157673735",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-sales-development-chicago-2026-01-20-1",
+      "jobId": "stripe-manager-sales-development-chicago",
+      "company": "stripe",
+      "title": "Manager, Sales Development",
+      "postedToDiscord": "2026-01-20T03:53:58.546Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7443750",
+      "discordThreadId": "1463018680651616429",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-smb-account-executives-existing-business-chicago-2026-01-20-1",
+      "jobId": "stripe-manager-smb-account-executives-existing-business-chicago",
+      "company": "stripe",
+      "title": "Manager, SMB Account Executives - Existing Business",
+      "postedToDiscord": "2026-01-20T03:54:01.998Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7366142",
+      "discordThreadId": "1463018695923077212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-startups-account-executives-existing-business-chicago-2026-01-20-1",
+      "jobId": "stripe-manager-startups-account-executives-existing-business-chicago",
+      "company": "stripe",
+      "title": "Manager, Startups Account Executives - Existing Business",
+      "postedToDiscord": "2026-01-20T03:54:05.533Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7368924",
+      "discordThreadId": "1463018710049493047",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-startups-account-executives-new-business-new-york-san-fransisco-2026-01-20-1",
+      "jobId": "stripe-manager-startups-account-executives-new-business-new-york-san-fransisco",
+      "company": "stripe",
+      "title": "Manager, Startups Account Executives - New Business",
+      "postedToDiscord": "2026-01-20T03:54:05.545Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7394697",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-velocity-platforms-account-executives-existing-business-chicago-2026-01-20-1",
+      "jobId": "stripe-manager-velocity-platforms-account-executives-existing-business-chicago",
+      "company": "stripe",
+      "title": "Manager, Velocity Platforms Account Executives - Existing Business",
+      "postedToDiscord": "2026-01-20T03:54:09.011Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7369298",
+      "discordThreadId": "1463018724800860265",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-velocity-platforms-account-executives-new-business-chicago-2026-01-20-1",
+      "jobId": "stripe-manager-velocity-platforms-account-executives-new-business-chicago",
+      "company": "stripe",
+      "title": "Manager, Velocity Platforms Account Executives - New Business",
+      "postedToDiscord": "2026-01-20T03:54:09.023Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7369289",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-marketing-services-program-manager-global-us-national-2026-01-20-1",
+      "jobId": "stripe-marketing-services-program-manager-global-us-national",
+      "company": "stripe",
+      "title": "Marketing Services Program Manager, Global",
+      "postedToDiscord": "2026-01-20T03:54:13.741Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7253148",
+      "discordThreadId": "1463018752403570882",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-merchant-risk-specialist-atlanta-ga-2026-01-20-1",
+      "jobId": "stripe-merchant-risk-specialist-atlanta-ga",
+      "company": "stripe",
+      "title": "Merchant Risk Specialist",
+      "postedToDiscord": "2026-01-20T03:54:18.577Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7452395",
+      "discordThreadId": "1463018772263600169",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-monetization-services-analyst-us-sea-2026-01-20-1",
+      "jobId": "stripe-monetization-services-analyst-us-sea",
+      "company": "stripe",
+      "title": " Monetization Services Analyst",
+      "postedToDiscord": "2026-01-20T03:54:20.267Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7246905",
+      "discordThreadId": "1463018779880722454",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1386,
+    "totalJobs": 1394,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T03:18:09.604Z",
+      "date": "2026-01-20T03:54:20.267Z",
       "archived": 0
     }
   }
