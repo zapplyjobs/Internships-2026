@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T20:37:43.075Z",
+  "lastUpdated": "2026-01-20T20:52:19.060Z",
   "jobs": [
-    {
-      "id": "visa-software-engineer-intern-atlanta-2026-01-13-1",
-      "jobId": "visa-software-engineer-intern-atlanta",
-      "company": "Visa",
-      "title": "Software Engineer – Intern",
-      "postedToDiscord": "2026-01-13T20:43:28.820Z",
-      "sourceDate": "2026-01-13T16:17:59.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103273574",
-      "discordThreadId": "1460736016540238059",
-      "instanceNumber": 1
-    },
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
       "jobId": "assetmark-data-intern-charlotte",
@@ -19372,14 +19361,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8318377002",
       "discordThreadId": "1463271280748003411",
       "instanceNumber": 1
+    },
+    {
+      "id": "airtable-scaled-customer-success-manager-san-francisco-ca-new-york-ny-austin-tx-2026-01-20-1",
+      "jobId": "airtable-scaled-customer-success-manager-san-francisco-ca-new-york-ny-austin-tx",
+      "company": "airtable",
+      "title": "Scaled Customer Success Manager",
+      "postedToDiscord": "2026-01-20T20:51:43.282Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8292724002",
+      "discordThreadId": "1463274804005310626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-manager-finance-systems-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-senior-manager-finance-systems-san-francisco-ca",
+      "company": "airtable",
+      "title": "Senior Manager, Finance Systems",
+      "postedToDiscord": "2026-01-20T20:51:46.821Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8229185002",
+      "discordThreadId": "1463274820002123796",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-solutions-consultant-new-york-ny-remote-east-coast-2026-01-20-1",
+      "jobId": "airtable-senior-solutions-consultant-new-york-ny-remote-east-coast",
+      "company": "airtable",
+      "title": "Senior Solutions Consultant",
+      "postedToDiscord": "2026-01-20T20:51:50.325Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7982552002",
+      "discordThreadId": "1463274835022188684",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-enterprise-marketing-manager-san-francisco-ca-new-york-ny-austin-tx-remote-us-2026-01-20-1",
+      "jobId": "airtable-senior-enterprise-marketing-manager-san-francisco-ca-new-york-ny-austin-tx-remote-us",
+      "company": "airtable",
+      "title": "Senior Enterprise Marketing Manager",
+      "postedToDiscord": "2026-01-20T20:51:56.756Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8230656002",
+      "discordThreadId": "1463274861685379073",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-growth-marketing-manager-builders-san-francisco-ca-remote-us-2026-01-20-1",
+      "jobId": "airtable-senior-growth-marketing-manager-builders-san-francisco-ca-remote-us",
+      "company": "airtable",
+      "title": "Senior Growth Marketing Manager, Builders",
+      "postedToDiscord": "2026-01-20T20:52:00.392Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8077213002",
+      "discordThreadId": "1463274876600062093",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-manager-people-systems-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-senior-manager-people-systems-san-francisco-ca",
+      "company": "airtable",
+      "title": "Senior Manager, People Systems",
+      "postedToDiscord": "2026-01-20T20:52:03.840Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8235618002",
+      "discordThreadId": "1463274891427053662",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-product-marketing-manager-customer-remote-us-2026-01-20-1",
+      "jobId": "airtable-senior-product-marketing-manager-customer-remote-us",
+      "company": "airtable",
+      "title": "Senior Product Marketing Manager, Customer",
+      "postedToDiscord": "2026-01-20T20:52:07.225Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170189002",
+      "discordThreadId": "1463274906027429900",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-software-engineer-android-san-francisco-ca-new-york-city-ny-2026-01-20-1",
+      "jobId": "airtable-software-engineer-android-san-francisco-ca-new-york-city-ny",
+      "company": "airtable",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-20T20:52:13.789Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7953553002",
+      "discordThreadId": "1463274933156315300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-software-engineer-infrastructure-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only-2026-01-20-1",
+      "jobId": "airtable-software-engineer-infrastructure-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (8+ YOE)",
+      "postedToDiscord": "2026-01-20T20:52:19.059Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845295002",
+      "discordThreadId": "1463274947819470933",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1761,
+    "totalJobs": 1769,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T20:37:43.075Z",
+      "date": "2026-01-20T20:52:19.060Z",
       "archived": 0
     }
   }
