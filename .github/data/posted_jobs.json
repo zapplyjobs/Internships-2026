@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T22:03:57.179Z",
+  "lastUpdated": "2026-01-20T22:18:21.478Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20153,14 +20153,113 @@
       "sourceUrl": "https://www.brex.com/careers/8303858002?gh_jid=8303858002",
       "discordThreadId": "1463292982630416497",
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-accounting-manager-legal-entity-controllership-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-accounting-manager-legal-entity-controllership-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-20T22:18:05.638Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303855002?gh_jid=8303855002",
+      "discordThreadId": "1463296540071428158",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-accounting-manager-legal-entity-controllership-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-accounting-manager-legal-entity-controllership-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-20T22:18:05.653Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8302391002?gh_jid=8302391002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-accounting-manager-legal-entity-controllership-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-accounting-manager-legal-entity-controllership-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-20T22:18:05.669Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303852002?gh_jid=8303852002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-banking-specialist-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-banking-specialist-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Banking Specialist",
+      "postedToDiscord": "2026-01-20T22:18:11.100Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8106987002?gh_jid=8106987002",
+      "discordThreadId": "1463296556680740875",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-banking-specialist-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-banking-specialist-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Banking Specialist",
+      "postedToDiscord": "2026-01-20T22:18:11.116Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8106949002?gh_jid=8106949002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-commercial-account-executive-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-commercial-account-executive-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-20T22:18:14.857Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178537002?gh_jid=8178537002",
+      "discordThreadId": "1463296579195637921",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-commercial-account-executive-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-commercial-account-executive-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-20T22:18:14.870Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178536002?gh_jid=8178536002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-commercial-account-executive-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-commercial-account-executive-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-20T22:18:14.883Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178541002?gh_jid=8178541002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-associate-technical-consultant-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-associate-technical-consultant-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T22:18:21.477Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316338002?gh_jid=8316338002",
+      "discordThreadId": "1463296607905910909",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1832,
+    "totalJobs": 1841,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T22:03:57.179Z",
+      "date": "2026-01-20T22:18:21.478Z",
       "archived": 0
     }
   }
