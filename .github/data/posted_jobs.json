@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T17:20:36.430Z",
+  "lastUpdated": "2026-01-20T17:35:23.156Z",
   "jobs": [
     {
       "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
@@ -18866,14 +18866,36 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8301519002?gh_jid=8301519002",
       "discordThreadId": "1463221676857757746",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-staff-ios-engineer-app-builds-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-staff-ios-engineer-app-builds-new-york-ny",
+      "company": "duolingo",
+      "title": "Staff iOS Engineer, App Builds",
+      "postedToDiscord": "2026-01-20T17:35:19.681Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002",
+      "discordThreadId": "1463225381103599629",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-staff-product-designer-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-staff-product-designer-new-york-ny",
+      "company": "duolingo",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-20T17:35:23.156Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002",
+      "discordThreadId": "1463225396047646771",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1715,
+    "totalJobs": 1717,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T17:20:36.430Z",
+      "date": "2026-01-20T17:35:23.156Z",
       "archived": 0
     }
   }
