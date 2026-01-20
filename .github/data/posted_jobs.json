@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T09:38:10.018Z",
+  "lastUpdated": "2026-01-20T09:51:47.658Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17711,14 +17711,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012",
       "discordThreadId": "1463105299350032439",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-premier-support-engineer-2-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-premier-support-engineer-2-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Premier Support Engineer 2",
+      "postedToDiscord": "2026-01-20T09:51:22.451Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
+      "discordThreadId": "1463108623616966845",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-premier-support-engineer-2-new-york-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-premier-support-engineer-2-new-york-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Premier Support Engineer 2 - New York",
+      "postedToDiscord": "2026-01-20T09:51:22.466Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7095084/?gh_jid=7095084",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-premier-support-engineer-3-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-premier-support-engineer-3-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Premier Support Engineer 3 - NYC",
+      "postedToDiscord": "2026-01-20T09:51:25.805Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493",
+      "discordThreadId": "1463108637810626683",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-product-marketing-manager-product-analytics-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-product-marketing-manager-product-analytics-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Product Marketing Manager (Product Analytics)",
+      "postedToDiscord": "2026-01-20T09:51:29.255Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7429838/?gh_jid=7429838",
+      "discordThreadId": "1463108652058542131",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-product-manager-ii-incident-management-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-product-manager-ii-incident-management-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Product Manager II - Incident Management",
+      "postedToDiscord": "2026-01-20T09:51:35.878Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6970128/?gh_jid=6970128",
+      "discordThreadId": "1463108679531233280",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-product-manager-ii-software-delivery-suite-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-product-manager-ii-software-delivery-suite-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Product Manager II - Software Delivery Suite",
+      "postedToDiscord": "2026-01-20T09:51:35.893Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-regional-manager-sales-engineer-key-accounts-east-massachusetts-usa-remote-new-jersey-usa-remote-new-york-usa-remote-2026-01-20-1",
+      "jobId": "datadog-regional-manager-sales-engineer-key-accounts-east-massachusetts-usa-remote-new-jersey-usa-remote-new-york-usa-remote",
+      "company": "datadog",
+      "title": "Regional Manager, Sales Engineer - Key Accounts (East)",
+      "postedToDiscord": "2026-01-20T09:51:42.631Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7516179/?gh_jid=7516179",
+      "discordThreadId": "1463108707180216321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-development-representative-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-sales-development-representative-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Sales Development Representative (Denver)",
+      "postedToDiscord": "2026-01-20T09:51:44.271Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7137624/?gh_jid=7137624",
+      "discordThreadId": "1463108722594418750",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-development-representative-latam-spanish-speaking-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-sales-development-representative-latam-spanish-speaking-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Sales Development Representative (LATAM - Spanish Speaking)",
+      "postedToDiscord": "2026-01-20T09:51:47.658Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
+      "discordThreadId": "1463108729666015334",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1610,
+    "totalJobs": 1619,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T09:38:10.018Z",
+      "date": "2026-01-20T09:51:47.658Z",
       "archived": 0
     }
   }
