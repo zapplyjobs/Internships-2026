@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:01:13.122Z",
+  "lastUpdated": "2026-01-20T10:15:18.069Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17909,14 +17909,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7382522/?gh_jid=7382522",
       "discordThreadId": "1463111101129425049",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-customer-data-scientist-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-customer-data-scientist-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Customer Data Scientist",
+      "postedToDiscord": "2026-01-20T10:14:38.786Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7406998/?gh_jid=7406998",
+      "discordThreadId": "1463114479314407558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-fp-a-analyst-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-fp-a-analyst-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior FP&A Analyst - NYC",
+      "postedToDiscord": "2026-01-20T10:14:42.336Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467351/?gh_jid=7467351",
+      "discordThreadId": "1463114494614962199",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-developer-advocate-generative-ai-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-senior-developer-advocate-generative-ai-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Senior Developer Advocate - Generative AI",
+      "postedToDiscord": "2026-01-20T10:14:48.870Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7123951/?gh_jid=7123951",
+      "discordThreadId": "1463114522230259826",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-field-enablement-manager-leadership-development-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-field-enablement-manager-leadership-development-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Field Enablement Manager - Leadership Development",
+      "postedToDiscord": "2026-01-20T10:14:57.769Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7494521/?gh_jid=7494521",
+      "discordThreadId": "1463114549535178912",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-gtm-compensation-partner-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-gtm-compensation-partner-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior GTM Compensation Partner - NYC",
+      "postedToDiscord": "2026-01-20T10:15:01.321Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7275536/?gh_jid=7275536",
+      "discordThreadId": "1463114574545813597",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-manager-people-business-partner-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-manager-people-business-partner-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Manager, People Business Partner - NYC",
+      "postedToDiscord": "2026-01-20T10:15:07.858Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7341691/?gh_jid=7341691",
+      "discordThreadId": "1463114602110783558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-product-designer-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-product-designer-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Product Designer",
+      "postedToDiscord": "2026-01-20T10:15:11.280Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7394266/?gh_jid=7394266",
+      "discordThreadId": "1463114616639979554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-product-manager-cost-and-usage-experience-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-product-manager-cost-and-usage-experience-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Product Manager - Cost and Usage Experience",
+      "postedToDiscord": "2026-01-20T10:15:18.055Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7411148/?gh_jid=7411148",
+      "discordThreadId": "1463114644272058379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-product-manager-database-ai-optimization-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-product-manager-database-ai-optimization-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Product Manager - Database AI Optimization",
+      "postedToDiscord": "2026-01-20T10:15:18.069Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7065807/?gh_jid=7065807",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1628,
+    "totalJobs": 1637,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T10:01:13.122Z",
+      "date": "2026-01-20T10:15:18.069Z",
       "archived": 0
     }
   }
