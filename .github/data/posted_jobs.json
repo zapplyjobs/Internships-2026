@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T09:51:47.658Z",
+  "lastUpdated": "2026-01-20T10:01:13.122Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17810,14 +17810,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7003239/?gh_jid=7003239",
       "discordThreadId": "1463108729666015334",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-development-representative-summer-2026-graduates-portuguese-speaking-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-sales-development-representative-summer-2026-graduates-portuguese-speaking-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-20T10:00:46.048Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012",
+      "discordThreadId": "1463110987371774005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-development-representative-summer-2026-graduates-spanish-speaking-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-sales-development-representative-summer-2026-graduates-spanish-speaking-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Sales Development Representative - Summer 2026 Graduates (Spanish Speaking)",
+      "postedToDiscord": "2026-01-20T10:00:46.062Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251992/?gh_jid=7251992",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-engineer-customer-success-boston-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-sales-engineer-customer-success-boston-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Sales Engineer (Customer Success) - Boston",
+      "postedToDiscord": "2026-01-20T10:00:49.951Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7491955/?gh_jid=7491955",
+      "discordThreadId": "1463111001863098440",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-engineer-customer-success-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-sales-engineer-customer-success-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Sales Engineer (Customer Success) - Denver",
+      "postedToDiscord": "2026-01-20T10:00:49.964Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7215574/?gh_jid=7215574",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-engineer-customer-success-spanish-speaking-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-sales-engineer-customer-success-spanish-speaking-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Sales Engineer (Customer Success - Spanish Speaking)",
+      "postedToDiscord": "2026-01-20T10:00:49.976Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7358137/?gh_jid=7358137",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-security-engineer-ii-risk-engineering-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-security-engineer-ii-risk-engineering-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Security Engineer II, Risk Engineering",
+      "postedToDiscord": "2026-01-20T10:00:56.655Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7373580/?gh_jid=7373580",
+      "discordThreadId": "1463111031441063987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-ai-engineer-apm-experiences-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-ai-engineer-apm-experiences-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior AI Engineer - APM Experiences",
+      "postedToDiscord": "2026-01-20T10:01:03.255Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7415266/?gh_jid=7415266",
+      "discordThreadId": "1463111059467665489",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-atlassian-administrator-enterprise-it-operations-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-atlassian-administrator-enterprise-it-operations-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Atlassian Administrator - Enterprise IT Operations",
+      "postedToDiscord": "2026-01-20T10:01:09.695Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7359328/?gh_jid=7359328",
+      "discordThreadId": "1463111086936035419",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-counsel-corporate-m-a-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-senior-counsel-corporate-m-a-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Counsel, Corporate & M&A",
+      "postedToDiscord": "2026-01-20T10:01:13.122Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7382522/?gh_jid=7382522",
+      "discordThreadId": "1463111101129425049",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1619,
+    "totalJobs": 1628,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T09:51:47.658Z",
+      "date": "2026-01-20T10:01:13.122Z",
       "archived": 0
     }
   }
