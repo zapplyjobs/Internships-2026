@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:17:56.462Z",
+  "lastUpdated": "2026-01-20T07:24:58.695Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16622,14 +16622,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7407322",
       "discordThreadId": "1463070010837831753",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-staff-software-engineer-database-infrastructure-denver-co-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "gusto-staff-software-engineer-database-infrastructure-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Staff Software Engineer, Database Infrastructure",
+      "postedToDiscord": "2026-01-20T07:24:14.717Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7413644",
+      "discordThreadId": "1463071597144313961",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-technical-enterprise-client-success-manager-symmetry-scottsdale-az-2026-01-20-1",
+      "jobId": "gusto-technical-enterprise-client-success-manager-symmetry-scottsdale-az",
+      "company": "gusto",
+      "title": "Technical Enterprise Client Success Manager - Symmetry",
+      "postedToDiscord": "2026-01-20T07:24:21.435Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7421455",
+      "discordThreadId": "1463071624743096407",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-enterprise-application-ai-architect-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa-2026-01-20-1",
+      "jobId": "gusto-enterprise-application-ai-architect-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa",
+      "company": "gusto",
+      "title": "Enterprise Application AI Architect",
+      "postedToDiscord": "2026-01-20T07:24:25.059Z",
+      "sourceDate": "2026-01-09T15:41:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
+      "discordThreadId": "1463071640135929980",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-future-opportunities-benefits-advocate-denver-co-chicago-il-phoenix-az-las-vegas-nv-2026-01-20-1",
+      "jobId": "gusto-future-opportunities-benefits-advocate-denver-co-chicago-il-phoenix-az-las-vegas-nv",
+      "company": "gusto",
+      "title": "Future Opportunities: Benefits Advocate",
+      "postedToDiscord": "2026-01-20T07:24:31.667Z",
+      "sourceDate": "2026-01-09T15:41:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7379034",
+      "discordThreadId": "1463071668044824619",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-future-opportunities-payroll-advocate-denver-co-chicago-il-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-future-opportunities-payroll-advocate-denver-co-chicago-il-phoenix-az",
+      "company": "gusto",
+      "title": "Future Opportunities: Payroll Advocate",
+      "postedToDiscord": "2026-01-20T07:24:35.218Z",
+      "sourceDate": "2026-01-09T15:41:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7379026",
+      "discordThreadId": "1463071683022815243",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-future-opportunities-retirement-advocate-denver-co-chicago-il-phoenix-az-las-vegas-nv-2026-01-20-1",
+      "jobId": "gusto-future-opportunities-retirement-advocate-denver-co-chicago-il-phoenix-az-las-vegas-nv",
+      "company": "gusto",
+      "title": "Future Opportunities: Retirement Advocate",
+      "postedToDiscord": "2026-01-20T07:24:38.709Z",
+      "sourceDate": "2026-01-09T15:41:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7379039",
+      "discordThreadId": "1463071697870651466",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-head-of-business-systems-analysts-revenue-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa-2026-01-20-1",
+      "jobId": "gusto-head-of-business-systems-analysts-revenue-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa",
+      "company": "gusto",
+      "title": "Head of Business Systems Analysts, Revenue",
+      "postedToDiscord": "2026-01-20T07:24:45.470Z",
+      "sourceDate": "2026-01-09T15:41:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7391273",
+      "discordThreadId": "1463071724969922582",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-product-marketing-manager-payroll-gtm-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-senior-product-marketing-manager-payroll-gtm-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az",
+      "company": "gusto",
+      "title": "Senior Product Marketing Manager, Payroll GTM",
+      "postedToDiscord": "2026-01-20T07:24:51.881Z",
+      "sourceDate": "2026-01-09T15:41:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7383685",
+      "discordThreadId": "1463071753579270302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-future-opportunities-accountant-sales-talent-united-states-atlanta-ga-remote-united-states-chicago-il-remote-united-states-denver-co-united-states-las-vegas-nv-remote-united-states-phoenix-az-remote-2026-01-20-1",
+      "jobId": "gusto-future-opportunities-accountant-sales-talent-united-states-atlanta-ga-remote-united-states-chicago-il-remote-united-states-denver-co-united-states-las-vegas-nv-remote-united-states-phoenix-az-remote",
+      "company": "gusto",
+      "title": "Future Opportunities: Accountant Sales Talent",
+      "postedToDiscord": "2026-01-20T07:24:58.694Z",
+      "sourceDate": "2026-01-09T15:41:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7378953",
+      "discordThreadId": "1463071780607623293",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1511,
+    "totalJobs": 1520,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T07:17:56.462Z",
+      "date": "2026-01-20T07:24:58.695Z",
       "archived": 0
     }
   }
