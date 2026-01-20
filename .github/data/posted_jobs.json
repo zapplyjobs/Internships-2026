@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T04:57:14.022Z",
+  "lastUpdated": "2026-01-20T05:09:38.441Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -15632,14 +15632,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7260872",
       "discordThreadId": "1463034598756847646",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-proposal-lead-us-remote-2026-01-20-1",
+      "jobId": "stripe-proposal-lead-us-remote",
+      "company": "stripe",
+      "title": "Proposal Lead",
+      "postedToDiscord": "2026-01-20T05:09:15.745Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7456714",
+      "discordThreadId": "1463037635281944637",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-development-representative-chicago-illinois-2026-01-20-1",
+      "jobId": "stripe-sales-development-representative-chicago-illinois",
+      "company": "stripe",
+      "title": "Sales Development Representative",
+      "postedToDiscord": "2026-01-20T05:09:19.119Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6570253",
+      "discordThreadId": "1463037642294952038",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-development-representative-bridge-san-francisco-or-new-york-2026-01-20-1",
+      "jobId": "stripe-sales-development-representative-bridge-san-francisco-or-new-york",
+      "company": "stripe",
+      "title": "Sales Development Representative, Bridge",
+      "postedToDiscord": "2026-01-20T05:09:23.063Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7505572",
+      "discordThreadId": "1463037658535297045",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-manager-enterprise-platforms-hunter-team-san-francisco-ca-2026-01-20-1",
+      "jobId": "stripe-sales-manager-enterprise-platforms-hunter-team-san-francisco-ca",
+      "company": "stripe",
+      "title": "Sales Manager, Enterprise Platforms; Hunter Team",
+      "postedToDiscord": "2026-01-20T05:09:26.727Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7375436",
+      "discordThreadId": "1463037673131479192",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-manager-existing-business-us-2026-01-20-1",
+      "jobId": "stripe-sales-manager-existing-business-us",
+      "company": "stripe",
+      "title": "Sales Manager Existing Business",
+      "postedToDiscord": "2026-01-20T05:09:28.426Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7508817",
+      "discordThreadId": "1463037688390094962",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-manager-platforms-existing-business-us-sf-2026-01-20-1",
+      "jobId": "stripe-sales-manager-platforms-existing-business-us-sf",
+      "company": "stripe",
+      "title": "Sales Manager, Platforms (Existing Business)",
+      "postedToDiscord": "2026-01-20T05:09:30.136Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7375100",
+      "discordThreadId": "1463037695080140883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-manager-platforms-existing-business-us-nyc-2026-01-20-1",
+      "jobId": "stripe-sales-manager-platforms-existing-business-us-nyc",
+      "company": "stripe",
+      "title": "Sales Manager, Platforms (Existing Business)",
+      "postedToDiscord": "2026-01-20T05:09:30.147Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7522069",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-strategy-operations-analyst-platform-sales-chi-atl-us-remote-2026-01-20-1",
+      "jobId": "stripe-sales-strategy-operations-analyst-platform-sales-chi-atl-us-remote",
+      "company": "stripe",
+      "title": "Sales Strategy & Operations Analyst, Platform Sales",
+      "postedToDiscord": "2026-01-20T05:09:31.900Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7411273",
+      "discordThreadId": "1463037702822695044",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-saas-platforms-solutions-architecture-manager-chicago-il-2026-01-20-1",
+      "jobId": "stripe-saas-platforms-solutions-architecture-manager-chicago-il",
+      "company": "stripe",
+      "title": "SaaS Platforms Solutions Architecture Manager",
+      "postedToDiscord": "2026-01-20T05:09:38.441Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7394633",
+      "discordThreadId": "1463037722464620578",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1421,
+    "totalJobs": 1430,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T04:57:14.022Z",
+      "date": "2026-01-20T05:09:38.441Z",
       "archived": 0
     }
   }
