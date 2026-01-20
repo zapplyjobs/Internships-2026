@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T09:09:10.936Z",
+  "lastUpdated": "2026-01-20T09:22:05.435Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17513,14 +17513,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194",
       "discordThreadId": "1463098005220757586",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-1-technical-escalations-engineering-us-east-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-1-technical-escalations-engineering-us-east-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager 1, Technical Escalations Engineering - US-East",
+      "postedToDiscord": "2026-01-20T09:21:44.804Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7380289/?gh_jid=7380289",
+      "discordThreadId": "1463101167231045725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-2-premier-support-engineering-boston-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-manager-2-premier-support-engineering-boston-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Manager 2, Premier Support Engineering -  Boston",
+      "postedToDiscord": "2026-01-20T09:21:48.364Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496250/?gh_jid=7496250",
+      "discordThreadId": "1463101182099591198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-2-premier-support-engineering-new-york-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-2-premier-support-engineering-new-york-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager 2, Premier Support Engineering - New York",
+      "postedToDiscord": "2026-01-20T09:21:48.377Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7173061/?gh_jid=7173061",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-i-developer-advocacy-california-usa-remote-colorado-usa-remote-massachusetts-usa-remote-new-york-usa-remote-2026-01-20-1",
+      "jobId": "datadog-manager-i-developer-advocacy-california-usa-remote-colorado-usa-remote-massachusetts-usa-remote-new-york-usa-remote",
+      "company": "datadog",
+      "title": "Manager I, Developer Advocacy",
+      "postedToDiscord": "2026-01-20T09:21:51.829Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7414003/?gh_jid=7414003",
+      "discordThreadId": "1463101197203410985",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-i-engineering-apm-sdk-capabilities-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-i-engineering-apm-sdk-capabilities-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager I, Engineering - APM SDK Capabilities",
+      "postedToDiscord": "2026-01-20T09:21:55.375Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308962/?gh_jid=7308962",
+      "discordThreadId": "1463101211468107840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-i-engineering-infrastructure-remediation-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-i-engineering-infrastructure-remediation-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Infrastructure Remediation",
+      "postedToDiscord": "2026-01-20T09:21:55.387Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6881788/?gh_jid=6881788",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-i-engineering-cloud-siem-security-data-enrichment-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-i-engineering-cloud-siem-security-data-enrichment-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Cloud SIEM - Security Data Enrichment",
+      "postedToDiscord": "2026-01-20T09:21:58.872Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308805/?gh_jid=7308805",
+      "discordThreadId": "1463101226626580728",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-commercial-sales-engineering-amer-west-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-manager-commercial-sales-engineering-amer-west-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Manager, Commercial Sales Engineering (AMER - West)",
+      "postedToDiscord": "2026-01-20T09:22:03.612Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7456376/?gh_jid=7456376",
+      "discordThreadId": "1463101253679583349",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-customer-success-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-manager-customer-success-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Manager, Customer Success - Denver",
+      "postedToDiscord": "2026-01-20T09:22:05.435Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7488348/?gh_jid=7488348",
+      "discordThreadId": "1463101260948570239",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1592,
+    "totalJobs": 1601,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T09:09:10.936Z",
+      "date": "2026-01-20T09:22:05.435Z",
       "archived": 0
     }
   }
