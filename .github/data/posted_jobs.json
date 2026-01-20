@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T19:49:56.522Z",
+  "lastUpdated": "2026-01-20T20:17:57.919Z",
   "jobs": [
     {
       "id": "visa-software-engineer-intern-atlanta-2026-01-13-1",
@@ -19174,14 +19174,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739572004?gh_jid=5739572004",
       "discordThreadId": "1463259257204899842",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-executive-assistant-product-support-san-francisco-ca-2026-01-20-1",
+      "jobId": "figma-executive-assistant-product-support-san-francisco-ca",
+      "company": "figma",
+      "title": "Executive Assistant, Product Support ",
+      "postedToDiscord": "2026-01-20T20:17:19.433Z",
+      "sourceDate": "2025-12-18T18:49:15-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5575026004?gh_jid=5575026004",
+      "discordThreadId": "1463266148836577425",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-account-executive-commercial-accounts-austin-tx-2026-01-20-1",
+      "jobId": "airtable-account-executive-commercial-accounts-austin-tx",
+      "company": "airtable",
+      "title": "Account Executive, Commercial Accounts",
+      "postedToDiscord": "2026-01-20T20:17:22.892Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883535002",
+      "discordThreadId": "1463266163491602526",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-business-development-representative-austin-tx-2026-01-20-1",
+      "jobId": "airtable-business-development-representative-austin-tx",
+      "company": "airtable",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-20T20:17:26.282Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7891770002",
+      "discordThreadId": "1463266177630470301",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-field-marketing-specialist-west-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-field-marketing-specialist-west-san-francisco-ca",
+      "company": "airtable",
+      "title": "Field Marketing Specialist, West",
+      "postedToDiscord": "2026-01-20T20:17:29.897Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8321974002",
+      "discordThreadId": "1463266192390361088",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-internal-airtable-solution-architect-remote-us-2026-01-20-1",
+      "jobId": "airtable-internal-airtable-solution-architect-remote-us",
+      "company": "airtable",
+      "title": "Internal Airtable Solution Architect",
+      "postedToDiscord": "2026-01-20T20:17:33.472Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8227686002",
+      "discordThreadId": "1463266207573741578",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-lead-solutions-consultant-new-york-ny-remote-east-coast-2026-01-20-1",
+      "jobId": "airtable-lead-solutions-consultant-new-york-ny-remote-east-coast",
+      "company": "airtable",
+      "title": "Lead Solutions Consultant",
+      "postedToDiscord": "2026-01-20T20:17:37.261Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8009894002",
+      "discordThreadId": "1463266222434025504",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-data-engineer-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-data-engineer-san-francisco-ca",
+      "company": "airtable",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-20T20:17:44.446Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8124953002",
+      "discordThreadId": "1463266252863705100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-engineering-manager-ai-platform-san-francisco-ca-new-york-city-ny-2026-01-20-1",
+      "jobId": "airtable-engineering-manager-ai-platform-san-francisco-ca-new-york-city-ny",
+      "company": "airtable",
+      "title": "Engineering Manager, AI Platform ",
+      "postedToDiscord": "2026-01-20T20:17:50.917Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8293251002",
+      "discordThreadId": "1463266281003286599",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-field-marketing-manager-east-new-york-ny-2026-01-20-1",
+      "jobId": "airtable-field-marketing-manager-east-new-york-ny",
+      "company": "airtable",
+      "title": "Field Marketing Manager, East",
+      "postedToDiscord": "2026-01-20T20:17:57.919Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170126002",
+      "discordThreadId": "1463266308899737781",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1743,
+    "totalJobs": 1752,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T19:49:56.522Z",
+      "date": "2026-01-20T20:17:57.919Z",
       "archived": 0
     }
   }
