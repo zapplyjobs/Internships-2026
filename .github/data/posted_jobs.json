@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T08:33:51.140Z",
+  "lastUpdated": "2026-01-20T08:53:23.917Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17315,14 +17315,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
       "discordThreadId": "1463089113485017304",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-federal-support-engineer-2-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-federal-support-engineer-2-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Federal Support Engineer 2 - Denver",
+      "postedToDiscord": "2026-01-20T08:52:53.879Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380",
+      "discordThreadId": "1463093914788433940",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-federal-support-engineer-3-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-federal-support-engineer-3-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Federal Support Engineer 3 - Denver",
+      "postedToDiscord": "2026-01-20T08:52:55.568Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496388/?gh_jid=7496388",
+      "discordThreadId": "1463093922116141212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-global-safety-security-senior-manager-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-global-safety-security-senior-manager-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Global Safety & Security Senior Manager - NYC",
+      "postedToDiscord": "2026-01-20T08:52:58.853Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7357271/?gh_jid=7357271",
+      "discordThreadId": "1463093929015644365",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-field-ciso-new-york-new-york-usa-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-field-ciso-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Field CISO",
+      "postedToDiscord": "2026-01-20T08:53:05.278Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7391751/?gh_jid=7391751",
+      "discordThreadId": "1463093955536097407",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-field-cto-media-entertainment-new-york-new-york-usa-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-field-cto-media-entertainment-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Field CTO - Media & Entertainment",
+      "postedToDiscord": "2026-01-20T08:53:08.656Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7159384/?gh_jid=7159384",
+      "discordThreadId": "1463093969817829399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-gtm-strategy-and-operations-analyst-channels-alliances-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-gtm-strategy-and-operations-analyst-channels-alliances-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Analyst - Channels & Alliances",
+      "postedToDiscord": "2026-01-20T08:53:12.076Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7450692/?gh_jid=7450692",
+      "discordThreadId": "1463093983931535392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-gtm-strategy-and-operations-senior-associate-product-strategy-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-gtm-strategy-and-operations-senior-associate-product-strategy-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Senior Associate - Product Strategy",
+      "postedToDiscord": "2026-01-20T08:53:15.566Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7514855/?gh_jid=7514855",
+      "discordThreadId": "1463093998645284929",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-head-of-sales-programs-new-york-new-york-usa-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-head-of-sales-programs-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Head of Sales Programs",
+      "postedToDiscord": "2026-01-20T08:53:18.999Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7504966/?gh_jid=7504966",
+      "discordThreadId": "1463094012696203373",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-field-marketing-manager-latam-south-chile-remote-2026-01-20-1",
+      "jobId": "datadog-field-marketing-manager-latam-south-chile-remote",
+      "company": "datadog",
+      "title": "Field Marketing Manager (LATAM South)",
+      "postedToDiscord": "2026-01-20T08:53:23.917Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
+      "discordThreadId": "1463094040479268877",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1574,
+    "totalJobs": 1583,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T08:33:51.140Z",
+      "date": "2026-01-20T08:53:23.917Z",
       "archived": 0
     }
   }
