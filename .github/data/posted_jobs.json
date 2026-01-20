@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T05:50:38.414Z",
+  "lastUpdated": "2026-01-20T05:59:58.808Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16028,14 +16028,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7118153",
       "discordThreadId": "1463048047838892075",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-web-producer-wpp-us-national-2026-01-20-1",
+      "jobId": "stripe-staff-web-producer-wpp-us-national",
+      "company": "stripe",
+      "title": "Staff Web Producer, WPP",
+      "postedToDiscord": "2026-01-20T05:59:22.061Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7283655",
+      "discordThreadId": "1463050244295233538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-strategic-payment-advisors-lead-global-alliances-and-channels-amer-us-chicago-2026-01-20-1",
+      "jobId": "stripe-strategic-payment-advisors-lead-global-alliances-and-channels-amer-us-chicago",
+      "company": "stripe",
+      "title": "Strategic Payment Advisors Lead - Global Alliances and Channels - AMER",
+      "postedToDiscord": "2026-01-20T05:59:25.494Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7435757",
+      "discordThreadId": "1463050251685466336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-strategy-business-operations-stripe-business-performance-san-francisco-seattle-chicago-us-remote-new-york-2026-01-20-1",
+      "jobId": "stripe-strategy-business-operations-stripe-business-performance-san-francisco-seattle-chicago-us-remote-new-york",
+      "company": "stripe",
+      "title": "Strategy & Business Operations, Stripe Business Performance ",
+      "postedToDiscord": "2026-01-20T05:59:29.143Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=5956528",
+      "discordThreadId": "1463050265979785391",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-strategy-operations-infrastructure-seattle-san-francisco-nyc-chicago-remote-2026-01-20-1",
+      "jobId": "stripe-strategy-operations-infrastructure-seattle-san-francisco-nyc-chicago-remote",
+      "company": "stripe",
+      "title": "Strategy & Operations, Infrastructure ",
+      "postedToDiscord": "2026-01-20T05:59:32.789Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7339964",
+      "discordThreadId": "1463050282240835637",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-curriculum-developer-training-certification-us-sf-2026-01-20-1",
+      "jobId": "stripe-technical-curriculum-developer-training-certification-us-sf",
+      "company": "stripe",
+      "title": "Technical Curriculum Developer, Training & Certification",
+      "postedToDiscord": "2026-01-20T05:59:34.871Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7521016",
+      "discordThreadId": "1463050296589684779",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-strategic-sourcing-manager-tech-us-2026-01-20-1",
+      "jobId": "stripe-strategic-sourcing-manager-tech-us",
+      "company": "stripe",
+      "title": "Strategic Sourcing Manager - Tech",
+      "postedToDiscord": "2026-01-20T05:59:39.656Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7378398",
+      "discordThreadId": "1463050318328762455",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-strategy-operations-analyst-customer-success-chicago-2026-01-20-1",
+      "jobId": "stripe-strategy-operations-analyst-customer-success-chicago",
+      "company": "stripe",
+      "title": "Strategy & Operations Analyst, Customer Success",
+      "postedToDiscord": "2026-01-20T05:59:46.188Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7397878",
+      "discordThreadId": "1463050338323136535",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-accounting-policy-us-sea-or-us-sf-2026-01-20-1",
+      "jobId": "stripe-technical-accounting-policy-us-sea-or-us-sf",
+      "company": "stripe",
+      "title": "Technical Accounting & Policy ",
+      "postedToDiscord": "2026-01-20T05:59:50.952Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7110218",
+      "discordThreadId": "1463050365833314384",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-program-manager-commerce-systems-seattle-san-francisco-remote-in-the-us-2026-01-20-1",
+      "jobId": "stripe-technical-program-manager-commerce-systems-seattle-san-francisco-remote-in-the-us",
+      "company": "stripe",
+      "title": "Technical Program Manager, Commerce Systems",
+      "postedToDiscord": "2026-01-20T05:59:58.808Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7296916",
+      "discordThreadId": "1463050385680896030",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1457,
+    "totalJobs": 1466,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T05:50:38.414Z",
+      "date": "2026-01-20T05:59:58.808Z",
       "archived": 0
     }
   }

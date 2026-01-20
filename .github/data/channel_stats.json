@@ -1,12 +1,12 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2026-01-20T05:50:36.913Z",
-  "totalPosts": 5066,
+  "lastUpdated": "2026-01-20T05:59:57.307Z",
+  "totalPosts": 5080,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
-      "posts": 969,
-      "lastPost": "2026-01-20T05:50:31.999Z"
+      "posts": 974,
+      "lastPost": "2026-01-20T05:59:33.370Z"
     },
     "1449956267886907402": {
       "name": "💻・remote-usa",
@@ -30,13 +30,13 @@
     },
     "1449956487584682044": {
       "name": "🌆・chicago",
-      "posts": 126,
-      "lastPost": "2026-01-20T05:50:24.998Z"
+      "posts": 128,
+      "lastPost": "2026-01-20T05:59:44.687Z"
     },
     "1449956664458350765": {
       "name": "🌉・san-francisco",
-      "posts": 778,
-      "lastPost": "2026-01-20T05:50:30.299Z"
+      "posts": 781,
+      "lastPost": "2026-01-20T05:59:57.307Z"
     },
     "1449956514344472617": {
       "name": "🌧️・seattle",
@@ -60,8 +60,8 @@
     },
     "1429366120854585434": {
       "name": "💰・finance-internships",
-      "posts": 39,
-      "lastPost": "2026-01-20T02:36:02.387Z"
+      "posts": 40,
+      "lastPost": "2026-01-20T05:59:49.451Z"
     },
     "1429366524459745401": {
       "name": "📁・human-resources-internships",
@@ -85,8 +85,8 @@
     },
     "1429365752145645670": {
       "name": "💲・sales-internships",
-      "posts": 304,
-      "lastPost": "2026-01-20T05:09:30.400Z"
+      "posts": 305,
+      "lastPost": "2026-01-20T05:59:42.934Z"
     },
     "1449956760352719012": {
       "name": "🏙️・san-bruno",
@@ -105,8 +105,8 @@
     },
     "1429366331836207126": {
       "name": "📊・project-management-internships",
-      "posts": 29,
-      "lastPost": "2026-01-20T05:21:35.003Z"
+      "posts": 30,
+      "lastPost": "2026-01-20T05:59:54.200Z"
     },
     "1429366236055081131": {
       "name": "📦・product-internships",
@@ -115,8 +115,8 @@
     },
     "1429366422613786674": {
       "name": "🏗️・supply-chain-internships",
-      "posts": 4,
-      "lastPost": "2026-01-19T22:03:55.185Z"
+      "posts": 5,
+      "lastPost": "2026-01-20T05:59:38.155Z"
     }
   }
 }
