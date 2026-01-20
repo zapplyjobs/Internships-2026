@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:23:44.198Z",
+  "lastUpdated": "2026-01-20T21:38:52.535Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -19757,14 +19757,113 @@
       "sourceUrl": "https://jobs.lever.co/gohighlevel/f23300a5-68af-47ed-b6cc-e95b06c6b54f",
       "discordThreadId": "1463282869152645374",
       "instanceNumber": 1
+    },
+    {
+      "id": "gohighlevel-event-planner-i-hosted-events-dallas-2026-01-20-1",
+      "jobId": "gohighlevel-event-planner-i-hosted-events-dallas",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Hosted Events",
+      "postedToDiscord": "2026-01-20T21:38:33.502Z",
+      "sourceDate": "2025-12-12T20:32:27.093Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/107bb272-9e09-42de-8dee-a0c9a41209d6",
+      "discordThreadId": "1463286599323484442",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-associate-director-programmatic-platform-operations-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-associate-director-programmatic-platform-operations-new-york-ny",
+      "company": "spotify",
+      "title": "Associate Director, Programmatic Platform Operations",
+      "postedToDiscord": "2026-01-20T21:38:36.900Z",
+      "sourceDate": "2025-12-12T15:00:00.855Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1c59f08a-6f03-451e-a4d5-966684acef74",
+      "discordThreadId": "1463286606847938570",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-gm-ai-foundation-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-gm-ai-foundation-new-york-ny",
+      "company": "spotify",
+      "title": "GM, AI Foundation",
+      "postedToDiscord": "2026-01-20T21:38:40.399Z",
+      "sourceDate": "2025-12-11T21:29:33.016Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/18420f9a-8c80-4dea-8177-409380b390bf",
+      "discordThreadId": "1463286621058105511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-customer-success-manager-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-customer-success-manager-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-20T21:38:47.275Z",
+      "sourceDate": "2025-12-11T16:49:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335473002?gh_jid=8335473002",
+      "discordThreadId": "1463286648845369558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-customer-success-manager-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-customer-success-manager-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-20T21:38:47.293Z",
+      "sourceDate": "2025-12-11T16:48:19-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335464002?gh_jid=8335464002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-customer-success-manager-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-customer-success-manager-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-20T21:38:47.308Z",
+      "sourceDate": "2025-12-11T16:48:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335456002?gh_jid=8335456002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-customer-success-manager-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-customer-success-manager-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-20T21:38:47.321Z",
+      "sourceDate": "2025-12-11T16:47:56-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8335440002?gh_jid=8335440002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-customer-solution-architect-team-lead-amer-remote-2026-01-20-1",
+      "jobId": "supabase-customer-solution-architect-team-lead-amer-remote",
+      "company": "supabase",
+      "title": "Customer Solution Architect Team Lead (AMER)",
+      "postedToDiscord": "2026-01-20T21:38:49.120Z",
+      "sourceDate": "2025-12-11T20:26:22.518+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c",
+      "discordThreadId": "1463286664800632978",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-product-marketing-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-manager-product-marketing-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Product Marketing ",
+      "postedToDiscord": "2026-01-20T21:38:52.534Z",
+      "sourceDate": "2025-12-10T19:12:38-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732508004?gh_jid=5732508004",
+      "discordThreadId": "1463286672308305920",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1796,
+    "totalJobs": 1805,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T21:23:44.198Z",
+      "date": "2026-01-20T21:38:52.535Z",
       "archived": 0
     }
   }
