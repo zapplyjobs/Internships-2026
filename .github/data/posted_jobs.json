@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T08:04:53.899Z",
+  "lastUpdated": "2026-01-20T08:18:53.232Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17117,14 +17117,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7449657/?gh_jid=7449657",
       "discordThreadId": "1463081827475525645",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-deal-desk-analyst-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-deal-desk-analyst-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Deal Desk Analyst - Denver",
+      "postedToDiscord": "2026-01-20T08:18:20.892Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7420668/?gh_jid=7420668",
+      "discordThreadId": "1463085220084449344",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-director-pricing-and-monetization-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-director-pricing-and-monetization-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Director, Pricing and Monetization",
+      "postedToDiscord": "2026-01-20T08:18:26.071Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416680/?gh_jid=7416680",
+      "discordThreadId": "1463085233439248546",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-director-sales-field-enablement-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-director-sales-field-enablement-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Director, Sales Field Enablement - NYC",
+      "postedToDiscord": "2026-01-20T08:18:29.711Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7191464/?gh_jid=7191464",
+      "discordThreadId": "1463085249121620039",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-director-technical-product-partnerships-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-director-technical-product-partnerships-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Director, Technical Product Partnerships",
+      "postedToDiscord": "2026-01-20T08:18:33.178Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7416668/?gh_jid=7416668",
+      "discordThreadId": "1463085264049143814",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-customer-success-manager-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-enterprise-customer-success-manager-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Enterprise Customer Success Manager - Denver",
+      "postedToDiscord": "2026-01-20T08:18:34.903Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7462573/?gh_jid=7462573",
+      "discordThreadId": "1463085278892654602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-customer-success-manager-east-coast-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-enterprise-customer-success-manager-east-coast-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Enterprise Customer Success Manager - East Coast",
+      "postedToDiscord": "2026-01-20T08:18:34.915Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7472550/?gh_jid=7472550",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-developer-advocate-community-california-usa-remote-colorado-usa-remote-massachusetts-usa-remote-new-york-usa-remote-washington-usa-remote-2026-01-20-1",
+      "jobId": "datadog-developer-advocate-community-california-usa-remote-colorado-usa-remote-massachusetts-usa-remote-new-york-usa-remote-washington-usa-remote",
+      "company": "datadog",
+      "title": "Developer Advocate - Community",
+      "postedToDiscord": "2026-01-20T08:18:41.539Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7378592/?gh_jid=7378592",
+      "discordThreadId": "1463085298467475559",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-engineering-manager-application-security-platform-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-engineering-manager-application-security-platform-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Engineering Manager, Application Security Platform",
+      "postedToDiscord": "2026-01-20T08:18:44.912Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476431/?gh_jid=7476431",
+      "discordThreadId": "1463085313835401219",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-employee-relation-specialist-workplace-investigations-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-employee-relation-specialist-workplace-investigations-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Employee Relation Specialist - Workplace Investigations",
+      "postedToDiscord": "2026-01-20T08:18:53.231Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622",
+      "discordThreadId": "1463085340792459413",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1556,
+    "totalJobs": 1565,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T08:04:53.899Z",
+      "date": "2026-01-20T08:18:53.232Z",
       "archived": 0
     }
   }
