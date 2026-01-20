@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T06:25:21.190Z",
+  "lastUpdated": "2026-01-20T06:45:47.213Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16325,14 +16325,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
       "discordThreadId": "1463056776512536774",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-commercial-sales-engineering-amer-east-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-commercial-sales-engineering-amer-east-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager, Commercial Sales Engineering (AMER - East)",
+      "postedToDiscord": "2026-01-20T06:45:12.468Z",
+      "sourceDate": "2026-01-12T10:54:30-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7512337/?gh_jid=7512337",
+      "discordThreadId": "1463061773354668128",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-sales-development-representative-boston-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-sales-development-representative-boston-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Sales Development Representative (Boston)",
+      "postedToDiscord": "2026-01-20T06:45:15.794Z",
+      "sourceDate": "2026-01-12T09:49:43-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
+      "discordThreadId": "1463061787674148969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-engineering-manager-i-cyber-threat-intelligence-boston-massachusetts-usa-denver-colorado-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-engineering-manager-i-cyber-threat-intelligence-boston-massachusetts-usa-denver-colorado-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Engineering Manager I - Cyber Threat Intelligence",
+      "postedToDiscord": "2026-01-20T06:45:22.169Z",
+      "sourceDate": "2026-01-12T10:48:35-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7181025/?gh_jid=7181025",
+      "discordThreadId": "1463061814186082356",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-associate-manager-compliance-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-associate-manager-compliance-charlotte-nc",
+      "company": "coinbase",
+      "title": "Associate Manager, Compliance",
+      "postedToDiscord": "2026-01-20T06:45:26.860Z",
+      "sourceDate": "2026-01-12T10:36:23-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7530570?gh_jid=7530570",
+      "discordThreadId": "1463061840790814761",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-account-executive-backstage-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-account-executive-backstage-new-york-ny",
+      "company": "spotify",
+      "title": "Account Executive - Backstage",
+      "postedToDiscord": "2026-01-20T06:45:30.219Z",
+      "sourceDate": "2026-01-12T15:20:23.728Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/d33ef090-2e71-43a2-ac10-cb81dfb13489",
+      "discordThreadId": "1463061848202023101",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-software-engineer-product-backend-2-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only-2026-01-20-1",
+      "jobId": "airtable-software-engineer-product-backend-2-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only",
+      "company": "airtable",
+      "title": "Software Engineer, Product Backend (2-8 YOE)",
+      "postedToDiscord": "2026-01-20T06:45:36.686Z",
+      "sourceDate": "2026-01-09T19:39:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845291002",
+      "discordThreadId": "1463061874751967245",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-software-engineer-product-backend-8-yoe-san-francisco-ca-remote-seattle-wa-only-2026-01-20-1",
+      "jobId": "airtable-software-engineer-product-backend-8-yoe-san-francisco-ca-remote-seattle-wa-only",
+      "company": "airtable",
+      "title": "Software Engineer, Product Backend (8+ YOE)",
+      "postedToDiscord": "2026-01-20T06:45:40.226Z",
+      "sourceDate": "2026-01-09T19:35:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845287002",
+      "discordThreadId": "1463061889616445561",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-data-scientist-gusto-401-k-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa-2026-01-20-1",
+      "jobId": "gusto-senior-data-scientist-gusto-401-k-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa",
+      "company": "gusto",
+      "title": "Senior Data Scientist - Gusto 401(k)",
+      "postedToDiscord": "2026-01-20T06:45:43.819Z",
+      "sourceDate": "2026-01-09T18:53:23-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7434475",
+      "discordThreadId": "1463061904183267353",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-staff-data-scientist-product-san-francisco-ca-hybrid-denver-co-hybrid-new-york-ny-hybrid-united-states-remote-2026-01-20-1",
+      "jobId": "gusto-staff-data-scientist-product-san-francisco-ca-hybrid-denver-co-hybrid-new-york-ny-hybrid-united-states-remote",
+      "company": "gusto",
+      "title": "Staff Data Scientist - Product",
+      "postedToDiscord": "2026-01-20T06:45:47.213Z",
+      "sourceDate": "2026-01-09T18:46:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7524662",
+      "discordThreadId": "1463061918997680246",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1484,
+    "totalJobs": 1493,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T06:25:21.190Z",
+      "date": "2026-01-20T06:45:47.213Z",
       "archived": 0
     }
   }
