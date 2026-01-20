@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T13:46:39.565Z",
+  "lastUpdated": "2026-01-20T14:53:26.855Z",
   "jobs": [
-    {
-      "id": "iqvia-business-analytics-intern-spring-2026-san-mateo-2026-01-13-1",
-      "jobId": "iqvia-business-analytics-intern-spring-2026-san-mateo",
-      "company": "IQVIA",
-      "title": "Business Analytics Intern - Spring 2026",
-      "postedToDiscord": "2026-01-13T14:11:53.924Z",
-      "sourceDate": "2026-01-12T23:33:05.000Z",
-      "sourceUrl": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/San-Mateo-California-United-States-of-America/Business-Analytics-Intern---Spring-2026-Hybrid_R1523189",
-      "discordThreadId": "1460637471728734241",
-      "instanceNumber": 1
-    },
     {
       "id": "amazon-cloud-support-engineer-internship-herdon-2026-01-13-1",
       "jobId": "amazon-cloud-support-engineer-internship-herdon",
@@ -18723,14 +18712,36 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8235305002?gh_jid=8235305002",
       "discordThreadId": "1463167835386806305",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-influencer-marketing-intern-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-influencer-marketing-intern-new-york-ny",
+      "company": "duolingo",
+      "title": "Influencer Marketing, Intern",
+      "postedToDiscord": "2026-01-20T14:53:23.379Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301155002?gh_jid=8301155002",
+      "discordThreadId": "1463184628553617448",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-product-marketing-manager-duolingo-chess-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-product-marketing-manager-duolingo-chess-new-york-ny",
+      "company": "duolingo",
+      "title": "Product Marketing Manager, Duolingo Chess",
+      "postedToDiscord": "2026-01-20T14:53:26.855Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331172002?gh_jid=8331172002",
+      "discordThreadId": "1463184642805989397",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1702,
+    "totalJobs": 1703,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T13:46:39.565Z",
+      "date": "2026-01-20T14:53:26.855Z",
       "archived": 0
     }
   }
