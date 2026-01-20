@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T10:47:54.773Z",
+  "lastUpdated": "2026-01-20T10:59:19.776Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -18206,14 +18206,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7088666/?gh_jid=7088666",
       "discordThreadId": "1463122851732389989",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-genai-engineer-application-performance-monitoring-apm-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-genai-engineer-application-performance-monitoring-apm-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "postedToDiscord": "2026-01-20T10:58:50.205Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985",
+      "discordThreadId": "1463125600440025090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-product-designer-bits-ai-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-product-designer-bits-ai-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff Product Designer, Bits AI",
+      "postedToDiscord": "2026-01-20T10:58:53.821Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7182907/?gh_jid=7182907",
+      "discordThreadId": "1463125615623540840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-product-designer-visual-systems-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-product-designer-visual-systems-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff Product Designer, Visual Systems",
+      "postedToDiscord": "2026-01-20T10:59:00.237Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496207/?gh_jid=7496207",
+      "discordThreadId": "1463125643431776276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-software-engineer-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-software-engineer-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff Software Engineer",
+      "postedToDiscord": "2026-01-20T10:59:06.752Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/3210217/?gh_jid=3210217",
+      "discordThreadId": "1463125670447157362",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-software-engineer-frontend-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-software-engineer-frontend-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-20T10:59:06.767Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7375183/?gh_jid=7375183",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-software-engineer-ml-observability-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-software-engineer-ml-observability-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff Software Engineer - ML Observability",
+      "postedToDiscord": "2026-01-20T10:59:06.780Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7107437/?gh_jid=7107437",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-staff-statistics-engineer-feature-flagging-and-experimentation-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-staff-statistics-engineer-feature-flagging-and-experimentation-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Staff Statistics Engineer - Feature Flagging and Experimentation",
+      "postedToDiscord": "2026-01-20T10:59:13.207Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7144531/?gh_jid=7144531",
+      "discordThreadId": "1463125697680769038",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:59:19.747Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386",
+      "discordThreadId": "1463125724700606558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-north-carolina-usa-remote-south-carolina-usa-remote-tennessee-usa-remote-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-north-carolina-usa-remote-south-carolina-usa-remote-tennessee-usa-remote",
+      "company": "datadog",
+      "title": "Strategic Account Executive",
+      "postedToDiscord": "2026-01-20T10:59:19.775Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1655,
+    "totalJobs": 1664,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T10:47:54.773Z",
+      "date": "2026-01-20T10:59:19.776Z",
       "archived": 0
     }
   }
