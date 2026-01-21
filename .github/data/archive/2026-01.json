@@ -5113,5 +5113,27 @@
     "sourceUrl": "https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
     "discordThreadId": "1460899545121816853",
     "instanceNumber": 1
+  },
+  {
+    "id": "jane-street-tools-compilers-research-and-development-intern-new-york-2026-01-14-1",
+    "jobId": "jane-street-tools-compilers-research-and-development-intern-new-york",
+    "company": "Jane Street",
+    "title": "Tools & Compilers Research and Development Intern",
+    "postedToDiscord": "2026-01-14T07:54:17.564Z",
+    "sourceDate": "2025-07-08T01:38:46.000Z",
+    "sourceUrl": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+    "discordThreadId": "1460904831857197066",
+    "instanceNumber": 1
+  },
+  {
+    "id": "transmarket-devops-sre-intern-chicago-2026-01-14-1",
+    "jobId": "transmarket-devops-sre-intern-chicago",
+    "company": "TransMarket Group",
+    "title": "DevOps/SRE Intern",
+    "postedToDiscord": "2026-01-14T07:54:21.097Z",
+    "sourceDate": "2025-07-08T01:38:46.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749908007?gh_jid=4749908007",
+    "discordThreadId": "1460904846679871488",
+    "instanceNumber": 1
   }
 ]
