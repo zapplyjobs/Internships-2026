@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T00:45:25.157Z",
+  "lastUpdated": "2026-01-21T01:18:12.198Z",
   "jobs": [
     {
       "id": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno-2026-01-14-1",
@@ -21396,14 +21396,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699248004?gh_jid=5699248004",
       "discordThreadId": "1463333617811062909",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-corporate-development-strategy-m-a-integration-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-corporate-development-strategy-m-a-integration-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Corporate Development & Strategy, M&A Integration",
+      "postedToDiscord": "2026-01-21T01:17:34.280Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699991004?gh_jid=5699991004",
+      "discordThreadId": "1463341708233277482",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-director-payroll-operations-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-director-payroll-operations-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Director, Payroll Operations",
+      "postedToDiscord": "2026-01-21T01:17:37.635Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5705229004?gh_jid=5705229004",
+      "discordThreadId": "1463341722900889601",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-mid-market-sales-san-francisco-ca-united-states-2026-01-21-1",
+      "jobId": "figma-manager-mid-market-sales-san-francisco-ca-united-states",
+      "company": "figma",
+      "title": "Manager, Mid-Market Sales",
+      "postedToDiscord": "2026-01-21T01:17:41.037Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5696205004?gh_jid=5696205004",
+      "discordThreadId": "1463341737232699624",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-solutions-consulting-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-manager-solutions-consulting-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Solutions Consulting",
+      "postedToDiscord": "2026-01-21T01:17:44.377Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5697641004?gh_jid=5697641004",
+      "discordThreadId": "1463341751573155982",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-partner-manager-scaled-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-partner-manager-scaled-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Partner Manager, Scaled",
+      "postedToDiscord": "2026-01-21T01:17:47.828Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5705600004?gh_jid=5705600004",
+      "discordThreadId": "1463341765464690877",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-growth-marketing-manager-creator-affiliate-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-growth-marketing-manager-creator-affiliate-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Growth Marketing Manager, Creator & Affiliate",
+      "postedToDiscord": "2026-01-21T01:17:54.340Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5703160004?gh_jid=5703160004",
+      "discordThreadId": "1463341792538788048",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-software-engineering-creation-engine-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-manager-software-engineering-creation-engine-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Software Engineering - Creation Engine",
+      "postedToDiscord": "2026-01-21T01:18:00.966Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5696366004?gh_jid=5696366004",
+      "discordThreadId": "1463341820212678817",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-strategic-finance-finance-systems-automation-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-strategic-finance-finance-systems-automation-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Strategic Finance, Finance Systems & Automation",
+      "postedToDiscord": "2026-01-21T01:18:05.222Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5701959004?gh_jid=5701959004",
+      "discordThreadId": "1463341838483062916",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-manager-sites-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-manager-sites-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Manager, Sites",
+      "postedToDiscord": "2026-01-21T01:18:12.198Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5701839004?gh_jid=5701839004",
+      "discordThreadId": "1463341866115272787",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1945,
+    "totalJobs": 1954,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T00:45:25.157Z",
+      "date": "2026-01-21T01:18:12.198Z",
       "archived": 0
     }
   }
