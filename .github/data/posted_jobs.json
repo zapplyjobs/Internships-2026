@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T07:22:34.587Z",
+  "lastUpdated": "2026-01-21T07:36:54.400Z",
   "jobs": [
-    {
-      "id": "genworth-it-development-program-intern-richmond-2026-01-14-1",
-      "jobId": "genworth-it-development-program-intern-richmond",
-      "company": "Genworth",
-      "title": "IT Development Program Intern",
-      "postedToDiscord": "2026-01-14T07:32:46.557Z",
-      "sourceDate": "2025-07-29T13:58:28.000Z",
-      "sourceUrl": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08",
-      "discordThreadId": "1460899416238985377",
-      "instanceNumber": 1
-    },
-    {
-      "id": "a37-fullstack-mle-intern-san-francisco-2026-01-14-1",
-      "jobId": "a37-fullstack-mle-intern-san-francisco",
-      "company": "a37",
-      "title": "Fullstack/MLE Intern",
-      "postedToDiscord": "2026-01-14T07:32:53.364Z",
-      "sourceDate": "2025-07-23T19:01:49.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/a37/f457c131-1471-464a-9d23-5a9f94714c92",
-      "discordThreadId": "1460899443925712982",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kearney-co-data-analytics-internship-alexandria-2026-01-14-1",
-      "jobId": "kearney-co-data-analytics-internship-alexandria",
-      "company": "Kearney&Co",
-      "title": "Data Analytics Internship",
-      "postedToDiscord": "2026-01-14T07:32:59.847Z",
-      "sourceDate": "2025-07-22T09:52:33.000Z",
-      "sourceUrl": "https://careers.kearneyco.com/jobs/4822?lang=en-us",
-      "discordThreadId": "1460899472853958782",
-      "instanceNumber": 1
-    },
-    {
-      "id": "blackrock-2026-summer-intern-atlanta-2026-01-14-1",
-      "jobId": "blackrock-2026-summer-intern-atlanta",
-      "company": "Blackrock",
-      "title": "2026 Summer Intern",
-      "postedToDiscord": "2026-01-14T07:33:03.421Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB",
-      "discordThreadId": "1460899487148146709",
-      "instanceNumber": 1
-    },
-    {
-      "id": "d-e-shaw-fundamental-research-analyst-intern-new-york-2026-01-14-1",
-      "jobId": "d-e-shaw-fundamental-research-analyst-intern-new-york",
-      "company": "D. E. Shaw",
-      "title": "Fundamental Research Analyst Intern",
-      "postedToDiscord": "2026-01-14T07:33:07.128Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378",
-      "discordThreadId": "1460899501865959600",
-      "instanceNumber": 1
-    },
-    {
-      "id": "abbott-it-intern-waukegan-2026-01-14-1",
-      "jobId": "abbott-it-intern-waukegan",
-      "company": "Abbott",
-      "title": "IT Intern",
-      "postedToDiscord": "2026-01-14T07:33:10.578Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern",
-      "discordThreadId": "1460899517799862457",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bnp-paribas-summer-analyst-intern-jersey-city-2026-01-14-1",
-      "jobId": "bnp-paribas-summer-analyst-intern-jersey-city",
-      "company": "BNP Paribas",
-      "title": "Summer Analyst Intern",
-      "postedToDiscord": "2026-01-14T07:33:17.025Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
-      "discordThreadId": "1460899545121816853",
-      "instanceNumber": 1
-    },
     {
       "id": "jane-street-tools-compilers-research-and-development-intern-new-york-2026-01-14-1",
       "jobId": "jane-street-tools-compilers-research-and-development-intern-new-york",
@@ -22606,14 +22529,113 @@
       "sourceUrl": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3753",
       "discordThreadId": "1463433565709668507",
       "instanceNumber": 1
+    },
+    {
+      "id": "the-walt-disney-company-disneyland-costuming-project-analyst-intern-anaheim-2026-01-21-1",
+      "jobId": "the-walt-disney-company-disneyland-costuming-project-analyst-intern-anaheim",
+      "company": "The Walt Disney Company",
+      "title": "Disneyland Costuming Project Analyst Intern",
+      "postedToDiscord": "2026-01-21T07:36:20.145Z",
+      "sourceDate": "2026-01-19T11:57:53.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Costuming-Project-Analyst-Intern--Summer-Fall-2026_10139692-1",
+      "discordThreadId": "1463437026522169346",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-data-management-oceanside-2026-01-21-1",
+      "jobId": "genentech-intern-data-management-oceanside",
+      "company": "Genentech",
+      "title": "Intern - Data Management",
+      "postedToDiscord": "2026-01-21T07:36:23.478Z",
+      "sourceDate": "2026-01-19T23:13:39.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Oceanside/XMLNAME-2026-Summer-Intern---Data-Management_202601-101119",
+      "discordThreadId": "1463437042150281238",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-data-analyst-intern-summer-2026-washington-2026-01-21-1",
+      "jobId": "caci-data-analyst-intern-summer-2026-washington",
+      "company": "CACI",
+      "title": "Data Analyst Intern - Summer 2026",
+      "postedToDiscord": "2026-01-21T07:36:26.936Z",
+      "sourceDate": "2025-10-25T13:47:47.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Data-Analyst-Intern---Summer-2026_318643",
+      "discordThreadId": "1463437056561778886",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-walt-disney-company-marketing-planning-analytics-intern-summer-2026-santa-monica-2026-01-21-1",
+      "jobId": "the-walt-disney-company-marketing-planning-analytics-intern-summer-2026-santa-monica",
+      "company": "The Walt Disney Company",
+      "title": "Marketing Planning & Analytics Intern - Summer 2026",
+      "postedToDiscord": "2026-01-21T07:36:30.385Z",
+      "sourceDate": "2026-01-20T02:23:50.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Marketing-Planning---Analytics-Intern--Summer-2026_10138901",
+      "discordThreadId": "1463437070826475717",
+      "instanceNumber": 1
+    },
+    {
+      "id": "acushnet-holdings-summer-2026-software-developer-intern-vokey-carlsbad-2026-01-21-1",
+      "jobId": "acushnet-holdings-summer-2026-software-developer-intern-vokey-carlsbad",
+      "company": "Acushnet Holdings",
+      "title": "Summer 2026 Software Developer Intern - Vokey",
+      "postedToDiscord": "2026-01-21T07:36:37.314Z",
+      "sourceDate": "2026-01-19T11:57:03.000Z",
+      "sourceUrl": "https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Carlsbad-California-United-States-of-America/Summer-2026-Software-Developer-Intern---Vokey_Req100831",
+      "discordThreadId": "1463437098601287732",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-software-engineering-intern-open-marlborough-2026-01-21-1",
+      "jobId": "rtx-software-engineering-intern-open-marlborough",
+      "company": "RTX",
+      "title": "Software Engineering Intern - Open",
+      "postedToDiscord": "2026-01-21T07:36:40.902Z",
+      "sourceDate": "2026-01-19T23:16:51.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2026---Onsite---Open-_01817564",
+      "discordThreadId": "1463437114434781285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gsd-m-media-analytics-intern-austin-2026-01-21-1",
+      "jobId": "gsd-m-media-analytics-intern-austin",
+      "company": "GSD&M",
+      "title": "Media Analytics Intern",
+      "postedToDiscord": "2026-01-21T07:36:44.335Z",
+      "sourceDate": "2026-01-19T23:45:55.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gsdm/jobs/5076585008",
+      "discordThreadId": "1463437129408581654",
+      "instanceNumber": 1
+    },
+    {
+      "id": "csc-business-intelligence-intern-wilmington-2026-01-21-1",
+      "jobId": "csc-business-intelligence-intern-wilmington",
+      "company": "CSC",
+      "title": "Business Intelligence Intern",
+      "postedToDiscord": "2026-01-21T07:36:50.906Z",
+      "sourceDate": "2026-01-19T23:18:48.000Z",
+      "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14742",
+      "discordThreadId": "1463437156449259521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "advanced-energy-intern-data-analyst-fort-collins-2026-01-21-1",
+      "jobId": "advanced-energy-intern-data-analyst-fort-collins",
+      "company": "Advanced Energy",
+      "title": "Intern – Data Analyst",
+      "postedToDiscord": "2026-01-21T07:36:54.400Z",
+      "sourceDate": "2026-01-20T02:10:28.000Z",
+      "sourceUrl": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Data-Analyst-CO-80525/1354339400/?ats=successfactors",
+      "discordThreadId": "1463437171066278055",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2055,
+    "totalJobs": 2057,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T07:22:34.587Z",
+      "date": "2026-01-21T07:36:54.400Z",
       "archived": 0
     }
   }
