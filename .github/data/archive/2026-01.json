@@ -4563,5 +4563,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4649036005",
     "discordThreadId": "1460816395574054998",
     "instanceNumber": 1
+  },
+  {
+    "id": "obsidian-security-software-engineer-intern-palo-alto-2026-01-14-1",
+    "jobId": "obsidian-security-software-engineer-intern-palo-alto",
+    "company": "Obsidian Security",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2026-01-14T02:54:22.059Z",
+    "sourceDate": "2026-01-13T23:34:00.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008",
+    "discordThreadId": "1460829352752058534",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cox-software-engineer-intern-draper-ut-draper-2026-01-14-1",
+    "jobId": "cox-software-engineer-intern-draper-ut-draper",
+    "company": "Cox",
+    "title": "Software Engineer Intern - Draper UT",
+    "postedToDiscord": "2026-01-14T02:54:25.907Z",
+    "sourceDate": "2026-01-13T23:29:26.000Z",
+    "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern--Draper--UT---Summer-2026_R202671816",
+    "discordThreadId": "1460829368648470753",
+    "instanceNumber": 1
+  },
+  {
+    "id": "nvidia-performance-engineering-intern-deep-learning-and-hpc-summer-2026-santa-clara-2026-01-14-1",
+    "jobId": "nvidia-performance-engineering-intern-deep-learning-and-hpc-summer-2026-santa-clara",
+    "company": "NVIDIA",
+    "title": "Performance Engineering Intern - Deep Learning and HPC - Summer 2026",
+    "postedToDiscord": "2026-01-14T02:54:32.561Z",
+    "sourceDate": "2026-01-13T23:33:38.000Z",
+    "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Summer-2026_JR2009830",
+    "discordThreadId": "1460829396628934789",
+    "instanceNumber": 1
+  },
+  {
+    "id": "icf-international-intern-energy-engineer-reston-2026-01-14-1",
+    "jobId": "icf-international-intern-energy-engineer-reston",
+    "company": "ICF International",
+    "title": "Intern - Energy Engineer",
+    "postedToDiscord": "2026-01-14T02:54:36.190Z",
+    "sourceDate": "2026-01-13T23:30:51.000Z",
+    "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Mechanical-Engineer_R2502939",
+    "discordThreadId": "1460829412206575699",
+    "instanceNumber": 1
+  },
+  {
+    "id": "instacart-machine-learning-phd-intern-economics-remote-in-usa-2026-01-14-1",
+    "jobId": "instacart-machine-learning-phd-intern-economics-remote-in-usa",
+    "company": "Instacart",
+    "title": "Machine Learning PhD Intern - Economics",
+    "postedToDiscord": "2026-01-14T02:54:39.883Z",
+    "sourceDate": "2026-01-13T23:28:11.000Z",
+    "sourceUrl": "https://instacart.careers/job/?gh_jid=7532267",
+    "discordThreadId": "1460829427142365354",
+    "instanceNumber": 1
+  },
+  {
+    "id": "samsung-research-america-research-intern-ai-algorithm-design-for-6g-summer-plano-2026-01-14-1",
+    "jobId": "samsung-research-america-research-intern-ai-algorithm-design-for-6g-summer-plano",
+    "company": "Samsung Research America",
+    "title": "Research Intern - AI Algorithm Design for 6G - Summer",
+    "postedToDiscord": "2026-01-14T02:54:43.247Z",
+    "sourceDate": "2026-01-13T23:20:18.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8364722002",
+    "discordThreadId": "1460829442208174314",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-aerospace-battery-test-lab-intern-el-segundo-2026-01-14-1",
+    "jobId": "the-aerospace-battery-test-lab-intern-el-segundo",
+    "company": "The Aerospace Corporation",
+    "title": "Battery Test Lab Intern",
+    "postedToDiscord": "2026-01-14T02:54:49.744Z",
+    "sourceDate": "2026-01-13T23:29:05.000Z",
+    "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Battery-Test-Lab-Undergraduate-Intern_R014302",
+    "discordThreadId": "1460829469584396493",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bloom-energy-failure-analysis-data-intern-san-jose-2026-01-14-1",
+    "jobId": "bloom-energy-failure-analysis-data-intern-san-jose",
+    "company": "Bloom Energy",
+    "title": "Failure Analysis Data Intern",
+    "postedToDiscord": "2026-01-14T02:54:53.181Z",
+    "sourceDate": "2026-01-13T23:23:10.000Z",
+    "sourceUrl": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Failure-Analysis-Data-Intern_JR-21216",
+    "discordThreadId": "1460829484021186685",
+    "instanceNumber": 1
+  },
+  {
+    "id": "finra-2026-summer-corporate-internship-program-technology-space-north-bethesda-2026-01-14-1",
+    "jobId": "finra-2026-summer-corporate-internship-program-technology-space-north-bethesda",
+    "company": "Finra",
+    "title": "2026 Summer Corporate Internship Program - Technology Space",
+    "postedToDiscord": "2026-01-14T02:54:59.890Z",
+    "sourceDate": "2026-01-13T23:25:11.000Z",
+    "sourceUrl": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2026-Summer-Corporate-Internship-Program--Technology-Space_R-009603",
+    "discordThreadId": "1460829511099748455",
+    "instanceNumber": 1
   }
 ]
