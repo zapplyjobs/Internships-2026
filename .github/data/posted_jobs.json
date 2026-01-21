@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T00:07:14.552Z",
+  "lastUpdated": "2026-01-21T00:45:25.157Z",
   "jobs": [
     {
       "id": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno-2026-01-14-1",
@@ -21297,14 +21297,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5710742004?gh_jid=5710742004",
       "discordThreadId": "1463324009620836563",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-designer-growth-monetization-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-designer-growth-monetization-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Designer, Growth & Monetization",
+      "postedToDiscord": "2026-01-21T00:44:46.529Z",
+      "sourceDate": "2025-11-21T10:48:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
+      "discordThreadId": "1463333454836928625",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-designer-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-designer-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Designer ",
+      "postedToDiscord": "2026-01-21T00:44:49.943Z",
+      "sourceDate": "2025-11-21T10:47:08-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711571004?gh_jid=5711571004",
+      "discordThreadId": "1463333470020567208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-solutions-consultant-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-solutions-consultant-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-21T00:44:53.516Z",
+      "sourceDate": "2025-11-20T17:33:13-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5478247004?gh_jid=5478247004",
+      "discordThreadId": "1463333484343984181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-field-marketing-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-manager-field-marketing-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Field Marketing",
+      "postedToDiscord": "2026-01-21T00:44:56.881Z",
+      "sourceDate": "2025-11-20T13:04:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711923004?gh_jid=5711923004",
+      "discordThreadId": "1463333499170721988",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-technical-program-manager-ai-platform-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-technical-program-manager-ai-platform-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Technical Program Manager, AI Platform",
+      "postedToDiscord": "2026-01-21T00:45:03.752Z",
+      "sourceDate": "2025-11-20T18:28:40-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707695004?gh_jid=5707695004",
+      "discordThreadId": "1463333526698070247",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-global-head-of-sales-operations-strategy-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-global-head-of-sales-operations-strategy-new-york-ny",
+      "company": "spotify",
+      "title": "Global Head of Sales Operations & Strategy",
+      "postedToDiscord": "2026-01-21T00:45:10.394Z",
+      "sourceDate": "2025-11-19T20:52:26.402Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/72220c49-25c3-49fe-b275-d755f863ad8c",
+      "discordThreadId": "1463333555240308830",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-seo-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-manager-seo-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, SEO",
+      "postedToDiscord": "2026-01-21T00:45:13.890Z",
+      "sourceDate": "2025-11-19T09:05:56-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711703004?gh_jid=5711703004",
+      "discordThreadId": "1463333569933082689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clerk-product-manager-billing-remote-2026-01-21-1",
+      "jobId": "clerk-product-manager-billing-remote",
+      "company": "clerk",
+      "title": "Product Manager, Billing",
+      "postedToDiscord": "2026-01-21T00:45:18.764Z",
+      "sourceDate": "2025-11-19T14:40:15.451+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/be4962fc-0c3e-47c3-b77e-71e48d62a376",
+      "discordThreadId": "1463333597636198504",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-business-systems-architect-ai-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-business-systems-architect-ai-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Business Systems Architect, AI",
+      "postedToDiscord": "2026-01-21T00:45:25.157Z",
+      "sourceDate": "2025-11-19T09:05:55-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699248004?gh_jid=5699248004",
+      "discordThreadId": "1463333617811062909",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1936,
+    "totalJobs": 1945,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T00:07:14.552Z",
+      "date": "2026-01-21T00:45:25.157Z",
       "archived": 0
     }
   }
