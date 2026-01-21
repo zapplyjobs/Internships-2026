@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T06:19:41.135Z",
+  "lastUpdated": "2026-01-21T06:35:03.858Z",
   "jobs": [
     {
       "id": "agzen-ai-ml-data-intern-cambridge-2026-01-14-1",
@@ -22408,14 +22408,113 @@
       "sourceUrl": "https://jobs.lever.co/nominal/201216f8-3cd8-498d-b91a-57fe470fbe60",
       "discordThreadId": "1463417738453188639",
       "instanceNumber": 1
+    },
+    {
+      "id": "nominal-mid-market-account-executive-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-mid-market-account-executive-los-angeles-ca",
+      "company": "nominal",
+      "title": "Mid-Market Account Executive",
+      "postedToDiscord": "2026-01-21T06:34:34.953Z",
+      "sourceDate": "2025-05-15T19:58:22.101Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/2f2454a8-e06b-4fb0-964d-51890caf183d",
+      "discordThreadId": "1463421486957330476",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-roboticist-in-residence-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-roboticist-in-residence-los-angeles-ca",
+      "company": "nominal",
+      "title": "Roboticist In Residence",
+      "postedToDiscord": "2026-01-21T06:34:38.387Z",
+      "sourceDate": "2025-05-13T20:01:51.070Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/ceb289fc-ac05-418c-a5bd-26e6d4e64dd4",
+      "discordThreadId": "1463421501599387742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-software-engineer-mission-dev-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-software-engineer-mission-dev-los-angeles-ca",
+      "company": "nominal",
+      "title": "Software Engineer - Mission Dev",
+      "postedToDiscord": "2026-01-21T06:34:41.828Z",
+      "sourceDate": "2025-05-01T18:37:11.417Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/e0f3ee8b-0030-4506-a6e2-da0710d90a05",
+      "discordThreadId": "1463421516048760919",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-mission-operations-engineer-usg-dod-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-mission-operations-engineer-usg-dod-los-angeles-ca",
+      "company": "nominal",
+      "title": "Mission Operations Engineer - USG/DoD",
+      "postedToDiscord": "2026-01-21T06:34:45.228Z",
+      "sourceDate": "2025-04-30T19:25:22.053Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/825c72ae-9ba9-4f08-8c18-94eb38da1ea2",
+      "discordThreadId": "1463421530552668242",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-instrumentation-engineer-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-instrumentation-engineer-los-angeles-ca",
+      "company": "nominal",
+      "title": "Instrumentation Engineer",
+      "postedToDiscord": "2026-01-21T06:34:48.774Z",
+      "sourceDate": "2025-04-24T00:26:51.038Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/9f3ce3cf-24ac-4aa2-801e-a53768d44def",
+      "discordThreadId": "1463421545107161142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-cloud-infrastructure-engineer-austin-tx-2026-01-21-1",
+      "jobId": "nominal-cloud-infrastructure-engineer-austin-tx",
+      "company": "nominal",
+      "title": "Cloud Infrastructure Engineer",
+      "postedToDiscord": "2026-01-21T06:34:53.321Z",
+      "sourceDate": "2025-02-14T18:39:02.262Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/cba503aa-f40f-4608-b647-3f4eeb1e5db9",
+      "discordThreadId": "1463421559807938675",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-support-engineer-apac-remote-2026-01-21-1",
+      "jobId": "supabase-support-engineer-apac-remote",
+      "company": "supabase",
+      "title": "Support Engineer (APAC)",
+      "postedToDiscord": "2026-01-21T06:34:58.383Z",
+      "sourceDate": "2025-03-20T18:51:09.252+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09",
+      "discordThreadId": "1463421591609278495",
+      "instanceNumber": 1
+    },
+    {
+      "id": "railway-infra-engineer-datacenters-remote-united-states-2026-01-21-1",
+      "jobId": "railway-infra-engineer-datacenters-remote-united-states",
+      "company": "railway",
+      "title": "Infra Engineer - Datacenters",
+      "postedToDiscord": "2026-01-21T06:35:02.093Z",
+      "sourceDate": "2025-02-03T20:01:07.475+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/541836a1-6d3f-47bf-845f-5f48fe547568",
+      "discordThreadId": "1463421599628923006",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-support-engineer-amer-remote-2026-01-21-1",
+      "jobId": "supabase-support-engineer-amer-remote",
+      "company": "supabase",
+      "title": "Support Engineer (AMER)",
+      "postedToDiscord": "2026-01-21T06:35:03.858Z",
+      "sourceDate": "2025-01-15T16:41:31.938+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
+      "discordThreadId": "1463421615604764833",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2037,
+    "totalJobs": 2046,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T06:19:41.135Z",
+      "date": "2026-01-21T06:35:03.858Z",
       "archived": 0
     }
   }
