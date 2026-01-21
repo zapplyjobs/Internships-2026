@@ -4662,5 +4662,104 @@
     "sourceUrl": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2026-Summer-Corporate-Internship-Program--Technology-Space_R-009603",
     "discordThreadId": "1460829511099748455",
     "instanceNumber": 1
+  },
+  {
+    "id": "at-t-technology-development-program-intern-2026-dallas-2026-01-14-1",
+    "jobId": "at-t-technology-development-program-intern-2026-dallas",
+    "company": "AT&T",
+    "title": "Technology Development Program Intern - 2026",
+    "postedToDiscord": "2026-01-14T03:32:49.203Z",
+    "sourceDate": "2026-01-13T23:20:09.000Z",
+    "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTCollegeSpecialInvite/job/Dallas-Texas/Technology-Development-Program-Intern--2026-_R-80658-1",
+    "discordThreadId": "1460839028948729932",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paccar-intern-advanced-technology-burlington-2026-01-14-1",
+    "jobId": "paccar-intern-advanced-technology-burlington",
+    "company": "Paccar",
+    "title": "Intern - Advanced Technology",
+    "postedToDiscord": "2026-01-14T03:32:52.713Z",
+    "sourceDate": "2026-01-13T23:19:41.000Z",
+    "sourceUrl": "https://jobs.paccar.com/job/Mount-Vernon-Summer-Internship-2026-Advanced-Technology-WA-98273-9671/1283039201/?ats=successfactors",
+    "discordThreadId": "1460839044522053825",
+    "instanceNumber": 1
+  },
+  {
+    "id": "parsons-computer-vision-robotics-intern-westminster-2026-01-14-1",
+    "jobId": "parsons-computer-vision-robotics-intern-westminster",
+    "company": "Parsons",
+    "title": "Computer Vision / Robotics Intern",
+    "postedToDiscord": "2026-01-14T03:32:56.391Z",
+    "sourceDate": "2026-01-13T23:19:32.000Z",
+    "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision---Robotics-Intern---Summer-2026_R176218-1",
+    "discordThreadId": "1460839059835584585",
+    "instanceNumber": 1
+  },
+  {
+    "id": "parsons-software-development-intern-summer-2026-westminster-2026-01-14-1",
+    "jobId": "parsons-software-development-intern-summer-2026-westminster",
+    "company": "Parsons",
+    "title": "Software Development Intern - Summer 2026",
+    "postedToDiscord": "2026-01-14T03:33:00.000Z",
+    "sourceDate": "2026-01-13T23:19:25.000Z",
+    "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Software-Development-Intern---Summer-2026_R176219-2",
+    "discordThreadId": "1460839074909655236",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stantec-hydrogeology-intern-environmental-services-wayzata-2026-01-14-1",
+    "jobId": "stantec-hydrogeology-intern-environmental-services-wayzata",
+    "company": "Stantec",
+    "title": "Hydrogeology Intern - Environmental Services",
+    "postedToDiscord": "2026-01-14T03:33:06.709Z",
+    "sourceDate": "2026-01-13T23:20:03.000Z",
+    "sourceUrl": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1003653",
+    "discordThreadId": "1460839102390730854",
+    "instanceNumber": 1
+  },
+  {
+    "id": "medpace-clinical-informatics-intern-fall-2026-cincinnati-2026-01-14-1",
+    "jobId": "medpace-clinical-informatics-intern-fall-2026-cincinnati",
+    "company": "Medpace, Inc.",
+    "title": "Clinical Informatics Intern - Fall 2026",
+    "postedToDiscord": "2026-01-14T03:33:13.359Z",
+    "sourceDate": "2026-01-13T23:18:39.000Z",
+    "sourceUrl": "https://careers.medpace.com/jobs/12448?lang=en-us&icims=1",
+    "discordThreadId": "1460839130824184067",
+    "instanceNumber": 1
+  },
+  {
+    "id": "medpace-clinical-informatics-intern-cincinnati-2026-01-14-1",
+    "jobId": "medpace-clinical-informatics-intern-cincinnati",
+    "company": "Medpace, Inc.",
+    "title": "Clinical Informatics Intern",
+    "postedToDiscord": "2026-01-14T03:33:13.363Z",
+    "sourceDate": "2026-01-13T23:18:37.000Z",
+    "sourceUrl": "https://careers.medpace.com/jobs/12447?lang=en-us&icims=1",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "enfra-engineering-intern-emerging-technologies-salt-lake-city-2026-01-14-1",
+    "jobId": "enfra-engineering-intern-emerging-technologies-salt-lake-city",
+    "company": "ENFRA",
+    "title": "Engineering Intern - Emerging Technologies",
+    "postedToDiscord": "2026-01-14T03:33:16.976Z",
+    "sourceDate": "2026-01-13T23:10:52.000Z",
+    "sourceUrl": "https://careers-enfra.icims.com/jobs/9054/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460839145717895404",
+    "instanceNumber": 1
+  },
+  {
+    "id": "legrand-digital-analytics-intern-farmington-2026-01-14-1",
+    "jobId": "legrand-digital-analytics-intern-farmington",
+    "company": "Legrand",
+    "title": "Digital Analytics Intern",
+    "postedToDiscord": "2026-01-14T03:33:23.510Z",
+    "sourceDate": "2026-01-13T23:13:44.000Z",
+    "sourceUrl": "https://jobs-legrand.icims.com/jobs/9717/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460839173949886740",
+    "instanceNumber": 1
   }
 ]
