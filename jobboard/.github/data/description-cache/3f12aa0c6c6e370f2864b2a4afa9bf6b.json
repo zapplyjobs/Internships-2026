@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/observeinc/09b71d19-6b8e-406e-9ab9-6668747d6ccb/application",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "What we do Observe is a SaaS observability platform that enables Engineering and DevOps teams to troubleshoot modern distributed applications 10x faster. We consolidate machine-generated data from applications and transform it into human-understandable insights. The runtime team is part of our broader backend organization, owning Observe's core data transformation pipelines and user query execution paths. Our systems process over 2PB of data daily and execute more than 200M queries. What we are building The Observe platform relies heavily on Snowflake as our storage and execution engine. Our team is exploring ways to optimize our existing deployment while also investigating alternative platforms and execution models, including: Alternative generic databases such as ClickHouse or DuckDB Application-specific databases such as InfluxDB or TimescaleDB Streaming systems like Apache Spark or Apache Flink Whom we are looking for We seek a PhD candidate in database systems who wants to create real-world impact. The ideal candidate will quickly integrate into our daily operations to gain deep system knowledge, then independently pursue areas of mutual interest to enhance our platform. As a startup with approximately 75 engineers, every contribution matters, and we're deeply invested in your project's success. Requirements: Currently pursuing a PhD in database systems or related field Demonstrated experience designing, implementing, and evaluating database system features Strong academic performance and research background Practical software engineering experience, ideally through industry internships or open-source contributions Internship Details: We accept applications for 12+ week internships, with strong preference for candidates available for up to 6 months. This is a full-time, in-office position based in either San Mateo, CA or Zurich, Switzerland. What we are offering Working together with a world class team of software engineers holding thousands of citations and dozens of patents Competitive pay for interns both in the US and in Switzerland Close mentorship and real-world impact beyond academic considerations",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/observeinc/09b71d19-6b8e-406e-9ab9-6668747d6ccb/application",
+      "fetchedAt": "2026-01-21T07:08:46.034Z"
+    }
+  },
+  "cachedAt": 1768979326034
+}
