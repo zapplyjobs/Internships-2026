@@ -1,205 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T07:09:46.082Z",
+  "lastUpdated": "2026-01-21T07:22:34.587Z",
   "jobs": [
-    {
-      "id": "agzen-ai-ml-data-intern-cambridge-2026-01-14-1",
-      "jobId": "agzen-ai-ml-data-intern-cambridge",
-      "company": "AgZen",
-      "title": "AI/ML/Data Intern",
-      "postedToDiscord": "2026-01-14T07:10:21.668Z",
-      "sourceDate": "2025-10-21T00:25:19.000Z",
-      "sourceUrl": "https://www.agzen.com/jobs?gh_jid=4048593009",
-      "discordThreadId": "1460893774883328075",
-      "instanceNumber": 1
-    },
-    {
-      "id": "goldman-sachs-corporate-and-workplace-solutions-summer-analyst-new-york-2026-01-14-1",
-      "jobId": "goldman-sachs-corporate-and-workplace-solutions-summer-analyst-new-york",
-      "company": "Goldman Sachs",
-      "title": "Corporate and Workplace Solutions - Summer Analyst",
-      "postedToDiscord": "2026-01-14T07:10:28.023Z",
-      "sourceDate": "2025-08-17T08:37:22.000Z",
-      "sourceUrl": "https://higher.gs.com/roles/150598",
-      "discordThreadId": "1460893803178360905",
-      "instanceNumber": 1
-    },
-    {
-      "id": "connectprep-data-analyst-internship-westport-2026-01-14-1",
-      "jobId": "connectprep-data-analyst-internship-westport",
-      "company": "ConnectPrep",
-      "title": "Data Analyst Internship",
-      "postedToDiscord": "2026-01-14T07:10:34.669Z",
-      "sourceDate": "2025-08-15T13:32:12.000Z",
-      "sourceUrl": "https://apply.workable.com/connectprep/j/BDD172BF52/",
-      "discordThreadId": "1460893830114050058",
-      "instanceNumber": 1
-    },
-    {
-      "id": "capital-one-current-master-s-data-science-internship-mclean-2026-01-14-1",
-      "jobId": "capital-one-current-master-s-data-science-internship-mclean",
-      "company": "Capital One",
-      "title": "Current Master's - Data Science Internship",
-      "postedToDiscord": "2026-01-14T07:10:38.085Z",
-      "sourceDate": "2025-08-15T13:29:55.000Z",
-      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2026_R218620-1",
-      "discordThreadId": "1460893844970279058",
-      "instanceNumber": 1
-    },
-    {
-      "id": "microsoft-data-science-redmond-2026-01-14-1",
-      "jobId": "microsoft-data-science-redmond",
-      "company": "Microsoft",
-      "title": "Data Science",
-      "postedToDiscord": "2026-01-14T07:10:41.410Z",
-      "sourceDate": "2025-08-12T15:58:02.000Z",
-      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond",
-      "discordThreadId": "1460893859075723499",
-      "instanceNumber": 1
-    },
-    {
-      "id": "databricks-data-science-intern-mountain-view-2026-01-14-1",
-      "jobId": "databricks-data-science-intern-mountain-view",
-      "company": "Databricks",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2026-01-14T07:10:44.794Z",
-      "sourceDate": "2025-08-12T13:59:29.000Z",
-      "sourceUrl": "https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002",
-      "discordThreadId": "1460893873260728433",
-      "instanceNumber": 1
-    },
-    {
-      "id": "borgwarner-data-science-intern-auburn-hills-2026-01-14-1",
-      "jobId": "borgwarner-data-science-intern-auburn-hills",
-      "company": "BorgWarner",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2026-01-14T07:10:48.176Z",
-      "sourceDate": "2025-08-07T00:56:11.000Z",
-      "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2025-2865",
-      "discordThreadId": "1460893887471161364",
-      "instanceNumber": 1
-    },
-    {
-      "id": "samsung-nlp-mountain-view-2026-01-14-1",
-      "jobId": "samsung-nlp-mountain-view",
-      "company": "Samsung",
-      "title": "NLP",
-      "postedToDiscord": "2026-01-14T07:10:54.912Z",
-      "sourceDate": "2025-08-12T14:05:50.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8067679002",
-      "discordThreadId": "1460893914566365308",
-      "instanceNumber": 1
-    },
-    {
-      "id": "moog-artificial-intelligence-buffalo-2026-01-14-1",
-      "jobId": "moog-artificial-intelligence-buffalo",
-      "company": "Moog",
-      "title": "Artificial Intelligence",
-      "postedToDiscord": "2026-01-14T07:10:58.202Z",
-      "sourceDate": "2025-08-07T05:08:34.000Z",
-      "sourceUrl": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
-      "discordThreadId": "1460893930013855857",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cultivarium-computer-vision-and-machine-learning-intern-watertown-2026-01-14-1",
-      "jobId": "cultivarium-computer-vision-and-machine-learning-intern-watertown",
-      "company": "Cultivarium",
-      "title": "Computer Vision and Machine Learning Intern",
-      "postedToDiscord": "2026-01-14T07:18:52.371Z",
-      "sourceDate": "2025-08-05T07:14:43.000Z",
-      "sourceUrl": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30",
-      "discordThreadId": "1460895918328119379",
-      "instanceNumber": 1
-    },
-    {
-      "id": "capital-one-technology-internship-program-summer-2026-mclean-2026-01-14-1",
-      "jobId": "capital-one-technology-internship-program-summer-2026-mclean",
-      "company": "Capital One",
-      "title": "Technology Internship Program - Summer 2026",
-      "postedToDiscord": "2026-01-14T07:18:55.867Z",
-      "sourceDate": "2025-08-04T18:06:23.000Z",
-      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
-      "discordThreadId": "1460895932475375658",
-      "instanceNumber": 1
-    },
-    {
-      "id": "reality-defender-computer-vision-intern-global-remote-2026-01-14-1",
-      "jobId": "reality-defender-computer-vision-intern-global-remote",
-      "company": "Reality Defender",
-      "title": "Computer Vision Intern",
-      "postedToDiscord": "2026-01-14T07:18:57.581Z",
-      "sourceDate": "2025-07-30T14:56:47.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
-      "discordThreadId": "1460895947314954425",
-      "instanceNumber": 1
-    },
-    {
-      "id": "new-york-life-technology-analyst-intern-new-york-2026-01-14-1",
-      "jobId": "new-york-life-technology-analyst-intern-new-york",
-      "company": "New York Life",
-      "title": "Technology Analyst Intern",
-      "postedToDiscord": "2026-01-14T07:19:04.088Z",
-      "sourceDate": "2025-08-05T02:26:33.000Z",
-      "sourceUrl": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance",
-      "discordThreadId": "1460895966935650393",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bmw-product-development-telematics-connecteddrive-services-woodcliff-lake-2026-01-14-1",
-      "jobId": "bmw-product-development-telematics-connecteddrive-services-woodcliff-lake",
-      "company": "BMW Group",
-      "title": "Product Development - Telematics & ConnectedDrive Services",
-      "postedToDiscord": "2026-01-14T07:19:10.514Z",
-      "sourceDate": "2025-07-30T19:17:53.000Z",
-      "sourceUrl": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html",
-      "discordThreadId": "1460895994227986514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tencent-cloud-media-services-intern-palo-alto-2026-01-14-1",
-      "jobId": "tencent-cloud-media-services-intern-palo-alto",
-      "company": "Tencent",
-      "title": "Cloud Media Services Intern",
-      "postedToDiscord": "2026-01-14T07:19:14.244Z",
-      "sourceDate": "2025-07-30T19:12:31.000Z",
-      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781",
-      "discordThreadId": "1460896008736084052",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hitachi-research-internship-ai-agents-for-industrial-applications-santa-clara-2026-01-14-1",
-      "jobId": "hitachi-research-internship-ai-agents-for-industrial-applications-santa-clara",
-      "company": "Hitachi",
-      "title": "Research Internship – AI Agents for Industrial Applications",
-      "postedToDiscord": "2026-01-14T07:19:17.891Z",
-      "sourceDate": "2025-07-30T14:55:03.000Z",
-      "sourceUrl": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
-      "discordThreadId": "1460896024573907110",
-      "instanceNumber": 1
-    },
-    {
-      "id": "datavisor-software-engineer-mountain-view-2026-01-14-1",
-      "jobId": "datavisor-software-engineer-mountain-view",
-      "company": "Datavisor",
-      "title": "Software Engineer",
-      "postedToDiscord": "2026-01-14T07:19:21.340Z",
-      "sourceDate": "2025-07-29T14:54:32.000Z",
-      "sourceUrl": "https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/",
-      "discordThreadId": "1460896039430127709",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asana-data-science-intern-san-francisco-2026-01-14-1",
-      "jobId": "asana-data-science-intern-san-francisco",
-      "company": "Asana",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2026-01-14T07:19:27.975Z",
-      "sourceDate": "2025-07-30T17:53:17.000Z",
-      "sourceUrl": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
-      "discordThreadId": "1460896066537918576",
-      "instanceNumber": 1
-    },
     {
       "id": "genworth-it-development-program-intern-richmond-2026-01-14-1",
       "jobId": "genworth-it-development-program-intern-richmond",
@@ -22705,14 +22507,113 @@
       "sourceUrl": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115794",
       "discordThreadId": "1463430341350916197",
       "instanceNumber": 1
+    },
+    {
+      "id": "farmers-insurance-analytics-engineer-intern-middleville-2026-01-21-1",
+      "jobId": "farmers-insurance-analytics-engineer-intern-middleville",
+      "company": "Farmers Insurance",
+      "title": "Analytics Engineer Intern",
+      "postedToDiscord": "2026-01-21T07:21:51.609Z",
+      "sourceDate": "2026-01-18T23:18:50.000Z",
+      "sourceUrl": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Analytics-Engineer-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481257/?ats=successfactors",
+      "discordThreadId": "1463433384641695768",
+      "instanceNumber": 1
+    },
+    {
+      "id": "connectprep-data-analyst-internship-remote-in-usa-2026-01-21-1",
+      "jobId": "connectprep-data-analyst-internship-remote-in-usa",
+      "company": "ConnectPrep",
+      "title": "Data Analyst Internship",
+      "postedToDiscord": "2026-01-21T07:21:55.178Z",
+      "sourceDate": "2026-01-18T23:17:09.000Z",
+      "sourceUrl": "https://apply.workable.com/connectprep/j/E7A5D4602F/apply",
+      "discordThreadId": "1463433399514697846",
+      "instanceNumber": 1
+    },
+    {
+      "id": "farmers-insurance-decision-science-intern-middleville-2026-01-21-1",
+      "jobId": "farmers-insurance-decision-science-intern-middleville",
+      "company": "Farmers Insurance",
+      "title": "Decision Science Intern",
+      "postedToDiscord": "2026-01-21T07:21:58.638Z",
+      "sourceDate": "2026-01-18T23:08:11.000Z",
+      "sourceUrl": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Decision-Science-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481557/?ats=successfactors",
+      "discordThreadId": "1463433414613930026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-walt-disney-company-walt-disney-world-transportation-logistics-analytics-intern-celebration-2026-01-21-1",
+      "jobId": "the-walt-disney-company-walt-disney-world-transportation-logistics-analytics-intern-celebration",
+      "company": "The Walt Disney Company",
+      "title": "Walt Disney World Transportation Logistics & Analytics Intern",
+      "postedToDiscord": "2026-01-21T07:22:02.030Z",
+      "sourceDate": "2026-01-19T07:22:25.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Summer-Fall-2026_10140614",
+      "discordThreadId": "1463433428547408015",
+      "instanceNumber": 1
+    },
+    {
+      "id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-middleville-2026-01-21-1",
+      "jobId": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-middleville",
+      "company": "Farmers Insurance",
+      "title": "Data Scientist Summer Internship: Woodland Hills - CA/ Hartford - CT/ Caledonia",
+      "postedToDiscord": "2026-01-21T07:22:08.531Z",
+      "sourceDate": "2026-01-18T23:08:21.000Z",
+      "sourceUrl": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Data-Scientist-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481457/?ats=successfactors",
+      "discordThreadId": "1463433455604858966",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sf-giants-player-development-associate-san-jose-san-jose-2026-01-21-1",
+      "jobId": "sf-giants-player-development-associate-san-jose-san-jose",
+      "company": "SF Giants",
+      "title": "Player Development Associate - San Jose",
+      "postedToDiscord": "2026-01-21T07:22:16.852Z",
+      "sourceDate": "2026-01-19T02:19:20.000Z",
+      "sourceUrl": "https://jobs.lever.co/sfgiants/96e7533d-c1be-4f87-8bf3-ed35e99ddeb6/apply",
+      "discordThreadId": "1463433483266424832",
+      "instanceNumber": 1
+    },
+    {
+      "id": "observe-software-engineering-intern-for-database-backend-san-mateo-2026-01-21-1",
+      "jobId": "observe-software-engineering-intern-for-database-backend-san-mateo",
+      "company": "Observe",
+      "title": "Software Engineering Intern for Database Backend",
+      "postedToDiscord": "2026-01-21T07:22:24.784Z",
+      "sourceDate": "2025-07-25T22:01:44.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/observeinc/09b71d19-6b8e-406e-9ab9-6668747d6ccb/application",
+      "discordThreadId": "1463433524328792096",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-engineering-intern-santa-rosa-2026-01-21-1",
+      "jobId": "keysight-engineering-intern-santa-rosa",
+      "company": "Keysight Technologies",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2026-01-21T07:22:28.111Z",
+      "sourceDate": "2025-09-20T00:15:39.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/49618?lang=en-us&icims=1",
+      "discordThreadId": "1463433538568327309",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apl-logistics-intern-technology-solutions-and-digital-products-scottsdale-2026-01-21-1",
+      "jobId": "apl-logistics-intern-technology-solutions-and-digital-products-scottsdale",
+      "company": "APL Logistics",
+      "title": "Intern - Technology Solutions and Digital Products",
+      "postedToDiscord": "2026-01-21T07:22:34.587Z",
+      "sourceDate": "2026-01-19T10:31:48.000Z",
+      "sourceUrl": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3753",
+      "discordThreadId": "1463433565709668507",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2064,
+    "totalJobs": 2055,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T07:09:46.082Z",
+      "date": "2026-01-21T07:22:34.587Z",
       "archived": 0
     }
   }
