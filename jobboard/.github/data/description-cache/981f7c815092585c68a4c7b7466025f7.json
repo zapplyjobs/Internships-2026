@@ -1,0 +1,21 @@
+{
+  "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7597991003",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Dark Wolf is looking for summer interns to join us at our BRAND NEW office in Tampa, FL. Tampa is one of the fastest-growing tech hubs in the Southeast. Outside of the office, you’ll join a community of interns with access to local networking events, professional development workshops, and the vibrant culture of Dark Wolf, spanning multiple areas. Location: Tampa, FL Duration: June 2026 – August 2026 Type: Full-Time Internship (Paid) Role Overview As an intern in our Tampa technology hub, you will work at the intersection of modern software delivery and emerging intelligence. This role is designed for students who are passionate about building scalable applications, leveraging cloud infrastructure, and implementing data-driven AI solutions. You won't just be shadowing; you will be an active member of an Agile squad contributing to production-level code. Key Responsibilities Software Development: Design, develop, and test features using languages such as Python, Java, or Node.js. Cloud & Delivery: Assist in deploying applications to cloud environments (AWS, Azure, or GCP) and managing CI/CD pipelines to automate software delivery. Data Engineering: Build and optimize data pipelines to ensure high-quality data is available for analysis and model training. AI & Machine Learning: Support the integration of Generative AI and LLMs into existing workflows, performing prompt engineering and model fine-tuning. Agile Collaboration: Participate in daily stand-ups, sprint planning, and retrospectives to experience the full Software Development Life Cycle (SDLC). Required Skills & Qualifications Current Enrollment: Pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Computer Engineering, or a related technical field at the University of Florida. Technical Proficiency: Foundational knowledge in at least one major programming language (Python preferred for AI/Data tracks). Problem Solving: Strong analytical skills and a \"Go Gator\" attitude toward tackling complex technical challenges. Communication: Ability to clearly communicate technical concepts to both technical and non-technical team members. Preferred Experience Familiarity with containerization tools like Docker or Kubernetes. Knowledge of SQL and NoSQL databases. Exposure to AI frameworks such as PyTorch, TensorFlow, or LangChain. Previous project work involving cloud-native architecture. We are proud to be an EEO/AA employer Minorities/Women/Veterans/Disabled and other protected categories. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.",
+    "requirements": [
+      "Agile Collaboration: Participate in daily stand-ups, sprint planning, and retrospectives to experience the full Software Development Life Cycle (SDLC).",
+      "Current Enrollment: Pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Computer Engineering, or a related technical field at the University of Florida.",
+      "Technical Proficiency: Foundational knowledge in at least one major programming language (Python preferred for AI/Data tracks).",
+      "Knowledge of SQL and NoSQL databases."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7597991003",
+      "fetchedAt": "2026-01-21T23:31:54.850Z"
+    }
+  },
+  "cachedAt": 1769038314850
+}
