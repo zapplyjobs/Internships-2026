@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T05:02:54.523Z",
+  "lastUpdated": "2026-01-21T05:18:16.674Z",
   "jobs": [
     {
       "id": "varda-space-industries-mission-software-internship-python-el-segundo-2026-01-14-1",
@@ -21825,14 +21825,113 @@
       "sourceUrl": "https://jobs.lever.co/spotify/cb9f8bda-6e7e-4b22-b9ed-ee229770ca13",
       "discordThreadId": "1463398416993488992",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-principal-research-scientist-music-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-principal-research-scientist-music-new-york-ny",
+      "company": "spotify",
+      "title": "Principal Research Scientist - Music",
+      "postedToDiscord": "2026-01-21T05:17:49.550Z",
+      "sourceDate": "2025-10-23T19:04:13.533Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/e7ead7e0-5033-4058-9bbf-006811a5147e",
+      "discordThreadId": "1463402170786381917",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-staff-research-scientist-music-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-staff-research-scientist-music-new-york-ny",
+      "company": "spotify",
+      "title": "Staff Research Scientist - Music",
+      "postedToDiscord": "2026-01-21T05:17:52.842Z",
+      "sourceDate": "2025-10-23T19:01:45.505Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/33114d31-b3d0-4bbb-bf7c-ab32596e8969",
+      "discordThreadId": "1463402184925249601",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-senior-research-scientist-music-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-senior-research-scientist-music-new-york-ny",
+      "company": "spotify",
+      "title": "Senior Research Scientist - Music",
+      "postedToDiscord": "2026-01-21T05:17:56.194Z",
+      "sourceDate": "2025-10-23T18:56:23.111Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/c08408d0-1ed0-41b4-a8eb-e170fdd4bc7d",
+      "discordThreadId": "1463402198875508892",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-senior-content-accountant-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-senior-content-accountant-new-york-ny",
+      "company": "spotify",
+      "title": "Senior Content Accountant",
+      "postedToDiscord": "2026-01-21T05:17:59.690Z",
+      "sourceDate": "2025-10-23T16:48:05.911Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/32297d46-a347-4680-849c-1c56d0a2666a",
+      "discordThreadId": "1463402212872159365",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-finance-program-manager-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-finance-program-manager-new-york-ny",
+      "company": "spotify",
+      "title": "Finance Program Manager",
+      "postedToDiscord": "2026-01-21T05:18:03.002Z",
+      "sourceDate": "2025-10-16T21:38:22.498Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/dbe8398a-1e65-401a-ac49-52c88a7530d3",
+      "discordThreadId": "1463402227572936828",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-payroll-specialist-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-payroll-specialist-new-york-ny",
+      "company": "spotify",
+      "title": "Payroll Specialist",
+      "postedToDiscord": "2026-01-21T05:18:06.682Z",
+      "sourceDate": "2025-10-16T17:51:15.097Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/184f631b-b751-49d9-bacb-5695b1e3a8e8",
+      "discordThreadId": "1463402241661603969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clerk-senior-software-engineer-growth-remote-2026-01-21-1",
+      "jobId": "clerk-senior-software-engineer-growth-remote",
+      "company": "clerk",
+      "title": "Senior Software Engineer, Growth",
+      "postedToDiscord": "2026-01-21T05:18:08.507Z",
+      "sourceDate": "2025-10-15T20:49:36.914+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/2b701338-d869-49aa-9223-fca71967e9a9",
+      "discordThreadId": "1463402257331523636",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-machine-learning-engineering-manager-personalization-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-machine-learning-engineering-manager-personalization-new-york-ny",
+      "company": "spotify",
+      "title": "Machine Learning Engineering Manager, Personalization",
+      "postedToDiscord": "2026-01-21T05:18:11.838Z",
+      "sourceDate": "2025-10-15T14:26:30.578Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/c3e23b18-8bab-436a-b0d9-cfe8ccbc1ec5",
+      "discordThreadId": "1463402264638128285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-account-executive-emea-remote-2026-01-21-1",
+      "jobId": "supabase-account-executive-emea-remote",
+      "company": "supabase",
+      "title": " Account Executive, EMEA",
+      "postedToDiscord": "2026-01-21T05:18:16.674Z",
+      "sourceDate": "2025-10-16T18:37:12.341+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "discordThreadId": "1463402291699908712",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1984,
+    "totalJobs": 1993,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T05:02:54.523Z",
+      "date": "2026-01-21T05:18:16.674Z",
       "archived": 0
     }
   }
