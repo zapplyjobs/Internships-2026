@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T21:04:12.775Z",
+  "lastUpdated": "2026-01-21T22:13:27.422Z",
   "jobs": [
-    {
-      "id": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-fall-2026-cincinnati-2026-01-14-1",
-      "jobId": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-fall-2026-cincinnati",
-      "company": "Fifth Third Bank",
-      "title": "Software Engineer Co-op - Enterprise Finance Applications - Fall 2026",
-      "postedToDiscord": "2026-01-14T21:17:30.413Z",
-      "sourceDate": "2026-01-14T16:37:57.000Z",
-      "sourceUrl": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Fall-2026_R63536",
-      "discordThreadId": "1461106967069331490",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jones-lang-lasalle-jll-technology-analyst-intern-phoenix-2026-01-14-1",
-      "jobId": "jones-lang-lasalle-jll-technology-analyst-intern-phoenix",
-      "company": "Jones Lang LaSalle (JLL)",
-      "title": "Technology Analyst Intern",
-      "postedToDiscord": "2026-01-14T21:17:34.202Z",
-      "sourceDate": "2026-01-14T16:36:31.000Z",
-      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Technology-Analyst-Summer-2026-Internship_REQ478662",
-      "discordThreadId": "1461106982114169105",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fifth-third-bank-enterprise-data-office-college-co-op-fall-2026-cincinnati-cincinnati-2026-01-14-1",
-      "jobId": "fifth-third-bank-enterprise-data-office-college-co-op-fall-2026-cincinnati-cincinnati",
-      "company": "Fifth Third Bank",
-      "title": "Enterprise Data Office College Co-op - Fall 2026 - Cincinnati",
-      "postedToDiscord": "2026-01-14T21:17:40.749Z",
-      "sourceDate": "2026-01-14T16:37:52.000Z",
-      "sourceUrl": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2026---Cincinnati_R64382",
-      "discordThreadId": "1461107010421522587",
-      "instanceNumber": 1
-    },
     {
       "id": "intapp-data-ai-intern-palo-alto-2026-01-15-1",
       "jobId": "intapp-data-ai-intern-palo-alto",
@@ -22617,6 +22584,39 @@
       "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Conservation-GIS-Intern_REQ_0000075060-1",
       "discordThreadId": "1463640335535309104",
       "instanceNumber": 1
+    },
+    {
+      "id": "stanley-black-decker-engineering-intern-digital-connected-summer-2026-new-britain-2026-01-21-1",
+      "jobId": "stanley-black-decker-engineering-intern-digital-connected-summer-2026-new-britain",
+      "company": "Stanley Black & Decker",
+      "title": "Engineering Intern - Digital & Connected - Summer 2026",
+      "postedToDiscord": "2026-01-21T22:13:17.490Z",
+      "sourceDate": "2026-01-21T21:26:48.000Z",
+      "sourceUrl": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/New-Britain-CT-United-States/Engineering-Intern--Digital---Connected---Summer-2026_REQ-1000044134",
+      "discordThreadId": "1463657718836498719",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jones-lang-lasalle-jll-ai-development-intern-2026-chicago-dallas-2026-01-21-1",
+      "jobId": "jones-lang-lasalle-jll-ai-development-intern-2026-chicago-dallas",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "AI Development Intern 2026 - Chicago",
+      "postedToDiscord": "2026-01-21T22:13:23.947Z",
+      "sourceDate": "2026-01-21T21:25:40.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/AI-Development-Intern-2026---Chicago_REQ475898",
+      "discordThreadId": "1463657748217594000",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jones-lang-lasalle-jll-business-intelligence-summer-2026-internship-atlanta-ga-atlanta-2026-01-21-1",
+      "jobId": "jones-lang-lasalle-jll-business-intelligence-summer-2026-internship-atlanta-ga-atlanta",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Business Intelligence Summer 2026 Internship - Atlanta - GA",
+      "postedToDiscord": "2026-01-21T22:13:27.421Z",
+      "sourceDate": "2026-01-21T21:25:24.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Business-Intelligence-Summer-2026-Internship---Atlanta--GA_REQ479720",
+      "discordThreadId": "1463657762696200368",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -22624,7 +22624,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T21:04:12.775Z",
+      "date": "2026-01-21T22:13:27.422Z",
       "archived": 0
     }
   }
