@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T03:58:58.582Z",
+  "lastUpdated": "2026-01-21T04:23:18.845Z",
   "jobs": [
-    {
-      "id": "by-light-professional-it-services-intern-orlando-2026-01-14-1",
-      "jobId": "by-light-professional-it-services-intern-orlando",
-      "company": "By Light Professional IT Services",
-      "title": "Intern",
-      "postedToDiscord": "2026-01-14T04:04:21.520Z",
-      "sourceDate": "2025-11-12T23:38:15.000Z",
-      "sourceUrl": "https://jobs-bylight.icims.com/jobs/10711/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460846967176429709",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sherwin-williams-2026-r-d-product-engineering-co-op-cleveland-2026-01-14-1",
-      "jobId": "sherwin-williams-2026-r-d-product-engineering-co-op-cleveland",
-      "company": "Sherwin-Williams",
-      "title": "2026 R&D Product Engineering Co-Op",
-      "postedToDiscord": "2026-01-14T04:04:24.844Z",
-      "sourceDate": "2025-10-15T21:51:05.000Z",
-      "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2540039",
-      "discordThreadId": "1460846981445320908",
-      "instanceNumber": 1
-    },
-    {
-      "id": "northrop-grumman-2026-systems-software-intern-boulder-co-boulder-2026-01-14-1",
-      "jobId": "northrop-grumman-2026-systems-software-intern-boulder-co-boulder",
-      "company": "Northrop Grumman",
-      "title": "2026 Systems/Software Intern-Boulder CO",
-      "postedToDiscord": "2026-01-14T04:04:28.197Z",
-      "sourceDate": "2025-10-15T03:25:02.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2026-Systems-Software-Intern-Boulder-CO_R10211112",
-      "discordThreadId": "1460846995483918426",
-      "instanceNumber": 1
-    },
-    {
-      "id": "idemia-software-engineer-internship-summer-2026-reston-2026-01-14-1",
-      "jobId": "idemia-software-engineer-internship-summer-2026-reston",
-      "company": "IDEMIA",
-      "title": "Software Engineer Internship - Summer 2026",
-      "postedToDiscord": "2026-01-14T04:04:31.619Z",
-      "sourceDate": "2025-10-03T06:12:55.000Z",
-      "sourceUrl": "https://uscareers-idemia.icims.com/jobs/8294/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460847009505218611",
-      "instanceNumber": 1
-    },
-    {
-      "id": "parsons-identity-solutions-intern-bluemont-2026-01-14-1",
-      "jobId": "parsons-identity-solutions-intern-bluemont",
-      "company": "Parsons",
-      "title": "Identity Solutions Intern",
-      "postedToDiscord": "2026-01-14T04:04:38.068Z",
-      "sourceDate": "2025-11-10T23:25:23.000Z",
-      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/Identity-Solutions---Intern-Summer-2026_R174371-1",
-      "discordThreadId": "1460847036424519691",
-      "instanceNumber": 1
-    },
-    {
-      "id": "prime-operations-intern-downers-grove-2026-01-14-1",
-      "jobId": "prime-operations-intern-downers-grove",
-      "company": "Prime",
-      "title": "Operations Intern",
-      "postedToDiscord": "2026-01-14T04:04:44.502Z",
-      "sourceDate": "2025-12-05T03:34:18.000Z",
-      "sourceUrl": "https://careers-primeinc.icims.com/jobs/4915/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460847063456682147",
-      "instanceNumber": 1
-    },
     {
       "id": "varda-space-industries-mission-software-internship-python-el-segundo-2026-01-14-1",
       "jobId": "varda-space-industries-mission-software-internship-python-el-segundo",
@@ -21594,14 +21528,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004",
       "discordThreadId": "1463382327307538636",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-security-engineer-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-security-engineer-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Security Engineer",
+      "postedToDiscord": "2026-01-21T04:22:37.305Z",
+      "sourceDate": "2025-11-19T09:05:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5551463004?gh_jid=5551463004",
+      "discordThreadId": "1463388278010019922",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-pilot-store-operations-specialist-contract-newark-nj-2026-01-21-1",
+      "jobId": "instacart-pilot-store-operations-specialist-contract-newark-nj",
+      "company": "instacart",
+      "title": "Pilot Store Operations Specialist (Contract)",
+      "postedToDiscord": "2026-01-21T04:22:40.713Z",
+      "sourceDate": "2025-11-12T18:00:31-05:00",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=7263289",
+      "discordThreadId": "1463388292396486740",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-machine-learning-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-machine-learning-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, Machine Learning",
+      "postedToDiscord": "2026-01-21T04:22:49.038Z",
+      "sourceDate": "2025-11-19T09:05:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
+      "discordThreadId": "1463388319680565289",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-accounting-manager-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-accounting-manager-los-angeles-ca",
+      "company": "nominal",
+      "title": "Accounting Manager",
+      "postedToDiscord": "2026-01-21T04:22:53.685Z",
+      "sourceDate": "2025-11-15T19:03:58.600Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b34c4e06-2965-4ced-ad55-ebe66253b7b6",
+      "discordThreadId": "1463388341440348340",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gohighlevel-sr-director-integrated-marketing-dallas-2026-01-21-1",
+      "jobId": "gohighlevel-sr-director-integrated-marketing-dallas",
+      "company": "gohighlevel",
+      "title": "Sr. Director, Integrated Marketing",
+      "postedToDiscord": "2026-01-21T04:22:55.418Z",
+      "sourceDate": "2025-11-13T22:10:50.084Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/03469b50-e3b8-403f-a3a0-138a292b6954",
+      "discordThreadId": "1463388361396850741",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-manager-design-tools-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-manager-design-tools-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Manager, Design Tools",
+      "postedToDiscord": "2026-01-21T04:23:02.361Z",
+      "sourceDate": "2025-11-19T09:05:42-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5505263004?gh_jid=5505263004",
+      "discordThreadId": "1463388381605134480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-account-executive-federal-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-account-executive-federal-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Account Executive, Federal",
+      "postedToDiscord": "2026-01-21T04:23:08.957Z",
+      "sourceDate": "2025-11-19T09:05:38-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5425993004?gh_jid=5425993004",
+      "discordThreadId": "1463388410633912453",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-account-executive-mid-market-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-account-executive-mid-market-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Account Executive, Mid-Market",
+      "postedToDiscord": "2026-01-21T04:23:12.427Z",
+      "sourceDate": "2025-11-19T09:05:37-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5422236004?gh_jid=5422236004",
+      "discordThreadId": "1463388425599193378",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-data-engineer-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-data-engineer-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Data Engineer",
+      "postedToDiscord": "2026-01-21T04:23:18.845Z",
+      "sourceDate": "2025-11-19T09:05:28-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004",
+      "discordThreadId": "1463388452799381504",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1963,
+    "totalJobs": 1966,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T03:58:58.582Z",
+      "date": "2026-01-21T04:23:18.845Z",
       "archived": 0
     }
   }
