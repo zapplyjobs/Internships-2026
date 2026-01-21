@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T07:49:16.400Z",
+  "lastUpdated": "2026-01-21T07:57:12.096Z",
   "jobs": [
-    {
-      "id": "jane-street-tools-compilers-research-and-development-intern-new-york-2026-01-14-1",
-      "jobId": "jane-street-tools-compilers-research-and-development-intern-new-york",
-      "company": "Jane Street",
-      "title": "Tools & Compilers Research and Development Intern",
-      "postedToDiscord": "2026-01-14T07:54:17.564Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://www.janestreet.com/join-jane-street/position/5869205002/",
-      "discordThreadId": "1460904831857197066",
-      "instanceNumber": 1
-    },
-    {
-      "id": "transmarket-devops-sre-intern-chicago-2026-01-14-1",
-      "jobId": "transmarket-devops-sre-intern-chicago",
-      "company": "TransMarket Group",
-      "title": "DevOps/SRE Intern",
-      "postedToDiscord": "2026-01-14T07:54:21.097Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749908007?gh_jid=4749908007",
-      "discordThreadId": "1460904846679871488",
-      "instanceNumber": 1
-    },
     {
       "id": "bnp-paribas-technology-analyst-intern-jersey-city-2026-01-14-1",
       "jobId": "bnp-paribas-technology-analyst-intern-jersey-city",
@@ -22727,14 +22705,47 @@
       "sourceUrl": "https://instacart.careers/job/?gh_jid=5917202",
       "discordThreadId": "1463440283114143788",
       "instanceNumber": 1
+    },
+    {
+      "id": "jabil-finance-data-engineer-intern-st-petersburg-2026-01-21-1",
+      "jobId": "jabil-finance-data-engineer-intern-st-petersburg",
+      "company": "Jabil",
+      "title": "Finance Data Engineer Intern",
+      "postedToDiscord": "2026-01-21T07:57:02.164Z",
+      "sourceDate": "2026-01-20T15:29:30.000Z",
+      "sourceUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance-Data-Engineering-Intern_J2437300",
+      "discordThreadId": "1463442237567275152",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vertiv-sales-data-science-internship-summer-2026-new-albany-2026-01-21-1",
+      "jobId": "vertiv-sales-data-science-internship-summer-2026-new-albany",
+      "company": "Vertiv",
+      "title": "Sales Data Science Internship - Summer 2026",
+      "postedToDiscord": "2026-01-21T07:57:05.700Z",
+      "sourceDate": "2026-01-20T15:15:54.000Z",
+      "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265543",
+      "discordThreadId": "1463442251848880149",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-travelers-companies-engineering-development-program-intern-edp-hartford-2026-01-21-1",
+      "jobId": "the-travelers-companies-engineering-development-program-intern-edp-hartford",
+      "company": "The Travelers Companies",
+      "title": "Engineering Development Program – Intern - Edp",
+      "postedToDiscord": "2026-01-21T07:57:12.096Z",
+      "sourceDate": "2025-09-02T07:51:03.000Z",
+      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-46518",
+      "discordThreadId": "1463442279212519437",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2066,
+    "totalJobs": 2067,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T07:49:16.400Z",
+      "date": "2026-01-21T07:57:12.096Z",
       "archived": 0
     }
   }
