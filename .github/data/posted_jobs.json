@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T06:56:32.799Z",
+  "lastUpdated": "2026-01-21T07:09:46.082Z",
   "jobs": [
     {
       "id": "agzen-ai-ml-data-intern-cambridge-2026-01-14-1",
@@ -22606,14 +22606,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/d5573afa-636c-4219-832f-386f498243bf",
       "discordThreadId": "1463427022045970529",
       "instanceNumber": 1
+    },
+    {
+      "id": "city-of-charlotte-4-yr-undergrad-intern-1-emergency-management-charlotte-2026-01-21-1",
+      "jobId": "city-of-charlotte-4-yr-undergrad-intern-1-emergency-management-charlotte",
+      "company": "City of Charlotte",
+      "title": "4 Yr Undergrad Intern 1 - Emergency Management",
+      "postedToDiscord": "2026-01-21T07:09:06.179Z",
+      "sourceDate": "2026-01-17T07:12:04.000Z",
+      "sourceUrl": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CLT-Center/XMLNAME-4-Yr-Undergrad-Intern-I---Emergency-Management_JR103078-1",
+      "discordThreadId": "1463430174468214987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usaa-technology-intern-phoenix-2026-01-21-1",
+      "jobId": "usaa-technology-intern-phoenix",
+      "company": "USAA",
+      "title": "Technology Intern",
+      "postedToDiscord": "2026-01-21T07:09:09.536Z",
+      "sourceDate": "2026-01-18T07:24:00.000Z",
+      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0114671",
+      "discordThreadId": "1463430189005541443",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-product-marketing-manager-spotify-for-artists-campaign-kit-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-product-marketing-manager-spotify-for-artists-campaign-kit-new-york-ny",
+      "company": "spotify",
+      "title": "Product Marketing Manager - Spotify for Artists, Campaign Kit",
+      "postedToDiscord": "2026-01-21T07:09:16.052Z",
+      "sourceDate": "2026-01-17T14:23:00.863Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/08c35d47-692c-4c16-9297-b1b88ec4c69c",
+      "discordThreadId": "1463430215727448305",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-2026-intern-computer-vision-ml-summer-mountain-view-2026-01-21-1",
+      "jobId": "samsung-research-america-2026-intern-computer-vision-ml-summer-mountain-view",
+      "company": "Samsung Research America",
+      "title": "2026 Intern - Computer Vision & ML - Summer",
+      "postedToDiscord": "2026-01-21T07:09:19.379Z",
+      "sourceDate": "2026-01-17T23:24:20.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8375384002",
+      "discordThreadId": "1463430230407647401",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-next-gen-connectivity-sensing-research-plano-2026-01-21-1",
+      "jobId": "samsung-research-america-intern-next-gen-connectivity-sensing-research-plano",
+      "company": "Samsung Research America",
+      "title": "Intern - Next-Gen Connectivity & Sensing Research",
+      "postedToDiscord": "2026-01-21T07:09:22.937Z",
+      "sourceDate": "2026-01-17T23:24:14.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8371416002",
+      "discordThreadId": "1463430244303110176",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gimlet-labs-ai-researcher-intern-san-francisco-2026-01-21-1",
+      "jobId": "gimlet-labs-ai-researcher-intern-san-francisco",
+      "company": "Gimlet Labs",
+      "title": "AI Researcher – Intern",
+      "postedToDiscord": "2026-01-21T07:09:26.449Z",
+      "sourceDate": "2025-07-29T23:19:52.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5/application",
+      "discordThreadId": "1463430259369181299",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-business-development-manager-agentic-commerce-san-francisco-ca-seattle-wa-2026-01-21-1",
+      "jobId": "stripe-business-development-manager-agentic-commerce-san-francisco-ca-seattle-wa",
+      "company": "stripe",
+      "title": "Business Development Manager, Agentic Commerce",
+      "postedToDiscord": "2026-01-21T07:09:32.966Z",
+      "sourceDate": "2026-01-17T11:24:07-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7524334",
+      "discordThreadId": "1463430287215296630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-2026-intern-agentic-browser-research-engineer-summer-mountain-view-2026-01-21-1",
+      "jobId": "samsung-research-america-2026-intern-agentic-browser-research-engineer-summer-mountain-view",
+      "company": "Samsung Research America",
+      "title": "2026 Intern - Agentic Browser Research Engineer - Summer",
+      "postedToDiscord": "2026-01-21T07:09:39.410Z",
+      "sourceDate": "2026-01-17T23:24:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8375569002",
+      "discordThreadId": "1463430314318889043",
+      "instanceNumber": 1
+    },
+    {
+      "id": "howmet-aerospace-intern-manufacturing-data-analyst-whitehall-mi-muskegon-2026-01-21-1",
+      "jobId": "howmet-aerospace-intern-manufacturing-data-analyst-whitehall-mi-muskegon",
+      "company": "Howmet Aerospace",
+      "title": "Intern – Manufacturing Data Analyst - Whitehall - MI",
+      "postedToDiscord": "2026-01-21T07:09:46.082Z",
+      "sourceDate": "2026-01-17T23:19:59.000Z",
+      "sourceUrl": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115794",
+      "discordThreadId": "1463430341350916197",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2055,
+    "totalJobs": 2064,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T06:56:32.799Z",
+      "date": "2026-01-21T07:09:46.082Z",
       "archived": 0
     }
   }
