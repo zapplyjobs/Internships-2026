@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T05:46:48.783Z",
+  "lastUpdated": "2026-01-21T05:57:28.086Z",
   "jobs": [
     {
       "id": "varda-space-industries-mission-software-internship-python-el-segundo-2026-01-14-1",
@@ -22122,14 +22122,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/clerk/f73b1115-e4e6-4108-8c4e-707a6eb3d7c5",
       "discordThreadId": "1463409465909973137",
       "instanceNumber": 1
+    },
+    {
+      "id": "nominal-mission-operations-engineer-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-mission-operations-engineer-new-york-ny",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-21T05:57:01.463Z",
+      "sourceDate": "2025-09-14T18:07:28.855Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/ea821a61-7fc7-49a5-b08c-12293c1d4655",
+      "discordThreadId": "1463412033616875681",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-mission-operations-engineer-austin-tx-2026-01-21-1",
+      "jobId": "nominal-mission-operations-engineer-austin-tx",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-21T05:57:01.481Z",
+      "sourceDate": "2025-09-14T17:56:36.555Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/a88321ee-c313-48b4-b911-544660d31494",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-product-designer-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-product-designer-los-angeles-ca",
+      "company": "nominal",
+      "title": "Product Designer",
+      "postedToDiscord": "2026-01-21T05:57:05.079Z",
+      "sourceDate": "2025-09-10T18:57:06.619Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/4ced3627-8295-4b84-a871-1e905940aa29",
+      "discordThreadId": "1463412049995632640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-product-marketing-manager-remote-2026-01-21-1",
+      "jobId": "supabase-product-marketing-manager-remote",
+      "company": "supabase",
+      "title": "Product Marketing Manager ",
+      "postedToDiscord": "2026-01-21T05:57:06.956Z",
+      "sourceDate": "2025-09-09T23:59:21.727+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/7c1d5022-7a96-4e62-85e9-f5d586b6d34b",
+      "discordThreadId": "1463412065027756172",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-government-contracts-strategist-washington-d-c-2026-01-21-1",
+      "jobId": "nominal-government-contracts-strategist-washington-d-c",
+      "company": "nominal",
+      "title": "Government Contracts Strategist",
+      "postedToDiscord": "2026-01-21T05:57:08.943Z",
+      "sourceDate": "2025-09-04T22:17:55.500Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/e8e0a7a9-10d1-44e1-97f0-5868c48eb914",
+      "discordThreadId": "1463412072938471526",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-workday-payroll-specialist-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-workday-payroll-specialist-new-york-ny",
+      "company": "spotify",
+      "title": "Workday Payroll Specialist",
+      "postedToDiscord": "2026-01-21T05:57:12.510Z",
+      "sourceDate": "2025-08-29T14:36:42.315Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/521272b5-9e4e-4ba0-a0b9-e6e5b067c7ac",
+      "discordThreadId": "1463412081180282902",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-head-of-databases-remote-2026-01-21-1",
+      "jobId": "supabase-head-of-databases-remote",
+      "company": "supabase",
+      "title": "Head of Databases",
+      "postedToDiscord": "2026-01-21T05:57:17.627Z",
+      "sourceDate": "2025-09-03T07:45:33.993+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/5e577461-87aa-464c-937c-fdf92da2bf3f",
+      "discordThreadId": "1463412110053736533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-customer-solution-architect-emea-remote-2026-01-21-1",
+      "jobId": "supabase-customer-solution-architect-emea-remote",
+      "company": "supabase",
+      "title": "Customer Solution Architect (EMEA)",
+      "postedToDiscord": "2026-01-21T05:57:22.689Z",
+      "sourceDate": "2025-08-29T21:24:10.720+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c3099780-60d5-4b8a-ab08-c701d114cf62",
+      "discordThreadId": "1463412131184775347",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-cloud-partnerships-manager-remote-2026-01-21-1",
+      "jobId": "supabase-cloud-partnerships-manager-remote",
+      "company": "supabase",
+      "title": "Cloud Partnerships Manager",
+      "postedToDiscord": "2026-01-21T05:57:28.086Z",
+      "sourceDate": "2025-08-27T19:37:26.279+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/68ca5fe0-6ef4-40fc-a926-0a15c2cad087",
+      "discordThreadId": "1463412153246547968",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2011,
+    "totalJobs": 2020,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T05:46:48.783Z",
+      "date": "2026-01-21T05:57:28.086Z",
       "archived": 0
     }
   }
