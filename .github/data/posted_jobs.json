@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:57:04.925Z",
+  "lastUpdated": "2026-01-21T00:07:14.552Z",
   "jobs": [
     {
       "id": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno-2026-01-14-1",
@@ -21198,14 +21198,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004",
       "discordThreadId": "1463321453247336542",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-2026-summer-internship-research-scientist-phd-new-york-city-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-2026-summer-internship-research-scientist-phd-new-york-city-new-york-ny",
+      "company": "spotify",
+      "title": "2026 Summer Internship, Research Scientist - PhD (New York City)",
+      "postedToDiscord": "2026-01-21T00:06:41.870Z",
+      "sourceDate": "2025-11-26T18:30:55.209Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/ce5934cb-6be9-478c-a856-49b8189d87e2",
+      "discordThreadId": "1463323872420958278",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-brand-designer-austin-tx-2026-01-21-1",
+      "jobId": "nominal-brand-designer-austin-tx",
+      "company": "nominal",
+      "title": "Brand Designer",
+      "postedToDiscord": "2026-01-21T00:06:45.315Z",
+      "sourceDate": "2025-11-25T16:23:57.548Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/2192a283-7051-43e8-a83b-1ca75d240c00",
+      "discordThreadId": "1463323887080181895",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-security-engineer-washington-d-c-2026-01-21-1",
+      "jobId": "nominal-security-engineer-washington-d-c",
+      "company": "nominal",
+      "title": "Security Engineer",
+      "postedToDiscord": "2026-01-21T00:06:48.724Z",
+      "sourceDate": "2025-11-21T23:46:38.977Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/17d84511-089c-4c28-9c7a-6769258db428",
+      "discordThreadId": "1463323901848326330",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-business-development-representative-backstage-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-business-development-representative-backstage-new-york-ny",
+      "company": "spotify",
+      "title": "Business Development Representative - Backstage",
+      "postedToDiscord": "2026-01-21T00:06:52.486Z",
+      "sourceDate": "2025-11-21T15:54:04.594Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/193d115f-7045-499b-9072-d9322bac8088",
+      "discordThreadId": "1463323916452757637",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-developer-productivity-engineer-remote-2026-01-21-1",
+      "jobId": "supabase-developer-productivity-engineer-remote",
+      "company": "supabase",
+      "title": "Developer Productivity Engineer",
+      "postedToDiscord": "2026-01-21T00:06:57.224Z",
+      "sourceDate": "2025-11-24T20:04:43.442+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/4a7b66f8-9c95-4a60-8166-37dbb11d1446",
+      "discordThreadId": "1463323944504529020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-av-engineer-contractor-san-francisco-ca-2026-01-21-1",
+      "jobId": "instacart-av-engineer-contractor-san-francisco-ca",
+      "company": "instacart",
+      "title": "AV Engineer (Contractor)",
+      "postedToDiscord": "2026-01-21T00:07:00.869Z",
+      "sourceDate": "2025-11-21T15:00:25-05:00",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=7415809",
+      "discordThreadId": "1463323952033038459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-designer-ai-models-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-designer-ai-models-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Designer, AI Models",
+      "postedToDiscord": "2026-01-21T00:07:04.456Z",
+      "sourceDate": "2025-11-21T11:05:35-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
+      "discordThreadId": "1463323967329669313",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-designer-design-dev-ai-tools-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-designer-design-dev-ai-tools-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Designer - Design, Dev, & AI Tools",
+      "postedToDiscord": "2026-01-21T00:07:07.969Z",
+      "sourceDate": "2025-11-21T10:54:56-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
+      "discordThreadId": "1463323982081298485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-executive-assistant-marketing-communications-san-francisco-ca-2026-01-21-1",
+      "jobId": "figma-executive-assistant-marketing-communications-san-francisco-ca",
+      "company": "figma",
+      "title": "Executive Assistant, Marketing & Communications",
+      "postedToDiscord": "2026-01-21T00:07:14.552Z",
+      "sourceDate": "2025-11-21T16:00:29-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5710742004?gh_jid=5710742004",
+      "discordThreadId": "1463324009620836563",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1927,
+    "totalJobs": 1936,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T23:57:04.925Z",
+      "date": "2026-01-21T00:07:14.552Z",
       "archived": 0
     }
   }
