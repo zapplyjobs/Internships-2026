@@ -1,205 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T07:57:12.096Z",
+  "lastUpdated": "2026-01-21T21:04:12.775Z",
   "jobs": [
-    {
-      "id": "bnp-paribas-technology-analyst-intern-jersey-city-2026-01-14-1",
-      "jobId": "bnp-paribas-technology-analyst-intern-jersey-city",
-      "company": "BNP Paribas",
-      "title": "Technology Analyst Intern",
-      "postedToDiscord": "2026-01-14T08:18:03.090Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
-      "discordThreadId": "1460910809541513236",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bank-of-america-cybersecurity-intern-charlotte-2026-01-14-1",
-      "jobId": "bank-of-america-cybersecurity-intern-charlotte",
-      "company": "Bank of America",
-      "title": "Cybersecurity Intern",
-      "postedToDiscord": "2026-01-14T08:18:09.691Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations",
-      "discordThreadId": "1460910837865779285",
-      "instanceNumber": 1
-    },
-    {
-      "id": "morgan-stanley-2026-technology-summer-analyst-program-new-york-2026-01-14-1",
-      "jobId": "morgan-stanley-2026-technology-summer-analyst-program-new-york",
-      "company": "Morgan Stanley",
-      "title": "2026 Technology Summer Analyst Program",
-      "postedToDiscord": "2026-01-14T08:32:30.881Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://morganstanley.tal.net/vx/candidate/apply/19159",
-      "discordThreadId": "1460914450532925545",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tower-research-capital-ml-intern-new-york-2026-01-14-1",
-      "jobId": "tower-research-capital-ml-intern-new-york",
-      "company": "Tower Research Capital",
-      "title": "ML Intern",
-      "postedToDiscord": "2026-01-14T14:12:24.494Z",
-      "sourceDate": "2025-07-07T23:45:42.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=6651908&gh_src=be8ebc4b1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "bank-of-america-global-operations-development-summer-analyst-program-charlotte-2026-01-14-1",
-      "jobId": "bank-of-america-global-operations-development-summer-analyst-program-charlotte",
-      "company": "Bank of America",
-      "title": "Global Operations Development Summer Analyst Program",
-      "postedToDiscord": "2026-01-14T14:12:27.996Z",
-      "sourceDate": "2025-07-07T23:44:47.000Z",
-      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations",
-      "discordThreadId": "1461000002683015301",
-      "instanceNumber": 1
-    },
-    {
-      "id": "citadel-securities-launch-intern-miami-2026-01-14-1",
-      "jobId": "citadel-securities-launch-intern-miami",
-      "company": "Citadel Securities",
-      "title": "Launch Intern",
-      "postedToDiscord": "2026-01-14T15:18:18.184Z",
-      "sourceDate": "2025-07-08T01:38:46.000Z",
-      "sourceUrl": "https://www.citadelsecurities.com/careers/details/launch-intern-us/",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "benjamin-moore-data-science-analytics-intern-mahwah-2026-01-14-1",
-      "jobId": "benjamin-moore-data-science-analytics-intern-mahwah",
-      "company": "Benjamin Moore",
-      "title": "Data Science & Analytics Intern",
-      "postedToDiscord": "2026-01-14T15:18:21.702Z",
-      "sourceDate": "2025-11-20T19:21:08.000Z",
-      "sourceUrl": "https://careers-benjaminmoore.icims.com/jobs/2224/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1461016584972668931",
-      "instanceNumber": 1
-    },
-    {
-      "id": "a37-member-of-technical-staff-intern-winter-2025-san-francisco-2026-01-14-1",
-      "jobId": "a37-member-of-technical-staff-intern-winter-2025-san-francisco",
-      "company": "a37",
-      "title": "Member of Technical Staff Intern (Winter 2025)",
-      "postedToDiscord": "2026-01-14T15:18:28.062Z",
-      "sourceDate": "2025-06-18T00:04:51.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/a37/17ccb1e3-1a46-4a58-b446-ddb544d8b903",
-      "discordThreadId": "1461016612655333623",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uline-financial-data-analyst-internship-summer-2026-pleasant-prairie-2026-01-14-1",
-      "jobId": "uline-financial-data-analyst-internship-summer-2026-pleasant-prairie",
-      "company": "Uline",
-      "title": "Financial Data Analyst Internship - Summer 2026",
-      "postedToDiscord": "2026-01-14T15:43:30.197Z",
-      "sourceDate": "2026-01-14T12:20:33.000Z",
-      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R260525",
-      "discordThreadId": "1461022912390758423",
-      "instanceNumber": 1
-    },
-    {
-      "id": "clayton-marketing-analytics-intern-maryville-2026-01-14-1",
-      "jobId": "clayton-marketing-analytics-intern-maryville",
-      "company": "Clayton",
-      "title": "Marketing Analytics Intern",
-      "postedToDiscord": "2026-01-14T15:43:36.615Z",
-      "sourceDate": "2025-12-20T01:45:21.000Z",
-      "sourceUrl": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Consumer-Insights-Intern_JR126944",
-      "discordThreadId": "1461022939460931595",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aerotek-sales-intern-overland-park-2026-01-14-1",
-      "jobId": "aerotek-sales-intern-overland-park",
-      "company": "Aerotek",
-      "title": "Sales Intern",
-      "postedToDiscord": "2026-01-14T15:55:15.433Z",
-      "sourceDate": "2025-11-18T23:18:42.000Z",
-      "sourceUrl": "https://careers-aerotek.icims.com/jobs/13003/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1461025869920207023",
-      "instanceNumber": 1
-    },
-    {
-      "id": "a37-member-of-technical-staff-intern-fall-2025-san-francisco-2026-01-14-1",
-      "jobId": "a37-member-of-technical-staff-intern-fall-2025-san-francisco",
-      "company": "a37",
-      "title": "Member of Technical Staff Intern (Fall 2025)",
-      "postedToDiscord": "2026-01-14T17:19:27.793Z",
-      "sourceDate": "2025-06-17T23:54:41.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/a37/98b9fa73-1a6d-4aca-b1e0-67bb078f0265",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "charles-schwab-model-risk-oversight-research-and-development-lone-tree-2026-01-14-1",
-      "jobId": "charles-schwab-model-risk-oversight-research-and-development-lone-tree",
-      "company": "Charles Schwab",
-      "title": "Model Risk Oversight-Research and Development",
-      "postedToDiscord": "2026-01-14T17:19:31.272Z",
-      "sourceDate": "2026-01-09T23:09:01.000Z",
-      "sourceUrl": "https://career-schwab.icims.com/jobs/114753/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1461047076291874898",
-      "instanceNumber": 1
-    },
-    {
-      "id": "westinghouse-electric-company-independent-verification-validation-intern-grove-city-2026-01-14-1",
-      "jobId": "westinghouse-electric-company-independent-verification-validation-intern-grove-city",
-      "company": "Westinghouse Electric Company",
-      "title": "Independent Verification & Validation Intern",
-      "postedToDiscord": "2026-01-14T17:19:37.845Z",
-      "sourceDate": "2025-12-10T23:12:42.000Z",
-      "sourceUrl": "https://careers.westinghousenuclear.com/job/Warrendale-Independent-Verification-&-Validation-Intern-Summer-2026-OR/1321306900/?ats=successfactors",
-      "discordThreadId": "1461047103676616744",
-      "instanceNumber": 1
-    },
-    {
-      "id": "scientific-research-software-developer-intern-north-charleston-2026-01-14-1",
-      "jobId": "scientific-research-software-developer-intern-north-charleston",
-      "company": "Scientific Research Corporation",
-      "title": "Software Developer Intern",
-      "postedToDiscord": "2026-01-14T17:19:44.539Z",
-      "sourceDate": "2026-01-08T23:34:02.000Z",
-      "sourceUrl": "https://careers-scires.icims.com/jobs/10745/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1461047131434647612",
-      "instanceNumber": 1
-    },
-    {
-      "id": "johnson-johnson-technology-2026-summer-internship-new-hope-2026-01-14-1",
-      "jobId": "johnson-johnson-technology-2026-summer-internship-new-hope",
-      "company": "Johnson & Johnson",
-      "title": "Technology 2026 Summer Internship",
-      "postedToDiscord": "2026-01-14T17:19:51.820Z",
-      "sourceDate": "2025-08-25T06:46:49.000Z",
-      "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Summer-Internship_R-029613",
-      "discordThreadId": "1461047159880155167",
-      "instanceNumber": 1
-    },
-    {
-      "id": "johnson-johnson-technology-fall-co-op-new-hope-2026-01-14-1",
-      "jobId": "johnson-johnson-technology-fall-co-op-new-hope",
-      "company": "Johnson & Johnson",
-      "title": "Technology Fall Co-Op",
-      "postedToDiscord": "2026-01-14T17:19:55.321Z",
-      "sourceDate": "2025-08-25T06:46:47.000Z",
-      "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/US174-NJ-New-Brunswick---410-George-St/Technology-2026-Fall-Co-Op_R-029591",
-      "discordThreadId": "1461047176582135942",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brunswick-software-engineering-intern-fond-du-lac-2026-01-14-1",
-      "jobId": "brunswick-software-engineering-intern-fond-du-lac",
-      "company": "Brunswick",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2026-01-14T18:33:29.876Z",
-      "sourceDate": "2025-09-02T18:50:51.000Z",
-      "sourceUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427",
-      "discordThreadId": "1461065691850604687",
-      "instanceNumber": 1
-    },
     {
       "id": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-fall-2026-cincinnati-2026-01-14-1",
       "jobId": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-fall-2026-cincinnati",
@@ -22738,14 +22540,91 @@
       "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-46518",
       "discordThreadId": "1463442279212519437",
       "instanceNumber": 1
+    },
+    {
+      "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
+      "jobId": "bank-of-montreal-software-developer-intern-san-ramon",
+      "company": "Bank of Montreal",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2026-01-21T21:03:45.039Z",
+      "sourceDate": "2026-01-21T20:45:54.000Z",
+      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Summer-2026--Internship----10-weeks_R260002319-1",
+      "discordThreadId": "1463640219952611523",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bmo-software-developer-intern-san-ramon-2026-01-21-1",
+      "jobId": "bmo-software-developer-intern-san-ramon",
+      "company": "BMO ",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2026-01-21T21:03:48.685Z",
+      "sourceDate": "2026-01-21T20:37:27.000Z",
+      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/San-Ramon-CA-USA/Software-Developer--Summer-2026--Internship----10-weeks_R260002319",
+      "discordThreadId": "1463640235618599033",
+      "instanceNumber": 1
+    },
+    {
+      "id": "waters-intern-software-development-engineering-tools-franklin-2026-01-21-1",
+      "jobId": "waters-intern-software-development-engineering-tools-franklin",
+      "company": "Waters Corporation",
+      "title": "Intern – Software Development - Engineering Tools",
+      "postedToDiscord": "2026-01-21T21:03:52.105Z",
+      "sourceDate": "2026-01-21T20:35:36.000Z",
+      "sourceUrl": "https://uscareers-waters.icims.com/jobs/25174/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1463640250307055617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-r-d-software-engineer-intern-quantum-computing-cambridge-2026-01-21-1",
+      "jobId": "keysight-r-d-software-engineer-intern-quantum-computing-cambridge",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineer Intern - Quantum Computing",
+      "postedToDiscord": "2026-01-21T21:03:55.751Z",
+      "sourceDate": "2026-01-21T20:35:11.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/51341?lang=en-us&icims=1",
+      "discordThreadId": "1463640265003630768",
+      "instanceNumber": 1
+    },
+    {
+      "id": "marvell-flow-ai-intern-master-s-degree-santa-clara-2026-01-21-1",
+      "jobId": "marvell-flow-ai-intern-master-s-degree-santa-clara",
+      "company": "Marvell",
+      "title": "Flow/AI Intern - Master's Degree",
+      "postedToDiscord": "2026-01-21T21:04:02.453Z",
+      "sourceDate": "2026-01-21T20:40:29.000Z",
+      "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Flow-AI-Intern---Master-s-Degree_2502403",
+      "discordThreadId": "1463640292971384887",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-ai-ml-research-and-development-intern-state-college-2026-01-21-1",
+      "jobId": "pennstate-university-ai-ml-research-and-development-intern-state-college",
+      "company": "PennState University",
+      "title": "AI/ML Research and Development Intern",
+      "postedToDiscord": "2026-01-21T21:04:05.945Z",
+      "sourceDate": "2025-08-01T13:46:02.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000064471-1",
+      "discordThreadId": "1463640307831935074",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-conservation-gis-intern-state-college-2026-01-21-1",
+      "jobId": "pennstate-university-conservation-gis-intern-state-college",
+      "company": "PennState University",
+      "title": "Conservation GIS Intern",
+      "postedToDiscord": "2026-01-21T21:04:12.775Z",
+      "sourceDate": "2026-01-21T20:29:17.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Conservation-GIS-Intern_REQ_0000075060-1",
+      "discordThreadId": "1463640335535309104",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2067,
+    "totalJobs": 2056,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T07:57:12.096Z",
+      "date": "2026-01-21T21:04:12.775Z",
       "archived": 0
     }
   }
