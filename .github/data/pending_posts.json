@@ -661,186 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Analytics Engineer Intern",
-      "employer_name": "Farmers Insurance",
-      "job_city": "Middleville",
-      "job_state": "MI",
-      "job_description": "We are Farmers! We are… more than just your favorite commercials. At Farmers, we strive to deliver peace of mind to our customers by providing protection and comprehensive advice and delivering in the moments of truth. That means having people who can help us meet changing customer and business needs. Farmers high-performance culture is focused on results and the people who achieve them. We hold ourselves and others accountable for sustainably growing the business and each other. We seek solutions, own our actions, and grow through discomfort. We see setbacks as opportunities while continuously asking ourselves how we impact our customers. Farmers is an award winning, equal opportunity employer, committed to the strength of an inclusive workforce. We are dedicated to supporting the well-being of our people through our extensive suite of benefits, as well as the well-being of the communities we serve through employee volunteer programs and nonprofit partnerships. Helping others in their time of need isn’t just our business – it’s our culture! To learn more about our high-performance culture and open opportunities, check out www.Farmers.com/careers/corporate and be sure to follow us on Instagram, LinkedIn, and TikTok. Workplace: Hybrid ( #LI-Hybrid ) Hybrid to Woodland Hills, CA, Hartford, CT or Caledonia, MI Farmers believes in a culture of collaboration, creativity, and innovation, which thrives when we have the ability to work flexibly in a virtual setting as well as the opportunity to be together in person. Our hybrid work environment combines the best of both worlds with at least three (3) days in office and up to two (2) days virtual. Job Summary Farmers believes in the diversity of our employees, ideas, and experiences, and we are committed to building an inclusive culture that represents the communities we serve. We are seeking curious, passionate, and hard-working students from quantitative academic fields to partake in our paid summer internship program. As an Analytics Engineer Intern, you will have the opportunity to work on real-world projects and gain hands-on experience in transforming raw data into high-quality datasets that are ready for analysis. The role combines the technical skills of a data engineer, the analytical mindset of a data analyst, and working business acumen to ensure data is accessible and insightful for end users. What You’ll Do as a Farmers Intern This is a full time 40 hour a week, paid, 10-12 week Summer internship. You will develop crucial and highly valuable data analytics skills as well as soft skills through the course of your internship. This is an opportunity to work alongside accomplished professionals and gain valuable skills for your future. Additionally, you will learn how we use innovation and technology to drive our business forward and through project work, job shadowing, hands on work experience, and exposure to Farmers leadership teams to expand your knowledge and experience. Some duties of an Analytics Engineer Intern include: Work closely with data analysts, data scientists, and business stakeholders to gather requirements and understand their data needs Transform raw data into clean, organized, and analytics-ready datasets using SQL, Python, or other relevant languages Contribute to data workflow including data ingestion, transformation, modeling, and validation to enable data-driven decision-making Utilizes modern data tools and technologies such as dbt, Airflow, and cloud platforms like AWS, Azure, or GCP Clearly communicates complex technical concepts and data insights to non-technical stakeholders Performs other duties as assigned Education You’ll Need Currently pursuing a Bachelors (BS/BA) or Masters (MS/MA) degree in Mathematics, Statistics, Data Analytics or Computer Science. You must be a student enrolled in an accredited college during the duration of the internship. Specifically, a rising Junior or Senior level undergraduate student or graduate student. What You Will Bring as a Farmers Intern Ability to manipulate and analyze data to address and solve business problems Familiarity with data manipulation using SQL, Python, or similar languages Preferred but not required: proficiency in Microsoft Office Suite A passion for learning and development Willingness to independently learn and make an impact within a team environment Self-motivated, an excellent problem solver and a quick learner. Good verbal and written communication skills. Hybrid Locations Please note, summer housing will not be offered nor relocation assistance. You will be onsite 3x's week, at one of the Farmers locations below. Woodland Hills, CA Hartford, CT Caledonia, MI Benefits Farmers offers a competitive salary commensurate with experience, qualifications and location.o CA Only: $17.56 - $28.19o CO Only: $16.37 - $26.81 o HI/IL/MN/VT Only: $16.37 - $26.81o MA Only: $17.56 - $28.19 o MD Only: $17.56 - $28.19 o DC/NJ/NY/OH Only: $17.56 - $28.19 o Albany County, NY/Cleveland, OH: $17.56 - $25.75 o WA Only: $17.13 - $30.47 Paid Time Off For more information, review “What we offer” on https://www.farmers.com/careers/corporate/#offer Job Location(s): US - CA - WdlndHills-6301, US - CA - WdlndHills-6303, US - CA - Woodland Hills, US - CT - Hartford, US - CT - West Hartford, US - MI - Caledonia, US - MI - Grand Rapids Anticipated application deadline: At Farmers, the recruitment process is designed to ensure that we find the best talent to join our team. As part of this process, we typically close open positions within 8 to 21 days after posting. If you are interested in any of our open positions, we encourage you to submit your application promptly. Farmers will consider for employment all qualified applicants, including those with criminal histories, in accordance with the Los Angeles Fair Chance Initiative for Hiring Ordinance or other applicable law. Pursuant to 18 U.S.C. Section 1033, Farmers is prohibited from employing any individual who has been convicted of any criminal felony involving dishonesty or a breach of trust without prior written consent from the state Department of Insurance. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Farmers is an Equal Opportunity Employer and does not discriminate in any employer/employee relations based on race, color, religion, gender, sexual orientation, gender expression, genetic information, national origin, age, disability, marital status, military and veteran's status, or any other basis protected by applicable discrimination laws. Want to learn more about our culture & opportunities? Check out www.Farmers.com/careers/corporate and be sure to follow us on Instagram, LinkedIn, and TikTok. Spokane, WA only: Residents who prefer not to provide their address click here to submit your resume via email: careers@farmers.com",
-      "job_apply_link": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Analytics-Engineer-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481257/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2026-01-18T23:18:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "farmers-insurance-analytics-engineer-intern-middleville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-18T23:37:40.123Z",
-    "enrichedAt": "2026-01-21T06:55:55.829Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Internship",
-      "employer_name": "ConnectPrep",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "About ConnectPrep: Our goal is to redefine “tutoring” – to use data, insight, and our extensive teaching experience find solutions for our students. ConnectPrep is about connecting – connecting students, parents, educators, and the community. We have ...",
-      "job_apply_link": "https://apply.workable.com/connectprep/j/E7A5D4602F/apply",
-      "job_posted_at_datetime_utc": "2026-01-18T23:17:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "connectprep-data-analyst-internship-remote-in-usa",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-18T23:37:40.123Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist Summer Internship: Woodland Hills - CA/ Hartford - CT/ Caledonia",
-      "employer_name": "Farmers Insurance",
-      "job_city": "Middleville",
-      "job_state": "MI",
-      "job_description": "We are Farmers! We are… more than just your favorite commercials. At Farmers, we strive to deliver peace of mind to our customers by providing protection and comprehensive advice and delivering in the moments of truth. That means having people who can help us meet changing customer and business needs. Farmers high-performance culture is focused on results and the people who achieve them. We hold ourselves and others accountable for sustainably growing the business and each other. We seek solutions, own our actions, and grow through discomfort. We see setbacks as opportunities while continuously asking ourselves how we impact our customers. Farmers is an award winning, equal opportunity employer, committed to the strength of an inclusive workforce. We are dedicated to supporting the well-being of our people through our extensive suite of benefits, as well as the well-being of the communities we serve through employee volunteer programs and nonprofit partnerships. Helping others in their time of need isn’t just our business – it’s our culture! To learn more about our high-performance culture and open opportunities, check out www.Farmers.com/careers/corporate and be sure to follow us on Instagram, LinkedIn, and TikTok. Workplace: Hybrid ( #LI-Hybrid ) Hybrid to Woodland Hills, CA, Hartford, CT or Caledonia, MI Farmers believes in a culture of collaboration, creativity, and innovation, which thrives when we have the ability to work flexibly in a virtual setting as well as the opportunity to be together in person. Our hybrid work environment combines the best of both worlds with at least three (3) days in office and up to two (2) days virtual.Job Summary Farmers believes in the diversity of our employees, ideas, and experiences, and we are committed to building an inclusive culture that represents the communities we serve. We are seeking curious, passionate, and hard-working students from quantitative academic fields to partake in our paid summer internship program. As a Data Science Intern, you will have the opportunity to work on real-world projects and gain hands-on experience in using machine learning and predictive models to solve business problems. What You’ll Do as a Farmers Intern This is a full time 40 hour a week, paid, 10-12 week Summer internship. You will develop crucial and highly valuable data analytics skills as well as soft skills through the course of your internship. This is an opportunity to work alongside accomplished professionals and gain valuable skills for your future. Additionally, you will learn how we use innovation and technology to drive our business forward and through project work, job shadowing, hands on work experience, and exposure to Farmers leadership teams to expand your knowledge and experience. Some duties of a Data Science Intern include: Under direction, use appropriate modeling techniques to address business needs. Broaden knowledge and application of modeling techniques and procedures. Support preparation of internal/external, structured/unstructured data sets to build/rebuild/refresh predictive models. Clearly communicates complex technical concepts and data insights to non-technical stakeholders. Performs other duties as assigned. Education You’ll Need Currently pursuing a Bachelors (BS/BA) or Masters (MS/MA) degree in Mathematics, Statistics, Data Analytics or Computer Science. You must be a student enrolled in an accredited college during the duration of the internship. Specifically, a rising Junior or Senior level undergraduate student or graduate student. What You Will Bring as a Farmers Intern Ability to manipulate and analyze data to address and solve business problems. Familiarity with Python or similar languages for machine learning. Preferred but not required: proficiency in Microsoft Office Suite. A passion for learning and development. Willingness to independently learn and make an impact within a team environment. Self-motivated, an excellent problem solver and a quick learner. Good verbal and written communication skills. Hybrid Locations Please note, summer housing will not be offered nor relocation assistance. You will be onsite 3x's week, at one of the Farmers locations below. Woodland Hills, CA Hartford, CT Caledonia, MI Benefits Farmers offers a competitive salary commensurate with experience, qualifications and location.o CA Only: $17.56 - $28.19o CO Only: $16.37 - $26.81 o HI/IL/MN/VT Only: $16.37 - $26.81o MA Only: $17.56 - $28.19 o MD Only: $17.56 - $28.19 o DC/NJ/NY/OH Only: $17.56 - $28.19 o Albany County, NY/Cleveland, OH: $17.56 - $25.75 o WA Only: $17.13 - $30.47 Paid Time Off For more information, review “What we offer” on https://www.farmers.com/careers/corporate/#offer Job Location(s): US - CA - WdlndHills-6303, US - CA - WdlndHills-6301, US - CA - Woodland Hills, US - CT - Hartford, US - CT - West Hartford, US - MI - Caledonia, US - MI - Grand Rapids Anticipated application deadline: At Farmers, the recruitment process is designed to ensure that we find the best talent to join our team. As part of this process, we typically close open positions within 8 to 21 days after posting. If you are interested in any of our open positions, we encourage you to submit your application promptly. Farmers will consider for employment all qualified applicants, including those with criminal histories, in accordance with the Los Angeles Fair Chance Initiative for Hiring Ordinance or other applicable law. Pursuant to 18 U.S.C. Section 1033, Farmers is prohibited from employing any individual who has been convicted of any criminal felony involving dishonesty or a breach of trust without prior written consent from the state Department of Insurance. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Farmers is an Equal Opportunity Employer and does not discriminate in any employer/employee relations based on race, color, religion, gender, sexual orientation, gender expression, genetic information, national origin, age, disability, marital status, military and veteran's status, or any other basis protected by applicable discrimination laws. Want to learn more about our culture & opportunities? Check out www.Farmers.com/careers/corporate and be sure to follow us on Instagram, LinkedIn, and TikTok. Spokane, WA only: Residents who prefer not to provide their address click here to submit your resume via email: careers@farmers.com",
-      "job_apply_link": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Data-Scientist-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481457/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2026-01-18T23:08:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-middleville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-18T23:37:40.123Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Decision Science Intern",
-      "employer_name": "Farmers Insurance",
-      "job_city": "Middleville",
-      "job_state": "MI",
-      "job_description": "We are Farmers! We are… more than just your favorite commercials. At Farmers, we strive to deliver peace of mind to our customers by providing protection and comprehensive advice and delivering in the moments of truth. That means having people who can help us meet changing customer and business needs. Farmers high-performance culture is focused on results and the people who achieve them. We hold ourselves and others accountable for sustainably growing the business and each other. We seek solutions, own our actions, and grow through discomfort. We see setbacks as opportunities while continuously asking ourselves how we impact our customers. Farmers is an award winning, equal opportunity employer, committed to the strength of an inclusive workforce. We are dedicated to supporting the well-being of our people through our extensive suite of benefits, as well as the well-being of the communities we serve through employee volunteer programs and nonprofit partnerships. Helping others in their time of need isn’t just our business – it’s our culture! To learn more about our high-performance culture and open opportunities, check out www.Farmers.com/careers/corporate and be sure to follow us on Instagram, LinkedIn, and TikTok. Workplace: Hybrid ( #LI-Hybrid ) Hybrid to Woodland Hills, CA, Hartford, CT or Caledonia, MI Farmers believes in a culture of collaboration, creativity, and innovation, which thrives when we have the ability to work flexibly in a virtual setting as well as the opportunity to be together in person. Our hybrid work environment combines the best of both worlds with at least three (3) days in office and up to two (2) days virtual.Job Summary Farmers believes in the diversity of our employees, ideas, and experiences, and we are committed to building an inclusive culture that represents the communities we serve. We are seeking curious, passionate, and hard-working students from quantitative academic fields to partake in our paid summer internship program. As a Decision Science Intern, you will have the opportunity to work on real-world projects and gain hands-on experience in using mathematical, statistical and quantitative techniques to solve business problems. What You’ll Do as a Farmers Intern This is a full time 40 hour a week, paid, 10-12 week Summer internship. You will develop crucial and highly valuable data analytics skills as well as soft skills through the course of your internship. This is an opportunity to work alongside accomplished professionals and gain valuable skills for your future. Additionally, you will learn how we use innovation and technology to drive our business forward and through project work, job shadowing, hands on work experience, and exposure to Farmers leadership teams to expand your knowledge and experience. Some duties of a Decision Science Intern include: Under direction, use appropriate mathematical, statistical and quantitative techniques to address business needs. Broaden knowledge and application of mathematical, statistical and quantitative techniques and procedures. Support preparation of internal/external, structured/unstructured data sets to build/rebuild/refresh analytics. Clearly communicate complex technical concepts and data insights to non-technical stakeholders. Perform other duties as assigned. Education You’ll Need Currently pursuing a Bachelors (BS/BA) or Masters (MS/MA) degree in Mathematics, Statistics, Data Analytics or Computer Science. You must be a student enrolled in an accredited college during the duration of the internship. Specifically, a rising Junior or Senior level undergraduate student or graduate student. What You Will Bring as a Farmers Intern Ability to manipulate and analyze data to address and solve business problems. Familiarity with data visualization and SQL for data preparation and analysis. Preferred but not required: proficiency in Microsoft Office Suite. A passion for learning and development. Willingness to independently learn and make an impact within a team environment. Self-motivated, an excellent problem solver and a quick learner. Good verbal and written communication skills. Hybrid Locations Please note, summer housing will not be offered nor relocation assistance. You will be onsite 3x's week, at one of the Farmers locations below. Woodland Hills, CA Hartford, CT Caledonia, MI Benefits Farmers offers a competitive salary commensurate with experience, qualifications and location.o CA Only: $17.56 - $28.19o CO Only: $16.37 - $26.81 o HI/IL/MN/VT Only: $16.37 - $26.81o MA Only: $17.56 - $28.19 o MD Only: $17.56 - $28.19 o DC/NJ/NY/OH Only: $17.56 - $28.19 o Albany County, NY/Cleveland, OH: $17.56 - $25.75 o WA Only: $17.13 - $30.47 Paid Time Off For more information, review “What we offer” on https://www.farmers.com/careers/corporate/#offer Job Location(s): US - CA - WdlndHills-6301, US - CA - WdlndHills-6303, US - CA - Woodland Hills, US - CT - Hartford, US - CT - West Hartford, US - MI - Caledonia, US - MI - Grand Rapids Anticipated application deadline: At Farmers, the recruitment process is designed to ensure that we find the best talent to join our team. As part of this process, we typically close open positions within 8 to 21 days after posting. If you are interested in any of our open positions, we encourage you to submit your application promptly. Farmers will consider for employment all qualified applicants, including those with criminal histories, in accordance with the Los Angeles Fair Chance Initiative for Hiring Ordinance or other applicable law. Pursuant to 18 U.S.C. Section 1033, Farmers is prohibited from employing any individual who has been convicted of any criminal felony involving dishonesty or a breach of trust without prior written consent from the state Department of Insurance. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Farmers is an Equal Opportunity Employer and does not discriminate in any employer/employee relations based on race, color, religion, gender, sexual orientation, gender expression, genetic information, national origin, age, disability, marital status, military and veteran's status, or any other basis protected by applicable discrimination laws. Want to learn more about our culture & opportunities? Check out www.Farmers.com/careers/corporate and be sure to follow us on Instagram, LinkedIn, and TikTok. Spokane, WA only: Residents who prefer not to provide their address click here to submit your resume via email: careers@farmers.com",
-      "job_apply_link": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Decision-Science-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481557/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2026-01-18T23:08:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "farmers-insurance-decision-science-intern-middleville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-18T23:37:40.123Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Player Development Associate - San Jose",
-      "employer_name": "SF Giants",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Player Development Associate (San Jose)Minor League - San JoseBaseball Ops – Baseball Operations /On-siteApply for this jobPosition: Player Development Associate (San Jose)Department: Player DevelopmentReports to: Minor League Video and Technology CoordinatorDuration: March 2026 – September 2026Status: Part-time seasonal position (requirement to travel and work non-traditional hours)Pay: $18.50/hour POSITION SUMMARY: Provide comprehensive on- and off-field video and technological support for coaches, players, and non-uniformed staff during Spring Training and during the minor league season at an assigned affiliate. This role will be an immersive player development experience that includes hands-on involvement with performance technologies, video infrastructures, baseball-specific data, and operational logistics while being an integral part of a team. Spring Training will be utilized as a month-long training period to grasp the Giants’ video and technological collection and organizational processes, as well as build relationships with the staff and players you will be working with throughout the season. The minor league season will consist of working closely with a set of staff and players and providing as much support as necessary to help the players continue their development and the team perform. POSITION RESPONSIBILITIES:● Set up, capture, post-process, and distribute quality video footage for all home and road games during the season● Utilize BATS Video Software to chart, process, and store all collected video● Prepare, display, and organize video footage for advance purposes of each upcoming opponent● Operate Edgertronic (high-speed) camera technology manually and through a browser to collect targeted footage during game- and non-game activity● Operate and troubleshoot other baseball-related technology such as TrackMan V3, Portable TrackMan, Hawkeye, and Blast throughout the season● Heavy utilization of multiple baseball-adjacent applications (Dropbox, Google Drive, remote desktop softwares, video editing softwares, etc…) to edit, move, and store video and data for short-term and long-term usage● Manage and properly care for the various video and technology equipment you will be responsible for using throughout the season (computers, iPads, cameras, etc..)● Work closely with PD Assistant Director with execution of day-to-day affiliate operations● Assist in transportation, travel, and housing logistics for players at assigned affiliate● Assist with various ad-hoc projects assigned by the coaching staffs and front office SKILLS AND QUALIFICATIONS:● Ability and desire to relocate and work non-traditional hours (nights, weekends, and holidays) throughout the season● Extremely detail-oriented focus and mindset on all daily tasks● Ability to comfortably communicate and work with all members of the organization (players, coaches, staff, and various affiliate front office/staff members)● Aptitude and comfortability with basic networking and IT processes● Spanish-speaking capabilities a strong plus● Previous baseball or softball playing and/or video and technology related experience is a plus● Possession of a strong and obvious passion and curiosity for the game of baseballAt the Giants, we believe we put our best work forward when our employees bring together ideas that are diverse in thought. We are proud to be an equal opportunity workplace and are committed to equal employment opportunity regardless of race, religious creed, color, national origin, ancestry, medical condition or disability, genetic condition, marital status, domestic partnership status, sex, gender, gender identity, gender expression, age, sexual orientation, military or veteran status and any other protected class under federal, state or local law. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. In addition, we will provide reasonable accommodations for qualified individuals with disabilities. If you have a disability or special need, we would like to know how we can better accommodate you. All employment applications are reviewed upon receiving them.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/sfgiants/96e7533d-c1be-4f87-8bf3-ed35e99ddeb6/apply",
-      "job_posted_at_datetime_utc": "2026-01-19T02:19:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sf-giants-player-development-associate-san-jose-san-jose",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-19T02:55:58.182Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern for Database Backend",
-      "employer_name": "Observe",
-      "job_city": "San Mateo",
-      "job_state": "CA",
-      "job_description": "What we do Observe is a SaaS observability platform that enables Engineering and DevOps teams to troubleshoot modern distributed applications 10x faster. We consolidate machine-generated data from applications and transform it into human-understandable insights. The runtime team is part of our broader backend organization, owning Observe's core data transformation pipelines and user query execution paths. Our systems process over 2PB of data daily and execute more than 200M queries. What we are building The Observe platform relies heavily on Snowflake as our storage and execution engine. Our team is exploring ways to optimize our existing deployment while also investigating alternative platforms and execution models, including: Alternative generic databases such as ClickHouse or DuckDB Application-specific databases such as InfluxDB or TimescaleDB Streaming systems like Apache Spark or Apache Flink Whom we are looking for We seek a PhD candidate in database systems who wants to create real-world impact. The ideal candidate will quickly integrate into our daily operations to gain deep system knowledge, then independently pursue areas of mutual interest to enhance our platform. As a startup with approximately 75 engineers, every contribution matters, and we're deeply invested in your project's success. Requirements: Currently pursuing a PhD in database systems or related field Demonstrated experience designing, implementing, and evaluating database system features Strong academic performance and research background Practical software engineering experience, ideally through industry internships or open-source contributions Internship Details: We accept applications for 12+ week internships, with strong preference for candidates available for up to 6 months. This is a full-time, in-office position based in either San Mateo, CA or Zurich, Switzerland. What we are offering Working together with a world class team of software engineers holding thousands of citations and dozens of patents Competitive pay for interns both in the US and in Switzerland Close mentorship and real-world impact beyond academic considerations",
-      "job_apply_link": "https://jobs.ashbyhq.com/observeinc/09b71d19-6b8e-406e-9ab9-6668747d6ccb/application",
-      "job_posted_at_datetime_utc": "2025-07-25T22:01:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "observe-software-engineering-intern-for-database-backend-san-mateo",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-19T05:15:31.051Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Walt Disney World Transportation Logistics & Analytics Intern",
-      "employer_name": "The Walt Disney Company",
-      "job_city": "Celebration",
-      "job_state": "FL",
-      "job_description": "Job Posting Title:Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026Req ID:10140614Job Description:About the Role & ProgramAs a member of the Transportation Logistics & Analytics team, the Intern is responsible for gathering and analyzing a variety of data, visualizing the data into a cohesive and compelling story, and then delivering that story to key partners to influence strategic decisions and drive the business forward.Candidates should be curious, think proactively, be eager to solve complex problems, and have a strong instinct to act. Experience in influencing and partnering with others is an important attribute as is the ability to balance multiple priorities and manage time appropriately. The Transportation Logistics & Analytics team is a fun, energetic, and close-knit team that is proud of the vital role they play and wants to share that passion with others!This internship is a full-time, six-month commitment in the Orlando, FL area from June 2026-January 2027.What You Will DoAnalyze diverse datasets using multiple tools and forecasting models, while maintaining and enhancing existing tools and creating new models as neededBuild efficient SQL queries and Snowflake tables to support scalable analyticsCreate visualizations using Tableau that effectively and succinctly summarize analysis and recommendations to tell the necessary storyPresent updates and recommendations to key partners, including executivesPartner with multiple teams, including Transportation Engineering Services, Industrial Engineering, Finance and Workforce ManagementRequired Qualifications & SkillsPositive approach with a focus on how to accomplish the tasks at handDemonstrated ability to streamline data pipelines and support the automation of data process for efficiency and maintainabilitySuperb written and oral communication skills, as well as experience developing presentationsProven strong analytical, problem solving and critical thinking skillsAbility to balance multiple demands and competing priorities in a complex business environmentWorks well in a fast-paced environment with tight deadlinesResourceful and proactive, with an ability to leverage existing partnerships or forge new relationships to navigate complex situationsPreferred QualificationsProven experience with Python programming languagesExperience with cloud-based storage software like SnowflakeKnowledge of SAS or SQL programmingExperience with Tableau or PowerBI visualization techniquesEducationJunior or Senior year preferredMajor or previous coursework in Logistics, Supply Chain Logistics, Industrial Engineering, Computer Science or related major preferredEligibility Requirements & Program InformationCandidates for this opportunity MUST meet all of the below requirements: Be enrolled in an accredited college/university pursuing a degree taking at least one class at time of application OR currently participating in a Disney College Program or Disney Internship.Current Disney Interns, College, International, or Culinary Program Participants: You may only work for ONE consecutive year (12 months) in any combination of an internship and/or program.Be at least 18 years of agePossess unrestricted work authorization.Additional InformationThis internship is a full-time, six-month commitment in the Orlando, FL area from June 2026-January 2027.Able to have a consistent, reliable work schedule throughout the internshipFully available Monday through Friday for the duration of the internship, 40 hours each week.Able to provide own housing for the duration of the internship program in the Orlando, FL area.Able to provide/have own reliable transportation to/from work.Be compliant with The Disney Look appearance guidelines.Limited housing opportunities may be available for Florida Based Professional Interns through American Campus Communities, for more information click here.Recommendation – Print This Role Description: We encourage applicants to print a copy of this role description so they can refer to it in the event they are selected for an interview. Note that this role description will not be accessible once the posting is closed.The pay rate for this role in Florida is $31.00 per hour. Select benefits may be provided as part of the compensation package, such as medical, financial, and/or other benefits, dependent on the level and position offered. To learn more about our benefits visit: https://jobs.disneycareers.com/benefits.Job Posting Segment:Other OpsJob Posting Primary Business:Transportation (WDW)Primary Job Posting Category:Data Science and Analytics Intern, OtherEmployment Type:Full timePrimary City, State, Region, Postal Code:Lake Buena Vista, FL, USAAlternate City, State, Region, Postal Code:Date Posted:2026-01-19",
-      "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Summer-Fall-2026_10140614",
-      "job_posted_at_datetime_utc": "2026-01-19T07:22:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "the-walt-disney-company-walt-disney-world-transportation-logistics-analytics-intern-celebration",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-19T07:36:10.737Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Technology Solutions and Digital Products",
-      "employer_name": "APL Logistics",
-      "job_city": "Scottsdale",
-      "job_state": "AZ",
-      "job_description": "Overview: As a Technology Solutions and Digital Products Intern, you will support the Technology Solutions team in maintaining and improving master data, documenting processes and solutions in Confluence, and assisting with system configuration in BY Network (formerly OneNetwork). This internship provides hands-on experience in logistics technology platforms and exposure to global business operations.",
-      "job_apply_link": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3753",
-      "job_posted_at_datetime_utc": "2026-01-19T10:31:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "apl-logistics-intern-technology-solutions-and-digital-products-scottsdale",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-19T11:11:57.087Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
-      "job_title": "Engineering Intern",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Santa Rosa",
-      "job_state": "CA",
-      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin: 0px;\">Our engineering team is located in Santa Rosa, California and relocation benefits are provided. &nbsp;Although you'll be part of a team, you will also be working independently on your priorities and tasks. The scope and complexity of your projects will be based on your existing knowledge and capabilities as well as how fast you can acquire new skills. We offer a challenging and dynamic working environment with opportunities to make a substantial contribution in exciting new product development.</p><p style=\"margin: 0in; margin-left: .375in; font-family: Calibri; font-size: 11.0pt; color: black;\">&nbsp;</p><h4>About the Job:</h4><p style=\"margin: 0px;\">You will be working on projects as a member of a team that gathers requirements, analyzes, designs, prototypes, develops and tests software, firmware and mobile applications that will go into current and future Vector Network Analyzer products. You will be working with other engineers to gather customer requirements to create a complete solution.</p><p style=\"margin: 0px;\">&nbsp;</p><h4>About the Team:</h4><p style=\"margin: 0px;\">Our team is very competent, highly motivated, friendly, and eager to help you succeed. The team has a mix of new and experienced developers with a broad range of skills.</p><p style=\"margin: 0px;\">&nbsp;</p><h4>Responsibilities:</h4><ul><li style=\"list-style-type: none;\"><ul type=\"circle\"><li>Design, implement, test, and document new software products and solutions</li><li>Write unit and system tests for software</li><li>Participate in design and code reviews</li></ul></li></ul> <br><STRONG>Qualifications</STRONG><br><br><br><ul><li>Pursuing BS or MS in Computer Science, Computer Engineering, Electrical Engineering or equivalent.</li><li>The ability to work in a team, with multiple customers/partners and across geographic boundaries</li><li>Demonstrated analytical and problem-solving skills</li><li>Knowledge of object-oriented programming concepts and design</li><li>Working knowledge of C++</li></ul><p style=\"margin: 0px;\">Pay Range:</p><p style=\"margin: 0px;\">$29-33/hour</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Visa Sponsorship is not available for this position. Candidates who now or at any point in the future require sponsorship (ie H1B Visa) may not be considered.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49618?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-20T00:15:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-engineering-intern-santa-rosa",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-19T11:37:19.541Z",
-    "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": "2026-01-21T07:22:37.609Z"
-  },
-  {
-    "job": {
       "job_title": "Disneyland Costuming Project Analyst Intern",
       "employer_name": "The Walt Disney Company",
       "job_city": "Anaheim",
@@ -854,10 +674,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-19T12:37:42.914Z",
     "enrichedAt": "2026-01-21T07:08:59.443Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -874,10 +694,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-19T12:37:42.914Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -894,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-19T23:38:51.518Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -914,10 +734,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-20T00:06:13.688Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -934,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-20T00:06:13.688Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -954,10 +774,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-20T00:41:46.966Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -974,10 +794,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-20T02:35:25.734Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -994,10 +814,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-20T03:53:38.057Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -1014,10 +834,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-20T03:53:38.057Z",
     "enrichedAt": "2026-01-21T07:21:45.122Z",
-    "postedAt": null
+    "postedAt": "2026-01-21T07:36:57.418Z"
   },
   {
     "job": {
@@ -1045,16 +865,18 @@
       "employer_name": "RWS",
       "job_city": "Oklahoma City",
       "job_state": "OK",
-      "job_description": "Join RWS in this exciting opportunity.",
+      "job_description": "AI Data Specialist (US)Oklahoma City, OklahomaRWS – TrainAI /Temporary/Contract /HybridApply for this jobWe are looking for AI Data Specialists to support the improvement of AI-generated content in English. Job Type: FreelanceLocation: Work from homeWork Schedule: Part-time - 10+ hours per week. Flexible - work whenever you want.Start Date: ImmediatelyDuration: TBCRate: 15 USD/hour Help Shape the Future of AIAre you a student, recent graduate, stay-at-home parent, gig worker, or professional seeking flexible remote work? Are you interested in shaping the development and safety of today’s AI models? What You’ll DoThe role involves performing diverse data-related tasks, including:- Data collection, evaluation, and annotation.- Pairwise comparisons.- Counting tasks.- Object tagging and labeling across different content types (audio, video, images, or collected data) What we’re looking for:- English Proficiency: Fluent or advanced proficiency in English (levels B2–C2)- AI & Data Capabilities (Preferred): Experience in one or more of the following areas: machine learning tasks, data collection and preprocessing, data evaluation and quality assurance, and data annotation and labeling. What We Offer- Flexible schedule- Opportunity to earn extra income- Timely payments- The job is ideal for students, part-timers, or stay-at-home parents#LI-PR15 Vendor TypeWhen applying, please select the option that best describes your working status.Are you a Freelancer or Private Individual?A Freelancer is someone who has a business license and may have a VAT number or EIN for tax purposes. A VAT (Value Added Tax) number is a unique identifier assigned to registered businesses in many countries; an EIN (Employer Identification Number) is a similar identifier used in the US. A Private Individual does not have a business license. If you aren’t sure, you are probably a private individual.RWS embraces DEI and promotes equal opportunity, we are an Equal Opportunity Employer and prohibit discrimination and harassment of any kind. RWS is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at RWS are based on business needs, job requirements and individual qualifications, without regard to race, religion, nationality, ethnicity, sex, age, disability, or sexual orientation. RWS will not tolerate discrimination based on any of these characteristics. #LI-PR1505 #INDJCApply for this job",
       "job_apply_link": "https://jobs.lever.co/rws/b94322e4-11a0-4515-9c2c-461ee66d0d47/apply",
       "job_posted_at_datetime_utc": "2026-01-16T15:18:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "rws-ai-data-specialist-us-oklahoma-city"
+      "id": "rws-ai-data-specialist-us-oklahoma-city",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T10:14:23.920Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1063,16 +885,18 @@
       "employer_name": "PricewaterhouseCoopers (PwC)",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join PricewaterhouseCoopers (PwC) in this exciting opportunity.",
+      "job_description": "Industry/SectorNot ApplicableSpecialismAssuranceManagement LevelIntern/TraineeJob Description & SummaryAt PwC, our people in data and analytics engineering focus on leveraging advanced technologies and techniques to design and develop robust data solutions for clients. They play a crucial role in transforming raw data into actionable insights, enabling informed decision-making and driving business growth.As part of generative AI at PwC, you will be is responsible for leading the development of AI and GenAI solutions, including analytical modeling and prompt engineering. You will also have an expertise in AI/GenAI architectures including design, testing, deployment and maintenance, leading to end-to-end solutions.​Driven by curiosity, you are a reliable, contributing member of a team. In our fast-paced environment, you will have the chance to work on a variety of assignments, each presenting varying challenges and scope. Every experience is an opportunity to learn and grow. You are encouraged to ask questions, take initiative, and produce quality work that adds value for our clients and contributes to our team’s success. During your time at the Firm, you start to establish your personal brand, paving the way to more opportunities.Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:Apply a learning mindset and take ownership for your own development.Appreciate diverse perspectives, needs, and feelings of others.Adopt habits to sustain high performance and develop your potential.Actively listen, ask questions to check understanding, and clearly express ideas.Seek, reflect, act on, and give feedback.Gather information from a range of sources to analyse facts and discern patterns.Commit to understanding how the business works and building commercial awareness.Learn and apply professional and technical standards (e.g. refer to specific PwC Financial Crime and Regulations Compliance and audit guidance), uphold the Firm's code of conduct and independence requirements.The OpportunityAs an Assurance Artificial Intelligence Technology Intern, you will gain hands-on exposure to the field of data and analytics engineering with a focus on artificial intelligence and machine learning. This role provides an opportunity to learn how AI technologies, including machine learning, generative AI, AI agents, AI governance, and AI evaluation, are applied in a professional services environment to support assurance services and client needs.As an Intern, you will work alongside experienced professionals and support client engagements by participating in project tasks, conducting research, and assisting with technical deliverables. You will be immersed in a collaborative learning environment where you are encouraged to ask questions, take initiative, and build foundational technical and professional skills. Through this experience, you will gain insight into PwC’s methodologies, tools, and business context, while developing your personal brand and understanding how AI solutions support broader assurance strategies. This role is designed to provide exposure to real-world applications of AI technology while helping you build a strong foundation for a future career in assurance, data, and analytics.Responsibilities- Supporting AI and data analytics projects by assisting with model development, evaluation, and documentation- Participating in machine learning and generative AI model evaluation activities to support data-driven insights- Assisting in the assessment of artificial intelligence solutions embedded in existing systems- Conducting data analysis under guidance to extract insights and support project objectives- Supporting data quality, integration, and validation efforts to ensure reliable outputs- Utilizing programming languages such as Python and Java to assist with data pipelines and AI-related tasks- Leveraging open-source software and machine learning libraries to support AI development and evaluation efforts- Conducting research on emerging AI technologies, governance practices, and evaluation techniques- Assisting client engagement teams by preparing analyses, documentation, and technical materials- Collaborating with team members to complete project tasks within defined timelines- Observing and participating in professional work environments to gain exposure to PwC practices and assurance methodologies- Contributing to team success by performing assigned tasks and supporting senior team members as neededWhat You Must Have- Currently pursuing a Bachelor’s degree in Computer Science, Data Science, Artificial Intelligence, Machine Learning, Physics, Computational Chemistry, Mathematics, or a related field- At least a 3.0 overall GPA- Client service intern positions are entry-level roles intended for job seekers who are in their third year of a four-year degree program or fourth year of a five-year program at the time of application. Winter internships typically occur during the spring semester preceding the student’s final year of school. Summer internships typically take place during the summer preceding the student’s final year of school.What Sets You Apart- Preference for a 3.3 overall GPA- Demonstrated interest in artificial intelligence, machine learning, and data analytics- Enthusiasm for learning and applying AI technologies in a professional setting- Exposure to Python or Java through coursework or projects- Familiarity with machine learning libraries such as Scikit-Learn- Interest in natural language processing and generative AI concepts- Curiosity about AI governance, ethics, and evaluation practices- Strong analytical thinking and problem-solving skills- Ability to collaborate effectively within team environmentsTravel RequirementsUp to 20%Job Posting End DateLearn more about how we work: https://pwc.to/how-we-workPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws.  At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.The salary range for this position is: $29.25 - $48.00. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws.",
       "job_apply_link": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Artificial-Intelligence-Technology---Intern---Summer-2026_695974WD-1",
       "job_posted_at_datetime_utc": "2026-01-20T15:06:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-intern-summer-2026-boston"
+      "id": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-intern-summer-2026-boston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T15:34:19.540Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1081,16 +905,18 @@
       "employer_name": "PricewaterhouseCoopers (PwC)",
       "job_city": "Washington",
       "job_state": "DC",
-      "job_description": "Join PricewaterhouseCoopers (PwC) in this exciting opportunity.",
+      "job_description": "Industry/SectorNot ApplicableSpecialismDeals TaxManagement LevelSenior AssociateJob Description & SummaryAt PwC, our people in tax services focus on providing advice and guidance to clients on tax planning, compliance, and strategy. These individuals help businesses navigate complex tax regulations and optimise their tax positions.Those in mergers and acquisition tax at PwC will focus on providing tax advice and guidance during mergers, acquisitions, and other business transactions. Your work will involve analysing the tax implications of such transactions, developing tax structures, and assisting clients in navigating complex tax regulations to optimise tax outcomes.Driven by curiosity, you are a reliable, contributing member of a team. In our fast-paced environment, you are expected to adapt to working with a variety of clients and team members, each presenting varying challenges and scope. Every experience is an opportunity to learn and grow. You are expected to take ownership and consistently deliver quality work that drives value for our clients and success as a team. As you navigate through the Firm, you build a brand for yourself, opening doors to more opportunities.Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:Apply a learning mindset and take ownership for your own development.Appreciate diverse perspectives, needs, and feelings of others.Adopt habits to sustain high performance and develop your potential.Actively listen, ask questions to check understanding, and clearly express ideas.Seek, reflect, act on, and give feedback.Gather information from a range of sources to analyse facts and discern patterns.Commit to understanding how the business works and building commercial awareness.Learn and apply professional and technical standards (e.g. refer to specific PwC tax and audit guidance), uphold the Firm's code of conduct and independence requirements.The OpportunityAs a National Tax Services - M&A Tax LLM Senior Associate, you will engage in complex tax structuring and advisory services, focusing on mergers and acquisitions. You will work closely with clients to navigate the intricacies of tax implications, ensuring compliance and optimizing tax positions. As a Senior Associate, you will leverage your problem-solving skills and critical thinking to manage workstreams and develop deliverables within client service engagements. You will build meaningful client relationships and guide junior team members, enhancing your personal brand and technical skills.This role offers the chance to work within the Mergers and Acquisition Tax team, where you will be at the forefront of corporate transactions, tax restructuring, and post-deal integration. You will have the opportunity to deepen your understanding of business contexts and develop innovative tax strategies. By anticipating client needs and embracing complexity, you will contribute to delivering quality solutions and driving business success. This position is ideal for those who are passionate about tax law and eager to grow in a dynamic and supportive environment.Responsibilities- Analyzing complex tax issues related to mergers and acquisitions to provide strategic tax advice- Collaborating with clients to develop tax-efficient structures and strategies for corporate transactions- Preparing and reviewing consolidated tax returns to align with financial reporting standards- Conducting tax modeling to assess the implications of various structural options- Advising on domestic restructuring to optimize tax benefits and compliance with tax laws- Integrating tax and finance systems to enhance data quality for reporting purposes- Assisting in post-deal integration to align financial and operational aspects for seamless transitions- Drafting and negotiating purchase and sale agreements to outline transaction terms and conditions- Utilizing analytical thinking to interpret tax provisions and liabilities in financial statements- Engaging in continuous learning to stay updated on tax regulations and industry trends- Supporting the development of junior team members through mentoring and guidance- Building meaningful client relationships to anticipate and address their tax needs- Navigating complex tax scenarios to deliver tailored solutions for diverse client portfolios- Embracing change and demonstrating intellectual curiosity to drive innovation in tax services- Applying communication skills to effectively convey complex tax concepts to clients and stakeholdersWhat You Must Have- Currently pursuing or have completed a Master of Laws degree- Before starting full-time at PwC, meet the educational requirements and demonstrate a commitment to undertaking and passing Bar exam- At least a 3.0 overall GPAWhat Sets You Apart- Preference for a 3.3 overall GPA- Demonstrating analytical thinking in complex tax scenarios- Excelling in corporate transactions and tax restructuring- Utilizing tax modeling for strategic decision-making- Managing consolidated tax returns efficiently- Integrating tax and finance systems for optimized reporting- Embracing change and adapting to evolving tax regulationsTravel RequirementsUp to 20%Job Posting End DateLearn more about how we work: https://pwc.to/how-we-workPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws.  At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.The salary range for this position is: $77,000 - $214,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance",
       "job_apply_link": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/National-Tax-Services---M-A-Tax-LLM-Senior-Associate---Summer-2026_657578WD",
       "job_posted_at_datetime_utc": "2025-09-05T23:51:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pricewaterhousecoopers-pwc-national-tax-services-m-a-tax-llm-senior-associate-mergers-and-acquisition-tax-washington"
+      "id": "pricewaterhousecoopers-pwc-national-tax-services-m-a-tax-llm-senior-associate-mergers-and-acquisition-tax-washington",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T15:34:19.540Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1104,11 +930,13 @@
       "job_posted_at_datetime_utc": "2026-01-20T15:11:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "howmet-aerospace-ai-intern-pittsburgh"
+      "id": "howmet-aerospace-ai-intern-pittsburgh",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T16:02:05.616Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1117,16 +945,18 @@
       "employer_name": "Manulife Financial",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Manulife Financial in this exciting opportunity.",
+      "job_description": "At Manulife John Hancock, we believe in investing in the future – starting with you. Our AI Engineering Intern position is your launchpad to success, offering the support, structure, and exciting opportunities you need to thrive and make your mark.Our team is seeking a motivated AI Engineering Intern to join our Asset Management AI team. This internship offers hands‑on experience developing AI‑driven solutions in an investment management context. You will work with market and portfolio data, support data engineering initiatives, and contribute to foundational capabilities that enable scalable use of Large Language Models (LLMs) and Generative AI within our existing MLOps framework.This role is ideal for candidates who are passionate about applied AI, data engineering, and modern cloud‑based ML platforms, and who are eager to learn in a collaborative, real‑world environment.Key ResponsibilitiesCollaboration and Support: Assist front office analysts and portfolio managers in identifying AI/ML opportunities and developing lightweight prototypes.Data Engineering: Help design and implement data models, support automated data mapping, and perform data quality checks.Tooling and Standards: Contribute to defining best practices for MLOps processes and CI/CD workflows.Research and Development: Stay informed about advancements in LLM and Generative AI models and assist in integrating these into our workflows.Cloud and Infrastructure Support: Gain exposure to tools like Databricks, Kubernetes, and Azure Data Factory for ETL and compute tasks.Required QualificationsCurrently pursuing a Master’s or PhD in Financial Engineering, Computer Science, Data Science, Statistics, or a related quantitative field.Familiarity with Python and fundamental software development concepts.Strong interest in AI/ML, data engineering, and cloud‑based technologies.Excellent analytical and problem‑solving skills with strong attention to detail.Ability to communicate clearly and collaborate effectively within a team environment.Preferred QualificationsExposure to cloud platforms such as Azure, AWS, or GCP.Experience with data or compute platforms such as Databricks, or containerization tools like Docker and Kubernetes.Familiarity with CI/CD concepts and model or experiment tracking tools (e.g., MLflow).When you join our team:We’ll empower you to learn and grow the career you want. We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words. As part of our global team, we’ll support you in shaping the future you want to see. As part of our internship program, you will gain early access to Manulife John Hancock’s premier early talent program, GRO, tailored to graduating students! The program designed to launch your career with the support, structure, and opportunities you need to thrive.Please note the salary range is $78,000 USD to $117,000 USD.#LI-Hybrid #LI-JHAbout Manulife and John HancockManulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html.Manulife is an Equal Opportunity EmployerAt Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.Working ArrangementHybridKnow Your Rights I Family & Medical Leave I Employee Polygraph Protection I Right to Work I E-Verify Company: John Hancock Life Insurance Company (U.S.A.)",
       "job_apply_link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2026---Asset-Management-AI_JR25120642",
       "job_posted_at_datetime_utc": "2026-01-20T15:43:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "manulife-financial-intern-asset-management-ai-boston"
+      "id": "manulife-financial-intern-asset-management-ai-boston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T16:35:18.447Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1135,16 +965,18 @@
       "employer_name": "Carpenter Technology",
       "job_city": "Reading",
       "job_state": "PA",
-      "job_description": "Join Carpenter Technology in this exciting opportunity.",
+      "job_description": "Hi, I’m Ashish, looking for a Summer 2026 Software Engineering Intern.Who Am I?I am an experienced leader with a passion for automation and technology.Your Role as an InternYou will be a part of a dynamic team, supporting the following tasks:Data extraction and analysis from UT data warehouseOur Value Proposition   -This position will allow you to develop and build expertise in the following core skills:   Adaptability – You will track, prioritize, and drive multiple concurrent projects to success, while working in a fast-paced corporate environment.  Problem Solving – Develop your critical thinking and analytical skills while assessing problems, recommending solutions or next steps and identifying best practices.Active Learner – Ability and appetite to learn quickly is critical as you expand your knowledge and build your skill sets.   Communication – Create effective verbal and written communications in and across project teams. Organize and present results to small and large audiences throughout the organization.   Collaboration – You will work autonomously in small or large teams, many of which are matrixed teams requiring strong partnership skills.  What Do We Require? You must be:Currently enrolled in a bachelor’s degree program majoring in Computer Science, Software Engineering or related field with a preference for rising juniors or rising seniors.Candidates should have classroom experience with PythonIdeal candidates will be self-motivated and possess excellent communication skillsMinimum 3.0 GPAWilling and able to work on-site at our Reading, PA location.Applicants MUST be US Citizens or Green Card Holders due to Carpenter’s government contracts.Pay RangeHourly rates are based on: 1 – Program of study; 2 – Degree type (i.e., Bachelor’s); 3 – Progression in degree (i.e., 1st year, 2nd year, etc.). The range for this position is $22.00-$25.00 per hour.Commuting/Housing Assistance (If Eligible) Interns who must commute to work from outside the immediate Reading, PA area (over 50 miles one-way), will be paid a one-time lump sum payment of $2,400 (less applicable taxes) as excessive commute allowance. Interns who choose to temporarily relocate from outside the immediate Reading, PA area (moving over 50 miles one-way), will be paid a one-time lump sum payment of $4,800 (less applicable taxes) as a housing allowance. If applicable, this payment would be made during the first payroll cycle, which would be three or four weeks following the internship start date.Carpenters Commitment to Diversity, Equity, Inclusion and BelongingAt Carpenter Technology, We Are One Company for All.Carpenter Technology has a culture that builds on the different backgrounds, experiences, and perspectives of all employees to drive performance. Our commitment to diversity, inclusion, and belonging is woven into our Core Values of dignity and respect for all. By embracing our diverse perspectives, we accelerate the creation of innovative solutions that deliver value to our customers.Carpenter Technology Company offers a competitive salary and a comprehensive benefits package including life, medical, dental, vision, flexible spending accounts, disability coverage, 401k with company contributions as well as many other options to employees.Carpenter Technology Corporation’s policy is to fully and effectively maintain a program of equal employment opportunity and nondiscrimination for all employees, to employ affirmative action for all protected classes, and to recruit and develop the best qualified persons available regardless of age, race, color, religion, sex, gender identity, sexual orientation, marital status, national origin, political affiliation or any other characteristic protected by law. The Company also will recruit, develop and provide opportunities for qualified persons with disabilities and protected veterans.",
       "job_apply_link": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Software-Engineering-Intern_26070",
       "job_posted_at_datetime_utc": "2026-01-20T15:41:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "carpenter-technology-software-engineering-intern-reading"
+      "id": "carpenter-technology-software-engineering-intern-reading",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T16:35:18.447Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1153,16 +985,18 @@
       "employer_name": "PricewaterhouseCoopers (PwC)",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join PricewaterhouseCoopers (PwC) in this exciting opportunity.",
+      "job_description": "Industry/SectorNot ApplicableSpecialismAssuranceManagement LevelAssociateJob Description & SummaryAt PwC, our people in data and analytics engineering focus on leveraging advanced technologies and techniques to design and develop robust data solutions for clients. They play a crucial role in transforming raw data into actionable insights, enabling informed decision-making and driving business growth.As part of generative AI at PwC, you will be is responsible for leading the development of AI and GenAI solutions, including analytical modeling and prompt engineering. You will also have an expertise in AI/GenAI architectures including design, testing, deployment and maintenance, leading to end-to-end solutions.​Driven by curiosity, you are a reliable, contributing member of a team. In our fast-paced environment, you are expected to adapt to working with a variety of clients and team members, each presenting varying challenges and scope. Every experience is an opportunity to learn and grow. You are expected to take ownership and consistently deliver quality work that drives value for our clients and success as a team. As you navigate through the Firm, you build a brand for yourself, opening doors to more opportunities.Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:Apply a learning mindset and take ownership for your own development.Appreciate diverse perspectives, needs, and feelings of others.Adopt habits to sustain high performance and develop your potential.Actively listen, ask questions to check understanding, and clearly express ideas.Seek, reflect, act on, and give feedback.Gather information from a range of sources to analyse facts and discern patterns.Commit to understanding how the business works and building commercial awareness.Learn and apply professional and technical standards (e.g. refer to specific PwC Financial Crime and Regulations Compliance and audit guidance), uphold the Firm's code of conduct and independence requirements.The Opportunity As an Assurance Artificial Intelligence Technology Associate, you will engage in the dynamic field of data and analytics engineering, focusing on artificial intelligence and machine learning. You will have the chance to work directly with clients, applying your skills in  machine learning, generative AI, AI agents, AI development, AI governance, and AI evaluation to deliver impactful solutions.  As an Associate, you will be immersed in a learning environment where you will contribute to client projects, develop your technical skills, and build meaningful client connections. You will be encouraged to embrace challenges, ask questions, and use these experiences as opportunities for growth.    In this role, you will be part of the Assurance AI team, where you will support senior staff and participate in project tasks. You will develop a deeper understanding of the business context and how your work fits into the overall strategy. By engaging in research and utilizing a broad range of tools, you will generate new ideas and solve problems, contributing to the delivery of quality work. This position offers a unique opportunity to grow your personal brand and deepen your technical knowledge in a supportive and collaborative environment.   Responsibilities - Developing and implementing machine learning and generative AI model evaluation practices to enhance data-driven decision-making processes - Collaborating with cross-functional teams to assess artificial intelligence solutions embedded in existing systems - Utilizing programming languages such as Python and Java to build scalable data infrastructure and pipelines - Conducting complex data analysis to extract insights and inform strategic initiatives - Managing data quality and integration efforts to support reliable and consistent data outputs - Leveraging open-source software and machine learning libraries to innovate and streamline AI implementations and facilitate AI evaluation - Supporting client engagements by providing technical insights and recommendations for AI technology adoption, evaluation, and governance  What You Must Have - Currently pursuing or have completed a Bachelor's degree in Computer Science, Data Science, Artificial Intelligence, Machine Learning, Physics, Computational Chemistry, Mathematics  - At least a 3.0 overall GPA - Client service associate positions are entry-level roles intended for job seekers who are completing or have recently completed their final academic year of educational requirements  What Sets You Apart - Preference for a 3.3 overall GPA  - Leveraging AI to create efficiencies, innovate ways of working and deliver distinctive outcomes  - Excelling in data infrastructure and integration  - Utilizing Python and Java for AI solutions  - Implementing machine learning libraries like Scikit-Learn  - Applying natural language processing techniques  - Developing complex data analysis skills  - Experience with AI EvaluationTravel RequirementsUp to 20%Job Posting End DateLearn more about how we work: https://pwc.to/how-we-workPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws.  At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.The salary range for this position is: $53,500 - $104,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance",
       "job_apply_link": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Artificial-Intelligence-Technology---Associate---Summer-Fall-2026_683746WD-2",
       "job_posted_at_datetime_utc": "2026-01-20T15:40:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-associate-boston"
+      "id": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-associate-boston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T16:35:18.447Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1171,16 +1005,18 @@
       "employer_name": "Instacart",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Instacart in this exciting opportunity.",
+      "job_description": "Get a Taste of Instacart @Instacart @Instacart Tech Blog Taste of Instacart Blog Instacart News Instacart is a hybrid remote team. Most of our roles are open to in-office, flex, or remote work. Learn more about our flexible approach to where we work. No matter what you bring to the potluck, there’s a seat at the table for you. We celebrate the unique and diverse paths, perspectives and experiences that you may bring to Instacart. Accommodations & Accessibility At Instacart, we strive to create an accessible and inclusive experience for all candidates. If you need assistance submitting an application through our career site due to a disability, please submit an Accommodations Request Form and someone from our team will reach out soon to see how we may be able to assist. Equal Opportunity Instacart is an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, color, creed, religion, national origin, age, sex and gender, gender expression and gender identity, sexual orientation, marital status, ancestry, physical or mental disability, military and veteran status, or any other characteristic protected by law. For Colorado applicants, pursuant to the Colorado Job Application Fairness Act, you may omit or redact information identifying age, date of birth, and/or dates of attendance at or graduation from an educational institution in your resume and/or application. Candidate Privacy Policy",
       "job_apply_link": "https://instacart.careers/job/?gh_jid=5917202",
       "job_posted_at_datetime_utc": "2026-01-20T15:31:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "instacart-machine-learning-engineer-intern-remote-in-usa"
+      "id": "instacart-machine-learning-engineer-intern-remote-in-usa",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T16:35:18.447Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
@@ -1189,16 +1025,18 @@
       "employer_name": "Jabil",
       "job_city": "St. Petersburg",
       "job_state": "FL",
-      "job_description": "Join Jabil in this exciting opportunity.",
+      "job_description": "At Jabil we strive to make ANYTHING POSSIBLE and EVERYTHING BETTER. We are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, manufacturing, and supply chain solutions. With over 50 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver both scalable and customized solutions. Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe. Summary of ProgramJabil’s Summer Internship Program was recognized as one of the Top 100 Internship Programs in the country for 2025 by WayUp. This is the result of a holistic and engaging experience that summer interns at Jabil experience. As a result, interns that are a part of this program for summer 2026 will get to engage with members of Jabil’s leadership team and participate in events related to professional development, networking & socializing, and community engagement. In addition, interns will have the opportunity to work with each other in committees, be assigned a mentor, tour some of Jabil’s facilities and much more! If this sounds like a program you want to be a part of and you want to work for a company that strives to make EVERYTHING BETTER and ANYTHING POSSIBLE, then apply today.Summary of PositionAs a member of the Finance Digital Transformation team, this position will be responsible for providing ongoing support, maintenance, and development of financial data management systems.Intern Duties & ResponsibilitiesBuild, support, and improve applications within the Financial Systems data warehousing and reporting platforms, including Microsoft SQL Server, Snowflake, and IBM Cognos Analytics.Maintain and enhance the data architecture used across Jabil systems to ensure data integrity. This includes managing data hierarchies and business rules in line with organizational requirements and relevant regulations or internal controls.Execute and/or support data extraction from global ERP systems as needed, including SAP, SAP HANA, and other platforms.Maintain and update user and administrator documentation for Jabil applications and templates.Train end users on system functionality and collaborate with the user community to continuously improve system capabilities.Follow all procedures outlined in the company’s security policy.Perform other duties and responsibilities as assigned.QualificationsMajor(s): Computer Science, Finance, Information Technology, or related field.Class Year(s): Sophomore, Junior.GPA: Min 3.0Technical Skills:Basic knowledge of SQL, Python, or similar technologies.Strong communication skills.Self‑starter with the ability to take initiative and drive work forward.Demonstrated agility, ability to build trusting relationships, sound decision‑making skills, and resilience.Availability: Must be available to work in St. Petersburg, FL from May 18, 2026– Aug 7, 2026. BE AWARE OF FRAUD: When applying for a job at Jabil you will be contacted via correspondence through our official job portal with a jabil.com e-mail address; direct phone call from a member of the Jabil team; or direct e-mail with a jabil.com e-mail address. Jabil does not request payments for interviews or at any other point during the hiring process. Jabil will not ask for your personal identifying information such as a social security number, birth certificate, financial institution, driver’s license number or passport information over the phone or via e-mail. If you believe you are a victim of identity theft, contact the Federal Bureau of Investigations internet crime hotline (www.ic3.gov), the Federal Trade Commission identity theft hotline (www.identitytheft.gov) and/or your local police department. Any scam job listings should be reported to whatever website it was posted in.Jabil, including its subsidiaries, is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, age, disability, genetic information, veteran status, or any other characteristic protected by law. Accessibility Accommodation  If you are a qualified individual with a disability, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access Jabil.com/Careers site as a result of your disability. You can request a reasonable accommodation by sending an e-mail to Always_Accessible@Jabil.com or calling 727-803-7988 with the nature of your request and contact information. Please do not direct any other general employment related questions to this e-mail or phone number. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to. #whereyoubelong #AWorldofPossibilities #EarlyCareer",
       "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance-Data-Engineering-Intern_J2437300",
       "job_posted_at_datetime_utc": "2026-01-20T15:29:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jabil-finance-data-engineer-intern-st-petersburg"
+      "id": "jabil-finance-data-engineer-intern-st-petersburg",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-20T16:35:18.447Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-21T07:36:13.252Z",
     "postedAt": null
   },
   {
