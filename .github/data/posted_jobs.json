@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T03:26:03.723Z",
+  "lastUpdated": "2026-01-21T03:58:58.582Z",
   "jobs": [
-    {
-      "id": "at-t-technology-development-program-intern-2026-dallas-2026-01-14-1",
-      "jobId": "at-t-technology-development-program-intern-2026-dallas",
-      "company": "AT&T",
-      "title": "Technology Development Program Intern - 2026",
-      "postedToDiscord": "2026-01-14T03:32:49.203Z",
-      "sourceDate": "2026-01-13T23:20:09.000Z",
-      "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTCollegeSpecialInvite/job/Dallas-Texas/Technology-Development-Program-Intern--2026-_R-80658-1",
-      "discordThreadId": "1460839028948729932",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paccar-intern-advanced-technology-burlington-2026-01-14-1",
-      "jobId": "paccar-intern-advanced-technology-burlington",
-      "company": "Paccar",
-      "title": "Intern - Advanced Technology",
-      "postedToDiscord": "2026-01-14T03:32:52.713Z",
-      "sourceDate": "2026-01-13T23:19:41.000Z",
-      "sourceUrl": "https://jobs.paccar.com/job/Mount-Vernon-Summer-Internship-2026-Advanced-Technology-WA-98273-9671/1283039201/?ats=successfactors",
-      "discordThreadId": "1460839044522053825",
-      "instanceNumber": 1
-    },
-    {
-      "id": "parsons-computer-vision-robotics-intern-westminster-2026-01-14-1",
-      "jobId": "parsons-computer-vision-robotics-intern-westminster",
-      "company": "Parsons",
-      "title": "Computer Vision / Robotics Intern",
-      "postedToDiscord": "2026-01-14T03:32:56.391Z",
-      "sourceDate": "2026-01-13T23:19:32.000Z",
-      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision---Robotics-Intern---Summer-2026_R176218-1",
-      "discordThreadId": "1460839059835584585",
-      "instanceNumber": 1
-    },
-    {
-      "id": "parsons-software-development-intern-summer-2026-westminster-2026-01-14-1",
-      "jobId": "parsons-software-development-intern-summer-2026-westminster",
-      "company": "Parsons",
-      "title": "Software Development Intern - Summer 2026",
-      "postedToDiscord": "2026-01-14T03:33:00.000Z",
-      "sourceDate": "2026-01-13T23:19:25.000Z",
-      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Software-Development-Intern---Summer-2026_R176219-2",
-      "discordThreadId": "1460839074909655236",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stantec-hydrogeology-intern-environmental-services-wayzata-2026-01-14-1",
-      "jobId": "stantec-hydrogeology-intern-environmental-services-wayzata",
-      "company": "Stantec",
-      "title": "Hydrogeology Intern - Environmental Services",
-      "postedToDiscord": "2026-01-14T03:33:06.709Z",
-      "sourceDate": "2026-01-13T23:20:03.000Z",
-      "sourceUrl": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1003653",
-      "discordThreadId": "1460839102390730854",
-      "instanceNumber": 1
-    },
-    {
-      "id": "medpace-clinical-informatics-intern-fall-2026-cincinnati-2026-01-14-1",
-      "jobId": "medpace-clinical-informatics-intern-fall-2026-cincinnati",
-      "company": "Medpace, Inc.",
-      "title": "Clinical Informatics Intern - Fall 2026",
-      "postedToDiscord": "2026-01-14T03:33:13.359Z",
-      "sourceDate": "2026-01-13T23:18:39.000Z",
-      "sourceUrl": "https://careers.medpace.com/jobs/12448?lang=en-us&icims=1",
-      "discordThreadId": "1460839130824184067",
-      "instanceNumber": 1
-    },
-    {
-      "id": "medpace-clinical-informatics-intern-cincinnati-2026-01-14-1",
-      "jobId": "medpace-clinical-informatics-intern-cincinnati",
-      "company": "Medpace, Inc.",
-      "title": "Clinical Informatics Intern",
-      "postedToDiscord": "2026-01-14T03:33:13.363Z",
-      "sourceDate": "2026-01-13T23:18:37.000Z",
-      "sourceUrl": "https://careers.medpace.com/jobs/12447?lang=en-us&icims=1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "enfra-engineering-intern-emerging-technologies-salt-lake-city-2026-01-14-1",
-      "jobId": "enfra-engineering-intern-emerging-technologies-salt-lake-city",
-      "company": "ENFRA",
-      "title": "Engineering Intern - Emerging Technologies",
-      "postedToDiscord": "2026-01-14T03:33:16.976Z",
-      "sourceDate": "2026-01-13T23:10:52.000Z",
-      "sourceUrl": "https://careers-enfra.icims.com/jobs/9054/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460839145717895404",
-      "instanceNumber": 1
-    },
-    {
-      "id": "legrand-digital-analytics-intern-farmington-2026-01-14-1",
-      "jobId": "legrand-digital-analytics-intern-farmington",
-      "company": "Legrand",
-      "title": "Digital Analytics Intern",
-      "postedToDiscord": "2026-01-14T03:33:23.510Z",
-      "sourceDate": "2026-01-13T23:13:44.000Z",
-      "sourceUrl": "https://jobs-legrand.icims.com/jobs/9717/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460839173949886740",
-      "instanceNumber": 1
-    },
     {
       "id": "by-light-professional-it-services-intern-orlando-2026-01-14-1",
       "jobId": "by-light-professional-it-services-intern-orlando",
@@ -21594,6 +21495,105 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5568374004?gh_jid=5568374004",
       "discordThreadId": "1463374044526280826",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-senior-account-executive-smb-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-senior-account-executive-smb-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Senior Account Executive, SMB",
+      "postedToDiscord": "2026-01-21T03:58:21.602Z",
+      "sourceDate": "2025-11-19T09:05:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5565447004?gh_jid=5565447004",
+      "discordThreadId": "1463382172458291212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-ios-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-ios-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, iOS",
+      "postedToDiscord": "2026-01-21T03:58:28.134Z",
+      "sourceDate": "2025-11-19T09:05:47-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5566267004?gh_jid=5566267004",
+      "discordThreadId": "1463382199754821784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-data-scientist-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-data-scientist-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Data Scientist  ",
+      "postedToDiscord": "2026-01-21T03:58:31.548Z",
+      "sourceDate": "2025-11-19T09:05:46-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004",
+      "discordThreadId": "1463382214325702779",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-graphics-media-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-graphics-media-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, Graphics & Media",
+      "postedToDiscord": "2026-01-21T03:58:34.944Z",
+      "sourceDate": "2025-11-19T09:05:46-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004",
+      "discordThreadId": "1463382228699582577",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-growth-monetization-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-growth-monetization-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, Growth & Monetization",
+      "postedToDiscord": "2026-01-21T03:58:38.748Z",
+      "sourceDate": "2025-11-19T09:05:46-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004",
+      "discordThreadId": "1463382243094302848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-c-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-c-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, C++",
+      "postedToDiscord": "2026-01-21T03:58:45.359Z",
+      "sourceDate": "2025-11-19T09:05:46-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004",
+      "discordThreadId": "1463382271783604321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-production-engineering-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-production-engineering-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, Production Engineering",
+      "postedToDiscord": "2026-01-21T03:58:48.723Z",
+      "sourceDate": "2025-11-19T09:05:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004",
+      "discordThreadId": "1463382286769590380",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-ai-product-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-ai-product-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, AI Product",
+      "postedToDiscord": "2026-01-21T03:58:55.082Z",
+      "sourceDate": "2025-11-19T09:05:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004",
+      "discordThreadId": "1463382313441165312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-data-infrastructure-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-software-engineer-data-infrastructure-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, Data Infrastructure",
+      "postedToDiscord": "2026-01-21T03:58:58.581Z",
+      "sourceDate": "2025-11-19T09:05:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004",
+      "discordThreadId": "1463382327307538636",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -21601,7 +21601,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T03:26:03.723Z",
+      "date": "2026-01-21T03:58:58.582Z",
       "archived": 0
     }
   }
