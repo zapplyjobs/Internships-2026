@@ -1,0 +1,17 @@
+{
+  "url": "https://www.exptechinc.com/careers/?gh_jid=5029570007",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Careers Home Careers Current Openings We’re hiring! Check out our current positions below If you don’t see a position of interest but think you’d be a great fit at EXP, drop us a line with your resume!At Expedition Technology, we are committed to providing an accessible environment for all candidates. If you require any accommodations during the application or interview process, please let us know. We will work with you to ensure your needs are met.To request accommodations, please contact us at accommodations@exptechinc.com. Include your name, the position you are applying for, and the specific accommodation you need. Thank you for considering a career with Expedition Technology. Our Team and Process Our teams make Expedition great! EXP is team-centric, learn more about our employees’ thoughts, the problems we tackle, and how we collaborate to develop novel technologies. More About Us",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.exptechinc.com/careers/?gh_jid=5029570007",
+      "fetchedAt": "2026-01-21T23:06:23.843Z"
+    }
+  },
+  "cachedAt": 1769036783843
+}
