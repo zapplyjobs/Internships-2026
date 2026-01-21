@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T06:05:02.667Z",
+  "lastUpdated": "2026-01-21T06:19:41.135Z",
   "jobs": [
-    {
-      "id": "varda-space-industries-mission-software-internship-python-el-segundo-2026-01-14-1",
-      "jobId": "varda-space-industries-mission-software-internship-python-el-segundo",
-      "company": "Varda Space Industries",
-      "title": "Mission Software – Internship - Python",
-      "postedToDiscord": "2026-01-14T06:18:25.514Z",
-      "sourceDate": "2025-09-05T22:11:53.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/6824366003",
-      "discordThreadId": "1460880706342228051",
-      "instanceNumber": 1
-    },
     {
       "id": "agzen-ai-ml-data-intern-cambridge-2026-01-14-1",
       "jobId": "agzen-ai-ml-data-intern-cambridge",
@@ -22320,14 +22309,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/69d1b2ec-9d9b-45b0-937a-a8454f66487e",
       "discordThreadId": "1463414054122033336",
       "instanceNumber": 1
+    },
+    {
+      "id": "supabase-support-engineer-emea-remote-2026-01-21-1",
+      "jobId": "supabase-support-engineer-emea-remote",
+      "company": "supabase",
+      "title": "Support Engineer (EMEA)",
+      "postedToDiscord": "2026-01-21T06:19:10.802Z",
+      "sourceDate": "2025-05-30T20:36:32.528+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e",
+      "discordThreadId": "1463417618147971163",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-multigres-engineer-remote-2026-01-21-1",
+      "jobId": "supabase-multigres-engineer-remote",
+      "company": "supabase",
+      "title": "Multigres Engineer",
+      "postedToDiscord": "2026-01-21T06:19:12.528Z",
+      "sourceDate": "2025-06-04T00:35:34.670+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "discordThreadId": "1463417625295192157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-business-development-representative-usa-remote-2026-01-21-1",
+      "jobId": "supabase-business-development-representative-usa-remote",
+      "company": "supabase",
+      "title": "Business Development Representative (USA)",
+      "postedToDiscord": "2026-01-21T06:19:19.102Z",
+      "sourceDate": "2025-05-30T20:33:43.312+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/8b566220-7e5e-413c-ae69-476e7dc44818",
+      "discordThreadId": "1463417645704548392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-customer-solution-architect-apac-remote-2026-01-21-1",
+      "jobId": "supabase-customer-solution-architect-apac-remote",
+      "company": "supabase",
+      "title": "Customer Solution Architect (APAC)",
+      "postedToDiscord": "2026-01-21T06:19:20.847Z",
+      "sourceDate": "2025-05-30T20:51:51.568+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/51c3a3a9-7539-47f3-82e7-b95958342e2c",
+      "discordThreadId": "1463417660078297089",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-production-engineer-pe-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-production-engineer-pe-new-york-ny",
+      "company": "nominal",
+      "title": "Production Engineer (PE)",
+      "postedToDiscord": "2026-01-21T06:19:27.466Z",
+      "sourceDate": "2025-05-28T20:31:18.305Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/da37dc7d-ba45-4cab-8aa2-2f7e01db5176",
+      "discordThreadId": "1463417680424861855",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-production-engineer-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-production-engineer-new-york-ny",
+      "company": "nominal",
+      "title": "Production Engineer",
+      "postedToDiscord": "2026-01-21T06:19:30.850Z",
+      "sourceDate": "2025-05-28T19:40:23.093Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/59f03137-8957-4732-86c4-bc038ef0b3ba",
+      "discordThreadId": "1463417695499321385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-accounting-manager-austin-tx-2026-01-21-1",
+      "jobId": "nominal-accounting-manager-austin-tx",
+      "company": "nominal",
+      "title": "Accounting Manager",
+      "postedToDiscord": "2026-01-21T06:19:34.316Z",
+      "sourceDate": "2025-06-12T04:37:09.565Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/7884597f-a3d5-4916-a8b7-2ce47b4175cc",
+      "discordThreadId": "1463417709529268276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-machine-learning-engineer-genrecs-personalization-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-machine-learning-engineer-genrecs-personalization-new-york-ny",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, GenRecs, Personalization",
+      "postedToDiscord": "2026-01-21T06:19:37.718Z",
+      "sourceDate": "2025-05-29T16:06:56.227Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7a91e2dd-1214-4a50-add2-b6e8a91c6613",
+      "discordThreadId": "1463417724133703742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-enterprise-account-executive-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-enterprise-account-executive-los-angeles-ca",
+      "company": "nominal",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-21T06:19:41.135Z",
+      "sourceDate": "2025-05-15T20:07:56.597Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/201216f8-3cd8-498d-b91a-57fe470fbe60",
+      "discordThreadId": "1463417738453188639",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2029,
+    "totalJobs": 2037,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T06:05:02.667Z",
+      "date": "2026-01-21T06:19:41.135Z",
       "archived": 0
     }
   }
