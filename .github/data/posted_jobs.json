@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T05:18:16.674Z",
+  "lastUpdated": "2026-01-21T05:31:50.635Z",
   "jobs": [
     {
       "id": "varda-space-industries-mission-software-internship-python-el-segundo-2026-01-14-1",
@@ -21924,14 +21924,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
       "discordThreadId": "1463402291699908712",
       "instanceNumber": 1
+    },
+    {
+      "id": "nominal-software-engineer-rust-bevy-webgpu-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-software-engineer-rust-bevy-webgpu-los-angeles-ca",
+      "company": "nominal",
+      "title": "Software Engineer - Rust / Bevy / WebGPU",
+      "postedToDiscord": "2026-01-21T05:31:27.998Z",
+      "sourceDate": "2025-10-14T20:37:22.556Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/76f8e9a4-8639-4d61-8426-747c52c76148",
+      "discordThreadId": "1463405603064909918",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-software-engineer-systems-real-time-rtos-hil-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-software-engineer-systems-real-time-rtos-hil-los-angeles-ca",
+      "company": "nominal",
+      "title": "Software Engineer – Systems & Real-Time (RTOS / HIL)",
+      "postedToDiscord": "2026-01-21T05:31:31.436Z",
+      "sourceDate": "2025-10-14T20:30:15.240Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b5e15c02-f51c-454c-9270-e5b96d0b0519",
+      "discordThreadId": "1463405617661349953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-product-designer-early-career-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-product-designer-early-career-new-york-ny",
+      "company": "nominal",
+      "title": "Product Designer - Early Career",
+      "postedToDiscord": "2026-01-21T05:31:35.003Z",
+      "sourceDate": "2025-10-13T15:21:24.784Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/bf300028-11de-4af9-82e7-07a1ee3e51dc",
+      "discordThreadId": "1463405632450199572",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-executive-assistant-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-executive-assistant-los-angeles-ca",
+      "company": "nominal",
+      "title": "Executive Assistant",
+      "postedToDiscord": "2026-01-21T05:31:38.367Z",
+      "sourceDate": "2025-10-08T15:44:43.830Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/b0073689-28a8-446f-8a28-bdeb32b1247b",
+      "discordThreadId": "1463405647017021503",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-area-director-sales-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-area-director-sales-new-york-ny",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-21T05:31:41.647Z",
+      "sourceDate": "2025-10-07T17:47:58.341Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/bcd14783-d2ae-4d09-a6ba-39330aa0f9fc",
+      "discordThreadId": "1463405661474783295",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-area-director-sales-austin-tx-2026-01-21-1",
+      "jobId": "nominal-area-director-sales-austin-tx",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-21T05:31:41.662Z",
+      "sourceDate": "2025-10-07T17:47:18.725Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/205eb559-b828-4463-a9ff-b61d92e8c85d",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-area-director-sales-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-area-director-sales-los-angeles-ca",
+      "company": "nominal",
+      "title": "Area Director - Sales",
+      "postedToDiscord": "2026-01-21T05:31:41.677Z",
+      "sourceDate": "2025-10-07T17:38:04.601Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/168a8af0-dc24-411d-a1bb-06c53ed9fac3",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-lead-sales-engineer-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-lead-sales-engineer-los-angeles-ca",
+      "company": "nominal",
+      "title": "Lead Sales Engineer",
+      "postedToDiscord": "2026-01-21T05:31:45.504Z",
+      "sourceDate": "2025-10-07T17:32:02.029Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/4e0ed22d-5e64-4090-adc4-0a9d76401b30",
+      "discordThreadId": "1463405675261722627",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-brand-designer-remote-2026-01-21-1",
+      "jobId": "supabase-brand-designer-remote",
+      "company": "supabase",
+      "title": "Brand Designer",
+      "postedToDiscord": "2026-01-21T05:31:50.634Z",
+      "sourceDate": "2025-10-09T12:00:41.782+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/31b9193c-3d36-4af7-99ba-8140451f71fb",
+      "discordThreadId": "1463405704915456277",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1993,
+    "totalJobs": 2002,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T05:18:16.674Z",
+      "date": "2026-01-21T05:31:50.635Z",
       "archived": 0
     }
   }
