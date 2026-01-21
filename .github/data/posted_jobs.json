@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T02:01:31.119Z",
+  "lastUpdated": "2026-01-21T02:50:47.086Z",
   "jobs": [
-    {
-      "id": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno-2026-01-14-1",
-      "jobId": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - Applied AI Engineer - Agents & Evaluation",
-      "postedToDiscord": "2026-01-14T02:02:18.130Z",
-      "sourceDate": "2026-01-13T23:47:09.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---DDC---Applied-AI-Engineer---Agents---Evaluation_202601-100648",
-      "discordThreadId": "1460816250619039795",
-      "instanceNumber": 1
-    },
-    {
-      "id": "jones-lang-lasalle-jll-technology-and-business-intelligence-intern-charlotte-2026-01-14-1",
-      "jobId": "jones-lang-lasalle-jll-technology-and-business-intelligence-intern-charlotte",
-      "company": "Jones Lang LaSalle (JLL)",
-      "title": "Technology and Business Intelligence Intern",
-      "postedToDiscord": "2026-01-14T02:02:21.473Z",
-      "sourceDate": "2026-01-13T23:41:03.000Z",
-      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Technology-and-Business-Intelligence-Summer-2026-Internship---Charlotte--NC_REQ478660-1",
-      "discordThreadId": "1460816264959234191",
-      "instanceNumber": 1
-    },
-    {
-      "id": "donaldson-company-ai-data-science-intern-innovative-business-technology-bloomington-2026-01-14-1",
-      "jobId": "donaldson-company-ai-data-science-intern-innovative-business-technology-bloomington",
-      "company": "Donaldson Company",
-      "title": "AI & Data Science Intern - Innovative Business Technology",
-      "postedToDiscord": "2026-01-14T02:02:25.087Z",
-      "sourceDate": "2026-01-13T23:39:13.000Z",
-      "sourceUrl": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/AI---Data-Science-Intern---Innovative-Business-Technology_JR-25170",
-      "discordThreadId": "1460816279131914250",
-      "instanceNumber": 1
-    },
-    {
-      "id": "audax-ai-engineer-business-solutions-co-op-boston-2026-01-14-1",
-      "jobId": "audax-ai-engineer-business-solutions-co-op-boston",
-      "company": "Audax Group",
-      "title": "AI Engineer – Business Solutions Co-Op",
-      "postedToDiscord": "2026-01-14T02:02:28.719Z",
-      "sourceDate": "2026-01-13T23:37:17.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4649017005",
-      "discordThreadId": "1460816294805901495",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lexisnexis-risk-data-scientist-intern-alpharetta-2026-01-14-1",
-      "jobId": "lexisnexis-risk-data-scientist-intern-alpharetta",
-      "company": "LexisNexis Risk Solutions",
-      "title": "Data Scientist Intern",
-      "postedToDiscord": "2026-01-14T02:02:32.114Z",
-      "sourceDate": "2026-01-13T23:34:17.000Z",
-      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-Intern_R106461",
-      "discordThreadId": "1460816309632897045",
-      "instanceNumber": 1
-    },
-    {
-      "id": "samsung-research-america-intern-security-research-engineer-mountain-view-2026-01-14-1",
-      "jobId": "samsung-research-america-intern-security-research-engineer-mountain-view",
-      "company": "Samsung Research America",
-      "title": "Intern - Security Research Engineer",
-      "postedToDiscord": "2026-01-14T02:02:38.800Z",
-      "sourceDate": "2026-01-13T23:40:00.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8356208002",
-      "discordThreadId": "1460816335977058514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "minitab-software-engineering-intern-state-college-2026-01-14-1",
-      "jobId": "minitab-software-engineering-intern-state-college",
-      "company": "Minitab",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2026-01-14T02:02:42.409Z",
-      "sourceDate": "2026-01-13T23:35:35.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/minitab/jobs/7588696003",
-      "discordThreadId": "1460816351571611841",
-      "instanceNumber": 1
-    },
-    {
-      "id": "leidos-software-developer-database-admin-intern-c-remote-in-usa-2026-01-14-1",
-      "jobId": "leidos-software-developer-database-admin-intern-c-remote-in-usa",
-      "company": "Leidos",
-      "title": "Software Developer – Database Admin Intern - C#",
-      "postedToDiscord": "2026-01-14T02:02:46.055Z",
-      "sourceDate": "2026-01-13T23:35:19.000Z",
-      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Developer--C----Database-Admin-Intern_R-00173539",
-      "discordThreadId": "1460816366620643360",
-      "instanceNumber": 1
-    },
-    {
-      "id": "audax-data-engineer-business-solutions-co-op-boston-2026-01-14-1",
-      "jobId": "audax-data-engineer-business-solutions-co-op-boston",
-      "company": "Audax Group",
-      "title": "Data Engineer – Business Solutions Co-Op",
-      "postedToDiscord": "2026-01-14T02:02:52.949Z",
-      "sourceDate": "2026-01-13T23:37:16.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4649036005",
-      "discordThreadId": "1460816395574054998",
-      "instanceNumber": 1
-    },
     {
       "id": "obsidian-security-software-engineer-intern-palo-alto-2026-01-14-1",
       "jobId": "obsidian-security-software-engineer-intern-palo-alto",
@@ -21594,6 +21495,105 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004",
       "discordThreadId": "1463352768780832809",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-integration-engineer-ai-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-integration-engineer-ai-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Integration Engineer, AI",
+      "postedToDiscord": "2026-01-21T02:50:13.340Z",
+      "sourceDate": "2025-11-19T09:05:53-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5660560004?gh_jid=5660560004",
+      "discordThreadId": "1463365024117686365",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-software-engineering-expressive-ai-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-manager-software-engineering-expressive-ai-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Software Engineering - Expressive AI",
+      "postedToDiscord": "2026-01-21T02:50:16.886Z",
+      "sourceDate": "2025-11-19T09:05:53-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5678196004?gh_jid=5678196004",
+      "discordThreadId": "1463365039435284512",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-software-engineering-collaboration-tools-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-manager-software-engineering-collaboration-tools-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Software Engineering - Collaboration Tools",
+      "postedToDiscord": "2026-01-21T02:50:16.904Z",
+      "sourceDate": "2025-11-19T09:05:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5654898004?gh_jid=5654898004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-sales-onboarding-program-manager-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-sales-onboarding-program-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Sales Onboarding Program Manager",
+      "postedToDiscord": "2026-01-21T02:50:23.558Z",
+      "sourceDate": "2025-11-19T09:05:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5659927004?gh_jid=5659927004",
+      "discordThreadId": "1463365067461361860",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-associate-solutions-consultant-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-associate-solutions-consultant-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Associate Solutions Consultant",
+      "postedToDiscord": "2026-01-21T02:50:30.108Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5633324004?gh_jid=5633324004",
+      "discordThreadId": "1463365095143768074",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-demo-strategy-effectiveness-manager-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-demo-strategy-effectiveness-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Demo Strategy & Effectiveness Manager ",
+      "postedToDiscord": "2026-01-21T02:50:33.535Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5628218004?gh_jid=5628218004",
+      "discordThreadId": "1463365110020964534",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-early-career-product-designer-2026-san-francisco-ca-new-york-ny-2026-01-21-1",
+      "jobId": "figma-early-career-product-designer-2026-san-francisco-ca-new-york-ny",
+      "company": "figma",
+      "title": "Early Career, Product Designer (2026)",
+      "postedToDiscord": "2026-01-21T02:50:36.895Z",
+      "sourceDate": "2025-11-19T09:05:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5616455004?gh_jid=5616455004",
+      "discordThreadId": "1463365124109766677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-manager-creation-engine-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-manager-creation-engine-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Manager, Creation Engine",
+      "postedToDiscord": "2026-01-21T02:50:43.434Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5632187004?gh_jid=5632187004",
+      "discordThreadId": "1463365151167352983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-product-manager-scale-san-francisco-ca-new-york-ny-united-states-2026-01-21-1",
+      "jobId": "figma-product-manager-scale-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Product Manager, Scale",
+      "postedToDiscord": "2026-01-21T02:50:47.086Z",
+      "sourceDate": "2025-11-19T09:05:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5641078004?gh_jid=5641078004",
+      "discordThreadId": "1463365166182957199",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -21601,7 +21601,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T02:01:31.119Z",
+      "date": "2026-01-21T02:50:47.086Z",
       "archived": 0
     }
   }
