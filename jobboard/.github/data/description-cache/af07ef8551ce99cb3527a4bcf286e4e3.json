@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5/application",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "Gimlet Labs is building the foundation for the next generation of AI applications. As generative AI workloads rapidly scale, inference efficiency is becoming the critical bottleneck. Gimlet is redefining AI inference from the ground up, combining cutting-edge research with an integrated hardware-software stack that delivers breakthrough performance, efficiency, and model quality. Gimlet pairs its inference stack with a seamless developer experience, allowing users to deploy, manage, and monitor AI workloads from frameworks like PyTorch and LangChain at production scale in seconds. Gimlet is spun out of a Stanford research project under Professors Zain Asgar and Sachin Katti. The founding team has deep experience across AI, distributed systems, and hardware with previous successful exits. Gimlet Labs is seeking an AI Researcher (Intern). As an AI Researcher (Intern), you will be evaluating and implementing techniques to drive performance and quality optimizations across the latest AI models. The research team is responsible for exploring new model architectures and experimenting with novel inference efficiency techniques such as KV caching and FlashAttention. The team will design and prototype frameworks leveraging fine-tuning and knowledge distillation to push the boundaries of model performance. Responsibilities: Monitoring and evaluating cutting-edge AI research Researching ways to improve model accuracy, performance and efficiency Prototyping frameworks with the latest fine-tuning and distillation techniques Qualifications: Currently pursuing degree in computer science, engineering, or comparable area of study Experience with AI/ML or distributed systems. Preferred Qualifications: Experience with PyTorch, TensorFlow, ONNX and other AI frameworks Familiarity with distributed systems and orchestration frameworks (e.g., Kubernetes) Software development experience with Python and C++ Understanding of the latest AI research and techniques",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5/application",
+      "fetchedAt": "2026-01-21T06:55:54.013Z"
+    }
+  },
+  "cachedAt": 1768978554013
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T06:35:03.858Z",
+  "lastUpdated": "2026-01-21T06:56:32.799Z",
   "jobs": [
     {
       "id": "agzen-ai-ml-data-intern-cambridge-2026-01-14-1",
@@ -22507,14 +22507,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd",
       "discordThreadId": "1463421615604764833",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-machine-learning-engineer-personalization-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-machine-learning-engineer-personalization-new-york-ny",
+      "company": "spotify",
+      "title": "Machine Learning Engineer, Personalization",
+      "postedToDiscord": "2026-01-21T06:56:02.346Z",
+      "sourceDate": "2024-12-13T17:28:03.259Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/35de0846-f4bb-4975-8f21-382b44aa0e40",
+      "discordThreadId": "1463426886548852862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-software-engineer-backend-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-software-engineer-backend-los-angeles-ca",
+      "company": "nominal",
+      "title": "Software Engineer - Backend",
+      "postedToDiscord": "2026-01-21T06:56:05.785Z",
+      "sourceDate": "2024-10-29T21:42:05.811Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/0a938c16-c497-4104-8196-137c38306d81",
+      "discordThreadId": "1463426901409529983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-software-engineer-frontend-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-software-engineer-frontend-los-angeles-ca",
+      "company": "nominal",
+      "title": "Software Engineer - Frontend",
+      "postedToDiscord": "2026-01-21T06:56:05.804Z",
+      "sourceDate": "2024-04-11T22:41:47.943Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/39371884-5911-4c38-9c93-c7d2bece220a",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-deployment-systems-engineer-austin-tx-2026-01-21-1",
+      "jobId": "nominal-deployment-systems-engineer-austin-tx",
+      "company": "nominal",
+      "title": "Deployment Systems Engineer",
+      "postedToDiscord": "2026-01-21T06:56:09.297Z",
+      "sourceDate": "2024-07-29T17:28:58.936Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/86422272-b1cc-4e82-977a-dd371c73d4fe",
+      "discordThreadId": "1463426915988672630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-mission-operations-engineer-los-angeles-ca-2026-01-21-1",
+      "jobId": "nominal-mission-operations-engineer-los-angeles-ca",
+      "company": "nominal",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2026-01-21T06:56:12.939Z",
+      "sourceDate": "2024-03-06T17:24:22.039Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/37c9854b-f1ea-4da6-a3f5-51e64923ae08",
+      "discordThreadId": "1463426930589302879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "railway-developer-relations-remote-united-states-2026-01-21-1",
+      "jobId": "railway-developer-relations-remote-united-states",
+      "company": "railway",
+      "title": "Developer Relations",
+      "postedToDiscord": "2026-01-21T06:56:20.840Z",
+      "sourceDate": "2024-12-02T21:09:38.607+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/7d42f0e8-15a5-453d-8992-9e8638846077",
+      "discordThreadId": "1463426963820511379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "railway-infrastructure-engineer-remote-united-states-2026-01-21-1",
+      "jobId": "railway-infrastructure-engineer-remote-united-states",
+      "company": "railway",
+      "title": "Infrastructure Engineer",
+      "postedToDiscord": "2026-01-21T06:56:24.465Z",
+      "sourceDate": "2024-06-03T19:11:47.266+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/b8072f95-043f-404d-a313-f0bdf8dd3c81",
+      "discordThreadId": "1463426978945437708",
+      "instanceNumber": 1
+    },
+    {
+      "id": "railway-senior-full-stack-engineer-product-remote-united-states-2026-01-21-1",
+      "jobId": "railway-senior-full-stack-engineer-product-remote-united-states",
+      "company": "railway",
+      "title": "Senior Full-Stack Engineer - Product",
+      "postedToDiscord": "2026-01-21T06:56:28.070Z",
+      "sourceDate": "2024-02-07T20:30:20.299+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d",
+      "discordThreadId": "1463426994128687240",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-customer-solution-architect-us-time-zones-remote-2026-01-21-1",
+      "jobId": "supabase-customer-solution-architect-us-time-zones-remote",
+      "company": "supabase",
+      "title": "Customer Solution Architect (US time zones)",
+      "postedToDiscord": "2026-01-21T06:56:32.798Z",
+      "sourceDate": "2024-11-14T17:58:07.662+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/d5573afa-636c-4219-832f-386f498243bf",
+      "discordThreadId": "1463427022045970529",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2046,
+    "totalJobs": 2055,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T06:35:03.858Z",
+      "date": "2026-01-21T06:56:32.799Z",
       "archived": 0
     }
   }
