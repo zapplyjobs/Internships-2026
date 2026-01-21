@@ -4761,5 +4761,71 @@
     "sourceUrl": "https://jobs-legrand.icims.com/jobs/9717/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1460839173949886740",
     "instanceNumber": 1
+  },
+  {
+    "id": "by-light-professional-it-services-intern-orlando-2026-01-14-1",
+    "jobId": "by-light-professional-it-services-intern-orlando",
+    "company": "By Light Professional IT Services",
+    "title": "Intern",
+    "postedToDiscord": "2026-01-14T04:04:21.520Z",
+    "sourceDate": "2025-11-12T23:38:15.000Z",
+    "sourceUrl": "https://jobs-bylight.icims.com/jobs/10711/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460846967176429709",
+    "instanceNumber": 1
+  },
+  {
+    "id": "sherwin-williams-2026-r-d-product-engineering-co-op-cleveland-2026-01-14-1",
+    "jobId": "sherwin-williams-2026-r-d-product-engineering-co-op-cleveland",
+    "company": "Sherwin-Williams",
+    "title": "2026 R&D Product Engineering Co-Op",
+    "postedToDiscord": "2026-01-14T04:04:24.844Z",
+    "sourceDate": "2025-10-15T21:51:05.000Z",
+    "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2540039",
+    "discordThreadId": "1460846981445320908",
+    "instanceNumber": 1
+  },
+  {
+    "id": "northrop-grumman-2026-systems-software-intern-boulder-co-boulder-2026-01-14-1",
+    "jobId": "northrop-grumman-2026-systems-software-intern-boulder-co-boulder",
+    "company": "Northrop Grumman",
+    "title": "2026 Systems/Software Intern-Boulder CO",
+    "postedToDiscord": "2026-01-14T04:04:28.197Z",
+    "sourceDate": "2025-10-15T03:25:02.000Z",
+    "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2026-Systems-Software-Intern-Boulder-CO_R10211112",
+    "discordThreadId": "1460846995483918426",
+    "instanceNumber": 1
+  },
+  {
+    "id": "idemia-software-engineer-internship-summer-2026-reston-2026-01-14-1",
+    "jobId": "idemia-software-engineer-internship-summer-2026-reston",
+    "company": "IDEMIA",
+    "title": "Software Engineer Internship - Summer 2026",
+    "postedToDiscord": "2026-01-14T04:04:31.619Z",
+    "sourceDate": "2025-10-03T06:12:55.000Z",
+    "sourceUrl": "https://uscareers-idemia.icims.com/jobs/8294/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460847009505218611",
+    "instanceNumber": 1
+  },
+  {
+    "id": "parsons-identity-solutions-intern-bluemont-2026-01-14-1",
+    "jobId": "parsons-identity-solutions-intern-bluemont",
+    "company": "Parsons",
+    "title": "Identity Solutions Intern",
+    "postedToDiscord": "2026-01-14T04:04:38.068Z",
+    "sourceDate": "2025-11-10T23:25:23.000Z",
+    "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/Identity-Solutions---Intern-Summer-2026_R174371-1",
+    "discordThreadId": "1460847036424519691",
+    "instanceNumber": 1
+  },
+  {
+    "id": "prime-operations-intern-downers-grove-2026-01-14-1",
+    "jobId": "prime-operations-intern-downers-grove",
+    "company": "Prime",
+    "title": "Operations Intern",
+    "postedToDiscord": "2026-01-14T04:04:44.502Z",
+    "sourceDate": "2025-12-05T03:34:18.000Z",
+    "sourceUrl": "https://careers-primeinc.icims.com/jobs/4915/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460847063456682147",
+    "instanceNumber": 1
   }
 ]
