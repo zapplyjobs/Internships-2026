@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T05:31:50.635Z",
+  "lastUpdated": "2026-01-21T05:46:48.783Z",
   "jobs": [
     {
       "id": "varda-space-industries-mission-software-internship-python-el-segundo-2026-01-14-1",
@@ -22023,14 +22023,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/31b9193c-3d36-4af7-99ba-8140451f71fb",
       "discordThreadId": "1463405704915456277",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-data-scientist-growth-analytics-performance-marketing-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-data-scientist-growth-analytics-performance-marketing-new-york-ny",
+      "company": "spotify",
+      "title": "Data Scientist - Growth Analytics (Performance Marketing)",
+      "postedToDiscord": "2026-01-21T05:46:25.571Z",
+      "sourceDate": "2025-10-03T02:39:56.674Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199",
+      "discordThreadId": "1463409368362909888",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gohighlevel-manager-bdr-dallas-2026-01-21-1",
+      "jobId": "gohighlevel-manager-bdr-dallas",
+      "company": "gohighlevel",
+      "title": "Manager - BDR",
+      "postedToDiscord": "2026-01-21T05:46:27.413Z",
+      "sourceDate": "2025-09-26T15:36:12.669Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/b4af6df2-340f-44e5-a047-de30299159d1",
+      "discordThreadId": "1463409382933926036",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-enterprise-account-executive-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-enterprise-account-executive-new-york-ny",
+      "company": "nominal",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-21T05:46:30.721Z",
+      "sourceDate": "2025-09-18T18:31:00.682Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/815611ce-bcd4-426c-8c8a-c6d02f2de245",
+      "discordThreadId": "1463409390341197824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-enterprise-account-executive-austin-tx-2026-01-21-1",
+      "jobId": "nominal-enterprise-account-executive-austin-tx",
+      "company": "nominal",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-21T05:46:30.738Z",
+      "sourceDate": "2025-09-18T18:20:08.428Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/70bfa2e3-b608-4fb2-ae0c-82d9819b1024",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-product-support-engineer-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-product-support-engineer-new-york-ny",
+      "company": "nominal",
+      "title": "Product Support Engineer",
+      "postedToDiscord": "2026-01-21T05:46:34.163Z",
+      "sourceDate": "2025-09-17T17:27:40.066Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/e5216daa-7d92-413b-a5c1-76f6e98b80bd",
+      "discordThreadId": "1463409404362887239",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gohighlevel-manager-digital-marketing-dallas-2026-01-21-1",
+      "jobId": "gohighlevel-manager-digital-marketing-dallas",
+      "company": "gohighlevel",
+      "title": "Manager, Digital Marketing",
+      "postedToDiscord": "2026-01-21T05:46:35.830Z",
+      "sourceDate": "2025-09-17T15:09:29.598Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/622eb0de-6216-4d98-b8b6-1b199efef94e",
+      "discordThreadId": "1463409418715660472",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clerk-design-engineer-us-2026-01-21-1",
+      "jobId": "clerk-design-engineer-us",
+      "company": "clerk",
+      "title": "Design Engineer",
+      "postedToDiscord": "2026-01-21T05:46:40.752Z",
+      "sourceDate": "2025-09-22T15:30:48.161+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/8f6391ca-bfa7-42a5-8ceb-122d39a86637",
+      "discordThreadId": "1463409438718169098",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-cli-engineer-remote-2026-01-21-1",
+      "jobId": "supabase-cli-engineer-remote",
+      "company": "supabase",
+      "title": "CLI Engineer",
+      "postedToDiscord": "2026-01-21T05:46:42.406Z",
+      "sourceDate": "2025-09-16T01:45:35.388+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/1e7a99f9-da65-4c1a-a4eb-b718680404ac",
+      "discordThreadId": "1463409446066585715",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clerk-technical-account-executive-remote-or-in-office-in-san-francisco-2026-01-21-1",
+      "jobId": "clerk-technical-account-executive-remote-or-in-office-in-san-francisco",
+      "company": "clerk",
+      "title": "Technical Account Executive",
+      "postedToDiscord": "2026-01-21T05:46:48.783Z",
+      "sourceDate": "2025-09-18T15:12:54.031+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/f73b1115-e4e6-4108-8c4e-707a6eb3d7c5",
+      "discordThreadId": "1463409465909973137",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2002,
+    "totalJobs": 2011,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T05:31:50.635Z",
+      "date": "2026-01-21T05:46:48.783Z",
       "archived": 0
     }
   }
