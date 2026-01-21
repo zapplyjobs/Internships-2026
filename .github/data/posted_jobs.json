@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T07:36:54.400Z",
+  "lastUpdated": "2026-01-21T07:49:16.400Z",
   "jobs": [
     {
       "id": "jane-street-tools-compilers-research-and-development-intern-new-york-2026-01-14-1",
@@ -22628,14 +22628,113 @@
       "sourceUrl": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Data-Analyst-CO-80525/1354339400/?ats=successfactors",
       "discordThreadId": "1463437171066278055",
       "instanceNumber": 1
+    },
+    {
+      "id": "main-line-health-intern-it-business-solutions-villanova-2026-01-21-1",
+      "jobId": "main-line-health-intern-it-business-solutions-villanova",
+      "company": "Main Line Health",
+      "title": "Intern IT Business Solutions",
+      "postedToDiscord": "2026-01-21T07:48:44.410Z",
+      "sourceDate": "2026-01-16T23:15:19.000Z",
+      "sourceUrl": "https://mainline.taleo.net/careersection/2/jobdetail.ftl?job=79532",
+      "discordThreadId": "1463440149018054732",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carpenter-technology-software-engineering-intern-reading-2026-01-21-1",
+      "jobId": "carpenter-technology-software-engineering-intern-reading",
+      "company": "Carpenter Technology",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-21T07:48:48.200Z",
+      "sourceDate": "2026-01-20T15:41:18.000Z",
+      "sourceUrl": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Software-Engineering-Intern_26070",
+      "discordThreadId": "1463440164658348205",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rws-ai-data-specialist-us-oklahoma-city-2026-01-21-1",
+      "jobId": "rws-ai-data-specialist-us-oklahoma-city",
+      "company": "RWS",
+      "title": "AI Data Specialist - US",
+      "postedToDiscord": "2026-01-21T07:48:54.743Z",
+      "sourceDate": "2026-01-16T15:18:57.000Z",
+      "sourceUrl": "https://jobs.lever.co/rws/b94322e4-11a0-4515-9c2c-461ee66d0d47/apply",
+      "discordThreadId": "1463440192215187634",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-intern-summer-2026-boston-2026-01-21-1",
+      "jobId": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-intern-summer-2026-boston",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "Assurance Artificial Intelligence Technology – Intern - Summer 2026",
+      "postedToDiscord": "2026-01-21T07:48:58.446Z",
+      "sourceDate": "2026-01-20T15:06:50.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Artificial-Intelligence-Technology---Intern---Summer-2026_695974WD-1",
+      "discordThreadId": "1463440207805288448",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-national-tax-services-m-a-tax-llm-senior-associate-mergers-and-acquisition-tax-washington-2026-01-21-1",
+      "jobId": "pricewaterhousecoopers-pwc-national-tax-services-m-a-tax-llm-senior-associate-mergers-and-acquisition-tax-washington",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "National Tax Services – M&A Tax LLM Senior Associate - Mergers and Acquisition Tax",
+      "postedToDiscord": "2026-01-21T07:49:01.955Z",
+      "sourceDate": "2025-09-05T23:51:03.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/National-Tax-Services---M-A-Tax-LLM-Senior-Associate---Summer-2026_657578WD",
+      "discordThreadId": "1463440222799790254",
+      "instanceNumber": 1
+    },
+    {
+      "id": "howmet-aerospace-ai-intern-pittsburgh-2026-01-21-1",
+      "jobId": "howmet-aerospace-ai-intern-pittsburgh",
+      "company": "Howmet Aerospace",
+      "title": "AI Intern",
+      "postedToDiscord": "2026-01-21T07:49:05.421Z",
+      "sourceDate": "2026-01-20T15:11:34.000Z",
+      "sourceUrl": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115666",
+      "discordThreadId": "1463440237299503262",
+      "instanceNumber": 1
+    },
+    {
+      "id": "manulife-financial-intern-asset-management-ai-boston-2026-01-21-1",
+      "jobId": "manulife-financial-intern-asset-management-ai-boston",
+      "company": "Manulife Financial",
+      "title": "Intern - Asset Management AI",
+      "postedToDiscord": "2026-01-21T07:49:08.928Z",
+      "sourceDate": "2026-01-20T15:43:35.000Z",
+      "sourceUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2026---Asset-Management-AI_JR25120642",
+      "discordThreadId": "1463440252277624862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-associate-boston-2026-01-21-1",
+      "jobId": "pricewaterhousecoopers-pwc-assurance-artificial-intelligence-technology-associate-boston",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "Assurance Artificial Intelligence Technology Associate",
+      "postedToDiscord": "2026-01-21T07:49:12.692Z",
+      "sourceDate": "2026-01-20T15:40:15.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Artificial-Intelligence-Technology---Associate---Summer-Fall-2026_683746WD-2",
+      "discordThreadId": "1463440267003695207",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-machine-learning-engineer-intern-remote-in-usa-2026-01-21-1",
+      "jobId": "instacart-machine-learning-engineer-intern-remote-in-usa",
+      "company": "Instacart",
+      "title": "Machine Learning Engineer Intern",
+      "postedToDiscord": "2026-01-21T07:49:16.399Z",
+      "sourceDate": "2026-01-20T15:31:27.000Z",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=5917202",
+      "discordThreadId": "1463440283114143788",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2057,
+    "totalJobs": 2066,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T07:36:54.400Z",
+      "date": "2026-01-21T07:49:16.400Z",
       "archived": 0
     }
   }
