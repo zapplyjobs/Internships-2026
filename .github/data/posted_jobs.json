@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-21T04:23:18.845Z",
+  "lastUpdated": "2026-01-21T04:46:28.674Z",
   "jobs": [
     {
       "id": "varda-space-industries-mission-software-internship-python-el-segundo-2026-01-14-1",
@@ -21627,14 +21627,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004",
       "discordThreadId": "1463388452799381504",
       "instanceNumber": 1
+    },
+    {
+      "id": "nominal-software-engineer-full-stack-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-software-engineer-full-stack-new-york-ny",
+      "company": "nominal",
+      "title": "Software Engineer - Full-Stack",
+      "postedToDiscord": "2026-01-21T04:46:06.778Z",
+      "sourceDate": "2025-11-11T15:20:26.571Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/c6f158d0-ef1d-484f-81cb-b5d29c34270e",
+      "discordThreadId": "1463394189843890249",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-salesforce-engineer-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-salesforce-engineer-new-york-ny",
+      "company": "spotify",
+      "title": "Salesforce Engineer",
+      "postedToDiscord": "2026-01-21T04:46:10.074Z",
+      "sourceDate": "2025-11-10T21:22:37.475Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/2b615824-00a1-45f3-9c68-2ec853547e9b",
+      "discordThreadId": "1463394204334952594",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-senior-machine-learning-engineer-new-york-ny-2026-01-21-1",
+      "jobId": "spotify-senior-machine-learning-engineer-new-york-ny",
+      "company": "spotify",
+      "title": "Senior Machine Learning Engineer",
+      "postedToDiscord": "2026-01-21T04:46:13.556Z",
+      "sourceDate": "2025-11-07T16:48:55.706Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/b918d247-38fd-449a-b82d-ea1d7c90a099",
+      "discordThreadId": "1463394218306310277",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nominal-software-engineer-infrastructure-new-york-ny-2026-01-21-1",
+      "jobId": "nominal-software-engineer-infrastructure-new-york-ny",
+      "company": "nominal",
+      "title": "Software Engineer - Infrastructure",
+      "postedToDiscord": "2026-01-21T04:46:17.064Z",
+      "sourceDate": "2025-11-06T23:42:31.678Z",
+      "sourceUrl": "https://jobs.lever.co/nominal/a0188e88-83d7-4ae5-b931-4dc85de0daed",
+      "discordThreadId": "1463394232491446496",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-field-technician-philadelphia-pa-contractor-philadelphia-pa-2026-01-21-1",
+      "jobId": "instacart-field-technician-philadelphia-pa-contractor-philadelphia-pa",
+      "company": "instacart",
+      "title": "Field Technician - Philadelphia, PA (Contractor)",
+      "postedToDiscord": "2026-01-21T04:46:21.739Z",
+      "sourceDate": "2025-11-10T23:51:29-05:00",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=6972066",
+      "discordThreadId": "1463394260148555920",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-field-technician-contractor-washington-d-c-2026-01-21-1",
+      "jobId": "instacart-field-technician-contractor-washington-d-c",
+      "company": "instacart",
+      "title": "Field Technician (Contractor)",
+      "postedToDiscord": "2026-01-21T04:46:23.391Z",
+      "sourceDate": "2025-11-10T23:49:59-05:00",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=6886099",
+      "discordThreadId": "1463394267073347668",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-multigres-deployment-engineer-remote-2026-01-21-1",
+      "jobId": "supabase-multigres-deployment-engineer-remote",
+      "company": "supabase",
+      "title": "Multigres Deployment Engineer",
+      "postedToDiscord": "2026-01-21T04:46:25.042Z",
+      "sourceDate": "2025-11-07T19:57:02.108+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "discordThreadId": "1463394274006798409",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-finops-engineer-remote-2026-01-21-1",
+      "jobId": "supabase-finops-engineer-remote",
+      "company": "supabase",
+      "title": "FinOps Engineer",
+      "postedToDiscord": "2026-01-21T04:46:27.010Z",
+      "sourceDate": "2025-11-07T09:40:39.073+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/5342dc96-7ee5-46fe-bb55-1b52bacfd40f",
+      "discordThreadId": "1463394281334243348",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-rust-engineer-remote-2026-01-21-1",
+      "jobId": "supabase-rust-engineer-remote",
+      "company": "supabase",
+      "title": "Rust Engineer",
+      "postedToDiscord": "2026-01-21T04:46:28.674Z",
+      "sourceDate": "2025-11-06T18:15:19.871+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/eb61a78d-9b5f-43f6-8d17-94c7b685d121",
+      "discordThreadId": "1463394289219272786",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1966,
+    "totalJobs": 1975,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-21T04:23:18.845Z",
+      "date": "2026-01-21T04:46:28.674Z",
       "archived": 0
     }
   }
