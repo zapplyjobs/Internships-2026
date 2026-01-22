@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T10:13:53.161Z",
+  "lastUpdated": "2026-01-22T10:47:55.892Z",
   "jobs": [
     {
       "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
@@ -23024,14 +23024,58 @@
       "sourceUrl": "https://jobs.paccar.com/job/Renton-Software-Engineer-Intern-Mainframe-WA-98057/1285423101/?ats=successfactors",
       "discordThreadId": "1463839064032542753",
       "instanceNumber": 1
+    },
+    {
+      "id": "clayton-software-engineer-intern-maryville-2026-01-22-1",
+      "jobId": "clayton-software-engineer-intern-maryville",
+      "company": "Clayton",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-22T10:47:39.154Z",
+      "sourceDate": "2026-01-21T00:59:06.000Z",
+      "sourceUrl": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Associate-Professional--Intern_JR127100",
+      "discordThreadId": "1463847562162344070",
+      "instanceNumber": 1
+    },
+    {
+      "id": "woven-software-engineer-internship-tooling-ann-arbor-2026-01-22-1",
+      "jobId": "woven-software-engineer-internship-tooling-ann-arbor",
+      "company": "Woven",
+      "title": "Software Engineer – Internship - Tooling",
+      "postedToDiscord": "2026-01-22T10:47:42.641Z",
+      "sourceDate": "2026-01-12T00:43:35.000Z",
+      "sourceUrl": "https://jobs.lever.co/woven-by-toyota/2146e4cc-76bb-4f6f-a26f-d9838ae20653/apply",
+      "discordThreadId": "1463847576775295041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "velera-intern-insights-and-reporting-analyst-remote-in-usa-2026-01-22-1",
+      "jobId": "velera-intern-insights-and-reporting-analyst-remote-in-usa",
+      "company": "Velera",
+      "title": "Intern Insights and Reporting Analyst",
+      "postedToDiscord": "2026-01-22T10:47:49.139Z",
+      "sourceDate": "2026-01-21T00:41:15.000Z",
+      "sourceUrl": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern--Insights---Reporting-Analyst_8907",
+      "discordThreadId": "1463847604201717922",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-data-ai-intelligent-systems-2-intern-united-states-boston-2026-01-22-1",
+      "jobId": "cisco-software-engineer-data-ai-intelligent-systems-2-intern-united-states-boston",
+      "company": "Cisco",
+      "title": "Software Engineer Data/AI/Intelligent Systems 2 – Intern - United States",
+      "postedToDiscord": "2026-01-22T10:47:55.892Z",
+      "sourceDate": "2026-01-21T00:33:11.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2001127",
+      "discordThreadId": "1463847631674544277",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2093,
+    "totalJobs": 2097,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T10:13:53.161Z",
+      "date": "2026-01-22T10:47:55.892Z",
       "archived": 0
     }
   }
