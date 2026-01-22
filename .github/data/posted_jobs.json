@@ -1,216 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T07:33:42.236Z",
+  "lastUpdated": "2026-01-22T08:33:14.558Z",
   "jobs": [
-    {
-      "id": "magna-student-engineering-software-lowell-2026-01-15-1",
-      "jobId": "magna-student-engineering-software-lowell",
-      "company": "Magna",
-      "title": "Student – Engineering Software",
-      "postedToDiscord": "2026-01-15T07:47:06.750Z",
-      "sourceDate": "2026-01-15T07:16:00.000Z",
-      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Engineering-Software_R00221212",
-      "discordThreadId": "1461265411810136192",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-walt-disney-company-data-science-intern-summer-2026-santa-monica-2026-01-15-1",
-      "jobId": "the-walt-disney-company-data-science-intern-summer-2026-santa-monica",
-      "company": "The Walt Disney Company",
-      "title": "Data Science Intern - Summer 2026",
-      "postedToDiscord": "2026-01-15T07:47:10.249Z",
-      "sourceDate": "2026-01-15T02:17:20.000Z",
-      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Data-Science-Intern--Summer-2026_10135439-2",
-      "discordThreadId": "1461265427509411840",
-      "instanceNumber": 1
-    },
-    {
-      "id": "beth-israel-lahey-health-neurology-postdoctoral-fellow-data-science-boston-2026-01-15-1",
-      "jobId": "beth-israel-lahey-health-neurology-postdoctoral-fellow-data-science-boston",
-      "company": "Beth Israel Lahey Health",
-      "title": "Neurology Postdoctoral Fellow - Data Science",
-      "postedToDiscord": "2026-01-15T07:47:13.650Z",
-      "sourceDate": "2026-01-15T00:39:39.000Z",
-      "sourceUrl": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Neurology-Postdoctoral-Fellow---Data-Science_JR89768",
-      "discordThreadId": "1461265441950269608",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-allen-institute-for-ai-predoctoral-young-investigator-olmo-seattle-2026-01-15-1",
-      "jobId": "the-allen-institute-for-ai-predoctoral-young-investigator-olmo-seattle",
-      "company": "The Allen Institute for AI",
-      "title": "Predoctoral Young Investigator - Olmo",
-      "postedToDiscord": "2026-01-15T07:47:17.169Z",
-      "sourceDate": "2026-01-08T02:22:42.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7514779",
-      "discordThreadId": "1461265456177348668",
-      "instanceNumber": 1
-    },
-    {
-      "id": "samsung-research-america-health-ai-scholar-mountain-view-2026-01-15-1",
-      "jobId": "samsung-research-america-health-ai-scholar-mountain-view",
-      "company": "Samsung Research America",
-      "title": "Health AI Scholar",
-      "postedToDiscord": "2026-01-15T07:47:20.706Z",
-      "sourceDate": "2025-12-17T23:20:25.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8342576002",
-      "discordThreadId": "1461265471360991366",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anduril-skillbridge-software-engineer-eagleeye-seattle-2026-01-15-1",
-      "jobId": "anduril-skillbridge-software-engineer-eagleeye-seattle",
-      "company": "Anduril",
-      "title": "Skillbridge Software Engineer - Eagleeye",
-      "postedToDiscord": "2026-01-15T07:47:24.120Z",
-      "sourceDate": "2025-11-23T11:53:34.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/4989142007",
-      "discordThreadId": "1461265485835407461",
-      "instanceNumber": 1
-    },
-    {
-      "id": "intapp-data-integrations-intern-palo-alto-2026-01-15-1",
-      "jobId": "intapp-data-integrations-intern-palo-alto",
-      "company": "Intapp",
-      "title": "Data Integrations Intern",
-      "postedToDiscord": "2026-01-15T07:47:30.721Z",
-      "sourceDate": "2026-01-15T02:18:16.000Z",
-      "sourceUrl": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/Data-Integrations-Intern_R2024697-1",
-      "discordThreadId": "1461265512980938907",
-      "instanceNumber": 1
-    },
-    {
-      "id": "major-league-baseball-data-scientist-fellow-baltimore-2026-01-15-1",
-      "jobId": "major-league-baseball-data-scientist-fellow-baltimore",
-      "company": "Major League Baseball",
-      "title": "Data Scientist Fellow",
-      "postedToDiscord": "2026-01-15T07:47:34.286Z",
-      "sourceDate": "2025-12-22T23:33:39.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5742975004",
-      "discordThreadId": "1461265527451287665",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tiktok-software-engineer-intern-ads-infrastructure-san-jose-2026-01-15-1",
-      "jobId": "tiktok-software-engineer-intern-ads-infrastructure-san-jose",
-      "company": "TikTok",
-      "title": "Software Engineer Intern - Ads Infrastructure",
-      "postedToDiscord": "2026-01-15T07:47:40.740Z",
-      "sourceDate": "2026-01-15T02:17:24.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7572665884037826869",
-      "discordThreadId": "1461265555234488432",
-      "instanceNumber": 1
-    },
-    {
-      "id": "major-league-baseball-video-technology-associate-allentown-2026-01-15-1",
-      "jobId": "major-league-baseball-video-technology-associate-allentown",
-      "company": "Major League Baseball",
-      "title": "Video & Technology Associate",
-      "postedToDiscord": "2026-01-15T07:54:20.591Z",
-      "sourceDate": "2025-11-18T08:40:22.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003",
-      "discordThreadId": "1461267232813486111",
-      "instanceNumber": 1
-    },
-    {
-      "id": "major-league-baseball-fellow-baseball-strategist-baltimore-2026-01-15-1",
-      "jobId": "major-league-baseball-fellow-baseball-strategist-baltimore",
-      "company": "Major League Baseball",
-      "title": "Fellow Baseball Strategist",
-      "postedToDiscord": "2026-01-15T07:54:27.032Z",
-      "sourceDate": "2025-11-08T16:53:09.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5703204004",
-      "discordThreadId": "1461267259321483338",
-      "instanceNumber": 1
-    },
-    {
-      "id": "detroit-lions-football-information-associate-detroit-2026-01-15-1",
-      "jobId": "detroit-lions-football-information-associate-detroit",
-      "company": "Detroit Lions",
-      "title": "Football Information Associate",
-      "postedToDiscord": "2026-01-15T07:54:33.429Z",
-      "sourceDate": "2025-11-05T23:42:47.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/detroitlions/jobs/4626251005",
-      "discordThreadId": "1461267286664151162",
-      "instanceNumber": 1
-    },
-    {
-      "id": "samsung-research-america-health-ai-scholar-digital-health-mountain-view-2026-01-15-1",
-      "jobId": "samsung-research-america-health-ai-scholar-digital-health-mountain-view",
-      "company": "Samsung Research America",
-      "title": "Health AI Scholar - Digital Health",
-      "postedToDiscord": "2026-01-15T07:54:36.835Z",
-      "sourceDate": "2025-10-03T07:51:39.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8112737002",
-      "discordThreadId": "1461267300823863400",
-      "instanceNumber": 1
-    },
-    {
-      "id": "enova-software-engineer-intern-co-op-multiple-teams-chicago-2026-01-15-1",
-      "jobId": "enova-software-engineer-intern-co-op-multiple-teams-chicago",
-      "company": "Enova",
-      "title": "Software Engineer Intern/Co-op - Multiple Teams",
-      "postedToDiscord": "2026-01-15T07:54:40.118Z",
-      "sourceDate": "2025-09-25T05:03:16.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/7270805",
-      "discordThreadId": "1461267314908594421",
-      "instanceNumber": 1
-    },
-    {
-      "id": "celonis-associate-value-engineer-management-consulting-for-ai-implementation-orbit-program-raleigh-2026-01-15-1",
-      "jobId": "celonis-associate-value-engineer-management-consulting-for-ai-implementation-orbit-program-raleigh",
-      "company": "Celonis",
-      "title": "Associate Value Engineer - Management Consulting for AI Implementation - Orbit Program",
-      "postedToDiscord": "2026-01-15T07:54:43.469Z",
-      "sourceDate": "2025-06-25T01:31:46.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6620073003?gh_jid=6620073003",
-      "discordThreadId": "1461267328434962528",
-      "instanceNumber": 1
-    },
-    {
-      "id": "appian-associate-application-engineer-mclean-2026-01-15-1",
-      "jobId": "appian-associate-application-engineer-mclean",
-      "company": "Appian",
-      "title": "Associate Application Engineer",
-      "postedToDiscord": "2026-01-15T07:54:49.759Z",
-      "sourceDate": "2025-09-24T02:26:05.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7272543",
-      "discordThreadId": "1461267355064602626",
-      "instanceNumber": 1
-    },
-    {
-      "id": "avis-budget-accelerate-transformation-engineer-intern-parsippany-troy-hills-2026-01-15-1",
-      "jobId": "avis-budget-accelerate-transformation-engineer-intern-parsippany-troy-hills",
-      "company": "Avis Budget Group",
-      "title": "Accelerate Transformation Engineer Intern",
-      "postedToDiscord": "2026-01-15T07:54:53.141Z",
-      "sourceDate": "2025-09-11T00:25:53.000Z",
-      "sourceUrl": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate-TransformationEngineer-Intern---Summer-2026_R0180713",
-      "discordThreadId": "1461267368977104971",
-      "instanceNumber": 1
-    },
-    {
-      "id": "core-one-software-developer-1-vienna-2026-01-15-1",
-      "jobId": "core-one-software-developer-1-vienna",
-      "company": "Core One",
-      "title": "Software Developer 1",
-      "postedToDiscord": "2026-01-15T07:54:59.699Z",
-      "sourceDate": "2025-07-14T18:55:52.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/coreone/jobs/6603161002",
-      "discordThreadId": "1461267395812266091",
-      "instanceNumber": 1
-    },
-    {
-      "id": "celonis-associate-value-engineer-ai-driven-data-science-analytics-orbit-program-raleigh-2026-01-15-1",
-      "jobId": "celonis-associate-value-engineer-ai-driven-data-science-analytics-orbit-program-raleigh",
-      "company": "Celonis",
-      "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-      "postedToDiscord": "2026-01-15T08:03:29.003Z",
-      "sourceDate": "2025-06-25T01:20:16.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6620068003?gh_jid=6620068003",
-      "discordThreadId": "1461269532202110998",
-      "instanceNumber": 1
-    },
     {
       "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
       "jobId": "northrop-grumman-software-college-intern-palatine",
@@ -23013,15 +22804,27 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/WestgateResorts/744000104839895",
       "discordThreadId": "1463798753294286860",
       "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-software-engineer-intern-southfield-2026-01-22-1",
+      "jobId": "robert-bosch-venture-capital-software-engineer-intern-southfield",
+      "company": "Robert Bosch Venture Capital",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-22T08:33:14.557Z",
+      "sourceDate": "2026-01-21T20:45:38.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000104706990",
+      "discordThreadId": "1463813735570477098",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2092,
+    "totalJobs": 2074,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T07:33:42.236Z",
-      "archived": 0
+      "date": "2026-01-22T08:33:14.558Z",
+      "archived": 19,
+      "monthsAffected": 1
     }
   }
 }
