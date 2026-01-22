@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T11:46:20.571Z",
+  "lastUpdated": "2026-01-22T12:05:43.282Z",
   "jobs": [
     {
       "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
@@ -23233,14 +23233,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000104522225",
       "discordThreadId": "1463862331632259221",
       "instanceNumber": 1
+    },
+    {
+      "id": "mri-software-spring-intern-accounting-data-management-atlanta-2026-01-22-1",
+      "jobId": "mri-software-spring-intern-accounting-data-management-atlanta",
+      "company": "MRI Software",
+      "title": "Spring Intern - Accounting Data Management",
+      "postedToDiscord": "2026-01-22T12:05:02.229Z",
+      "sourceDate": "2026-01-21T01:03:42.000Z",
+      "sourceUrl": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Ohio-Remote/Spring-Intern--Accounting-Data-Management_R-106751",
+      "discordThreadId": "1463867035908833485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northrop-grumman-systems-engineer-intern-huntsville-al-and-linthicum-md-halethorpe-2026-01-22-1",
+      "jobId": "northrop-grumman-systems-engineer-intern-huntsville-al-and-linthicum-md-halethorpe",
+      "company": "Northrop Grumman",
+      "title": "Systems Engineer Intern - Huntsville AL and Linthicum MD",
+      "postedToDiscord": "2026-01-22T12:05:06.065Z",
+      "sourceDate": "2026-01-21T01:03:04.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Systems-Engineer-Intern---Huntsville-AL-and-Linthicum-MD_R10218249",
+      "discordThreadId": "1463867051352391951",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jabil-finance-data-engineering-intern-st-petersburg-2026-01-22-1",
+      "jobId": "jabil-finance-data-engineering-intern-st-petersburg",
+      "company": "Jabil",
+      "title": "Finance Data Engineering Intern",
+      "postedToDiscord": "2026-01-22T12:05:09.763Z",
+      "sourceDate": "2026-01-21T01:01:19.000Z",
+      "sourceUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance-Data-Engineering-Intern_J2437313",
+      "discordThreadId": "1463867067357860002",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-software-engineering-intern-frisco-2026-01-22-1",
+      "jobId": "t-mobile-software-engineering-intern-frisco",
+      "company": "T-Mobile",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-22T12:05:13.229Z",
+      "sourceDate": "2026-01-21T00:56:49.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Intern_REQ342771",
+      "discordThreadId": "1463867082843361392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-summer-2026-software-development-internship-frisco-2026-01-22-1",
+      "jobId": "t-mobile-summer-2026-software-development-internship-frisco",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Software Development Internship",
+      "postedToDiscord": "2026-01-22T12:05:16.926Z",
+      "sourceDate": "2026-01-21T00:56:39.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Software-Development-Internship_REQ342829",
+      "discordThreadId": "1463867097397461003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sk-hynix-intern-processing-in-memory-san-jose-2026-01-22-1",
+      "jobId": "sk-hynix-intern-processing-in-memory-san-jose",
+      "company": "SK hynix",
+      "title": "Intern Processing-in-Memory",
+      "postedToDiscord": "2026-01-22T12:05:23.500Z",
+      "sourceDate": "2026-01-21T01:03:01.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5078298008",
+      "discordThreadId": "1463867125574795402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "national-renewable-energy-laboratory-graduate-phd-student-intern-mathematical-optimization-golden-2026-01-22-1",
+      "jobId": "national-renewable-energy-laboratory-graduate-phd-student-intern-mathematical-optimization-golden",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Graduate PhD Student Intern - Mathematical Optimization",
+      "postedToDiscord": "2026-01-22T12:05:30.199Z",
+      "sourceDate": "2026-01-21T01:02:55.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-PhD-Student-Intern--Summer----Mathematical-Optimization_R14087",
+      "discordThreadId": "1463867153072652434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rsm-managed-application-services-consulting-denver-2026-01-22-1",
+      "jobId": "rsm-managed-application-services-consulting-denver",
+      "company": "RSM",
+      "title": "Managed Application Services Consulting",
+      "postedToDiscord": "2026-01-22T12:05:36.875Z",
+      "sourceDate": "2026-01-21T01:02:44.000Z",
+      "sourceUrl": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Greenwood/Managed-Application-Services-Consulting-Intern---Summer-2026_JR110951",
+      "discordThreadId": "1463867181287604264",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verisign-undergraduate-technical-intern-reston-2026-01-22-1",
+      "jobId": "verisign-undergraduate-technical-intern-reston",
+      "company": "Verisign",
+      "title": "Undergraduate Technical Intern",
+      "postedToDiscord": "2026-01-22T12:05:43.282Z",
+      "sourceDate": "2026-01-21T01:00:42.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/verisign/jobs/7453354003",
+      "discordThreadId": "1463867209234382919",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2112,
+    "totalJobs": 2121,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T11:46:20.571Z",
+      "date": "2026-01-22T12:05:43.282Z",
       "archived": 0
     }
   }
