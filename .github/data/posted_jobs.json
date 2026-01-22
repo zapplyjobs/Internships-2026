@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T09:50:58.562Z",
+  "lastUpdated": "2026-01-22T10:13:53.161Z",
   "jobs": [
     {
       "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
@@ -22991,14 +22991,47 @@
       "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319673",
       "discordThreadId": "1463833298739400847",
       "instanceNumber": 1
+    },
+    {
+      "id": "kla-software-engineer-intern-ai-ml-ann-arbor-2026-01-22-1",
+      "jobId": "kla-software-engineer-intern-ai-ml-ann-arbor",
+      "company": "KLA",
+      "title": "Software Engineer – Intern - AI/ML",
+      "postedToDiscord": "2026-01-22T10:13:43.038Z",
+      "sourceDate": "2026-01-21T00:46:56.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/KLAS-Summer-Intern_2532577",
+      "discordThreadId": "1463839022165135363",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nissan-machine-learning-research-intern-santa-clara-ca-santa-clara-2026-01-22-1",
+      "jobId": "nissan-machine-learning-research-intern-santa-clara-ca-santa-clara",
+      "company": "Nissan",
+      "title": "Machine Learning Research Intern - Santa Clara - CA",
+      "postedToDiscord": "2026-01-22T10:13:46.513Z",
+      "sourceDate": "2026-01-21T00:43:14.000Z",
+      "sourceUrl": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Santa-Clara--CA---Summer-2026_R00201318",
+      "discordThreadId": "1463839036673102018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paccar-software-engineer-intern-mainframe-tukwila-2026-01-22-1",
+      "jobId": "paccar-software-engineer-intern-mainframe-tukwila",
+      "company": "Paccar",
+      "title": "Software Engineer Intern - Mainframe",
+      "postedToDiscord": "2026-01-22T10:13:53.160Z",
+      "sourceDate": "2026-01-21T00:29:52.000Z",
+      "sourceUrl": "https://jobs.paccar.com/job/Renton-Software-Engineer-Intern-Mainframe-WA-98057/1285423101/?ats=successfactors",
+      "discordThreadId": "1463839064032542753",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2090,
+    "totalJobs": 2093,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T09:50:58.562Z",
+      "date": "2026-01-22T10:13:53.161Z",
       "archived": 0
     }
   }
