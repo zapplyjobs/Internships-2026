@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T12:38:36.615Z",
+  "lastUpdated": "2026-01-22T15:34:27.638Z",
   "jobs": [
-    {
-      "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
-      "jobId": "northrop-grumman-software-college-intern-palatine",
-      "company": "Northrop Grumman",
-      "title": "Software College Intern",
-      "postedToDiscord": "2026-01-15T13:21:41.174Z",
-      "sourceDate": "2026-01-15T07:27:20.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Software-College-Intern---Rolling-Meadows-IL_R10219490",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "tiktok-software-engineer-intern-global-site-reliability-engineer-san-jose-2026-01-15-1",
-      "jobId": "tiktok-software-engineer-intern-global-site-reliability-engineer-san-jose",
-      "company": "TikTok",
-      "title": "Software Engineer Intern - Global Site Reliability Engineer",
-      "postedToDiscord": "2026-01-15T13:21:44.533Z",
-      "sourceDate": "2026-01-15T02:17:21.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7536042624604997896",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "icf-international-intern-renewable-energy-remote-in-usa-2026-01-15-1",
-      "jobId": "icf-international-intern-renewable-energy-remote-in-usa",
-      "company": "ICF International",
-      "title": "Intern - Renewable Energy",
-      "postedToDiscord": "2026-01-15T13:21:51.083Z",
-      "sourceDate": "2026-01-15T07:26:05.000Z",
-      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Renewable-Energy--Remote-_R2600120",
-      "discordThreadId": "1461349652644499518",
-      "instanceNumber": 1
-    },
-    {
-      "id": "icf-international-2026-summer-intern-grid-modeling-analytics-remote-in-usa-2026-01-15-1",
-      "jobId": "icf-international-2026-summer-intern-grid-modeling-analytics-remote-in-usa",
-      "company": "ICF International",
-      "title": "2026 Summer Intern - Grid Modeling & Analytics",
-      "postedToDiscord": "2026-01-15T13:21:54.665Z",
-      "sourceDate": "2026-01-15T07:25:59.000Z",
-      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Grid-Modeling---Analytics_R2600129",
-      "discordThreadId": "1461349666812592300",
-      "instanceNumber": 1
-    },
-    {
-      "id": "crane-co-it-data-science-intern-lynnwood-2026-01-15-1",
-      "jobId": "crane-co-it-data-science-intern-lynnwood",
-      "company": "Crane Co.",
-      "title": "IT Data Science Intern",
-      "postedToDiscord": "2026-01-15T14:18:12.045Z",
-      "sourceDate": "2026-01-15T02:14:10.000Z",
-      "sourceUrl": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Lynnwood-Washington/IT-Data-Science-Intern---Summer-2026_JR100813",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "axos-bank-ai-solutions-analyst-intern-ai-solutions-analyst-centennial-2026-01-15-1",
-      "jobId": "axos-bank-ai-solutions-analyst-intern-ai-solutions-analyst-centennial",
-      "company": "Axos Bank",
-      "title": "AI Solutions & Analyst Intern - AI Solutions & Analyst",
-      "postedToDiscord": "2026-01-15T14:18:18.530Z",
-      "sourceDate": "2026-01-15T00:33:58.000Z",
-      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Solutions---Analyst-Intern_JR3549",
-      "discordThreadId": "1461363861083918501",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-intern-translational-safety-computational-toxicology-san-bruno-2026-01-15-1",
-      "jobId": "genentech-intern-translational-safety-computational-toxicology-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - Translational Safety - Computational Toxicology",
-      "postedToDiscord": "2026-01-15T14:56:58.686Z",
-      "sourceDate": "2026-01-15T00:15:16.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Translational-Safety--Computational-Toxicology-_202601-100628",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "group-1001-machine-learning-operations-intern-zionsville-2026-01-15-1",
       "jobId": "group-1001-machine-learning-operations-intern-zionsville",
@@ -23409,14 +23332,47 @@
       "sourceUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Intern--CFI--Consumer-Finance-Institute-_R-0000023233-1",
       "discordThreadId": "1463875484768141466",
       "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-calibration-process-data-science-intern-southfield-2026-01-22-1",
+      "jobId": "robert-bosch-venture-capital-calibration-process-data-science-intern-southfield",
+      "company": "Robert Bosch Venture Capital",
+      "title": "Calibration Process Data Science Intern",
+      "postedToDiscord": "2026-01-22T15:34:19.203Z",
+      "sourceDate": "2026-01-22T15:16:11.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000104948833",
+      "discordThreadId": "1463919702937047158",
+      "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-calibration-process-optimization-intern-southfield-2026-01-22-1",
+      "jobId": "robert-bosch-venture-capital-calibration-process-optimization-intern-southfield",
+      "company": "Robert Bosch Venture Capital",
+      "title": "Calibration Process Optimization Intern",
+      "postedToDiscord": "2026-01-22T15:34:24.060Z",
+      "sourceDate": "2026-01-22T15:16:07.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000104948375",
+      "discordThreadId": "1463919719005290526",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-aibt-trail-san-bruno-2026-01-22-1",
+      "jobId": "genentech-intern-aibt-trail-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - AIBT/Trail",
+      "postedToDiscord": "2026-01-22T15:34:27.637Z",
+      "sourceDate": "2026-01-22T15:09:35.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AIBT-TRAIL_202601-101276",
+      "discordThreadId": "1463919739448459418",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2128,
+    "totalJobs": 2124,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T12:38:36.615Z",
+      "date": "2026-01-22T15:34:27.638Z",
       "archived": 0
     }
   }
