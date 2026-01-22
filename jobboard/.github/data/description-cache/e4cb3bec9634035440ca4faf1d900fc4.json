@@ -1,0 +1,17 @@
+{
+  "url": "https://careers.agcocorp.com/job/Summer-Graduate-Intern-Data-Science/1358324900/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! As an intern, you will be an important part of the team right from the start and can look forward to exciting work. We are interested in your ideas as it is often our interns and their new perspective that helps us progress. At AGCO, you will gain valuable practical experience that will really help you get ahead. We are seeking a highly motivated data science intern to assist in uncovering analytical insights, applying advanced methodologies, and developing forecasting models that support our Farmer First mission. Guided by our commitment to innovation, collaboration, and integrity, this role strengthens our data science capabilities and offers the opportunity to contribute to initiatives that can make a significant contribution to our company's success. Your Impact: Gather, analyze, and visualize data to see how trends in one area impact others. Translate business questions into data‑driven workflows, hypothesis tests, and model evaluation tasks. Fine‑tune, monitor, and document forecasting and analytical model performance. Design data engineering frameworks to route disparate data sources into scalable forecasting pipelines. Enhance and centralize Dash applications into a centralized, scalable platform. Innovate on the front-end user experience to make complex models accessible to global business users. Your Experience and Qualifications: Pursuing a graduate degree in data science or a related field. Proficiency in Time Series Analysis, Hypothesis Testing, and Correlation Analysis. Ability to translate concepts like “Retail Trends” or “Cash Flow” into mathematical variables. Familiarity with Python (Statsmodels, Scikit-learn) and Jupyter Notebooks. Experience with Plotly Dash, Streamlit, or web frameworks (Flask/Django). Experience designing pipelines and organizing code repositories (Git) for scalability. Passion for creating intuitive, user-friendly data tools. Your Workplace: This is a full-time remote internship during the summer 2026. We value inclusion and recognize the innovation a diverse workforce delivers to our farmers. Through our recruitment efforts, we are committed to building a team that includes a variety of experiences, backgrounds, cultures and perspectives. Join us as we bring agriculture into the future and apply now! AGCO is proud to be an Equal Opportunity Employer. We maintain a drug-free workplace and perform pre-employment substance abuse testing.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://careers.agcocorp.com/job/Summer-Graduate-Intern-Data-Science/1358324900/?ats=successfactors",
+      "fetchedAt": "2026-01-22T02:54:26.112Z"
+    }
+  },
+  "cachedAt": 1769050466113
+}
