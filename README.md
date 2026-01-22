@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – Smart Manufacturing and AI Data Science | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing-and-AI-Data-Science_JR88885) | 6h |
+| Intern – Smart Manufacturing and AI Data Science | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing-and-AI-Data-Science_JR88885) | 7h |
 
 
 
@@ -151,13 +151,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1859 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1856 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1859 roles
-- **🏢 Companies**: 182 companies  
+- **📁 Total Positions**: 1856 roles
+- **🏢 Companies**: 180 companies  
 - **⭐ FAANG+ Opportunities**: 88 positions
 
 ### ⭐ **FAANG+** (86 positions)
@@ -394,10 +394,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Software Engineering Intern - Connected Systems - Summer 2026 | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27486?lang=en-us&icims=1) | 1mo |
 | Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 1mo |
 
-### 🛡️ **Defense & Aerospace** (17 positions)
+### 🛡️ **Defense & Aerospace** (16 positions)
 
 <details>
-<summary><h4>🚗 <strong>Waymo</strong> (17 positions)</h4></summary>
+<summary><h4>🚗 <strong>Waymo</strong> (16 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -406,7 +406,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864) | 1mo |
 | 2026 Summer Intern - MS/PhD - Systems Engineer - Rider Comfort | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357352) | 1mo |
 | 2026 Summer Intern - MS/PhD - Software Engineer - Predictive Planner Research | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357510) | 1mo |
-| 2026 Summer Intern - MS/PhD - Compute - Compiler | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7340164) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Planning/Prediction | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357493) | 1mo |
 | Software Engineering, Fleet Response | San Francisco, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Strategic Selection | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7342413) | 1mo |
