@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T09:38:22.419Z",
+  "lastUpdated": "2026-01-22T09:50:58.562Z",
   "jobs": [
     {
       "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
@@ -22958,14 +22958,47 @@
       "sourceUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Software-Engineer---TechEdge-Program---Summer-2026_R-0000031167-1",
       "discordThreadId": "1463830127833120829",
       "instanceNumber": 1
+    },
+    {
+      "id": "california-iso-computer-science-intern-folsom-2026-01-22-1",
+      "jobId": "california-iso-computer-science-intern-folsom",
+      "company": "California ISO",
+      "title": "Computer Science Intern",
+      "postedToDiscord": "2026-01-22T09:50:48.640Z",
+      "sourceDate": "2026-01-21T00:27:45.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/CaliforniaISO/744000104561544",
+      "discordThreadId": "1463833257337688119",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sandisk-intern-software-development-engineer-masters-milpitas-2026-01-22-1",
+      "jobId": "sandisk-intern-software-development-engineer-masters-milpitas",
+      "company": "Sandisk",
+      "title": "Intern - Software Development Engineer - Masters",
+      "postedToDiscord": "2026-01-22T09:50:55.016Z",
+      "sourceDate": "2026-01-21T00:27:32.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000104527305",
+      "discordThreadId": "1463833284567105586",
+      "instanceNumber": 1
+    },
+    {
+      "id": "s-p-global-machine-learning-intern-summer-2026-cambridge-2026-01-22-1",
+      "jobId": "s-p-global-machine-learning-intern-summer-2026-cambridge",
+      "company": "S&P Global ",
+      "title": "Machine Learning Intern - Summer 2026",
+      "postedToDiscord": "2026-01-22T09:50:58.562Z",
+      "sourceDate": "2025-12-10T23:37:18.000Z",
+      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319673",
+      "discordThreadId": "1463833298739400847",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2087,
+    "totalJobs": 2090,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T09:38:22.419Z",
+      "date": "2026-01-22T09:50:58.562Z",
       "archived": 0
     }
   }
