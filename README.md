@@ -151,13 +151,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1867 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1866 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1867 roles
-- **🏢 Companies**: 176 companies  
+- **📁 Total Positions**: 1866 roles
+- **🏢 Companies**: 177 companies  
 - **⭐ FAANG+ Opportunities**: 88 positions
 
 ### ⭐ **FAANG+** (86 positions)
