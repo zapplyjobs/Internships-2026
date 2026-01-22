@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T00:07:52.413Z",
+  "lastUpdated": "2026-01-22T00:45:04.173Z",
   "jobs": [
     {
       "id": "intapp-data-ai-intern-palo-alto-2026-01-15-1",
@@ -23013,14 +23013,113 @@
       "sourceUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101123",
       "discordThreadId": "1463686555573944371",
       "instanceNumber": 1
+    },
+    {
+      "id": "arrive-logistics-data-science-intern-chicago-2026-01-22-1",
+      "jobId": "arrive-logistics-data-science-intern-chicago",
+      "company": "Arrive Logistics",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-22T00:44:31.133Z",
+      "sourceDate": "2025-10-09T16:26:50.000Z",
+      "sourceUrl": "https://jobs.lever.co/arrivelogistics/8e6c4bb0-8d63-454d-bc57-4ecf7da5ba62/apply",
+      "discordThreadId": "1463695777779027989",
+      "instanceNumber": 1
+    },
+    {
+      "id": "arrive-logistics-data-science-intern-data-science-austin-2026-01-22-1",
+      "jobId": "arrive-logistics-data-science-intern-data-science-austin",
+      "company": "Arrive Logistics",
+      "title": "Data Science Intern - Data Science",
+      "postedToDiscord": "2026-01-22T00:44:31.152Z",
+      "sourceDate": "2025-10-09T16:26:50.000Z",
+      "sourceUrl": "https://jobs.lever.co/arrivelogistics/df8adaa4-4b3e-4300-8b8e-e6193c767742/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-coca-cola-company-product-development-data-analytics-atlanta-2026-01-22-1",
+      "jobId": "the-coca-cola-company-product-development-data-analytics-atlanta",
+      "company": "The Coca-Cola Company",
+      "title": "Product Development & Data Analytics",
+      "postedToDiscord": "2026-01-22T00:44:34.452Z",
+      "sourceDate": "2026-01-21T20:57:02.000Z",
+      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Product-Development---Data-Analytics-Intern_R-133627",
+      "discordThreadId": "1463695793222451315",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hcsc-senior-performance-management-and-insights-intern-chicago-2026-01-22-1",
+      "jobId": "hcsc-senior-performance-management-and-insights-intern-chicago",
+      "company": "HCSC",
+      "title": "Senior Performance Management and Insights Intern",
+      "postedToDiscord": "2026-01-22T00:44:37.835Z",
+      "sourceDate": "2026-01-21T20:52:56.000Z",
+      "sourceUrl": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Performance-Management-and-Insights-Senior-Intern_R0046553",
+      "discordThreadId": "1463695807005065368",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airspace-intelligence-software-engineer-intern-co-op-boston-2026-01-22-1",
+      "jobId": "airspace-intelligence-software-engineer-intern-co-op-boston",
+      "company": "Airspace Intelligence",
+      "title": "Software Engineer Intern/Co-op",
+      "postedToDiscord": "2026-01-22T00:44:44.256Z",
+      "sourceDate": "2026-01-21T23:23:10.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/airspace-intelligence.com/c2ef5338-def2-4370-8ab0-0775466d8bf8/application",
+      "discordThreadId": "1463695834016382976",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airspace-intelligence-software-engineer-intern-summer-boston-2026-01-22-1",
+      "jobId": "airspace-intelligence-software-engineer-intern-summer-boston",
+      "company": "Airspace Intelligence",
+      "title": "Software Engineer Intern - Summer",
+      "postedToDiscord": "2026-01-22T00:44:47.596Z",
+      "sourceDate": "2026-01-21T23:23:07.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/airspace-intelligence.com/8d49943d-197e-4b14-b4cf-3df91c7f8437/application",
+      "discordThreadId": "1463695847731626176",
+      "instanceNumber": 1
+    },
+    {
+      "id": "onsemi-intern-initial-ai-application-for-physics-based-llms-in-atomistic-simulation-fairview-2026-01-22-1",
+      "jobId": "onsemi-intern-initial-ai-application-for-physics-based-llms-in-atomistic-simulation-fairview",
+      "company": "onsemi",
+      "title": "Intern: Initial AI Application for Physics-Based LLMs in Atomistic Simulation",
+      "postedToDiscord": "2026-01-22T00:44:50.960Z",
+      "sourceDate": "2026-01-21T20:45:23.000Z",
+      "sourceUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503971",
+      "discordThreadId": "1463695862155968532",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoll-medical-it-application-intern-pittsburgh-2026-01-22-1",
+      "jobId": "zoll-medical-it-application-intern-pittsburgh",
+      "company": "ZOLL Medical Corporation",
+      "title": "IT Application Intern",
+      "postedToDiscord": "2026-01-22T00:44:57.424Z",
+      "sourceDate": "2026-01-21T20:58:24.000Z",
+      "sourceUrl": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/IT-Application-Intern_R17865",
+      "discordThreadId": "1463695888986669209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jumio-data-intern-remote-in-usa-2026-01-22-1",
+      "jobId": "jumio-data-intern-remote-in-usa",
+      "company": "Jumio",
+      "title": "Data Intern",
+      "postedToDiscord": "2026-01-22T00:45:04.172Z",
+      "sourceDate": "2026-01-21T20:53:02.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/jumio/jobs/4650255005",
+      "discordThreadId": "1463695917025857597",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2092,
+    "totalJobs": 2101,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T00:07:52.413Z",
+      "date": "2026-01-22T00:45:04.173Z",
       "archived": 0
     }
   }

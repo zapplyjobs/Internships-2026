@@ -1,0 +1,19 @@
+{
+  "url": "https://job-boards.greenhouse.io/jumio/jobs/4650255005",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Role Title: Intern Reporting to: Machine Learning Engineer Location: Remote Role Purpose: The Intern will play a vital role in advancing the company's capabilities in computer vision and fraud detection projects, as well as contributing to research and development initiatives. The incumbent will assist in various tasks related to biometric data collection, algorithm testing, and model validation. Proficiency in Python, along with knowledge of machine learning and MATLAB, is essential for success in this role. Familiarity with AWS, and SageMaker is advantageous. Example Responsibilities: Assist in computer vision and fraud detection projects by contributing to algorithm testing, model validation, and biometric data collection. Utilize Python, MATLAB, and deep learning libraries such as PyTorch and TensorFlow for image processing and analysis tasks. Collaborate with the research team to implement benchmarking metrics and perform ROC analysis. Ensure accuracy in data collection, labeling, and algorithmic testing by paying meticulous attention to detail. Develop and optimize SQL queries to extract, and analyze data for machine learning model training. Communicate effectively with team members through written and verbal channels to provide updates on project progress and findings. Experience and Qualifications: Availability to start immediately is required. Enrollment in a graduate program in computer science, computer/electrical engineering, or related fields. Proficiency in Python with working knowledge of image processing libraries. Understanding of benchmarking metrics. Attention to detail and ability to adapt and learn quickly in a fast-paced environment. Great to have Experience and Qualifications: Knowledge of different biometric modalities, eKYC, and presentation attacks. Understanding of databases, cloud computing, and storage, particularly AWS data and ML pipelines such as SageMaker and S3 buckets. The compensation is $23 per hour. Jumio Values: IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation Equal Opportunities: Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses. About Jumio: Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders. Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we’re expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others. Applicant Data Privacy We will only use your personal information in connection with Jumio’s application, recruitment, and hiring processes, as described in Jumio’s Applicant Privacy Notice. If you have any questions or comments, please send an email to privacy@jumio.com.",
+    "requirements": [
+      "Proficiency in Python with working knowledge of image processing libraries.",
+      "Knowledge of different biometric modalities, eKYC, and presentation attacks."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/jumio/jobs/4650255005",
+      "fetchedAt": "2026-01-22T00:44:11.664Z"
+    }
+  },
+  "cachedAt": 1769042651664
+}
