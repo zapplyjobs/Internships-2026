@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T01:17:14.960Z",
+  "lastUpdated": "2026-01-22T02:54:44.818Z",
   "jobs": [
     {
       "id": "intapp-data-ai-intern-palo-alto-2026-01-15-1",
@@ -23134,14 +23134,36 @@
       "sourceUrl": "https://graybar.wd1.myworkdayjobs.com/Careers/job/Corporate-Chesterfield-MO/Summer-2026-Intern---Data-and-Reporting_R260112",
       "discordThreadId": "1463704015433896111",
       "instanceNumber": 1
+    },
+    {
+      "id": "agco-graduate-intern-data-science-remote-in-usa-2026-01-22-1",
+      "jobId": "agco-graduate-intern-data-science-remote-in-usa",
+      "company": "AGCO",
+      "title": "Graduate Intern - Data Science",
+      "postedToDiscord": "2026-01-22T02:54:38.243Z",
+      "sourceDate": "2026-01-22T02:16:23.000Z",
+      "sourceUrl": "https://careers.agcocorp.com/job/Summer-Graduate-Intern-Data-Science/1358324900/?ats=successfactors",
+      "discordThreadId": "1463728524157255761",
+      "instanceNumber": 1
+    },
+    {
+      "id": "las-vegas-valley-water-district-geospatial-intern-las-vegas-2026-01-22-1",
+      "jobId": "las-vegas-valley-water-district-geospatial-intern-las-vegas",
+      "company": "Las Vegas Valley Water District",
+      "title": "Geospatial Intern",
+      "postedToDiscord": "2026-01-22T02:54:44.818Z",
+      "sourceDate": "2026-01-22T02:14:25.000Z",
+      "sourceUrl": "https://lvvwd.wd1.myworkdayjobs.com/lvvwdwaterjobs/job/Molasky-Corporate-Center/Geospatial-Intern_R0003486",
+      "discordThreadId": "1463728551609241621",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2103,
+    "totalJobs": 2105,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T01:17:14.960Z",
+      "date": "2026-01-22T02:54:44.818Z",
       "archived": 0
     }
   }
