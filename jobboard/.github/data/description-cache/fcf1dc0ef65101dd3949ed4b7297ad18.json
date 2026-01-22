@@ -1,0 +1,20 @@
+{
+  "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.OpenEye, Cadence Molecular Sciences – a division of Cadence Design Systems – is an industry leader in computational molecular design through rapid, robust, and scalable software, consulting services, and Orion®, the only cloud-native fully integrated software-as-a-service molecular modeling platform. Combining unlimited computation and storage with powerful tools for data sharing, visualization and analysis in a customizable development platform, Orion offers unprecedented capabilities for the advancement of pharmaceuticals, biologics, agrochemicals, and flavors and fragrances. OpenEye, Cadence Molecular Sciences is headquartered in Santa Fe, N.M., with offices in Boston, Mass.; Cologne, Germany; and Tokyo, JapanAs a Scientific Developer Intern, you will work with PhD-level scientists to develop and improve computational software for small molecule drug discovery. You will apply a variety of computational methods—such as free energy calculations, molecular dynamics simulations, and other modeling techniques—to enhance the accuracy and performance of the software. You will get an opportunity to work at the intersection of software engineering and scientific research.Key Learnings: Experience with OpenEye products used in state-of-the-art scientific researchExperience developing in a professional scientific software environmentExperience applying cutting-edge computational methods for binding free energy predictionWhat you should have (formally MUST HAVES/REQUIREMENTS):Experience with Python programmingSolid understanding of one or more of the following: statistical mechanics, thermodynamics, molecular dynamics, and free-energy perturbation theoryGood communication skills and ability to work as a part of a diverse teamThe following are a PLUS, but not required (preferred skills/experience):Practical experience running free energy calculations (e.g., RBFE or related methods) or conformational sampling in real projects3+ years of experience developing in modern scientific languages (Python, C++ etc.)We’re doing work that matters. Help us solve what others can’t.",
+    "requirements": [
+      "3+ years of experience developing in modern scientific languages (Python, C++ etc.)"
+    ],
+    "responsibilities": [
+      "Experience developing in a professional scientific software environment"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-1",
+      "fetchedAt": "2026-01-22T16:01:28.985Z"
+    }
+  },
+  "cachedAt": 1769097688985
+}
