@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T15:34:27.638Z",
+  "lastUpdated": "2026-01-22T16:01:43.889Z",
   "jobs": [
-    {
-      "id": "group-1001-machine-learning-operations-intern-zionsville-2026-01-15-1",
-      "jobId": "group-1001-machine-learning-operations-intern-zionsville",
-      "company": "Group 1001",
-      "title": "Machine Learning Operations Intern",
-      "postedToDiscord": "2026-01-15T15:44:45.155Z",
-      "sourceDate": "2026-01-15T02:24:01.000Z",
-      "sourceUrl": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Machine-Learning-Operations-Intern_R26_0002",
-      "discordThreadId": "1461385614837420155",
-      "instanceNumber": 1
-    },
     {
       "id": "oracle-oci-genai-phd-applied-scientist-full-time-intern-conversion-oci-genai-team-san-carlos-2026-01-15-1",
       "jobId": "oracle-oci-genai-phd-applied-scientist-full-time-intern-conversion-oci-genai-team-san-carlos",
@@ -23365,14 +23354,36 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AIBT-TRAIL_202601-101276",
       "discordThreadId": "1463919739448459418",
       "instanceNumber": 1
+    },
+    {
+      "id": "cadence-design-intern-scientific-developer-santa-fe-2026-01-22-1",
+      "jobId": "cadence-design-intern-scientific-developer-santa-fe",
+      "company": "Cadence Design Systems",
+      "title": "Intern Scientific Developer",
+      "postedToDiscord": "2026-01-22T16:01:40.520Z",
+      "sourceDate": "2026-01-22T15:50:44.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-1",
+      "discordThreadId": "1463926589065662575",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-design-intern-scientific-developer-affinity-santa-fe-2026-01-22-1",
+      "jobId": "cadence-design-intern-scientific-developer-affinity-santa-fe",
+      "company": "Cadence Design Systems",
+      "title": "Intern – Scientific Developer - Affinity",
+      "postedToDiscord": "2026-01-22T16:01:43.888Z",
+      "sourceDate": "2026-01-22T15:44:42.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/OpenEye_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-3",
+      "discordThreadId": "1463926603170971828",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2124,
+    "totalJobs": 2125,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T15:34:27.638Z",
+      "date": "2026-01-22T16:01:43.889Z",
       "archived": 0
     }
   }
