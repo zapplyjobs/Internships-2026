@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T00:45:04.173Z",
+  "lastUpdated": "2026-01-22T01:17:14.960Z",
   "jobs": [
     {
       "id": "intapp-data-ai-intern-palo-alto-2026-01-15-1",
@@ -23112,14 +23112,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/jumio/jobs/4650255005",
       "discordThreadId": "1463695917025857597",
       "instanceNumber": 1
+    },
+    {
+      "id": "nokia-data-analytics-ai-intern-co-op-dallas-2026-01-22-1",
+      "jobId": "nokia-data-analytics-ai-intern-co-op-dallas",
+      "company": "Nokia",
+      "title": "Data Analytics & AI Intern/Co-op",
+      "postedToDiscord": "2026-01-22T01:17:08.399Z",
+      "sourceDate": "2026-01-21T20:45:04.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30762",
+      "discordThreadId": "1463703987843891404",
+      "instanceNumber": 1
+    },
+    {
+      "id": "graybar-intern-data-and-reporting-chesterfield-2026-01-22-1",
+      "jobId": "graybar-intern-data-and-reporting-chesterfield",
+      "company": "Graybar",
+      "title": "Intern - Data and Reporting",
+      "postedToDiscord": "2026-01-22T01:17:14.960Z",
+      "sourceDate": "2026-01-21T20:44:38.000Z",
+      "sourceUrl": "https://graybar.wd1.myworkdayjobs.com/Careers/job/Corporate-Chesterfield-MO/Summer-2026-Intern---Data-and-Reporting_R260112",
+      "discordThreadId": "1463704015433896111",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2101,
+    "totalJobs": 2103,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T00:45:04.173Z",
+      "date": "2026-01-22T01:17:14.960Z",
       "archived": 0
     }
   }
