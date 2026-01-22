@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T11:09:18.202Z",
+  "lastUpdated": "2026-01-22T11:34:25.611Z",
   "jobs": [
     {
       "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
@@ -23112,14 +23112,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000104522315",
       "discordThreadId": "1463853011213353135",
       "instanceNumber": 1
+    },
+    {
+      "id": "clayton-associate-professional-intern-maryville-2026-01-22-1",
+      "jobId": "clayton-associate-professional-intern-maryville",
+      "company": "Clayton",
+      "title": "Associate Professional – Intern",
+      "postedToDiscord": "2026-01-22T11:33:48.606Z",
+      "sourceDate": "2026-01-21T00:58:59.000Z",
+      "sourceUrl": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Associate-Professional--Intern_JR127102",
+      "discordThreadId": "1463859177926561813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "webster-bank-it-intern-front-end-developer-it-front-end-southington-2026-01-22-1",
+      "jobId": "webster-bank-it-intern-front-end-developer-it-front-end-southington",
+      "company": "Webster Bank",
+      "title": "IT Intern – Front End Developer - IT Front End",
+      "postedToDiscord": "2026-01-22T11:33:52.022Z",
+      "sourceDate": "2026-01-21T00:58:45.000Z",
+      "sourceUrl": "https://websteronline.wd12.myworkdayjobs.com/WebsterExternalCareerSite/job/NY-LI-Jericho/IT-Intern---Front-End-Developer_R26_0000000063",
+      "discordThreadId": "1463859192606490830",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blackhawk-network-holdings-software-engineer-pleasanton-2026-01-22-1",
+      "jobId": "blackhawk-network-holdings-software-engineer-pleasanton",
+      "company": "Blackhawk Network Holdings",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-22T11:33:55.562Z",
+      "sourceDate": "2026-01-21T00:48:57.000Z",
+      "sourceUrl": "https://careers-blackhawknetwork.icims.com/jobs/24806/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1463859206976442480",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-boeing-company-software-development-intern-richmond-2026-01-22-1",
+      "jobId": "the-boeing-company-software-development-intern-richmond",
+      "company": "The Boeing Company",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2026-01-22T11:33:59.135Z",
+      "sourceDate": "2026-01-21T00:48:25.000Z",
+      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2025489325-1",
+      "discordThreadId": "1463859221849313382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "crane-co-software-engineer-intern-burbank-2026-01-22-1",
+      "jobId": "crane-co-software-engineer-intern-burbank",
+      "company": "Crane Co.",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-22T11:34:02.512Z",
+      "sourceDate": "2026-01-21T00:48:11.000Z",
+      "sourceUrl": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Software-Engineering-Intern_JR100860",
+      "discordThreadId": "1463859236579840057",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-applications-engineering-intern-milpitas-2026-01-22-1",
+      "jobId": "kla-applications-engineering-intern-milpitas",
+      "company": "KLA",
+      "title": "Applications Engineering Intern",
+      "postedToDiscord": "2026-01-22T11:34:06.062Z",
+      "sourceDate": "2026-01-21T00:46:49.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Engineering--Intern_2532274",
+      "discordThreadId": "1463859250794074292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genworth-financial-angular-web-developer-intern-raleigh-2026-01-22-1",
+      "jobId": "genworth-financial-angular-web-developer-intern-raleigh",
+      "company": "Genworth Financial",
+      "title": "Angular Web Developer Intern",
+      "postedToDiscord": "2026-01-22T11:34:12.619Z",
+      "sourceDate": "2026-01-21T00:53:58.000Z",
+      "sourceUrl": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Angular-Web-Developer-Intern_REQ-260018",
+      "discordThreadId": "1463859278216433677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "charter-manufacturing-customer-relationship-management-intern-mequon-2026-01-22-1",
+      "jobId": "charter-manufacturing-customer-relationship-management-intern-mequon",
+      "company": "Charter Manufacturing",
+      "title": "Customer Relationship Management Intern",
+      "postedToDiscord": "2026-01-22T11:34:19.065Z",
+      "sourceDate": "2025-11-30T10:29:19.000Z",
+      "sourceUrl": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Customer-Relationship-Management-Intern---Year-Round_R07054",
+      "discordThreadId": "1463859305957556309",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-federal-reserve-internship-research-facilitator-summer-2026-kansas-city-2026-01-22-1",
+      "jobId": "the-federal-reserve-internship-research-facilitator-summer-2026-kansas-city",
+      "company": "The Federal Reserve System",
+      "title": "Internship - Research Facilitator - Summer 2026",
+      "postedToDiscord": "2026-01-22T11:34:25.611Z",
+      "sourceDate": "2026-01-21T00:43:59.000Z",
+      "sourceUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Research-Facilitator---Summer-2026_R-0000031182-1",
+      "discordThreadId": "1463859333132714123",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2101,
+    "totalJobs": 2110,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T11:09:18.202Z",
+      "date": "2026-01-22T11:34:25.611Z",
       "archived": 0
     }
   }
