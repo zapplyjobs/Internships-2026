@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-22T12:21:52.728Z",
+  "lastUpdated": "2026-01-22T12:38:36.615Z",
   "jobs": [
     {
       "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
@@ -23398,14 +23398,25 @@
       "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Estimating-Intern--FL--Summer-Fall-2026_10136623-2",
       "discordThreadId": "1463871275112861798",
       "instanceNumber": 1
+    },
+    {
+      "id": "the-federal-reserve-intern-cfi-consumer-finance-institute-evergreen-requisition-philadelphia-2026-01-22-1",
+      "jobId": "the-federal-reserve-intern-cfi-consumer-finance-institute-evergreen-requisition-philadelphia",
+      "company": "The Federal Reserve System",
+      "title": "Intern – CFI - Consumer Finance Institute - Evergreen Requisition",
+      "postedToDiscord": "2026-01-22T12:38:36.614Z",
+      "sourceDate": "2025-11-01T10:23:03.000Z",
+      "sourceUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Intern--CFI--Consumer-Finance-Institute-_R-0000023233-1",
+      "discordThreadId": "1463875484768141466",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2127,
+    "totalJobs": 2128,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-22T12:21:52.728Z",
+      "date": "2026-01-22T12:38:36.615Z",
       "archived": 0
     }
   }
