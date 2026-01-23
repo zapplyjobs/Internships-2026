@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T03:43:24.840Z",
+  "lastUpdated": "2026-01-23T03:58:22.664Z",
   "jobs": [
-    {
-      "id": "centific-student-worker-remote-in-usa-2026-01-16-1",
-      "jobId": "centific-student-worker-remote-in-usa",
-      "company": "Centific",
-      "title": "Student Worker",
-      "postedToDiscord": "2026-01-16T03:54:42.631Z",
-      "sourceDate": "2025-12-13T15:10:16.000Z",
-      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Part-time-student-worker_JR100994",
-      "discordThreadId": "1461569314653081788",
-      "instanceNumber": 1
-    },
     {
       "id": "pennstate-university-research-assistant-in-fair-lab-prof-hadi-hosseini-state-college-2026-01-16-1",
       "jobId": "pennstate-university-research-assistant-in-fair-lab-prof-hadi-hosseini-state-college",
@@ -22606,14 +22595,113 @@
       "sourceUrl": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/United-States-Virtual/Summer-2026--Software-Engineering-Intern_R-112001",
       "discordThreadId": "1464103200675074108",
       "instanceNumber": 1
+    },
+    {
+      "id": "assurant-technical-product-project-owner-intern-remote-in-usa-2026-01-23-1",
+      "jobId": "assurant-technical-product-project-owner-intern-remote-in-usa",
+      "company": "Assurant",
+      "title": "Technical Product/Project Owner Intern",
+      "postedToDiscord": "2026-01-23T03:58:12.144Z",
+      "sourceDate": "2026-01-22T23:50:10.000Z",
+      "sourceUrl": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2026--Technical-Product-Project-Owner-Intern_R-112000-1",
+      "discordThreadId": "1464106921790275769",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jones-lang-lasalle-jll-data-communications-and-performance-analytics-intern-flushing-new-york-flushing-2026-01-23-1",
+      "jobId": "jones-lang-lasalle-jll-data-communications-and-performance-analytics-intern-flushing-new-york-flushing",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Data Communications and Performance Analytics Intern - Flushing - New York",
+      "postedToDiscord": "2026-01-23T03:58:13.769Z",
+      "sourceDate": "2026-01-22T23:50:00.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Flushing-NY/Performance-Analyst-2026-Intern---Flushing--New-York_REQ479694",
+      "discordThreadId": "1464106927700316308",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-software-development-intern-st-petersburg-2026-01-23-1",
+      "jobId": "motorola-software-development-intern-st-petersburg",
+      "company": "Motorola",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2026-01-23T03:58:15.023Z",
+      "sourceDate": "2026-01-22T23:41:31.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2026-Internship_R61254",
+      "discordThreadId": "1464106933878263850",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abelsontaylor-interactive-development-intern-chicago-2026-01-23-1",
+      "jobId": "abelsontaylor-interactive-development-intern-chicago",
+      "company": "AbelsonTaylor",
+      "title": "Interactive Development Intern",
+      "postedToDiscord": "2026-01-23T03:58:16.434Z",
+      "sourceDate": "2026-01-22T23:41:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/abelsontaylor/jobs/4647127006",
+      "discordThreadId": "1464106939469267057",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-system-software-engineering-intern-video-summer-2026-santa-clara-2026-01-23-1",
+      "jobId": "nvidia-system-software-engineering-intern-video-summer-2026-santa-clara",
+      "company": "NVIDIA",
+      "title": "System Software Engineering Intern - Video - Summer 2026",
+      "postedToDiscord": "2026-01-23T03:58:17.821Z",
+      "sourceDate": "2026-01-22T23:40:49.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--Video---Summer-2026_JR2006997",
+      "discordThreadId": "1464106945618120852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rocket-companies-data-scientist-intern-detroit-2026-01-23-1",
+      "jobId": "rocket-companies-data-scientist-intern-detroit",
+      "company": "Rocket Companies",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2026-01-23T03:58:19.000Z",
+      "sourceDate": "2026-01-22T23:39:45.000Z",
+      "sourceUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Windsor-ON/Data-Scientist-Intern---Summer-2026--Windsor--ON-_R-081572",
+      "discordThreadId": "1464106951049871543",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-data-engineering-intern-el-segundo-2026-01-23-1",
+      "jobId": "the-aerospace-data-engineering-intern-el-segundo",
+      "company": "The Aerospace Corporation",
+      "title": "Data Engineering Intern",
+      "postedToDiscord": "2026-01-23T03:58:20.254Z",
+      "sourceDate": "2026-01-22T23:35:55.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Engineering-Undergrad-Intern_R014426",
+      "discordThreadId": "1464106956099817517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "copeland-data-analyst-intern-st-louis-2026-01-23-1",
+      "jobId": "copeland-data-analyst-intern-st-louis",
+      "company": "Copeland",
+      "title": "Data Analyst Intern",
+      "postedToDiscord": "2026-01-23T03:58:21.452Z",
+      "sourceDate": "2026-01-22T23:33:02.000Z",
+      "sourceUrl": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/XMLNAME-2026-Data-Analyst-Intern_JR113041",
+      "discordThreadId": "1464106961128914966",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nasdaq-data-ai-innovation-intern-washington-2026-01-23-1",
+      "jobId": "nasdaq-data-ai-innovation-intern-washington",
+      "company": "Nasdaq",
+      "title": "Data & AI Innovation Intern",
+      "postedToDiscord": "2026-01-23T03:58:22.664Z",
+      "sourceDate": "2026-01-22T23:32:58.000Z",
+      "sourceUrl": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Washington---DC/Data---AI-Innovation-Intern---2026-Summer-Internship_R0024998",
+      "discordThreadId": "1464106966057226302",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2055,
+    "totalJobs": 2063,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-23T03:43:24.840Z",
+      "date": "2026-01-23T03:58:22.664Z",
       "archived": 0
     }
   }
