@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T05:07:57.970Z",
+  "lastUpdated": "2026-01-23T05:19:26.899Z",
   "jobs": [
-    {
-      "id": "texas-a-m-international-university-undergraduate-research-assistant-urda-caprock-integrity-laredo-2026-01-16-1",
-      "jobId": "texas-a-m-international-university-undergraduate-research-assistant-urda-caprock-integrity-laredo",
-      "company": "Texas A&M International University",
-      "title": "Undergraduate Research Assistant - URDA Caprock Integrity",
-      "postedToDiscord": "2026-01-16T05:19:22.272Z",
-      "sourceDate": "2025-11-23T08:08:33.000Z",
-      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--URDA--Caprock-Integrity-_R-087931",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "northrop-grumman-software-engineer-principal-software-engineer-aurora-2026-01-16-1",
-      "jobId": "northrop-grumman-software-engineer-principal-software-engineer-aurora",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer/Principal Software Engineer",
-      "postedToDiscord": "2026-01-16T05:19:25.668Z",
-      "sourceDate": "2025-11-22T11:55:36.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME--DoD-SkillBridge--Software-Engineer-Principal-Software-Engineer_R10198108",
-      "discordThreadId": "1461590634757619794",
-      "instanceNumber": 1
-    },
     {
       "id": "pennstate-university-cse-part-time-researcher-rui-zhang-state-college-2026-01-16-1",
       "jobId": "pennstate-university-cse-part-time-researcher-rui-zhang-state-college",
@@ -22881,6 +22859,28 @@
       "sourceUrl": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Connected-Solutions-IoT-Intern_JR-24211",
       "discordThreadId": "1464124478916399115",
       "instanceNumber": 1
+    },
+    {
+      "id": "flock-safety-software-engineer-intern-atlanta-2026-01-23-1",
+      "jobId": "flock-safety-software-engineer-intern-atlanta",
+      "company": "Flock Safety",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-23T05:19:25.739Z",
+      "sourceDate": "2026-01-23T02:17:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Flock%20Safety/28210ab6-8de5-43ff-880f-0aaa61bfa455/application",
+      "discordThreadId": "1464127363330736259",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-product-development-data-sciences-san-bruno-2026-01-23-1",
+      "jobId": "genentech-intern-product-development-data-sciences-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Product Development Data Sciences",
+      "postedToDiscord": "2026-01-23T05:19:26.899Z",
+      "sourceDate": "2026-01-23T02:15:24.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences_202601-101259",
+      "discordThreadId": "1464127368531808351",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -22888,7 +22888,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-23T05:07:57.970Z",
+      "date": "2026-01-23T05:19:26.899Z",
       "archived": 0
     }
   }
