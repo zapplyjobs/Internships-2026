@@ -9,6 +9,9 @@
  * 1. SimplifyJobs (internship aggregator)
  */
 
+console.log('[UNIFIED-JOB-FETCHER] Module loading...');
+console.log(`[UNIFIED-JOB-FETCHER] ENABLE_JSEARCH at module load: "${process.env.ENABLE_JSEARCH}"`);
+
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
