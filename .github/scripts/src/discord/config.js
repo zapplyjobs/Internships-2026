@@ -1,49 +1,20 @@
 /**
- * Discord Channel Configuration
+ * Discord Channel Configuration - Internships-2026
  *
- * Centralized channel ID configuration for multi-channel routing
- * Loaded from environment variables for security
+ * UPDATED 2026-01-23: Migrated to board types system
+ * - Uses src/board-types.js for portable configuration
+ * - Board type: INTERNSHIPS (full industry + location spread)
+ * - Channel type: FORUM channels
  */
 
-// Multi-channel configuration for forum channels
-const CHANNEL_CONFIG = {
-  'tech': process.env.DISCORD_TECH_CHANNEL_ID,
-  'ai': process.env.DISCORD_AI_CHANNEL_ID,
-  'data-science': process.env.DISCORD_DS_CHANNEL_ID,
-  'sales': process.env.DISCORD_SALES_CHANNEL_ID,
-  'marketing': process.env.DISCORD_MARKETING_CHANNEL_ID,
-  'finance': process.env.DISCORD_FINANCE_CHANNEL_ID,
-  'healthcare': process.env.DISCORD_HEALTHCARE_CHANNEL_ID,
-  'product': process.env.DISCORD_PRODUCT_CHANNEL_ID,
-  'supply-chain': process.env.DISCORD_SUPPLY_CHANNEL_ID,
-  'project-management': process.env.DISCORD_PM_CHANNEL_ID,
-  'hr': process.env.DISCORD_HR_CHANNEL_ID
-};
+const { BOARD_TYPES, generateLegacyConfig } = require('../board-types');
 
-// Location-specific channel configuration
-const LOCATION_CHANNEL_CONFIG = {
-  'remote-usa': process.env.DISCORD_REMOTE_USA_INT_CHANNEL_ID,
-  'new-york': process.env.DISCORD_NY_INT_CHANNEL_ID,
-  'austin': process.env.DISCORD_AUSTIN_INT_CHANNEL_ID,
-  'chicago': process.env.DISCORD_CHICAGO_INT_CHANNEL_ID,
-  'seattle': process.env.DISCORD_SEATTLE_INT_CHANNEL_ID,
-  'redmond': process.env.DISCORD_REDMOND_INT_CHANNEL_ID,
-  'mountain-view': process.env.DISCORD_MV_INT_CHANNEL_ID,
-  'san-francisco': process.env.DISCORD_SF_INT_CHANNEL_ID,
-  'sunnyvale': process.env.DISCORD_SUNNYVALE_INT_CHANNEL_ID,
-  'san-bruno': process.env.DISCORD_SAN_BRUNO_INT_CHANNEL_ID,
-  'boston': process.env.DISCORD_BOSTON_INT_CHANNEL_ID,
-  'los-angeles': process.env.DISCORD_LA_INT_CHANNEL_ID,
-  // New city channels (added 2026-01-04)
-  'dallas': process.env.DISCORD_DALLAS_INT_CHANNEL_ID,
-  'san-diego': process.env.DISCORD_SAN_DIEGO_INT_CHANNEL_ID,
-  'dc-metro': process.env.DISCORD_DC_INT_CHANNEL_ID
-};
-
-// Category-specific channel (SWE split from tech-internships)
-const CATEGORY_CHANNEL_CONFIG = {
-  'swe': process.env.DISCORD_SWE_INT_CHANNEL_ID
-};
+// Generate channel configuration from board type template
+const {
+  CHANNEL_CONFIG,
+  LOCATION_CHANNEL_CONFIG,
+  CATEGORY_CHANNEL_CONFIG
+} = generateLegacyConfig(BOARD_TYPES.INTERNSHIPS);
 
 // Legacy single channel support
 const LEGACY_CHANNEL_ID = process.env.DISCORD_CHANNEL_ID;
