@@ -104,6 +104,17 @@ function getJobLocationChannel(job) {
   const description = (job.job_description || '').toLowerCase();
   const combined = `${title} ${description} ${city} ${state}`;
 
+  // Priority 0: Check if job has #Remote tag (NEW - 2026-01-23)
+  // Jobs tagged as remote should also appear in remote-usa channel
+  if (job.tags && Array.isArray(job.tags)) {
+    const hasRemoteTag = job.tags.some(tag =>
+      tag.toLowerCase() === 'remote' || tag.toLowerCase().includes('remote')
+    );
+    if (hasRemoteTag) {
+      return LOCATION_CHANNEL_CONFIG['remote-usa'];
+    }
+  }
+
   // Metro area city matching (comprehensive)
   const cityMatches = {
     // San Francisco Bay Area
