@@ -29,9 +29,13 @@ function delay(ms) {
 async function fetchAllJobs() {
   console.log('🚀 Starting unified job collection...');
   console.log('━'.repeat(50));
-  console.log('DEBUG: ENV CHECK STARTING');
-  console.log(`ENV: ENABLE_JSEARCH="${process.env.ENABLE_JSEARCH}"`);
-  console.log('DEBUG: ENV CHECK COMPLETE');
+
+  // Debug to file (in case stdout is filtered)
+  const fs = require('fs');
+  const path = require('path');
+  const debugPath = path.join(process.cwd(), '.github', 'logs', 'jsearch-debug.log');
+  fs.writeFileSync(debugPath, `ENABLE_JSEARCH="${process.env.ENABLE_JSEARCH}"\nType: ${typeof process.env.ENABLE_JSEARCH}\nComparison: ${process.env.ENABLE_JSEARCH === 'true'}\n`, 'utf8');
+  console.log(`DEBUG: Wrote debug info to ${debugPath}`);
 
   const allJobs = [];
 
