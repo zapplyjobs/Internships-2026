@@ -96,6 +96,7 @@ class PostedJobsManagerV2 {
       postedToDiscord: eightDaysAgo, // 8 days ago (will be archived on next save)
       sourceDate: null,
       sourceUrl: null,
+      source: 'unknown',
       discordThreadId: null,
       instanceNumber: 1
     }));
@@ -205,6 +206,7 @@ class PostedJobsManagerV2 {
       postedToDiscord: now,
       sourceDate: jobData.job_posted_at_datetime_utc || null,
       sourceUrl: jobData.job_apply_link || null,
+      source: jobData.job_source || 'unknown',
       discordThreadId: discordThreadId,
       instanceNumber: instanceNumber
     };
