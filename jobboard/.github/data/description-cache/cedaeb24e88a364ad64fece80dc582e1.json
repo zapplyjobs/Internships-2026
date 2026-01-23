@@ -1,0 +1,17 @@
+{
+  "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3990",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The ABS Internship is a 3-month, cohort-based program for engineering majors currently enrolled in an accredited academic institution and who are at minimum a third year (junior) college student. This internship provides professional exposure for digital solutions majors (Computer/Data Science, Computer Engineering, Cybersecurity). ABS Interns are integrated into ABS business operations and will experience various aspects of engineering review, technical problem solving, and/or research and development. Interns will work with a designated advisor to learn and develop skills relating to ABS core business functions while also assisting ABS with key deliverables. It is expected that interns will be assigned multiple projects for their respective department throughout the course of their internship. Interns will work at the ABS corporate headquarters in Spring, TX.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3990",
+      "fetchedAt": "2026-01-23T23:39:57.866Z"
+    }
+  },
+  "cachedAt": 1769211597866
+}
