@@ -1,0 +1,23 @@
+{
+  "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Annapolis-Junction/Full-Stack-Software-Developer-Intern--Summer-2026-_R176475-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next! At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible. Job Description:Parsons is looking for an amazingly talented Full Stack Software Engineer Inter to join our team! In this role you will get to create new tools and automatic tasks for our Program Managers.What You'll Be Doing:Use a variety of technologies to build easy to use automation tools.Use Java and/or Python to develop backend functionality.Create a dynamic web front end using React or other JavaScript frameworks.Use SQL to create or update tables and views as necessary.Use git/Bitbucket to track and merge changes to source codeUse Jira to plan and track tasking.Use both Linux and Windows environment to develop and test applications.What Required Skills You'll Bring:Be enrolled in a Software Engineering degree programWill have completed Sophomore year by June 2025Ability to work in person in Annapolis Junction, MarylandMust be a US CitizenWhat Desired Skills You'll Bring:Coursework in Java and PythonFront end development experience (either personal projects or coursework)Understanding of basic database concepts.Security Clearance Requirement:NoneThis position is part of our Federal Solutions team.The Federal Solutions segment delivers resources to our US government customers that ensure the success of missions around the globe. Our intelligent employees drive the state of the art as they provide services and solutions in the areas of defense, security, intelligence, infrastructure, and environmental. We promote a culture of excellence and close-knit teams that take pride in delivering, protecting, and sustaining our nation's most critical assets, from Earth to cyberspace. Throughout the company, our people are anticipating what’s next to deliver the solutions our customers need now.Salary Range: $21.88 - $38.27We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as 401K!Parsons is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, veteran status or any other protected status.We truly invest and care about our employee’s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest—APPLY TODAY!Parsons is aware of fraudulent recruitment practices. To learn more about recruitment fraud and how to report it, please refer to https://www.parsons.com/fraudulent-recruitment/.",
+    "requirements": [
+      "Be enrolled in a Software Engineering degree program",
+      "Will have completed Sophomore year by June 2025"
+    ],
+    "responsibilities": [
+      "Use Java and/or Python to develop backend functionality.",
+      "Use both Linux and Windows environment to develop and test applications.",
+      "Front end development experience (either personal projects or coursework)"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Annapolis-Junction/Full-Stack-Software-Developer-Intern--Summer-2026-_R176475-1",
+      "fetchedAt": "2026-01-23T04:35:26.124Z"
+    }
+  },
+  "cachedAt": 1769142926124
+}
