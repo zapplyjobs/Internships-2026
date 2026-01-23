@@ -12,7 +12,7 @@ const {
 } = require("./utils");
 // Import or load the JSON configuration
 
-// Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
+// Filter jobs by age - jobs posted within last 14 days are "current", older ones are "archived"
 function filterJobsByAge(allJobs) {
   const currentJobs = [];
   const archivedJobs = [];
@@ -25,7 +25,7 @@ function filterJobsByAge(allJobs) {
     }
   });
 
-  console.log(`📅 Filtered: ${displayedJobCount} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
+  console.log(`📅 Filtered: ${displayedJobCount} current (≤14 days), ${archivedJobs.length} archived (>14 days)`);
   return { currentJobs, archivedJobs };
 }
 
@@ -423,7 +423,7 @@ Check out our other repos for jobs and free resources:
 Add new jobs to our listings keeping in mind the following:
 
 - Located in the US, Canada, or Remote.
-- Openings are currently accepting applications and not older than 1 week.
+- Openings are currently accepting applications and not older than 14 days.
 - Create a new issue to submit different job positions.
 - Update a job by submitting an issue with the job URL and required changes.
 
