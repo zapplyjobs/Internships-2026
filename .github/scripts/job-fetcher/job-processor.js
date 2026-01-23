@@ -832,7 +832,7 @@ async function processJobs() {
             return !isDuplicate;
         });
 
-        console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 1 week old), ${freshJobs.length} new (not seen AND not in queue)`);
+        console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 14 days old), ${freshJobs.length} new (not seen AND not in queue)`);
 
         // STEP 3: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
         // This prevents re-fetching them in next run, even if we don't process them all this run
