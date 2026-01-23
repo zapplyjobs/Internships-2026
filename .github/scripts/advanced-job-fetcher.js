@@ -1,3 +1,14 @@
+/**
+ * @deprecated This file is DEPRECATED and no longer used.
+ *
+ * USE INSTEAD: .github/scripts/job-fetcher/index.js
+ *
+ * This file contains old scraper code and is kept only for reference.
+ * DO NOT RUN - it may contain outdated logic and dependencies.
+ *
+ * Modern architecture: job-fetcher/index.js → job-processor.js → unified-job-fetcher.js
+ */
+
 const fs = require("fs");
 const { fetchAllRealJobs } = require("./real-career-scraper");
 const path = require("path");
@@ -7,9 +18,8 @@ const companyPath = path.join(__dirname, "job-fetcher/companies.json");
 const companies = JSON.parse(fs.readFileSync(companyPath, "utf8"));
 
 // Configuration
-const JSEARCH_API_KEY =
-  process.env.JSEARCH_API_KEY ||
-  "315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39";
+// SECURITY: Hardcoded API key removed - use environment variable only
+const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY; // REMOVED hardcoded key (security issue)
 const JSEARCH_BASE_URL = "https://jsearch.p.rapidapi.com/search";
 
 // Flatten all companies for easy access
