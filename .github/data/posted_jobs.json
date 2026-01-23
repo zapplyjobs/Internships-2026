@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T04:35:58.748Z",
+  "lastUpdated": "2026-01-23T04:55:49.948Z",
   "jobs": [
     {
       "id": "sdsu-research-foundation-niwc-senior-san-diego-2026-01-16-1",
@@ -22694,14 +22694,113 @@
       "sourceUrl": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Systems-Engineering-Intern_R0225531-1",
       "discordThreadId": "1464116429006835848",
       "instanceNumber": 1
+    },
+    {
+      "id": "castleton-commodities-international-front-office-software-engineer-internship-stamford-2026-01-23-1",
+      "jobId": "castleton-commodities-international-front-office-software-engineer-internship-stamford",
+      "company": "Castleton Commodities International",
+      "title": "Front Office Software Engineer Internship",
+      "postedToDiscord": "2026-01-23T04:55:39.826Z",
+      "sourceDate": "2025-07-29T02:03:49.000Z",
+      "sourceUrl": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
+      "discordThreadId": "1464121382622203944",
+      "instanceNumber": 1
+    },
+    {
+      "id": "borgwarner-enterprise-engineering-systems-intern-summer-auburn-hills-2026-01-23-1",
+      "jobId": "borgwarner-enterprise-engineering-systems-intern-summer-auburn-hills",
+      "company": "BorgWarner",
+      "title": "Enterprise Engineering Systems Intern - Summer",
+      "postedToDiscord": "2026-01-23T04:55:41.217Z",
+      "sourceDate": "2026-01-22T23:48:43.000Z",
+      "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Enterprise-Engineering-Systems-Intern--Summer-_R2026-0188",
+      "discordThreadId": "1464121387689050158",
+      "instanceNumber": 1
+    },
+    {
+      "id": "premier-quality-data-management-intern-charlotte-2026-01-23-1",
+      "jobId": "premier-quality-data-management-intern-charlotte",
+      "company": "Premier",
+      "title": "Quality Data Management Intern",
+      "postedToDiscord": "2026-01-23T04:55:42.508Z",
+      "sourceDate": "2026-01-22T23:43:21.000Z",
+      "sourceUrl": "https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Quality-Data-Management-Intern_R0008127-1",
+      "discordThreadId": "1464121393779179655",
+      "instanceNumber": 1
+    },
+    {
+      "id": "parsons-full-stack-software-developer-intern-summer-2026-annapolis-junction-2026-01-23-1",
+      "jobId": "parsons-full-stack-software-developer-intern-summer-2026-annapolis-junction",
+      "company": "Parsons",
+      "title": "Full Stack Software Developer Intern - Summer 2026",
+      "postedToDiscord": "2026-01-23T04:55:43.794Z",
+      "sourceDate": "2026-01-22T23:41:31.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Annapolis-Junction/Full-Stack-Software-Developer-Intern--Summer-2026-_R176475-1",
+      "discordThreadId": "1464121399148019807",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blacksky-2026-summer-internship-seattle-2026-01-23-1",
+      "jobId": "blacksky-2026-summer-internship-seattle",
+      "company": "BlackSky",
+      "title": "2026 Summer Internship",
+      "postedToDiscord": "2026-01-23T04:55:45.079Z",
+      "sourceDate": "2026-01-22T23:41:30.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/blacksky/jobs/8374456002",
+      "discordThreadId": "1464121404508344393",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-software-engineering-intern-west-valley-city-2026-01-23-1",
+      "jobId": "motorola-software-engineering-intern-west-valley-city",
+      "company": "Motorola",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-23T04:55:46.292Z",
+      "sourceDate": "2026-01-22T23:41:26.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineering-Intern---2026-Summer-Internship_R61268",
+      "discordThreadId": "1464121409902215360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sharkninja-fall-2026-software-engineering-co-op-july-to-december-needham-2026-01-23-1",
+      "jobId": "sharkninja-fall-2026-software-engineering-co-op-july-to-december-needham",
+      "company": "SharkNinja",
+      "title": "Fall 2026: Software Engineering Co-op - July to December",
+      "postedToDiscord": "2026-01-23T04:55:47.508Z",
+      "sourceDate": "2026-01-22T23:36:45.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647122006",
+      "discordThreadId": "1464121414721470589",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sharkninja-fall-2026-mobile-app-developer-co-op-july-to-december-needham-2026-01-23-1",
+      "jobId": "sharkninja-fall-2026-mobile-app-developer-co-op-july-to-december-needham",
+      "company": "SharkNinja",
+      "title": "Fall 2026: Mobile App Developer Co-op - July to December",
+      "postedToDiscord": "2026-01-23T04:55:48.704Z",
+      "sourceDate": "2026-01-22T23:36:44.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647134006",
+      "discordThreadId": "1464121420119408754",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-acquisition-and-analysis-intern-el-segundo-2026-01-23-1",
+      "jobId": "the-aerospace-acquisition-and-analysis-intern-el-segundo",
+      "company": "The Aerospace Corporation",
+      "title": "Acquisition and Analysis Intern",
+      "postedToDiscord": "2026-01-23T04:55:49.948Z",
+      "sourceDate": "2026-01-22T23:35:55.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Acquisition-and-Analysis-Undergraduate-Intern_R014428",
+      "discordThreadId": "1464121424800120959",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 2063,
+    "totalJobs": 2072,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-23T04:35:58.748Z",
+      "date": "2026-01-23T04:55:49.948Z",
       "archived": 0
     }
   }
