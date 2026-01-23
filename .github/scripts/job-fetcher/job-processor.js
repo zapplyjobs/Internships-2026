@@ -27,11 +27,12 @@ const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/servic
 // Deduplication logger
 const { DeduplicationLogger } = require('@zapply/job-board-shared');
 
-// Configuration
-const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
-const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
+// Configuration - LEGACY CODE (JSearch now in jsearch-source.js)
+// NOTE: This hardcoded API key is DEPRECATED and should NOT be used
+// JSearch integration has been moved to jsearch-source.js with proper security
+// See: .github/scripts/job-fetcher/jsearch-source.js
 
-// Job search queries - internship-specific
+// Job search queries - internship-specific (LEGACY - not actively used)
 const SEARCH_QUERIES = [
     // Core engineering internships
     'software engineer intern',
