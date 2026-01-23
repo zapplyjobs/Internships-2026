@@ -110,155 +110,90 @@ const BOARD_CONFIGS = {
     name: 'Internships 2026',
     description: 'Internship positions for students',
     channelMode: 'env',
-    channelType: 'forum',
+    channelType: 'text',  // Changed from 'forum' to 'text' (2026-01-23)
     envPrefix: 'DISCORD',
 
-    // Full industry spread (11 channels)
+    // Consolidated industry channels (6 channels, 23→12 consolidation)
     industryChannels: [
       {
         key: 'tech',
         envVar: 'DISCORD_TECH_CHANNEL_ID',
+        coverage: 18.0,
         description: 'Software engineering, DevOps, QA'
       },
       {
         key: 'ai',
         envVar: 'DISCORD_AI_CHANNEL_ID',
+        coverage: 15.0,
         description: 'ML, AI, research'
-      },
-      {
-        key: 'data-science',
-        envVar: 'DISCORD_DS_CHANNEL_ID',
-        description: 'Data science, analytics'
       },
       {
         key: 'sales',
         envVar: 'DISCORD_SALES_CHANNEL_ID',
+        coverage: 7.2,
         description: 'Sales roles'
+      },
+      {
+        key: 'data-science',
+        envVar: 'DISCORD_DS_CHANNEL_ID',
+        coverage: 5.7,
+        description: 'Data science, analytics'
       },
       {
         key: 'marketing',
         envVar: 'DISCORD_MARKETING_CHANNEL_ID',
+        coverage: 2.7,
         description: 'Marketing positions'
       },
       {
-        key: 'finance',
-        envVar: 'DISCORD_FINANCE_CHANNEL_ID',
-        description: 'Finance, accounting'
-      },
-      {
-        key: 'healthcare',
-        envVar: 'DISCORD_HEALTHCARE_CHANNEL_ID',
-        description: 'Healthcare tech'
-      },
-      {
-        key: 'product',
-        envVar: 'DISCORD_PRODUCT_CHANNEL_ID',
-        description: 'Product management'
-      },
-      {
-        key: 'supply-chain',
-        envVar: 'DISCORD_SUPPLY_CHANNEL_ID',
-        description: 'Supply chain'
-      },
-      {
-        key: 'project-management',
-        envVar: 'DISCORD_PM_CHANNEL_ID',
-        description: 'Project management'
-      },
-      {
-        key: 'hr',
-        envVar: 'DISCORD_HR_CHANNEL_ID',
-        description: 'HR positions'
+        key: 'other',
+        envVar: 'DISCORD_OTHER_CHANNEL_ID',
+        coverage: 6.6,
+        description: 'HR, healthcare, finance, product, PM, supply-chain'
       }
     ],
 
-    // Full location spread (15 channels)
+    // Consolidated location channels (6 channels, 12→6 consolidation)
     locationChannels: [
+      {
+        key: 'bay-area',
+        envVar: 'DISCORD_BAY_AREA_INT_CHANNEL_ID',
+        coverage: 17.6,
+        cities: ['San Francisco', 'Sunnyvale', 'Mountain View', 'San Bruno', 'Palo Alto', 'San Jose']
+      },
       {
         key: 'remote-usa',
         envVar: 'DISCORD_REMOTE_USA_INT_CHANNEL_ID',
+        coverage: 12.6,
         cities: ['Remote']
       },
       {
         key: 'new-york',
         envVar: 'DISCORD_NY_INT_CHANNEL_ID',
+        coverage: 5.5,
         cities: ['New York']
       },
       {
-        key: 'austin',
-        envVar: 'DISCORD_AUSTIN_INT_CHANNEL_ID',
-        cities: ['Austin']
+        key: 'pacific-northwest',
+        envVar: 'DISCORD_PNW_INT_CHANNEL_ID',
+        coverage: 2.4,
+        cities: ['Seattle', 'Redmond', 'Bellevue']
       },
       {
-        key: 'chicago',
-        envVar: 'DISCORD_CHICAGO_INT_CHANNEL_ID',
-        cities: ['Chicago']
+        key: 'southern-california',
+        envVar: 'DISCORD_SOCAL_INT_CHANNEL_ID',
+        coverage: 2.6,
+        cities: ['Los Angeles', 'San Diego']
       },
       {
-        key: 'seattle',
-        envVar: 'DISCORD_SEATTLE_INT_CHANNEL_ID',
-        cities: ['Seattle']
-      },
-      {
-        key: 'redmond',
-        envVar: 'DISCORD_REDMOND_INT_CHANNEL_ID',
-        cities: ['Redmond']
-      },
-      {
-        key: 'mountain-view',
-        envVar: 'DISCORD_MV_INT_CHANNEL_ID',
-        cities: ['Mountain View']
-      },
-      {
-        key: 'san-francisco',
-        envVar: 'DISCORD_SF_INT_CHANNEL_ID',
-        cities: ['San Francisco']
-      },
-      {
-        key: 'sunnyvale',
-        envVar: 'DISCORD_SUNNYVALE_INT_CHANNEL_ID',
-        cities: ['Sunnyvale']
-      },
-      {
-        key: 'san-bruno',
-        envVar: 'DISCORD_SAN_BRUNO_INT_CHANNEL_ID',
-        cities: ['San Bruno']
-      },
-      {
-        key: 'boston',
-        envVar: 'DISCORD_BOSTON_INT_CHANNEL_ID',
-        cities: ['Boston']
-      },
-      {
-        key: 'los-angeles',
-        envVar: 'DISCORD_LA_INT_CHANNEL_ID',
-        cities: ['Los Angeles']
-      },
-      {
-        key: 'dallas',
-        envVar: 'DISCORD_DALLAS_INT_CHANNEL_ID',
-        cities: ['Dallas']
-      },
-      {
-        key: 'san-diego',
-        envVar: 'DISCORD_SAN_DIEGO_INT_CHANNEL_ID',
-        cities: ['San Diego']
-      },
-      {
-        key: 'dc-metro',
-        envVar: 'DISCORD_DC_INT_CHANNEL_ID',
-        cities: ['DC', 'Washington DC']
+        key: 'other-usa',
+        envVar: 'DISCORD_OTHER_USA_INT_CHANNEL_ID',
+        coverage: 6.8,
+        cities: ['Austin', 'Boston', 'Chicago', 'Dallas', 'DC', 'Washington DC']
       }
     ],
 
-    // Category channels (SWE split)
-    categoryChannels: [
-      {
-        key: 'swe',
-        envVar: 'DISCORD_SWE_INT_CHANNEL_ID',
-        description: 'Software engineering internships'
-      }
-    ]
+    categoryChannels: []  // Removed SWE category channel (2026-01-23)
   },
 
   [BOARD_TYPES.REMOTE]: {
