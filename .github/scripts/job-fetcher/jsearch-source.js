@@ -96,6 +96,9 @@ async function searchJSearchInternships() {
         return [];
     }
 
+    // Log available quota for visibility
+    console.log(`📊 JSearch quota available: ${usage.remaining}/${MAX_REQUESTS_PER_DAY} requests remaining`);
+
     try {
         // Rotate queries based on current hour (spreads requests across queries)
         const currentHour = new Date().getUTCHours();
