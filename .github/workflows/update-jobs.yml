@@ -264,6 +264,12 @@ jobs:
       if: always()
       run: node .github/scripts/create-audit-log.js
 
+    - name: Generate metrics report
+      if: always()
+      run: node .github/scripts/generate-metrics-report.js --days=7
+      env:
+        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
+
     - name: Check for changes
       if: always()
       id: verify-changed-files
