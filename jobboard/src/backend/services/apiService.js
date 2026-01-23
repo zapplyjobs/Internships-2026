@@ -151,7 +151,8 @@ async function fetchExternalJobsData() {
         job_description: `Join ${job.company_name} in this exciting opportunity.`,
         job_apply_link: job.url,
         job_posted_at_datetime_utc: safeISOString(job.date_posted * 1000),
-        job_employment_type: 'FULLTIME'
+        job_employment_type: 'FULLTIME',
+        job_source: 'simplifyjobs'
       }));
 
     console.log(`✅ Primary data source: ${jobs.length} jobs`);
