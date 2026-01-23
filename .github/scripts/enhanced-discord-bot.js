@@ -979,14 +979,16 @@ client.once('ready', async () => {
 
         if (result.success) {
           // Mark this job as posted AFTER successful posting
-          postedJobsManager.markAsPosted(jobId);
+          // Pass job object and thread/message ID to markAsPosted
+          const threadId = result.thread?.id || result.message?.id || null;
+          postedJobsManager.markAsPosted(jobId, job, threadId);
 
           // Also mark all location variants as posted (for multi-location grouping)
           if (job._allJobVariants && job._allJobVariants.length > 1) {
             job._allJobVariants.forEach(variant => {
               const variantId = generateJobId(variant);
               if (variantId !== jobId) {
-                postedJobsManager.markAsPosted(variantId);
+                postedJobsManager.markAsPosted(variantId, variant, threadId);
               }
             });
           }
