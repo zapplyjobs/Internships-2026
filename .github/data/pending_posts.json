@@ -1362,5 +1362,311 @@
     "addedAt": "2026-01-23T00:06:45.289Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Enterprise Engineering Systems Intern - Summer",
+      "employer_name": "BorgWarner",
+      "job_city": "Auburn Hills",
+      "job_state": "MI",
+      "job_description": "Join BorgWarner in this exciting opportunity.",
+      "job_apply_link": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Enterprise-Engineering-Systems-Intern--Summer-_R2026-0188",
+      "job_posted_at_datetime_utc": "2026-01-22T23:48:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "borgwarner-enterprise-engineering-systems-intern-summer-auburn-hills"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Quality Data Management Intern",
+      "employer_name": "Premier",
+      "job_city": "Charlotte",
+      "job_state": "NC",
+      "job_description": "Join Premier in this exciting opportunity.",
+      "job_apply_link": "https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Quality-Data-Management-Intern_R0008127-1",
+      "job_posted_at_datetime_utc": "2026-01-22T23:43:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "premier-quality-data-management-intern-charlotte"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Full Stack Software Developer Intern - Summer 2026",
+      "employer_name": "Parsons",
+      "job_city": "Annapolis Junction",
+      "job_state": "MD",
+      "job_description": "Join Parsons in this exciting opportunity.",
+      "job_apply_link": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Annapolis-Junction/Full-Stack-Software-Developer-Intern--Summer-2026-_R176475-1",
+      "job_posted_at_datetime_utc": "2026-01-22T23:41:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "parsons-full-stack-software-developer-intern-summer-2026-annapolis-junction"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Internship",
+      "employer_name": "BlackSky",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join BlackSky in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/blacksky/jobs/8374456002",
+      "job_posted_at_datetime_utc": "2026-01-22T23:41:30.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "blacksky-2026-summer-internship-seattle"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "Motorola",
+      "job_city": "West Valley City",
+      "job_state": "UT",
+      "job_description": "Join Motorola in this exciting opportunity.",
+      "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineering-Intern---2026-Summer-Internship_R61268",
+      "job_posted_at_datetime_utc": "2026-01-22T23:41:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "motorola-software-engineering-intern-west-valley-city"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Fall 2026: Software Engineering Co-op - July to December",
+      "employer_name": "SharkNinja",
+      "job_city": "Needham",
+      "job_state": "MA",
+      "job_description": "Join SharkNinja in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647122006",
+      "job_posted_at_datetime_utc": "2026-01-22T23:36:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "sharkninja-fall-2026-software-engineering-co-op-july-to-december-needham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Fall 2026: Mobile App Developer Co-op - July to December",
+      "employer_name": "SharkNinja",
+      "job_city": "Needham",
+      "job_state": "MA",
+      "job_description": "Join SharkNinja in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647134006",
+      "job_posted_at_datetime_utc": "2026-01-22T23:36:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "sharkninja-fall-2026-mobile-app-developer-co-op-july-to-december-needham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Acquisition and Analysis Intern",
+      "employer_name": "The Aerospace Corporation",
+      "job_city": "El Segundo",
+      "job_state": "CA",
+      "job_description": "Join The Aerospace Corporation in this exciting opportunity.",
+      "job_apply_link": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Acquisition-and-Analysis-Undergraduate-Intern_R014428",
+      "job_posted_at_datetime_utc": "2026-01-22T23:35:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-aerospace-acquisition-and-analysis-intern-el-segundo"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineer Intern",
+      "employer_name": "Jabil",
+      "job_city": "Tampa",
+      "job_state": "FL",
+      "job_description": "Join Jabil in this exciting opportunity.",
+      "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineer-Intern_J2436717",
+      "job_posted_at_datetime_utc": "2026-01-22T23:33:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "jabil-data-engineer-intern-tampa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern/Co-op",
+      "employer_name": "CAE",
+      "job_city": "Arlington",
+      "job_state": "TX",
+      "job_description": "Join CAE in this exciting opportunity.",
+      "job_apply_link": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Georgia-Tech---Software-Engineering-Co-op_120150",
+      "job_posted_at_datetime_utc": "2026-01-22T23:30:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cae-software-engineering-intern-co-op-arlington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern/Co-op",
+      "employer_name": "CAE",
+      "job_city": "Arlington",
+      "job_state": "TX",
+      "job_description": "Join CAE in this exciting opportunity.",
+      "job_apply_link": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/University-of-Texas-at-Arlington---Engineering-Co-op_120146",
+      "job_posted_at_datetime_utc": "2026-01-22T23:30:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cae-engineering-intern-co-op-arlington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern/Co-op",
+      "employer_name": "CAE",
+      "job_city": "Tampa",
+      "job_state": "FL",
+      "job_description": "Join CAE in this exciting opportunity.",
+      "job_apply_link": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-South-Florida---Engineering-Co-op_120147",
+      "job_posted_at_datetime_utc": "2026-01-22T23:30:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cae-engineering-intern-co-op-tampa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Frontend Engineering Intern",
+      "employer_name": "Rubrik",
+      "job_city": "Palo Alto",
+      "job_state": "CA",
+      "job_description": "Join Rubrik in this exciting opportunity.",
+      "job_apply_link": "https://www.rubrik.com/company/careers/departments/job.7071669?gh_jid=7071669",
+      "job_posted_at_datetime_utc": "2026-01-22T23:29:34.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "rubrik-frontend-engineering-intern-palo-alto"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Sierra Nevada Corporation",
+      "job_city": "Cherry Hills Village",
+      "job_state": "CO",
+      "job_description": "Join Sierra Nevada Corporation in this exciting opportunity.",
+      "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Englewood-CO/Data-Science-Intern---Summer-2026_R0028303",
+      "job_posted_at_datetime_utc": "2026-01-22T23:29:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "sierra-nevada-data-science-intern-cherry-hills-village"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineering Intern",
+      "employer_name": "T-Mobile",
+      "job_city": "Frisco",
+      "job_state": "TX",
+      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Data-Engineering-Internship_REQ341082",
+      "job_posted_at_datetime_utc": "2026-01-22T23:26:59.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "t-mobile-data-engineering-intern-frisco"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Manufacturing Automation Intern",
+      "employer_name": "Legend Biotech",
+      "job_city": "Somerset County",
+      "job_state": "NJ",
+      "job_description": "Join Legend Biotech in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/legendcareers/jobs/4652556005",
+      "job_posted_at_datetime_utc": "2026-01-22T23:26:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "legend-biotech-manufacturing-automation-intern-somerset-county"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Connected Solutions IoT Intern",
+      "employer_name": "Donaldson Company",
+      "job_city": "Bloomington",
+      "job_state": "MN",
+      "job_description": "Join Donaldson Company in this exciting opportunity.",
+      "job_apply_link": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Connected-Solutions-IoT-Intern_JR-24211",
+      "job_posted_at_datetime_utc": "2025-09-02T06:30:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "donaldson-company-connected-solutions-iot-intern-bloomington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T00:43:43.251Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
