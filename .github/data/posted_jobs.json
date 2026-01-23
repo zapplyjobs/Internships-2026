@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T04:19:21.542Z",
+  "lastUpdated": "2026-01-23T04:35:58.748Z",
   "jobs": [
-    {
-      "id": "pennstate-university-research-assistant-chart-understanding-project-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-research-assistant-chart-understanding-project-state-college",
-      "company": "PennState University",
-      "title": "Research Assistant - Chart Understanding Project",
-      "postedToDiscord": "2026-01-16T04:33:38.478Z",
-      "sourceDate": "2025-11-30T07:07:56.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-for-a-Chart-Understanding-Project_REQ_0000072333-1",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-undergraduate-researcher-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-undergraduate-researcher-state-college",
-      "company": "PennState University",
-      "title": "Undergraduate Researcher",
-      "postedToDiscord": "2026-01-16T04:33:46.217Z",
-      "sourceDate": "2025-11-30T07:07:46.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher--CEE_REQ_0000065530",
-      "discordThreadId": "1461579143434076202",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-part-time-smeal-computer-science-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-part-time-smeal-computer-science-state-college",
-      "company": "PennState University",
-      "title": "Part time Smeal - Computer Science",
-      "postedToDiscord": "2026-01-16T04:33:49.738Z",
-      "sourceDate": "2025-11-30T07:07:36.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1",
-      "discordThreadId": "1461579158638563390",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-part-time-grad-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-part-time-grad-state-college",
-      "company": "PennState University",
-      "title": "Part-Time Grad",
-      "postedToDiscord": "2026-01-16T04:33:53.255Z",
-      "sourceDate": "2025-11-30T07:07:30.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1",
-      "discordThreadId": "1461579173750636736",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-tai-ai-project-research-assistant-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-tai-ai-project-research-assistant-state-college",
-      "company": "PennState University",
-      "title": "Tai AI Project Research Assistant",
-      "postedToDiscord": "2026-01-16T04:33:57.040Z",
-      "sourceDate": "2025-12-10T08:19:11.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tai-AI-Project-Research-Assistant_REQ_0000074125-1",
-      "discordThreadId": "1461579188795343133",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ge-vernova-ge-vernova-safe-human-robot-interaction-and-planning-summer-2026-schenectady-2026-01-16-1",
-      "jobId": "ge-vernova-ge-vernova-safe-human-robot-interaction-and-planning-summer-2026-schenectady",
-      "company": "GE Vernova",
-      "title": "GE Vernova Safe Human Robot Interaction and Planning - Summer 2026",
-      "postedToDiscord": "2026-01-16T04:34:00.409Z",
-      "sourceDate": "2025-12-07T07:24:03.000Z",
-      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Safe-Human-Robot-Interaction-and-Planning---Summer-2025_R5023246-1",
-      "discordThreadId": "1461579204360405138",
-      "instanceNumber": 1
-    },
-    {
-      "id": "link-target-digital-network-analyst-all-levels-odenton-2026-01-16-1",
-      "jobId": "link-target-digital-network-analyst-all-levels-odenton",
-      "company": "Link",
-      "title": "Target Digital Network Analyst All Levels",
-      "postedToDiscord": "2026-01-16T04:34:03.882Z",
-      "sourceDate": "2025-12-04T23:43:19.000Z",
-      "sourceUrl": "https://jobs.lever.co/linkllc/467ddc15-9a21-4f92-a2fb-167f734725de/apply",
-      "discordThreadId": "1461579218461790228",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-part-time-student-undergraduate-reading-2026-01-16-1",
-      "jobId": "pennstate-university-part-time-student-undergraduate-reading",
-      "company": "PennState University",
-      "title": "Part Time – Student - Undergraduate",
-      "postedToDiscord": "2026-01-16T04:34:07.803Z",
-      "sourceDate": "2025-12-03T23:12:57.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Student--Undergraduate----OVPCC-Tract-2-REU-Research-Assistant_REQ_0000073957-1",
-      "discordThreadId": "1461579232902647964",
-      "instanceNumber": 1
-    },
-    {
-      "id": "argonne-national-laboratory-graduate-research-aide-nuclear-engineering-woodridge-2026-01-16-1",
-      "jobId": "argonne-national-laboratory-graduate-research-aide-nuclear-engineering-woodridge",
-      "company": "Argonne National Laboratory",
-      "title": "Graduate Research Aide - Nuclear Engineering",
-      "postedToDiscord": "2026-01-16T04:34:16.869Z",
-      "sourceDate": "2025-12-07T05:46:04.000Z",
-      "sourceUrl": "https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425",
-      "discordThreadId": "1461579267904114841",
-      "instanceNumber": 1
-    },
     {
       "id": "sdsu-research-foundation-niwc-senior-san-diego-2026-01-16-1",
       "jobId": "sdsu-research-foundation-niwc-senior-san-diego",
@@ -22694,6 +22595,105 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000105016656",
       "discordThreadId": "1464112246342029464",
       "instanceNumber": 1
+    },
+    {
+      "id": "genentech-2026-summer-intern-ai-enablement-san-bruno-2026-01-23-1",
+      "jobId": "genentech-2026-summer-intern-ai-enablement-san-bruno",
+      "company": "Genentech",
+      "title": "2026 Summer Intern - AI Enablement",
+      "postedToDiscord": "2026-01-23T04:35:48.970Z",
+      "sourceDate": "2026-01-22T23:17:44.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AI-Enablement_202601-100974",
+      "discordThreadId": "1464116387998859360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-commerce-ads-2026-summer-seattle-2026-01-23-1",
+      "jobId": "tiktok-software-engineer-intern-commerce-ads-2026-summer-seattle",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Commerce Ads - 2026 Summer",
+      "postedToDiscord": "2026-01-23T04:35:50.135Z",
+      "sourceDate": "2026-01-22T23:17:29.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7595346355196954933",
+      "discordThreadId": "1464116393032028192",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-science-intern-advertisement-team-2026-summer-san-jose-2026-01-23-1",
+      "jobId": "tiktok-data-science-intern-advertisement-team-2026-summer-san-jose",
+      "company": "TikTok",
+      "title": "Data Science Intern - Advertisement Team - 2026 Summer",
+      "postedToDiscord": "2026-01-23T04:35:51.382Z",
+      "sourceDate": "2026-01-22T23:17:27.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7598068289244809525",
+      "discordThreadId": "1464116397620592779",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-2006-intern-software-fellow-engineer-intern-pa-state-college-2026-01-23-1",
+      "jobId": "rtx-2006-intern-software-fellow-engineer-intern-pa-state-college",
+      "company": "RTX",
+      "title": "2006 Intern – Software Fellow Engineer Intern - PA",
+      "postedToDiscord": "2026-01-23T04:35:52.725Z",
+      "sourceDate": "2026-01-22T23:16:53.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Intern---Software-Fellow-Engineer-Intern---Onsite--PA-_01818749",
+      "discordThreadId": "1464116403366920337",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-intern-global-trade-analytics-intern-arlington-2026-01-23-1",
+      "jobId": "rtx-intern-global-trade-analytics-intern-arlington",
+      "company": "RTX",
+      "title": "Intern - Global Trade Analytics Intern",
+      "postedToDiscord": "2026-01-23T04:35:53.899Z",
+      "sourceDate": "2026-01-22T23:16:37.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/XMLNAME-2026-Intern----Global-Trade-Analytics-Intern--Hybrid---MA-VA_01818434",
+      "discordThreadId": "1464116408765124793",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-security-automation-1-intern-san-jose-2026-01-23-1",
+      "jobId": "cisco-software-engineer-security-automation-1-intern-san-jose",
+      "company": "Cisco",
+      "title": "Software Engineer Security & Automation 1 - Intern",
+      "postedToDiscord": "2026-01-23T04:35:55.113Z",
+      "sourceDate": "2026-01-22T23:15:21.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2000460",
+      "discordThreadId": "1464116413793960000",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-software-engineer-intern-sunnyvale-2026-01-23-1",
+      "jobId": "intuitive-surgical-software-engineer-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-23T04:35:56.301Z",
+      "sourceDate": "2026-01-22T23:13:34.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000105029015",
+      "discordThreadId": "1464116418726330522",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-software-engineer-intern-fort-wayne-2026-01-23-1",
+      "jobId": "general-dynamics-mission-software-engineer-intern-fort-wayne",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-23T04:35:57.542Z",
+      "sourceDate": "2026-01-22T23:12:35.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69365/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1464116423826870314",
+      "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-university-games-systems-engineering-intern-honolulu-2026-01-23-1",
+      "jobId": "booz-allen-university-games-systems-engineering-intern-honolulu",
+      "company": "Booz Allen",
+      "title": "University – Games Systems Engineering Intern",
+      "postedToDiscord": "2026-01-23T04:35:58.748Z",
+      "sourceDate": "2026-01-22T23:11:19.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Systems-Engineering-Intern_R0225531-1",
+      "discordThreadId": "1464116429006835848",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -22701,7 +22701,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-23T04:19:21.542Z",
+      "date": "2026-01-23T04:35:58.748Z",
       "archived": 0
     }
   }
