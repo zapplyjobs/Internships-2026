@@ -1,0 +1,20 @@
+{
+  "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Washington---DC/Data---AI-Innovation-Intern---2026-Summer-Internship_R0024998",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "About Our Internship ProgramNasdaq’s Internship Program is a 10-week summer experience designed to give students real exposure to how global markets and technology come together. Our interns work on meaningful projects alongside Nasdaq teams, gaining hands-on skills that make an impact on the business.We believe the best way to learn is by doing — that’s why you’ll be paired with a mentor, connected with senior leaders, and included in professional development sessions. You’ll also join a diverse global intern community, sharing experiences and building networks that last beyond the program.Our goal is to provide a supportive, engaging, and fun environment where your work feels valued and your growth comes first. Check out our Nasdaq Internship Program page to learn more and hear directly from past interns about their journeys.We are seeking a Data & AI Intern to help design and build end‑to‑end AI microservice and agentic applications. This role offers hands‑on experience working across the full AI stack—data engineering, machine learning, generative AI, cloud platforms, APIs, and modern web interfaces. You will collaborate with data scientists, engineers, and product teams to develop scalable, production‑grade AI solutions using Databricks, AWS, Python, and modern web technologies.What You’ll DoBuild AI‑powered microservices and agentic applications using Python and modern ML/GenAI frameworksDevelop and deploy data and ML workflows using Databricks and AWSDesign and integrate RESTful and event‑driven APIs for AI servicesApply machine learning and generative AI techniques to real business problemsDevelop lightweight web UIs and dashboards using React, Node.js, and related technologiesImplement data pipelines, experimentation, model evaluation, and monitoringCollaborate in agile teams to translate ideas into fully functional, production‑ready solutionsDocument designs, experiments, and technical decisionsWhat You’ll LearnEnd‑to‑end AI system design—from data ingestion to user experienceBest practices for scalable, secure, and maintainable AI microservicesReal‑world application of agentic AI patterns, LLM orchestration, and automationThis position will be located in Washington DC and offers the opportunity for a hybrid work environment at least 3 days a week in-office, subject to change, providing flexibility and accessibility for qualified candidates.Come as You AreNasdaq is an equal opportunity employer. We positively encourage applications from suitably qualified and eligible candidates regardless of age, color, disability, national origin, ancestry, race, religion, gender, sexual orientation, gender identity and/or expression, veteran status, genetic information, or any other status protected by applicable law.We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.",
+    "requirements": null,
+    "responsibilities": [
+      "Develop and deploy data and ML workflows using Databricks and AWS",
+      "Develop lightweight web UIs and dashboards using React, Node.js, and related technologies",
+      "Collaborate in agile teams to translate ideas into fully functional, production‑ready solutions"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Washington---DC/Data---AI-Innovation-Intern---2026-Summer-Internship_R0024998",
+      "fetchedAt": "2026-01-23T00:07:47.095Z"
+    }
+  },
+  "cachedAt": 1769126867095
+}
