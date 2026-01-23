@@ -29,6 +29,7 @@ function delay(ms) {
 async function fetchAllJobs() {
   console.log('🚀 Starting unified job collection...');
   console.log('━'.repeat(50));
+  console.log(`🔍 ENV CHECK: ENABLE_JSEARCH="${process.env.ENABLE_JSEARCH}"`);
 
   const allJobs = [];
 
