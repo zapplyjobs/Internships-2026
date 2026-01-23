@@ -973,46 +973,28 @@ client.once('ready', async () => {
     for (const job of jobsToPost) {
       try {
         const jobId = generateJobId(job);
-        const tags = generateTags(job);
-        const embed = buildJobEmbed(job);
-        const actionRow = buildActionRow(job);
 
-        // Get users subscribed to these tags (only if not in GitHub Actions)
-        let content = '';
+        // Use the unified postJobToForum function which handles both forum and text channels
+        const result = await postJobToForum(job, channel);
 
-        if (!process.env.GITHUB_ACTIONS) {
-          const subscribedUsers = subscriptionManager.getUsersForTags(tags);
-          if (subscribedUsers.length > 0) {
-            content = `🔔 ${subscribedUsers.map(id => `<@${id}>`).join(' ')} - New job matching your subscriptions!`;
+        if (result.success) {
+          // Mark this job as posted AFTER successful posting
+          postedJobsManager.markAsPosted(jobId);
+
+          // Also mark all location variants as posted (for multi-location grouping)
+          if (job._allJobVariants && job._allJobVariants.length > 1) {
+            job._allJobVariants.forEach(variant => {
+              const variantId = generateJobId(variant);
+              if (variantId !== jobId) {
+                postedJobsManager.markAsPosted(variantId);
+              }
+            });
           }
+
+          console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
+        } else {
+          console.error(`❌ Error posting job ${job.job_title}:`, result.error);
         }
-
-        const messageData = {
-          content,
-          embeds: [embed]
-        };
-
-        // Only add components if actionRow has buttons
-        if (actionRow.components.length > 0) {
-          messageData.components = [actionRow];
-        }
-
-        const message = await channel.send(messageData);
-
-        // Mark this job as posted AFTER successful posting
-        postedJobsManager.markAsPosted(jobId);
-        
-        // Also mark all location variants as posted (for multi-location grouping)
-        if (job._allJobVariants && job._allJobVariants.length > 1) {
-          job._allJobVariants.forEach(variant => {
-            const variantId = generateJobId(variant);
-            if (variantId !== jobId) {
-              postedJobsManager.markAsPosted(variantId);
-            }
-          });
-        }
-
-        console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
 
         // Small delay to avoid rate limits
         await new Promise(resolve => setTimeout(resolve, 1000));
