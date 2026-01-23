@@ -27,7 +27,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        ref: main  # Always pull latest main branch code
+        ref: ${{ github.ref }}  # Use the branch that triggered the workflow
       
     - name: Setup Node.js
       uses: actions/setup-node@v4
