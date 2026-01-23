@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T16:05:36.625Z",
+  "lastUpdated": "2026-01-23T23:40:14.904Z",
   "jobs": [
-    {
-      "id": "ag-free-training-and-placement-for-opt-students-chesterfield-2026-01-16-1",
-      "jobId": "ag-free-training-and-placement-for-opt-students-chesterfield",
-      "company": "AG Technologies",
-      "title": "Free training and placement for OPT students",
-      "postedToDiscord": "2026-01-16T16:17:52.113Z",
-      "sourceDate": "2025-08-14T18:10:36.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103273865",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "ag-obiee-salesforce-networking-training-and-placement-chesterfield-2026-01-16-1",
-      "jobId": "ag-obiee-salesforce-networking-training-and-placement-chesterfield",
-      "company": "AG Technologies",
-      "title": "OBIEE/Salesforce/Networking training and placement",
-      "postedToDiscord": "2026-01-16T17:42:15.218Z",
-      "sourceDate": "2025-08-12T10:41:22.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/105683018",
-      "discordThreadId": "1461777572948869175",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ag-java-ui-obiee-etl-training-opportunity-for-opt-dallas-2026-01-16-1",
-      "jobId": "ag-java-ui-obiee-etl-training-opportunity-for-opt-dallas",
-      "company": "AG Technologies",
-      "title": "Java/UI/ OBIEE/ETL training opportunity for OPT",
-      "postedToDiscord": "2026-01-16T18:32:47.753Z",
-      "sourceDate": "2025-08-14T18:09:39.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103941299",
-      "discordThreadId": "1461790291416584430",
-      "instanceNumber": 1
-    },
-    {
-      "id": "crest-industries-cis-cs-internship-alexandria-2026-01-16-1",
-      "jobId": "crest-industries-cis-cs-internship-alexandria",
-      "company": "Crest Industries",
-      "title": "CIS/CS Internship",
-      "postedToDiscord": "2026-01-16T18:32:54.440Z",
-      "sourceDate": "2026-01-16T15:14:51.000Z",
-      "sourceUrl": "https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488/apply",
-      "discordThreadId": "1461790319799701721",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ernst-young-jd-llm-intern-tax-indirect-tax-salt-transactions-boston-2026-01-16-1",
-      "jobId": "ernst-young-jd-llm-intern-tax-indirect-tax-salt-transactions-boston",
-      "company": "Ernst & Young",
-      "title": "JD/LLM Intern - Tax - Indirect Tax - SALT Transactions",
-      "postedToDiscord": "2026-01-16T18:33:01.320Z",
-      "sourceDate": "2025-09-08T22:41:31.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/ud_-ROVTKuPRxpHjv5WxXQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": "1461790347519852728",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ernst-young-intern-tax-itts-transaction-tax-advisory-jd-llm-summer-2026-boston-2026-01-16-1",
-      "jobId": "ernst-young-intern-tax-itts-transaction-tax-advisory-jd-llm-summer-2026-boston",
-      "company": "Ernst & Young",
-      "title": "Intern - Tax - Itts - Transaction Tax Advisory - Jd LLM - Summer 2026",
-      "postedToDiscord": "2026-01-16T18:33:04.655Z",
-      "sourceDate": "2025-09-09T00:05:47.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/Vn0auTRiuN4HgdckGhrUZA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": "1461790363613397103",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ernst-young-intern-multiple-teams-philadelphia-2026-01-16-1",
-      "jobId": "ernst-young-intern-multiple-teams-philadelphia",
-      "company": "Ernst & Young",
-      "title": "Intern - Multiple Teams",
-      "postedToDiscord": "2026-01-16T23:39:09.228Z",
-      "sourceDate": "2026-01-16T23:13:52.000Z",
-      "sourceUrl": "https://eyglobal.yello.co/jobs/T0Bg8IQwVApd_jkZYeWf3g?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "discordThreadId": "1461867389263282206",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kla-algorithm-engineering-image-processing-ann-arbor-2026-01-16-1",
-      "jobId": "kla-algorithm-engineering-image-processing-ann-arbor",
-      "company": "KLA",
-      "title": "Algorithm Engineering - Image Processing",
-      "postedToDiscord": "2026-01-16T23:39:12.672Z",
-      "sourceDate": "2026-01-16T23:13:02.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern--Image-Processing-_2531393-2",
-      "discordThreadId": "1461867404224368670",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pricewaterhousecoopers-pwc-software-engineering-intern-norridge-2026-01-16-1",
-      "jobId": "pricewaterhousecoopers-pwc-software-engineering-intern-norridge",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2026-01-16T23:39:16.435Z",
-      "sourceDate": "2026-01-16T23:11:28.000Z",
-      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Software-Engineering---Summer-2027-Internship_695991WD-1",
-      "discordThreadId": "1461867418623152129",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pricewaterhousecoopers-pwc-ai-engineering-data-scientist-intern-norridge-2026-01-16-1",
-      "jobId": "pricewaterhousecoopers-pwc-ai-engineering-data-scientist-intern-norridge",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "title": "AI Engineering/Data Scientist Intern",
-      "postedToDiscord": "2026-01-16T23:39:19.922Z",
-      "sourceDate": "2026-01-16T23:11:21.000Z",
-      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/AI-Engineering-Data-Scientist---Summer-2027-Internship_695987WD-1",
-      "discordThreadId": "1461867434469228767",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pricewaterhousecoopers-pwc-tax-technology-innovation-intern-washington-2026-01-16-1",
-      "jobId": "pricewaterhousecoopers-pwc-tax-technology-innovation-intern-washington",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "title": "Tax Technology & Innovation Intern",
-      "postedToDiscord": "2026-01-16T23:39:26.623Z",
-      "sourceDate": "2025-09-09T02:27:48.000Z",
-      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Technology---Innovation-Intern---Summer-2026_664001WD",
-      "discordThreadId": "1461867461728145671",
-      "instanceNumber": 1
-    },
     {
       "id": "ccc-intelligent-r-d-intern-chicago-2026-01-17-1",
       "jobId": "ccc-intelligent-r-d-intern-chicago",
@@ -21759,14 +21638,47 @@
       "sourceUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/XMLNAME-2026-Summer-Intern---Software-Engineering---Washington_R549796",
       "discordThreadId": "1464289980498317496",
       "instanceNumber": 1
+    },
+    {
+      "id": "sherwin-williams-data-engineering-business-intelligence-co-op-cleveland-2026-01-23-1",
+      "jobId": "sherwin-williams-data-engineering-business-intelligence-co-op-cleveland",
+      "company": "Sherwin-Williams",
+      "title": "Data Engineering & Business Intelligence Co-Op",
+      "postedToDiscord": "2026-01-23T23:40:05.261Z",
+      "sourceDate": "2026-01-23T23:17:58.000Z",
+      "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2602009",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-bureau-of-shipping-digital-intern-houston-2026-01-23-1",
+      "jobId": "american-bureau-of-shipping-digital-intern-houston",
+      "company": "American Bureau of Shipping",
+      "title": "Digital Intern",
+      "postedToDiscord": "2026-01-23T23:40:06.912Z",
+      "sourceDate": "2026-01-23T23:05:35.000Z",
+      "sourceUrl": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3990",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "jmp-statistical-discovery-2026-jmp-summer-intern-advanced-analytics-testing-morrisville-2026-01-23-1",
+      "jobId": "jmp-statistical-discovery-2026-jmp-summer-intern-advanced-analytics-testing-morrisville",
+      "company": "JMP Statistical Discovery",
+      "title": "2026 JMP Summer Intern; Advanced Analytics Testing",
+      "postedToDiscord": "2026-01-23T23:40:14.903Z",
+      "sourceDate": "2026-01-23T23:11:00.000Z",
+      "sourceUrl": "https://jmp-sas.icims.com/jobs/41235/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1978,
+    "totalJobs": 1970,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-23T16:05:36.625Z",
+      "date": "2026-01-23T23:40:14.904Z",
       "archived": 0
     }
   }
