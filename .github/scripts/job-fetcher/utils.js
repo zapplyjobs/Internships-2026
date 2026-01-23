@@ -154,8 +154,8 @@ function isJobOlderThanWeek(dateString) {
     const value = parseInt(relativeMatch[1]);
     const unit = relativeMatch[2].toLowerCase();
 
-    if (unit === 'd' && value >= 7) return true;
-    if (unit === 'w') return true;
+    if (unit === 'd' && value >= 14) return true;
+    if (unit === 'w' && value >= 2) return true;
     if (unit === 'mo') return true;
     return false;
   }
@@ -165,7 +165,7 @@ function isJobOlderThanWeek(dateString) {
   const now = new Date();
   const diffInDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
 
-  return diffInDays >= 7;
+  return diffInDays >= 14;
 }
 
 function filterJobsByLevel(jobs) {

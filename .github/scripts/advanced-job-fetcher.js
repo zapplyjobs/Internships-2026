@@ -1055,7 +1055,7 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
  
 =================================================================================================================================================
-## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
+## 🎯 **Current Opportunities** (Fresh - Less than 14 days old)
 
 ${generateJobTable(currentJobs)}
 
@@ -1065,12 +1065,12 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs) : ""}
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: ${currentJobs.length} 
+- **🔥 Active Positions**: ${currentJobs.length}
 - **🏢 Companies**: ${totalCompanies} elite tech companies
-- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities  
+- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities
 - **📅 Last Updated**: ${currentDate}
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
+- **📁 Archived Jobs**: ${archivedJobs.length} (older than 14 days)
 
 ---
 
