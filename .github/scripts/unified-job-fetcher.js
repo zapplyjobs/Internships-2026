@@ -75,6 +75,7 @@ async function fetchAllJobs() {
   }
 
   // === Part 2.5: OPTIONAL JSearch API (experimental) ===
+  console.log(`\n🔍 DEBUG: ENABLE_JSEARCH = "${process.env.ENABLE_JSEARCH}" (type: ${typeof process.env.ENABLE_JSEARCH})`);
   if (process.env.ENABLE_JSEARCH === 'true') {
     console.log('\n📡 Fetching from JSearch API (experimental)...');
     try {
@@ -87,7 +88,7 @@ async function fetchAllJobs() {
       // Continue with SimplifyJobs only - graceful degradation
     }
   } else {
-    console.log('\n⏭️ Skipping JSearch API (ENABLE_JSEARCH not set to true)...');
+    console.log(`\n⏭️ Skipping JSearch API (ENABLE_JSEARCH="${process.env.ENABLE_JSEARCH}", expected "true")...`);
   }
 
   // === Part 3: ATS platforms DISABLED for Internships ===
