@@ -9,9 +9,6 @@
  * 1. SimplifyJobs (internship aggregator)
  */
 
-console.log('[UNIFIED-JOB-FETCHER] Module loading...');
-console.log(`[UNIFIED-JOB-FETCHER] ENABLE_JSEARCH at module load: "${process.env.ENABLE_JSEARCH}"`);
-
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
@@ -30,7 +27,6 @@ function delay(ms) {
  * @returns {Promise<Array>} Array of unique job objects
  */
 async function fetchAllJobs() {
-  console.log(`JSEARCH ENV VAR: "${process.env.ENABLE_JSEARCH}"`);
   console.log('🚀 Starting unified job collection...');
   console.log('━'.repeat(50));
 
@@ -79,27 +75,20 @@ async function fetchAllJobs() {
   }
 
   // === Part 2.5: OPTIONAL JSearch API (experimental) ===
-  console.log('\n=== JSEARCH SECTION START ===');
-  console.log(`ENABLE_JSEARCH value: "${process.env.ENABLE_JSEARCH}"`);
-  console.log(`ENABLE_JSEARCH type: ${typeof process.env.ENABLE_JSEARCH}`);
-  console.log(`Comparison result: ${process.env.ENABLE_JSEARCH === 'true'}`);
-
   if (process.env.ENABLE_JSEARCH === 'true') {
-    console.log('\n📡 Fetching from JSearch API (experimental)...');
+    console.log('\n📡 Fetching from JSearch API...');
     try {
       const { searchJSearchInternships } = require('./job-fetcher/jsearch-source');
       const jsearchJobs = await searchJSearchInternships();
       allJobs.push(...jsearchJobs);
       console.log(`📊 After JSearch: ${allJobs.length} jobs total`);
     } catch (error) {
-      console.error('WARNING: JSearch failed (non-critical):', error.message);
-      console.error('Stack:', error.stack);
+      console.error('⚠️ JSearch failed (non-critical):', error.message);
       // Continue with SimplifyJobs only - graceful degradation
     }
   } else {
-    console.log(`\nSkipping JSearch API (value="${process.env.ENABLE_JSEARCH}", expected="true")`);
+    console.log('\n⏭️ Skipping JSearch API (ENABLE_JSEARCH not enabled)');
   }
-  console.log('=== JSEARCH SECTION END ===\n');
 
   // === Part 3: ATS platforms DISABLED for Internships ===
   // NOTE: Greenhouse/Lever/Ashby APIs return ALL jobs (including senior positions)
