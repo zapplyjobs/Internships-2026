@@ -1668,5 +1668,41 @@
     "addedAt": "2026-01-23T00:43:43.251Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Flock Safety",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Join Flock Safety in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/Flock%20Safety/28210ab6-8de5-43ff-880f-0aaa61bfa455/application",
+      "job_posted_at_datetime_utc": "2026-01-23T02:17:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "flock-safety-software-engineer-intern-atlanta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T02:50:12.383Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Product Development Data Sciences",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences_202601-101259",
+      "job_posted_at_datetime_utc": "2026-01-23T02:15:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "genentech-intern-product-development-data-sciences-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-23T02:50:12.383Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
