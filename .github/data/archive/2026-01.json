@@ -6774,5 +6774,104 @@
     "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Part-time-student-worker_JR100994",
     "discordThreadId": "1461569314653081788",
     "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-research-assistant-in-fair-lab-prof-hadi-hosseini-state-college-2026-01-16-1",
+    "jobId": "pennstate-university-research-assistant-in-fair-lab-prof-hadi-hosseini-state-college",
+    "company": "PennState University",
+    "title": "Research Assistant in FAIR Lab - Prof. Hadi Hosseini",
+    "postedToDiscord": "2026-01-16T04:17:01.888Z",
+    "sourceDate": "2025-12-13T11:33:32.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-research-associate-state-college-2026-01-16-1",
+    "jobId": "pennstate-university-research-associate-state-college",
+    "company": "PennState University",
+    "title": "Research Associate",
+    "postedToDiscord": "2026-01-16T04:17:05.231Z",
+    "sourceDate": "2025-12-13T11:07:06.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1",
+    "discordThreadId": "1461574946282016843",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-student-researcher-state-college-2026-01-16-1",
+    "jobId": "pennstate-university-student-researcher-state-college",
+    "company": "PennState University",
+    "title": "Student Researcher",
+    "postedToDiscord": "2026-01-16T04:17:08.650Z",
+    "sourceDate": "2025-12-13T10:56:48.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Researcher_REQ_0000073588-2",
+    "discordThreadId": "1461574960496513184",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-ist-graduate-assistant-dr-calacci-state-college-2026-01-16-1",
+    "jobId": "pennstate-university-ist-graduate-assistant-dr-calacci-state-college",
+    "company": "PennState University",
+    "title": "IST Graduate Assistant - Dr. Calacci",
+    "postedToDiscord": "2026-01-16T04:17:11.930Z",
+    "sourceDate": "2025-11-30T07:07:57.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IST-Graduate-Assistant---Dr-Calacci_REQ_0000072565-2",
+    "discordThreadId": "1461574974652547073",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-part-time-research-data-collection-and-analysis-state-college-2026-01-16-1",
+    "jobId": "pennstate-university-part-time-research-data-collection-and-analysis-state-college",
+    "company": "PennState University",
+    "title": "Part-Time Research Data Collection and Analysis",
+    "postedToDiscord": "2026-01-16T04:17:18.452Z",
+    "sourceDate": "2025-12-13T11:24:29.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Data-Collection-and-Analysis_REQ_0000072267-1",
+    "discordThreadId": "1461575001227526268",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-part-time-research-assistant-public-health-sciences-hershey-2026-01-16-1",
+    "jobId": "pennstate-university-part-time-research-assistant-public-health-sciences-hershey",
+    "company": "PennState University",
+    "title": "Part time Research Assistant - Public Health Sciences",
+    "postedToDiscord": "2026-01-16T04:17:22.561Z",
+    "sourceDate": "2025-12-13T11:08:16.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-time-Research-Assistant---Public-Health-Sciences_REQ_0000064562",
+    "discordThreadId": "1461575015882428572",
+    "instanceNumber": 1
+  },
+  {
+    "id": "texas-a-m-international-university-graduate-research-assistant-engineering-nsf-cap-laredo-2026-01-16-1",
+    "jobId": "texas-a-m-international-university-graduate-research-assistant-engineering-nsf-cap-laredo",
+    "company": "Texas A&M International University",
+    "title": "Graduate Research Assistant - Engineering NSF CAP",
+    "postedToDiscord": "2026-01-16T04:17:26.356Z",
+    "sourceDate": "2025-12-13T11:04:06.000Z",
+    "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--Engineering--NSF-CAP-_R-087560-1",
+    "discordThreadId": "1461575034496614641",
+    "instanceNumber": 1
+  },
+  {
+    "id": "sierra-nevada-military-fellowship-program-software-engineer-southern-pines-2026-01-16-1",
+    "jobId": "sierra-nevada-military-fellowship-program-software-engineer-southern-pines",
+    "company": "Sierra Nevada Corporation",
+    "title": "Military Fellowship Program: Software Engineer",
+    "postedToDiscord": "2026-01-16T04:17:32.712Z",
+    "sourceDate": "2025-12-13T11:07:00.000Z",
+    "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640",
+    "discordThreadId": "1461575061772439774",
+    "instanceNumber": 1
+  },
+  {
+    "id": "hewlett-packard-enterprise-post-doc-research-associate-networking-and-distributed-systems-lab-milpitas-2026-01-16-1",
+    "jobId": "hewlett-packard-enterprise-post-doc-research-associate-networking-and-distributed-systems-lab-milpitas",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Post Doc Research Associate - Networking and Distributed Systems Lab",
+    "postedToDiscord": "2026-01-16T04:17:39.325Z",
+    "sourceDate": "2025-12-12T02:20:50.000Z",
+    "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Post-Doc-Research-Associate--Networking-and-Distributed-Systems-Lab-_1192363-2",
+    "discordThreadId": "1461575088435363923",
+    "instanceNumber": 1
   }
 ]

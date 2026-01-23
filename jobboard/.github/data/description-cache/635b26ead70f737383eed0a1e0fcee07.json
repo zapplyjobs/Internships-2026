@@ -1,0 +1,23 @@
+{
+  "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Application Deadline: March 13th, 11:59pm EST Program Overview VideoCastleton Commodities International is a leading global energy commodities merchant and infrastructure asset investor. As a trader, CCI deploys capital on a proprietary basis in the physical and financial commodity markets, providing the Company with market insights and access. As a strategic investor and developer, CCI leverages its market expertise, operations capabilities, and industry knowledge to invest in, and develop, select commodity infrastructure assets. Our strategically integrated platform has generated strong risk-adjusted returns for our investors since our formation.Position Overview:CCI is developing a leading-edge analytics platform, as staying at the forefront of data management and analytics is essential to our investment strategy. We are looking for a motivated and detail-oriented Front Office Software Engineering Intern to join our Global Data Science & Technology team in our Stamford, CT office. This internship is ideal for technically skilled students with a strong interest in building quality software that directly impacts trading, analytics, and investment workflows. You'll collaborate closely with other Software Engineer’s, Data Scientist’s, and Commercial end users, contributing to our front office platform through hands-on development projects using Python, cloud technologies (AWS), APIs, and Snowflake.Responsibilities:Contribute to the development of front office software tools that support real-time trading, market data analytics, and visualization.Work with the commercial trading team to optimize and re-engineer pricing models, decision tools, and trading workflows.Build and enhance Python-based microservices and APIs for internal data access and operations automation.Assist in building data visualization dashboards using libraries such as Streamlit, integrating commercial KPIs, price curves, and supply/demand analytics.Participate in cloud-native application development using AWS services, including Kubernetes  and Kafka.Support automation of deployment processes using modern DevOps tools (e.g., Git, Docker, Helm, CI/CD pipelines).Collaborate with the Data Science team to help integrate ML-driven analytics into front office workflows.Qualifications: Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Engineering, Management Information Systems, or related technical field of study.Expected graduation date of Winter 2026 or Spring/Summer 2027.Strong programming experience in Python (preferred libraries: Pandas, NumPy, etc.)Front-End programming experience using React or Angular, with strong JavaScript/TypeScript fundamentalsFamiliarity with version control tools (e.g., Git) and software development best practices.Strong problem-solving abilities and an eagerness to learn about financial markets and trading systems.Excellent communication skills and ability to work in a fast-paced, collaborative environment.Visit  https://www.cci.com/careers/life-at-cci/# to learn more!",
+    "requirements": [
+      "Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Engineering, Management Information Systems, or related technical field of study."
+    ],
+    "responsibilities": [
+      "Contribute to the development of front office software tools that support real-time trading, market data analytics, and visualization.",
+      "Participate in cloud-native application development using AWS services, including Kubernetes  and Kafka.",
+      "Collaborate with the Data Science team to help integrate ML-driven analytics into front office workflows.",
+      "Familiarity with version control tools (e.g., Git) and software development best practices."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
+      "fetchedAt": "2026-01-23T04:19:06.029Z"
+    }
+  },
+  "cachedAt": 1769141946029
+}

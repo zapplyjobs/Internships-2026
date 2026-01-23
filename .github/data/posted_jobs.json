@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T03:58:22.664Z",
+  "lastUpdated": "2026-01-23T04:19:21.542Z",
   "jobs": [
-    {
-      "id": "pennstate-university-research-assistant-in-fair-lab-prof-hadi-hosseini-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-research-assistant-in-fair-lab-prof-hadi-hosseini-state-college",
-      "company": "PennState University",
-      "title": "Research Assistant in FAIR Lab - Prof. Hadi Hosseini",
-      "postedToDiscord": "2026-01-16T04:17:01.888Z",
-      "sourceDate": "2025-12-13T11:33:32.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-research-associate-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-research-associate-state-college",
-      "company": "PennState University",
-      "title": "Research Associate",
-      "postedToDiscord": "2026-01-16T04:17:05.231Z",
-      "sourceDate": "2025-12-13T11:07:06.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1",
-      "discordThreadId": "1461574946282016843",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-student-researcher-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-student-researcher-state-college",
-      "company": "PennState University",
-      "title": "Student Researcher",
-      "postedToDiscord": "2026-01-16T04:17:08.650Z",
-      "sourceDate": "2025-12-13T10:56:48.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Researcher_REQ_0000073588-2",
-      "discordThreadId": "1461574960496513184",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-ist-graduate-assistant-dr-calacci-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-ist-graduate-assistant-dr-calacci-state-college",
-      "company": "PennState University",
-      "title": "IST Graduate Assistant - Dr. Calacci",
-      "postedToDiscord": "2026-01-16T04:17:11.930Z",
-      "sourceDate": "2025-11-30T07:07:57.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IST-Graduate-Assistant---Dr-Calacci_REQ_0000072565-2",
-      "discordThreadId": "1461574974652547073",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-part-time-research-data-collection-and-analysis-state-college-2026-01-16-1",
-      "jobId": "pennstate-university-part-time-research-data-collection-and-analysis-state-college",
-      "company": "PennState University",
-      "title": "Part-Time Research Data Collection and Analysis",
-      "postedToDiscord": "2026-01-16T04:17:18.452Z",
-      "sourceDate": "2025-12-13T11:24:29.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Data-Collection-and-Analysis_REQ_0000072267-1",
-      "discordThreadId": "1461575001227526268",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pennstate-university-part-time-research-assistant-public-health-sciences-hershey-2026-01-16-1",
-      "jobId": "pennstate-university-part-time-research-assistant-public-health-sciences-hershey",
-      "company": "PennState University",
-      "title": "Part time Research Assistant - Public Health Sciences",
-      "postedToDiscord": "2026-01-16T04:17:22.561Z",
-      "sourceDate": "2025-12-13T11:08:16.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-time-Research-Assistant---Public-Health-Sciences_REQ_0000064562",
-      "discordThreadId": "1461575015882428572",
-      "instanceNumber": 1
-    },
-    {
-      "id": "texas-a-m-international-university-graduate-research-assistant-engineering-nsf-cap-laredo-2026-01-16-1",
-      "jobId": "texas-a-m-international-university-graduate-research-assistant-engineering-nsf-cap-laredo",
-      "company": "Texas A&M International University",
-      "title": "Graduate Research Assistant - Engineering NSF CAP",
-      "postedToDiscord": "2026-01-16T04:17:26.356Z",
-      "sourceDate": "2025-12-13T11:04:06.000Z",
-      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--Engineering--NSF-CAP-_R-087560-1",
-      "discordThreadId": "1461575034496614641",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sierra-nevada-military-fellowship-program-software-engineer-southern-pines-2026-01-16-1",
-      "jobId": "sierra-nevada-military-fellowship-program-software-engineer-southern-pines",
-      "company": "Sierra Nevada Corporation",
-      "title": "Military Fellowship Program: Software Engineer",
-      "postedToDiscord": "2026-01-16T04:17:32.712Z",
-      "sourceDate": "2025-12-13T11:07:00.000Z",
-      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640",
-      "discordThreadId": "1461575061772439774",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hewlett-packard-enterprise-post-doc-research-associate-networking-and-distributed-systems-lab-milpitas-2026-01-16-1",
-      "jobId": "hewlett-packard-enterprise-post-doc-research-associate-networking-and-distributed-systems-lab-milpitas",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Post Doc Research Associate - Networking and Distributed Systems Lab",
-      "postedToDiscord": "2026-01-16T04:17:39.325Z",
-      "sourceDate": "2025-12-12T02:20:50.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Post-Doc-Research-Associate--Networking-and-Distributed-Systems-Lab-_1192363-2",
-      "discordThreadId": "1461575088435363923",
-      "instanceNumber": 1
-    },
     {
       "id": "pennstate-university-research-assistant-chart-understanding-project-state-college-2026-01-16-1",
       "jobId": "pennstate-university-research-assistant-chart-understanding-project-state-college",
@@ -22694,6 +22595,105 @@
       "sourceUrl": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Washington---DC/Data---AI-Innovation-Intern---2026-Summer-Internship_R0024998",
       "discordThreadId": "1464106966057226302",
       "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-business-intelligence-and-machine-learning-machine-learning-san-diego-2026-01-23-1",
+      "jobId": "asml-intern-business-intelligence-and-machine-learning-machine-learning-san-diego",
+      "company": "ASML",
+      "title": "Intern - Business Intelligence and Machine Learning - Machine Learning",
+      "postedToDiscord": "2026-01-23T04:19:09.481Z",
+      "sourceDate": "2026-01-22T23:31:26.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Business-Intelligence-and-Machine-Learning--ML-_J-00332518",
+      "discordThreadId": "1464112195775369260",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cae-engineering-co-op-engineering-tampa-2026-01-23-1",
+      "jobId": "cae-engineering-co-op-engineering-tampa",
+      "company": "CAE",
+      "title": "Engineering Co-op - Engineering",
+      "postedToDiscord": "2026-01-23T04:19:10.818Z",
+      "sourceDate": "2026-01-22T23:30:51.000Z",
+      "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Central-Florida---Engineering-Co-op_120148",
+      "discordThreadId": "1464112200770781195",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cae-binghamton-university-engineering-co-op-binghamton-2026-01-23-1",
+      "jobId": "cae-binghamton-university-engineering-co-op-binghamton",
+      "company": "CAE",
+      "title": "Binghamton University – Engineering Co-op",
+      "postedToDiscord": "2026-01-23T04:19:12.026Z",
+      "sourceDate": "2026-01-22T23:30:47.000Z",
+      "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Binghamton-University----Engineering-Co-op_120149",
+      "discordThreadId": "1464112206546211007",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cae-university-of-florida-engineering-co-op-tampa-2026-01-23-1",
+      "jobId": "cae-university-of-florida-engineering-co-op-tampa",
+      "company": "CAE",
+      "title": "University of Florida – Engineering Co-op",
+      "postedToDiscord": "2026-01-23T04:19:13.360Z",
+      "sourceDate": "2026-01-22T23:30:45.000Z",
+      "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_120151",
+      "discordThreadId": "1464112211709399130",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hilcorp-1-2669-hilcorp-geology-intern-houston-2026-01-23-1",
+      "jobId": "hilcorp-1-2669-hilcorp-geology-intern-houston",
+      "company": "Hilcorp",
+      "title": "1-2669 – Hilcorp Geology Intern",
+      "postedToDiscord": "2026-01-23T04:19:16.028Z",
+      "sourceDate": "2026-01-22T23:28:26.000Z",
+      "sourceUrl": "https://hec.wd5.myworkdayjobs.com/hilcorp_energy_company/job/Houston-TX/I-2669---Hilcorp-Geology-Intern_R005432",
+      "discordThreadId": "1464112217397137645",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-walt-disney-company-wdi-menu-planning-intern-glendale-summer-fall-2026-glendale-2026-01-23-1",
+      "jobId": "the-walt-disney-company-wdi-menu-planning-intern-glendale-summer-fall-2026-glendale",
+      "company": "The Walt Disney Company",
+      "title": "WDI Menu Planning Intern - Glendale - Summer/Fall 2026",
+      "postedToDiscord": "2026-01-23T04:19:17.483Z",
+      "sourceDate": "2026-01-22T23:28:23.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Menu-Planning-Intern--Glendale--Summer-Fall-2026_10141182",
+      "discordThreadId": "1464112229090594868",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-summer-2026-data-engineering-internship-frisco-2026-01-23-1",
+      "jobId": "t-mobile-summer-2026-data-engineering-internship-frisco",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Data Engineering Internship",
+      "postedToDiscord": "2026-01-23T04:19:18.879Z",
+      "sourceDate": "2026-01-22T23:27:01.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Data-Engineering-Internship_REQ341063",
+      "discordThreadId": "1464112234304241707",
+      "instanceNumber": 1
+    },
+    {
+      "id": "crowe-tax-artificial-intelligence-intern-chicago-2026-01-23-1",
+      "jobId": "crowe-tax-artificial-intelligence-intern-chicago",
+      "company": "Crowe",
+      "title": "Tax Artificial Intelligence Intern",
+      "postedToDiscord": "2026-01-23T04:19:20.253Z",
+      "sourceDate": "2026-01-22T23:25:20.000Z",
+      "sourceUrl": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Tax-Artificial-Intelligence-Intern_R-50158",
+      "discordThreadId": "1464112240578924667",
+      "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-robot-learning-research-intern-pittsburgh-2026-01-23-1",
+      "jobId": "robert-bosch-venture-capital-robot-learning-research-intern-pittsburgh",
+      "company": "Robert Bosch Venture Capital",
+      "title": "Robot Learning Research Intern",
+      "postedToDiscord": "2026-01-23T04:19:21.541Z",
+      "sourceDate": "2026-01-22T23:20:26.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000105016656",
+      "discordThreadId": "1464112246342029464",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -22701,7 +22701,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-23T03:58:22.664Z",
+      "date": "2026-01-23T04:19:21.542Z",
       "archived": 0
     }
   }
