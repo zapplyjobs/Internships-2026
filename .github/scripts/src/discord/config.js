@@ -1,20 +1,100 @@
 /**
  * Discord Channel Configuration - Internships-2026
  *
- * UPDATED 2026-01-23: Migrated to board types system
- * - Uses src/board-types.js for portable configuration
- * - Board type: INTERNSHIPS (full industry + location spread)
- * - Channel type: FORUM channels
+ * UPDATED 2026-01-23: Channel consolidation (23 → 12 channels)
+ * - Migrated to board types system
+ * - Changed FORUM → TEXT channels (fixes 1K thread limit)
+ * - Consolidated 7 low-volume channels → 'other'
+ * - Board type: INTERNSHIPS
  */
 
 const { BOARD_TYPES, generateLegacyConfig } = require('../board-types');
 
 // Generate channel configuration from board type template
-const {
-  CHANNEL_CONFIG,
-  LOCATION_CHANNEL_CONFIG,
-  CATEGORY_CHANNEL_CONFIG
-} = generateLegacyConfig(BOARD_TYPES.INTERNSHIPS);
+const rawConfig = generateLegacyConfig(BOARD_TYPES.INTERNSHIPS);
+
+/**
+ * Category Consolidation Map (2026-01-23)
+ * Maps old channel keys to new consolidated channels
+ *
+ * Consolidated into 'other':
+ * - finance (50 posts, 0.8%)
+ * - healthcare (56 posts, 0.9%)
+ * - product (38 posts, 0.6%)
+ * - project-management (37 posts, 0.6%)
+ * - hr (56 posts, 0.9%)
+ * - supply-chain (7 posts, 0.1%)
+ */
+const CATEGORY_ROUTING_MAP = {
+  'finance': 'other',
+  'healthcare': 'other',
+  'product': 'other',
+  'project-management': 'other',
+  'hr': 'other',
+  'supply-chain': 'other'
+};
+
+/**
+ * Location Consolidation Map (2026-01-23)
+ * Maps old location keys to new consolidated channels
+ */
+const LOCATION_ROUTING_MAP = {
+  // Bay Area consolidation (4 → 1)
+  'san-francisco': 'bay-area',
+  'sunnyvale': 'bay-area',
+  'mountain-view': 'bay-area',
+  'san-bruno': 'bay-area',
+
+  // Pacific Northwest consolidation (2 → 1)
+  'seattle': 'pacific-northwest',
+  'redmond': 'pacific-northwest',
+
+  // Southern California consolidation
+  'los-angeles': 'southern-california',
+
+  // Other USA consolidation (3 cities)
+  'austin': 'other-usa',
+  'boston': 'other-usa',
+  'chicago': 'other-usa',
+  'dallas': 'other-usa',
+  'dc-metro': 'other-usa'
+};
+
+/**
+ * Apply routing maps to redirect old channel keys to new consolidated channels
+ */
+function applyRoutingMaps(config) {
+  const mappedConfig = { ...config };
+
+  // Apply category routing map
+  for (const [oldKey, newKey] of Object.entries(CATEGORY_ROUTING_MAP)) {
+    if (mappedConfig[oldKey]) {
+      // If router returns 'finance', map it to 'other' channel ID
+      mappedConfig[oldKey] = mappedConfig[newKey];
+    }
+  }
+
+  return mappedConfig;
+}
+
+function applyLocationRoutingMaps(config) {
+  const mappedConfig = { ...config };
+
+  // Apply location routing map
+  for (const [oldKey, newKey] of Object.entries(LOCATION_ROUTING_MAP)) {
+    if (mappedConfig[oldKey]) {
+      // If router returns 'seattle', map it to 'pacific-northwest' channel ID
+      mappedConfig[oldKey] = mappedConfig[newKey];
+    }
+  }
+
+  return mappedConfig;
+}
+
+// Apply routing maps to configurations
+const CHANNEL_CONFIG = applyRoutingMaps(rawConfig.CHANNEL_CONFIG);
+const LOCATION_CHANNEL_CONFIG = applyLocationRoutingMaps(rawConfig.LOCATION_CHANNEL_CONFIG);
+const CATEGORY_CHANNEL_CONFIG = rawConfig.CATEGORY_CHANNEL_CONFIG || {};
 
 // Legacy single channel support
 const LEGACY_CHANNEL_ID = process.env.DISCORD_CHANNEL_ID;
@@ -29,5 +109,7 @@ module.exports = {
   CATEGORY_CHANNEL_CONFIG,
   LEGACY_CHANNEL_ID,
   MULTI_CHANNEL_MODE,
-  LOCATION_MODE_ENABLED
+  LOCATION_MODE_ENABLED,
+  CATEGORY_ROUTING_MAP,
+  LOCATION_ROUTING_MAP
 };
