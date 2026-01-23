@@ -153,16 +153,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2058 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2050 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2058 roles
-- **🏢 Companies**: 147 companies  
-- **⭐ FAANG+ Opportunities**: 88 positions
+- **📁 Total Positions**: 2050 roles
+- **🏢 Companies**: 143 companies  
+- **⭐ FAANG+ Opportunities**: 86 positions
 
-### ⭐ **FAANG+** (86 positions)
+### ⭐ **FAANG+** (84 positions)
 
 #### 📦 **Amazon** (12 positions)
 
@@ -182,7 +182,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Systems Development Engineer Internship | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 1mo |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (71 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (69 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -233,7 +233,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Research Intern - Algorithms Group: Theory | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628860) | 1mo |
 | Research Intern - AI SW/HW Co-design | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628845) | 1mo |
 | Research Intern - AI Compiler | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628773) | 1mo |
-| Research Intern - Advanced Memory Systems | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628873) | 1mo |
 | Research Intern - Microsoft Coreai Speech | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628916) | 1mo |
 | Research Intern - Model Optimization and HW Acceleration | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628875) | 1mo |
 | Research Intern - Training Methods for LLM Efficiency | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628881) | 1mo |
@@ -241,7 +240,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Research Intern - Machine Learning and Optimization | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628908) | 1mo |
 | Research Intern - Microsoft Research Special Projects | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628925) | 1mo |
 | Research Intern - Neural Rendering & Character AI - Applied Science | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621609) | 1mo |
-| Research Intern - Human Intelligence | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631443) | 1mo |
 | Research Intern - Technology for Religious Empowerment | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631718) | 1mo |
 | Research Intern - Deep Learning Group | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637090) | 1mo |
 | Research Intern - AI/ML Numerics & Efficiency | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637096) | 1mo |
@@ -397,10 +395,9 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Software Engineering Intern - Connected Systems - Summer 2026 | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27486?lang=en-us&icims=1) | 1mo |
 | Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 1mo |
 
-### 🛡️ **Defense & Aerospace** (16 positions)
+### 🛡️ **Defense & Aerospace** (15 positions)
 
-<details>
-<summary><h4>🚗 <strong>Waymo</strong> (16 positions)</h4></summary>
+#### 🚗 **Waymo** (15 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -412,7 +409,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 2026 Summer Intern - PhD - Software Engineer - Planning/Prediction | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357493) | 1mo |
 | Software Engineering, Fleet Response | San Francisco, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Strategic Selection | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7342413) | 1mo |
-| 2026 Summer Intern - PhD - Software Engineer - Due | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7315982) | 1mo |
 | Intern - Research - 3D/4D Scene Reconstruction and Understanding | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7280172) | 1mo |
 | Intern - Research - Perception Foundation Models | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7274784) | 1mo |
 | Software Engineering, Commercialization | Mountain View, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) | 1mo |
@@ -420,8 +416,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Intern - PhD - Machine Learning Engineer - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7252833) | 1mo |
 | Machine Learning Infra Foundations | Mountain View, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states) | 1mo |
 | 2026 Summer Intern - PhD - Perception - Computer Vision/Deep Learning | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7235071) | 1mo |
-
-</details>
 
 ### 🏥 **Healthcare & Life Sciences** (1 position)
 
