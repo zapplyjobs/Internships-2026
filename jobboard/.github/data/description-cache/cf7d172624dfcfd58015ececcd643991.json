@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=6cc6c9d46bea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Product Manager (Intern) in McAllen. Nerdbug is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=6cc6c9d46bea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-01-24T19:40:06.909Z"
+    }
+  },
+  "cachedAt": 1769283606909
+}
