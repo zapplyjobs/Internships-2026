@@ -8655,5 +8655,49 @@
     "sourceUrl": "https://job-boards.greenhouse.io/detroitlions/jobs/4650387005",
     "discordThreadId": "1461900022147846186",
     "instanceNumber": 1
+  },
+  {
+    "id": "intuit-data-science-intern-identity-analytics-san-diego-2026-01-17-1",
+    "jobId": "intuit-data-science-intern-identity-analytics-san-diego",
+    "company": "Intuit",
+    "title": "Data Science Intern - Identity & Analytics",
+    "postedToDiscord": "2026-01-17T03:06:14.883Z",
+    "sourceDate": "2026-01-17T02:17:14.000Z",
+    "sourceUrl": "https://jobs.intuit.com/job/san-diego/summer-2026-data-science-intern-identity-and-analytics/27595/90669123712",
+    "discordThreadId": "1461919506258726964",
+    "instanceNumber": 1
+  },
+  {
+    "id": "legrand-na-ai-intern-farmington-2026-01-17-1",
+    "jobId": "legrand-na-ai-intern-farmington",
+    "company": "Legrand NA",
+    "title": "AI Intern",
+    "postedToDiscord": "2026-01-17T03:06:18.603Z",
+    "sourceDate": "2026-01-17T02:13:53.000Z",
+    "sourceUrl": "https://jobs-legrand.icims.com/jobs/9746/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1461919521492308094",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genentech-2026-summer-intern-data-analyst-learning-skill-development-san-bruno-2026-01-17-1",
+    "jobId": "genentech-2026-summer-intern-data-analyst-learning-skill-development-san-bruno",
+    "company": "Genentech",
+    "title": "2026 Summer Intern - Data Analyst - Learning & Skill Development",
+    "postedToDiscord": "2026-01-17T03:06:25.179Z",
+    "sourceDate": "2026-01-17T02:11:43.000Z",
+    "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Data-Analyst---Learning---Skill-Development_202601-100852",
+    "discordThreadId": "1461919549053079605",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genentech-intern-data-analyst-learning-skill-development-san-bruno-2026-01-17-1",
+    "jobId": "genentech-intern-data-analyst-learning-skill-development-san-bruno",
+    "company": "Genentech",
+    "title": "Intern - Data Analyst - Learning & Skill Development",
+    "postedToDiscord": "2026-01-17T03:06:28.888Z",
+    "sourceDate": "2026-01-17T02:11:15.000Z",
+    "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Data-Analyst---Learning---Skill-Development_202601-100850",
+    "discordThreadId": "1461919564773196003",
+    "instanceNumber": 1
   }
 ]
