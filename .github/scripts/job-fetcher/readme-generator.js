@@ -325,7 +325,7 @@ async function generateReadme(
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-${displayedJobCount}-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Jobs-${displayedJobCount}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
 ${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star)' : ''}
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
