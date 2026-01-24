@@ -8468,5 +8468,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5022238007",
     "discordThreadId": "1461883268155703452",
     "instanceNumber": 1
+  },
+  {
+    "id": "analytic-partners-marketing-science-analyst-intern-charlottesville-2026-01-17-1",
+    "jobId": "analytic-partners-marketing-science-analyst-intern-charlottesville",
+    "company": "Analytic Partners",
+    "title": "Marketing Science Analyst Intern",
+    "postedToDiscord": "2026-01-17T01:09:47.065Z",
+    "sourceDate": "2026-01-16T23:19:31.000Z",
+    "sourceUrl": "https://jobs.lever.co/analyticpartners/b5b8cdce-0b8c-45f5-be87-b506ca43a2a8/apply",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "analytic-partners-marketing-science-analyst-intern-denver-2026-01-17-1",
+    "jobId": "analytic-partners-marketing-science-analyst-intern-denver",
+    "company": "Analytic Partners",
+    "title": "Marketing Science Analyst Intern",
+    "postedToDiscord": "2026-01-17T01:09:47.075Z",
+    "sourceDate": "2026-01-16T23:19:21.000Z",
+    "sourceUrl": "https://jobs.lever.co/analyticpartners/57fd9588-8b8a-4959-a144-337e047ee2f6/apply",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "main-line-health-it-data-science-intern-villanova-2026-01-17-1",
+    "jobId": "main-line-health-it-data-science-intern-villanova",
+    "company": "Main Line Health",
+    "title": "IT Data Science Intern",
+    "postedToDiscord": "2026-01-17T01:09:53.573Z",
+    "sourceDate": "2026-01-16T23:16:03.000Z",
+    "sourceUrl": "https://mainline.taleo.net/careersection/2/jobdetail.ftl?job=79531",
+    "discordThreadId": "1461890225033973813",
+    "instanceNumber": 1
+  },
+  {
+    "id": "johnson-johnson-data-science-co-op-summer-2026-cincinnati-2026-01-17-1",
+    "jobId": "johnson-johnson-data-science-co-op-summer-2026-cincinnati",
+    "company": "Johnson & Johnson",
+    "title": "Data Science Co-Op - Summer 2026",
+    "postedToDiscord": "2026-01-17T01:09:57.459Z",
+    "sourceDate": "2026-01-16T23:34:48.000Z",
+    "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op---Summer-2026_R-053121",
+    "discordThreadId": "1461890239974084630",
+    "instanceNumber": 1
+  },
+  {
+    "id": "borgwarner-artificial-intelligence-intern-pds-engineering-ai-tools-auburn-hills-2026-01-17-1",
+    "jobId": "borgwarner-artificial-intelligence-intern-pds-engineering-ai-tools-auburn-hills",
+    "company": "BorgWarner",
+    "title": "Artificial Intelligence Intern - PDS Engineering - AI Tools",
+    "postedToDiscord": "2026-01-17T01:10:04.097Z",
+    "sourceDate": "2025-11-03T23:18:47.000Z",
+    "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/AI-Intern_R2025-4286",
+    "discordThreadId": "1461890268637954200",
+    "instanceNumber": 1
+  },
+  {
+    "id": "donaldson-company-intern-modeling-data-science-bloomington-2026-01-17-1",
+    "jobId": "donaldson-company-intern-modeling-data-science-bloomington",
+    "company": "Donaldson Company",
+    "title": "Intern Modeling & Data Science",
+    "postedToDiscord": "2026-01-17T01:10:07.514Z",
+    "sourceDate": "2026-01-16T23:41:06.000Z",
+    "sourceUrl": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Intern---Modeling---Data-Science_JR-25222",
+    "discordThreadId": "1461890283561160830",
+    "instanceNumber": 1
+  },
+  {
+    "id": "philips-intern-full-stack-developer-genome-informatics-cambridge-2026-01-17-1",
+    "jobId": "philips-intern-full-stack-developer-genome-informatics-cambridge",
+    "company": "Philips",
+    "title": "Intern Full-Stack Developer - Genome Informatics",
+    "postedToDiscord": "2026-01-17T01:10:14.218Z",
+    "sourceDate": "2026-01-16T23:45:37.000Z",
+    "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Full-Stack-Developer--Genome-Informatics---Cambridge--MA---Summer-2026_572285",
+    "discordThreadId": "1461890311231115427",
+    "instanceNumber": 1
+  },
+  {
+    "id": "comcast-comcast-software-engineer-co-op-philadelphia-2026-01-17-1",
+    "jobId": "comcast-comcast-software-engineer-co-op-philadelphia",
+    "company": "Comcast",
+    "title": "Comcast Software Engineer Co-op",
+    "postedToDiscord": "2026-01-17T01:10:17.819Z",
+    "sourceDate": "2026-01-16T23:41:45.000Z",
+    "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R421856",
+    "discordThreadId": "1461890326288535593",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cadence-design-intern-scientific-developer-target-exploration-santa-fe-2026-01-17-1",
+    "jobId": "cadence-design-intern-scientific-developer-target-exploration-santa-fe",
+    "company": "Cadence Design Systems",
+    "title": "Intern – Scientific Developer Target Exploration",
+    "postedToDiscord": "2026-01-17T01:10:21.696Z",
+    "sourceDate": "2026-01-16T23:38:30.000Z",
+    "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern---Scientific-Developer-Target-Exploration_R52829-2",
+    "discordThreadId": "1461890341421711583",
+    "instanceNumber": 1
   }
 ]
