@@ -18,6 +18,7 @@ const {
 
 // Import extracted modules
 const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG, LEGACY_CHANNEL_ID, MULTI_CHANNEL_MODE, LOCATION_MODE_ENABLED } = require('./src/discord/config');
+const { postJobToChannel } = require('./src/discord/poster');
 const { getJobChannelDetails, isAIRole, isDataScienceRole, isTechRole, isNonTechRole } = require('@zapply/job-board-shared');
 const { normalizeJob } = require('@zapply/job-board-shared');
 const { formatPostedDate, cleanJobDescription } = require('@zapply/job-board-shared');
