@@ -20,9 +20,10 @@ concurrency:
 jobs:
   update-jobs:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # Prevent stuck runs from blocking future runs
     permissions:
       contents: write
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
