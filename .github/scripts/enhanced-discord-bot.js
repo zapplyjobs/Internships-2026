@@ -18,12 +18,16 @@ const {
 
 // Import extracted modules
 const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG, LEGACY_CHANNEL_ID, MULTI_CHANNEL_MODE, LOCATION_MODE_ENABLED } = require('./src/discord/config');
-const { postJobToChannel } = require('./src/discord/poster');
-const { getJobChannelDetails, isAIRole, isDataScienceRole, isTechRole, isNonTechRole } = require('@zapply/job-board-shared');
-const { normalizeJob } = require('@zapply/job-board-shared');
-const { formatPostedDate, cleanJobDescription } = require('@zapply/job-board-shared');
-const PostedJobsManager = require('@zapply/job-board-shared').PostedJobsManagerV2;
-const SubscriptionManager = require('@zapply/job-board-shared').SubscriptionManager;
+const { getJobChannelDetails, isAIRole, isDataScienceRole, isTechRole, isNonTechRole } = require('./src/routing/router');
+const { getJobLocationChannel } = require('./src/routing/location');
+const { normalizeJob } = require('./src/utils/job-normalizer');
+const { formatPostedDate, cleanJobDescription } = require('./src/utils/job-formatters');
+const PostedJobsManager = require('./src/data/posted-jobs-manager-v2');
+const SubscriptionManager = require('./src/data/subscription-manager');
+// NEW: Import posting and filtering utilities
+const { postJobToChannel, generateTags, buildJobEmbed, buildActionRow } = require('./src/discord/poster');
+const { postJobToForum } = require('./src/discord/forum-poster');
+const { filterBlacklisted, filterByDataQuality, filterEnriched, filterUnposted } = require('./src/filters/job-filters');
 
 // Environment variables
 const TOKEN = process.env.DISCORD_TOKEN;
@@ -43,9 +47,12 @@ const { loadPendingQueue, savePendingQueue } = require('./job-fetcher/job-proces
 
 // Import routing logger, posting logger, and jobs exporter for debugging
 const RoutingLogger = require('./routing-logger');
-const DiscordPostLogger = require('@zapply/job-board-shared').DiscordPostLogger;
+const DiscordPostLogger = require('./discord-post-logger');
 const JobsDataExporter = require('./jobs-data-exporter');
 const ChannelStatsManager = require('./channel-stats');
+
+// Import metrics collector
+const { collectDiscordMetrics, collectChannelMetrics } = require('./src/monitoring/metrics-collector');
 
 // Initialize routing logger, posting logger, and jobs exporter
 const routingLogger = new RoutingLogger();
@@ -80,6 +87,7 @@ function sanitizeUrl(urlString) {
     return 'https://zapplyjobs.com/jobs';
   }
 }
+
 const postLogger = new DiscordPostLogger();
 const jobsExporter = new JobsDataExporter();
 const channelStats = new ChannelStatsManager();
@@ -97,330 +105,8 @@ const subscriptionManager = new SubscriptionManager();
 
 const postedJobsManager = new PostedJobsManager();
 
-// Determine which location channel a job should go to
-function getJobLocationChannel(job) {
-  const city = (job.job_city || '').toLowerCase().trim();
-  const state = (job.job_state || '').toLowerCase().trim();
-  const title = (job.job_title || '').toLowerCase();
-  const description = (job.job_description || '').toLowerCase();
-  const combined = `${title} ${description} ${city} ${state}`;
-
-  // Priority 0: Check if job has #Remote tag (NEW - 2026-01-23)
-  // Jobs tagged as remote should also appear in remote-usa channel
-  if (job.tags && Array.isArray(job.tags)) {
-    const hasRemoteTag = job.tags.some(tag =>
-      tag.toLowerCase() === 'remote' || tag.toLowerCase().includes('remote')
-    );
-    if (hasRemoteTag) {
-      return LOCATION_CHANNEL_CONFIG['remote-usa'];
-    }
-  }
-
-  // Metro area city matching (comprehensive)
-  const cityMatches = {
-    // San Francisco Bay Area
-    'san francisco': 'san-francisco',
-    'oakland': 'san-francisco',
-    'berkeley': 'san-francisco',
-    'san jose': 'san-francisco',
-    'palo alto': 'san-francisco',
-    'fremont': 'san-francisco',
-    'hayward': 'san-francisco',
-    'richmond': 'san-francisco',
-    'daly city': 'san-francisco',
-    'alameda': 'san-francisco',
-    'cupertino': 'san-francisco',
-    'santa clara': 'san-francisco',
-    'mountain view': 'mountain-view',
-    'sunnyvale': 'sunnyvale',
-    'san bruno': 'san-bruno',
-
-    // NYC Metro Area
-    'new york': 'new-york',
-    'manhattan': 'new-york',
-    'brooklyn': 'new-york',
-    'queens': 'new-york',
-    'bronx': 'new-york',
-    'staten island': 'new-york',
-    'jersey city': 'new-york',
-    'newark': 'new-york',
-    'hoboken': 'new-york',
-    'white plains': 'new-york',
-    'yonkers': 'new-york',
-
-    // Seattle Metro Area
-    'seattle': 'seattle',
-    'bellevue': 'seattle',
-    'tacoma': 'seattle',
-    'everett': 'seattle',
-    'renton': 'seattle',
-    'kent': 'seattle',
-    'redmond': 'redmond',
-
-    // Austin Metro Area
-    'austin': 'austin',
-    'round rock': 'austin',
-    'cedar park': 'austin',
-    'georgetown': 'austin',
-    'pflugerville': 'austin',
-
-    // Chicago Metro Area
-    'chicago': 'chicago',
-    'naperville': 'chicago',
-    'aurora': 'chicago',
-    'joliet': 'chicago',
-    'evanston': 'chicago',
-    'schaumburg': 'chicago',
-
-    // Boston Metro Area
-    'boston': 'boston',
-    'cambridge': 'boston',
-    'somerville': 'boston',
-    'brookline': 'boston',
-    'quincy': 'boston',
-    'newton': 'boston',
-    'waltham': 'boston',
-    'revere': 'boston',
-    'medford': 'boston',
-
-    // Los Angeles Metro Area
-    'los angeles': 'los-angeles',
-    'santa monica': 'los-angeles',
-    'pasadena': 'los-angeles',
-    'long beach': 'los-angeles',
-    'glendale': 'los-angeles',
-    'irvine': 'los-angeles',
-    'anaheim': 'los-angeles',
-    'burbank': 'los-angeles',
-    'torrance': 'los-angeles'
-  };
-
-  // City abbreviations
-  const cityAbbreviations = {
-    'sf': 'san-francisco',
-    'nyc': 'new-york'
-  };
-
-  // 1. Check exact city matches first (most reliable)
-  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
-    if (city.includes(searchCity)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 2. Check abbreviations
-  for (const [abbr, channelKey] of Object.entries(cityAbbreviations)) {
-    if (city === abbr || city.split(/\s+/).includes(abbr)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 3. Check title + description for city names
-  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
-    if (combined.includes(searchCity)) {
-      return LOCATION_CHANNEL_CONFIG[channelKey];
-    }
-  }
-
-  // 4. State-based fallback (for ALL jobs, not just remote)
-  // If we have a state but no specific city match, map to the main city in that state
-  if (state) {
-    if (state === 'ca' || state === 'california') {
-      // CA jobs without specific city go to LA (most CA jobs not in Bay Area)
-      // Bay Area cities already caught by city matching above
-      return LOCATION_CHANNEL_CONFIG['los-angeles'];
-    }
-    if (state === 'ma' || state === 'massachusetts') {
-      return LOCATION_CHANNEL_CONFIG['boston'];
-    }
-    if (state === 'ny' || state === 'new york') {
-      return LOCATION_CHANNEL_CONFIG['new-york'];
-    }
-    if (state === 'tx' || state === 'texas') {
-      return LOCATION_CHANNEL_CONFIG['austin'];
-    }
-    if (state === 'wa' || state === 'washington') {
-      // Check if Redmond is specifically mentioned
-      if (combined.includes('redmond')) {
-        return LOCATION_CHANNEL_CONFIG['redmond'];
-      }
-      return LOCATION_CHANNEL_CONFIG['seattle'];
-    }
-    if (state === 'il' || state === 'illinois') {
-      return LOCATION_CHANNEL_CONFIG['chicago'];
-    }
-  }
-
-  // 5. Remote USA fallback (only if no state/city match)
-  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
-      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
-  }
-
-  // 6. Default fallback: US jobs without specific location channels → remote-usa
-  // This ensures jobs from Phoenix, Denver, Miami, etc. still get posted somewhere
-  // Only apply to confirmed US states to avoid posting Canadian/international jobs
-  const usStates = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt', 'va', 'wa', 'wv', 'wi', 'wy', 'dc',
-    'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota', 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico', 'new york', 'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon', 'pennsylvania', 'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming', 'district of columbia'];
-
-  if (state && usStates.includes(state)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
-  }
-
-  // No location data at all - skip location channels
-  return null;
-}
-
-// Enhanced tag generation
-function generateTags(job) {
-  const tags = [];
-  const title = job.job_title.toLowerCase();
-  const description = (job.job_description || '').toLowerCase();
-  const company = job.employer_name;
-
-  // Experience level tags
-  if (title.includes('senior') || title.includes('sr.') || title.includes('staff') || title.includes('principal')) {
-    tags.push('Senior');
-  } else if (title.includes('junior') || title.includes('jr.') || title.includes('entry') || 
-             title.includes('new grad') || title.includes('graduate')) {
-    tags.push('EntryLevel');
-  } else {
-    tags.push('MidLevel');
-  }
-
-  // Location tags
-  if (description.includes('remote') || title.includes('remote') || 
-      (job.job_city && job.job_city.toLowerCase().includes('remote'))) {
-    tags.push('Remote');
-  }
-  
-  // Add major city tags
-  const majorCities = {
-    'san francisco': 'SF', 'sf': 'SF', 'bay area': 'SF',
-    'new york': 'NYC', 'nyc': 'NYC', 'manhattan': 'NYC',
-    'seattle': 'Seattle', 'bellevue': 'Seattle', 'redmond': 'Seattle',
-    'austin': 'Austin', 'los angeles': 'LA', 'la': 'LA',
-    'boston': 'Boston', 'chicago': 'Chicago', 'denver': 'Denver'
-  };
-  
-  const cityKey = (job.job_city || '').toLowerCase();
-  if (majorCities[cityKey]) {
-    tags.push(majorCities[cityKey]);
-  }
-
-  // Company tier tags
-  if (companies.faang_plus.some(c => c.name === company)) {
-    tags.push('FAANG');
-  } else if (companies.unicorn_startups.some(c => c.name === company)) {
-    tags.push('Unicorn');
-  } else if (companies.fintech.some(c => c.name === company)) {
-    tags.push('Fintech');
-  } else if (companies.gaming.some(c => c.name === company)) {
-    tags.push('Gaming');
-  }
-
-  // Technology/skill tags
-  const techStack = {
-    'react': 'React', 'vue': 'Vue', 'angular': 'Angular',
-    'node': 'NodeJS', 'python': 'Python', 'java': 'Java',
-    'javascript': 'JavaScript', 'typescript': 'TypeScript',
-    'aws': 'AWS', 'azure': 'Azure', 'gcp': 'GCP', 'cloud': 'Cloud',
-    'kubernetes': 'K8s', 'docker': 'Docker', 'terraform': 'Terraform',
-    'machine learning': 'ML', 'ai': 'AI', 'data science': 'DataScience',
-    'ios': 'iOS', 'android': 'Android', 'mobile': 'Mobile',
-    'frontend': 'Frontend', 'backend': 'Backend', 'fullstack': 'FullStack',
-    'devops': 'DevOps', 'security': 'Security', 'blockchain': 'Blockchain'
-  };
-
-  const searchText = `${title} ${description}`;
-  for (const [keyword, tag] of Object.entries(techStack)) {
-    if (searchText.includes(keyword)) {
-      tags.push(tag);
-    }
-  }
-
-  // Role category tags (only if not already added via tech stack)
-  if (!tags.includes('DataScience') && (title.includes('data scientist') || title.includes('analyst'))) {
-    tags.push('DataScience');
-  }
-  if (!tags.includes('ML') && (title.includes('machine learning') || title.includes('ml engineer'))) {
-    tags.push('ML');
-  }
-  if (title.includes('product manager') || title.includes('pm ')) {
-    tags.push('ProductManager');
-  }
-  if (title.includes('designer') || title.includes('ux') || title.includes('ui')) {
-    tags.push('Design');
-  }
-
-  return [...new Set(tags)]; // Remove duplicates
-}
-
-// Enhanced embed builder with auto-generated tags
-function buildJobEmbed(job) {
-  const tags = generateTags(job);
-  const company = companies.faang_plus.find(c => c.name === job.employer_name) ||
-                  companies.unicorn_startups.find(c => c.name === job.employer_name) ||
-                  companies.fintech.find(c => c.name === job.employer_name) ||
-                  companies.gaming.find(c => c.name === job.employer_name) ||
-                  companies.top_tech.find(c => c.name === job.employer_name) ||
-                  companies.enterprise_saas.find(c => c.name === job.employer_name);
-
-  // Build title - only use company emoji if company is found
-  // Note: Don't include emoji in title for forum posts as Discord handles it differently
-  const title = job.job_title;
-
-  const embed = new EmbedBuilder()
-    .setTitle(title)
-    .setURL(sanitizeUrl(job.job_apply_link))
-    .setColor(0x00A8E8)
-    .addFields(
-      { name: '🏢 Company', value: job.employer_name || 'Not specified', inline: true },
-      {
-        name: '📍 Location',
-        value: job._multipleLocations && job._multipleLocations.length > 1
-          ? job._multipleLocations.map(loc => loc.charAt(0).toUpperCase() + loc.slice(1)).join(', ')
-          : (job.job_city && job.job_city.toLowerCase() === 'remote')
-            ? 'Remote'
-            : `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`,
-        inline: true
-      },
-      { name: '💰 Posted', value: formatPostedDate(job.job_posted_at_datetime_utc), inline: true }
-    );
-
-  // Add tags field with hashtag formatting
-  if (tags.length > 0) {
-    embed.addFields({
-      name: '🏷️ Tags',
-      value: tags.map(tag => `#${tag}`).join(' '),
-      inline: false
-    });
-  }
-
-  // Description field removed for cleaner, more concise job posts (2026-01-24)
-  // Matches poster.js behavior - no description in embeds
-
-  return embed;
-}
-
-// Build action row with apply button and subscription toggle
-function buildActionRow(job) {
-  const tags = generateTags(job);
-  
-  const row = new ActionRowBuilder();
-
-  // Only add subscription button if not in GitHub Actions
-  if (!process.env.GITHUB_ACTIONS) {
-    row.addComponents(
-      new ButtonBuilder()
-        .setCustomId(`subscribe_${tags[0] || 'general'}`)
-        .setLabel('🔔 Get Similar Jobs')
-        .setStyle(ButtonStyle.Secondary)
-    );
-  }
-  
-  return row;
-}
+// NOTE: getJobLocationChannel() is now imported from src/routing/location.js
+// Location routing logic extracted to src/routing/location.js (152 lines removed)
 
 // Slash command definitions
 const commands = [
@@ -541,6 +227,25 @@ client.once('ready', async () => {
       console.log(`✅ Guild found: ${guild.name}`);
       await guild.channels.fetch();
       console.log(`✅ Loaded ${guild.channels.cache.size} channels from guild`);
+
+      // Validate all required channels exist
+      console.log('\n🔍 Validating Discord channels...');
+      const channelValidation = await validateChannels(guild);
+      if (!channelValidation.valid) {
+        console.error('[BOT ERROR] ❌ Channel validation failed:');
+        console.error(`   Missing channels: ${channelValidation.missing.length}`);
+        channelValidation.missing.forEach(ch => console.error(`   - ${ch}`));
+
+        if (channelValidation.accessible.length > 0) {
+          console.log(`\n✅ Accessible channels (${channelValidation.accessible.length}):`);
+          channelValidation.accessible.forEach(ch => console.log(`   - ${ch}`));
+        }
+
+        console.error('\n⚠️ Bot will attempt to post to accessible channels only');
+        console.error('   Jobs requiring missing channels will be skipped');
+      } else {
+        console.log(`✅ All required channels accessible (${channelValidation.accessible.length})`);
+      }
     } catch (error) {
       console.error(`❌ Failed to fetch guild channels: ${error.message}`);
       console.error(`   Error code: ${error.code}`);
@@ -548,6 +253,56 @@ client.once('ready', async () => {
     }
   } else {
     console.warn(`⚠️ DISCORD_GUILD_ID not set`);
+  }
+
+  /**
+   * Validate that all required Discord channels are accessible
+   * @param {Guild} guild - Discord guild object
+   * @returns {Object} Validation result with lists of accessible/missing channels
+   */
+  async function validateChannels(guild) {
+    const requiredChannels = new Set();
+
+    // Collect all channel names from config
+    if (MULTI_CHANNEL_MODE) {
+      Object.values(CHANNEL_CONFIG).forEach(ch => {
+        if (ch.channelName) requiredChannels.add(ch.channelName);
+      });
+    }
+
+    if (LOCATION_MODE_ENABLED) {
+      Object.values(LOCATION_CHANNEL_CONFIG).forEach(ch => {
+        if (ch.channelName) requiredChannels.add(ch.channelName);
+      });
+    }
+
+    // Also check legacy single channel if set
+    if (LEGACY_CHANNEL_ID) {
+      const legacyChannel = await client.channels.fetch(LEGACY_CHANNEL_ID).catch(() => null);
+      if (!legacyChannel) {
+        requiredChannels.add('legacy-channel-id');
+      }
+    }
+
+    const accessible = [];
+    const missing = [];
+
+    // Validate each channel
+    for (const channelName of requiredChannels) {
+      const channel = guild.channels.cache.find(ch => ch.name === channelName);
+      if (channel) {
+        accessible.push(channelName);
+      } else {
+        missing.push(channelName);
+      }
+    }
+
+    return {
+      valid: missing.length === 0,
+      accessible,
+      missing,
+      total: requiredChannels.size
+    };
   }
 
   // Only register commands if running interactively (not in GitHub Actions)
@@ -558,14 +313,25 @@ client.once('ready', async () => {
   // Load jobs to post
   let jobs = [];
   try {
-    const newJobsPath = path.join(dataDir, 'new_jobs.json');
-    if (fs.existsSync(newJobsPath)) {
-      jobs = JSON.parse(fs.readFileSync(newJobsPath, 'utf8'));
-      // Normalize jobs to handle multiple data formats
-      jobs = jobs.map(job => normalizeJob(job));
+    // Load from pending_posts.json and filter for enriched jobs ready to post
+    const pendingQueue = loadPendingQueue();
+    
+    // Filter for jobs with status "enriched" (ready to post)
+    const enrichedJobs = pendingQueue.filter(item => item.status === 'enriched');
+    
+    console.log(`[BOT] 📬 Found ${enrichedJobs.length} enriched jobs ready to post from pending queue`);
+    
+    // Extract job objects and normalize
+    jobs = enrichedJobs.map(item => {
+      const job = item.job || item;
+      return normalizeJob(job);
+    });
+    
+    if (enrichedJobs.length > 0) {
+      console.log(`[BOT] 🔍 Sample enriched job: ${jobs[0]?.job_title} at ${jobs[0]?.employer_name}`);
     }
   } catch (error) {
-    console.log('ℹ️ No new jobs file found or error reading it');
+    console.log('ℹ️ No pending queue found or error reading it');
     console.error('🔍 DEBUG - Full error:', error.message);
     console.error('🔍 DEBUG - Error stack:', error.stack);
     client.destroy();
@@ -574,17 +340,9 @@ client.once('ready', async () => {
   }
 
   if (!jobs.length) {
-    console.log('ℹ️ No new jobs to post');
+    console.log('ℹ️ No enriched jobs to post');
     client.destroy();
     process.exit(0);
-    return;
-  }
-
-  // Export all jobs to encrypted JSON for external job boards
-  try {
-    jobsExporter.exportJobs(jobs);
-  } catch (error) {
-    console.log('⚠️ Failed to export jobs data:', error.message);
   }
 
   // Filter out jobs that have already been posted to Discord
@@ -619,64 +377,68 @@ client.once('ready', async () => {
 
   console.log(`📬 Found ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
 
-  // Hardcoded job filters: Skip specific problematic jobs
-  const jobBlacklist = [
-    // Non-entry level roles disguised as internships
-    { title: 'principal', company: '' },
-    { title: 'senior', company: '' },
-    { title: 'lead', company: '' },
-    { title: 'manager', company: '' },
-    { title: 'director', company: '' },
-    { title: 'staff', company: '' }, // Staff engineer = mid/senior level
-
-    // Academic/research roles (not internships)
-    { title: 'postdoc', company: '' },
-    { title: 'postdoctoral', company: '' },
-    { title: 'post-doctoral', company: '' },
-    { title: 'phd required', company: '' },
-    { title: 'doctoral degree required', company: '' },
-
-    // Specific problematic postings
-    { title: 'agentic ai teacher', company: 'amazon' } // All variations including "- Agi Ds"
-  ];
-
-  const filteredJobs = unpostedJobs.filter(job => {
+  // Apply blacklist filter using extracted module
+  const blacklistResult = filterBlacklisted(unpostedJobs, (job) => {
     const jobId = generateJobId(job);
-    const titleLower = (job.job_title || '').toLowerCase();
-    const companyLower = (job.employer_name || '').toLowerCase();
+    console.log(`🚫 Skipping blacklisted job: ${job.job_title} at ${job.employer_name}`);
+    postLogger.logSkip(job, jobId, 'blacklisted');
+  });
+  const filteredJobs = blacklistResult.filtered;
 
-    // Check if job matches any blacklist entry
-    const isBlacklisted = jobBlacklist.some(blacklisted => {
-      return titleLower.includes(blacklisted.title) && companyLower.includes(blacklisted.company);
-    });
-
-    if (isBlacklisted) {
-      console.log(`🚫 Skipping blacklisted job: ${job.job_title} at ${job.employer_name}`);
-      postLogger.logSkip(job, jobId, 'blacklisted');
-      return false;
+  // Remove blacklisted jobs from pending queue immediately (FIX: prevent queue blocking)
+  if (blacklistResult.blacklisted.length > 0) {
+    try {
+      const blacklistedJobIds = blacklistResult.blacklisted.map(job => generateJobId(job));
+      let queue = loadPendingQueue();
+      const beforeCount = queue.length;
+      queue = queue.filter(item => {
+        const itemJobId = generateJobId(item.job);
+        return !blacklistedJobIds.includes(itemJobId);
+      });
+      const removedCount = beforeCount - queue.length;
+      if (removedCount > 0) {
+        savePendingQueue(queue);
+        console.log(`🗑️ Removed ${removedCount} blacklisted jobs from pending queue`);
+      }
+    } catch (error) {
+      console.error('⚠️ Error cleaning blacklisted jobs from queue:', error.message);
     }
+  }
 
-    return true;
+  console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${blacklistResult.blacklisted.length} blacklisted)`);
+
+  // Apply data quality filter using extracted module
+  const qualityResult = filterByDataQuality(filteredJobs, ['job_title', 'employer_name']);
+  const validJobs = qualityResult.valid;
+
+  // Log skipped invalid jobs
+  qualityResult.invalid.forEach(({ job, missingFields }) => {
+    const jobId = generateJobId(job);
+    console.log(`⚠️ Skipping malformed job: missing ${missingFields.join(', ')}`);
+    postLogger.logSkip(job, jobId, 'invalid_data');
   });
 
-  console.log(`📋 After blacklist filter: ${filteredJobs.length} jobs (${unpostedJobs.length - filteredJobs.length} blacklisted)`);
-
-  // Data quality filter: Skip jobs with missing or empty required fields
-  const validJobs = filteredJobs.filter(job => {
-    const jobId = generateJobId(job);
-    const title = (job.job_title || '').trim();
-    const company = (job.employer_name || '').trim();
-
-    if (!title || !company) {
-      console.log(`⚠️ Skipping malformed job: title="${title}" company="${company}"`);
-      postLogger.logSkip(job, jobId, 'invalid_data');
-      return false;
+  // Remove invalid jobs from pending queue (FIX: prevent queue blocking)
+  if (qualityResult.invalid.length > 0) {
+    try {
+      const invalidJobIds = qualityResult.invalid.map(({ job }) => generateJobId(job));
+      let queue = loadPendingQueue();
+      const beforeCount = queue.length;
+      queue = queue.filter(item => {
+        const itemJobId = generateJobId(item.job);
+        return !invalidJobIds.includes(itemJobId);
+      });
+      const removedCount = beforeCount - queue.length;
+      if (removedCount > 0) {
+        savePendingQueue(queue);
+        console.log(`🗑️ Removed ${removedCount} invalid jobs from pending queue`);
+      }
+    } catch (error) {
+      console.error('⚠️ Error cleaning invalid jobs from queue:', error.message);
     }
+  }
 
-    return true;
-  });
-
-  console.log(`📋 After data quality filter: ${validJobs.length} jobs (${filteredJobs.length - validJobs.length} invalid)`);
+  console.log(`📋 After data quality filter: ${validJobs.length} jobs (${qualityResult.invalid.length} invalid)`);
 
   // Multi-location grouping: Group jobs by title+company, collect all unique locations
   // Instead of posting the same job 3 times for 3 cities, post once with all locations listed
@@ -977,20 +739,10 @@ client.once('ready', async () => {
           }
         }
 
-        // Mark as posted if at least one post succeeded
+        // Count as posted if at least one post succeeded
+        // NOTE: Job tracking is already handled by markAsPostedToChannel() calls above (lines 721, 796)
+        // Removing duplicate markAsPosted() call that was creating empty discordPosts records
         if (jobPostedSuccessfully) {
-          postedJobsManager.markAsPosted(jobId, job, primaryThreadId);
-
-          // Also mark all location variants as posted (for multi-location grouping)
-          if (job._allJobVariants && job._allJobVariants.length > 1) {
-            job._allJobVariants.forEach(variant => {
-              const variantId = generateJobId(variant);
-              if (variantId !== jobId) {
-                postedJobsManager.markAsPosted(variantId, variant, null);
-              }
-            });
-          }
-
           totalPosted++;
         } else {
           totalFailed++;
@@ -1002,6 +754,28 @@ client.once('ready', async () => {
     }
 
     console.log(`\n🎉 Posting complete! Successfully posted: ${totalPosted}, Failed: ${totalFailed}`);
+
+    // Collect Discord bot metrics
+    collectDiscordMetrics({
+      total_posted: totalPosted,
+      total_failed: totalFailed,
+      avg_latency_ms: 0, // TODO: Track latency in posting functions
+      rate_limit_hits: 0 // TODO: Track rate limit hits
+    });
+
+    // Collect per-channel metrics
+    for (const [channelId, channelData] of Object.entries(jobsByChannel)) {
+      const channel = client.channels.cache.get(channelId);
+      if (channel) {
+        collectChannelMetrics({
+          channel_id: channelId,
+          channel_name: channel.name,
+          posts_count: channelData.jobs.length,
+          thread_count: 0, // TODO: Track active threads
+          utilization: 0 // TODO: Calculate utilization
+        });
+      }
+    }
   } else {
     // Legacy single-channel mode
     console.log('📝 Single-channel mode - posting to configured channel');
@@ -1018,30 +792,46 @@ client.once('ready', async () => {
     for (const job of jobsToPost) {
       try {
         const jobId = generateJobId(job);
+        const tags = generateTags(job);
+        const embed = buildJobEmbed(job);
+        const actionRow = buildActionRow(job);
 
-        // Use the unified postJobToForum function which handles both forum and text channels
-        const result = await postJobToForum(job, channel);
+        // Get users subscribed to these tags (only if not in GitHub Actions)
+        let content = '';
 
-        if (result.success) {
-          // Mark this job as posted AFTER successful posting
-          // Pass job object and thread/message ID to markAsPosted
-          const threadId = result.thread?.id || result.message?.id || null;
-          postedJobsManager.markAsPosted(jobId, job, threadId);
-
-          // Also mark all location variants as posted (for multi-location grouping)
-          if (job._allJobVariants && job._allJobVariants.length > 1) {
-            job._allJobVariants.forEach(variant => {
-              const variantId = generateJobId(variant);
-              if (variantId !== jobId) {
-                postedJobsManager.markAsPosted(variantId, variant, threadId);
-              }
-            });
+        if (!process.env.GITHUB_ACTIONS) {
+          const subscribedUsers = subscriptionManager.getUsersForTags(tags);
+          if (subscribedUsers.length > 0) {
+            content = `🔔 ${subscribedUsers.map(id => `<@${id}>`).join(' ')} - New job matching your subscriptions!`;
           }
-
-          console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
-        } else {
-          console.error(`❌ Error posting job ${job.job_title}:`, result.error);
         }
+
+        const messageData = {
+          content,
+          embeds: [embed]
+        };
+
+        // Only add components if actionRow has buttons
+        if (actionRow.components.length > 0) {
+          messageData.components = [actionRow];
+        }
+
+        const message = await channel.send(messageData);
+
+        // Mark this job as posted AFTER successful posting
+        postedJobsManager.markAsPosted(jobId);
+        
+        // Also mark all location variants as posted (for multi-location grouping)
+        if (job._allJobVariants && job._allJobVariants.length > 1) {
+          job._allJobVariants.forEach(variant => {
+            const variantId = generateJobId(variant);
+            if (variantId !== jobId) {
+              postedJobsManager.markAsPosted(variantId);
+            }
+          });
+        }
+
+        console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
 
         // Small delay to avoid rate limits
         await new Promise(resolve => setTimeout(resolve, 1000));
@@ -1278,84 +1068,8 @@ client.on('interactionCreate', async interaction => {
 });
 
 // Function to post job to forum channel
-async function postJobToForum(job, channel) {
-  try {
-    const jobId = generateJobId(job);
-    const embed = buildJobEmbed(job);
-    const actionRow = buildActionRow(job);
-    const tags = generateTags(job);
-
-    // Find company emoji if available
-    const company = companies.faang_plus.find(c => c.name === job.employer_name) ||
-                    companies.unicorn_startups.find(c => c.name === job.employer_name) ||
-                    companies.fintech.find(c => c.name === job.employer_name) ||
-                    companies.gaming.find(c => c.name === job.employer_name) ||
-                    companies.top_tech.find(c => c.name === job.employer_name) ||
-                    companies.enterprise_saas.find(c => c.name === job.employer_name);
-
-    // Create forum post title with company emoji if available
-    // Format: [emoji] Job Title @ Company Name
-    const companyEmoji = company ? company.emoji : '🏢';
-    const threadName = `${companyEmoji} ${job.job_title} @ ${job.employer_name}`.substring(0, 100);
-
-    // Build message data
-    const messageData = {
-      embeds: [embed]
-    };
-
-    // Only add components if actionRow has buttons
-    if (actionRow.components.length > 0) {
-      messageData.components = [actionRow];
-    }
-
-    // Check if this is a forum channel
-    if (channel.type === ChannelType.GuildForum) {
-      // Determine tags for the forum post based on job characteristics
-      const appliedTags = [];
-
-      // Try to find matching forum tags (these need to be pre-configured in Discord)
-      // Forum channels can have predefined tags that can be applied to posts
-      if (channel.availableTags && channel.availableTags.length > 0) {
-        // Match job tags with forum tags
-        for (const tag of tags) {
-          const forumTag = channel.availableTags.find(t =>
-            t.name.toLowerCase() === tag.toLowerCase() ||
-            t.name.toLowerCase().includes(tag.toLowerCase())
-          );
-          if (forumTag && appliedTags.length < 5) { // Discord allows max 5 tags
-            appliedTags.push(forumTag.id);
-          }
-        }
-      }
-
-      // Create a new forum post
-      const threadOptions = {
-        name: threadName,
-        message: messageData,
-        autoArchiveDuration: 1440, // Archive after 1 day of inactivity (was 4320/3 days - hitting Discord's 1000 active thread limit)
-        reason: `New job posting: ${job.job_title} at ${job.employer_name}`
-      };
-
-      // Add tags if any were found
-      if (appliedTags.length > 0) {
-        threadOptions.appliedTags = appliedTags;
-      }
-
-      const thread = await channel.threads.create(threadOptions);
-
-      console.log(`✅ Created forum post: ${threadName} in #${channel.name}`);
-      return { success: true, thread };
-    } else {
-      // Fallback for regular text channels (legacy support)
-      const message = await channel.send(messageData);
-      console.log(`✅ Posted message: ${job.job_title} at ${job.employer_name} in #${channel.name}`);
-      return { success: true, message };
-    }
-  } catch (error) {
-    console.error(`❌ Error posting job ${job.job_title}:`, error);
-    return { success: false, error };
-  }
-}
+// NOTE: postJobToForum() is now imported from src/discord/forum-poster.js
+// Forum posting logic extracted (78 lines removed)
 
 // Error handling
 client.on('error', error => {
