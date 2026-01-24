@@ -1,7 +1,7 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2026-01-24T08:31:12.769Z",
-  "totalPosts": 6455,
+  "lastUpdated": "2026-01-24T11:35:21.002Z",
+  "totalPosts": 6457,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
@@ -124,9 +124,9 @@
       "lastPost": "2026-01-24T02:46:24.862Z"
     },
     "1464303522177614001": {
-      "name": "remote-usa-internships",
-      "posts": 19,
-      "lastPost": "2026-01-24T03:19:47.185Z"
+      "name": "🏠・remote-usa-internships",
+      "posts": 20,
+      "lastPost": "2026-01-24T11:35:21.002Z"
     },
     "1464303204178067620": {
       "name": "ai-internships",
@@ -139,9 +139,9 @@
       "lastPost": "2026-01-24T08:31:12.769Z"
     },
     "1464303312626122855": {
-      "name": "marketing-internships",
-      "posts": 2,
-      "lastPost": "2026-01-24T02:46:36.057Z"
+      "name": "📣・marketing-internships",
+      "posts": 3,
+      "lastPost": "2026-01-24T11:35:19.311Z"
     }
   }
 }
