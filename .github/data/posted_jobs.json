@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-23T23:40:14.904Z",
+  "lastUpdated": "2026-01-24T00:06:45.456Z",
   "jobs": [
-    {
-      "id": "ccc-intelligent-r-d-intern-chicago-2026-01-17-1",
-      "jobId": "ccc-intelligent-r-d-intern-chicago",
-      "company": " CCC Intelligent Solutions",
-      "title": "R&D Intern",
-      "postedToDiscord": "2026-01-17T00:06:27.913Z",
-      "sourceDate": "2026-01-16T23:25:31.000Z",
-      "sourceUrl": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D-Intern_0014392",
-      "discordThreadId": "1461874262196617524",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tiktok-machine-learning-engineer-intern-commerce-ads-2026-summer-san-jose-2026-01-17-1",
-      "jobId": "tiktok-machine-learning-engineer-intern-commerce-ads-2026-summer-san-jose",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - Commerce Ads - 2026 Summer",
-      "postedToDiscord": "2026-01-17T00:06:31.590Z",
-      "sourceDate": "2026-01-16T23:18:47.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7595346361319491893",
-      "discordThreadId": "1461874277602169066",
-      "instanceNumber": 1
-    },
-    {
-      "id": "magna-manufacturing-execution-systems-intern-mes-troy-2026-01-17-1",
-      "jobId": "magna-manufacturing-execution-systems-intern-mes-troy",
-      "company": "Magna",
-      "title": "Manufacturing Execution Systems Intern - MES",
-      "postedToDiscord": "2026-01-17T00:06:35.212Z",
-      "sourceDate": "2026-01-16T23:17:07.000Z",
-      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Manufacturing-Execution-Systems--MES--Intern---Summer-2026_R00225590",
-      "discordThreadId": "1461874292785418462",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bmo-ai-developer-internship-berkeley-heights-2026-01-17-1",
-      "jobId": "bmo-ai-developer-internship-berkeley-heights",
-      "company": "BMO ",
-      "title": "AI Developer Internship",
-      "postedToDiscord": "2026-01-17T00:06:38.676Z",
-      "sourceDate": "2026-01-16T23:13:40.000Z",
-      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Berkeley-Heights-NJ-USA/AI-Developer--Summer-2026--Internship----10-Weeks_R260001803",
-      "discordThreadId": "1461874308011004056",
-      "instanceNumber": 1
-    },
     {
       "id": "microsoft-data-engineering-intern-redmond-2026-01-17-1",
       "jobId": "microsoft-data-engineering-intern-redmond",
@@ -21671,14 +21627,80 @@
       "sourceUrl": "https://jmp-sas.icims.com/jobs/41235/job?mobile=true&needsRedirect=false",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "vystar-credit-union-intern-advance-analytics-jacksonville-2026-01-24-1",
+      "jobId": "vystar-credit-union-intern-advance-analytics-jacksonville",
+      "company": "VyStar Credit Union",
+      "title": "Intern-Advance Analytics",
+      "postedToDiscord": "2026-01-24T00:06:27.236Z",
+      "sourceDate": "2026-01-23T23:36:08.000Z",
+      "sourceUrl": "https://vystarcu.wd1.myworkdayjobs.com/careers/job/Jacksonville-FL---VyStar-Tower/VyStar-Intern-Advance-Analytics_R0011472",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "veolia-intern-membrane-application-engineer-hopkins-2026-01-24-1",
+      "jobId": "veolia-intern-membrane-application-engineer-hopkins",
+      "company": "Veolia",
+      "title": "Intern – Membrane Application Engineer",
+      "postedToDiscord": "2026-01-24T00:06:30.787Z",
+      "sourceDate": "2026-01-23T23:19:05.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000105212925",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "cibc-northeastern-co-op-software-engineer-chicago-chicago-2026-01-24-1",
+      "jobId": "cibc-northeastern-co-op-software-engineer-chicago-chicago",
+      "company": "CIBC",
+      "title": "Northeastern Co-op Software Engineer Chicago",
+      "postedToDiscord": "2026-01-24T00:06:32.459Z",
+      "sourceDate": "2026-01-23T23:14:42.000Z",
+      "sourceUrl": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/Northeastern-Co-op-Software-Engineer-Chicago_2601701",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "lamb-weston-ag-intern-analytics-kennewick-2026-01-24-1",
+      "jobId": "lamb-weston-ag-intern-analytics-kennewick",
+      "company": "Lamb Weston",
+      "title": "Ag Intern Analytics",
+      "postedToDiscord": "2026-01-24T00:06:37.226Z",
+      "sourceDate": "2026-01-23T23:30:02.000Z",
+      "sourceUrl": "https://lambweston.wd1.myworkdayjobs.com/lamb_external/job/Kennewick-WA-USA-Kennewick-Office/Ag-Intern--Analytics_Req-259829-2",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "perpay-software-engineering-internship-philadelphia-2026-01-24-1",
+      "jobId": "perpay-software-engineering-internship-philadelphia",
+      "company": "Perpay",
+      "title": "Software Engineering Internship",
+      "postedToDiscord": "2026-01-24T00:06:40.713Z",
+      "sourceDate": "2025-09-12T14:27:21.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "ut-southwestern-medical-center-computational-scientist-biohpc-dallas-2026-01-24-1",
+      "jobId": "ut-southwestern-medical-center-computational-scientist-biohpc-dallas",
+      "company": "UT Southwestern Medical Center",
+      "title": "Computational Scientist BioHPC",
+      "postedToDiscord": "2026-01-24T00:06:45.455Z",
+      "sourceDate": "2026-01-23T23:11:17.000Z",
+      "sourceUrl": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=250000NE",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1970,
+    "totalJobs": 1972,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-23T23:40:14.904Z",
+      "date": "2026-01-24T00:06:45.456Z",
       "archived": 0
     }
   }
