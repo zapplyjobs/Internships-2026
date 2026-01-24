@@ -96,7 +96,6 @@ class PostedJobsManagerV2 {
       postedToDiscord: eightDaysAgo, // 8 days ago (will be archived on next save)
       sourceDate: null,
       sourceUrl: null,
-      source: 'unknown',
       discordThreadId: null,
       instanceNumber: 1
     }));
@@ -206,9 +205,10 @@ class PostedJobsManagerV2 {
       postedToDiscord: now,
       sourceDate: jobData.job_posted_at_datetime_utc || null,
       sourceUrl: jobData.job_apply_link || null,
-      source: jobData.job_source || 'unknown',
       discordThreadId: discordThreadId,
-      instanceNumber: instanceNumber
+      instanceNumber: instanceNumber,
+      // NEW: Multi-channel tracking
+      discordPosts: {} // Will be populated by markAsPostedToChannel()
     };
 
     this.data.jobs.push(newJob);
@@ -218,6 +218,151 @@ class PostedJobsManagerV2 {
     console.log(`💾 Marked as posted: ${jobData.job_title} @ ${jobData.employer_name} (instance #${instanceNumber})`);
 
     this.savePostedJobs();
+  }
+
+  /**
+   * Mark job as posted to a specific Discord channel (NEW for multi-channel tracking)
+   *
+   * @param {object} jobData - Full job data from API
+   * @param {string} messageId - Discord message ID
+   * @param {string} channelId - Discord channel ID
+   * @param {string} channelType - Channel type ('category' or 'location')
+   * @returns {boolean} - Success status
+   */
+  markAsPostedToChannel(jobData, messageId, channelId, channelType) {
+    const now = new Date().toISOString();
+    const jobId = this.generateJobId(jobData);
+
+    // Find existing job record (from current active window)
+    let jobRecord = this.data.jobs.find(job =>
+      job.jobId === jobId &&
+      new Date(job.postedToDiscord) > new Date(Date.now() - this.activeWindowDays * 24 * 60 * 60 * 1000)
+    );
+
+    if (!jobRecord) {
+      // First posting of this job - create new record
+      const existingInstances = this.data.jobs.filter(job => job.jobId === jobId);
+      const instanceNumber = existingInstances.length + 1;
+      const instanceId = `${jobId}-${now.split('T')[0]}-${instanceNumber}`;
+
+      jobRecord = {
+        id: instanceId,
+        jobId: jobId,
+        company: jobData.employer_name || 'Unknown',
+        title: jobData.job_title || 'Unknown',
+        postedToDiscord: now,
+        sourceDate: jobData.job_posted_at_datetime_utc || null,
+        sourceUrl: jobData.job_apply_link || null,
+        discordPosts: {},
+        instanceNumber: instanceNumber
+      };
+
+      this.data.jobs.push(jobRecord);
+      this.data.metadata.totalJobs = this.data.jobs.length;
+    }
+
+    // Add this channel's posting to the record
+    if (!jobRecord.discordPosts) {
+      jobRecord.discordPosts = {};
+    }
+
+    // Calculate channel job number
+    const channelJobNumber = this.getChannelJobNumber(channelId);
+
+    jobRecord.discordPosts[channelId] = {
+      messageId: messageId,
+      channelType: channelType,
+      postedAt: now,
+      channelJobNumber: channelJobNumber
+    };
+
+    this.data.lastUpdated = now;
+
+    const channelCount = Object.keys(jobRecord.discordPosts).length;
+    console.log(`💾 Added channel posting: ${jobData.job_title} @ ${jobData.employer_name} → ${channelType} channel (${channelCount} total channels)`);
+
+    this.savePostedJobs();
+    return true;
+  }
+
+  /**
+   * Check if job has been posted to a specific channel (NEW for multi-channel tracking)
+   *
+   * @param {object} jobData - Full job data from API
+   * @param {string} channelId - Discord channel ID to check
+   * @returns {boolean} - true if already posted to this channel
+   */
+  hasBeenPostedToChannel(jobData, channelId) {
+    const jobId = this.generateJobId(jobData);
+
+    // Find active job record
+    const jobRecord = this.data.jobs.find(job =>
+      job.jobId === jobId &&
+      new Date(job.postedToDiscord) > new Date(Date.now() - this.activeWindowDays * 24 * 60 * 60 * 1000)
+    );
+
+    if (!jobRecord) {
+      return false;
+    }
+
+    // Check if posted to this specific channel
+    return !!(jobRecord.discordPosts && jobRecord.discordPosts[channelId]);
+  }
+
+  /**
+   * Get the next job number for a specific channel (NEW for job numbering)
+   * Counts all jobs posted to this channel across all job records
+   *
+   * @param {string} channelId - Discord channel ID
+   * @returns {number} - Next job number for this channel
+   */
+  getChannelJobNumber(channelId) {
+    // Count all existing posts to this channel (including archived)
+    let count = 0;
+
+    // Count from active jobs
+    for (const job of this.data.jobs) {
+      if (job.discordPosts && job.discordPosts[channelId]) {
+        count++;
+      }
+    }
+
+    // Also check archives to get accurate historical count
+    if (fs.existsSync(this.archiveDir)) {
+      const archiveFiles = fs.readdirSync(this.archiveDir);
+      for (const file of archiveFiles) {
+        if (file.endsWith('.json')) {
+          try {
+            const archivePath = path.join(this.archiveDir, file);
+            const archiveJobs = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
+            if (Array.isArray(archiveJobs)) {
+              for (const job of archiveJobs) {
+                if (job.discordPosts && job.discordPosts[channelId]) {
+                  count++;
+                }
+              }
+            }
+          } catch (error) {
+            console.error(`⚠️  Error reading archive ${file}:`, error.message);
+          }
+        }
+      }
+    }
+
+    // Return next number (count + 1)
+    return count + 1;
+  }
+
+  /**
+   * Generate unique job ID from job data (hash of company + title + URL)
+   *
+   * @param {object} jobData - Full job data from API
+   * @returns {string} - Unique job identifier
+   */
+  generateJobId(jobData) {
+    const crypto = require('crypto');
+    const key = `${jobData.employer_name}|${jobData.job_title}|${jobData.job_apply_link}`;
+    return crypto.createHash('sha256').update(key).digest('hex').substring(0, 16);
   }
 
   /**
