@@ -758,25 +758,5 @@
     "addedAt": "2026-01-24T01:16:51.770Z",
     "enrichedAt": "2026-01-24T01:17:53.377Z",
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Systems Engineering Intern - Compliance Coverage ML",
-      "employer_name": "Nuro",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "TechCrunch, April 9, 2025Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech",
-      "job_apply_link": "https://nuro.ai/careersitem?gh_jid=7562197",
-      "job_posted_at_datetime_utc": "2026-01-24T07:36:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nuro-systems-engineering-intern-compliance-coverage-ml-mountain-view",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-24T08:31:09.650Z",
-    "enrichedAt": "2026-01-24T08:31:09.864Z",
-    "postedAt": "2026-01-24T08:31:17.298Z"
   }
 ]
