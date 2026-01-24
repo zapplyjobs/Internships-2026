@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T01:18:21.365Z",
+  "lastUpdated": "2026-01-24T02:00:29.364Z",
   "jobs": [
-    {
-      "id": "the-boeing-company-data-engineering-intern-richmond-2026-01-17-1",
-      "jobId": "the-boeing-company-data-engineering-intern-richmond",
-      "company": "The Boeing Company",
-      "title": "Data Engineering Intern",
-      "postedToDiscord": "2026-01-17T01:48:15.796Z",
-      "sourceDate": "2026-01-16T23:33:54.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineering-Intern_JR2025489159-1",
-      "discordThreadId": "1461899881252655189",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-boeing-company-data-science-intern-richmond-2026-01-17-1",
-      "jobId": "the-boeing-company-data-science-intern-richmond",
-      "company": "The Boeing Company",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2026-01-17T01:48:19.141Z",
-      "sourceDate": "2026-01-16T23:33:53.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2025489157-1",
-      "discordThreadId": "1461899895270150270",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-packaging-research-engineering-intern-design-digital-atlanta-2026-01-17-1",
-      "jobId": "the-coca-cola-company-packaging-research-engineering-intern-design-digital-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Packaging Research & Engineering Intern - Design & Digital",
-      "postedToDiscord": "2026-01-17T01:48:22.472Z",
-      "sourceDate": "2026-01-16T23:28:49.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Packaging-Research---Engineering-Intern--Design---Digital_R-133495",
-      "discordThreadId": "1461899909631316112",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-boeing-company-data-science-business-operations-intern-richmond-2026-01-17-1",
-      "jobId": "the-boeing-company-data-science-business-operations-intern-richmond",
-      "company": "The Boeing Company",
-      "title": "Data Science Business Operations Intern",
-      "postedToDiscord": "2026-01-17T01:48:28.898Z",
-      "sourceDate": "2026-01-16T23:33:53.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Business-Operations-Intern_JR2025489154-1",
-      "discordThreadId": "1461899936248496171",
-      "instanceNumber": 1
-    },
-    {
-      "id": "radiance-reverse-engineer-huntsville-2026-01-17-1",
-      "jobId": "radiance-reverse-engineer-huntsville",
-      "company": "Radiance Technologies",
-      "title": "Reverse Engineer",
-      "postedToDiscord": "2026-01-17T01:48:35.359Z",
-      "sourceDate": "2026-01-16T23:32:12.000Z",
-      "sourceUrl": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Reverse-Engineer-Intern_HR101960",
-      "discordThreadId": "1461899963549225011",
-      "instanceNumber": 1
-    },
-    {
-      "id": "foley-hoag-data-strategy-and-analytics-intern-boston-2026-01-17-1",
-      "jobId": "foley-hoag-data-strategy-and-analytics-intern-boston",
-      "company": "Foley Hoag",
-      "title": "Data Strategy and Analytics Intern",
-      "postedToDiscord": "2026-01-17T01:48:38.880Z",
-      "sourceDate": "2026-01-16T23:28:52.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/foleyhoag/jobs/4107056009",
-      "discordThreadId": "1461899977646407752",
-      "instanceNumber": 1
-    },
-    {
-      "id": "geneva-trading-intern-c-developer-chicago-2026-01-17-1",
-      "jobId": "geneva-trading-intern-c-developer-chicago",
-      "company": "Geneva Trading",
-      "title": "Intern – C++ Developer",
-      "postedToDiscord": "2026-01-17T01:48:42.871Z",
-      "sourceDate": "2025-09-03T22:23:19.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/genevatrading/jobs/4843927007",
-      "discordThreadId": "1461899993345429544",
-      "instanceNumber": 1
-    },
-    {
-      "id": "detroit-lions-game-event-production-intern-detroit-2026-01-17-1",
-      "jobId": "detroit-lions-game-event-production-intern-detroit",
-      "company": "Detroit Lions",
-      "title": "Game & Event Production Intern",
-      "postedToDiscord": "2026-01-17T01:48:49.421Z",
-      "sourceDate": "2026-01-16T23:31:50.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/detroitlions/jobs/4650387005",
-      "discordThreadId": "1461900022147846186",
-      "instanceNumber": 1
-    },
     {
       "id": "intuit-data-science-intern-identity-analytics-san-diego-2026-01-17-1",
       "jobId": "intuit-data-science-intern-identity-analytics-san-diego",
@@ -21682,14 +21594,58 @@
       "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7531477",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "block-mobile-software-engineer-intern-summer-2026-oakland-2026-01-24-1",
+      "jobId": "block-mobile-software-engineer-intern-summer-2026-oakland",
+      "company": "Block",
+      "title": "Mobile Software Engineer Intern - Summer 2026",
+      "postedToDiscord": "2026-01-24T02:00:19.199Z",
+      "sourceDate": "2026-01-23T23:33:05.000Z",
+      "sourceUrl": "http://block.xyz/careers/jobs/5083061008?gh_jid=5083061008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "matx-ml-research-intern-mountain-view-2026-01-24-1",
+      "jobId": "matx-ml-research-intern-mountain-view",
+      "company": "MatX",
+      "title": "ML Research Intern",
+      "postedToDiscord": "2026-01-24T02:00:21.184Z",
+      "sourceDate": "2026-01-23T23:32:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/matx/jobs/5085215008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-trade-desk-2026-software-engineering-internship-irvine-2026-01-24-1",
+      "jobId": "the-trade-desk-2026-software-engineering-internship-irvine",
+      "company": "The Trade Desk",
+      "title": "2026 Software Engineering Internship",
+      "postedToDiscord": "2026-01-24T02:00:22.936Z",
+      "sourceDate": "2025-07-22T01:21:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-walt-disney-company-commercial-data-science-intern-celebration-2026-01-24-1",
+      "jobId": "the-walt-disney-company-commercial-data-science-intern-celebration",
+      "company": "The Walt Disney Company",
+      "title": "Commercial Data Science Intern",
+      "postedToDiscord": "2026-01-24T02:00:29.364Z",
+      "sourceDate": "2026-01-23T23:32:30.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Summer-Fall-2026_10140147",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1971,
+    "totalJobs": 1967,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-24T01:18:21.365Z",
+      "date": "2026-01-24T02:00:29.364Z",
       "archived": 0
     }
   }
