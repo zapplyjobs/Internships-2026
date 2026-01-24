@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T00:06:45.456Z",
+  "lastUpdated": "2026-01-24T00:43:22.771Z",
   "jobs": [
-    {
-      "id": "microsoft-data-engineering-intern-redmond-2026-01-17-1",
-      "jobId": "microsoft-data-engineering-intern-redmond",
-      "company": "Microsoft",
-      "title": "Data Engineering Intern",
-      "postedToDiscord": "2026-01-17T00:41:44.779Z",
-      "sourceDate": "2026-01-16T23:19:21.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556659198",
-      "discordThreadId": "1461883141282070724",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tiktok-frontend-engineer-intern-ads-interface-and-platform-san-jose-2026-01-17-1",
-      "jobId": "tiktok-frontend-engineer-intern-ads-interface-and-platform-san-jose",
-      "company": "TikTok",
-      "title": "Frontend Engineer Intern - Ads Interface and Platform",
-      "postedToDiscord": "2026-01-17T00:41:48.162Z",
-      "sourceDate": "2026-01-16T23:19:06.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7595344466313529653",
-      "discordThreadId": "1461883155618463841",
-      "instanceNumber": 1
-    },
-    {
-      "id": "city-of-charlotte-storm-water-surface-water-quality-and-environmental-permitting-intern-charlotte-2026-01-17-1",
-      "jobId": "city-of-charlotte-storm-water-surface-water-quality-and-environmental-permitting-intern-charlotte",
-      "company": "City of Charlotte",
-      "title": "Storm Water Surface Water Quality and Environmental Permitting Intern",
-      "postedToDiscord": "2026-01-17T00:41:54.594Z",
-      "sourceDate": "2026-01-16T23:38:01.000Z",
-      "sourceUrl": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CLTW-Zone-4/Storm-Water-Surface-Water-Quality-and-Environmental-Permitting-Intern_JR103108-1",
-      "discordThreadId": "1461883182524928135",
-      "instanceNumber": 1
-    },
-    {
-      "id": "samsung-ai-analyst-plano-2026-01-17-1",
-      "jobId": "samsung-ai-analyst-plano",
-      "company": "Samsung",
-      "title": "AI Analyst",
-      "postedToDiscord": "2026-01-17T00:42:01.211Z",
-      "sourceDate": "2026-01-16T23:28:02.000Z",
-      "sourceUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/700-Sylvan-Ave-Englewood-Cliffs-NJ-USA/AI-Analyst-Intern_R113249",
-      "discordThreadId": "1461883210077044769",
-      "instanceNumber": 1
-    },
-    {
-      "id": "toyota-research-institute-energy-materials-experimental-electrolyzer-modeling-mountain-view-2026-01-17-1",
-      "jobId": "toyota-research-institute-energy-materials-experimental-electrolyzer-modeling-mountain-view",
-      "company": "Toyota Research Institute",
-      "title": "Energy & Materials - Experimental Electrolyzer Modeling",
-      "postedToDiscord": "2026-01-17T00:42:04.777Z",
-      "sourceDate": "2026-01-16T23:22:58.000Z",
-      "sourceUrl": "https://jobs.lever.co/tri/eb4aeed4-d3bb-4e8d-9ace-e0d6bc06e4db/apply",
-      "discordThreadId": "1461883225105498351",
-      "instanceNumber": 1
-    },
-    {
-      "id": "magna-data-science-intern-summer-2026-troy-2026-01-17-1",
-      "jobId": "magna-data-science-intern-summer-2026-troy",
-      "company": "Magna",
-      "title": "Data Science Intern-Summer 2026",
-      "postedToDiscord": "2026-01-17T00:42:08.454Z",
-      "sourceDate": "2026-01-16T23:17:02.000Z",
-      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Data-Science-Intern--Summer-2026_R00225581",
-      "discordThreadId": "1461883240011796535",
-      "instanceNumber": 1
-    },
-    {
-      "id": "clearway-energy-gis-development-intern-denver-2026-01-17-1",
-      "jobId": "clearway-energy-gis-development-intern-denver",
-      "company": "Clearway Energy",
-      "title": "GIS Development Intern",
-      "postedToDiscord": "2026-01-17T00:42:15.334Z",
-      "sourceDate": "2026-01-16T23:20:24.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5022238007",
-      "discordThreadId": "1461883268155703452",
-      "instanceNumber": 1
-    },
     {
       "id": "analytic-partners-marketing-science-analyst-intern-charlottesville-2026-01-17-1",
       "jobId": "analytic-partners-marketing-science-analyst-intern-charlottesville",
@@ -21693,14 +21616,113 @@
       "sourceUrl": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=250000NE",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "caci-software-development-intern-summer-2026-st-louis-2026-01-24-1",
+      "jobId": "caci-software-development-intern-summer-2026-st-louis",
+      "company": "CACI",
+      "title": "Software Development Intern - Summer 2026",
+      "postedToDiscord": "2026-01-24T00:42:49.603Z",
+      "sourceDate": "2026-01-24T00:13:05.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-MO-St-Louis/Software-Development-Intern---Summer-2026_319718",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "wex-intern-software-engineer-remote-in-usa-2026-01-24-1",
+      "jobId": "wex-intern-software-engineer-remote-in-usa",
+      "company": "Wex",
+      "title": "Intern – Software Engineer",
+      "postedToDiscord": "2026-01-24T00:42:52.923Z",
+      "sourceDate": "2026-01-24T00:12:53.000Z",
+      "sourceUrl": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer_R20151",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "santander-risk-analytics-intern-boston-2026-01-24-1",
+      "jobId": "santander-risk-analytics-intern-boston",
+      "company": "Santander",
+      "title": "Risk Analytics Intern",
+      "postedToDiscord": "2026-01-24T00:42:54.646Z",
+      "sourceDate": "2026-01-24T00:03:41.000Z",
+      "sourceUrl": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Risk-Analytics-Intern_Req1537728",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stantec-gis-intern-madison-2026-01-24-1",
+      "jobId": "stantec-gis-intern-madison",
+      "company": "Stantec",
+      "title": "GIS Intern",
+      "postedToDiscord": "2026-01-24T00:42:58.157Z",
+      "sourceDate": "2026-01-23T23:20:53.000Z",
+      "sourceUrl": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1003868",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-toro-company-enterprise-insights-analyst-intern-the-toro-company-bloomington-2026-01-24-1",
+      "jobId": "the-toro-company-enterprise-insights-analyst-intern-the-toro-company-bloomington",
+      "company": "The Toro Company",
+      "title": "Enterprise Insights Analyst Intern - The Toro Company",
+      "postedToDiscord": "2026-01-24T00:43:04.590Z",
+      "sourceDate": "2026-01-24T00:11:50.000Z",
+      "sourceUrl": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Enterprise-Insights-Analyst-Intern---The-Toro-Company_JR15109",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-camera-image-processing-algorithm-intern-sunnyvale-2026-01-24-1",
+      "jobId": "intuitive-surgical-camera-image-processing-algorithm-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "Camera Image Processing Algorithm Intern",
+      "postedToDiscord": "2026-01-24T00:43:06.289Z",
+      "sourceDate": "2026-01-23T23:13:06.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000105233605",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-audit-assurance-intern-risk-technology-analytics-detroit-2026-01-24-1",
+      "jobId": "deloitte-audit-assurance-intern-risk-technology-analytics-detroit",
+      "company": "Deloitte",
+      "title": "Audit & Assurance Intern - Risk Technology & Analytics",
+      "postedToDiscord": "2026-01-24T00:43:10.031Z",
+      "sourceDate": "2025-10-03T16:51:13.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Risk-Technology-Analytics-Summer-2026/313964",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "ameriprise-financial-advisor-service-technology-field-insights-intern-minneapolis-2026-01-24-1",
+      "jobId": "ameriprise-financial-advisor-service-technology-field-insights-intern-minneapolis",
+      "company": "Ameriprise Financial",
+      "title": "Advisor Service Technology – Field Insights Intern",
+      "postedToDiscord": "2026-01-24T00:43:16.412Z",
+      "sourceDate": "2026-01-24T00:06:50.000Z",
+      "sourceUrl": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Advisor-Service-Technology---Field-Insights-Intern_R26_0245",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "tds-gis-intern-remote-in-usa-2026-01-24-1",
+      "jobId": "tds-gis-intern-remote-in-usa",
+      "company": "TDS",
+      "title": "GIS Intern",
+      "postedToDiscord": "2026-01-24T00:43:22.770Z",
+      "sourceDate": "2026-01-23T23:12:18.000Z",
+      "sourceUrl": "https://external-telecom-teldta.icims.com/jobs/28618/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1972,
+    "totalJobs": 1974,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-24T00:06:45.456Z",
+      "date": "2026-01-24T00:43:22.771Z",
       "archived": 0
     }
   }
