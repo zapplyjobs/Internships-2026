@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-24T02:00:29.364Z",
+  "lastUpdated": "2026-01-24T02:46:43.708Z",
   "jobs": [
     {
       "id": "intuit-data-science-intern-identity-analytics-san-diego-2026-01-17-1",
@@ -21638,14 +21638,58 @@
       "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Summer-Fall-2026_10140147",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-data-science-acceleration-san-bruno-2026-01-24-1",
+      "jobId": "genentech-intern-data-science-acceleration-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Data Science Acceleration",
+      "postedToDiscord": "2026-01-24T02:46:26.363Z",
+      "sourceDate": "2026-01-24T02:13:20.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Data-Science-Acceleration_202601-101273",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "john-deere-part-time-student-channel-ux-software-engineer-ames-ia-technology-ca-ames-2026-01-24-1",
+      "jobId": "john-deere-part-time-student-channel-ux-software-engineer-ames-ia-technology-ca-ames",
+      "company": "John Deere",
+      "title": "Part-Time Student Channel UX Software Engineer-Ames IA - Technology (CA)",
+      "postedToDiscord": "2026-01-24T02:46:32.852Z",
+      "sourceDate": "2026-01-24T02:12:26.000Z",
+      "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137477469140",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "paccar-it-summer-2026-interns-salesforce-intern-tukwila-2026-01-24-1",
+      "jobId": "paccar-it-summer-2026-interns-salesforce-intern-tukwila",
+      "company": "Paccar",
+      "title": "IT Summer 2026 Interns – Salesforce Intern",
+      "postedToDiscord": "2026-01-24T02:46:37.558Z",
+      "sourceDate": "2026-01-24T02:11:44.000Z",
+      "sourceUrl": "https://jobs.paccar.com/job/Renton-IT-Summer-2026-Interns-Salesforce-Intern-WA-98057/1286913101/?ats=successfactors",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "woven-machine-learning-engineer-intern-behavior-palo-alto-2026-01-24-1",
+      "jobId": "woven-machine-learning-engineer-intern-behavior-palo-alto",
+      "company": "Woven",
+      "title": "Machine Learning Engineer Intern - Behavior",
+      "postedToDiscord": "2026-01-24T02:46:43.707Z",
+      "sourceDate": "2026-01-24T02:10:28.000Z",
+      "sourceUrl": "https://jobs.lever.co/woven-by-toyota/f324d834-99b1-4cb2-825e-ecc2e0623d57/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1967,
+    "totalJobs": 1971,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-24T02:00:29.364Z",
+      "date": "2026-01-24T02:46:43.708Z",
       "archived": 0
     }
   }
