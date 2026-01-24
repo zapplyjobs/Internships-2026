@@ -132,14 +132,29 @@ async function searchJSearchInternships() {
         const data = await response.json();
         const jobs = data.data || [];
 
-        // Update usage tracking
+        // Update usage tracking with detailed metrics
         usage.requests++;
         usage.remaining = MAX_REQUESTS_PER_DAY - usage.requests;
         usage.queries_executed.push(query);
+
+        // Add performance metrics
+        if (!usage.metrics) usage.metrics = {};
+        if (!usage.metrics.jobs_per_query) usage.metrics.jobs_per_query = {};
+        if (!usage.metrics.jobs_per_query[query]) usage.metrics.jobs_per_query[query] = [];
+        usage.metrics.jobs_per_query[query].push(jobs.length);
+
+        // Track total jobs fetched
+        if (!usage.metrics.total_jobs) usage.metrics.total_jobs = 0;
+        usage.metrics.total_jobs += jobs.length;
+
+        // Calculate averages
+        const avgJobsPerRequest = usage.metrics.total_jobs / usage.requests;
+
         saveUsageTracking(usage);
 
-        console.log(`✅ JSearch returned ${jobs.length} jobs`);
+        console.log(`✅ JSearch returned ${jobs.length} jobs (avg ${avgJobsPerRequest.toFixed(1)} jobs/request)`);
         console.log(`📊 Usage today: ${usage.requests}/${MAX_REQUESTS_PER_DAY} requests, ${usage.remaining} remaining`);
+        console.log(`📈 Total jobs fetched today: ${usage.metrics.total_jobs}`);
 
         // Normalize jobs to internal format
         return normalizeJSearchJobs(jobs);
