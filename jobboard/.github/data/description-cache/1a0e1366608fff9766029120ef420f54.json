@@ -1,0 +1,22 @@
+{
+  "url": "https://job-boards.greenhouse.io/matx/jobs/5085215008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "What MatX Is Building MatX's mission is to make the world’s best AI models run as efficiently as allowed by physics, bringing the world years ahead in AI quality and availability. We are developing vertically integrated full-stack solutions from silicon to systems, including hardware and software, to train and run the largest ML workloads for AGI. We are looking for people who are excited about systems-focused ML research. What You'll Do Here Train LLMs with tweaks to attention or numerics formats Run quality evaluations Publicize your findings Who You Are Currently pursuing a degree in Computer Science, Math, or related fields Experienced in training and tweaking neural networks, ideally LLMs Perhaps: experience optimizing neural networks for hardware efficiency, for example, regarding FLOPs, memory bandwidth, communication bandwidth, precision, parallel layout, batch sizes This is a hybrid role that will require you to work onsite Tues - Thurs at our HQ in Mountain View, CA What We Offer Compensation of $10000 per month, paid semi-monthly Team Connection Team Lunches, quarterly off-sites, and regular town halls Remote Perks We work remotely Monday & Friday, supported by home-tech setup, and remote wifi expense reimbursement Time To Recharge. 4 weeks PTO (accrued), 12 holidays & 3 weeks remote/flexible work per year. Full-time Interns are eligible for benefits including: Health & Wellness. Company subsidized Health, Dental, and Vision insurance; Flexible Savings Accounts (FSA), and a Health Savings Account (HSA) with lump sum company contribution Financial Wellbeing. Choose from Guardian 401K and/or Roth IRA (or both) and receive a 5% company contribution, even if you don’t! Plus 100% paid Life and long-term disability insurances. Mental Wellbeing: 100% paid mental health benefit via SpringHealth and Guardian EAP. Professional Development. $1,500 yearly towards conferences, courses, and other learning. Commute On Us. We’ll pay for your commute (up to 1 hr) to get work done during your commute! MatX E[x]tras. $50/month to use on the perks you care about most. Support to Parents. Up to 12 weeks of paid parental leave & 10 weeks pregnancy disability leave, regardless of path to parenthood. Plus Maven reproductive health & parental benefit. As part of our dedication to the diversity of our team and our focus on creating an inviting and inclusive work experience, MatX is committed to a policy of Equal Employment Opportunity and will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin or ancestry, sex, gender, gender identity, gender expression, sexual orientation, age, physical or mental disability, medical condition, marital/domestic partner status, military and veteran status, genetic information or any other legally recognized protected basis under federal, state or local laws, regulations or ordinances. This position requires access to information that is subject to U.S. export controls. This offer of employment is contingent upon the applicant's capacity to perform job functions in compliance with U.S. export control laws without obtaining a license from U.S. export control authorities. MatX does not accept unsolicited resumes from individual recruiters or third-party recruiting agencies in response to job postings. No fee will be paid to third parties who submit unsolicited candidates directly to our hiring managers or People team and any resumes submitted are deemed to be the property of MatX.",
+    "requirements": [
+      "Currently pursuing a degree in Computer Science, Math, or related fields",
+      "Experienced in training and tweaking neural networks, ideally LLMs",
+      "Perhaps: experience optimizing neural networks for hardware efficiency, for example, regarding FLOPs, memory bandwidth, communication bandwidth, precision, parallel layout, batch sizes",
+      "Time To Recharge.  4 weeks PTO (accrued), 12 holidays & 3 weeks remote/flexible work per year.",
+      "Professional Development. $1,500 yearly towards conferences, courses, and other learning."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/matx/jobs/5085215008",
+      "fetchedAt": "2026-01-24T01:17:38.642Z"
+    }
+  },
+  "cachedAt": 1769217458642
+}
