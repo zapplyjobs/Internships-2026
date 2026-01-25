@@ -399,5 +399,127 @@
     "addedAt": "2026-01-25T04:33:56.267Z",
     "enrichedAt": "2026-01-25T04:34:04.386Z",
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Thorin",
+      "employer_name": "8VC",
+      "job_city": "San Francisco",
+      "job_state": "California",
+      "job_description": "<p>Thorin is an applied AI company born out of 8VC’s Build program, focused on redefining how work gets done inside modern organizations. The role involves joining the Software Engineering team to build the foundation of Thorin’s user-facing product, with responsibilities including developing core features and owning both frontend and backend logic.</p><br><p>Responsibilities</p><ul><li>Build and ship core product features from concept to production</li><li>Own frontend and backend logic across key workflows</li><li>Set quality and velocity benchmarks for a high-performance engineering team</li><li>Help shape product direction through close feedback loops with users and stakeholders</li><li>Move quickly and thoughtfully in a zero-to-one environment</li></ul><br><p>Skills</p><ul><li>Full-stack experience shipping production-grade SaaS or AI-native applications</li><li>Strong product intuition — you care about the user and sweat the details</li><li>Proven ability to work across the stack: frontend frameworks (React), backend systems (Bun, TypeScript), and APIs</li><li>Comfortable with ambiguity, fast iteration, and early-stage startup dynamics</li><li>Passionate about building software that's useful, fast, and delightful</li><li>Experience integrating LLMs or building AI-driven workflows</li></ul><br><p>Company Overview</p><li>8VC invests in innovative technologies that create economic and societal value. It was founded in 2015, and is headquartered in San Francisco, California, USA, with a workforce of 11-50 employees. Its website is http://www.8vc.com.</li><br><p>Company H1B Sponsorship</p><li>8VC has a track record of offering H1B sponsorships, with 1 in 2025, 1 in 2024, 2 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
+      "job_apply_link": "https://jobright.ai/jobs/info/69719b6a51f726477183f567?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-22T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "8vc-software-engineer-intern-thorin-san-francisco",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-25T05:01:08.958Z",
+    "enrichedAt": "2026-01-25T05:01:09.554Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 Software Developer Internship",
+      "employer_name": "General Dynamics Information Technology",
+      "job_city": "Annapolis Junction",
+      "job_state": "Maryland",
+      "job_description": "General Dynamics Information Technology, through its subsidiary Praxis Engineering, is seeking top performing college students for a 10-week Summer 2026 Internship Program. Interns will gain hands-on experience in software development, focusing on modern technologies and best practices while working closely with experienced mentors on in-house projects.\n\nResponsibilities\n• Building hands-on experience with modern software and technologies\n• Learning best practices in the software development lifecycle and how to work efficiently as a team\n• Creating and delivering professional-grade demos and presentations – critical skills for well-rounded engineers\n\nSkills\n• At least 2 years of education towards a Computer Science, Computer Engineering, Cybersecurity, or similar Engineering degree (we will consider strong candidates from any major with at least 1 year of Computer Science coursework)\n• Demonstrated experience and/or training in software development and proficiency in programming languages such as Python, Java, C/C++, Rust, JavaScript/TypeScript\n• Demonstrated experience and/or training in software design/development best practices and methodologies\n• Passion for solving complex software engineering problems, continuously learning, and working effectively in a collaborative team environment!\n• Interest in developing engineering soft skills like demoing, building presentations, and public speaking\n• US Citizenship required\n• Must be eligible to obtain a TS/SCI with POLY clearance\n\nBenefits\n• Comprehensive benefits and wellness packages\n• 401K with company match\n• Variety of medical plan options\n• Some with Health Savings Accounts\n• Dental plan options\n• A vision plan\n• Variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave\n• Short and long-term disability benefits\n• Life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance\n\nCompany Overview\n• General Dynamics Information Technology is an IT consulting company that specializes in cyber security, AI, and quantum computing. It is a sub-organization of General Dynamics. It was founded in 1999, and is headquartered in Falls Church, Virginia, USA, with a workforce of 10001+ employees. Its website is https://www.gdit.com/.",
+      "job_apply_link": "https://jobright.ai/jobs/info/696fb4203ed06875134aa0e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-information-technology-summer-2026-software-developer-internship-annapolis-junction"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-25T05:01:08.958Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern (Multi-Cloud CDN Platform )- 2026 Summer (BS/MS)",
+      "employer_name": "ByteDance",
+      "job_city": "San Jose",
+      "job_state": "California",
+      "job_description": "ByteDance is a leading technology company known for its innovative products like TikTok and CapCut. They are seeking a Software Engineer Intern to participate in the design and development of their Multi-Cloud CDN platform, focusing on optimizing global traffic management and building scalable platform capabilities.\n\nResponsibilities\n• Participate in the design and development of ByteDance's Multi-Cloud CDN platform, including control-plane systems like domain management, content management, scheduling systems and AIOPs\n• Help construct an intelligent scheduling system to optimize ByteDance's global traffic management based on business scenarios, resource levels, cost control, service quality, and transmission protocols\n• Assist in building unified, scalable, and observable platform capabilities to support performance, cost, stability, and compliance\n\nSkills\n• Bachelor's degree or above in Computer Science, Electrical Engineering, or a related field\n• Proficiency in at least one programming language (e.g., Go, Python, Java, C++) in a Linux development environment\n• Strong fundamentals in computer science, including networking, distributed systems, or backend platform design\n• Solid understanding of APIs, databases, and cloud-native software development\n• Able to commit to working for 12 weeks during Summer 2026\n• Prior experience or coursework related to CDN, edge computing, or large-scale infrastructure\n• Familiarity with network protocols, message queues, monitoring systems, or traffic scheduling strategies\n• Enthusiasm for building backend systems that balance performance, scalability, and maintainability\n\nBenefits\n• Day one access to health insurance\n• Life insurance\n• Wellbeing benefits\n• 10 paid holidays per year\n• Paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year)\n• Housing allowance\n\nCompany Overview\n• ByteDance is a technology company that develops content creation platforms and services. It was founded in 2012, and is headquartered in Beijing, Beijing, CHN, with a workforce of 10001+ employees. Its website is http://bytedance.com.\n\nCompany H1B Sponsorship\n• ByteDance has a track record of offering H1B sponsorships, with 1350 in 2025, 1123 in 2024, 775 in 2023, 487 in 2022, 417 in 2021, 245 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/68cd5ccce23def7af55b8c34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-17T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "bytedance-software-engineer-intern-multi-cloud-cdn-platform-2026-summer-bs-ms-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-25T05:01:08.958Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Arlington",
+      "job_state": "Virginia",
+      "job_description": "A company is looking for an Early Talent Community - Software Engineering intern.\n\nKey Responsibilities\n\nEngage with the Early Talent Community to express interest in future software engineering roles\n\nStay informed about upcoming events, webinars, and job application opportunities\n\nParticipate in a collaborative environment focused on innovation in e-commerce\n\nRequired Qualifications\n\nCurrent student graduating in the Class of 2028\n\nInterest in starting a career in software engineering\n\nAbility to work remotely in a co-located team environment\n\nWillingness to engage with community and share insights\n\nNo prior experience required; enthusiasm for learning is essential",
+      "job_apply_link": "https://www.talent.com/view?id=4bb4d35598bf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-software-engineering-intern-arlington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-25T05:01:08.958Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Whittier",
+      "job_state": "California",
+      "job_description": "A company is looking for an Early Talent Community - Software Engineering intern.\n\nKey Responsibilities\n\nEngage with the Early Talent Community to express interest in future software engineering roles\n\nStay informed about upcoming events, webinars, and job application opportunities\n\nParticipate in a collaborative environment focused on innovation in e-commerce\n\nRequired Qualifications\n\nCurrent student graduating in the Class of 2028\n\nInterest in starting a career in software engineering\n\nAbility to work remotely in a co-located team environment\n\nWillingness to engage with community and share insights\n\nNo prior experience required; enthusiasm for learning is essential",
+      "job_apply_link": "https://www.talent.com/view?id=734b61f905c5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-software-engineering-intern-whittier"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-25T05:01:08.958Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Sterling Heights",
+      "job_state": "Michigan",
+      "job_description": "A company is looking for an Early Talent Community - Software Engineering intern.\n\nKey Responsibilities\n\nEngage with the Early Talent Community to express interest in future software engineering roles\n\nStay informed about upcoming events, webinars, and job application opportunities\n\nParticipate in a collaborative environment focused on innovation in e-commerce\n\nRequired Qualifications\n\nCurrent student graduating in the Class of 2028\n\nInterest in starting a career in software engineering\n\nAbility to work remotely in a co-located team environment\n\nWillingness to engage with community and share insights\n\nNo prior experience required; enthusiasm for learning is essential",
+      "job_apply_link": "https://www.talent.com/view?id=def7415c5be6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-software-engineering-intern-sterling-heights"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-25T05:01:08.958Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]

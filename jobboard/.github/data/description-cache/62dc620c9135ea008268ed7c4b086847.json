@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/69719b6a51f726477183f567?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>Thorin is an applied AI company born out of 8VC’s Build program, focused on redefining how work gets done inside modern organizations. The role involves joining the Software Engineering team to build the foundation of Thorin’s user-facing product, with responsibilities including developing core features and owning both frontend and backend logic.</p><br><p>Responsibilities</p><ul><li>Build and ship core product features from concept to production</li><li>Own frontend and backend logic across key workflows</li><li>Set quality and velocity benchmarks for a high-performance engineering team</li><li>Help shape product direction through close feedback loops with users and stakeholders</li><li>Move quickly and thoughtfully in a zero-to-one environment</li></ul><br><p>Skills</p><ul><li>Full-stack experience shipping production-grade SaaS or AI-native applications</li><li>Strong product intuition — you care about the user and sweat the details</li><li>Proven ability to work across the stack: frontend frameworks (React), backend systems (Bun, TypeScript), and APIs</li><li>Comfortable with ambiguity, fast iteration, and early-stage startup dynamics</li><li>Passionate about building software that's useful, fast, and delightful</li><li>Experience integrating LLMs or building AI-driven workflows</li></ul><br><p>Company Overview</p><li>8VC invests in innovative technologies that create economic and societal value. It was founded in 2015, and is headquartered in San Francisco, California, USA, with a workforce of 11-50 employees. Its website is http://www.8vc.com.</li><br><p>Company H1B Sponsorship</p><li>8VC has a track record of offering H1B sponsorships, with 1 in 2025, 1 in 2024, 2 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/69719b6a51f726477183f567?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-01-25T05:01:09.553Z"
+    }
+  },
+  "cachedAt": 1769317269554
+}
