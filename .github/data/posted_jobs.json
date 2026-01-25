@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T23:16:54.303Z",
+  "lastUpdated": "2026-01-25T23:29:30.710Z",
   "jobs": [
-    {
-      "id": "anthropic-manager-of-solutions-architecture-applied-ai-industries-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-manager-of-solutions-architecture-applied-ai-industries-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
-      "postedToDiscord": "2026-01-18T23:29:17.425Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-of-solutions-architecture-public-sector-applied-ai-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-18-1",
-      "jobId": "anthropic-manager-of-solutions-architecture-public-sector-applied-ai-san-francisco-ca-new-york-city-ny-washington-dc",
-      "company": "anthropic",
-      "title": "Manager of Solutions Architecture, Public Sector, Applied AI",
-      "postedToDiscord": "2026-01-18T23:29:21.251Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973175008",
-      "discordThreadId": "1462589698085228637",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-partner-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-partner-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Partner Solutions Architect, Applied AI",
-      "postedToDiscord": "2026-01-18T23:29:24.776Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
-      "discordThreadId": "1462589713868128452",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa-2026-01-18-1",
       "jobId": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa",
@@ -7668,9 +7635,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465123251884916816",
+          "messageId": "1465126425341329610",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:16:44.165Z",
+          "postedAt": "2026-01-25T23:29:20.836Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7692,9 +7659,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465123259551977710",
+          "messageId": "1465126433276821555",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:16:45.854Z",
+          "postedAt": "2026-01-25T23:29:22.485Z",
           "channelJobNumber": 4
         }
       },
@@ -7710,9 +7677,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465123279281848441",
+          "messageId": "1465126453308948605",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:16:50.577Z",
+          "postedAt": "2026-01-25T23:29:27.337Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7734,9 +7701,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465123287175528643",
+          "messageId": "1465126460460372125",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:16:52.549Z",
+          "postedAt": "2026-01-25T23:29:29.057Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7758,9 +7725,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465123294696046593",
+          "messageId": "1465126467573907617",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:16:54.303Z",
+          "postedAt": "2026-01-25T23:29:30.709Z",
           "channelJobNumber": 6
         }
       },
@@ -7768,11 +7735,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 701,
+    "totalJobs": 698,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T23:16:54.303Z",
+      "date": "2026-01-25T23:29:30.710Z",
       "archived": 0
     }
   }
