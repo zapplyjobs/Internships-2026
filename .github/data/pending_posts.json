@@ -1,26 +1,6 @@
 [
   {
     "job": {
-      "job_title": "",
-      "employer_name": "AgZen",
-      "job_city": "Cambridge",
-      "job_state": "MA",
-      "job_description": ".fe-681e70c2a649507003c3aab5 { --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px); --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 ); display: grid; position: relative; grid-area: 1/1/-1/-1; grid-template-rows: repeat(12,minmax(24px, auto)); grid-template-columns: minmax(var(--grid-gutter), 1fr) repeat(8, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr); row-gap: 11.0px; column-gap: 11.0px; overflow-x: hidden; overflow-x: clip; } @media (min-width: 768px) { .background-width--inset .fe-681e70c2a649507003c3aab5 { --inset-padding: calc(var(--sqs-site-gutter) * 2); } .fe-681e70c2a649507003c3aab5 { --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px); --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 ); --inset-padding: 0vw; --row-height-scaling-factor: 0.0215; --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) )); grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)); grid-template-columns: minmax(var(--grid-gutter), 1fr) repeat(24, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr); } } .fe-block-yui_3_17_2_1_1746825311996_2339 { grid-area: 1/2/7/10; z-index: 1; @media (max-width: 767px) { } } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block-alignment-wrapper { align-items: flex-start; } @media (min-width: 768px) { .fe-block-yui_3_17_2_1_1746825311996_2339 { grid-area: 1/2/2/26; z-index: 2; position: sticky; top: calc(0px + var(--header-fixed-top-offset, 0px)); } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block-alignment-wrapper { align-items: flex-start; } } .fe-block-yui_3_17_2_1_1746825311996_3059 { grid-area: 7/2/13/10; z-index: 2; @media (max-width: 767px) { } } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block-alignment-wrapper { align-items: flex-start; } @media (min-width: 768px) { .fe-block-yui_3_17_2_1_1746825311996_3059 { grid-area: 2/2/7/26; z-index: 1; } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block-alignment-wrapper { align-items: flex-start; } }",
-      "job_apply_link": "https://www.agzen.com/jobs?gh_jid=4048593009",
-      "job_posted_at_datetime_utc": "2025-10-21T00:25:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "agzen--cambridge",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T03:49:19.111Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Summer 2026 Internship - Computer Science Majors",
       "employer_name": "Western Alliance",
       "job_city": "Dallas",
@@ -184,28 +164,6 @@
   },
   {
     "job": {
-      "job_title": "Product Manager Intern 2026",
-      "employer_name": "IBM",
-      "job_city": "Tucson",
-      "job_state": "Arizona",
-      "job_description": "<p>IBM is a leading technology company seeking a Product Manager Intern for 2026. In this role, you will assist with projects across the cloud portfolio, focusing on product management process agility and optimization while collaborating with cross-functional teams to drive efficiency in product management processes.</p><br><p>Responsibilities</p><ul><li>Collaborate with the broader IBM product organization to help support the portfolio and business</li><li>Become an expert in IBM’s product management methodologies, design thinking and new product introduction. Support product teams in defining product requirements, user stories, and specifications</li><li>Collaborate with cross-functional teams (engineering, design, marketing, and sales) to ensure timely product delivery</li><li>Analyze competitors, market trends and customer feedback to identify new product opportunities</li></ul><br><p>Skills</p><ul><li>Pursuing a Bachelors or master's in computer science or computer engineering or any related field in Product Management</li><li>Experience in Product Management or equivalent practical experience building or deploying products in a Cloud based software organization</li><li>Experience in implementing agile practices and design thinking</li><li>Strong written communication and presentation skills</li><li>Problem solving and Business Analysis skills</li><li>Ability to work 3 days a week from the office</li><li>Track record of high-quality, self-directed, timely execution</li><li>Attention to detail</li><li>Technical expertise and ability to communicate, work & build trust with stakeholders</li><li>Experience with Cloud & technology</li></ul><br><p>Company Overview</p><li>IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services. It was founded in 1911, and is headquartered in Armonk, New York, USA, with a workforce of 10001+ employees. Its website is http://www.ibm.com.</li><br><p>Company H1B Sponsorship</p><li>IBM has a track record of offering H1B sponsorships, with 3032 in 2025, 3301 in 2024, 2160 in 2023, 1809 in 2022, 1157 in 2021, 2669 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
-      "job_apply_link": "https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-17T00:00:00.000Z",
-      "job_employment_type": "Internship",
-      "job_source": "jsearch",
-      "job_publisher": "Jobright",
-      "job_posted_at": "1h",
-      "id": "ibm-product-manager-intern-2026-tucson",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-24T19:39:49.958Z",
-    "enrichedAt": "2026-01-24T19:40:13.842Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Product Management / Marketing Intern",
       "employer_name": "Danaher",
       "job_city": "Marlborough",
@@ -228,28 +186,6 @@
   },
   {
     "job": {
-      "job_title": "Product Manager (Intern)",
-      "employer_name": "Nerdbug",
-      "job_city": "McAllen",
-      "job_state": "Texas",
-      "job_description": "Apply for Product Manager (Intern) in McAllen. Nerdbug is hiring now. Discover your next career opportunity today on Talent.com.",
-      "job_apply_link": "https://www.talent.com/view?id=6cc6c9d46bea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-08T00:00:00.000Z",
-      "job_employment_type": "Full-time",
-      "job_source": "jsearch",
-      "job_publisher": "Talent.com",
-      "job_posted_at": "1h",
-      "id": "nerdbug-product-manager-intern-mcallen",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-24T19:39:49.958Z",
-    "enrichedAt": "2026-01-24T19:40:13.842Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Technical Product Management Intern, Agentic AI",
       "employer_name": "Zoox",
       "job_city": "San Mateo",
@@ -262,94 +198,6 @@
       "job_publisher": "Talent.com",
       "job_posted_at": "1h",
       "id": "zoox-technical-product-management-intern-agentic-ai-san-mateo",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-24T19:39:49.958Z",
-    "enrichedAt": "2026-01-24T19:40:13.842Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Graduate Product Manager Intern- AI & Data Analysis",
-      "employer_name": "Schneider Electric",
-      "job_city": "Raleigh",
-      "job_state": "North Carolina",
-      "job_description": "Graduate Product Manager Intern- AI & Data Analysis jobs in United StatesOverviewCompanyThis job has closed.APPLY to similar jobsSchneider Electric · 2 weeks agoGraduate Product Manager Intern- AI & Data AnalysisRaleigh, NCInternshipOnsiteInternStart in 2026 SummerSchneider Electric is seeking a Graduate Product Manager Intern - AI & Data Analysis for Summer 2026. The role involves leveraging AI tools and leading data analysis initiatives to drive efficiency and innovation within the organization.ElectronicsEnergyEnergy ManagementInformation TechnologyRenewable EnergyGrowth OpportunitiesNo H1BResponsibilitiesLeverage AI tools, including Microsoft Copilot, to address complex business challenges that currently lack dedicated resources, driving efficiency and innovationLead advanced data analysis initiatives focused on costing, pricing, and market share to enable data-driven decision-making and improve profitabilityAct as a change agent by identifying common organizational challenges and applying AI-driven solutions to enhance efficiency, streamline processes, and deliver superior resultsQualificationMicrosoft CopilotData AnalysisAI solutionsEngineering experienceBusiness experienceChange LeadershipCollaborationProblem-solvingRequiredHands-on experience leveraging Microsoft Copilot and similar AI solutions to enhance productivity, streamline workflows, and solve complex business challengesWorking towards your Masters degree in Marketing, Business, Finance, Engineering or related disciplineReady to tackle fresh challenges and adept at identifying and embracing new opportunitiesExceptional team player who grasps the strength of collaborationAbility to constantly push the limits of what can be achievedExperience working in an Engineering or Business roleAvailable for a Summer 2026 internship or Co-Op (Graduating August 2026 or later)Local to Raleigh, NC, Nashville, TN or Cedar Rapids, IA. This position does not provide funding for relocationApplicants must be authorized to work in the United States on a full-time, ongoing basis. The company does not provide immigration sponsorship now or in the futureCompanySchneider ElectricGlassdoor4.3Schneider Electric specializes in the digital transformation of energy management and automation.Founded in 1836Rueil-malmaison, Ile-de-France, FRA10001+ employeeshttps://www.se.comFundingCurrent StagePublic CompanyTotal Funding$4.08BKey InvestorsCalifornia State Water Resources Control BoardIdinvest Partners2025-08-26Post Ipo Debt· $4.08B2018-04-05Grant· $1.6M2004-12-03Series UnknownLeadership TeamDeepak SharmaPresident - Greater India zone, MD & CEO - Schneider Electric India Pvt. LtdJai SharmaCFO Greater India ZoneRecent NewsThe Times Of IsraelIsraeli cyber startup raises $150m to secure critical assets of plants and hospitals2026-01-23The EconomistEurope can still win the other AI race2026-01-22alleywatch.comThe Weekly Notable Startup Funding Report: 1/19/262026-01-20Company data provided by crunchbaseBoost Your Interview ChancesImprove Resume Match ScoreFREE?Your ScoreTop ApplicantsMust-Have Skills for This RoleMicrosoft CopilotData AnalysisAI solutionsEngineering experienceBusiness experienceOptimize my ResumeGet Referral Via linkedIn FREE3× Higher Response via Email OutreachAAlan F.Product Owner - IEC Transactional Motor Management and Load ManagementFFeroze A.Product ManagerDraft Message to ConnectApply Faster with Autofill PluginFREEApply With Autofill",
-      "job_apply_link": "https://jobright.ai/jobs/info/695c697bf1f8465b79f28df7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-05T00:00:00.000Z",
-      "job_employment_type": "Internship",
-      "job_source": "jsearch",
-      "job_publisher": "Jobright",
-      "job_posted_at": "1h",
-      "id": "schneider-electric-graduate-product-manager-intern-ai-data-analysis-raleigh",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-24T19:39:49.958Z",
-    "enrichedAt": "2026-01-24T19:40:13.842Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Graduate Product Manager Intern",
-      "employer_name": "Schneider Electric",
-      "job_city": "Burlington",
-      "job_state": "Iowa",
-      "job_description": "Apply for Graduate Product Manager Intern in Burlington. Schneider Electric is hiring now. Discover your next career opportunity today on Talent.com.",
-      "job_apply_link": "https://www.talent.com/view?id=72f737fd4817&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T00:00:00.000Z",
-      "job_employment_type": "Full-time",
-      "job_source": "jsearch",
-      "job_publisher": "Talent.com",
-      "job_posted_at": "1h",
-      "id": "schneider-electric-graduate-product-manager-intern-burlington",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-24T19:39:49.958Z",
-    "enrichedAt": "2026-01-24T19:40:13.842Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Associate Product Manager Intern",
-      "employer_name": "Insight",
-      "job_city": "Chandler",
-      "job_state": "Arizona",
-      "job_description": "<p>Insight is a Fortune 500 Solutions Integrator that focuses on helping businesses transform their cloud, data, AI, cybersecurity, and analytics capabilities. The Associate Product Manager Intern will support product managers in developing go-to-market strategies, maintaining content, and improving device lifecycle services.</p><br><p>Responsibilities</p><ul><li>Help coordinate with cross-functional teams including Sales, Marketing, Delivery, Operations, Finance, and Legal for smooth rollout and operationalization of new solutions</li><li>Assist with the coordination and development of sales enablement content</li><li>Participate in the collection and analysis of customer feedback to identify immediate actions and areas for improvement</li></ul><br><p>Skills</p><ul><li>Bachelor's degree in Information Technology, Business, Marketing, or a related field</li><li>Must be a rising senior (Graduation date of December 2026 OR May 2027)</li><li>Strong interest in technology with a “intrapreneur” attitude</li><li>Strong technical aptitude and curiosity; ability to learn and adapt quickly</li><li>Ability to work independently and leverage technology for research</li><li>Strong communication skills and cultural fit with a collaborative, team-oriented environment</li><li>Organizational skills with attention to detail in content maintenance and process execution</li><li>Familiarity with Unified Endpoint Management (UEM) concepts is a plus</li></ul><br><p>Benefits</p><ul><li>Medical benefits</li><li>Sick time after 90 days</li><li>Access to our retirement plans</li></ul><br><p>Company Overview</p><li>Insight dedicated to making the impossible possible combining cutting-edge technology. It was founded in 1988, and is headquartered in Chandler, Arizona, USA, with a workforce of 10001+ employees. Its website is https://www.insight.com.</li><br><p>Company H1B Sponsorship</p><li>Insight has a track record of offering H1B sponsorships, with 1 in 2024, 1 in 2022, 1 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
-      "job_apply_link": "https://jobright.ai/jobs/info/693174fd3b6d6f265f4e9caa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-03T00:00:00.000Z",
-      "job_employment_type": "Internship",
-      "job_source": "jsearch",
-      "job_publisher": "Jobright",
-      "job_posted_at": "1h",
-      "id": "insight-associate-product-manager-intern-chandler",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-24T19:39:49.958Z",
-    "enrichedAt": "2026-01-24T19:40:13.842Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Product Manager Intern 2026",
-      "employer_name": "IBM",
-      "job_city": "Poughkeepsie",
-      "job_state": "Arkansas",
-      "job_description": "<p>IBM is a leading technology company that focuses on innovation and collaboration. As a Product Manager Intern, you will assist with projects across the cloud portfolio, focusing on product management processes and collaborating with cross-functional teams to drive efficiency and product success.</p><br><p>Responsibilities</p><ul><li>Collaborate with the broader IBM product organization to help support the portfolio and business</li><li>Become an expert in IBM’s product management methodologies, design thinking and new product introduction. Support product teams in defining product requirements, user stories, and specifications</li><li>Collaborate with cross-functional teams (engineering, design, marketing, and sales) to ensure timely product delivery</li><li>Analyze competitors, market trends and customer feedback to identify new product opportunities</li></ul><br><p>Skills</p><ul><li>Pursuing a Bachelors or master's in computer science or computer engineering or any related field in Product Management</li><li>Experience in Product Management or equivalent practical experience building or deploying products in a Cloud based software organization</li><li>Experience in implementing agile practices and design thinking</li><li>Strong written communication and presentation skills</li><li>Problem solving and Business Analysis skills</li><li>Ability to work 3 days a week from the office</li><li>Track record of high-quality, self-directed, timely execution</li><li>Attention to detail</li><li>Technical expertise and ability to communicate, work & build trust with stakeholders</li><li>Experience with Cloud & technology</li></ul><br><p>Company Overview</p><li>IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services. It was founded in 1911, and is headquartered in Armonk, New York, USA, with a workforce of 10001+ employees. Its website is http://www.ibm.com.</li><br><p>Company H1B Sponsorship</p><li>IBM has a track record of offering H1B sponsorships, with 3032 in 2025, 3301 in 2024, 2160 in 2023, 1809 in 2022, 1157 in 2021, 2669 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
-      "job_apply_link": "https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2025-12-27T00:00:00.000Z",
-      "job_employment_type": "Internship",
-      "job_source": "jsearch",
-      "job_publisher": "Jobright",
-      "job_posted_at": "1h",
-      "id": "ibm-product-manager-intern-2026-poughkeepsie",
       "description_platform": "generic",
       "description_success": true
     },
