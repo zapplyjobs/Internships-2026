@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T21:52:44.459Z",
+  "lastUpdated": "2026-01-25T22:03:28.824Z",
   "jobs": [
-    {
-      "id": "anthropic-finance-variable-compensation-lead-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-finance-variable-compensation-lead-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Finance Variable Compensation Lead",
-      "postedToDiscord": "2026-01-18T21:52:59.265Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
-      "discordThreadId": "1462565447454032117",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-global-technology-partner-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-global-technology-partner-lead-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Global Technology Partner Lead",
-      "postedToDiscord": "2026-01-18T21:53:02.828Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043437008",
-      "discordThreadId": "1462565462020849764",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-growth-account-executive-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-growth-account-executive-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Growth Account Executive",
-      "postedToDiscord": "2026-01-18T21:53:06.570Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
-      "discordThreadId": "1462565477636378787",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-founding-developer-relations-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-founding-developer-relations-lead-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Founding Developer Relations Lead",
-      "postedToDiscord": "2026-01-18T22:03:23.350Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-google-partnerships-manager-digital-native-startups-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-google-partnerships-manager-digital-native-startups-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Google Partnerships Manager, Digital Native & Startups",
-      "postedToDiscord": "2026-01-18T22:03:27.911Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
-      "discordThreadId": "1462568079895691274",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-gtm-partner-enablement-san-francisco-ca-new-york-city-ny-2026-01-18-1",
       "jobId": "anthropic-gtm-partner-enablement-san-francisco-ca-new-york-city-ny",
@@ -7965,9 +7910,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465102072654594379",
+          "messageId": "1465104773811535943",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:52:34.525Z",
+          "postedAt": "2026-01-25T22:03:18.575Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7989,9 +7934,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465102079898026097",
+          "messageId": "1465104781365219373",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:52:36.221Z",
+          "postedAt": "2026-01-25T22:03:20.362Z",
           "channelJobNumber": 4
         }
       },
@@ -8007,9 +7952,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465102099766317239",
+          "messageId": "1465104801158135960",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:52:40.944Z",
+          "postedAt": "2026-01-25T22:03:25.147Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -8031,9 +7976,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465102106842103838",
+          "messageId": "1465104808791904320",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:52:42.679Z",
+          "postedAt": "2026-01-25T22:03:26.903Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -8055,9 +8000,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465102114090127432",
+          "messageId": "1465104816178200768",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:52:44.459Z",
+          "postedAt": "2026-01-25T22:03:28.823Z",
           "channelJobNumber": 6
         }
       },
@@ -8065,12 +8010,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 728,
+    "totalJobs": 723,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T21:52:44.459Z",
-      "archived": 0
+      "date": "2026-01-25T22:03:28.824Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
