@@ -15475,5 +15475,71 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "discordThreadId": "1462577386213212172",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-growth-account-executive-new-york-city-ny-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-manager-growth-account-executive-new-york-city-ny-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Manager, Growth Account Executive",
+    "postedToDiscord": "2026-01-18T22:48:20.226Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+    "discordThreadId": "1462579376809054268",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-it-support-operations-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-manager-it-support-operations-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Manager, IT Support & Operations",
+    "postedToDiscord": "2026-01-18T22:48:23.704Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041319008",
+    "discordThreadId": "1462579391602098419",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-of-associate-solutions-architects-new-york-city-ny-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-manager-of-associate-solutions-architects-new-york-city-ny-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Manager of Associate Solutions Architects",
+    "postedToDiscord": "2026-01-18T22:48:27.137Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4947472008",
+    "discordThreadId": "1462579406047547645",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-sales-development-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-manager-sales-development-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Manager, Sales Development",
+    "postedToDiscord": "2026-01-18T22:48:30.655Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4884644008",
+    "discordThreadId": "1462579420546990274",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-startup-account-executive-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-manager-startup-account-executive-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Manager, Startup Account Executive",
+    "postedToDiscord": "2026-01-18T22:48:34.046Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+    "discordThreadId": "1462579435138973828",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-strategic-account-executive-digital-native-sales-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-manager-strategic-account-executive-digital-native-sales-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Manager, Strategic Account Executive - Digital Native Sales",
+    "postedToDiscord": "2026-01-18T22:48:37.494Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
+    "discordThreadId": "1462579449538285720",
+    "instanceNumber": 1
   }
 ]
