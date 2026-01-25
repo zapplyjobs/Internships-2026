@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T19:53:12.888Z",
+  "lastUpdated": "2026-01-25T20:03:25.104Z",
   "jobs": [
-    {
-      "id": "anthropic-engineering-manager-inference-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-inference-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Engineering Manager, Inference",
-      "postedToDiscord": "2026-01-18T19:53:13.744Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
-      "discordThreadId": "1462535308972265782",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-director-compute-infrastructure-procurement-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-director-compute-infrastructure-procurement-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Director, Compute Infrastructure Procurement ",
-      "postedToDiscord": "2026-01-18T19:53:20.436Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
-      "discordThreadId": "1462535336809992256",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-director-order-management-billing-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-director-order-management-billing-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Director, Order Management & Billing",
-      "postedToDiscord": "2026-01-18T19:53:23.878Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959525008",
-      "discordThreadId": "1462535352123134027",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engineering-manager-claude-developer-platform-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-claude-developer-platform-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Engineering Manager, Claude Developer Platform",
-      "postedToDiscord": "2026-01-18T19:53:30.238Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
-      "discordThreadId": "1462535379201560658",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engineering-manager-claude-services-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-claude-services-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Engineering Manager, Claude Services",
-      "postedToDiscord": "2026-01-18T19:53:33.721Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026197008",
-      "discordThreadId": "1462535393177108523",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engineering-manager-cloud-security-san-francisco-ca-seattle-wa-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-cloud-security-san-francisco-ca-seattle-wa-seattle-wa",
-      "company": "anthropic",
-      "title": "Engineering Manager, Cloud Security",
-      "postedToDiscord": "2026-01-18T19:53:37.116Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
-      "discordThreadId": "1462535407823622164",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-engineering-manager-product-platform-accounts-platform-new-york-city-ny-san-francisco-ca-seattle-wa-2026-01-18-1",
       "jobId": "anthropic-engineering-manager-product-platform-accounts-platform-new-york-city-ny-san-francisco-ca-seattle-wa",
@@ -8284,9 +8218,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465071985938792673",
+          "messageId": "1465074559198691603",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:53:01.389Z",
+          "postedAt": "2026-01-25T20:03:14.755Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -8308,9 +8242,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465071993379487857",
+          "messageId": "1465074567268667526",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:53:03.146Z",
+          "postedAt": "2026-01-25T20:03:16.816Z",
           "channelJobNumber": 4
         }
       },
@@ -8326,9 +8260,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465072013742833735",
+          "messageId": "1465074587581550714",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:53:07.917Z",
+          "postedAt": "2026-01-25T20:03:21.695Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -8350,9 +8284,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465072021040791562",
+          "messageId": "1465074595223834626",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:53:09.628Z",
+          "postedAt": "2026-01-25T20:03:23.421Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -8374,9 +8308,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465072028213051728",
+          "messageId": "1465074602580377934",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:53:12.888Z",
+          "postedAt": "2026-01-25T20:03:25.104Z",
           "channelJobNumber": 6
         }
       },
@@ -8384,13 +8318,12 @@
     }
   ],
   "metadata": {
-    "totalJobs": 757,
+    "totalJobs": 751,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T19:53:12.888Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-25T20:03:25.104Z",
+      "archived": 0
     }
   }
 }

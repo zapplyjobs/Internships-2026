@@ -14947,5 +14947,71 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068272008",
     "discordThreadId": "1462535294338469959",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-inference-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-inference-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Engineering Manager, Inference",
+    "postedToDiscord": "2026-01-18T19:53:13.744Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
+    "discordThreadId": "1462535308972265782",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-director-compute-infrastructure-procurement-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-director-compute-infrastructure-procurement-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Director, Compute Infrastructure Procurement ",
+    "postedToDiscord": "2026-01-18T19:53:20.436Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
+    "discordThreadId": "1462535336809992256",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-director-order-management-billing-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-director-order-management-billing-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Director, Order Management & Billing",
+    "postedToDiscord": "2026-01-18T19:53:23.878Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959525008",
+    "discordThreadId": "1462535352123134027",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-claude-developer-platform-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-claude-developer-platform-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Engineering Manager, Claude Developer Platform",
+    "postedToDiscord": "2026-01-18T19:53:30.238Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
+    "discordThreadId": "1462535379201560658",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-claude-services-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-claude-services-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Engineering Manager, Claude Services",
+    "postedToDiscord": "2026-01-18T19:53:33.721Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026197008",
+    "discordThreadId": "1462535393177108523",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-cloud-security-san-francisco-ca-seattle-wa-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-cloud-security-san-francisco-ca-seattle-wa-seattle-wa",
+    "company": "anthropic",
+    "title": "Engineering Manager, Cloud Security",
+    "postedToDiscord": "2026-01-18T19:53:37.116Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
+    "discordThreadId": "1462535407823622164",
+    "instanceNumber": 1
   }
 ]
