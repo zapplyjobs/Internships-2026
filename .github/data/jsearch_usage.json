@@ -1,10 +1,11 @@
 {
   "date": "2026-01-25",
-  "requests": 5,
-  "remaining": 1,
+  "requests": 6,
+  "remaining": 0,
   "queries_executed": [
     "product manager intern",
     "product manager intern",
+    "software engineer intern",
     "software engineer intern",
     "software engineer intern",
     "software engineer intern"
@@ -18,9 +19,10 @@
       "software engineer intern": [
         10,
         10,
+        10,
         10
       ]
     },
-    "total_jobs": 50
+    "total_jobs": 60
   }
 }
