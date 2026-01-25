@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T21:29:06.350Z",
+  "lastUpdated": "2026-01-25T21:37:25.818Z",
   "jobs": [
-    {
-      "id": "anthropic-global-partner-lead-accenture-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-global-partner-lead-accenture-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Global Partner Lead, Accenture",
-      "postedToDiscord": "2026-01-18T21:36:03.754Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015692008",
-      "discordThreadId": "1462561187349925960",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-global-partner-lead-deloitte-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-global-partner-lead-deloitte-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Global Partner Lead, Deloitte",
-      "postedToDiscord": "2026-01-18T21:36:07.320Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
-      "discordThreadId": "1462561203006996620",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-global-partner-sales-manager-systems-integrators-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-global-partner-sales-manager-systems-integrators-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Global Partner Sales Manager, Systems Integrators",
-      "postedToDiscord": "2026-01-18T21:36:10.777Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
-      "discordThreadId": "1462561218228256970",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-global-real-estate-design-construction-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-global-real-estate-design-construction-manager-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Global Real Estate Design & Construction Manager",
-      "postedToDiscord": "2026-01-18T21:36:14.334Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
-      "discordThreadId": "1462561232744611841",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-finance-variable-compensation-lead-san-francisco-ca-2026-01-18-1",
       "jobId": "anthropic-finance-variable-compensation-lead-san-francisco-ca",
@@ -8009,9 +7965,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465096124112048199",
+          "messageId": "1465098219334930565",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:28:56.281Z",
+          "postedAt": "2026-01-25T21:37:15.816Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -8033,9 +7989,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465096131015872554",
+          "messageId": "1465098226507186256",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:28:58.003Z",
+          "postedAt": "2026-01-25T21:37:17.494Z",
           "channelJobNumber": 4
         }
       },
@@ -8051,9 +8007,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465096151492726914",
+          "messageId": "1465098246396313651",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:29:02.874Z",
+          "postedAt": "2026-01-25T21:37:22.249Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -8075,9 +8031,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465096159004463351",
+          "messageId": "1465098253195411578",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:29:04.610Z",
+          "postedAt": "2026-01-25T21:37:24.028Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -8099,9 +8055,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465096166231248896",
+          "messageId": "1465098260950683871",
           "channelType": "category",
-          "postedAt": "2026-01-25T21:29:06.350Z",
+          "postedAt": "2026-01-25T21:37:25.817Z",
           "channelJobNumber": 6
         }
       },
@@ -8109,11 +8065,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 732,
+    "totalJobs": 728,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T21:29:06.350Z",
+      "date": "2026-01-25T21:37:25.818Z",
       "archived": 0
     }
   }
