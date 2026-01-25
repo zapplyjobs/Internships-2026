@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T19:28:03.772Z",
+  "lastUpdated": "2026-01-25T19:34:43.986Z",
   "jobs": [
-    {
-      "id": "anthropic-customer-success-manager-beneficial-deployments-new-york-city-ny-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-customer-success-manager-beneficial-deployments-new-york-city-ny-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Customer Success Manager, Beneficial Deployments",
-      "postedToDiscord": "2026-01-18T19:33:20.362Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4997951008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-data-center-facility-operations-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-data-center-facility-operations-lead-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Data Center Facility Operations Lead",
-      "postedToDiscord": "2026-01-18T19:33:26.841Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023727008",
-      "discordThreadId": "1462530331448971549",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-data-center-hardware-operations-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-data-center-hardware-operations-lead-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Data Center Hardware Operations Lead",
-      "postedToDiscord": "2026-01-18T19:33:30.352Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023719008",
-      "discordThreadId": "1462530345600811193",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-data-center-physical-security-lead-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-washington-dc-2026-01-18-1",
-      "jobId": "anthropic-data-center-physical-security-lead-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-washington-dc",
-      "company": "anthropic",
-      "title": "Data Center Physical Security Lead",
-      "postedToDiscord": "2026-01-18T19:33:33.978Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059602008",
-      "discordThreadId": "1462530360544985191",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-data-operations-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-data-operations-manager-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Data Operations Manager",
-      "postedToDiscord": "2026-01-18T19:33:37.644Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946317008",
-      "discordThreadId": "1462530375782895819",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-data-operations-manager-computer-use-tool-use-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-data-operations-manager-computer-use-tool-use-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Data Operations Manager, Computer Use & Tool Use",
-      "postedToDiscord": "2026-01-18T19:33:41.123Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
-      "discordThreadId": "1462530391301947553",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-data-scientist-marketing-san-francisco-ca-new-york-city-ny-2026-01-18-1",
       "jobId": "anthropic-data-scientist-marketing-san-francisco-ca-new-york-city-ny",
@@ -8416,15 +8350,15 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465065638643896411",
+          "messageId": "1465067316470481117",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:27:48.043Z",
+          "postedAt": "2026-01-25T19:34:28.145Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
-          "messageId": "1465065646122340445",
+          "messageId": "1465067324359839888",
           "channelType": "location",
-          "postedAt": "2026-01-25T19:27:49.845Z",
+          "postedAt": "2026-01-25T19:34:29.864Z",
           "channelJobNumber": 4
         }
       },
@@ -8440,9 +8374,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465065653865152513",
+          "messageId": "1465067331570106652",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:27:51.639Z",
+          "postedAt": "2026-01-25T19:34:31.658Z",
           "channelJobNumber": 4
         }
       },
@@ -8458,15 +8392,15 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465065674031239251",
+          "messageId": "1465067352126128510",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:27:56.376Z",
+          "postedAt": "2026-01-25T19:34:36.457Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
-          "messageId": "1465065681409282258",
+          "messageId": "1465067359407702218",
           "channelType": "location",
-          "postedAt": "2026-01-25T19:27:58.304Z",
+          "postedAt": "2026-01-25T19:34:38.488Z",
           "channelJobNumber": 5
         }
       },
@@ -8482,15 +8416,15 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465065688837394638",
+          "messageId": "1465067367712424026",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:27:59.987Z",
+          "postedAt": "2026-01-25T19:34:40.246Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
-          "messageId": "1465065696680738957",
+          "messageId": "1465067374867906706",
           "channelType": "location",
-          "postedAt": "2026-01-25T19:28:01.907Z",
+          "postedAt": "2026-01-25T19:34:42.100Z",
           "channelJobNumber": 6
         }
       },
@@ -8506,9 +8440,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465065704452784357",
+          "messageId": "1465067382912319789",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:28:03.772Z",
+          "postedAt": "2026-01-25T19:34:43.986Z",
           "channelJobNumber": 6
         }
       },
@@ -8516,11 +8450,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 769,
+    "totalJobs": 763,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T19:28:03.772Z",
+      "date": "2026-01-25T19:34:43.986Z",
       "archived": 0
     }
   }
