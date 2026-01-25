@@ -15211,5 +15211,16 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
     "discordThreadId": null,
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-finance-systems-integration-engineer-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-finance-systems-integration-engineer-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Finance Systems Integration Engineer",
+    "postedToDiscord": "2026-01-18T20:55:05.536Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
+    "discordThreadId": "1462550877310292294",
+    "instanceNumber": 1
   }
 ]
