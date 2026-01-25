@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=def7415c5be6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Software Engineering Intern in Sterling Heights. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=def7415c5be6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-01-25T17:47:06.331Z"
+    }
+  },
+  "cachedAt": 1769363226331
+}
