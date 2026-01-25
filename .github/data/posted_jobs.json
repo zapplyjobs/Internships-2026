@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T23:29:30.710Z",
+  "lastUpdated": "2026-01-25T23:38:39.462Z",
   "jobs": [
-    {
-      "id": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa",
-      "company": "anthropic",
-      "title": "Microsoft GTM Partnership, Enterprise",
-      "postedToDiscord": "2026-01-18T23:29:31.509Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
-      "discordThreadId": "1462589741487755317",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-microsoft-gtm-partnerships-manager-digital-natives-startups-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-microsoft-gtm-partnerships-manager-digital-natives-startups-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Microsoft GTM Partnerships Manager, Digital Natives & Startups",
-      "postedToDiscord": "2026-01-18T23:29:35.053Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018203008",
-      "discordThreadId": "1462589756872458445",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-partner-development-manager-build-partners-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-partner-development-manager-build-partners-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Partner Development Manager, Build Partners",
-      "postedToDiscord": "2026-01-18T23:29:38.524Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
-      "discordThreadId": "1462589771413983434",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-partner-marketing-lead-gsis-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-partner-marketing-lead-gsis-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Partner Marketing Lead, GSIs",
-      "postedToDiscord": "2026-01-18T23:29:41.980Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061729008",
-      "discordThreadId": "1462589786211750110",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-partner-operations-specialist-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-partner-operations-specialist-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Partner Operations Specialist",
-      "postedToDiscord": "2026-01-18T23:29:45.593Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
-      "discordThreadId": "1462589800459796597",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-partner-marketing-manager-cloud-partners-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-partner-marketing-manager-cloud-partners-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Partner Marketing Manager, Cloud Partners",
-      "postedToDiscord": "2026-01-18T23:29:52.197Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
-      "discordThreadId": "1462589828590735533",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-performance-engineer-gpu-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-performance-engineer-gpu-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Performance Engineer, GPU",
-      "postedToDiscord": "2026-01-18T23:37:57.014Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
-      "discordThreadId": "1462591862345826346",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-policy-communications-manager-san-francisco-ca-new-york-city-ny-san-francisco-ca-washington-dc-2026-01-18-1",
-      "jobId": "anthropic-policy-communications-manager-san-francisco-ca-new-york-city-ny-san-francisco-ca-washington-dc",
-      "company": "anthropic",
-      "title": "Policy Communications Manager",
-      "postedToDiscord": "2026-01-18T23:38:03.533Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
-      "discordThreadId": "1462591889394896969",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-policy-manager-chemical-weapons-and-high-yield-explosives-remote-friendly-travel-required-san-francisco-ca-washington-dc-2026-01-18-1",
       "jobId": "anthropic-policy-manager-chemical-weapons-and-high-yield-explosives-remote-friendly-travel-required-san-francisco-ca-washington-dc",
@@ -7635,9 +7547,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465126425341329610",
+          "messageId": "1465128727020179500",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:29:20.836Z",
+          "postedAt": "2026-01-25T23:38:29.418Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7659,9 +7571,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465126433276821555",
+          "messageId": "1465128734280384542",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:29:22.485Z",
+          "postedAt": "2026-01-25T23:38:31.154Z",
           "channelJobNumber": 4
         }
       },
@@ -7677,9 +7589,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465126453308948605",
+          "messageId": "1465128754170040361",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:29:27.337Z",
+          "postedAt": "2026-01-25T23:38:35.996Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7701,9 +7613,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465126460460372125",
+          "messageId": "1465128761778376825",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:29:29.057Z",
+          "postedAt": "2026-01-25T23:38:37.705Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7725,9 +7637,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465126467573907617",
+          "messageId": "1465128769248301147",
           "channelType": "category",
-          "postedAt": "2026-01-25T23:29:30.709Z",
+          "postedAt": "2026-01-25T23:38:39.462Z",
           "channelJobNumber": 6
         }
       },
@@ -7735,11 +7647,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 698,
+    "totalJobs": 690,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T23:29:30.710Z",
+      "date": "2026-01-25T23:38:39.462Z",
       "archived": 0
     }
   }
