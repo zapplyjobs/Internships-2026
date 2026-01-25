@@ -14727,5 +14727,82 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068424008",
     "discordThreadId": "1462518311861358817",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-corporate-communications-manager-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-corporate-communications-manager-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Corporate Communications Manager ",
+    "postedToDiscord": "2026-01-18T19:03:11.007Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-corporate-counsel-m-a-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-corporate-counsel-m-a-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Corporate Counsel, M&A",
+    "postedToDiscord": "2026-01-18T19:03:14.529Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059367008",
+    "discordThreadId": "1462522729696858244",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-customer-success-manager-digital-native-business-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-customer-success-manager-digital-native-business-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Customer Success Manager, Digital Native Business",
+    "postedToDiscord": "2026-01-18T19:03:18.224Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062733008",
+    "discordThreadId": "1462522744897016042",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-customer-success-manager-digital-native-businesses-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-customer-success-manager-digital-native-businesses-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Customer Success Manager, Digital Native Businesses ",
+    "postedToDiscord": "2026-01-18T19:03:21.605Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
+    "discordThreadId": "1462522759723876403",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-cross-functional-prompt-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-cross-functional-prompt-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Cross-functional Prompt Engineer",
+    "postedToDiscord": "2026-01-18T19:03:29.249Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
+    "discordThreadId": "1462522791432552522",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-customer-activation-manager-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-customer-activation-manager-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Customer Activation Manager",
+    "postedToDiscord": "2026-01-18T19:03:36.292Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973116008",
+    "discordThreadId": "1462522818888470745",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-customer-activation-manager-large-scale-deployments-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-customer-activation-manager-large-scale-deployments-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Customer Activation Manager, Large-Scale Deployments",
+    "postedToDiscord": "2026-01-18T19:03:40.121Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013277008",
+    "discordThreadId": "1462522836525514822",
+    "instanceNumber": 1
   }
 ]
