@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T18:59:18.475Z",
+  "lastUpdated": "2026-01-25T19:07:04.341Z",
   "jobs": [
-    {
-      "id": "anthropic-corporate-communications-manager-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-corporate-communications-manager-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Corporate Communications Manager ",
-      "postedToDiscord": "2026-01-18T19:03:11.007Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-corporate-counsel-m-a-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-corporate-counsel-m-a-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Corporate Counsel, M&A",
-      "postedToDiscord": "2026-01-18T19:03:14.529Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059367008",
-      "discordThreadId": "1462522729696858244",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-customer-success-manager-digital-native-business-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-customer-success-manager-digital-native-business-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Customer Success Manager, Digital Native Business",
-      "postedToDiscord": "2026-01-18T19:03:18.224Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062733008",
-      "discordThreadId": "1462522744897016042",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-customer-success-manager-digital-native-businesses-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-customer-success-manager-digital-native-businesses-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Customer Success Manager, Digital Native Businesses ",
-      "postedToDiscord": "2026-01-18T19:03:21.605Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
-      "discordThreadId": "1462522759723876403",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-cross-functional-prompt-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-cross-functional-prompt-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Cross-functional Prompt Engineer",
-      "postedToDiscord": "2026-01-18T19:03:29.249Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
-      "discordThreadId": "1462522791432552522",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-customer-activation-manager-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-customer-activation-manager-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Customer Activation Manager",
-      "postedToDiscord": "2026-01-18T19:03:36.292Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973116008",
-      "discordThreadId": "1462522818888470745",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-customer-activation-manager-large-scale-deployments-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-customer-activation-manager-large-scale-deployments-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Customer Activation Manager, Large-Scale Deployments",
-      "postedToDiscord": "2026-01-18T19:03:40.121Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013277008",
-      "discordThreadId": "1462522836525514822",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-customer-marketing-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
       "jobId": "anthropic-customer-marketing-manager-san-francisco-ca-new-york-city-ny",
@@ -8504,15 +8427,15 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465058403448520746",
+          "messageId": "1465060354374504646",
           "channelType": "category",
-          "postedAt": "2026-01-25T18:59:03.047Z",
+          "postedAt": "2026-01-25T19:06:48.257Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
-          "messageId": "1465058411442864424",
+          "messageId": "1465060362712908025",
           "channelType": "location",
-          "postedAt": "2026-01-25T18:59:04.933Z",
+          "postedAt": "2026-01-25T19:06:50.246Z",
           "channelJobNumber": 4
         }
       },
@@ -8528,9 +8451,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465058418711597254",
+          "messageId": "1465060370459656418",
           "channelType": "category",
-          "postedAt": "2026-01-25T18:59:06.680Z",
+          "postedAt": "2026-01-25T19:06:52.137Z",
           "channelJobNumber": 4
         }
       },
@@ -8546,15 +8469,15 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465058438915821662",
+          "messageId": "1465060391150420073",
           "channelType": "category",
-          "postedAt": "2026-01-25T18:59:11.535Z",
+          "postedAt": "2026-01-25T19:06:56.927Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
-          "messageId": "1465058446142345463",
+          "messageId": "1465060398473547834",
           "channelType": "location",
-          "postedAt": "2026-01-25T18:59:13.283Z",
+          "postedAt": "2026-01-25T19:06:58.830Z",
           "channelJobNumber": 5
         }
       },
@@ -8570,15 +8493,15 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465058453864317162",
+          "messageId": "1465060406480339160",
           "channelType": "category",
-          "postedAt": "2026-01-25T18:59:15.005Z",
+          "postedAt": "2026-01-25T19:07:00.926Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
-          "messageId": "1465058461195833494",
+          "messageId": "1465060415280255170",
           "channelType": "location",
-          "postedAt": "2026-01-25T18:59:16.736Z",
+          "postedAt": "2026-01-25T19:07:02.612Z",
           "channelJobNumber": 6
         }
       },
@@ -8594,9 +8517,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465058468527341629",
+          "messageId": "1465060422469288051",
           "channelType": "category",
-          "postedAt": "2026-01-25T18:59:18.475Z",
+          "postedAt": "2026-01-25T19:07:04.341Z",
           "channelJobNumber": 6
         }
       },
@@ -8604,11 +8527,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 777,
+    "totalJobs": 770,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T18:59:18.475Z",
+      "date": "2026-01-25T19:07:04.341Z",
       "archived": 0
     }
   }
