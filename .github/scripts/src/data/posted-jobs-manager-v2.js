@@ -27,6 +27,8 @@ class PostedJobsManagerV2 {
     this.archiveDir = path.join(dataDir, 'archive');
     this.activeWindowDays = parseInt(process.env.ACTIVE_WINDOW_DAYS) || 7;
     this.reopeningWindowDays = parseInt(process.env.REOPENING_WINDOW_DAYS) || 30;
+    // Track counters during this session to prevent duplicates in same batch
+    this.sessionChannelCounters = {};
   }
 
   /**
@@ -317,40 +319,47 @@ class PostedJobsManagerV2 {
    * @returns {number} - Next job number for this channel
    */
   getChannelJobNumber(channelId) {
-    // Count all existing posts to this channel (including archived)
-    let count = 0;
+    // Check if we've already calculated the base count for this channel this session
+    if (!this.sessionChannelCounters[channelId]) {
+      // Count all existing posts to this channel (including archived)
+      let count = 0;
 
-    // Count from active jobs
-    for (const job of this.data.jobs) {
-      if (job.discordPosts && job.discordPosts[channelId]) {
-        count++;
+      // Count from active jobs
+      for (const job of this.data.jobs) {
+        if (job.discordPosts && job.discordPosts[channelId]) {
+          count++;
+        }
       }
-    }
 
-    // Also check archives to get accurate historical count
-    if (fs.existsSync(this.archiveDir)) {
-      const archiveFiles = fs.readdirSync(this.archiveDir);
-      for (const file of archiveFiles) {
-        if (file.endsWith('.json')) {
-          try {
-            const archivePath = path.join(this.archiveDir, file);
-            const archiveJobs = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
-            if (Array.isArray(archiveJobs)) {
-              for (const job of archiveJobs) {
-                if (job.discordPosts && job.discordPosts[channelId]) {
-                  count++;
+      // Also check archives to get accurate historical count
+      if (fs.existsSync(this.archiveDir)) {
+        const archiveFiles = fs.readdirSync(this.archiveDir);
+        for (const file of archiveFiles) {
+          if (file.endsWith('.json')) {
+            try {
+              const archivePath = path.join(this.archiveDir, file);
+              const archiveJobs = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
+              if (Array.isArray(archiveJobs)) {
+                for (const job of archiveJobs) {
+                  if (job.discordPosts && job.discordPosts[channelId]) {
+                    count++;
+                  }
                 }
               }
+            } catch (error) {
+              console.error(`⚠️  Error reading archive ${file}:`, error.message);
             }
-          } catch (error) {
-            console.error(`⚠️  Error reading archive ${file}:`, error.message);
           }
         }
       }
+
+      // Initialize session counter with base count
+      this.sessionChannelCounters[channelId] = count;
     }
 
-    // Return next number (count + 1)
-    return count + 1;
+    // Increment and return the next job number for this channel
+    this.sessionChannelCounters[channelId]++;
+    return this.sessionChannelCounters[channelId];
   }
 
   /**
