@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-25T19:07:10.997Z",
+  "generated": "2026-01-25T19:16:42.781Z",
   "period": "last_7_days",
-  "period_start": "2026-01-18T19:07:10.997Z",
-  "period_end": "2026-01-25T19:07:10.997Z",
+  "period_start": "2026-01-18T19:16:42.781Z",
+  "period_end": "2026-01-25T19:16:42.781Z",
   "summary": {
     "total_jobs_posted": 8,
     "unique_jobs": 5,
@@ -25,13 +25,13 @@
           "id": "northrop-grumman-software-engineer-huntsville",
           "title": "Software Engineer",
           "company": "Northrop Grumman",
-          "posted_at": "2026-01-25T19:06:48.281Z"
+          "posted_at": "2026-01-25T19:16:17.560Z"
         },
         {
           "id": "zoox-technical-product-management-intern-agentic-ai-san-mateo",
           "title": "Technical Product Management Intern, Agentic AI",
           "company": "Zoox",
-          "posted_at": "2026-01-25T19:06:52.147Z"
+          "posted_at": "2026-01-25T19:16:22.620Z"
         }
       ]
     },
@@ -48,19 +48,19 @@
           "id": "northrop-grumman-software-engineer-huntsville",
           "title": "Software Engineer",
           "company": "Northrop Grumman",
-          "posted_at": "2026-01-25T19:06:50.256Z"
+          "posted_at": "2026-01-25T19:16:20.792Z"
         },
         {
           "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
           "title": "Technology Order Management Execution & Compliance",
           "company": "Franklin Templeton",
-          "posted_at": "2026-01-25T19:06:58.840Z"
+          "posted_at": "2026-01-25T19:16:29.098Z"
         },
         {
           "id": "micron-technology-intern-it-mfg-boise",
           "title": "Intern – IT MFG",
           "company": "Micron Technology",
-          "posted_at": "2026-01-25T19:07:02.623Z"
+          "posted_at": "2026-01-25T19:16:32.858Z"
         }
       ]
     },
@@ -77,19 +77,19 @@
           "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
           "title": "Technology Order Management Execution & Compliance",
           "company": "Franklin Templeton",
-          "posted_at": "2026-01-25T19:06:56.938Z"
+          "posted_at": "2026-01-25T19:16:27.383Z"
         },
         {
           "id": "micron-technology-intern-it-mfg-boise",
           "title": "Intern – IT MFG",
           "company": "Micron Technology",
-          "posted_at": "2026-01-25T19:07:00.937Z"
+          "posted_at": "2026-01-25T19:16:31.009Z"
         },
         {
           "id": "danaher-product-management-marketing-intern-marlborough",
           "title": "Product Management / Marketing Intern",
           "company": "Danaher",
-          "posted_at": "2026-01-25T19:07:04.350Z"
+          "posted_at": "2026-01-25T19:16:36.128Z"
         }
       ]
     }
@@ -103,7 +103,7 @@
         "💻・tech-internships",
         "🏠・remote-usa-internships"
       ],
-      "posted_at": "2026-01-25T19:06:48.281Z"
+      "posted_at": "2026-01-25T19:16:17.560Z"
     },
     {
       "job_id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
@@ -113,7 +113,7 @@
         "📣・marketing-internships",
         "🏠・remote-usa-internships"
       ],
-      "posted_at": "2026-01-25T19:06:56.938Z"
+      "posted_at": "2026-01-25T19:16:27.383Z"
     },
     {
       "job_id": "micron-technology-intern-it-mfg-boise",
@@ -123,7 +123,7 @@
         "📣・marketing-internships",
         "🏠・remote-usa-internships"
       ],
-      "posted_at": "2026-01-25T19:07:00.937Z"
+      "posted_at": "2026-01-25T19:16:31.009Z"
     }
   ],
   "failures": [],
