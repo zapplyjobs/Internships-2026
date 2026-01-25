@@ -15266,5 +15266,60 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
     "discordThreadId": "1462561232744611841",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-finance-variable-compensation-lead-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-finance-variable-compensation-lead-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Finance Variable Compensation Lead",
+    "postedToDiscord": "2026-01-18T21:52:59.265Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
+    "discordThreadId": "1462565447454032117",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-global-technology-partner-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-global-technology-partner-lead-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Global Technology Partner Lead",
+    "postedToDiscord": "2026-01-18T21:53:02.828Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043437008",
+    "discordThreadId": "1462565462020849764",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-growth-account-executive-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-growth-account-executive-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Growth Account Executive",
+    "postedToDiscord": "2026-01-18T21:53:06.570Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+    "discordThreadId": "1462565477636378787",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-founding-developer-relations-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-founding-developer-relations-lead-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Founding Developer Relations Lead",
+    "postedToDiscord": "2026-01-18T22:03:23.350Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-google-partnerships-manager-digital-native-startups-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-google-partnerships-manager-digital-native-startups-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Google Partnerships Manager, Digital Native & Startups",
+    "postedToDiscord": "2026-01-18T22:03:27.911Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
+    "discordThreadId": "1462568079895691274",
+    "instanceNumber": 1
   }
 ]
