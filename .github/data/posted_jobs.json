@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T19:44:07.699Z",
+  "lastUpdated": "2026-01-25T19:53:12.888Z",
   "jobs": [
-    {
-      "id": "anthropic-developer-campaign-marketer-claude-code-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-developer-campaign-marketer-claude-code-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Developer Campaign Marketer - Claude Code",
-      "postedToDiscord": "2026-01-18T19:44:10.002Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-developer-relations-mcp-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-developer-relations-mcp-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Developer Relations, MCP",
-      "postedToDiscord": "2026-01-18T19:44:13.557Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
-      "discordThreadId": "1462533043821608980",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-data-operations-product-partnerships-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-data-operations-product-partnerships-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Data Operations, Product Partnerships",
-      "postedToDiscord": "2026-01-18T19:53:03.108Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5056499008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engagement-manager-applied-ai-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-engagement-manager-applied-ai-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Engagement Manager, Applied AI",
-      "postedToDiscord": "2026-01-18T19:53:06.689Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
-      "discordThreadId": "1462535279528378595",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engineering-manager-cloud-inference-azure-san-francisco-ca-seattle-wa-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-cloud-inference-azure-san-francisco-ca-seattle-wa-seattle-wa",
-      "company": "anthropic",
-      "title": "Engineering Manager, Cloud Inference Azure",
-      "postedToDiscord": "2026-01-18T19:53:10.162Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068272008",
-      "discordThreadId": "1462535294338469959",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-engineering-manager-inference-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
       "jobId": "anthropic-engineering-manager-inference-san-francisco-ca-new-york-city-ny-seattle-wa",
@@ -8339,9 +8284,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465069704510177494",
+          "messageId": "1465071985938792673",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:43:57.325Z",
+          "postedAt": "2026-01-25T19:53:01.389Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -8363,9 +8308,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465069711690567995",
+          "messageId": "1465071993379487857",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:43:59.118Z",
+          "postedAt": "2026-01-25T19:53:03.146Z",
           "channelJobNumber": 4
         }
       },
@@ -8381,9 +8326,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465069732423270480",
+          "messageId": "1465072013742833735",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:44:04.069Z",
+          "postedAt": "2026-01-25T19:53:07.917Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -8405,9 +8350,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465069740413292574",
+          "messageId": "1465072021040791562",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:44:05.981Z",
+          "postedAt": "2026-01-25T19:53:09.628Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -8429,9 +8374,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465069747917029522",
+          "messageId": "1465072028213051728",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:44:07.699Z",
+          "postedAt": "2026-01-25T19:53:12.888Z",
           "channelJobNumber": 6
         }
       },
@@ -8439,11 +8384,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 762,
+    "totalJobs": 757,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T19:44:07.699Z",
+      "date": "2026-01-25T19:53:12.888Z",
       "archived": 1,
       "monthsAffected": 1
     }
