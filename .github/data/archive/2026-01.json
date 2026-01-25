@@ -15596,5 +15596,93 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
     "discordThreadId": "1462589713868128452",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa",
+    "company": "anthropic",
+    "title": "Microsoft GTM Partnership, Enterprise",
+    "postedToDiscord": "2026-01-18T23:29:31.509Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
+    "discordThreadId": "1462589741487755317",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-microsoft-gtm-partnerships-manager-digital-natives-startups-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-microsoft-gtm-partnerships-manager-digital-natives-startups-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Microsoft GTM Partnerships Manager, Digital Natives & Startups",
+    "postedToDiscord": "2026-01-18T23:29:35.053Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018203008",
+    "discordThreadId": "1462589756872458445",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-partner-development-manager-build-partners-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-partner-development-manager-build-partners-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Partner Development Manager, Build Partners",
+    "postedToDiscord": "2026-01-18T23:29:38.524Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
+    "discordThreadId": "1462589771413983434",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-partner-marketing-lead-gsis-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-partner-marketing-lead-gsis-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Partner Marketing Lead, GSIs",
+    "postedToDiscord": "2026-01-18T23:29:41.980Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061729008",
+    "discordThreadId": "1462589786211750110",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-partner-operations-specialist-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-partner-operations-specialist-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Partner Operations Specialist",
+    "postedToDiscord": "2026-01-18T23:29:45.593Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
+    "discordThreadId": "1462589800459796597",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-partner-marketing-manager-cloud-partners-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-partner-marketing-manager-cloud-partners-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Partner Marketing Manager, Cloud Partners",
+    "postedToDiscord": "2026-01-18T23:29:52.197Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
+    "discordThreadId": "1462589828590735533",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-performance-engineer-gpu-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-performance-engineer-gpu-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Performance Engineer, GPU",
+    "postedToDiscord": "2026-01-18T23:37:57.014Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
+    "discordThreadId": "1462591862345826346",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-policy-communications-manager-san-francisco-ca-new-york-city-ny-san-francisco-ca-washington-dc-2026-01-18-1",
+    "jobId": "anthropic-policy-communications-manager-san-francisco-ca-new-york-city-ny-san-francisco-ca-washington-dc",
+    "company": "anthropic",
+    "title": "Policy Communications Manager",
+    "postedToDiscord": "2026-01-18T23:38:03.533Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
+    "discordThreadId": "1462591889394896969",
+    "instanceNumber": 1
   }
 ]
