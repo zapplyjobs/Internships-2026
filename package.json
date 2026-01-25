@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@zapply/job-board-shared": "^1.0.0",
-    "axios": "^1.13.2",
+    "axios": "^1.13.3",
     "cheerio": "^1.2.0",
     "discord.js": "^14.25.1",
     "puppeteer": "^24.36.0"
