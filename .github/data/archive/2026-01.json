@@ -14650,5 +14650,82 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
     "discordThreadId": null,
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-commercial-counsel-partnerships-alliances-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-commercial-counsel-partnerships-alliances-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Commercial Counsel, Partnerships & Alliances",
+    "postedToDiscord": "2026-01-18T18:45:07.320Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983107008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-compensation-systems-and-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-compensation-systems-and-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Compensation Systems and Infrastructure",
+    "postedToDiscord": "2026-01-18T18:45:10.849Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973549008",
+    "discordThreadId": "1462518184220557408",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-contracts-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-contracts-manager-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Contracts Manager",
+    "postedToDiscord": "2026-01-18T18:45:14.421Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4987662008",
+    "discordThreadId": "1462518199345217679",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-contracts-manager-procurement-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-contracts-manager-procurement-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Contracts Manager, Procurement",
+    "postedToDiscord": "2026-01-18T18:45:17.903Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4955791008",
+    "discordThreadId": "1462518214276808725",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-corporate-legal-specialist-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-corporate-legal-specialist-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Corporate Legal Specialist",
+    "postedToDiscord": "2026-01-18T18:45:21.521Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5011703008",
+    "discordThreadId": "1462518228843626680",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-commercial-legal-specialist-technical-ai-implementation-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-commercial-legal-specialist-technical-ai-implementation-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Commercial Legal Specialist, Technical AI Implementation",
+    "postedToDiscord": "2026-01-18T18:45:28.069Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980504008",
+    "discordThreadId": "1462518256643477708",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-compute-capacity-strategy-operations-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-compute-capacity-strategy-operations-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Compute Capacity Strategy & Operations",
+    "postedToDiscord": "2026-01-18T18:45:41.279Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068424008",
+    "discordThreadId": "1462518311861358817",
+    "instanceNumber": 1
   }
 ]
