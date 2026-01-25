@@ -14892,5 +14892,60 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983584008",
     "discordThreadId": null,
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-developer-campaign-marketer-claude-code-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-developer-campaign-marketer-claude-code-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Developer Campaign Marketer - Claude Code",
+    "postedToDiscord": "2026-01-18T19:44:10.002Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-developer-relations-mcp-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-developer-relations-mcp-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Developer Relations, MCP",
+    "postedToDiscord": "2026-01-18T19:44:13.557Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
+    "discordThreadId": "1462533043821608980",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-data-operations-product-partnerships-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-data-operations-product-partnerships-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Data Operations, Product Partnerships",
+    "postedToDiscord": "2026-01-18T19:53:03.108Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5056499008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engagement-manager-applied-ai-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-engagement-manager-applied-ai-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Engagement Manager, Applied AI",
+    "postedToDiscord": "2026-01-18T19:53:06.689Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+    "discordThreadId": "1462535279528378595",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-cloud-inference-azure-san-francisco-ca-seattle-wa-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-cloud-inference-azure-san-francisco-ca-seattle-wa-seattle-wa",
+    "company": "anthropic",
+    "title": "Engineering Manager, Cloud Inference Azure",
+    "postedToDiscord": "2026-01-18T19:53:10.162Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068272008",
+    "discordThreadId": "1462535294338469959",
+    "instanceNumber": 1
   }
 ]
