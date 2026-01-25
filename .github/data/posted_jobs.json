@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T20:03:25.104Z",
+  "lastUpdated": "2026-01-25T20:17:31.328Z",
   "jobs": [
-    {
-      "id": "anthropic-engineering-manager-product-platform-accounts-platform-new-york-city-ny-san-francisco-ca-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-product-platform-accounts-platform-new-york-city-ny-san-francisco-ca-seattle-wa",
-      "company": "anthropic",
-      "title": "Engineering Manager, Product Platform & Accounts Platform",
-      "postedToDiscord": "2026-01-18T20:03:33.665Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
-      "discordThreadId": "1462537909750992966",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engineering-manager-public-sector-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-public-sector-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Engineering Manager, Public Sector",
-      "postedToDiscord": "2026-01-18T20:03:40.682Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4903385008",
-      "discordThreadId": "1462537936724562012",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engineering-manager-ui-claude-consumer-products-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-ui-claude-consumer-products-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Engineering Manager, UI Claude Consumer Products",
-      "postedToDiscord": "2026-01-18T20:17:20.636Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041870008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-engineering-manager-ui-platform-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-engineering-manager-ui-platform-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Engineering Manager, UI Platform",
-      "postedToDiscord": "2026-01-18T20:17:24.201Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058714008",
-      "discordThreadId": "1462541392747167765",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-enterprise-account-executive-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-enterprise-account-executive-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Enterprise Account Executive",
-      "postedToDiscord": "2026-01-18T20:17:30.668Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
-      "discordThreadId": "1462541420505075762",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-enterprise-account-executive-digital-native-business-san-francisco-ca-2026-01-18-1",
       "jobId": "anthropic-enterprise-account-executive-digital-native-business-san-francisco-ca",
@@ -8218,9 +8163,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465074559198691603",
+          "messageId": "1465078109199008011",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:03:14.755Z",
+          "postedAt": "2026-01-25T20:17:21.231Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -8242,9 +8187,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465074567268667526",
+          "messageId": "1465078116560146731",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:03:16.816Z",
+          "postedAt": "2026-01-25T20:17:23.000Z",
           "channelJobNumber": 4
         }
       },
@@ -8260,9 +8205,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465074587581550714",
+          "messageId": "1465078136935809108",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:03:21.695Z",
+          "postedAt": "2026-01-25T20:17:27.879Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -8284,9 +8229,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465074595223834626",
+          "messageId": "1465078144623968488",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:03:23.421Z",
+          "postedAt": "2026-01-25T20:17:29.627Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -8308,9 +8253,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465074602580377934",
+          "messageId": "1465078151804747889",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:03:25.104Z",
+          "postedAt": "2026-01-25T20:17:31.328Z",
           "channelJobNumber": 6
         }
       },
@@ -8318,12 +8263,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 751,
+    "totalJobs": 746,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T20:03:25.104Z",
-      "archived": 0
+      "date": "2026-01-25T20:17:31.328Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
