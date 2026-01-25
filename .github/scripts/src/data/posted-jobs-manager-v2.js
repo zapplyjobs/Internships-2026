@@ -460,6 +460,7 @@ class PostedJobsManagerV2 {
 
   /**
    * Save posted_jobs.json with automatic archiving
+   * CRITICAL: Reloads database before saving to prevent race conditions from concurrent workflow runs
    */
   savePostedJobs() {
     try {
@@ -469,7 +470,70 @@ class PostedJobsManagerV2 {
 
       const now = new Date().toISOString();
 
-      console.log(`💾 BEFORE ARCHIVING: ${this.data.jobs.length} jobs in database`);
+      console.log(`💾 BEFORE MERGE: ${this.data.jobs.length} jobs in memory`);
+
+      // CRITICAL FIX: Reload database to merge concurrent changes
+      // Without this, concurrent workflow runs overwrite each other's updates
+      const diskData = this.loadPostedJobs();
+      console.log(`💾 DISK STATE: ${diskData.jobs.length} jobs on disk`);
+
+      // Merge strategy: Combine jobs from both disk and memory, preferring newer data
+      const mergedJobs = new Map();
+
+      // Add all disk jobs first
+      diskData.jobs.forEach(job => {
+        mergedJobs.set(job.id, job);
+      });
+
+      // Add/update with memory jobs (newer or more complete data wins)
+      let mergeStats = {newJobs: 0, newerJobs: 0, deepMerged: 0, skipped: 0};
+
+      // CRITICAL FIX: Use for loop instead of forEach to avoid iteration issues
+      console.log(`💾 DEBUG: About to iterate memory jobs - Array.isArray=${Array.isArray(this.data.jobs)}, length=${this.data.jobs.length}`);
+
+      const memoryJobs = this.data.jobs; // Cache reference
+      for (let i = 0; i < memoryJobs.length; i++) {
+        const job = memoryJobs[i];
+        if (!job || !job.id) {
+          console.warn(`  ⚠️  Skipping invalid job at index ${i}`);
+          continue;
+        }
+
+        const existing = mergedJobs.get(job.id);
+        if (!existing) {
+          // New job only in memory
+          mergedJobs.set(job.id, job);
+          mergeStats.newJobs++;
+        } else if (new Date(job.postedToDiscord) > new Date(existing.postedToDiscord)) {
+          // Memory version is newer - use it
+          mergedJobs.set(job.id, job);
+          mergeStats.newerJobs++;
+        } else if (new Date(job.postedToDiscord).getTime() === new Date(existing.postedToDiscord).getTime()) {
+          // Same timestamp - merge discordPosts (memory has latest channel updates)
+          const merged = {...existing};
+          const memoryChannels = job.discordPosts ? Object.keys(job.discordPosts).length : 0;
+          const diskChannels = existing.discordPosts ? Object.keys(existing.discordPosts).length : 0;
+
+          if (job.discordPosts && memoryChannels > 0) {
+            merged.discordPosts = {...(existing.discordPosts || {}), ...job.discordPosts};
+            const mergedChannels = Object.keys(merged.discordPosts).length;
+            if (mergedChannels !== diskChannels) {
+              mergeStats.deepMerged++;
+              console.log(`  🔀 Deep merged: ${job.title} @ ${job.company} (disk: ${diskChannels} channels → merged: ${mergedChannels} channels)`);
+            }
+          }
+          mergedJobs.set(job.id, merged);
+        } else {
+          mergeStats.skipped++;
+        }
+        // else: disk version is newer, keep it (already in map)
+      }
+
+      console.log(`💾 MERGE STATS: ${mergeStats.newJobs} new, ${mergeStats.newerJobs} updated, ${mergeStats.deepMerged} deep-merged, ${mergeStats.skipped} skipped`);
+
+      // Update in-memory state with merged data
+      this.data.jobs = Array.from(mergedJobs.values());
+      console.log(`💾 AFTER MERGE: ${this.data.jobs.length} jobs (merged disk + memory)`);
 
       // Archive old jobs before saving
       const archiveStats = this.archiveOldJobs();
