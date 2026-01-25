@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T22:29:49.756Z",
+  "lastUpdated": "2026-01-25T22:40:45.082Z",
   "jobs": [
-    {
-      "id": "anthropic-incentive-compensation-system-engineer-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-incentive-compensation-system-engineer-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Incentive Compensation System Engineer",
-      "postedToDiscord": "2026-01-18T22:39:54.973Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-infrastructure-engineer-sandboxing-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-infrastructure-engineer-sandboxing-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Infrastructure Engineer, Sandboxing",
-      "postedToDiscord": "2026-01-18T22:39:58.499Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008",
-      "discordThreadId": "1462577271830347960",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-it-systems-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-it-systems-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
-      "company": "anthropic",
-      "title": "IT Systems Engineer",
-      "postedToDiscord": "2026-01-18T22:40:02.070Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
-      "discordThreadId": "1462577286791303301",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-lead-product-manager-research-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-lead-product-manager-research-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Lead Product Manager, Research",
-      "postedToDiscord": "2026-01-18T22:40:08.952Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933813008",
-      "discordThreadId": "1462577314742276261",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-machine-learning-systems-engineer-research-tools-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
-      "jobId": "anthropic-machine-learning-systems-engineer-research-tools-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Machine Learning Systems Engineer, Research Tools",
-      "postedToDiscord": "2026-01-18T22:40:15.524Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
-      "discordThreadId": "1462577343695683828",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-account-executive-enterprise-sales-industries-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-manager-account-executive-enterprise-sales-industries-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Manager, Account Executive - Enterprise Sales (Industries)",
-      "postedToDiscord": "2026-01-18T22:40:22.077Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054819008",
-      "discordThreadId": "1462577371495530586",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-customer-success-new-york-city-ny-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-manager-customer-success-new-york-city-ny-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Manager, Customer Success",
-      "postedToDiscord": "2026-01-18T22:40:25.555Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
-      "discordThreadId": "1462577386213212172",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-manager-growth-account-executive-new-york-city-ny-san-francisco-ca-2026-01-18-1",
       "jobId": "anthropic-manager-growth-account-executive-new-york-city-ny-san-francisco-ca",
@@ -7833,9 +7756,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465111405161353440",
+          "messageId": "1465114152916881604",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:29:39.695Z",
+          "postedAt": "2026-01-25T22:40:34.909Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7857,9 +7780,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465111412849381590",
+          "messageId": "1465114161318068416",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:29:41.461Z",
+          "postedAt": "2026-01-25T22:40:36.688Z",
           "channelJobNumber": 4
         }
       },
@@ -7875,9 +7798,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465111433162526875",
+          "messageId": "1465114181161320610",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:29:46.274Z",
+          "postedAt": "2026-01-25T22:40:41.448Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7899,9 +7822,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465111440351559703",
+          "messageId": "1465114188556013788",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:29:48.041Z",
+          "postedAt": "2026-01-25T22:40:43.153Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7923,9 +7846,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465111447620157546",
+          "messageId": "1465114195623284902",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:29:49.756Z",
+          "postedAt": "2026-01-25T22:40:45.082Z",
           "channelJobNumber": 6
         }
       },
@@ -7933,11 +7856,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 716,
+    "totalJobs": 709,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T22:29:49.756Z",
+      "date": "2026-01-25T22:40:45.082Z",
       "archived": 0
     }
   }

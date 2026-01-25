@@ -15398,5 +15398,82 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933383008",
     "discordThreadId": "1462568200494518459",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-incentive-compensation-system-engineer-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-incentive-compensation-system-engineer-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Incentive Compensation System Engineer",
+    "postedToDiscord": "2026-01-18T22:39:54.973Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-infrastructure-engineer-sandboxing-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-infrastructure-engineer-sandboxing-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Infrastructure Engineer, Sandboxing",
+    "postedToDiscord": "2026-01-18T22:39:58.499Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008",
+    "discordThreadId": "1462577271830347960",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-it-systems-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-it-systems-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+    "company": "anthropic",
+    "title": "IT Systems Engineer",
+    "postedToDiscord": "2026-01-18T22:40:02.070Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
+    "discordThreadId": "1462577286791303301",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-lead-product-manager-research-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-lead-product-manager-research-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Lead Product Manager, Research",
+    "postedToDiscord": "2026-01-18T22:40:08.952Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933813008",
+    "discordThreadId": "1462577314742276261",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-machine-learning-systems-engineer-research-tools-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-machine-learning-systems-engineer-research-tools-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Machine Learning Systems Engineer, Research Tools",
+    "postedToDiscord": "2026-01-18T22:40:15.524Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+    "discordThreadId": "1462577343695683828",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-account-executive-enterprise-sales-industries-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-manager-account-executive-enterprise-sales-industries-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Manager, Account Executive - Enterprise Sales (Industries)",
+    "postedToDiscord": "2026-01-18T22:40:22.077Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054819008",
+    "discordThreadId": "1462577371495530586",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-customer-success-new-york-city-ny-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-manager-customer-success-new-york-city-ny-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Manager, Customer Success",
+    "postedToDiscord": "2026-01-18T22:40:25.555Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "discordThreadId": "1462577386213212172",
+    "instanceNumber": 1
   }
 ]
