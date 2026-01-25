@@ -15013,5 +15013,60 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
     "discordThreadId": "1462535407823622164",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-product-platform-accounts-platform-new-york-city-ny-san-francisco-ca-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-product-platform-accounts-platform-new-york-city-ny-san-francisco-ca-seattle-wa",
+    "company": "anthropic",
+    "title": "Engineering Manager, Product Platform & Accounts Platform",
+    "postedToDiscord": "2026-01-18T20:03:33.665Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
+    "discordThreadId": "1462537909750992966",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-public-sector-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-public-sector-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Engineering Manager, Public Sector",
+    "postedToDiscord": "2026-01-18T20:03:40.682Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4903385008",
+    "discordThreadId": "1462537936724562012",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-ui-claude-consumer-products-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-ui-claude-consumer-products-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Engineering Manager, UI Claude Consumer Products",
+    "postedToDiscord": "2026-01-18T20:17:20.636Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041870008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-engineering-manager-ui-platform-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-engineering-manager-ui-platform-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Engineering Manager, UI Platform",
+    "postedToDiscord": "2026-01-18T20:17:24.201Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058714008",
+    "discordThreadId": "1462541392747167765",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-enterprise-account-executive-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-enterprise-account-executive-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Enterprise Account Executive",
+    "postedToDiscord": "2026-01-18T20:17:30.668Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
+    "discordThreadId": "1462541420505075762",
+    "instanceNumber": 1
   }
 ]
