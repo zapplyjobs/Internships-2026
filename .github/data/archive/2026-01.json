@@ -14881,5 +14881,16 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
     "discordThreadId": "1462530391301947553",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-data-scientist-marketing-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-data-scientist-marketing-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Data Scientist, Marketing",
+    "postedToDiscord": "2026-01-18T19:44:06.617Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983584008",
+    "discordThreadId": null,
+    "instanceNumber": 1
   }
 ]
