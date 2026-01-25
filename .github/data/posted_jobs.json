@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T20:30:50.978Z",
+  "lastUpdated": "2026-01-25T20:42:03.068Z",
   "jobs": [
-    {
-      "id": "anthropic-event-security-program-coordinator-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-event-security-program-coordinator-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Event Security Program Coordinator ",
-      "postedToDiscord": "2026-01-18T20:40:20.904Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4965200008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-field-marketing-manager-industries-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-field-marketing-manager-industries-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Field Marketing Manager, Industries",
-      "postedToDiscord": "2026-01-18T20:40:27.721Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4934940008",
-      "discordThreadId": "1462547194988204053",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-field-marketing-manager-startups-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-field-marketing-manager-startups-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Field Marketing Manager, Startups",
-      "postedToDiscord": "2026-01-18T20:40:31.213Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026192008",
-      "discordThreadId": "1462547210792337670",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-finance-and-strategy-people-headcount-planning-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-finance-and-strategy-people-headcount-planning-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Finance and Strategy, People & Headcount Planning",
-      "postedToDiscord": "2026-01-18T20:40:37.764Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061738008",
-      "discordThreadId": "1462547238063444070",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-finance-systems-finance-strategy-lead-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-finance-systems-finance-strategy-lead-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Finance Systems, Finance & Strategy Lead",
-      "postedToDiscord": "2026-01-18T20:40:41.344Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5060653008",
-      "discordThreadId": "1462547252869468160",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-finance-systems-senior-business-systems-analyst-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-finance-systems-senior-business-systems-analyst-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Finance Systems, Senior Business Systems Analyst",
-      "postedToDiscord": "2026-01-18T20:40:45.183Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4991194008",
-      "discordThreadId": "1462547268589715732",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-finance-systems-senior-business-systems-analyst-finance-strategy-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-finance-systems-senior-business-systems-analyst-finance-strategy-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Finance Systems, Senior Business Systems Analyst - Finance & Strategy",
-      "postedToDiscord": "2026-01-18T20:40:45.194Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-finance-systems-integration-engineer-san-francisco-ca-2026-01-18-1",
       "jobId": "anthropic-finance-systems-integration-engineer-san-francisco-ca",
@@ -8097,9 +8020,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465081464164057189",
+          "messageId": "1465084281037521010",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:30:41.072Z",
+          "postedAt": "2026-01-25T20:41:52.763Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -8121,9 +8044,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465081471168413915",
+          "messageId": "1465084288922943589",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:30:42.720Z",
+          "postedAt": "2026-01-25T20:41:54.567Z",
           "channelJobNumber": 4
         }
       },
@@ -8139,9 +8062,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465081491003412552",
+          "messageId": "1465084309026115843",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:30:47.507Z",
+          "postedAt": "2026-01-25T20:41:59.323Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -8163,9 +8086,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465081498310017220",
+          "messageId": "1465084316144111669",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:30:49.280Z",
+          "postedAt": "2026-01-25T20:42:01.192Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -8187,9 +8110,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465081505658310789",
+          "messageId": "1465084324255633566",
           "channelType": "category",
-          "postedAt": "2026-01-25T20:30:50.977Z",
+          "postedAt": "2026-01-25T20:42:03.068Z",
           "channelJobNumber": 6
         }
       },
@@ -8197,11 +8120,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 740,
+    "totalJobs": 733,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T20:30:50.978Z",
+      "date": "2026-01-25T20:42:03.068Z",
       "archived": 0
     }
   }
