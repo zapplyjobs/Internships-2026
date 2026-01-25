@@ -15068,5 +15068,71 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
     "discordThreadId": "1462541420505075762",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-enterprise-account-executive-digital-native-business-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-enterprise-account-executive-digital-native-business-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "postedToDiscord": "2026-01-18T20:17:34.034Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4493001008",
+    "discordThreadId": "1462541434916704357",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-enterprise-account-executive-dod-ic-washington-dc-2026-01-18-1",
+    "jobId": "anthropic-enterprise-account-executive-dod-ic-washington-dc",
+    "company": "anthropic",
+    "title": "Enterprise Account Executive, DOD/IC",
+    "postedToDiscord": "2026-01-18T20:17:37.364Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959324008",
+    "discordThreadId": "1462541448896315657",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-enterprise-account-executive-federal-civilian-sales-washington-dc-2026-01-18-1",
+    "jobId": "anthropic-enterprise-account-executive-federal-civilian-sales-washington-dc",
+    "company": "anthropic",
+    "title": "Enterprise Account Executive, Federal Civilian Sales",
+    "postedToDiscord": "2026-01-18T20:17:40.915Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959331008",
+    "discordThreadId": "1462541463245295851",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-enterprise-account-executive-federal-partners-sales-washington-dc-2026-01-18-1",
+    "jobId": "anthropic-enterprise-account-executive-federal-partners-sales-washington-dc",
+    "company": "anthropic",
+    "title": "Enterprise Account Executive, Federal Partners Sales",
+    "postedToDiscord": "2026-01-18T20:17:44.321Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959334008",
+    "discordThreadId": "1462541477753258180",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-enterprise-account-executive-industries-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-enterprise-account-executive-industries-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Enterprise Account Executive, Industries",
+    "postedToDiscord": "2026-01-18T20:17:47.891Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4493035008",
+    "discordThreadId": "1462541492206833828",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-enterprise-account-executive-state-local-sales-remote-friendly-travel-required-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-enterprise-account-executive-state-local-sales-remote-friendly-travel-required-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Enterprise Account Executive, State & Local Sales",
+    "postedToDiscord": "2026-01-18T20:17:51.245Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4959329008",
+    "discordThreadId": "1462541507021242518",
+    "instanceNumber": 1
   }
 ]
