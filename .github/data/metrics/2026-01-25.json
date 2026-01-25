@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-25T22:56:17.617Z",
+  "generated": "2026-01-25T23:03:42.075Z",
   "period": "last_7_days",
-  "period_start": "2026-01-18T22:56:17.617Z",
-  "period_end": "2026-01-25T22:56:17.617Z",
+  "period_start": "2026-01-18T23:03:42.075Z",
+  "period_end": "2026-01-25T23:03:42.075Z",
   "summary": {
     "total_jobs_posted": 5,
     "unique_jobs": 5,
@@ -25,13 +25,13 @@
           "id": "northrop-grumman-software-engineer-huntsville",
           "title": "Software Engineer",
           "company": "Northrop Grumman",
-          "posted_at": "2026-01-25T22:56:00.605Z"
+          "posted_at": "2026-01-25T23:03:25.109Z"
         },
         {
           "id": "zoox-technical-product-management-intern-agentic-ai-san-mateo",
           "title": "Technical Product Management Intern, Agentic AI",
           "company": "Zoox",
-          "posted_at": "2026-01-25T22:56:02.366Z"
+          "posted_at": "2026-01-25T23:03:26.804Z"
         }
       ]
     },
@@ -48,19 +48,19 @@
           "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
           "title": "Technology Order Management Execution & Compliance",
           "company": "Franklin Templeton",
-          "posted_at": "2026-01-25T22:56:07.253Z"
+          "posted_at": "2026-01-25T23:03:31.663Z"
         },
         {
           "id": "micron-technology-intern-it-mfg-boise",
           "title": "Intern – IT MFG",
           "company": "Micron Technology",
-          "posted_at": "2026-01-25T22:56:09.021Z"
+          "posted_at": "2026-01-25T23:03:33.479Z"
         },
         {
           "id": "danaher-product-management-marketing-intern-marlborough",
           "title": "Product Management / Marketing Intern",
           "company": "Danaher",
-          "posted_at": "2026-01-25T22:56:10.965Z"
+          "posted_at": "2026-01-25T23:03:35.427Z"
         }
       ]
     }
