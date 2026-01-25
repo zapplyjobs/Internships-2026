@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T22:40:45.082Z",
+  "lastUpdated": "2026-01-25T22:49:25.584Z",
   "jobs": [
-    {
-      "id": "anthropic-manager-growth-account-executive-new-york-city-ny-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-manager-growth-account-executive-new-york-city-ny-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Manager, Growth Account Executive",
-      "postedToDiscord": "2026-01-18T22:48:20.226Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
-      "discordThreadId": "1462579376809054268",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-it-support-operations-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-manager-it-support-operations-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Manager, IT Support & Operations",
-      "postedToDiscord": "2026-01-18T22:48:23.704Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041319008",
-      "discordThreadId": "1462579391602098419",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-of-associate-solutions-architects-new-york-city-ny-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-manager-of-associate-solutions-architects-new-york-city-ny-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Manager of Associate Solutions Architects",
-      "postedToDiscord": "2026-01-18T22:48:27.137Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4947472008",
-      "discordThreadId": "1462579406047547645",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-sales-development-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-manager-sales-development-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Manager, Sales Development",
-      "postedToDiscord": "2026-01-18T22:48:30.655Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4884644008",
-      "discordThreadId": "1462579420546990274",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-startup-account-executive-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-manager-startup-account-executive-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Manager, Startup Account Executive",
-      "postedToDiscord": "2026-01-18T22:48:34.046Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
-      "discordThreadId": "1462579435138973828",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-manager-strategic-account-executive-digital-native-sales-san-francisco-ca-2026-01-18-1",
-      "jobId": "anthropic-manager-strategic-account-executive-digital-native-sales-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Manager, Strategic Account Executive - Digital Native Sales",
-      "postedToDiscord": "2026-01-18T22:48:37.494Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
-      "discordThreadId": "1462579449538285720",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-manager-of-solutions-architecture-applied-ai-digital-native-businesses-new-york-city-ny-san-francisco-ca-new-york-city-ny-2026-01-18-1",
       "jobId": "anthropic-manager-of-solutions-architecture-applied-ai-digital-native-businesses-new-york-city-ny-san-francisco-ca-new-york-city-ny",
@@ -7756,9 +7690,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465114152916881604",
+          "messageId": "1465116338463965362",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:40:34.909Z",
+          "postedAt": "2026-01-25T22:49:15.889Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7780,9 +7714,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465114161318068416",
+          "messageId": "1465116346328027207",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:40:36.688Z",
+          "postedAt": "2026-01-25T22:49:17.624Z",
           "channelJobNumber": 4
         }
       },
@@ -7798,9 +7732,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465114181161320610",
+          "messageId": "1465116366112555070",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:40:41.448Z",
+          "postedAt": "2026-01-25T22:49:22.291Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7822,9 +7756,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465114188556013788",
+          "messageId": "1465116372601143564",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:40:43.153Z",
+          "postedAt": "2026-01-25T22:49:23.941Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7846,9 +7780,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465114195623284902",
+          "messageId": "1465116379605630987",
           "channelType": "category",
-          "postedAt": "2026-01-25T22:40:45.082Z",
+          "postedAt": "2026-01-25T22:49:25.584Z",
           "channelJobNumber": 6
         }
       },
@@ -7856,11 +7790,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 709,
+    "totalJobs": 703,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T22:40:45.082Z",
+      "date": "2026-01-25T22:49:25.584Z",
       "archived": 0
     }
   }
