@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-25T19:16:36.118Z",
+  "lastUpdated": "2026-01-25T19:28:03.772Z",
   "jobs": [
-    {
-      "id": "anthropic-customer-marketing-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
-      "jobId": "anthropic-customer-marketing-manager-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Customer Marketing Manager",
-      "postedToDiscord": "2026-01-18T19:26:30.739Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971073008",
-      "discordThreadId": "1462528586182299669",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-customer-success-manager-beneficial-deployments-new-york-city-ny-san-francisco-ca-2026-01-18-1",
       "jobId": "anthropic-customer-success-manager-beneficial-deployments-new-york-city-ny-san-francisco-ca",
@@ -8427,15 +8416,15 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465062742120595806",
+          "messageId": "1465065638643896411",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:16:17.547Z",
+          "postedAt": "2026-01-25T19:27:48.043Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
-          "messageId": "1465062750094098667",
+          "messageId": "1465065646122340445",
           "channelType": "location",
-          "postedAt": "2026-01-25T19:16:20.780Z",
+          "postedAt": "2026-01-25T19:27:49.845Z",
           "channelJobNumber": 4
         }
       },
@@ -8451,9 +8440,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465062763692036314",
+          "messageId": "1465065653865152513",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:16:22.610Z",
+          "postedAt": "2026-01-25T19:27:51.639Z",
           "channelJobNumber": 4
         }
       },
@@ -8469,15 +8458,15 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465062784025890868",
+          "messageId": "1465065674031239251",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:16:27.372Z",
+          "postedAt": "2026-01-25T19:27:56.376Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
-          "messageId": "1465062791185698993",
+          "messageId": "1465065681409282258",
           "channelType": "location",
-          "postedAt": "2026-01-25T19:16:29.088Z",
+          "postedAt": "2026-01-25T19:27:58.304Z",
           "channelJobNumber": 5
         }
       },
@@ -8493,15 +8482,15 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465062798462681110",
+          "messageId": "1465065688837394638",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:16:30.998Z",
+          "postedAt": "2026-01-25T19:27:59.987Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
-          "messageId": "1465062806478131331",
+          "messageId": "1465065696680738957",
           "channelType": "location",
-          "postedAt": "2026-01-25T19:16:32.846Z",
+          "postedAt": "2026-01-25T19:28:01.907Z",
           "channelJobNumber": 6
         }
       },
@@ -8517,9 +8506,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465062814228942878",
+          "messageId": "1465065704452784357",
           "channelType": "category",
-          "postedAt": "2026-01-25T19:16:36.118Z",
+          "postedAt": "2026-01-25T19:28:03.772Z",
           "channelJobNumber": 6
         }
       },
@@ -8527,11 +8516,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 770,
+    "totalJobs": 769,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-25T19:16:36.118Z",
+      "date": "2026-01-25T19:28:03.772Z",
       "archived": 0
     }
   }
