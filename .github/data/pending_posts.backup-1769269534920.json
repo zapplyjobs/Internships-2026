@@ -1,0 +1,762 @@
+[
+  {
+    "job": {
+      "job_title": "",
+      "employer_name": "AgZen",
+      "job_city": "Cambridge",
+      "job_state": "MA",
+      "job_description": ".fe-681e70c2a649507003c3aab5 { --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px); --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 ); display: grid; position: relative; grid-area: 1/1/-1/-1; grid-template-rows: repeat(12,minmax(24px, auto)); grid-template-columns: minmax(var(--grid-gutter), 1fr) repeat(8, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr); row-gap: 11.0px; column-gap: 11.0px; overflow-x: hidden; overflow-x: clip; } @media (min-width: 768px) { .background-width--inset .fe-681e70c2a649507003c3aab5 { --inset-padding: calc(var(--sqs-site-gutter) * 2); } .fe-681e70c2a649507003c3aab5 { --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px); --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 ); --inset-padding: 0vw; --row-height-scaling-factor: 0.0215; --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) )); grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)); grid-template-columns: minmax(var(--grid-gutter), 1fr) repeat(24, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr); } } .fe-block-yui_3_17_2_1_1746825311996_2339 { grid-area: 1/2/7/10; z-index: 1; @media (max-width: 767px) { } } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block-alignment-wrapper { align-items: flex-start; } @media (min-width: 768px) { .fe-block-yui_3_17_2_1_1746825311996_2339 { grid-area: 1/2/2/26; z-index: 2; position: sticky; top: calc(0px + var(--header-fixed-top-offset, 0px)); } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_2339 .sqs-block-alignment-wrapper { align-items: flex-start; } } .fe-block-yui_3_17_2_1_1746825311996_3059 { grid-area: 7/2/13/10; z-index: 2; @media (max-width: 767px) { } } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block-alignment-wrapper { align-items: flex-start; } @media (min-width: 768px) { .fe-block-yui_3_17_2_1_1746825311996_3059 { grid-area: 2/2/7/26; z-index: 1; } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block { justify-content: flex-start; } .fe-block-yui_3_17_2_1_1746825311996_3059 .sqs-block-alignment-wrapper { align-items: flex-start; } }",
+      "job_apply_link": "https://www.agzen.com/jobs?gh_jid=4048593009",
+      "job_posted_at_datetime_utc": "2025-10-21T00:25:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "agzen--cambridge",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2025-12-04T19:10:02.154Z",
+    "enrichedAt": "2025-12-12T03:49:19.111Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Supply Chain AI Intern",
+      "employer_name": "Motorola Solutions",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "MOTOROLA SOLUTIONS OVERVIEW At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Learn more at www.motorolasolutions.com. If you are a current Motorola Solutions employee, please click this link to apply through your Workday account.",
+      "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902",
+      "job_posted_at_datetime_utc": "2025-08-17T09:00:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "motorola-solutions-supply-chain-ai-intern-chicago",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-04T19:10:02.154Z",
+    "enrichedAt": "2025-12-15T07:52:10.567Z",
+    "postedAt": "2025-12-18T19:18:46.902Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "CCC Intelligent Solutions",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join CCC Intelligent Solutions in this exciting opportunity.",
+      "job_apply_link": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern_0014134",
+      "job_posted_at_datetime_utc": "2025-08-17T08:35:10.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "ccc-intelligent-solutions-software-engineer-intern-chicago",
+      "description_platform": "workday",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-04T19:10:02.154Z",
+    "enrichedAt": "2025-12-18T19:18:09.784Z",
+    "postedAt": "2025-12-18T19:27:48.601Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "L3Harris Technologies",
+      "job_city": "Tulsa",
+      "job_state": "OK",
+      "job_description": "Join L3Harris Technologies in this exciting opportunity.",
+      "job_apply_link": "https://careers.l3harris.com/en/job/-/-/4832/84133135648",
+      "job_posted_at_datetime_utc": "2025-07-30T15:08:27.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "l3harris-technologies-software-engineer-intern-tulsa",
+      "description_platform": "generic",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-04T19:10:02.154Z",
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
+    "postedAt": "2025-12-18T23:04:32.365Z"
+  },
+  {
+    "job": {
+      "job_title": "Web Developer Internship/Co-Op",
+      "employer_name": "Medpace, Inc.",
+      "job_city": "Cincinnati",
+      "job_state": "OH",
+      "job_description": "Join Medpace, Inc. in this exciting opportunity.",
+      "job_apply_link": "https://careers.medpace.com/jobs/11408?lang=en-us&icims=1",
+      "job_posted_at_datetime_utc": "2025-06-20T15:49:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "medpace-inc-web-developer-internship-co-op-cincinnati",
+      "description_platform": "generic",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-04T19:10:02.154Z",
+    "enrichedAt": "2025-12-19T19:53:05.080Z",
+    "postedAt": "2025-12-19T20:18:24.161Z"
+  },
+  {
+    "job": {
+      "job_title": "Audio Software Engineering Intern",
+      "employer_name": "Dolby Laboratories, Inc.",
+      "job_city": "San Francisco",
+      "job_state": "CA",
+      "job_description": "Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Audio Software Engineering Intern Date: Aug 14, 2025 Company: Dolby Laboratories, Inc. Sorry, this position has been filled.",
+      "job_apply_link": "https://careers.dolby.com/job/San-Francisco-Audio-Software-Engineering-Intern-CA-94101/1300160000/",
+      "job_posted_at_datetime_utc": "2025-06-19T17:14:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dolby-laboratories-inc-audio-software-engineering-intern-san-francisco",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-04T19:10:02.154Z",
+    "enrichedAt": "2025-12-19T20:03:47.435Z",
+    "postedAt": "2025-12-19T20:18:24.161Z"
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Engineering Grad Intern",
+      "employer_name": "The Aerospace Corporation",
+      "job_city": "Chantilly",
+      "job_state": "VA",
+      "job_description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.The Aerospace Corporation is hiring a Machine Learning Engineer Intern for the Data Science and Artificial Intelligence Department (DSAID) within the Information Systems and Cyber Division (ISCD). This position will be full-time, 100% onsite at our office in Chantilly, VA. Job Summary  Information Systems and Cyber Division (ISCD) staff work with the latest in information system technologies, such as elastic compute clouds, containerization, microservices, real-time operating systems, and visualization frameworks, with expertise in cyber security, software architecture, software engineering, data science, Artificial Intelligence, process improvement, and software development to deliver responsive, resilient, high-performance software intensive systems to our Intelligence Community, DoD, and civilian customers. DSAID consists of a diverse team of engineers, data scientists, and programmers with a passion for researching, prototyping, understanding, and building AI and data enabled tools across the space enterprise.  We are a growing, innovative, and collaborative department providing technical expertise in AI and Machine Learning to many of Aerospace’s customers, such as the Missile Defense Agency, NASA, Space Development Agency and the National Reconnaissance Office.  We apply data science and AI knowledge across the space enterprise, to Aerospace enterprise capabilities, and towards corporate workforce development and strategic focus areas.Machine Learning Engineers work on teams spanning various disciplines, experience levels, and organizational boundaries. What You’ll Be Doing Developing and executing machine learning and data science experiments, in the domains of natural language processing, computer vision, time series analysis, reinforcement learning, etc. Evaluating technologies and data science models for use in scalable and resilient mission-critical applications Collaborating with teams of various sizes to deliver features and products Presenting written and verbal results to customer stakeholders. Reinforcing an environment of learning and progress with team members and others What Corporate Skills You’ll Bring   Strong written and oral communication skills Must work well in a team environment Possess organizational, time management and project management skills Demonstrate flexibility and ability to adapt to changing organizational need Interpersonal skills to coordinate efforts and work with other internal and external organizations What You Need to be Successful    Minimum Requirements   Currently enrolled full-time in an accredited college/university program pursuing a Master's Degree in Computer Science, Computer Engineering, or related discipline.    Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full-time after completion of the internship.  Minimum GPA of 3.0    Proficiency in Python, including major ML libraries and tools (PyTorch)  Experience with container orchestration tooling (Docker, Kubernetes, etc.) Experience with and understanding of machine learning and artificial intelligence, software engineering, and statistics Experience with and understanding of software engineering concepts with an AI focus (MLOps/DevOps, ML Development Lifecycle, Scalable ML Architecture, etc.) Familiarity with MLOps processes and tools (MLFlow, Data Version Control etc.) Specific experience designing either computer vision or natural language processing applications leveraging ML models.  Experience in leveraging GPUs to scale and measure ML solution performance (NVIDIA developer tools etc.) Familiarity with Unix/Linux operating systems Experience with cloud native application development or cloud infrastructure, Microservice architectures This position requires the ability to obtain and maintain a security clearance, which is issued by the U.S. government. U.S. citizenship is required to obtain a security clearance. Transcripts required.   How You Can Stand Out  It would be impressive if you have one or more of these:   GPA 3.5 or higher   Active security clearance  Strong leadership skills Familiarity with High Performance Computing hardware for ML (GPUs, TPUs), CUDA programming, and advanced ML optimization techniques and architectures Experience with Slurm, Kubernetes or other cluster job orchestration frameworks leveraging GPU resources to run distributed ML training jobs at scale Experience with building ML Solutions on edge and embedded hardware (ARM devices, Jetson Series, etc.) Experience with Distributed and stream data processing, big data frameworks (Hadoop, Spark, Flink etc.) Experience building scalable Agentic and Generative AI solutions for narrow-scoped use cases   Temporary housing assistance is not available. Leadership CompetenciesOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:Operate StrategicallyLead Change   Engage with Impact   Foster Innovation   Deliver Results  Ways We Reward Our Employees During your interview process, our team will provide details of our industry-leading benefits.Benefits vary and are applicable based on Job Type.  A few highlights include:Comprehensive health care and wellness plansPaid holidays, sick time, and vacationStandard and alternate work schedules, including telework options401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hireFlexible spending accountsVariable pay program for exceptional contributionsRelocation assistanceProfessional growth and development programs to help advance your careerEducation assistance programsA work environment built on teamwork, flexibility, and respectWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.Equal Opportunity CommitmentThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.",
+      "job_apply_link": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Machine-Learning-Engineering-Grad-Intern_R014076",
+      "job_posted_at_datetime_utc": "2025-12-05T07:28:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-aerospace-corporation-machine-learning-engineering-grad-intern-chantilly",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-05T21:03:56.137Z",
+    "enrichedAt": "2025-12-19T20:57:53.826Z",
+    "postedAt": "2025-12-19T21:17:42.316Z"
+  },
+  {
+    "job": {
+      "job_title": "2026 Machine Learning Engineering Undergrad Intern",
+      "employer_name": "The Aerospace Corporation",
+      "job_city": "Chantilly",
+      "job_state": "VA",
+      "job_description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.The Aerospace Corporation is hiring a Machine Learning Engineer Intern for the Data Science and Artificial Intelligence Department (DSAID) within the Information Systems and Cyber Division (ISCD). This position will be full-time, 100% onsite at our office in Chantilly, VA. Job Summary  Information Systems and Cyber Division (ISCD) staff work with the latest in information system technologies, such as elastic compute clouds, containerization, microservices, real-time operating systems, and visualization frameworks, with expertise in cyber security, software architecture, software engineering, data science, Artificial Intelligence, process improvement, and software development to deliver responsive, resilient, high-performance software intensive systems to our Intelligence Community, DoD, and civilian customers. DSAID consists of a diverse team of engineers, data scientists, and programmers with a passion for researching, prototyping, understanding, and building AI and data enabled tools across the space enterprise.  We are a growing, innovative, and collaborative department providing technical expertise in AI and Machine Learning to many of Aerospace’s customers, such as the Missile Defense Agency, NASA, Space Development Agency and the National Reconnaissance Office.  We apply data science and AI knowledge across the space enterprise, to Aerospace enterprise capabilities, and towards corporate workforce development and strategic focus areas.Machine Learning Engineers work on teams spanning various disciplines, experience levels, and organizational boundaries. What You’ll Be Doing Developing and executing machine learning and data science experiments, in the domains of natural language processing, computer vision, time series analysis, reinforcement learning, etc. Evaluating technologies and data science models for use in scalable and resilient mission-critical applications Collaborating with teams of various sizes to deliver features and products Presenting written and verbal results to customer stakeholders. Reinforcing an environment of learning and progress with team members and others What Corporate Skills You’ll Bring   Strong written and oral communication skills Must work well in a team environment Possess organizational, time management and project management skills Demonstrate flexibility and ability to adapt to changing organizational need Interpersonal skills to coordinate efforts and work with other internal and external organizations What You Need to be Successful    Minimum Requirements   Currently enrolled full-time in an accredited college/university program pursuing a Bachelor's Degree in Computer Science, Computer Engineering, or related discipline.    Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full-time after completion of the internship.  Minimum GPA of 3.0    Proficiency in Python, including major ML libraries and tools (PyTorch)  Experience with container orchestration tooling (Docker, Kubernetes, etc.) Experience with and understanding of machine learning and artificial intelligence, software engineering, and statistics Experience with and understanding of software engineering concepts with an AI focus (MLOps/DevOps, ML Development Lifecycle, Scalable ML Architecture, etc.) Familiarity with MLOps processes and tools (MLFlow, Data Version Control etc.) Specific experience designing either computer vision or natural language processing applications leveraging ML models.  Experience in leveraging GPUs to scale and measure ML solution performance (NVIDIA developer tools etc.) Familiarity with Unix/Linux operating systems Experience with cloud native application development or cloud infrastructure, Microservice architectures This position requires the ability to obtain and maintain a security clearance, which is issued by the U.S. government. U.S. citizenship is required to obtain a security clearance. Transcripts required.   How You Can Stand Out  It would be impressive if you have one or more of these:   GPA 3.5 or higher   Active security clearance  Strong leadership skills Familiarity with High Performance Computing hardware for ML (GPUs, TPUs), CUDA programming, and advanced ML optimization techniques and architectures Experience with Slurm, Kubernetes or other cluster job orchestration frameworks leveraging GPU resources to run distributed ML training jobs at scale Experience with building ML Solutions on edge and embedded hardware (ARM devices, Jetson Series, etc.) Experience with Distributed and stream data processing, big data frameworks (Hadoop, Spark, Flink etc.) Experience building scalable Agentic and Generative AI solutions for narrow-scoped use cases   Temporary housing assistance is not available. Leadership CompetenciesOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:Operate StrategicallyLead Change   Engage with Impact   Foster Innovation   Deliver Results  Ways We Reward Our Employees During your interview process, our team will provide details of our industry-leading benefits.Benefits vary and are applicable based on Job Type.  A few highlights include:Comprehensive health care and wellness plansPaid holidays, sick time, and vacationStandard and alternate work schedules, including telework options401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hireFlexible spending accountsVariable pay program for exceptional contributionsRelocation assistanceProfessional growth and development programs to help advance your careerEducation assistance programsA work environment built on teamwork, flexibility, and respectWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.Equal Opportunity CommitmentThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.",
+      "job_apply_link": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Machine-Learning-Engineering-Undergrad-Intern_R014077",
+      "job_posted_at_datetime_utc": "2025-12-05T07:28:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-aerospace-corporation-2026-machine-learning-engineering-undergrad-intern-chantilly",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-05T21:03:56.137Z",
+    "enrichedAt": "2025-12-19T20:57:53.826Z",
+    "postedAt": "2025-12-19T21:17:42.316Z"
+  },
+  {
+    "job": {
+      "job_title": "SW Engineering Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Brooklyn",
+      "job_state": "OH",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>&nbsp;</p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an opening for a SW Engineering (Java/C++) Intern&nbsp;to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p><strong>What sets you apart:</strong></p> <ul> <li>Clear understanding of engineering concepts, principles, theories, and technical standards</li> <li>Creative thinker with ability to grasp and apply new information quickly and handle increasing responsibilities with growing complexity</li> <li>Team player who thrives in collaborative environments and revels in team success</li> <li>Commitment to ongoing professional development for yourself and others</li> </ul> <p><strong>Our Commitment to You:</strong></p> <ul> <li>An exciting career path with opportunities for continuous learning and development</li> <li>Research oriented work, alongside award winning teams developing practical solutions for our nation’s security</li> <li>Flexible schedules with every other Friday off work, if desired (9/80 schedule)</li> <li>Competitive benefits, including flex time off</li> <li>See more at com/careers/why-work-for-us/benefits</li> </ul> <p><strong>Workplace Options:</strong>This position is on site at the Lakewood, Ohio facility (M-W) with telework (TH-F).&nbsp;</p> <p>#LI-Hybrid</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $26.25 - USD $26.25 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69559/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-05T03:38:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-sw-engineering-intern-brooklyn",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-05T21:03:56.137Z",
+    "enrichedAt": "2025-12-19T21:04:43.992Z",
+    "postedAt": "2025-12-19T21:29:27.663Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Tcs",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Manassas",
+      "job_state": "VA",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>&nbsp;</p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an opening for a SW Engineering (primarily Javascript/Java) Intern&nbsp;to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p><strong>What sets you apart:</strong></p> <ul> <li>Clear understanding of engineering concepts, principles, theories, and technical standards</li> <li>Creative thinker with ability to grasp and apply new information quickly and handle increasing responsibilities with growing complexity</li> <li>Team player who thrives in collaborative environments and revels in team success</li> <li>Commitment to ongoing professional development for yourself and others</li> <li>Demonstrated proficiency in Java and/or Javascript (C++ is a plus)</li> <li>Comfort developing in a Linux environment</li> </ul> <p><strong>Our Commitment to You:</strong></p> <ul> <li>An exciting career path with opportunities for continuous learning and development</li> <li>Research oriented work, alongside award winning teams developing practical solutions for our nation’s security</li> <li>Flexible schedules with every other Friday off work, if desired (9/80 schedule)</li> <li>Competitive benefits, including flex time off</li> <li>See more at gdmissionsystems.com/careers/why-work-for-us/benefits</li> </ul> <p><strong>Workplace Options:</strong>This position is 100% on-site and you will be part of the Manassas, Virginia facility.</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $27.50 - USD $27.50 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69647/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-05T03:38:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-software-engineer-intern-tcs-manassas",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-05T21:03:56.137Z",
+    "enrichedAt": "2025-12-19T21:04:43.992Z",
+    "postedAt": "2025-12-19T21:29:27.663Z"
+  },
+  {
+    "job": {
+      "job_title": "SW Engineering Intern - CWL Summer 2026",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Manassas",
+      "job_state": "VA",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p><strong>What sets you apart:</strong></p> <ul> <li>Clear understanding of engineering concepts, principles, theories, and technical standards</li> <li>Creative thinker with ability to grasp and apply new information quickly and handle increasing responsibilities with growing complexity</li> <li>Team player who thrives in collaborative environments and revels in team success</li> <li>Commitment to ongoing professional development for yourself and others</li> <li>Specifically looking for Java, Javascript (Typescript, React), and Linux experience</li> </ul> <p><strong>Our Commitment to You:</strong></p> <ul> <li>An exciting career path with opportunities for continuous learning and development</li> <li>Research oriented work, alongside award winning teams developing practical solutions for our nation’s security</li> <li>Flexible schedules with every other Friday off work, if desired (9/80 schedule)</li> <li>Competitive benefits, including flex time off</li> <li>See more at gdmissionsystems.com/careers/why-work-for-us/benefits</li> </ul> <p><strong>Workplace Options:</strong>This position is 100% on-site and you will be part of the Manassas, Virginia facility.</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $27.50 - USD $27.50 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69437/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-05T03:37:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-sw-engineering-intern-cwl-summer-2026-manassas",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-05T21:03:56.137Z",
+    "enrichedAt": "2025-12-19T21:04:43.992Z",
+    "postedAt": "2025-12-19T21:38:25.027Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Dedham",
+      "job_state": "MA",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69605/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-05T03:37:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-software-engineer-intern-dedham",
+      "description_platform": "icims",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-05T21:03:56.137Z",
+    "enrichedAt": "2025-12-19T21:04:43.992Z",
+    "postedAt": "2025-12-19T21:38:25.027Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "Cadence Design Systems",
+      "job_city": "Pittsburgh",
+      "job_state": "PA",
+      "job_description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Basic Requirements:Educational BackgroundPursuing or recently completed a degree in Computer Science, Applied Mathematics,  Data Science, or a related field.Strong foundation in machine learning, deep learning, and natural language processing (NLP) and LLM.Technical SkillsProficiency in Python and experience with frameworks like PyTorch, TensorFlow, SciKit, etc.Basic understanding of Retrieval-Augmented Generation (RAG) and vector databases.Comfortable working with LLM APIs and integrating them into applications.A solid understanding of machine learning concepts (e.g., supervised/unsupervised learning, NLP, computer vision) and algorithms is crucial.Proficiency in Python is essential. C++ also valuable.Problem-Solving & CollaborationAbility to work in a fast-paced research and development environment.Strong analytical thinking and debugging skills.Experience with rapid prototyping in open-source AI/ML projects.We’re doing work that matters. Help us solve what others can’t.",
+      "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2",
+      "job_posted_at_datetime_utc": "2025-12-11T23:55:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cadence-design-systems-software-engineering-intern-pittsburgh",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-19T22:29:24.074Z",
+    "postedAt": "2025-12-19T22:49:35.175Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "Cadence Design Systems",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Basic Requirements:Educational BackgroundPursuing or recently completed a degree in Computer Science, Applied Mathematics,  Data Science, or a related field.Strong foundation in machine learning, deep learning, and natural language processing (NLP) and LLMTechnical SkillsProficiency in Python and experience with frameworks like PyTorch, TensorFlow, SciKit, etc.Basic understanding of Retrieval-Augmented Generation (RAG) and vector databases.Comfortable working with LLM APIs and integrating them into applications.A solid understanding of machine learning concepts (e.g., supervised/unsupervised learning, NLP, computer vision) and algorithms is crucial.Proficiency in Python is essential. C++ also valuable.Problem-Solving & CollaborationAbility to work in a fast-paced research and development environment.Strong analytical thinking and debugging skills.Experience with rapid prototyping in open-source AI/ML projects.We’re doing work that matters. Help us solve what others can’t.",
+      "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE-10/Software-Engineering-Intern_R52330",
+      "job_posted_at_datetime_utc": "2025-12-11T23:55:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cadence-design-systems-software-engineering-intern-san-jose",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-19T22:29:24.074Z",
+    "postedAt": "2025-12-26T22:54:19.804Z"
+  },
+  {
+    "job": {
+      "job_title": "SW Intern Engineer",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Dedham",
+      "job_state": "MA",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Requires a Bachelor’s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Agile experience preferred.</p> <p>&nbsp;</p> <p><strong>CLEARANCE REQUIREMENTS:</strong> Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>ROLE AND POSITION OBJECTIVES:</strong></p> <p>&nbsp;</p> <p>As a software engineer for the NC3 business segment, you’ll be a member of a cross functional team responsible for design, development and test of the next generation of Strategic Systems.</p> <p>&nbsp;</p> <p>We encourage you to apply if you have any of these preferred skills or experiences:</p> <ul> <li>Object oriented development</li> <li>Agile experience</li> <li>SASTs tools</li> <li>GitLab</li> <li>Python and bash</li> <li>Understanding of SW engineering concepts</li> <li>Atlassian</li> </ul> <p><strong>What sets you apart:</strong></p> <ul> <li>Clear understanding of the software engineering concepts, principles, theories, software development process, and agile methodology</li> <li>Clear understanding of the software development process, with agile experience</li> <li>Ability to grasp and apply new information quickly and handle increasing responsibilities with growing complexity</li> <li>Team player who thrives in collaborative environments and revels in team success</li> <li>Commitment to ongoing professional development for yourself and others</li> </ul> <p><strong>Our Commitment to You:</strong></p> <ul> <li>An exciting career path with opportunities for continuous learning and development.</li> <li>Research oriented work, alongside award winning teams developing practical solutions for our nation’s security</li> <li>Flexible schedules with every other Friday off work, if desired (9/80 schedule)</li> <li>Competitive benefits, including 401k matching, flex time off, paid parental leave, healthcare benefits, health &amp; wellness programs, employee resource and social groups, and more</li> <li>See more at gdmissionsystems.com/careers/why-work-for-us/benefits</li> </ul> <p>&nbsp;</p> <p><strong>Workplace Options:</strong>This position is fully on-site.While on-site, you will be a part of the Dedham, MA</p> <p>&nbsp;</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $22.00 - USD $29.00 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69691/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-11T23:32:23.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-sw-intern-engineer-dedham",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-19T22:48:52.554Z",
+    "postedAt": "2025-12-26T23:29:13.850Z"
+  },
+  {
+    "job": {
+      "job_title": "Application Engineer Intern - Houston - TX",
+      "employer_name": "Atlas Copco Group",
+      "job_city": "Houston",
+      "job_state": "TX",
+      "job_description": "Your role You will Developing technical product descriptions to be used in new equipment proposals Translating component details onto standardized datasheets. Assisting Application Engineers with engineered product proposals Perform other duties as assigned. To succeed, you will need We encourage you to apply even if you don't meet every single requirement. We value diverse experiences and perspectives and are excited to see what you bring to the role. Undergraduate or Graduate student majoring in Engineering or related majors Possess strong written and verbal communication skills. Have excellent attention to detail, be well-organized and show initiative Demonstrate leadership qualities. In return, we offer Practical experience with business intelligence solutions. Shadowing, mentoring, and training opportunities with successful developers. Opportunity to participate in networking events and company meetings Flexible schedule for students $20/hr - $22/hr Job location HybridThis role is hybrid. You will report to the office in Houston, TX on Tuesday - Thursday and be remote on Monday and Friday.Contact information Talent Acquisition Team: Courtney File Uniting curious mindsBehind every innovative solution, there are people working together to transform the future. With careers sparked by initiative and lifelong learning, we unite curious minds, and you could be one of them. Atlas Copco Compressors LLC is an equal opportunity employer and complies with all applicable federal, state and local fair employment practices laws. Atlas Copco Compressors LLC strictly prohibits and does not tolerate discrimination against employees, applicants or any other covered persons because of race, color, religion, creed, national origin or ancestry, ethnicity, sex, gender (including gender nonconformity and status as a transgender or transsexual individual), age, physical or mental disability, citizenship, past, current or prospective service in the uniformed services, genetic information, or any other characteristic protected under applicable federal, state or local law. All Atlas Copco Compressors LLC employees, other workers and representatives are prohibited from engaging in unlawful discrimination. This policy applies to all terms and conditions of employment, including, but not limited to, hiring, training, promotion, discipline, compensation, benefits and termination of employment.",
+      "job_apply_link": "https://www.careers.homeofindustrialideas.com/job/Houston-Application-Engineer-Intern-,-Summer-2026-Houston,-TX-Texa/1275536901/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2025-12-11T16:24:32.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "atlas-copco-group-application-engineer-intern-houston-tx-houston",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-20T19:16:22.351Z",
+    "postedAt": "2025-12-20T19:27:07.988Z"
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 – Technical Intern - Electric Asset Strategy",
+      "employer_name": "Public Service Enterprise Group",
+      "job_city": "South Plainfield",
+      "job_state": "NJ",
+      "job_description": "Requisition: 83239 PSEG Company: Public Service Electric & Gas Co. Salary Range: $ 37,100 - $ 55,600 Work Location Category: Hybrid Flexible We’re one of the country’s largest energy companies, with a vision of powering a future where people use less energy, and it’s cleaner, safer and delivered more reliably than ever. We’re also deeply connected to the communities we serve, with more than 13,000 employees working together to support our customers and make a difference every day.Here, you’ll have the stability and exciting opportunities that come with being a Fortune 500 company — along with a supportive, friendly work environment where your contributions are valued. We know life isn’t one-size-fits-all, and neither is work. That’s why we offer flexible work options depending on the role.In support of this model, roles have been categorized into one of three work location categories:1. Onsite – roles where employees are expected to be onsite daily.2. Hybrid fixed – roles that are a mix of remote work and onsite work fixed days each week 3. Hybrid flexible – roles that are a mix of remote work and onsite work, but the onsite requirements have greater flexibility. (i.e. 5-8 days a month vs. set days each week). As an employee, if you are regularly scheduled to work 20 or more hours per week, you will have access to a wide range of comprehensive benefits from day one, designed to support your total well-being: medical, dental, vision, parental leave and family leave programs, behavioral health programs, 401(k) with company match, life insurance, tuition reimbursement, and generous paid time off. More than 13,000 people already call PSEG their work home, taking pride in providing safe, reliable service to millions of customers. If you’re looking for a place where you can build a meaningful career and help power and support our communities, we’d love to welcome you to the team. PSEG is not offering visa sponsorship for this position. Job Summary PSEG is looking for an Intern for the Electric Asset Strategy team. The Electric Asset Strategy team is responsible for PSE&G’s computerized maintenance management system (CMMS) and oversees a portfolio of asset studies and data-driven reliability improvement initiatives. This job involves working as a technical intern assisting the team with developing and/or using several data-driven models and visualizations to identify potential improvements to key performance indices. This position will be Hybrid Flexible Intern will be required to travel to several PSE&G locations throughout the state during the internship program.Job Responsibilities Assignments will include working alongside professionals in the following areas: Data mining and cleansing, development of data visualizations, documentation, and process flow diagrams Query data structures for the necessary data components from various data sources required for ingestion and transformation Partner with other groups to curate solutions that address trend abnormalities and assist with performing QA to support cross-functional projects Actively engage in learning opportunities, including understanding basic fundamentals of utility infrastructure and cloud-based data lake environment Job Specific Qualifications Required education/skills: The successful incumbent(s) must be actively pursuing a bachelor's or master's degree from an accredited institution in Engineering, Computer Science, Statistics/Applied Math, Information Technology or another major related to Data Science and graduating between December 2026 and May 2028. Students graduating in May/June 2026 are not eligible unless they are enrolling in a post-graduate degree program in the fall term of 2026. PSEG recognizes institutions of higher education which are accredited by the Council for Higher Education Accreditation or equivalent. Incumbents must have completed Sophomore level course work for consideration. Because this position will require traveling to various PSEG locations, a valid driver's license and a safe driving record is required. Department of Energy’s regulation 10 CFR 810 is required. Desired: 3.0 GPA Understanding of data visualization tools (e.g. Power BI, Tableau) is a plus All PSEG internship roles are paid at an hourly rate, however there are no medical benefits associated with these positions. Incumbents are expected to work 40 hours per week over the duration of the summer internship. We are targeting currently enrolled/matriculating students that are able to commute to their designated work location as needed. Housing, transportation, and immigration support will not be provided in association with these positions. Some positions at PSEG require access to information covered by the Department of Energy’s regulation 10 CFR 810 (Part 810). If applicable, the successful applicant must prove they are: (1) a citizen or national of the USA; OR (2) a lawful permanent resident of the United States (Non-Conditional Permanent I-551 / Green Card / Permanent Resident Card holder); OR (3) a citizen, national, or permanent resident of a “Generally Authorized” destination on the attached list not also a citizen, national, permanent resident of any country not listed; OR (4) a “Protected Individual” under the Immigration and Naturalization Act (8 U.S.C 1324b(a)(3)). As an employee of PSEG, you should be aware that during storm restoration efforts, you may be required to perform functions outside of your routine duties and on a schedule that may be different from normal operations. For all roles, PSEG’s drug and alcohol testing program includes pre-employment testing, testing for cause, and post-incident/accident testing. Employees who are hired or transfer into a federally regulated role (including positions covered by USDOT, PHMSA, or NRC regulations) are subject to random drug and alcohol testing, inclusive of marijuana. Although numerous states throughout the country have legalized marijuana/cannabis products recreationally and medically, the use of these products are prohibited for employees in federally regulated roles. Please note that the use of CBD products may result in a positive drug test for THC/Marijuana and such use is not a legitimate medical explanation for a positive result. If you are a current PSEG Long Island (PSEGLI) employee and offered an opportunity with PSEG or any of its subsidiaries other than PSEGLI, you will be treated as a new hire. Please note that as a new hire to PSEG, your benefits will change and generally will be consistent with other similarly situated PSEG new hires. Similarly, for PSEG employees who accept job opportunities with PSEGLI, your benefits will change and generally be consistent with other similarly situated new hires of PSEGLI. PSEG is an equal opportunity employer, dedicated to a policy of non-discrimination in employment, including the hiring process, based on any legally protected characteristic. Legally protected characteristics include race, color, religion, national origin, sex, age, marital status, sexual orientation, disability or veteran status or any other characteristic protected by federal, state, or local law in locations where PSEG employs individuals. PSEG is committed to providing reasonable accommodations to individuals with disabilities. If you have a disability and need assistance applying for a position, please call 973-430-3845 or email accommodations@pseg.com.If you need to request a reasonable accommodation to perform the essential functions of the job, email accommodations@pseg.com. Any information provided regarding a disability will be kept strictly confidential and will not be shared with anyone involved in making a hiring decision.ADDITIONAL EEO INFORMATION (Click link below)Know your Rights: Workplace Discrimination is Illegal",
+      "job_apply_link": "https://jobs.pseg.com/job/South-Plainfield-Summer-2026-Technical-Intern-Electric-Asset-Strategy-NJ-07080/1348924600/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2025-12-11T02:05:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "public-service-enterprise-group-summer-2026-technical-intern-electric-asset-strategy-south-plainfield",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-20T19:26:27.716Z",
+    "postedAt": "2025-12-20T19:44:07.541Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern - C++ Development",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "San Antonio",
+      "job_state": "TX",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69694/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-10T23:33:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-software-engineering-intern-c-development-san-antonio",
+      "description_platform": "icims",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-20T19:43:31.139Z",
+    "postedAt": "2025-12-20T20:03:59.979Z"
+  },
+  {
+    "job": {
+      "job_title": "Intern Engineer",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Kitsap County",
+      "job_state": "WA",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer, Software and Network Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p><strong>CLEARANCE REQUIREMENTS:</strong>: Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>&nbsp;</p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $24.00 - USD $29.00 /Yr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69673/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-10T23:30:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-intern-engineer-kitsap-county",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-20T19:43:31.139Z",
+    "postedAt": "2025-12-20T20:03:59.979Z"
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Kings Bay Base",
+      "job_state": "GA",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p><strong>CLEARANCE REQUIREMENTS:</strong>: Department of Defense Secret security clearance is preferred at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>#LI-Hybrid</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $22.00 - USD $29.00 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69728/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-10T23:30:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-engineering-intern-kings-bay-base",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-20T19:53:14.269Z",
+    "postedAt": "2025-12-20T20:03:59.979Z"
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Pittsfield",
+      "job_state": "MA",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p><strong>CLEARANCE REQUIREMENTS:</strong>: Department of Defense Secret security clearance is preferred at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>#LI-Hybrid</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $22.00 - USD $29.00 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69727/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-10T23:30:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-engineering-intern-pittsfield",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-20T19:53:14.269Z",
+    "postedAt": "2025-12-27T20:17:15.552Z"
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern - Summer 2026 - Fall 2026",
+      "employer_name": "CME Group",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Data Science Intern – Summer & Fall 2026CME Group is seeking a proactive and skilled Data Science Intern for the 2026 Summer and Fall 2026 terms. This role supports the Manager of Data Science in client development analytics, focusing on transforming various data sources into actionable business insights that drive sales initiatives.Key Responsibilities (Principal Accountabilities):Execute data acquisition, ETL (Extract, Transform, Load) processes utilizing tools such as SQL (Big Query) and SAP Business Object.Develop compelling data visualizations using Tableau, Looker, Streamlit, or R Shiny.Perform data processing and develop analytical models.Required Skills and Qualifications:Skills / Software Requirements:Strong proficiency in a scripting language (e.g., Python, R). Proficiency in SQL and Microsoft Excel.Proficiency with Tableau.Experience with cloud service platforms (e.g., GCP, AWS, Azure)Education:Must be currently pursuing a bachelor’s or master’s degree in a quantitative discipline (e.g., Math, Statistics, Data Science, Financial Engineering, Engineering).A finance background is highly advantageous.Internship Details:Timing: May 2026 – December 2026Hours:Summer: 32 hours per weekFall: 16 hours per weekThis is an in-person only positionCME Group is committed to offering a competitive pay package for our employee interns. The pay range typically applicable to our intern roles is $21.10--$35.14. Actual pay offered will be dependent on a wide array of factors including but not limited to: relevant experience, skills, education, location of the internship, and the internship area of focus. Through our benefits program, we offer our employee interns the opportunity to participate in select offerings. This includes our comprehensive health coverage and a mental health benefit.CME Group: Where Futures are MadeCME Group is the world’s leading derivatives marketplace. But who we are goes deeper than that. Here, you can impact markets worldwide. Transform industries. And build a career by shaping tomorrow. We invest in your success and you own it – all while working alongside a team of leading experts who inspire you in ways big and small. Problem solvers, difference makers, trailblazers. Those are our people. And we’re looking for more.At CME Group, we embrace our employees' unique experiences and skills to ensure that everyone’s perspectives are acknowledged and valued. As an equal-opportunity employer, we consider all potential employees without regard to any protected characteristic.Important Notice: Recruitment fraud is on the rise, with scammers using misleading promises of job offers and interviews to solicit money and personal information from job seekers. CME Group adheres to established procedures designed to maintain trust, confidence and security throughout our recruitment process. Learn more here.",
+      "job_apply_link": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Summer-2026---Fall-2026_33559",
+      "job_posted_at_datetime_utc": "2025-12-09T09:51:42.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cme-group-data-science-intern-summer-2026-fall-2026-chicago",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T17:44:48.711Z",
+    "postedAt": "2025-12-21T18:04:28.234Z"
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Cape Canaveral",
+      "job_state": "FL",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $26.25 - USD $26.25 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69671/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-09T04:19:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-engineering-intern-cape-canaveral",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T18:03:54.580Z",
+    "postedAt": "2025-12-21T18:33:12.142Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Scottsdale",
+      "job_state": "AZ",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/68446/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-09T00:52:36.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-software-engineering-intern-scottsdale",
+      "description_platform": "icims",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T18:03:54.580Z",
+    "postedAt": "2025-12-21T18:33:12.142Z"
+  },
+  {
+    "job": {
+      "job_title": "BTS Records & Information Intern",
+      "employer_name": "The Federal Reserve System",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "CompanyFederal Reserve Bank of AtlantaAs an employee of the Atlanta Fed, you will help support our mission of promoting the stability and efficiency of the U.S. economy and financial system. Your work will affect the economy of the Southeast, the United States, and the world. The work we do here is important, and how we do it is just as important as what we do. We live our values of integrity, excellence, and respect every day. We do the right thing, we do things right, and we treat people right. A career at the Federal Reserve Bank of Atlanta gives you the chance to do work that touches lives and helps communities prosper.OUR BANK - The Federal Reserve is the central bank of the United States and is one of the most influential, trusted, and prestigious financial organizations. It consists of twelve Reserve Banks located around the country and the Board of Governors in Washington, D.C. The Federal Reserve Bank of Atlanta territory covers the Sixth Federal Reserve District, which includes Alabama, Florida, and Georgia, and portions of Louisiana, Mississippi, and Tennessee. The Atlanta Fed and the other Reserve Banks play an important part in all three of the Fed's functions: monetary policy, bank supervision and regulation, and the operation of a nationwide payment system. PLEASE READ:Internships are paid. Summer housing will not be provided. This is not necessarily an exhaustive list of all responsibilities, duties, performance standards or requirements, efforts, skills or working conditions associated with the job. While this is intended to be an accurate reflection of the current job, management reserves the right to revise the job or to require that other or different tasks be performed when circumstances change (e.g. emergencies, rush jobs, change in workload or technological developments).SCOPE OF ASSIGNMENT:Identifying digital transformation opportunitiesResearching and assisting in identifying an efficient way to migrate physical records to digital formatsParticipating in the socialization and deployment of long-term storage document management system(s)Assisting with data entry, user training, record migration, and system configuration as applicableQUALIFICATIONS:Students must be currently enrolled at an accredited college or university in a Bachelor or Graduate degree program through the duration of the internship.Minimum cumulative GPA above 3.0 in academically rigorous curriculum.Must be committed to working a 40-hour work week for 10-12 weeks during the summer months.Knowledge of power apps, power automate, and power BIPREFERRED MAJORS:ITInformation ManagementManagement Information Systems (MIS)CORE COMPETENCIES:Proficient in Microsoft Office SuiteData Visualization SoftwareExcellent communication skills (verbal and written)Strong analytical skillsAbility to work independently and take ownership of projectsGreat work ethic and detail orientedComfortable working across time zones to complete projects in a timely mannerOUR BENEFITS TO INTERNS (some benefits are subject to being onsite):Professional development opportunitiesNetworkingMARTA passes providedFree LinkedIn Learning accessFree access to our FedFuel career development toolCafé and dining options on-siteDress for your dayFlexible hoursAccess to on-site fitness centerTO APPLY:In addition to your application, please attach a resume and a copy of your most recent unofficial transcript.This is not necessarily an exhaustive list of all responsibilities, duties, performance standards or requirements, efforts, skills or working conditions associated with the job. While this is intended to be an accurate reflection of the current job, management reserves the right to revise the job or to require that other or different tasks be performed when circumstances change (e.g. emergencies, rush jobs, change in workload or technological developments).The Federal Reserve Bank of Atlanta is an equal opportunity employer.Full Time / Part TimeFull timeRegular / TemporaryTemporaryJob Exempt (Yes / No)NoJob CategoryInternship Family GroupWork ShiftFirst (United States of America)The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.Always verify and apply to jobs on Federal Reserve System Careers (https://rb.wd5.myworkdayjobs.com/FRS) or through verified Federal Reserve Bank social media channels.Privacy Notice",
+      "job_apply_link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2026-Summer-Internship-Program---BTS-Records---Information-Intern_R-0000030844",
+      "job_posted_at_datetime_utc": "2025-12-06T01:34:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-federal-reserve-system-bts-records-information-intern-atlanta",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T19:03:31.907Z",
+    "postedAt": "2025-12-21T19:26:33.439Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Scottsdale",
+      "job_state": "AZ",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69289/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-02T16:20:33.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-software-intern-engineer-for-crypto-and-cross-domain-solutions-scottsdale",
+      "description_platform": "icims",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T19:34:07.806Z",
+    "postedAt": "2025-12-21T19:53:36.615Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Integration Engineer Grad Intern",
+      "employer_name": "The Aerospace Corporation",
+      "job_city": "Colorado Springs",
+      "job_state": "CO",
+      "job_description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.The Aerospace Corporation is hiring a Software Integration Engineer Grad Intern for the Engineering Applications Department (EAD) within the Information Systems and Cyber Division (ISCD).  This position will be full-time, 100% onsite at our office in Colorado Springs, CO.Job SummaryInformation Systems and Cyber Division (ISCD) staff couple the latest in information system technologies, such as elastic compute clouds, containerization, microservices, real-time operating systems, and visualization frameworks, with expertise in cyber security, software architecture, software engineering, data science, Artificial Intelligence, process improvement, and software development to deliver responsive, resilient, high-performance software intensive systems to our IC, DoD, and civilian customers.EAD develops a wide variety of innovative tools and applications to support civil, commercial, and national security space systems. From web, cloud, and desktop visualization to virtual and augmented reality; EAD evaluates and creates unique visual experiences that present data and analysis to key decision-makers. As an intern within EAD, you will be involved in integrating and developing service components for the enterprise cloud platform.What You’ll Be DoingSupport industry leading scientists and engineers in the development of maintainable cloud native applications and backend service-oriented architecture componentsProvide technical support in application architecture and development and continuous integration and continuous deployment Build services that enhance data analysis and decision-making processes Interface with a wide variety of Engineering and Technology Group (ETG), launch, satellite, and other program office customersDuties, responsibilities and activities may change, or new ones may be assigned as needed Foster innovation by staying current with emerging technologies and industry best practicesTraining and mentorship will be provided What Corporate Skills You’ll Bring  Strong written and oral communication skills  Must work well in a team environment.  Possess organizational, time management and project management skills.  Demonstrate flexibility and ability to adapt to changing organizational need.  Interpersonal skills to coordinate efforts and work with other internal and external organizations.  What You Need to be Successful   Minimum Requirements  Currently enrolled full-time in an accredited college/university program pursuing a Master's degree in Computer Science, Engineering or related discipline  Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full-time after completion of the internship. Minimum GPA of 3.0   Proficiency in Python and MERNExperience leveraging virtualization for developer environmentsExperience in building CI/CD pipelines for automatic deployment to KubernetesThis position requires the ability to obtain and maintain a security clearance, which is issued by the US government. U.S citizenship is required to obtain a security clearance.  Transcripts required.  How You Can Stand Out It would be impressive if you have one or more of these:  GPA 3.5 or higher  Active security clearanceExperience developing Full Stack applications with microservice architectureExperience in Go and TypescriptFamiliarity with Infrastructure as CodeProficiency in cloud servicesTemporary housing assistance is not available.We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business.  The grade-based pay range for this job is listed below.  Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills.  (Min - Max)$32.00 - $35.00Pay Basis: HourlyLeadership CompetenciesOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:Operate StrategicallyLead Change   Engage with Impact   Foster Innovation   Deliver Results  Ways We Reward Our Employees During your interview process, our team will provide details of our industry-leading benefits.Benefits vary and are applicable based on Job Type.  A few highlights include:Comprehensive health care and wellness plansPaid holidays, sick time, and vacationStandard and alternate work schedules, including telework options401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hireFlexible spending accountsVariable pay program for exceptional contributionsRelocation assistanceProfessional growth and development programs to help advance your careerEducation assistance programsAn inclusive work environment built on teamwork, flexibility, and respectWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.Equal Opportunity CommitmentThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.",
+      "job_apply_link": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Software-Integration-Engineer-Grad-Intern_R014034",
+      "job_posted_at_datetime_utc": "2025-11-20T18:58:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-aerospace-corporation-software-integration-engineer-grad-intern-colorado-springs",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T19:45:09.542Z",
+    "postedAt": "2025-12-21T20:05:02.896Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Software Engineering",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Scottsdale",
+      "job_state": "AZ",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $26.00 - USD $26.00 /Yr. <h2>Company Overview</h2> <p>At General Dynamics Mission Systems, we rise to the challenge each day to ensure the safety of those that lead, serve, and protect the world we live in. We do this by making the world’s most advanced defense platforms even smarter. Our engineers redefine what’s possible and our manufacturing team brings it to life, building the brains behind the brawn on submarines, ships, combat vehicles, aircraft, satellites, and other advanced systems.</p> <p>&nbsp;</p> <p>We pride ourselves in being a great place to work with this shared sense of purpose, committed to a diverse and exciting employee experience that drives innovation and creates a community where all feel welcome and a part of something amazing.</p> <p>&nbsp;</p> <p>We offer highly competitive benefits and a flexible work environment where contributions are recognized and rewarded. To see more about our benefits, visit https://gdmissionsystems.com/careers/why-work-for-us/benefits</p> <p>&nbsp;</p> <p>General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/68792/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-11-09T07:49:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-software-engineer-intern-software-engineering-scottsdale",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T20:04:28.989Z",
+    "postedAt": "2025-12-21T20:31:37.433Z"
+  },
+  {
+    "job": {
+      "job_title": "AI Engineering Analyst Intern",
+      "employer_name": "LexisNexis Risk Solutions",
+      "job_city": "Alpharetta",
+      "job_state": "GA",
+      "job_description": "Join LexisNexis Risk Solutions in this exciting opportunity.",
+      "job_apply_link": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/AI-Engineering-Analyst-Intern_R103683",
+      "job_posted_at_datetime_utc": "2025-10-22T07:25:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "lexisnexis-risk-solutions-ai-engineering-analyst-intern-alpharetta",
+      "description_platform": "workday",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T20:19:00.218Z",
+    "postedAt": "2025-12-21T20:40:51.165Z"
+  },
+  {
+    "job": {
+      "job_title": "Systems Engineering Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Canonsburg",
+      "job_state": "PA",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/67928/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-07T01:55:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-systems-engineering-intern-canonsburg",
+      "description_platform": "icims",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T03:42:11.302Z",
+    "enrichedAt": "2025-12-21T20:31:07.267Z",
+    "postedAt": "2025-12-21T20:48:10.701Z"
+  },
+  {
+    "job": {
+      "job_title": "Systems Engineering Intern - Summer 2026",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Manassas",
+      "job_state": "VA",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p><strong>CLEARANCE REQUIREMENTS:</strong> Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>&nbsp;</p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an opening for a Systems Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p><strong>What sets you apart:</strong></p> <ul> <li>Clear understanding of engineering concepts, principles, theories, and technical standards</li> <li>Creative thinker with ability to grasp and apply new information quickly and handle increasing responsibilities with growing complexity</li> <li>Team player who thrives in collaborative environments and revels in team success</li> <li>Commitment to ongoing professional development for yourself and others</li> </ul> <p><strong>Our Commitment to You:</strong></p> <ul> <li>An exciting career path with opportunities for continuous learning and development</li> <li>Research oriented work, alongside award winning teams developing practical solutions for our nation’s security</li> <li>Flexible schedules with every other Friday off work, if desired (9/80 schedule)</li> <li>Competitive benefits, including flex time off</li> <li>See more at gdmissionsystems.com/careers/why-work-for-us/benefits</li> </ul> <p><strong>Workplace Options:</strong>This position is 100% on-site and you will be part of the Manassas, Virginia facility.</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $22.00 - USD $29.00 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/67995/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-09T19:28:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-systems-engineering-intern-summer-2026-manassas",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-12T08:14:56.776Z",
+    "enrichedAt": "2025-12-21T21:28:13.010Z",
+    "postedAt": "2025-12-21T21:45:03.992Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer – Intern Conversion",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Orlando",
+      "job_state": "FL",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Requires a Bachelor’s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Agile experience preferred.</p> <p>&nbsp;</p> <p><strong>CLEARANCE REQUIREMENTS:</strong> Ability to obtain a Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>ROLE AND POSITION OBJECTIVES:</strong>As a software engineer for Range Systems you’ll be a member of a cross functional team responsible for developing software solutions supporting our armed services training community.&nbsp; We encourage you to apply if you have any of these preferred skills or experiences:</p> <p>&nbsp;</p> <p>Coursework/experience in software programming languages such as C/C++ /Java. Experience with UNIX, Linux, and/or Windows and/or real time OS is desired. Strong interpersonal communication skills, problem solving skills, as well as the ability to work in a small team environment.</p> <p>&nbsp;</p> <p><strong>What sets you apart:</strong></p> <ul> <li>Experience with C++, Angular, Python, &amp; Java</li> <li>Familiarity with the Agile Framework</li> <li>Expertise in applying technical standards and methodologies to solve challenges in creative ways</li> <li>Collaborative team player eager to provide technical contributions in a group setting</li> <li>Thorough knowledge of technology trends and willingness to champion new ideas and process improvements</li> <li>Commitment to ongoing professional development for yourself</li> </ul> <p><strong>Our Commitment to You:</strong></p> <p><strong>&nbsp;</strong></p> <ul> <li>An exciting career path with opportunities for continuous learning and development.</li> <li>Research oriented work, alongside award winning teams developing practical solutions for our nation’s security</li> <li>Flexible schedules with every other Friday off work, if desired (9/80 schedule)</li> <li>Competitive benefits, including 401k matching, flex time off, paid parental leave, healthcare benefits, health &amp; wellness programs, employee resource and social groups, and more</li> <li>See more at gdmissionsystems.com/careers/why-work-for-us/benefits</li> </ul> <h3>&nbsp;</h3> <p><strong>Workplace Options:</strong></p> <h3>This position is Hybrid/Flex as desired.</h3> <h3>While on-site, you will be a part of the Orlando team. </h3> <h3>&nbsp;</h3> <p>#LI-Hybrid</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $84,300.00 - USD $86,300.00 /Yr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69609/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-12T23:32:28.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-systems-software-engineer-intern-conversion-orlando",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-13T01:59:02.237Z",
+    "enrichedAt": "2025-12-21T22:16:49.630Z",
+    "postedAt": "2025-12-21T22:39:45.954Z"
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 Data Analyst Intern-Irvine - CA",
+      "employer_name": "CoStar Group",
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Summer 2026 Data Analyst Intern- Irvine, CA<br>Job Description<br>Summer 2026 Data Analyst InternIrvine, CA Company Overview:CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online marketplaces. Included in the S&P 500 Index and the NASDAQ 100, CoStar Group is on a mission to digitize the world’s real estate, empowering all people to discover properties, insights and connections that improve their businesses and lives. We have been living and breathing the world of real estate information and online marketplaces for over 35 years, giving us the perspective to create truly unique and valuable offerings to our customers. We’ve continually refined, transformed, and perfected our approach to our business, creating a language that has become standard in our industry, for our customers, and even our competitors. We continue that effort today and are always working to improve and drive innovation. This is how we deliver for our customers, our employees, and investors. By equipping the brightest minds with the best resources available, we provide an invaluable edge in real estate. The Analytics team is responsible for the development of CoStar's customer-facing Real Estate Analytics products.  We think big, creating innovative data-intensive applications that take the vast amount of data collected by our CoStar Research teams to create a fast, reliable and intuitive analytics platform for our customers.  We are a collaborative product development team, and we are growing rapidly to help invent the future of Real Estate Analytics.   Skills & Qualifications Enrolled in a Bachelor's degree program from an accredited, not-for-profit, in-person institution in STEM, or comparable major graduating between December 2026 through June 2028Minimum 3.0 cumulative GPA  Strategic thinker and problem solver with a proven ability to prioritize, negotiate, and execute to accomplish amazing things Basic SQL database knowledge Basic Databricks knowledgeBasic Business Intelligence tool set experience, Power BI, Tableau, Reporting Services or similar  Knowledge of Python and familiarity with ML algorithms. Strong analytical and problem-solving abilities Commercial Real Estate knowledge a plusAbout the Role The mission of the Data Analyst Intern, in partnership with the Product Team, is to successfully build analytic information tools, reports, and applications for the Commercial Real Estate (CRE) market.  We are searching for a Data Analyst Intern who can gather important company data and compile it into specifications that our teams can use to build world-class Analytic products. Should have the ability to work on multiple projects simultaneously and translate business data into digestible information that will be consumed by various development teams. Candidates should be able to analyze and solve issues that arise from internal users regarding all aspects of CoStar Analytics. Responsibilities include: Understanding the CoStar business, the goals of our products, and collaborating with the Product team in the creation of those products Assist writing acceptance criteria for user stories that contain key information for the development team to do their work   Maintain direct channels of communication with the product team Responding to analytic specific issues that are raised by internal Identifying and document business trends utilizing real data that will support new features and applications Documenting user requirements and business rules to be used in application development Hands on work in SQL as well as BI toolsets on a regular basis. What's in it for you: Joining CoStar Group means becoming part of a culture of collaboration and innovation that attracts top talent across diverse fields. Be part of a team of professionals dedicated to learning, growth, and success in a rewarding environment.We encourage all qualified candidates eligible to work full-time in the United States to apply. Please note that CoStar does not provide visa sponsorship for this position.CoStar Group accepts job applications from candidates in the United States solely through the following channels: The CoStar Group website. Email correspondence using only the CoStar domain of “@costar.com”. Screening and interaction via telephone, Microsoft Teams, or Zoom platforms. Please be cautious: CoStar does not use Wire, Google Hangouts, or any other platform for recruitment-related activities. Disregard any solicitation or request for information regarding job applications with CoStar via any means other than those listed above. CoStar will never ask candidates to make any personal financial investment related to employment with the company. CoStar Group is an Equal Employment Opportunity Employer, maintaining a drug-free workplace and conducting pre-employment substance abuse testing.This position offers an hourly wage of $28.00 per hour. <br>CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing",
+      "job_apply_link": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Orange-County---CA/Summer-2026-Data-Analyst-Intern--Irvine--CA_R38009",
+      "job_posted_at_datetime_utc": "2025-12-13T02:52:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "costar-group-summer-2026-data-analyst-intern-irvine-ca-irvine",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-13T03:10:32.971Z",
+    "enrichedAt": "2025-12-21T23:17:45.725Z",
+    "postedAt": "2025-12-21T23:36:52.893Z"
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 Internship - Computer Science Majors",
+      "employer_name": "Western Alliance",
+      "job_city": "Dallas",
+      "job_state": "TX",
+      "job_description": "Job Title: Summer 2026 Internship - Computer Science Majors Location: CityScape What you'll do: Western Alliance Bank IT is seeking motivated undergraduate students majoring in Computer Science or related fields for its Summer 2026 Internship Program. Interns will be placed across various IT functions and will contribute to real-world projects that support the bank’s digital transformation, enterprise systems, and software development initiatives. About WAB IT: The Information Technology division at WAB powers the bank’s digital infrastructure and strategic technology initiatives. WAB IT supports key areas such as: • Digital Banking &amp; Customer Experience Platforms • Payments, Lending Systems, CRM Technologies • Corporate Technologies &amp; Risk Management • Enterprise Architecture &amp; Cloud Solutions • Mortgage Technology &amp; Core Banking Systems • Data Analytics &amp; Automation Interns will be assigned to teams based on their interests, skills, and business needs. Collaborate with IT teams on development, analytics, and automation projects. Participate in Agile ceremonies and contribute to sprint deliverables. Participate in design discussions, learn and implement solutions such as custom applications, SaaS or Commercial platforms, and middleware integrations. Assist in building internal tools or prototypes using technologies such as .NET, Python, SQL, and Azure. Support testing, documentation, and deployment of software solutions. Attend learning sessions and mentorship activities. What you'll need: Currently pursuing a bachelor’s degree in computer science, software engineering, or a related field. Strong analytical and problem-solving skills. Familiarity with programming languages and standards (e.g., React, Node.js, Python, Java, C#, RESTful APIs etc.) and cloud platforms. Excellent communication and teamwork abilities. Interest in financial services and enterprise technology. To be eligible for this program, you must be authorized to work in the U.S. on a permanent basis. We do not offer any type of employment-based immigration sponsorship for this program. Western Alliance Bank will not provide any assistance or sign any documentation in support of any other form of immigration sponsorship or benefit, including Optional Practical Training (OPT) or Curricular Practical Training (CPT). Program Benefits: Exposure to enterprise-scale IT operations and digital banking platforms. Mentorship from experienced IT professionals. Experience with modern development tools and agile methodologies. Networking opportunities across WAB’s technology and business teams. Potential pathway to full-time opportunities post-graduation Benefits you’ll love: We offer all the important things you'd want — like competitive salaries, an ownership stake in the company, medical and dental insurance, time off, a great 401k matching program, tuition assistance program, an employee volunteer program, and a wellness program. In addition, you’ll have the opportunity to bolster your business knowledge, learning the ins and outs of how successful companies operate and manage their finances, giving you invaluable hands-on experience to help grow your career! About the company: Western Alliance Bank is a wholly owned subsidiary of Western Alliance Bancorporation. Alliance Bank of Arizona, Alliance Association Bank, Bank of Nevada, Bridge Bank, First Independent Bank, and Torrey Pines Bank are divisions of Western Alliance Bank; Member FDIC. AmeriHome Mortgage is a Western Alliance Bank company. Western Alliance Bancorporation is committed to equal employment and will consider all qualified applicants without regard to race, sex, color, religion, age, nation origin, marital status, disability, protected veteran status, sexual orientation, gender identity or genetic information. Western Alliance Bancorporation is committed to working with and providing reasonable accommodations for individuals with disabilities. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process and/or need an alternative method of applying, please email HR@westernalliancebank.com or call 602-386-2488. When contacting us, please provide your contact information and state the nature of your accessibility issue. We will only respond to inquiries concerning requests that involve a reasonable accommodation in the application process. © Western Alliance Bancorporation About Western Alliance Bancorporation With more than $80 billion in assets, Western Alliance Bancorporation (NYSE:WAL) is one of the country’s top-performing banking companies. Through its primary subsidiary, Western Alliance Bank, Member FDIC, clients benefit from a full spectrum of tailored commercial banking solutions and consumer products, all delivered with outstanding service by industry experts who put customers first. Major accolades include being ranked as a top U.S. bank in 2023 by American Banker and Bank Director. Serving clients across the country wherever business happens, Western Alliance Bank operates individual, full-service banking and financial brands with offices in key markets nationwide. For more information, visit Western Alliance Bancorporation. For more information, visit Western Alliance Bank online. Terms &amp; Notices Privacy Policy FDIC Insurance",
+      "job_apply_link": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2026-Internship---Computer-Science-Majors_R12229",
+      "job_posted_at_datetime_utc": "2026-01-23T23:55:58.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "western-alliance-summer-2026-internship-computer-science-majors-dallas",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-24T01:16:51.770Z",
+    "enrichedAt": "2026-01-24T01:17:53.377Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer Internship - Computer Science Majors - Columbus OH",
+      "employer_name": "Western Alliance",
+      "job_city": "Columbus",
+      "job_state": "OH",
+      "job_description": "Job Title: Summer 2026 Internship – Computer Science Majors (Columbus, OH) Location: OH - Columbus What you'll do: Western Alliance Bank is a nationally recognized commercial bank known for its strong financial performance, innovative technology platforms, and commitment to customer-centric solutions. With a broad footprint and deep regional expertise, WAB serves clients across diverse industries. Western Alliance Bank IT is seeking motivated undergraduate students majoring in Computer Science or related fields for its Summer 2026 Internship Program. Interns will be placed across various IT functions and will contribute to real-world projects that support the bank’s digital transformation, enterprise systems, and software development initiatives Collaborate with IT teams on development, analytics, and automation projects. Participate in Agile ceremonies and contribute to sprint deliverables. Participate in design discussions, learn and implement solutions such as custom applications, SaaS or Commercial platforms, and middleware integrations. Assist in building internal tools or prototypes using technologies such as .NET, Python, SQL, and Azure. Support testing, documentation, and deployment of software solutions. Attend learning sessions and mentorship activities. About WAB IT: The Information Technology division at WAB powers the bank’s digital infrastructure and strategic technology initiatives. WAB IT supports key areas such as: Digital Banking &amp; Customer Experience Platforms Payments, Lending Systems, CRM Technologies Corporate Technologies &amp; Risk Management Enterprise Architecture &amp; Cloud Solutions Mortgage Technology &amp; Core Banking Systems Data Analytics &amp; Automation Interns will be assigned to teams based on their interests, skills, and business needs. What you'll need: Currently pursuing a bachelor’s degree in computer science, software engineering, or a related field. Strong analytical and problem-solving skills. Familiarity with programming languages and standards (e.g., React, Node.js, Python, Java, C#, RESTful APIs etc.) and cloud platforms. Excellent communication and teamwork abilities. Interest in financial services and enterprise technology. To be eligible for this program, you must be authorized to work in the U.S. on a permanent basis. We do not offer any type of employment-based immigration sponsorship for this program. Western Alliance Bank will not provide any assistance or sign any documentation in support of any other form of immigration sponsorship or benefit, including Optional Practical Training (OPT) or Curricular Practical Training (CPT). Program Benefits: Exposure to enterprise-scale IT operations and digital banking platforms. Mentorship from experienced IT professionals. Experience with modern development tools and agile methodologies. Networking opportunities across WAB’s technology and business teams. Potential pathway to full-time opportunities post-graduation. Benefits you’ll love: We offer all the important things you'd want — like competitive salaries, an ownership stake in the company, medical and dental insurance, time off, a great 401k matching program, tuition assistance program, an employee volunteer program, and a wellness program. In addition, you’ll have the opportunity to bolster your business knowledge, learning the ins and outs of how successful companies operate and manage their finances, giving you invaluable hands-on experience to help grow your career! About the company: Western Alliance Bank is a wholly owned subsidiary of Western Alliance Bancorporation. Alliance Bank of Arizona, Alliance Association Bank, Bank of Nevada, Bridge Bank, First Independent Bank, and Torrey Pines Bank are divisions of Western Alliance Bank; Member FDIC. AmeriHome Mortgage is a Western Alliance Bank company. Western Alliance Bancorporation is committed to equal employment and will consider all qualified applicants without regard to race, sex, color, religion, age, nation origin, marital status, disability, protected veteran status, sexual orientation, gender identity or genetic information. Western Alliance Bancorporation is committed to working with and providing reasonable accommodations for individuals with disabilities. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process and/or need an alternative method of applying, please email HR@westernalliancebank.com or call 602-386-2488. When contacting us, please provide your contact information and state the nature of your accessibility issue. We will only respond to inquiries concerning requests that involve a reasonable accommodation in the application process. © Western Alliance Bancorporation About Western Alliance Bancorporation With more than $80 billion in assets, Western Alliance Bancorporation (NYSE:WAL) is one of the country’s top-performing banking companies. Through its primary subsidiary, Western Alliance Bank, Member FDIC, clients benefit from a full spectrum of tailored commercial banking solutions and consumer products, all delivered with outstanding service by industry experts who put customers first. Major accolades include being ranked as a top U.S. bank in 2023 by American Banker and Bank Director. Serving clients across the country wherever business happens, Western Alliance Bank operates individual, full-service banking and financial brands with offices in key markets nationwide. For more information, visit Western Alliance Bancorporation. For more information, visit Western Alliance Bank online. Terms &amp; Notices Privacy Policy FDIC Insurance",
+      "job_apply_link": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2026-Internship---Computer-Science-Majors--Columbus--OH-_R12325",
+      "job_posted_at_datetime_utc": "2026-01-23T23:55:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "western-alliance-summer-internship-computer-science-majors-columbus-oh-columbus",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-24T01:16:51.770Z",
+    "enrichedAt": "2026-01-24T01:17:53.377Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Internship - EUV Installation Technical Project Support",
+      "employer_name": "ASML",
+      "job_city": "Phoenix",
+      "job_state": "AZ",
+      "job_description": "Introduction to the jobASML US brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.The Customer Support (CS) organization is responsible for the installation, qualification, repair and maintenance of the ASML systems at customer sites and the necessary transfer of know-how to the customer. This internship sits within our EUV UIR (Upgrades, Installs, and Relocation) team that partners with the local Customer Support branches to perform these tasks for the customers within the specific region. Your AssignmentThe goal of the internship is to work in a team environment alongside local experienced engineers, project managers, and leaders to gain insight on the ASML ways of working and our groundbreaking technology.Specific projects will be tailored to match the education/experience level of the intern as well as the interns learning objectives for the summer.Interns will typically be required to document and present their findings as well as making an end of summer presentation to the group about what they achieved during their internship.Past projects have included:Identifying and documenting goals and targets (KPIs).Evaluating current processes and updating documentation to adhere to continuous improvement methodologies (LEAN/6 Sigma).Creating data visualizations to identify potential opportunities for automation (Tableau/Power BI/Python).Collaborating with Engineers from other areas and shifts to identify Best Known Methods (BKMs).Participating in projects to improve performance of the FAB.Education and experienceMinimum 60 hours completed towards a Bachelor’s degree in an Engineering field and an expected graduation date of December 2026 or May 2027.Preferred Majors: Physics, Electrical Engineering, Electronics, Micro-electronics, Mechanical Engineering, Material Science Engineering, Chemical Engineering or IC manufacturing.Knowledgeable in MS Office applications - Excel, OneNote, Teams, PowerPoint.SkillsWorking at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way to do that. You won’t work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems. To thrive in this job, you’ll need the following skills: Can observe and respond to people and situations and interact with others encountered in the course of work.   Can learn and apply new information or skills.  Must be able to read and interpret data, information, and documents. Strong customer focus and commitment to customer satisfaction through prioritization, quality, efficiency and professionalism. Ability to complete assignments with attention to detail and high degree of accuracy.  Proven ability to perform effectively in a demanding environment with changing workloads and deadlines.  Result driven-demonstrate ownership and accountability. Identifies bottlenecks and drives improvements. Work independently or as part of a team and follow through on assignments with minimal supervision.  Demonstrate open, clear, concise and professional communication. Ability to establish and maintain cooperative working relationships with manager, co-workers and customer.  Work according to a strict set of procedures within the provided timelines. Other informationRoutinely required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch. Occasionally required to move around the campus. Occasionally lift and/or move up to 20 pounds. Will require domestic travel as part of program closeout and presentationSpecific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.ALT Other Information (in-fab)Legal/export license control (see below)The employee may occasionally lift and/or move up to 50 pounds in weight unaided. The environment generally is moderate in temperature and noise level.Work is conducted at a customer site and requires familiarization with customer rules and policies regarding worksite behavior and safety.Expect to spend 25% of the time inside the clean room working around with electromechanical equipment.Will require domestic travel as part of program closeout and presentationThis position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
+      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/N-Phoenix-AZ-USA/Internship---EUV-Installation-Technical-Project-Support_J-00333528",
+      "job_posted_at_datetime_utc": "2026-01-23T23:38:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "asml-internship-euv-installation-technical-project-support-phoenix",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-24T01:16:51.770Z",
+    "enrichedAt": "2026-01-24T01:17:53.377Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "3D Computer Graphics Intern",
+      "employer_name": "Stryker",
+      "job_city": "Fort Lauderdale",
+      "job_state": "FL",
+      "job_description": "Work Flexibility: OnsiteWhat You Get Out of the Internship​​At Stryker, we believe that developing the next generation of talent is just as important as developing life-changing medical technologies. As an intern, you won’t just observe — you’ll contribute to meaningful projects, gain exposure to leaders who will mentor you, and experience a culture of innovation and teamwork that is shaping the future of healthcare. As an intern, you will: ​ ​Apply classroom knowledge and gain experience in a fast-paced and growing industry setting​Implement new ideas, be constantly challenged, and develop your skills​Network with key/high-level stakeholders and leaders of the business​Be a part of an innovative team and culture​Experience documenting complex processes and presenting them in a clear formatWho We Want​​Challengers. People who seek out the hard projects and work to find just the right solutions.​Teammates. Partners who listen to ideas, share thoughts and work together to move the business forward.​Charismatic networkers. Relationship-savvy people who intentionally make connections with both internal partners and external contacts.​Strategic thinkers. Interns who propose innovative ideas and consistently exceed their performance objectives.​Customer-oriented achievers. Individuals with an unparalleled work ethic and customer-focused attitude who bring value to their partnerships.​Game changers. Persistent interns who will stop at nothing to live out Stryker’s mission to make healthcare better.What You Will DoAs a 3D Computer Graphics Intern in the Clinical Applications and Solutions team at Stryker, you will play a key role in developing cutting-edge 3D rendering methods for improving the visualization of intra-operative procedural data for Stryker's robotics and navigation applications.  Your work will explore the use of advanced rendering and shading methods to improve the look and feel and performance of our 3D visualization algorithms. In addition, you will collaborate with software and test engineers to integrate your improvements into Stryker’s Mako surgical robotic system. This is a unique opportunity to contribute to a meaningful mission while developing your skills in a hybrid, collaborative setting. Majors Targeted: Computer Engineering, Computer Science, Software EngineeringWhat You Need​​Currently pursuing a Bachelor’s or Master’s degree in a related field; must remain enrolled in a degree-seeking program after the internship.​Cumulative 3.0 GPA or above (verified at time of hire)Must be legally authorized to work in the U.S. and not require sponsorship now or in the future.​Deep familiarity with 3D rendering pipelines and algorithms. Medical visualization experience desired. Strong experience with C/C++, OpenGL and/or Vulkan, and GLSL. Experience with Qt, Git, Windows or Linux development desired. Strong written and verbal communication skills, with proven ability to collaborate and build relationshipsDemonstrated leadership, problem-solving, and organizational skills with the ability to manage multiple prioritiesProficiency in Microsoft Office (Excel, Word, PowerPoint) and eagerness to learn in a dynamic environment.Travel Percentage: NoneStryker Corporation is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status. Stryker is an EO employer – M/F/Veteran/Disability.Stryker Corporation will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.",
+      "job_apply_link": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/XMLNAME-3D-Computer-Graphics-Intern_R549000",
+      "job_posted_at_datetime_utc": "2026-01-23T23:33:51.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "stryker-3d-computer-graphics-intern-fort-lauderdale",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-24T01:16:51.770Z",
+    "enrichedAt": "2026-01-24T01:17:53.377Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Disney Live Entertainment Technical Development Intern",
+      "employer_name": "The Walt Disney Company",
+      "job_city": "Glendale",
+      "job_state": "CA",
+      "job_description": "Job Posting Title:Disney Live Entertainment Technical Development Intern, Summer/Fall 2026Req ID:10138539Job Description:About the Role & ProgramThrough innovative storytelling and a culture of collaboration, Disney Live Entertainment creates, produces, and delivers remarkable and engaging entertainment experiences. From the intimate to the spectacular, our work can be seen at Disney theme parks, resort hotels, cruise ships, and other locations the world over! Our diverse team – representing a wide variety of fields and talents from technical directors, writers, and lighting designers to choreographers, cosmetologists, and music producers – brings magical worlds to life through technical expertise, performance excellence, incomparable ingenuity, unparalleled spectacle…and a dash of pixie dust!The approximate date of this internship is June 2026 to December 2026, located in Glendale, CA. What You Will Do Work on technology development projects, which may include drones, virtual production, video game design, 3d printing, building robots, or something else!Develop prototypes and small-scale mockups to test technical feasibility and support creative assessment of functionalityWork on projects that impact our international and domestic offerings, which include stage productions, nighttime spectaculars, puppetry, interactive characters and worlds, etc.Assist with technical research and documentation developmentTrack and review incoming and outgoing communication and deliverablesPartner with cross-functional teams, including creative, production, designers, consultants, and vendorsPreferred Qualifications:Passion for technology and live entertainmentFabrication skills, technical production, or design experienceExperience working with real-time interactive digital worlds, such as Unreal Engine, TouchDesigner, and UnityExperience creating and delivering compelling presentations, distilling technical details into simple written and visual communicationFamiliarity with entertainment programming software (such as MA 3D, Navigator, Hippotizer, Qaysi)Experience working with digital illustration tools such as Illustrator, Photoshop, SketchUp, Maya, Rhino, and 3ds MaxThorough, organized, and detail-orientedAble to handle multiple tasks and prioritiesWork collaboratively and independentlyStrong oral and written communication skillsDemonstrated proficiency with Excel, Adobe, and PowerPoint or KeynoteDemonstrated proficiency in modeling software, including CADD (Revit and/or AutoCAD)Experience in an entertainment or theatrical technical environmentPreferred Education: Junior, Senior, and Graduate students earning or completing an MFA in a technical design-related fieldEligibility Requirements & Program Information Candidates for this opportunity MUST meet all the requirements below:Be enrolled in an accredited college/university, taking at least one class at the time of application posting, OR currently participating in a Disney College Program or Disney Internship.Be at least 18 years of agePossess unrestricted work authorizationPossess a valid US driver’s license and have the ability to operate a company vehicleHave not completed one year of continual employment on a Disney internship or Disney College ProgramAble to have a consistent, reliable work schedule throughout the internshipAdditional Internal Posting:Able to provide reliable transportation to/from work  Must be fully available for the duration of the internship Must provide own housingRecommendation - Print This Role Description: We encourage applicants to print a copy of this role description so they can refer to it if they are selected for an interview. Please note that this role description is not accessible once the posting is closed. The pay rate for this role in Glendale, CA is $26.50 per hour. Select benefits may be provided as part of the compensation package, such as medical, financial, and/or other benefits, dependent on the level and position offered. To learn more about our benefits visit: https://jobs.disneycareers.com/benefits.Job Posting Segment:Disney Live EntertainmentJob Posting Primary Business:Technical Delivery (DLE)Primary Job Posting Category:OtherEmployment Type:Full timePrimary City, State, Region, Postal Code:Glendale, CA, USAAlternate City, State, Region, Postal Code:Date Posted:2026-01-23",
+      "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Disney-Live-Entertainment-Technical-Development-Intern--Summer-Fall-2026_10138539",
+      "job_posted_at_datetime_utc": "2026-01-23T23:32:32.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-walt-disney-company-disney-live-entertainment-technical-development-intern-glendale",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-24T01:16:51.770Z",
+    "enrichedAt": "2026-01-24T01:17:53.377Z",
+    "postedAt": null
+  }
+]
