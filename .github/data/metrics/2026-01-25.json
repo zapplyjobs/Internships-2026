@@ -1,16 +1,16 @@
 {
-  "generated": "2026-01-25T19:34:50.625Z",
+  "generated": "2026-01-25T19:44:14.350Z",
   "period": "last_7_days",
-  "period_start": "2026-01-18T19:34:50.625Z",
-  "period_end": "2026-01-25T19:34:50.625Z",
+  "period_start": "2026-01-18T19:44:14.350Z",
+  "period_end": "2026-01-25T19:44:14.350Z",
   "summary": {
-    "total_jobs_posted": 8,
+    "total_jobs_posted": 5,
     "unique_jobs": 5,
-    "multi_channel_postings": 6,
-    "unique_multi_channel_jobs": 3,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 3
+    "channels_active": 2
   },
   "by_channel": {
     "💻・tech-internships": {
@@ -25,42 +25,13 @@
           "id": "northrop-grumman-software-engineer-huntsville",
           "title": "Software Engineer",
           "company": "Northrop Grumman",
-          "posted_at": "2026-01-25T19:34:28.168Z"
+          "posted_at": "2026-01-25T19:43:57.337Z"
         },
         {
           "id": "zoox-technical-product-management-intern-agentic-ai-san-mateo",
           "title": "Technical Product Management Intern, Agentic AI",
           "company": "Zoox",
-          "posted_at": "2026-01-25T19:34:31.668Z"
-        }
-      ]
-    },
-    "🏠・remote-usa-internships": {
-      "channel_id": "1464303522177614001",
-      "count": 3,
-      "jobs": [
-        "northrop-grumman-software-engineer-huntsville",
-        "franklin-templeton-technology-order-management-execution-compliance-stamford",
-        "micron-technology-intern-it-mfg-boise"
-      ],
-      "recent_jobs": [
-        {
-          "id": "northrop-grumman-software-engineer-huntsville",
-          "title": "Software Engineer",
-          "company": "Northrop Grumman",
-          "posted_at": "2026-01-25T19:34:29.874Z"
-        },
-        {
-          "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
-          "title": "Technology Order Management Execution & Compliance",
-          "company": "Franklin Templeton",
-          "posted_at": "2026-01-25T19:34:38.498Z"
-        },
-        {
-          "id": "micron-technology-intern-it-mfg-boise",
-          "title": "Intern – IT MFG",
-          "company": "Micron Technology",
-          "posted_at": "2026-01-25T19:34:42.111Z"
+          "posted_at": "2026-01-25T19:43:59.129Z"
         }
       ]
     },
@@ -77,55 +48,24 @@
           "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
           "title": "Technology Order Management Execution & Compliance",
           "company": "Franklin Templeton",
-          "posted_at": "2026-01-25T19:34:36.467Z"
+          "posted_at": "2026-01-25T19:44:04.080Z"
         },
         {
           "id": "micron-technology-intern-it-mfg-boise",
           "title": "Intern – IT MFG",
           "company": "Micron Technology",
-          "posted_at": "2026-01-25T19:34:40.256Z"
+          "posted_at": "2026-01-25T19:44:05.992Z"
         },
         {
           "id": "danaher-product-management-marketing-intern-marlborough",
           "title": "Product Management / Marketing Intern",
           "company": "Danaher",
-          "posted_at": "2026-01-25T19:34:43.996Z"
+          "posted_at": "2026-01-25T19:44:07.721Z"
         }
       ]
     }
   },
-  "multi_channel_routing": [
-    {
-      "job_id": "northrop-grumman-software-engineer-huntsville",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer",
-      "channels": [
-        "💻・tech-internships",
-        "🏠・remote-usa-internships"
-      ],
-      "posted_at": "2026-01-25T19:34:28.168Z"
-    },
-    {
-      "job_id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
-      "company": "Franklin Templeton",
-      "title": "Technology Order Management Execution & Compliance",
-      "channels": [
-        "📣・marketing-internships",
-        "🏠・remote-usa-internships"
-      ],
-      "posted_at": "2026-01-25T19:34:36.467Z"
-    },
-    {
-      "job_id": "micron-technology-intern-it-mfg-boise",
-      "company": "Micron Technology",
-      "title": "Intern – IT MFG",
-      "channels": [
-        "📣・marketing-internships",
-        "🏠・remote-usa-internships"
-      ],
-      "posted_at": "2026-01-25T19:34:40.256Z"
-    }
-  ],
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [],
