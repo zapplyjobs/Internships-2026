@@ -621,5 +621,24 @@
     "addedAt": "2026-01-25T05:17:27.770Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Energy Management Intern",
+      "employer_name": "Tri-State Generation and Transmission Association",
+      "job_city": "Westminster",
+      "job_state": "CO",
+      "job_description": "Join Tri-State Generation and Transmission Association in this exciting opportunity.",
+      "job_apply_link": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/556",
+      "job_posted_at_datetime_utc": "2026-01-21T20:40:04.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tri-state-generation-and-transmission-association-energy-management-intern-westminster"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-25T12:34:04.940Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
