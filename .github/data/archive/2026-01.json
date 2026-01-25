@@ -15563,5 +15563,38 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
     "discordThreadId": null,
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-of-solutions-architecture-applied-ai-industries-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-manager-of-solutions-architecture-applied-ai-industries-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+    "postedToDiscord": "2026-01-18T23:29:17.425Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-manager-of-solutions-architecture-public-sector-applied-ai-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-18-1",
+    "jobId": "anthropic-manager-of-solutions-architecture-public-sector-applied-ai-san-francisco-ca-new-york-city-ny-washington-dc",
+    "company": "anthropic",
+    "title": "Manager of Solutions Architecture, Public Sector, Applied AI",
+    "postedToDiscord": "2026-01-18T23:29:21.251Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973175008",
+    "discordThreadId": "1462589698085228637",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-partner-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+    "jobId": "anthropic-partner-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Partner Solutions Architect, Applied AI",
+    "postedToDiscord": "2026-01-18T23:29:24.776Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
+    "discordThreadId": "1462589713868128452",
+    "instanceNumber": 1
   }
 ]
