@@ -15321,5 +15321,82 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
     "discordThreadId": "1462568079895691274",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-gtm-partner-enablement-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-gtm-partner-enablement-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "GTM Partner Enablement",
+    "postedToDiscord": "2026-01-18T22:03:34.239Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973162008",
+    "discordThreadId": "1462568111655096361",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-head-of-asset-wealth-management-gtm-sales-new-york-city-ny-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-head-of-asset-wealth-management-gtm-sales-new-york-city-ny-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Head of Asset & Wealth Management, GTM Sales",
+    "postedToDiscord": "2026-01-18T22:03:37.787Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041304008",
+    "discordThreadId": "1462568125580054549",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-head-of-infrastructure-accounting-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-head-of-infrastructure-accounting-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Head of Infrastructure Accounting ",
+    "postedToDiscord": "2026-01-18T22:03:41.282Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
+    "discordThreadId": "1462568140515971223",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-head-of-it-sox-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-head-of-it-sox-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Head of IT SOX",
+    "postedToDiscord": "2026-01-18T22:03:44.798Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061691008",
+    "discordThreadId": "1462568155149762642",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-head-of-partner-experience-success-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-head-of-partner-experience-success-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Head of Partner Experience & Success",
+    "postedToDiscord": "2026-01-18T22:03:48.408Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015941008",
+    "discordThreadId": "1462568169465184520",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-head-of-product-communications-new-york-city-ny-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+    "jobId": "anthropic-head-of-product-communications-new-york-city-ny-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Head of Product Communications",
+    "postedToDiscord": "2026-01-18T22:03:52.063Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930325008",
+    "discordThreadId": "1462568185734893628",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-head-of-protective-services-san-francisco-ca-2026-01-18-1",
+    "jobId": "anthropic-head-of-protective-services-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Head of Protective Services",
+    "postedToDiscord": "2026-01-18T22:03:55.631Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933383008",
+    "discordThreadId": "1462568200494518459",
+    "instanceNumber": 1
   }
 ]
