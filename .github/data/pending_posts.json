@@ -792,5 +792,119 @@
     "addedAt": "2026-01-26T15:41:59.212Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Speech Intelligence Analyst",
+      "employer_name": "Bread Financial",
+      "job_city": "Columbus",
+      "job_state": "OH",
+      "job_description": "Join Bread Financial in this exciting opportunity.",
+      "job_apply_link": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Speech-Intelligence-Analyst_R1012117",
+      "job_posted_at_datetime_utc": "2026-01-26T15:44:41.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "bread-financial-intern-speech-intelligence-analyst-columbus"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T16:05:59.119Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Intelligent Automation",
+      "employer_name": "Bread Financial",
+      "job_city": "Columbus",
+      "job_state": "OH",
+      "job_description": "Join Bread Financial in this exciting opportunity.",
+      "job_apply_link": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Intelligent-Automation_R1012116",
+      "job_posted_at_datetime_utc": "2026-01-26T15:44:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "bread-financial-intern-intelligent-automation-columbus"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T16:05:59.119Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Pathway",
+      "employer_name": "Nelnet",
+      "job_city": "Lincoln",
+      "job_state": "NE",
+      "job_description": "Join Nelnet in this exciting opportunity.",
+      "job_apply_link": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Pathway--Workday--Starting-August-2026_R22241",
+      "job_posted_at_datetime_utc": "2026-01-26T15:36:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "nelnet-intern-pathway-lincoln"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T16:05:59.119Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Corporate Intern - Digital and Analytics",
+      "employer_name": "Caterpillar Inc.",
+      "job_city": "Peoria",
+      "job_state": "IL",
+      "job_description": "Join Caterpillar Inc. in this exciting opportunity.",
+      "job_apply_link": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000345613",
+      "job_posted_at_datetime_utc": "2026-01-26T15:34:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "caterpillar-corporate-intern-digital-and-analytics-peoria"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T16:05:59.119Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Copart",
+      "job_city": "Dallas",
+      "job_state": "TX",
+      "job_description": "Join Copart in this exciting opportunity.",
+      "job_apply_link": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Science---Intern_JR106622",
+      "job_posted_at_datetime_utc": "2026-01-26T15:32:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "copart-data-science-intern-dallas"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T16:05:59.119Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern",
+      "employer_name": "Sparksoft",
+      "job_city": "Columbia",
+      "job_state": "MD",
+      "job_description": "Join Sparksoft in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5030475007",
+      "job_posted_at_datetime_utc": "2026-01-26T15:31:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sparksoft-intern-columbia"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T16:05:59.119Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
