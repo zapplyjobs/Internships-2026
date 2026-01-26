@@ -17532,5 +17532,49 @@
     "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5633880004",
     "discordThreadId": "1462731551744852123",
     "instanceNumber": 1
+  },
+  {
+    "id": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city-2026-01-19-1",
+    "jobId": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city",
+    "company": "vercel",
+    "title": "Software Engineer, Growth",
+    "postedToDiscord": "2026-01-19T08:53:04.768Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5613601004",
+    "discordThreadId": "1462731565938512059",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-software-engineer-support-platform-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-software-engineer-support-platform-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "Software Engineer, Support Platform",
+    "postedToDiscord": "2026-01-19T09:08:07.291Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5611527004",
+    "discordThreadId": "1462735350936895634",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-software-engineer-trust-safety-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-software-engineer-trust-safety-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "Software Engineer - Trust & Safety",
+    "postedToDiscord": "2026-01-19T09:08:10.931Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5649459004",
+    "discordThreadId": "1462735365306843222",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-software-engineer-web-performance-v0-hybrid-san-francisco-new-york-city-2026-01-19-1",
+    "jobId": "vercel-software-engineer-web-performance-v0-hybrid-san-francisco-new-york-city",
+    "company": "vercel",
+    "title": "Software Engineer (Web Performance), v0",
+    "postedToDiscord": "2026-01-19T09:08:14.280Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5704320004",
+    "discordThreadId": "1462735380527710270",
+    "instanceNumber": 1
   }
 ]
