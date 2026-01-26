@@ -754,5 +754,43 @@
     "addedAt": "2026-01-26T14:16:40.670Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Product Engineering Intern",
+      "employer_name": "Rheem",
+      "job_city": "Huntsville",
+      "job_state": "AL",
+      "job_description": "Join Rheem in this exciting opportunity.",
+      "job_apply_link": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3571",
+      "job_posted_at_datetime_utc": "2026-01-26T15:11:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "rheem-product-engineering-intern-huntsville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T15:41:59.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Adtheorant",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Adtheorant in this exciting opportunity.",
+      "job_apply_link": "https://careers-cadent.icims.com/jobs/1300/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-26T15:11:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "adtheorant-data-science-intern-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T15:41:59.212Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
