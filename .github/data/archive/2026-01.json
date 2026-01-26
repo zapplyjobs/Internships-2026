@@ -17642,5 +17642,49 @@
     "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722132004",
     "discordThreadId": "1462735492809363518",
     "instanceNumber": 1
+  },
+  {
+    "id": "vercel-vercel-development-representative-commercial-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+    "jobId": "vercel-vercel-development-representative-commercial-hybrid-san-francisco-new-york-city-austin",
+    "company": "vercel",
+    "title": "Vercel Development Representative, Commercial",
+    "postedToDiscord": "2026-01-19T13:46:15.331Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5065840004",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-vercel-development-representative-majors-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+    "jobId": "vercel-vercel-development-representative-majors-hybrid-san-francisco-new-york-city-austin",
+    "company": "vercel",
+    "title": "Vercel Development Representative, Majors",
+    "postedToDiscord": "2026-01-19T13:46:18.679Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
+    "discordThreadId": "1462805359986212917",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-vercel-development-representative-majors-v0-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+    "jobId": "vercel-vercel-development-representative-majors-v0-hybrid-san-francisco-new-york-city-austin",
+    "company": "vercel",
+    "title": "Vercel Development Representative, Majors, v0",
+    "postedToDiscord": "2026-01-19T13:46:22.167Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
+    "discordThreadId": "1462805374469013545",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-channel-programs-and-incentives-manager-remote-us-select-locations-2026-01-19-1",
+    "jobId": "dropbox-channel-programs-and-incentives-manager-remote-us-select-locations",
+    "company": "dropbox",
+    "title": "Channel Programs and Incentives Manager",
+    "postedToDiscord": "2026-01-19T13:46:25.551Z",
+    "sourceDate": "2026-01-13T16:46:24-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7438470?gh_jid=7438470",
+    "discordThreadId": "1462805394861854761",
+    "instanceNumber": 1
   }
 ]
