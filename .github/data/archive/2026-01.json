@@ -15783,5 +15783,60 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
     "discordThreadId": "1462593945531056128",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-manager-api-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-product-manager-api-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Product Manager, API ",
+    "postedToDiscord": "2026-01-19T00:06:24.999Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4936029008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-manager-claude-code-san-francisco-ca-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-product-manager-claude-code-san-francisco-ca-seattle-wa",
+    "company": "anthropic",
+    "title": "Product Manager, Claude Code",
+    "postedToDiscord": "2026-01-19T00:06:28.472Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985920008",
+    "discordThreadId": "1462599040939069502",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-manager-claude-code-enterprise-san-francisco-ca-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-product-manager-claude-code-enterprise-san-francisco-ca-seattle-wa",
+    "company": "anthropic",
+    "title": "Product Manager, Claude Code (Enterprise)",
+    "postedToDiscord": "2026-01-19T00:06:31.886Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
+    "discordThreadId": "1462599055447425206",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-manager-claude-code-growth-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-product-manager-claude-code-growth-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Product Manager, Claude Code Growth",
+    "postedToDiscord": "2026-01-19T00:06:35.724Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024981008",
+    "discordThreadId": "1462599070315974830",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-manager-research-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-product-manager-research-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Product Manager, Research",
+    "postedToDiscord": "2026-01-19T00:06:39.194Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933792008",
+    "discordThreadId": "1462599085574848515",
+    "instanceNumber": 1
   }
 ]

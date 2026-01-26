@@ -1,22 +1,4 @@
 {
-  "infineon-technologies-internship---c&p-ic-test-and-validation-multiple-cities": {
-    "assigned_date": "2025-11-26T13:11:17.348Z",
-    "job_title": "Internship - C&P IC Test and Validation",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-11-26T13:11:17.348Z"
-  },
-  "infineon-technologies-internship---r&d-project-specialist-multiple-cities": {
-    "assigned_date": "2025-11-26T13:33:23.064Z",
-    "job_title": "Internship - R&D Project Specialist",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-11-26T13:33:23.064Z"
-  },
-  "infineon-technologies-internship-–-package-&-process-engineer-multiple-cities": {
-    "assigned_date": "2025-11-26T13:33:23.064Z",
-    "job_title": "Internship – Package & Process Engineer",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-11-26T13:33:23.064Z"
-  },
   "paypal-machine-learning-engineer-phd-intern-san-jose": {
     "assigned_date": "2025-12-04T19:10:02.112Z",
     "job_title": "Machine Learning Engineer PhD Intern",
@@ -33682,5 +33664,17 @@
     "job_title": "Energy Management Intern",
     "company": "Tri-State Generation and Transmission Association",
     "first_seen": "2026-01-25T12:34:04.872Z"
+  },
+  "hntb-transportation-planning-intern-houston": {
+    "assigned_date": "2026-01-26T00:06:26.953Z",
+    "job_title": "Transportation Planning Intern",
+    "company": "HNTB",
+    "first_seen": "2026-01-26T00:06:26.953Z"
+  },
+  "hntb-tolling-intern---summer-2026-parsippany-troy-hills": {
+    "assigned_date": "2026-01-26T00:06:26.953Z",
+    "job_title": "Tolling Intern - Summer 2026",
+    "company": "HNTB",
+    "first_seen": "2026-01-26T00:06:26.953Z"
   }
 }
