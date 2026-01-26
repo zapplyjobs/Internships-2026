@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T07:02:11.009Z",
+  "lastUpdated": "2026-01-26T07:19:54.729Z",
   "jobs": [
-    {
-      "id": "anthropic-technical-program-manager-data-center-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-program-manager-data-center-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Data Center Infrastructure",
-      "postedToDiscord": "2026-01-19T07:02:55.259Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-program-manager-security-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-program-manager-security-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Security",
-      "postedToDiscord": "2026-01-19T07:02:58.694Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
-      "discordThreadId": "1462703857632018525",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-program-manager-model-evaluations-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-program-manager-model-evaluations-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Model Evaluations",
-      "postedToDiscord": "2026-01-19T07:03:05.342Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018714008",
-      "discordThreadId": "1462703885193052181",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-recruiter-specialized-san-francisco-ca-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-recruiter-specialized-san-francisco-ca-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Recruiter, Specialized",
-      "postedToDiscord": "2026-01-19T07:03:08.855Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008",
-      "discordThreadId": "1462703899877048436",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-scaled-abuse-threat-investigator-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-technical-scaled-abuse-threat-investigator-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Technical Scaled Abuse Threat Investigator",
-      "postedToDiscord": "2026-01-19T07:03:12.400Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067003008",
-      "discordThreadId": "1462703914678747166",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-program-manager-safeguards-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-technical-program-manager-safeguards-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Safeguards",
-      "postedToDiscord": "2026-01-19T07:03:18.833Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
-      "discordThreadId": "1462703942117888196",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-revenue-accountant-san-francisco-ca-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-revenue-accountant-san-francisco-ca-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Revenue Accountant",
-      "postedToDiscord": "2026-01-19T07:03:25.706Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990162008",
-      "discordThreadId": "1462703969079136290",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brex-data-engineer-san-francisco-california-united-states-2026-01-19-1",
-      "jobId": "brex-data-engineer-san-francisco-california-united-states",
-      "company": "brex",
-      "title": "Data Engineer",
-      "postedToDiscord": "2026-01-19T07:03:32.176Z",
-      "sourceDate": "2026-01-14T13:15:02-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
-      "discordThreadId": "1462703998040674324",
-      "instanceNumber": 1
-    },
-    {
-      "id": "duolingo-senior-account-executive-new-york-ny-2026-01-19-1",
-      "jobId": "duolingo-senior-account-executive-new-york-ny",
-      "company": "duolingo",
-      "title": "Senior Account Executive",
-      "postedToDiscord": "2026-01-19T07:03:38.937Z",
-      "sourceDate": "2026-01-14T13:11:37-05:00",
-      "sourceUrl": "https://careers.duolingo.com/jobs/8374797002?gh_jid=8374797002",
-      "discordThreadId": "1462704025366564886",
-      "instanceNumber": 1
-    },
     {
       "id": "coinbase-business-controller-intern-hybrid-new-york-ny-2026-01-19-1",
       "jobId": "coinbase-business-controller-intern-hybrid-new-york-ny",
@@ -6590,9 +6491,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465240343808315422",
+          "messageId": "1465244807147425907",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:02:01.000Z",
+          "postedAt": "2026-01-26T07:19:45.054Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -6614,9 +6515,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465240351450071182",
+          "messageId": "1465244813958975635",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:02:02.737Z",
+          "postedAt": "2026-01-26T07:19:46.704Z",
           "channelJobNumber": 4
         }
       },
@@ -6632,9 +6533,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465240371553374311",
+          "messageId": "1465244833965674586",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:02:07.571Z",
+          "postedAt": "2026-01-26T07:19:51.432Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -6656,9 +6557,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465240378843332816",
+          "messageId": "1465244840936607766",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:02:09.255Z",
+          "postedAt": "2026-01-26T07:19:53.098Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -6680,9 +6581,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465240386023850098",
+          "messageId": "1465244847559540750",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:02:11.008Z",
+          "postedAt": "2026-01-26T07:19:54.729Z",
           "channelJobNumber": 6
         }
       },
@@ -6690,11 +6591,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 603,
+    "totalJobs": 594,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T07:02:11.009Z",
+      "date": "2026-01-26T07:19:54.729Z",
       "archived": 0
     }
   }
