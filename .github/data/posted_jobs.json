@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T13:38:26.764Z",
+  "lastUpdated": "2026-01-26T13:46:30.795Z",
   "jobs": [
-    {
-      "id": "vercel-vercel-development-representative-commercial-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-vercel-development-representative-commercial-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Commercial",
-      "postedToDiscord": "2026-01-19T13:46:15.331Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5065840004",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-vercel-development-representative-majors-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-vercel-development-representative-majors-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Majors",
-      "postedToDiscord": "2026-01-19T13:46:18.679Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
-      "discordThreadId": "1462805359986212917",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-vercel-development-representative-majors-v0-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-vercel-development-representative-majors-v0-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Vercel Development Representative, Majors, v0",
-      "postedToDiscord": "2026-01-19T13:46:22.167Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
-      "discordThreadId": "1462805374469013545",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-channel-programs-and-incentives-manager-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-channel-programs-and-incentives-manager-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Channel Programs and Incentives Manager",
-      "postedToDiscord": "2026-01-19T13:46:25.551Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7438470?gh_jid=7438470",
-      "discordThreadId": "1462805394861854761",
-      "instanceNumber": 1
-    },
     {
       "id": "dropbox-cx-software-engineer-gtm-platforms-remote-us-select-locations-2026-01-19-1",
       "jobId": "dropbox-cx-software-engineer-gtm-platforms-remote-us-select-locations",
@@ -5589,9 +5545,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465340047804072001",
+          "messageId": "1465342070603518117",
           "channelType": "category",
-          "postedAt": "2026-01-26T13:38:12.220Z",
+          "postedAt": "2026-01-26T13:46:14.747Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -5613,9 +5569,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465340054905028723",
+          "messageId": "1465342078773891236",
           "channelType": "category",
-          "postedAt": "2026-01-26T13:38:13.963Z",
+          "postedAt": "2026-01-26T13:46:16.441Z",
           "channelJobNumber": 4
         }
       },
@@ -5631,9 +5587,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465340074974773248",
+          "messageId": "1465342098872991776",
           "channelType": "category",
-          "postedAt": "2026-01-26T13:38:18.653Z",
+          "postedAt": "2026-01-26T13:46:21.289Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -5655,9 +5611,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465340081845043234",
+          "messageId": "1465342106384990348",
           "channelType": "category",
-          "postedAt": "2026-01-26T13:38:20.512Z",
+          "postedAt": "2026-01-26T13:46:24.501Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -5679,9 +5635,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465340089625215091",
+          "messageId": "1465342119982923807",
           "channelType": "category",
-          "postedAt": "2026-01-26T13:38:22.251Z",
+          "postedAt": "2026-01-26T13:46:26.270Z",
           "channelJobNumber": 6
         }
       },
@@ -5689,11 +5645,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 512,
+    "totalJobs": 508,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T13:38:26.764Z",
+      "date": "2026-01-26T13:46:30.795Z",
       "archived": 0
     }
   }
