@@ -27,6 +27,9 @@ const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/servic
 // Deduplication logger
 const { DeduplicationLogger } = require('@zapply/job-board-shared');
 
+// Internship filter (Bug #4 fix - 2026-01-26)
+const { filterInternships } = require('./internship-filter');
+
 // Configuration - LEGACY CODE (JSearch now in jsearch-source.js)
 // NOTE: This hardcoded API key is DEPRECATED and should NOT be used
 // JSearch integration has been moved to jsearch-source.js with proper security
@@ -760,9 +763,23 @@ async function processJobs() {
 
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
-        
+
+        // Filter to ONLY internships (Bug #4 fix - 2026-01-26)
+        // SimplifyJobs and other sources return ALL job levels, not just internships
+        const { filtered: internshipJobs, removed: nonInternshipJobs } = filterInternships(allJobs);
+
+        if (nonInternshipJobs.length > 0) {
+            console.log(`\n⚠️  Filtered out ${nonInternshipJobs.length} non-internship jobs:`);
+            nonInternshipJobs.forEach(job => {
+                console.log(`   ⏭️  [NOT INTERNSHIP] ${job.company} - ${job.title}`);
+            });
+            console.log('');
+        }
+
+        console.log(`✅ ${internshipJobs.length} internship jobs passed filter (${allJobs.length} total fetched)`);
+
         // Fill null dates and convert to relative format
-        const jobsWithDates = fillJobDates(allJobs, jobDatesStore);
+        const jobsWithDates = fillJobDates(internshipJobs, jobDatesStore);
         
         // Add unique IDs for deduplication using standardized generation
         jobsWithDates.forEach(job => {
