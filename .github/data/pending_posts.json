@@ -735,5 +735,24 @@
     "addedAt": "2026-01-26T12:38:01.912Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Data Science and Artificial Intelligence",
+      "employer_name": "LabCorp",
+      "job_city": "Durham",
+      "job_state": "NC",
+      "job_description": "Join LabCorp in this exciting opportunity.",
+      "job_apply_link": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Data-Science-and-Artificial-Intelligence_2534702",
+      "job_posted_at_datetime_utc": "2026-01-26T13:37:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "labcorp-intern-data-science-and-artificial-intelligence-durham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T14:16:40.670Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
