@@ -659,5 +659,43 @@
     "addedAt": "2026-01-26T03:00:10.688Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Gulfstream",
+      "job_city": "Savannah",
+      "job_state": "GA",
+      "job_description": "Join Gulfstream in this exciting opportunity.",
+      "job_apply_link": "https://careers.gulfstream.com/job/Savannah-Fall-2026-IEF-Software-Engineering-College-Intern-GA-31401/1354242000/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-26T07:14:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "gulfstream-software-engineer-intern-savannah"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T07:34:04.324Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Corporate Intern - Digital and Analytics",
+      "employer_name": "Caterpillar Inc.",
+      "job_city": "Peoria",
+      "job_state": "IL",
+      "job_description": "Join Caterpillar Inc. in this exciting opportunity.",
+      "job_apply_link": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000322316",
+      "job_posted_at_datetime_utc": "2025-09-03T06:42:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "caterpillar-2026-summer-corporate-intern-digital-and-analytics-peoria"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T07:34:04.324Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
