@@ -1,150 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T08:33:21.006Z",
+  "lastUpdated": "2026-01-26T08:53:04.064Z",
   "jobs": [
-    {
-      "id": "vercel-product-manager-accounts-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-product-manager-accounts-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Product Manager - Accounts",
-      "postedToDiscord": "2026-01-19T08:33:29.276Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5589398004",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-recruiting-coordinator-contract-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-recruiting-coordinator-contract-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Recruiting Coordinator (Contract)",
-      "postedToDiscord": "2026-01-19T08:33:35.759Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5686511004",
-      "discordThreadId": "1462726662029574218",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-senior-partner-marketing-manager-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-senior-partner-marketing-manager-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Senior Partner Marketing Manager",
-      "postedToDiscord": "2026-01-19T08:33:39.353Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5611652004",
-      "discordThreadId": "1462726677028405383",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-sales-engineer-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-sales-engineer-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Sales Engineer",
-      "postedToDiscord": "2026-01-19T08:33:45.863Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5347669004",
-      "discordThreadId": "1462726704630861988",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-sales-engineer-startups-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-sales-engineer-startups-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Sales Engineer, Startups ",
-      "postedToDiscord": "2026-01-19T08:33:49.366Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5735116004",
-      "discordThreadId": "1462726719176966144",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-senior-accountant-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-senior-accountant-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Senior Accountant",
-      "postedToDiscord": "2026-01-19T08:33:56.117Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753944004",
-      "discordThreadId": "1462726746188284053",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-senior-manager-fp-a-systems-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-senior-manager-fp-a-systems-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Senior Manager, FP&A Systems",
-      "postedToDiscord": "2026-01-19T08:33:59.704Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5759817004",
-      "discordThreadId": "1462726761778511943",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-senior-manager-people-systems-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-senior-manager-people-systems-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Senior Manager, People Systems",
-      "postedToDiscord": "2026-01-19T08:34:03.278Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5693072004",
-      "discordThreadId": "1462726777016291401",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-senior-solutions-engineer-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-senior-solutions-engineer-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Senior Solutions Engineer",
-      "postedToDiscord": "2026-01-19T08:34:10.157Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5752684004",
-      "discordThreadId": "1462726805197815828",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-software-engineer-ai-sdk-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-software-engineer-ai-sdk-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Software Engineer, AI SDK",
-      "postedToDiscord": "2026-01-19T08:52:51.016Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5474915004",
-      "discordThreadId": "1462731506123407434",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-software-engineer-cdn-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-software-engineer-cdn-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Software Engineer, CDN",
-      "postedToDiscord": "2026-01-19T08:52:54.642Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5179639004",
-      "discordThreadId": "1462731522816868364",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-software-engineer-ci-cd-hybrid-new-york-city-2026-01-19-1",
-      "jobId": "vercel-software-engineer-ci-cd-hybrid-new-york-city",
-      "company": "vercel",
-      "title": "Software Engineer, CI/CD",
-      "postedToDiscord": "2026-01-19T08:52:58.079Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5532030004",
-      "discordThreadId": "1462731537412919509",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-software-engineer-deployment-infrastructure-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-software-engineer-deployment-infrastructure-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Software Engineer, Deployment Infrastructure",
-      "postedToDiscord": "2026-01-19T08:53:01.460Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5633880004",
-      "discordThreadId": "1462731551744852123",
-      "instanceNumber": 1
-    },
     {
       "id": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city-2026-01-19-1",
       "jobId": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city",
@@ -5842,9 +5699,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465263287041003540",
+          "messageId": "1465268243793969192",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:33:11.183Z",
+          "postedAt": "2026-01-26T08:52:53.652Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -5866,9 +5723,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465263294742007819",
+          "messageId": "1465268254581854249",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:33:12.883Z",
+          "postedAt": "2026-01-26T08:52:55.388Z",
           "channelJobNumber": 4
         }
       },
@@ -5884,9 +5741,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465263314492981373",
+          "messageId": "1465268274622103716",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:33:17.594Z",
+          "postedAt": "2026-01-26T08:53:00.246Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -5908,9 +5765,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465263321627234449",
+          "messageId": "1465268282247610514",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:33:19.309Z",
+          "postedAt": "2026-01-26T08:53:02.130Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -5932,9 +5789,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465263328891895892",
+          "messageId": "1465268290246017139",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:33:21.006Z",
+          "postedAt": "2026-01-26T08:53:04.064Z",
           "channelJobNumber": 6
         }
       },
@@ -5942,11 +5799,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 535,
+    "totalJobs": 522,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T08:33:21.006Z",
+      "date": "2026-01-26T08:53:04.064Z",
       "archived": 0
     }
   }
