@@ -17235,5 +17235,82 @@
     "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
     "discordThreadId": "1462718226810278075",
     "instanceNumber": 1
+  },
+  {
+    "id": "vercel-engineering-manager-cdn-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-engineering-manager-cdn-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "Engineering Manager, CDN",
+    "postedToDiscord": "2026-01-19T08:04:15.392Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5701765004",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-enterprise-account-executive-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+    "jobId": "vercel-enterprise-account-executive-hybrid-san-francisco-new-york-city-austin",
+    "company": "vercel",
+    "title": "Enterprise Account Executive",
+    "postedToDiscord": "2026-01-19T08:04:22.241Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042174004",
+    "discordThreadId": "1462719306260287520",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-fp-a-manager-gtm-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-fp-a-manager-gtm-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "FP&A Manager,  GTM",
+    "postedToDiscord": "2026-01-19T08:04:25.759Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753933004",
+    "discordThreadId": "1462719322077139169",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-gsi-consultancies-partner-lead-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+    "jobId": "vercel-gsi-consultancies-partner-lead-hybrid-san-francisco-new-york-city-austin",
+    "company": "vercel",
+    "title": "GSI & Consultancies, Partner Lead",
+    "postedToDiscord": "2026-01-19T08:04:29.251Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5501424004",
+    "discordThreadId": "1462719336585105441",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-head-of-product-marketing-hybrid-san-francisco-new-york-city-2026-01-19-1",
+    "jobId": "vercel-head-of-product-marketing-hybrid-san-francisco-new-york-city",
+    "company": "vercel",
+    "title": "Head of Product Marketing ",
+    "postedToDiscord": "2026-01-19T08:04:32.704Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5199830004",
+    "discordThreadId": "1462719351386804248",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-finance-manager-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-finance-manager-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "Finance Manager",
+    "postedToDiscord": "2026-01-19T08:04:39.514Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5741089004",
+    "discordThreadId": "1462719378817548418",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-lifecycle-marketing-manager-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+    "jobId": "vercel-lifecycle-marketing-manager-hybrid-san-francisco-new-york-city-austin",
+    "company": "vercel",
+    "title": "Lifecycle Marketing Manager",
+    "postedToDiscord": "2026-01-19T08:04:42.875Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
+    "discordThreadId": "1462719394357579897",
+    "instanceNumber": 1
   }
 ]
