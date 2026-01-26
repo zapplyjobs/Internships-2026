@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T08:53:04.064Z",
+  "lastUpdated": "2026-01-26T09:08:16.412Z",
   "jobs": [
-    {
-      "id": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Software Engineer, Growth",
-      "postedToDiscord": "2026-01-19T08:53:04.768Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5613601004",
-      "discordThreadId": "1462731565938512059",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-software-engineer-support-platform-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-software-engineer-support-platform-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Software Engineer, Support Platform",
-      "postedToDiscord": "2026-01-19T09:08:07.291Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5611527004",
-      "discordThreadId": "1462735350936895634",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-software-engineer-trust-safety-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-software-engineer-trust-safety-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Software Engineer - Trust & Safety",
-      "postedToDiscord": "2026-01-19T09:08:10.931Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5649459004",
-      "discordThreadId": "1462735365306843222",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-software-engineer-web-performance-v0-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-software-engineer-web-performance-v0-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Software Engineer (Web Performance), v0",
-      "postedToDiscord": "2026-01-19T09:08:14.280Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5704320004",
-      "discordThreadId": "1462735380527710270",
-      "instanceNumber": 1
-    },
     {
       "id": "vercel-staff-data-platform-engineer-hybrid-san-francisco-new-york-city-2026-01-19-1",
       "jobId": "vercel-staff-data-platform-engineer-hybrid-san-francisco-new-york-city",
@@ -5699,9 +5655,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465268243793969192",
+          "messageId": "1465272073789243516",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:52:53.652Z",
+          "postedAt": "2026-01-26T09:08:06.053Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -5723,9 +5679,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465268254581854249",
+          "messageId": "1465272081473077394",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:52:55.388Z",
+          "postedAt": "2026-01-26T09:08:07.967Z",
           "channelJobNumber": 4
         }
       },
@@ -5741,9 +5697,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465268274622103716",
+          "messageId": "1465272102323228685",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:53:00.246Z",
+          "postedAt": "2026-01-26T09:08:12.839Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -5765,9 +5721,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465268282247610514",
+          "messageId": "1465272109675581487",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:53:02.130Z",
+          "postedAt": "2026-01-26T09:08:14.640Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -5789,9 +5745,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465268290246017139",
+          "messageId": "1465272117691023524",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:53:04.064Z",
+          "postedAt": "2026-01-26T09:08:16.412Z",
           "channelJobNumber": 6
         }
       },
@@ -5799,11 +5755,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 522,
+    "totalJobs": 518,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T08:53:04.064Z",
+      "date": "2026-01-26T09:08:16.412Z",
       "archived": 0
     }
   }
