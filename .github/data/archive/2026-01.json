@@ -15970,5 +15970,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821519008",
     "discordThreadId": "1462641894302552087",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-recruiter-technical-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-recruiter-technical-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Recruiter, Technical",
+    "postedToDiscord": "2026-01-19T03:33:30.823Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4814348008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-recruiting-systems-analyst-boston-ma-new-york-city-ny-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-recruiting-systems-analyst-boston-ma-new-york-city-ny-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Recruiting Systems Analyst",
+    "postedToDiscord": "2026-01-19T03:33:37.301Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5065798008",
+    "discordThreadId": "1462651171326918786",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-revenue-systems-solution-architect-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-revenue-systems-solution-architect-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Revenue Systems Solution Architect",
+    "postedToDiscord": "2026-01-19T03:33:40.946Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068721008",
+    "discordThreadId": "1462651186019565781",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-regulatory-counsel-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-19-1",
+    "jobId": "anthropic-regulatory-counsel-san-francisco-ca-new-york-city-ny-washington-dc",
+    "company": "anthropic",
+    "title": "Regulatory Counsel",
+    "postedToDiscord": "2026-01-19T03:33:47.372Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980530008",
+    "discordThreadId": "1462651213882462421",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-research-engineer-cybersecurity-rl-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-research-engineer-cybersecurity-rl-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Research Engineer – Cybersecurity RL",
+    "postedToDiscord": "2026-01-19T03:33:50.800Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+    "discordThreadId": "1462651227971125430",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-research-engineer-interpretability-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-research-engineer-interpretability-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Research Engineer, Interpretability",
+    "postedToDiscord": "2026-01-19T03:33:54.343Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+    "discordThreadId": "1462651242592342198",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-research-engineer-model-evaluations-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-research-engineer-model-evaluations-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Research Engineer, Model Evaluations",
+    "postedToDiscord": "2026-01-19T03:33:57.744Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990535008",
+    "discordThreadId": "1462651257285116097",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-research-engineer-universes-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-research-engineer-universes-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Research Engineer, Universes",
+    "postedToDiscord": "2026-01-19T03:34:01.113Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
+    "discordThreadId": "1462651271440891967",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-research-operations-strategy-lead-coding-cybersecurity-data-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-research-operations-strategy-lead-coding-cybersecurity-data-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Research Operations & Strategy Lead, Coding & Cybersecurity Data",
+    "postedToDiscord": "2026-01-19T03:34:07.792Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946306008",
+    "discordThreadId": "1462651298305544366",
+    "instanceNumber": 1
   }
 ]
