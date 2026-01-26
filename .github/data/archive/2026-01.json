@@ -16487,5 +16487,27 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058191008",
     "discordThreadId": "1462680884577697802",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-strategic-account-executive-digital-native-business-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-strategic-account-executive-digital-native-business-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Strategic Account Executive, Digital Native Business",
+    "postedToDiscord": "2026-01-19T05:48:07.977Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996335008",
+    "discordThreadId": "1462685022225039360",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-strategic-account-executive-investment-banking-capital-markets-new-york-city-ny-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-strategic-account-executive-investment-banking-capital-markets-new-york-city-ny-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+    "postedToDiscord": "2026-01-19T05:48:11.630Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
+    "discordThreadId": "1462685036649386057",
+    "instanceNumber": 1
   }
 ]
