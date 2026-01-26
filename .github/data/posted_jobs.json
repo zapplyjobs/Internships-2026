@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T03:00:23.832Z",
+  "lastUpdated": "2026-01-26T03:45:08.954Z",
   "jobs": [
-    {
-      "id": "anthropic-recruiter-technical-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-recruiter-technical-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Recruiter, Technical",
-      "postedToDiscord": "2026-01-19T03:33:30.823Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4814348008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-recruiting-systems-analyst-boston-ma-new-york-city-ny-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-recruiting-systems-analyst-boston-ma-new-york-city-ny-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Recruiting Systems Analyst",
-      "postedToDiscord": "2026-01-19T03:33:37.301Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5065798008",
-      "discordThreadId": "1462651171326918786",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-revenue-systems-solution-architect-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-revenue-systems-solution-architect-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Revenue Systems Solution Architect",
-      "postedToDiscord": "2026-01-19T03:33:40.946Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5068721008",
-      "discordThreadId": "1462651186019565781",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-regulatory-counsel-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-19-1",
-      "jobId": "anthropic-regulatory-counsel-san-francisco-ca-new-york-city-ny-washington-dc",
-      "company": "anthropic",
-      "title": "Regulatory Counsel",
-      "postedToDiscord": "2026-01-19T03:33:47.372Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980530008",
-      "discordThreadId": "1462651213882462421",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-research-engineer-cybersecurity-rl-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-research-engineer-cybersecurity-rl-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Research Engineer – Cybersecurity RL",
-      "postedToDiscord": "2026-01-19T03:33:50.800Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
-      "discordThreadId": "1462651227971125430",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-research-engineer-interpretability-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-research-engineer-interpretability-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Research Engineer, Interpretability",
-      "postedToDiscord": "2026-01-19T03:33:54.343Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
-      "discordThreadId": "1462651242592342198",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-research-engineer-model-evaluations-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-research-engineer-model-evaluations-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Research Engineer, Model Evaluations",
-      "postedToDiscord": "2026-01-19T03:33:57.744Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4990535008",
-      "discordThreadId": "1462651257285116097",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-research-engineer-universes-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-research-engineer-universes-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Research Engineer, Universes",
-      "postedToDiscord": "2026-01-19T03:34:01.113Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
-      "discordThreadId": "1462651271440891967",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-research-operations-strategy-lead-coding-cybersecurity-data-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-research-operations-strategy-lead-coding-cybersecurity-data-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Research Operations & Strategy Lead, Coding & Cybersecurity Data",
-      "postedToDiscord": "2026-01-19T03:34:07.792Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946306008",
-      "discordThreadId": "1462651298305544366",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-revops-reporting-insights-analyst-san-francisco-ca-new-york-city-ny-2026-01-19-1",
       "jobId": "anthropic-revops-reporting-insights-analyst-san-francisco-ca-new-york-city-ny",
@@ -7261,9 +7162,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465179496381550593",
+          "messageId": "1465190759731826792",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:00:13.906Z",
+          "postedAt": "2026-01-26T03:44:59.240Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7285,9 +7186,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465179504342470817",
+          "messageId": "1465190767206207630",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:00:15.720Z",
+          "postedAt": "2026-01-26T03:45:00.894Z",
           "channelJobNumber": 4
         }
       },
@@ -7303,9 +7204,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465179524370010296",
+          "messageId": "1465190786403532982",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:00:20.460Z",
+          "postedAt": "2026-01-26T03:45:05.542Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7327,9 +7228,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465179531710173295",
+          "messageId": "1465190793797963890",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:00:22.163Z",
+          "postedAt": "2026-01-26T03:45:07.300Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7351,9 +7252,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465179538538496156",
+          "messageId": "1465190800928280717",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:00:23.831Z",
+          "postedAt": "2026-01-26T03:45:08.954Z",
           "channelJobNumber": 6
         }
       },
@@ -7361,11 +7262,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 664,
+    "totalJobs": 655,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T03:00:23.832Z",
+      "date": "2026-01-26T03:45:08.954Z",
       "archived": 0
     }
   }
