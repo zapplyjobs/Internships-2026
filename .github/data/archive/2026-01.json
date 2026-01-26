@@ -17312,5 +17312,82 @@
     "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
     "discordThreadId": "1462719394357579897",
     "instanceNumber": 1
+  },
+  {
+    "id": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city-2026-01-19-1",
+    "jobId": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city",
+    "company": "vercel",
+    "title": "Fraud Specialist",
+    "postedToDiscord": "2026-01-19T08:18:38.146Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5579431004",
+    "discordThreadId": "1462722896375058443",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-it-infrastructure-engineer-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-it-infrastructure-engineer-hybrid-san-francisco",
+    "company": "vercel",
+    "title": " IT Infrastructure Engineer ",
+    "postedToDiscord": "2026-01-19T08:18:41.617Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5623421004",
+    "discordThreadId": "1462722911906304073",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-product-engineer-v0-hybrid-san-francisco-new-york-city-2026-01-19-1",
+    "jobId": "vercel-product-engineer-v0-hybrid-san-francisco-new-york-city",
+    "company": "vercel",
+    "title": "Product Engineer – v0",
+    "postedToDiscord": "2026-01-19T08:18:45.025Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5466858004",
+    "discordThreadId": "1462722926389362701",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-manager-customer-support-engineering-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-manager-customer-support-engineering-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "Manager, Customer Support Engineering",
+    "postedToDiscord": "2026-01-19T08:18:51.555Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5737697004",
+    "discordThreadId": "1462722953421787190",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-mobile-engineer-hybrid-new-york-city-2026-01-19-1",
+    "jobId": "vercel-mobile-engineer-hybrid-new-york-city",
+    "company": "vercel",
+    "title": "Mobile Engineer",
+    "postedToDiscord": "2026-01-19T08:18:55.284Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
+    "discordThreadId": "1462722968508567636",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-manager-of-sales-engineering-majors-commercial-amer-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-manager-of-sales-engineering-majors-commercial-amer-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+    "postedToDiscord": "2026-01-19T08:19:02.070Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5631091004",
+    "discordThreadId": "1462722996706869339",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vercel-platform-abuse-operations-lead-trust-safety-hybrid-san-francisco-2026-01-19-1",
+    "jobId": "vercel-platform-abuse-operations-lead-trust-safety-hybrid-san-francisco",
+    "company": "vercel",
+    "title": "Platform Abuse Operations Lead, Trust & Safety",
+    "postedToDiscord": "2026-01-19T08:19:08.725Z",
+    "sourceDate": "2026-01-13T18:09:59-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5654653004",
+    "discordThreadId": "1462723025119219759",
+    "instanceNumber": 1
   }
 ]

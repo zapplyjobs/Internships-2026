@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T08:18:23.783Z",
+  "lastUpdated": "2026-01-26T08:33:21.006Z",
   "jobs": [
-    {
-      "id": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Fraud Specialist",
-      "postedToDiscord": "2026-01-19T08:18:38.146Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5579431004",
-      "discordThreadId": "1462722896375058443",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-it-infrastructure-engineer-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-it-infrastructure-engineer-hybrid-san-francisco",
-      "company": "vercel",
-      "title": " IT Infrastructure Engineer ",
-      "postedToDiscord": "2026-01-19T08:18:41.617Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5623421004",
-      "discordThreadId": "1462722911906304073",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-product-engineer-v0-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-product-engineer-v0-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Product Engineer – v0",
-      "postedToDiscord": "2026-01-19T08:18:45.025Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5466858004",
-      "discordThreadId": "1462722926389362701",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-manager-customer-support-engineering-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-manager-customer-support-engineering-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Manager, Customer Support Engineering",
-      "postedToDiscord": "2026-01-19T08:18:51.555Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5737697004",
-      "discordThreadId": "1462722953421787190",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-mobile-engineer-hybrid-new-york-city-2026-01-19-1",
-      "jobId": "vercel-mobile-engineer-hybrid-new-york-city",
-      "company": "vercel",
-      "title": "Mobile Engineer",
-      "postedToDiscord": "2026-01-19T08:18:55.284Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
-      "discordThreadId": "1462722968508567636",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-manager-of-sales-engineering-majors-commercial-amer-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-manager-of-sales-engineering-majors-commercial-amer-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
-      "postedToDiscord": "2026-01-19T08:19:02.070Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5631091004",
-      "discordThreadId": "1462722996706869339",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-platform-abuse-operations-lead-trust-safety-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-platform-abuse-operations-lead-trust-safety-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Platform Abuse Operations Lead, Trust & Safety",
-      "postedToDiscord": "2026-01-19T08:19:08.725Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5654653004",
-      "discordThreadId": "1462723025119219759",
-      "instanceNumber": 1
-    },
     {
       "id": "vercel-product-manager-accounts-hybrid-san-francisco-new-york-city-2026-01-19-1",
       "jobId": "vercel-product-manager-accounts-hybrid-san-francisco-new-york-city",
@@ -5919,9 +5842,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465259524482011283",
+          "messageId": "1465263287041003540",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:18:14.038Z",
+          "postedAt": "2026-01-26T08:33:11.183Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -5943,9 +5866,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465259531805265932",
+          "messageId": "1465263294742007819",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:18:15.741Z",
+          "postedAt": "2026-01-26T08:33:12.883Z",
           "channelJobNumber": 4
         }
       },
@@ -5961,9 +5884,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465259551862427668",
+          "messageId": "1465263314492981373",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:18:20.437Z",
+          "postedAt": "2026-01-26T08:33:17.594Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -5985,9 +5908,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465259558778703945",
+          "messageId": "1465263321627234449",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:18:22.131Z",
+          "postedAt": "2026-01-26T08:33:19.309Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -6009,9 +5932,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465259565523140650",
+          "messageId": "1465263328891895892",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:18:23.782Z",
+          "postedAt": "2026-01-26T08:33:21.006Z",
           "channelJobNumber": 6
         }
       },
@@ -6019,11 +5942,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 542,
+    "totalJobs": 535,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T08:18:23.783Z",
+      "date": "2026-01-26T08:33:21.006Z",
       "archived": 0
     }
   }
