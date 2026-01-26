@@ -640,5 +640,24 @@
     "addedAt": "2026-01-26T01:17:20.564Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "ASSA ABLOY",
+      "job_city": "Roanoke",
+      "job_state": "VA",
+      "job_description": "Join ASSA ABLOY in this exciting opportunity.",
+      "job_apply_link": "https://assaabloy.jobs2web.com/job/Salem-Software-Engineering-Intern-VA-24153/1286979601/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-26T02:17:08.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "assa-abloy-software-engineering-intern-roanoke"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T03:00:10.688Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
