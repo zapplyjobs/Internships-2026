@@ -16839,5 +16839,104 @@
     "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7368883",
     "discordThreadId": "1462708551968620672",
     "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-san-francisco-california-usa-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-san-francisco-california-usa",
+    "company": "datadog",
+    "title": "Enterprise Sales Executive",
+    "postedToDiscord": "2026-01-19T07:36:27.238Z",
+    "sourceDate": "2026-01-14T10:42:52-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752",
+    "discordThreadId": "1462712282026082426",
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-north-carolina-usa-remote-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-north-carolina-usa-remote",
+    "company": "datadog",
+    "title": "Enterprise Sales Executive",
+    "postedToDiscord": "2026-01-19T07:36:27.251Z",
+    "sourceDate": "2026-01-14T10:41:51-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-washington-district-of-columbia-usa-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-washington-district-of-columbia-usa",
+    "company": "datadog",
+    "title": "Enterprise Sales Executive",
+    "postedToDiscord": "2026-01-19T07:36:27.260Z",
+    "sourceDate": "2026-01-14T10:41:51-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-florida-usa-remote-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-florida-usa-remote",
+    "company": "datadog",
+    "title": "Enterprise Sales Executive",
+    "postedToDiscord": "2026-01-19T07:36:27.270Z",
+    "sourceDate": "2026-01-14T10:40:53-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-north-carolina-usa-remote-tennessee-usa-remote-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-north-carolina-usa-remote-tennessee-usa-remote",
+    "company": "datadog",
+    "title": "Enterprise Sales Executive",
+    "postedToDiscord": "2026-01-19T07:36:27.282Z",
+    "sourceDate": "2026-01-14T10:39:17-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-sled-denver-colorado-usa-illinois-usa-remote-michigan-usa-remote-texas-usa-remote-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-sled-denver-colorado-usa-illinois-usa-remote-michigan-usa-remote-texas-usa-remote",
+    "company": "datadog",
+    "title": " Enterprise Sales Executive (SLED)",
+    "postedToDiscord": "2026-01-19T07:36:30.627Z",
+    "sourceDate": "2026-01-14T10:42:21-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
+    "discordThreadId": "1462712296550957238",
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-fed-washington-district-of-columbia-usa-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-fed-washington-district-of-columbia-usa",
+    "company": "datadog",
+    "title": "Enterprise Sales Executive (FED)",
+    "postedToDiscord": "2026-01-19T07:36:32.400Z",
+    "sourceDate": "2026-01-14T10:39:58-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680",
+    "discordThreadId": "1462712310639497238",
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-enterprise-sales-executive-fed-maryland-usa-remote-virginia-usa-remote-2026-01-19-1",
+    "jobId": "datadog-enterprise-sales-executive-fed-maryland-usa-remote-virginia-usa-remote",
+    "company": "datadog",
+    "title": "Enterprise Sales Executive (FED)",
+    "postedToDiscord": "2026-01-19T07:36:32.411Z",
+    "sourceDate": "2026-01-14T10:39:58-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-datadog-for-startups-engineering-lead-san-francisco-california-usa-2026-01-19-1",
+    "jobId": "datadog-datadog-for-startups-engineering-lead-san-francisco-california-usa",
+    "company": "datadog",
+    "title": "Datadog for Startups Engineering Lead",
+    "postedToDiscord": "2026-01-19T07:36:39.089Z",
+    "sourceDate": "2026-01-14T10:11:26-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7536402/?gh_jid=7536402",
+    "discordThreadId": "1462712331153834091",
+    "instanceNumber": 1
   }
 ]
