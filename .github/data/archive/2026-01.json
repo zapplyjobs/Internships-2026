@@ -16069,5 +16069,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946306008",
     "discordThreadId": "1462651298305544366",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-revops-reporting-insights-analyst-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-revops-reporting-insights-analyst-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "RevOps Reporting & Insights Analyst",
+    "postedToDiscord": "2026-01-19T04:07:11.061Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-senior-manager-tax-operations-provision-compliance-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-senior-manager-tax-operations-provision-compliance-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Senior Manager, Tax Operations, Provision & Compliance",
+    "postedToDiscord": "2026-01-19T04:07:14.501Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4974231008",
+    "discordThreadId": "1462659632026619915",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-security-development-project-specialist-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-security-development-project-specialist-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Security Development Project Specialist",
+    "postedToDiscord": "2026-01-19T04:07:21.028Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041343008",
+    "discordThreadId": "1462659659352768552",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-security-engineer-detection-response-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc-2026-01-19-1",
+    "jobId": "anthropic-security-engineer-detection-response-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc",
+    "company": "anthropic",
+    "title": "Security Engineer, Detection & Response",
+    "postedToDiscord": "2026-01-19T04:07:24.512Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+    "discordThreadId": "1462659673722327072",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-security-engineer-operating-systems-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-security-engineer-operating-systems-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Security Engineer, Operating Systems",
+    "postedToDiscord": "2026-01-19T04:07:28.342Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
+    "discordThreadId": "1462659689157230713",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-security-software-engineer-d-r-platform-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-security-software-engineer-d-r-platform-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Security Software Engineer, D&R Platform",
+    "postedToDiscord": "2026-01-19T04:07:32.125Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+    "discordThreadId": "1462659704521232406",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-security-grc-specialist-public-sector-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-19-1",
+    "jobId": "anthropic-security-grc-specialist-public-sector-san-francisco-ca-new-york-city-ny-washington-dc",
+    "company": "anthropic",
+    "title": "Security GRC Specialist, Public Sector",
+    "postedToDiscord": "2026-01-19T04:07:38.646Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960248008",
+    "discordThreadId": "1462659733059141652",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-senior-software-engineer-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-senior-software-engineer-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Senior Software Engineer, Infrastructure ",
+    "postedToDiscord": "2026-01-19T04:07:42.304Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
+    "discordThreadId": "1462659747902918738",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-senior-software-engineer-research-tools-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-senior-software-engineer-research-tools-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Senior+ Software Engineer, Research Tools",
+    "postedToDiscord": "2026-01-19T04:07:45.919Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
+    "discordThreadId": "1462659763077779499",
+    "instanceNumber": 1
   }
 ]
