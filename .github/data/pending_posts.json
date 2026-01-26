@@ -697,5 +697,24 @@
     "addedAt": "2026-01-26T07:34:04.324Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "WDW Analytical & Strategic Planning Intern",
+      "employer_name": "The Walt Disney Company",
+      "job_city": "Celebration",
+      "job_state": "FL",
+      "job_description": "Join The Walt Disney Company in this exciting opportunity.",
+      "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Fall-2026_10139790",
+      "job_posted_at_datetime_utc": "2026-01-26T07:33:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "the-walt-disney-company-wdw-analytical-strategic-planning-intern-celebration"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T08:03:44.296Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]

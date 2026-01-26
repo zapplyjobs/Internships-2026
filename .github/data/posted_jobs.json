@@ -1,205 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T07:55:39.554Z",
+  "lastUpdated": "2026-01-26T08:03:57.250Z",
   "jobs": [
-    {
-      "id": "dropbox-staff-infrastructure-software-engineer-metadata-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-staff-infrastructure-software-engineer-metadata-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "Staff Infrastructure Software Engineer, Metadata",
-      "postedToDiscord": "2026-01-19T07:56:35.783Z",
-      "sourceDate": "2026-01-14T06:51:52-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7066570?gh_jid=7066570",
-      "discordThreadId": "1462717358274514997",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-staff-backend-product-software-engineer-core-intelligence-media-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-staff-backend-product-software-engineer-core-intelligence-media-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Staff Backend Product Software Engineer, Core Intelligence & Media",
-      "postedToDiscord": "2026-01-19T07:56:37.448Z",
-      "sourceDate": "2026-01-14T06:51:50-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/6936183?gh_jid=6936183",
-      "discordThreadId": "1462717365354496186",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-senior-salesforce-developer-managed-storefront-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-senior-salesforce-developer-managed-storefront-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Senior Salesforce Developer, Managed Storefront",
-      "postedToDiscord": "2026-01-19T07:56:39.149Z",
-      "sourceDate": "2026-01-13T19:01:36-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7341926?gh_jid=7341926",
-      "discordThreadId": "1462717372019376174",
-      "instanceNumber": 1
-    },
-    {
-      "id": "figma-account-executive-smb-figma-weave-new-york-united-states-new-york-ny-united-states-2026-01-19-1",
-      "jobId": "figma-account-executive-smb-figma-weave-new-york-united-states-new-york-ny-united-states",
-      "company": "figma",
-      "title": "Account Executive, SMB - Figma Weave (New York, United States)",
-      "postedToDiscord": "2026-01-19T07:56:45.652Z",
-      "sourceDate": "2026-01-14T04:19:54-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759582004?gh_jid=5759582004",
-      "discordThreadId": "1462717392311550193",
-      "instanceNumber": 1
-    },
-    {
-      "id": "figma-account-executive-mid-market-figma-weave-new-york-united-states-new-york-ny-united-states-2026-01-19-1",
-      "jobId": "figma-account-executive-mid-market-figma-weave-new-york-united-states-new-york-ny-united-states",
-      "company": "figma",
-      "title": "Account Executive, Mid-Market - Figma Weave (New York, United States)",
-      "postedToDiscord": "2026-01-19T07:56:49.020Z",
-      "sourceDate": "2026-01-14T04:19:29-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5755146004?gh_jid=5755146004",
-      "discordThreadId": "1462717406727377007",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-technical-account-manager-atlanta-chicago-new-york-city-san-francisco-seattle-us-remote-2026-01-19-1",
-      "jobId": "stripe-technical-account-manager-atlanta-chicago-new-york-city-san-francisco-seattle-us-remote",
-      "company": "stripe",
-      "title": "Technical Account Manager",
-      "postedToDiscord": "2026-01-19T07:56:52.615Z",
-      "sourceDate": "2026-01-13T21:51:06-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6458492",
-      "discordThreadId": "1462717421340065876",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-staff-product-manager-sharing-and-virality-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-staff-product-manager-sharing-and-virality-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "Staff Product Manager, Sharing and Virality",
-      "postedToDiscord": "2026-01-19T07:56:57.484Z",
-      "sourceDate": "2026-01-14T03:02:11-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7469402?gh_jid=7469402",
-      "discordThreadId": "1462717449022472258",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-staff-product-manager-sharing-virality-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-staff-product-manager-sharing-virality-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Staff Product Manager, Sharing & Virality",
-      "postedToDiscord": "2026-01-19T07:56:59.197Z",
-      "sourceDate": "2026-01-14T03:02:11-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7469404?gh_jid=7469404",
-      "discordThreadId": "1462717456220160190",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-strategic-program-manager-support-us-remote-chicago-2026-01-19-1",
-      "jobId": "stripe-strategic-program-manager-support-us-remote-chicago",
-      "company": "stripe",
-      "title": "Strategic Program Manager - Support",
-      "postedToDiscord": "2026-01-19T07:57:06.057Z",
-      "sourceDate": "2026-01-13T20:13:10-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7249436",
-      "discordThreadId": "1462717476943953950",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-account-executive-commercial-install-base-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-account-executive-commercial-install-base-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Account Executive, Commercial Install Base ",
-      "postedToDiscord": "2026-01-19T07:59:27.993Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5708732004",
-      "discordThreadId": "1462718073407672331",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-account-executive-v0-majors-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-account-executive-v0-majors-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Account Executive, v0 Majors",
-      "postedToDiscord": "2026-01-19T07:59:31.334Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5634748004",
-      "discordThreadId": "1462718087668174848",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-commercial-account-executive-greenfield-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-commercial-account-executive-greenfield-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Commercial Account Executive, Greenfield ",
-      "postedToDiscord": "2026-01-19T07:59:34.731Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042166004",
-      "discordThreadId": "1462718101669023756",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-director-of-partnerships-north-america-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-director-of-partnerships-north-america-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Director of Partnerships, North America",
-      "postedToDiscord": "2026-01-19T07:59:38.276Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5678141004",
-      "discordThreadId": "1462718116105814110",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-director-of-sales-engineering-amer-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-director-of-sales-engineering-amer-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Director of Sales Engineering, AMER",
-      "postedToDiscord": "2026-01-19T07:59:41.642Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5650641004",
-      "discordThreadId": "1462718130794008742",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-ai-engineer-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-ai-engineer-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "AI Engineer",
-      "postedToDiscord": "2026-01-19T07:59:48.093Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5517523004",
-      "discordThreadId": "1462718157595738267",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-director-of-trust-safety-engineering-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-director-of-trust-safety-engineering-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Director of Trust & Safety Engineering",
-      "postedToDiscord": "2026-01-19T07:59:51.702Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719801004",
-      "discordThreadId": "1462718172074348744",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-content-engineer-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-content-engineer-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Content Engineer",
-      "postedToDiscord": "2026-01-19T07:59:58.105Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722313004",
-      "discordThreadId": "1462718199618343025",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-director-technical-accounting-financial-reporting-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-director-technical-accounting-financial-reporting-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Director, Technical Accounting & Financial Reporting",
-      "postedToDiscord": "2026-01-19T08:00:04.645Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
-      "discordThreadId": "1462718226810278075",
-      "instanceNumber": 1
-    },
     {
       "id": "vercel-engineering-manager-cdn-hybrid-san-francisco-2026-01-19-1",
       "jobId": "vercel-engineering-manager-cdn-hybrid-san-francisco",
@@ -6194,9 +5996,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465253802583134316",
+          "messageId": "1465255889928720549",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:55:29.793Z",
+          "postedAt": "2026-01-26T08:03:47.441Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -6218,9 +6020,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465253810011246670",
+          "messageId": "1465255897008832514",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:55:31.528Z",
+          "postedAt": "2026-01-26T08:03:49.099Z",
           "channelJobNumber": 4
         }
       },
@@ -6236,9 +6038,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465253829946769479",
+          "messageId": "1465255916927717581",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:55:36.227Z",
+          "postedAt": "2026-01-26T08:03:53.829Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -6260,9 +6062,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465253836615717017",
+          "messageId": "1465255923969687552",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:55:37.892Z",
+          "postedAt": "2026-01-26T08:03:55.490Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -6284,9 +6086,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465253843683115153",
+          "messageId": "1465255930961592413",
           "channelType": "category",
-          "postedAt": "2026-01-26T07:55:39.554Z",
+          "postedAt": "2026-01-26T08:03:57.250Z",
           "channelJobNumber": 6
         }
       },
@@ -6294,11 +6096,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 567,
+    "totalJobs": 549,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T07:55:39.554Z",
+      "date": "2026-01-26T08:03:57.250Z",
       "archived": 0
     }
   }
