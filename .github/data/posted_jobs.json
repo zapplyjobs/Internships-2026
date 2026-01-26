@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T05:43:00.338Z",
+  "lastUpdated": "2026-01-26T05:58:33.724Z",
   "jobs": [
-    {
-      "id": "anthropic-strategic-account-executive-digital-native-business-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-strategic-account-executive-digital-native-business-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Digital Native Business",
-      "postedToDiscord": "2026-01-19T05:48:07.977Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996335008",
-      "discordThreadId": "1462685022225039360",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-strategic-account-executive-investment-banking-capital-markets-new-york-city-ny-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-strategic-account-executive-investment-banking-capital-markets-new-york-city-ny-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
-      "postedToDiscord": "2026-01-19T05:48:11.630Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
-      "discordThreadId": "1462685036649386057",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-strategic-account-executive-latam-financial-services-new-york-city-ny-san-francisco-ca-2026-01-19-1",
       "jobId": "anthropic-strategic-account-executive-latam-financial-services-new-york-city-ny-san-francisco-ca",
@@ -6744,9 +6722,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465220419173744692",
+          "messageId": "1465224333084328135",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:42:50.492Z",
+          "postedAt": "2026-01-26T05:58:23.652Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -6768,9 +6746,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465220426472095846",
+          "messageId": "1465224340445593655",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:42:52.276Z",
+          "postedAt": "2026-01-26T05:58:25.464Z",
           "channelJobNumber": 4
         }
       },
@@ -6786,9 +6764,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465220446298570917",
+          "messageId": "1465224360523726926",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:42:56.992Z",
+          "postedAt": "2026-01-26T05:58:30.203Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -6810,9 +6788,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465220453332287559",
+          "messageId": "1465224367603712104",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:42:58.692Z",
+          "postedAt": "2026-01-26T05:58:31.866Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -6834,9 +6812,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465220460508610833",
+          "messageId": "1465224374453014590",
           "channelType": "category",
-          "postedAt": "2026-01-26T05:43:00.337Z",
+          "postedAt": "2026-01-26T05:58:33.723Z",
           "channelJobNumber": 6
         }
       },
@@ -6844,11 +6822,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 617,
+    "totalJobs": 615,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T05:43:00.338Z",
+      "date": "2026-01-26T05:58:33.724Z",
       "archived": 0
     }
   }
