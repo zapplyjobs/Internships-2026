@@ -1,84 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T08:03:57.250Z",
+  "lastUpdated": "2026-01-26T08:18:23.783Z",
   "jobs": [
-    {
-      "id": "vercel-engineering-manager-cdn-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-engineering-manager-cdn-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Engineering Manager, CDN",
-      "postedToDiscord": "2026-01-19T08:04:15.392Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5701765004",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-enterprise-account-executive-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-enterprise-account-executive-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Enterprise Account Executive",
-      "postedToDiscord": "2026-01-19T08:04:22.241Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042174004",
-      "discordThreadId": "1462719306260287520",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-fp-a-manager-gtm-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-fp-a-manager-gtm-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "FP&A Manager,  GTM",
-      "postedToDiscord": "2026-01-19T08:04:25.759Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5753933004",
-      "discordThreadId": "1462719322077139169",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-gsi-consultancies-partner-lead-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-gsi-consultancies-partner-lead-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "GSI & Consultancies, Partner Lead",
-      "postedToDiscord": "2026-01-19T08:04:29.251Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5501424004",
-      "discordThreadId": "1462719336585105441",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-head-of-product-marketing-hybrid-san-francisco-new-york-city-2026-01-19-1",
-      "jobId": "vercel-head-of-product-marketing-hybrid-san-francisco-new-york-city",
-      "company": "vercel",
-      "title": "Head of Product Marketing ",
-      "postedToDiscord": "2026-01-19T08:04:32.704Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5199830004",
-      "discordThreadId": "1462719351386804248",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-finance-manager-hybrid-san-francisco-2026-01-19-1",
-      "jobId": "vercel-finance-manager-hybrid-san-francisco",
-      "company": "vercel",
-      "title": "Finance Manager",
-      "postedToDiscord": "2026-01-19T08:04:39.514Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5741089004",
-      "discordThreadId": "1462719378817548418",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vercel-lifecycle-marketing-manager-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
-      "jobId": "vercel-lifecycle-marketing-manager-hybrid-san-francisco-new-york-city-austin",
-      "company": "vercel",
-      "title": "Lifecycle Marketing Manager",
-      "postedToDiscord": "2026-01-19T08:04:42.875Z",
-      "sourceDate": "2026-01-13T18:09:59-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
-      "discordThreadId": "1462719394357579897",
-      "instanceNumber": 1
-    },
     {
       "id": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city-2026-01-19-1",
       "jobId": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city",
@@ -5996,9 +5919,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465255889928720549",
+          "messageId": "1465259524482011283",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:03:47.441Z",
+          "postedAt": "2026-01-26T08:18:14.038Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -6020,9 +5943,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465255897008832514",
+          "messageId": "1465259531805265932",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:03:49.099Z",
+          "postedAt": "2026-01-26T08:18:15.741Z",
           "channelJobNumber": 4
         }
       },
@@ -6038,9 +5961,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465255916927717581",
+          "messageId": "1465259551862427668",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:03:53.829Z",
+          "postedAt": "2026-01-26T08:18:20.437Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -6062,9 +5985,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465255923969687552",
+          "messageId": "1465259558778703945",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:03:55.490Z",
+          "postedAt": "2026-01-26T08:18:22.131Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -6086,9 +6009,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465255930961592413",
+          "messageId": "1465259565523140650",
           "channelType": "category",
-          "postedAt": "2026-01-26T08:03:57.250Z",
+          "postedAt": "2026-01-26T08:18:23.782Z",
           "channelJobNumber": 6
         }
       },
@@ -6096,11 +6019,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 549,
+    "totalJobs": 542,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T08:03:57.250Z",
+      "date": "2026-01-26T08:18:23.783Z",
       "archived": 0
     }
   }
