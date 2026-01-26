@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T03:45:08.954Z",
+  "lastUpdated": "2026-01-26T04:16:29.430Z",
   "jobs": [
-    {
-      "id": "anthropic-revops-reporting-insights-analyst-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-revops-reporting-insights-analyst-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "RevOps Reporting & Insights Analyst",
-      "postedToDiscord": "2026-01-19T04:07:11.061Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-senior-manager-tax-operations-provision-compliance-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-senior-manager-tax-operations-provision-compliance-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Senior Manager, Tax Operations, Provision & Compliance",
-      "postedToDiscord": "2026-01-19T04:07:14.501Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4974231008",
-      "discordThreadId": "1462659632026619915",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-security-development-project-specialist-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-security-development-project-specialist-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Security Development Project Specialist",
-      "postedToDiscord": "2026-01-19T04:07:21.028Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041343008",
-      "discordThreadId": "1462659659352768552",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-security-engineer-detection-response-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc-2026-01-19-1",
-      "jobId": "anthropic-security-engineer-detection-response-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc",
-      "company": "anthropic",
-      "title": "Security Engineer, Detection & Response",
-      "postedToDiscord": "2026-01-19T04:07:24.512Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
-      "discordThreadId": "1462659673722327072",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-security-engineer-operating-systems-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-security-engineer-operating-systems-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Security Engineer, Operating Systems",
-      "postedToDiscord": "2026-01-19T04:07:28.342Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
-      "discordThreadId": "1462659689157230713",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-security-software-engineer-d-r-platform-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-security-software-engineer-d-r-platform-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Security Software Engineer, D&R Platform",
-      "postedToDiscord": "2026-01-19T04:07:32.125Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
-      "discordThreadId": "1462659704521232406",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-security-grc-specialist-public-sector-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-19-1",
-      "jobId": "anthropic-security-grc-specialist-public-sector-san-francisco-ca-new-york-city-ny-washington-dc",
-      "company": "anthropic",
-      "title": "Security GRC Specialist, Public Sector",
-      "postedToDiscord": "2026-01-19T04:07:38.646Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4960248008",
-      "discordThreadId": "1462659733059141652",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-senior-software-engineer-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-senior-software-engineer-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Senior Software Engineer, Infrastructure ",
-      "postedToDiscord": "2026-01-19T04:07:42.304Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
-      "discordThreadId": "1462659747902918738",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-senior-software-engineer-research-tools-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-senior-software-engineer-research-tools-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Senior+ Software Engineer, Research Tools",
-      "postedToDiscord": "2026-01-19T04:07:45.919Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
-      "discordThreadId": "1462659763077779499",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-senior-staff-software-engineer-autonomous-agent-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
       "jobId": "anthropic-senior-staff-software-engineer-autonomous-agent-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
@@ -7162,9 +7063,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465190759731826792",
+          "messageId": "1465198645770059827",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:44:59.240Z",
+          "postedAt": "2026-01-26T04:16:19.418Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7186,9 +7087,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465190767206207630",
+          "messageId": "1465198653282189505",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:45:00.894Z",
+          "postedAt": "2026-01-26T04:16:21.104Z",
           "channelJobNumber": 4
         }
       },
@@ -7204,9 +7105,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465190786403532982",
+          "messageId": "1465198672664072411",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:45:05.542Z",
+          "postedAt": "2026-01-26T04:16:25.822Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7228,9 +7129,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465190793797963890",
+          "messageId": "1465198680008298530",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:45:07.300Z",
+          "postedAt": "2026-01-26T04:16:27.648Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7252,9 +7153,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465190800928280717",
+          "messageId": "1465198687910232279",
           "channelType": "category",
-          "postedAt": "2026-01-26T03:45:08.954Z",
+          "postedAt": "2026-01-26T04:16:29.429Z",
           "channelJobNumber": 6
         }
       },
@@ -7262,11 +7163,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 655,
+    "totalJobs": 646,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T03:45:08.954Z",
+      "date": "2026-01-26T04:16:29.430Z",
       "archived": 0
     }
   }
