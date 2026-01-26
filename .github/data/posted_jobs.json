@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T00:06:40.749Z",
+  "lastUpdated": "2026-01-26T00:47:07.474Z",
   "jobs": [
-    {
-      "id": "anthropic-product-manager-safeguards-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-product-manager-safeguards-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Product Manager, Safeguards",
-      "postedToDiscord": "2026-01-19T00:06:45.892Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4932942008",
-      "discordThreadId": "1462599113454522390",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-product-marketing-lead-agents-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-product-marketing-lead-agents-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Product Marketing Lead, Agents",
-      "postedToDiscord": "2026-01-19T00:06:52.387Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055669008",
-      "discordThreadId": "1462599141170614414",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny-2026-01-19-1",
       "jobId": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny",
@@ -7393,9 +7371,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465135777229967514",
+          "messageId": "1465145957338447873",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:06:30.354Z",
+          "postedAt": "2026-01-26T00:46:57.511Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7417,9 +7395,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465135784725057608",
+          "messageId": "1465145964711907420",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:06:32.219Z",
+          "postedAt": "2026-01-26T00:46:59.317Z",
           "channelJobNumber": 4
         }
       },
@@ -7435,9 +7413,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465135805348446442",
+          "messageId": "1465145984999882773",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:06:37.017Z",
+          "postedAt": "2026-01-26T00:47:04.022Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7459,9 +7437,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465135812328034448",
+          "messageId": "1465145991798722674",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:06:38.979Z",
+          "postedAt": "2026-01-26T00:47:05.803Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7483,9 +7461,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465135821014175969",
+          "messageId": "1465145999130497025",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:06:40.749Z",
+          "postedAt": "2026-01-26T00:47:07.474Z",
           "channelJobNumber": 6
         }
       },
@@ -7493,13 +7471,12 @@
     }
   ],
   "metadata": {
-    "totalJobs": 676,
+    "totalJobs": 674,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T00:06:40.749Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-26T00:47:07.474Z",
+      "archived": 0
     }
   }
 }

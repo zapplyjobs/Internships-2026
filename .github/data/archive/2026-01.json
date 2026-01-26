@@ -15838,5 +15838,27 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4933792008",
     "discordThreadId": "1462599085574848515",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-manager-safeguards-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-product-manager-safeguards-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Product Manager, Safeguards",
+    "postedToDiscord": "2026-01-19T00:06:45.892Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4932942008",
+    "discordThreadId": "1462599113454522390",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-marketing-lead-agents-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-product-marketing-lead-agents-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Product Marketing Lead, Agents",
+    "postedToDiscord": "2026-01-19T00:06:52.387Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055669008",
+    "discordThreadId": "1462599141170614414",
+    "instanceNumber": 1
   }
 ]
