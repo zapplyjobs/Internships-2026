@@ -1,183 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T16:54:22.441Z",
+  "lastUpdated": "2026-01-26T18:06:03.592Z",
   "jobs": [
-    {
-      "id": "dropbox-data-scientist-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-data-scientist-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Data Scientist",
-      "postedToDiscord": "2026-01-19T17:01:49.520Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7486226?gh_jid=7486226",
-      "discordThreadId": "1462854569225879613",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-engineering-manager-docsend-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-engineering-manager-docsend-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Engineering Manager, DocSend",
-      "postedToDiscord": "2026-01-19T17:01:51.292Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7466632?gh_jid=7466632",
-      "discordThreadId": "1462854577001988108",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-data-science-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-data-science-intern-summer-2026-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "Data Science Intern (Summer 2026)",
-      "postedToDiscord": "2026-01-19T17:13:19.522Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7527921?gh_jid=7527921",
-      "discordThreadId": "1462857463203102731",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-finance-transformation-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-finance-transformation-intern-summer-2026-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "Finance Transformation Intern (Summer 2026)",
-      "postedToDiscord": "2026-01-19T17:13:24.325Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7510447?gh_jid=7510447",
-      "discordThreadId": "1462857483575103489",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-gtm-strategy-partner-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-gtm-strategy-partner-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "GTM Strategy Partner",
-      "postedToDiscord": "2026-01-19T17:13:26.030Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7476826?gh_jid=7476826",
-      "discordThreadId": "1462857491015794810",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-industry-solutions-lead-media-creatives-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-industry-solutions-lead-media-creatives-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Industry Solutions Lead, Media & Creatives",
-      "postedToDiscord": "2026-01-19T17:13:27.754Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7065458?gh_jid=7065458",
-      "discordThreadId": "1462857498200637661",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-fullstack-product-software-engineer-core-web-experience-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-fullstack-product-software-engineer-core-web-experience-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Fullstack Product Software Engineer, Core Web Experience ",
-      "postedToDiscord": "2026-01-19T17:29:59.829Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/6936207?gh_jid=6936207",
-      "discordThreadId": "1462861658744553627",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-fullstack-product-software-engineer-docsend-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-fullstack-product-software-engineer-docsend-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Fullstack Product Software Engineer, DocSend",
-      "postedToDiscord": "2026-01-19T17:30:01.529Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7344968?gh_jid=7344968",
-      "discordThreadId": "1462861666470461690",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-fullstack-product-software-engineer-growth-monetization-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-fullstack-product-software-engineer-growth-monetization-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Fullstack Product Software Engineer, Growth Monetization",
-      "postedToDiscord": "2026-01-19T17:42:06.177Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7344952?gh_jid=7344952",
-      "discordThreadId": "1462864705994494002",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-infrastructure-software-engineer-developer-platform-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-infrastructure-software-engineer-developer-platform-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Infrastructure Software Engineer, Developer Platform",
-      "postedToDiscord": "2026-01-19T17:42:07.953Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7446067?gh_jid=7446067",
-      "discordThreadId": "1462864712789131360",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-infrastructure-software-engineer-metadata-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-infrastructure-software-engineer-metadata-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Infrastructure Software Engineer, Metadata ",
-      "postedToDiscord": "2026-01-19T17:42:09.718Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7356504?gh_jid=7356504",
-      "discordThreadId": "1462864720544530575",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-ios-software-engineer-mobile-infrastructure-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-ios-software-engineer-mobile-infrastructure-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "iOS Software Engineer, Mobile Infrastructure",
-      "postedToDiscord": "2026-01-19T17:42:12.913Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7053876?gh_jid=7053876",
-      "discordThreadId": "1462864727796486186",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "PhD Systems & AI/ML Research Intern (Summer 2026)",
-      "postedToDiscord": "2026-01-19T17:42:17.699Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7462813?gh_jid=7462813",
-      "discordThreadId": "1462864754220466257",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-principal-product-manager-remote-us-select-locations-2026-01-19-1",
-      "jobId": "dropbox-principal-product-manager-remote-us-select-locations",
-      "company": "dropbox",
-      "title": "Principal Product Manager",
-      "postedToDiscord": "2026-01-19T17:42:22.545Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7284159?gh_jid=7284159",
-      "discordThreadId": "1462864774378422477",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-principal-product-manager-ai-security-data-access-governance-and-dlp-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-principal-product-manager-ai-security-data-access-governance-and-dlp-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "Principal Product Manager - AI Security, Data Access Governance and DLP",
-      "postedToDiscord": "2026-01-19T17:42:22.555Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7183783?gh_jid=7183783",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-principal-product-manager-dash-start-page-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-principal-product-manager-dash-start-page-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "Principal Product Manager, Dash Start Page",
-      "postedToDiscord": "2026-01-19T17:42:24.258Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7142064?gh_jid=7142064",
-      "discordThreadId": "1462864781831573585",
-      "instanceNumber": 1
-    },
     {
       "id": "dropbox-principal-product-manager-media-collaboration-remote-us-all-locations-2026-01-19-1",
       "jobId": "dropbox-principal-product-manager-media-collaboration-remote-us-all-locations",
@@ -5512,9 +5336,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465389355098181718",
+          "messageId": "1465407393016971295",
           "channelType": "category",
-          "postedAt": "2026-01-26T16:54:08.053Z",
+          "postedAt": "2026-01-26T18:05:48.915Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -5536,9 +5360,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465389362463244463",
+          "messageId": "1465407401715830940",
           "channelType": "category",
-          "postedAt": "2026-01-26T16:54:09.779Z",
+          "postedAt": "2026-01-26T18:05:50.661Z",
           "channelJobNumber": 4
         }
       },
@@ -5554,9 +5378,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465389382574932134",
+          "messageId": "1465407421869588675",
           "channelType": "category",
-          "postedAt": "2026-01-26T16:54:14.516Z",
+          "postedAt": "2026-01-26T18:05:55.502Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -5578,9 +5402,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465389389650591858",
+          "messageId": "1465407429318803558",
           "channelType": "category",
-          "postedAt": "2026-01-26T16:54:16.232Z",
+          "postedAt": "2026-01-26T18:05:57.260Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -5602,9 +5426,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465389396789559390",
+          "messageId": "1465407436864225280",
           "channelType": "category",
-          "postedAt": "2026-01-26T16:54:17.929Z",
+          "postedAt": "2026-01-26T18:05:59.079Z",
           "channelJobNumber": 6
         }
       },
@@ -5612,11 +5436,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 505,
+    "totalJobs": 489,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T16:54:22.441Z",
+      "date": "2026-01-26T18:06:03.592Z",
       "archived": 0
     }
   }
