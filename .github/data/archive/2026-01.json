@@ -16454,5 +16454,38 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
     "discordThreadId": "1462677029831971083",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-startup-partnerships-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-startup-partnerships-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Startup Partnerships ",
+    "postedToDiscord": "2026-01-19T05:31:31.526Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5054997008",
+    "discordThreadId": "1462680842685120523",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-startups-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-startups-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Startups Solutions Architect, Applied AI",
+    "postedToDiscord": "2026-01-19T05:31:35.036Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008",
+    "discordThreadId": "1462680856878518481",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-strategic-account-executive-asset-wealth-management-new-york-city-ny-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-strategic-account-executive-asset-wealth-management-new-york-city-ny-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Strategic Account Executive, Asset & Wealth Management",
+    "postedToDiscord": "2026-01-19T05:31:41.410Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058191008",
+    "discordThreadId": "1462680884577697802",
+    "instanceNumber": 1
   }
 ]
