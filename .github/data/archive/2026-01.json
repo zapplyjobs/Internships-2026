@@ -16355,5 +16355,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4955107008",
     "discordThreadId": "1462672830889197726",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-solutions-architect-digital-native-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-solutions-architect-digital-native-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Solutions Architect, Digital Native",
+    "postedToDiscord": "2026-01-19T05:15:47.105Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5065835008",
+    "discordThreadId": "1462676881470914561",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-solutions-architect-enterprise-industries-new-york-city-ny-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-solutions-architect-enterprise-industries-new-york-city-ny-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Solutions Architect, Enterprise Industries",
+    "postedToDiscord": "2026-01-19T05:15:50.905Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
+    "discordThreadId": "1462676895584878606",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-staff-software-engineer-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-staff-software-engineer-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Staff+ Software Engineer, Infrastructure",
+    "postedToDiscord": "2026-01-19T05:15:55.075Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
+    "discordThreadId": "1462676912051716096",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-staff-software-engineer-platform-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-staff-software-engineer-platform-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Staff Software Engineer, Platform",
+    "postedToDiscord": "2026-01-19T05:15:58.802Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023089008",
+    "discordThreadId": "1462676929470529713",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-staff-software-engineer-claude-developer-platform-backend-new-york-city-ny-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-staff-software-engineer-claude-developer-platform-backend-new-york-city-ny-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+    "postedToDiscord": "2026-01-19T05:16:05.447Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4988878008",
+    "discordThreadId": "1462676957815771217",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-staff-software-engineer-claude-developer-platform-full-stack-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-staff-software-engineer-claude-developer-platform-full-stack-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
+    "postedToDiscord": "2026-01-19T05:16:08.840Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4561282008",
+    "discordThreadId": "1462676972873191577",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-staff-software-engineer-databases-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-staff-software-engineer-databases-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Staff+ Software Engineer, Databases",
+    "postedToDiscord": "2026-01-19T05:16:12.398Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4970463008",
+    "discordThreadId": "1462676987129888799",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-staff-software-engineer-data-infrastructure-san-francisco-ca-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-staff-software-engineer-data-infrastructure-san-francisco-ca-seattle-wa",
+    "company": "anthropic",
+    "title": "Staff+ Software Engineer, Data Infrastructure",
+    "postedToDiscord": "2026-01-19T05:16:15.867Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4941204008",
+    "discordThreadId": "1462677001969078427",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-startup-account-executive-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-startup-account-executive-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Startup Account Executive",
+    "postedToDiscord": "2026-01-19T05:16:22.674Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+    "discordThreadId": "1462677029831971083",
+    "instanceNumber": 1
   }
 ]
