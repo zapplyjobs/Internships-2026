@@ -15860,5 +15860,16 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055669008",
     "discordThreadId": "1462599141170614414",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Product Marketing Manager, Claude Code",
+    "postedToDiscord": "2026-01-19T01:17:11.882Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
+    "discordThreadId": "1462616838599868598",
+    "instanceNumber": 1
   }
 ]

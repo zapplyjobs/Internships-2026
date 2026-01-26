@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T00:47:07.474Z",
+  "lastUpdated": "2026-01-26T01:17:37.516Z",
   "jobs": [
-    {
-      "id": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Product Marketing Manager, Claude Code",
-      "postedToDiscord": "2026-01-19T01:17:11.882Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
-      "discordThreadId": "1462616838599868598",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-product-operations-manager-san-francisco-ca-2026-01-19-1",
       "jobId": "anthropic-product-operations-manager-san-francisco-ca",
@@ -7371,9 +7360,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465145957338447873",
+          "messageId": "1465153631845351494",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:46:57.511Z",
+          "postedAt": "2026-01-26T01:17:27.310Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7395,9 +7384,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465145964711907420",
+          "messageId": "1465153639587774590",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:46:59.317Z",
+          "postedAt": "2026-01-26T01:17:29.098Z",
           "channelJobNumber": 4
         }
       },
@@ -7413,9 +7402,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465145984999882773",
+          "messageId": "1465153659737215138",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:47:04.022Z",
+          "postedAt": "2026-01-26T01:17:33.819Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7437,9 +7426,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465145991798722674",
+          "messageId": "1465153666691502214",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:47:05.803Z",
+          "postedAt": "2026-01-26T01:17:35.548Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7461,9 +7450,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465145999130497025",
+          "messageId": "1465153674236919883",
           "channelType": "category",
-          "postedAt": "2026-01-26T00:47:07.474Z",
+          "postedAt": "2026-01-26T01:17:37.516Z",
           "channelJobNumber": 6
         }
       },
@@ -7471,11 +7460,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 674,
+    "totalJobs": 673,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T00:47:07.474Z",
+      "date": "2026-01-26T01:17:37.516Z",
       "archived": 0
     }
   }
