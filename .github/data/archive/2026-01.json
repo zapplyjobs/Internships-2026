@@ -16608,5 +16608,38 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066995008",
     "discordThreadId": "1462687844542709837",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-technical-program-manager-claude-experiences-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-technical-program-manager-claude-experiences-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Technical Program Manager, Claude Experiences",
+    "postedToDiscord": "2026-01-19T06:45:31.006Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008",
+    "discordThreadId": "1462699461708091534",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-technical-program-manager-inference-san-francisco-ca-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-technical-program-manager-inference-san-francisco-ca-seattle-wa",
+    "company": "anthropic",
+    "title": "Technical Program Manager, Inference",
+    "postedToDiscord": "2026-01-19T06:45:34.411Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
+    "discordThreadId": "1462699477797441618",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-technical-program-manager-launches-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-technical-program-manager-launches-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Technical Program Manager, Launches",
+    "postedToDiscord": "2026-01-19T06:45:37.742Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062960008",
+    "discordThreadId": null,
+    "instanceNumber": 1
   }
 ]
