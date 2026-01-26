@@ -502,5 +502,43 @@
     "addedAt": "2026-01-25T12:34:04.940Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Transportation Planning Intern",
+      "employer_name": "HNTB",
+      "job_city": "Houston",
+      "job_state": "TX",
+      "job_description": "Join HNTB in this exciting opportunity.",
+      "job_apply_link": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Houston-TX-Fannin/Transportation-Planning-Intern--Summer-2026_R-28878-1",
+      "job_posted_at_datetime_utc": "2026-01-25T23:35:32.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "hntb-transportation-planning-intern-houston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T00:06:27.020Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Tolling Intern - Summer 2026",
+      "employer_name": "HNTB",
+      "job_city": "Parsippany-Troy Hills",
+      "job_state": "NJ",
+      "job_description": "Join HNTB in this exciting opportunity.",
+      "job_apply_link": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Parsippany-NJ-Fairfield/Tolling-Intern---Summer-2026_R-28881-2",
+      "job_posted_at_datetime_utc": "2026-01-25T23:35:29.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "hntb-tolling-intern-summer-2026-parsippany-troy-hills"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T00:06:27.020Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
