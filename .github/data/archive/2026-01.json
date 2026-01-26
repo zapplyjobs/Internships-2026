@@ -16938,5 +16938,104 @@
     "sourceUrl": "https://careers.datadoghq.com/detail/7536402/?gh_jid=7536402",
     "discordThreadId": "1462712331153834091",
     "instanceNumber": 1
+  },
+  {
+    "id": "datadog-strategic-account-executive-michigan-usa-remote-ohio-usa-remote-pennsylvania-usa-remote-2026-01-19-1",
+    "jobId": "datadog-strategic-account-executive-michigan-usa-remote-ohio-usa-remote-pennsylvania-usa-remote",
+    "company": "datadog",
+    "title": "Strategic Account Executive",
+    "postedToDiscord": "2026-01-19T07:48:18.808Z",
+    "sourceDate": "2026-01-14T09:48:37-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736",
+    "discordThreadId": "1462715266965176395",
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-customer-success-associate-denver-denver-colorado-usa-2026-01-19-1",
+    "jobId": "datadog-customer-success-associate-denver-denver-colorado-usa",
+    "company": "datadog",
+    "title": "Customer Success Associate - Denver",
+    "postedToDiscord": "2026-01-19T07:48:20.507Z",
+    "sourceDate": "2026-01-14T09:30:09-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240",
+    "discordThreadId": "1462715280907305033",
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-technical-escalations-engineer-3-internal-developer-portal-us-east-boston-massachusetts-usa-new-york-new-york-usa-2026-01-19-1",
+    "jobId": "datadog-technical-escalations-engineer-3-internal-developer-portal-us-east-boston-massachusetts-usa-new-york-new-york-usa",
+    "company": "datadog",
+    "title": "Technical Escalations Engineer 3 (Internal Developer Portal) - US-East",
+    "postedToDiscord": "2026-01-19T07:48:26.957Z",
+    "sourceDate": "2026-01-14T09:33:28-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7536159/?gh_jid=7536159",
+    "discordThreadId": "1462715300574269525",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-program-manager-solutions-architecture-chicago-or-atlanta-or-remote-2026-01-19-1",
+    "jobId": "stripe-program-manager-solutions-architecture-chicago-or-atlanta-or-remote",
+    "company": "stripe",
+    "title": "Program Manager, Solutions Architecture",
+    "postedToDiscord": "2026-01-19T07:48:33.410Z",
+    "sourceDate": "2026-01-14T09:13:18-05:00",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7470827",
+    "discordThreadId": "1462715327933710360",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-program-manager-solutions-architecture-product-interlock-chicago-or-atlanta-or-remote-2026-01-19-1",
+    "jobId": "stripe-program-manager-solutions-architecture-product-interlock-chicago-or-atlanta-or-remote",
+    "company": "stripe",
+    "title": "Program Manager, Solutions Architecture (Product Interlock)",
+    "postedToDiscord": "2026-01-19T07:48:36.796Z",
+    "sourceDate": "2026-01-14T08:44:14-05:00",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7536460",
+    "discordThreadId": "1462715342227767347",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-staff-fullstack-software-engineer-growth-monetization-remote-us-select-locations-2026-01-19-1",
+    "jobId": "dropbox-staff-fullstack-software-engineer-growth-monetization-remote-us-select-locations",
+    "company": "dropbox",
+    "title": "Staff Fullstack Software Engineer, Growth Monetization",
+    "postedToDiscord": "2026-01-19T07:48:41.501Z",
+    "sourceDate": "2026-01-14T06:52:11-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7421150?gh_jid=7421150",
+    "discordThreadId": "1462715369121910887",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-staff-backend-product-software-engineer-core-remote-us-select-locations-2026-01-19-1",
+    "jobId": "dropbox-staff-backend-product-software-engineer-core-remote-us-select-locations",
+    "company": "dropbox",
+    "title": "Staff Backend Product Software Engineer, Core",
+    "postedToDiscord": "2026-01-19T07:48:43.194Z",
+    "sourceDate": "2026-01-14T06:52:03-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7421121?gh_jid=7421121",
+    "discordThreadId": "1462715376142913649",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-staff-backend-product-software-engineer-multi-product-experience-remote-us-select-locations-2026-01-19-1",
+    "jobId": "dropbox-staff-backend-product-software-engineer-multi-product-experience-remote-us-select-locations",
+    "company": "dropbox",
+    "title": "Staff Backend Product Software Engineer, Multi-Product Experience ",
+    "postedToDiscord": "2026-01-19T07:48:44.898Z",
+    "sourceDate": "2026-01-14T06:52:01-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7415610?gh_jid=7415610",
+    "discordThreadId": "1462715383151591538",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-staff-product-backend-software-engineer-core-sync-remote-us-all-locations-2026-01-19-1",
+    "jobId": "dropbox-staff-product-backend-software-engineer-core-sync-remote-us-all-locations",
+    "company": "dropbox",
+    "title": "Staff Product Backend Software Engineer, Core Sync",
+    "postedToDiscord": "2026-01-19T07:48:46.574Z",
+    "sourceDate": "2026-01-14T06:51:56-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7260578?gh_jid=7260578",
+    "discordThreadId": "1462715390164471840",
+    "instanceNumber": 1
   }
 ]
