@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T15:57:17.194Z",
+  "lastUpdated": "2026-01-26T16:06:17.203Z",
   "jobs": [
-    {
-      "id": "dropbox-director-of-product-new-initiatives-remote-us-all-locations-2026-01-19-1",
-      "jobId": "dropbox-director-of-product-new-initiatives-remote-us-all-locations",
-      "company": "dropbox",
-      "title": "Director of Product, New Initiatives",
-      "postedToDiscord": "2026-01-19T16:04:35.861Z",
-      "sourceDate": "2026-01-13T16:46:24-05:00",
-      "sourceUrl": "https://jobs.dropbox.com/listing/7371087?gh_jid=7371087",
-      "discordThreadId": "1462840167197970685",
-      "instanceNumber": 1
-    },
     {
       "id": "dropbox-data-scientist-remote-us-select-locations-2026-01-19-1",
       "jobId": "dropbox-data-scientist-remote-us-select-locations",
@@ -5523,9 +5512,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465374987958489212",
+          "messageId": "1465377252253372648",
           "channelType": "category",
-          "postedAt": "2026-01-26T15:57:02.601Z",
+          "postedAt": "2026-01-26T16:06:02.490Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -5547,9 +5536,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465374995256709211",
+          "messageId": "1465377259673354466",
           "channelType": "category",
-          "postedAt": "2026-01-26T15:57:04.287Z",
+          "postedAt": "2026-01-26T16:06:04.219Z",
           "channelJobNumber": 4
         }
       },
@@ -5565,9 +5554,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465375015225655511",
+          "messageId": "1465377279629725971",
           "channelType": "category",
-          "postedAt": "2026-01-26T15:57:09.098Z",
+          "postedAt": "2026-01-26T16:06:08.959Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -5589,9 +5578,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465375023551221821",
+          "messageId": "1465377287162822866",
           "channelType": "category",
-          "postedAt": "2026-01-26T15:57:11.038Z",
+          "postedAt": "2026-01-26T16:06:10.859Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -5613,9 +5602,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465375030400516253",
+          "messageId": "1465377295069089814",
           "channelType": "category",
-          "postedAt": "2026-01-26T15:57:12.683Z",
+          "postedAt": "2026-01-26T16:06:12.689Z",
           "channelJobNumber": 6
         }
       },
@@ -5623,11 +5612,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 506,
+    "totalJobs": 505,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T15:57:17.194Z",
+      "date": "2026-01-26T16:06:17.203Z",
       "archived": 0
     }
   }
