@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T06:45:18.582Z",
+  "lastUpdated": "2026-01-26T07:02:11.009Z",
   "jobs": [
-    {
-      "id": "anthropic-technical-program-manager-claude-experiences-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-program-manager-claude-experiences-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Claude Experiences",
-      "postedToDiscord": "2026-01-19T06:45:31.006Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008",
-      "discordThreadId": "1462699461708091534",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-program-manager-inference-san-francisco-ca-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-program-manager-inference-san-francisco-ca-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Inference",
-      "postedToDiscord": "2026-01-19T06:45:34.411Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
-      "discordThreadId": "1462699477797441618",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-technical-program-manager-launches-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-technical-program-manager-launches-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Technical Program Manager, Launches",
-      "postedToDiscord": "2026-01-19T06:45:37.742Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062960008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-technical-program-manager-data-center-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
       "jobId": "anthropic-technical-program-manager-data-center-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
@@ -6623,9 +6590,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465236098484535442",
+          "messageId": "1465240343808315422",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:45:08.762Z",
+          "postedAt": "2026-01-26T07:02:01.000Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -6647,9 +6614,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465236105640153109",
+          "messageId": "1465240351450071182",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:45:10.432Z",
+          "postedAt": "2026-01-26T07:02:02.737Z",
           "channelJobNumber": 4
         }
       },
@@ -6665,9 +6632,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465236125319954598",
+          "messageId": "1465240371553374311",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:45:15.137Z",
+          "postedAt": "2026-01-26T07:02:07.571Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -6689,9 +6656,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465236132207001724",
+          "messageId": "1465240378843332816",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:45:16.907Z",
+          "postedAt": "2026-01-26T07:02:09.255Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -6713,9 +6680,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465236139731320872",
+          "messageId": "1465240386023850098",
           "channelType": "category",
-          "postedAt": "2026-01-26T06:45:18.582Z",
+          "postedAt": "2026-01-26T07:02:11.008Z",
           "channelJobNumber": 6
         }
       },
@@ -6723,11 +6690,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 606,
+    "totalJobs": 603,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T06:45:18.582Z",
+      "date": "2026-01-26T07:02:11.009Z",
       "archived": 0
     }
   }
