@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-26T02:01:27.596Z",
+  "lastUpdated": "2026-01-26T03:00:23.832Z",
   "jobs": [
-    {
-      "id": "anthropic-product-operations-manager-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-product-operations-manager-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Product Operations Manager",
-      "postedToDiscord": "2026-01-19T02:56:04.806Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971429008",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-product-operations-manager-claude-code-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-product-operations-manager-claude-code-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Product Operations Manager, Claude Code",
-      "postedToDiscord": "2026-01-19T02:56:08.318Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055264008",
-      "discordThreadId": "1462641737951482000",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-product-operations-manager-public-sector-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-product-operations-manager-public-sector-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Product Operations Manager, Public Sector ",
-      "postedToDiscord": "2026-01-19T02:56:11.683Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992055008",
-      "discordThreadId": "1462641752694460704",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-product-operations-manager-research-product-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-product-operations-manager-research-product-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Product Operations Manager, Research Product ",
-      "postedToDiscord": "2026-01-19T02:56:15.201Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992071008",
-      "discordThreadId": "1462641766959288472",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-product-support-specialist-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
-      "jobId": "anthropic-product-support-specialist-san-francisco-ca-new-york-city-ny-seattle-wa",
-      "company": "anthropic",
-      "title": "Product Support Specialist",
-      "postedToDiscord": "2026-01-19T02:56:18.608Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
-      "discordThreadId": "1462641781416919082",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-real-estate-project-manager-new-york-city-ny-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-real-estate-project-manager-new-york-city-ny-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Real Estate Project Manager",
-      "postedToDiscord": "2026-01-19T02:56:25.413Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
-      "discordThreadId": "1462641809078620244",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-recruiter-ai-research-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-recruiter-ai-research-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Recruiter, AI Research",
-      "postedToDiscord": "2026-01-19T02:56:32.065Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4604015008",
-      "discordThreadId": "1462641837297635571",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-recruiter-applied-ai-san-francisco-ca-2026-01-19-1",
-      "jobId": "anthropic-recruiter-applied-ai-san-francisco-ca",
-      "company": "anthropic",
-      "title": "Recruiter, Applied AI",
-      "postedToDiscord": "2026-01-19T02:56:38.868Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4961072008",
-      "discordThreadId": "1462641866058105005",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anthropic-recruiter-g-a-san-francisco-ca-new-york-city-ny-2026-01-19-1",
-      "jobId": "anthropic-recruiter-g-a-san-francisco-ca-new-york-city-ny",
-      "company": "anthropic",
-      "title": "Recruiter, G&A",
-      "postedToDiscord": "2026-01-19T02:56:45.649Z",
-      "sourceDate": "2026-01-14T13:17:10-05:00",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821519008",
-      "discordThreadId": "1462641894302552087",
-      "instanceNumber": 1
-    },
     {
       "id": "anthropic-recruiter-technical-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
       "jobId": "anthropic-recruiter-technical-san-francisco-ca-new-york-city-ny-seattle-wa",
@@ -7360,9 +7261,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465164664559108148",
+          "messageId": "1465179496381550593",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:01:17.653Z",
+          "postedAt": "2026-01-26T03:00:13.906Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -7384,9 +7285,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465164671953932382",
+          "messageId": "1465179504342470817",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:01:19.345Z",
+          "postedAt": "2026-01-26T03:00:15.720Z",
           "channelJobNumber": 4
         }
       },
@@ -7402,9 +7303,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465164691574624423",
+          "messageId": "1465179524370010296",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:01:24.046Z",
+          "postedAt": "2026-01-26T03:00:20.460Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -7426,9 +7327,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465164698784759808",
+          "messageId": "1465179531710173295",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:01:25.730Z",
+          "postedAt": "2026-01-26T03:00:22.163Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -7450,9 +7351,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465164706011545672",
+          "messageId": "1465179538538496156",
           "channelType": "category",
-          "postedAt": "2026-01-26T02:01:27.596Z",
+          "postedAt": "2026-01-26T03:00:23.831Z",
           "channelJobNumber": 6
         }
       },
@@ -7460,11 +7361,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 673,
+    "totalJobs": 664,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-26T02:01:27.596Z",
+      "date": "2026-01-26T03:00:23.832Z",
       "archived": 0
     }
   }

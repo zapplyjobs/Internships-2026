@@ -15871,5 +15871,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
     "discordThreadId": "1462616838599868598",
     "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-operations-manager-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-product-operations-manager-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Product Operations Manager",
+    "postedToDiscord": "2026-01-19T02:56:04.806Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971429008",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-operations-manager-claude-code-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-product-operations-manager-claude-code-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Product Operations Manager, Claude Code",
+    "postedToDiscord": "2026-01-19T02:56:08.318Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055264008",
+    "discordThreadId": "1462641737951482000",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-operations-manager-public-sector-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-product-operations-manager-public-sector-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Product Operations Manager, Public Sector ",
+    "postedToDiscord": "2026-01-19T02:56:11.683Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992055008",
+    "discordThreadId": "1462641752694460704",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-operations-manager-research-product-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-product-operations-manager-research-product-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Product Operations Manager, Research Product ",
+    "postedToDiscord": "2026-01-19T02:56:15.201Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4992071008",
+    "discordThreadId": "1462641766959288472",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-product-support-specialist-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+    "jobId": "anthropic-product-support-specialist-san-francisco-ca-new-york-city-ny-seattle-wa",
+    "company": "anthropic",
+    "title": "Product Support Specialist",
+    "postedToDiscord": "2026-01-19T02:56:18.608Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
+    "discordThreadId": "1462641781416919082",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-real-estate-project-manager-new-york-city-ny-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-real-estate-project-manager-new-york-city-ny-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Real Estate Project Manager",
+    "postedToDiscord": "2026-01-19T02:56:25.413Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
+    "discordThreadId": "1462641809078620244",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-recruiter-ai-research-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-recruiter-ai-research-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Recruiter, AI Research",
+    "postedToDiscord": "2026-01-19T02:56:32.065Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4604015008",
+    "discordThreadId": "1462641837297635571",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-recruiter-applied-ai-san-francisco-ca-2026-01-19-1",
+    "jobId": "anthropic-recruiter-applied-ai-san-francisco-ca",
+    "company": "anthropic",
+    "title": "Recruiter, Applied AI",
+    "postedToDiscord": "2026-01-19T02:56:38.868Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4961072008",
+    "discordThreadId": "1462641866058105005",
+    "instanceNumber": 1
+  },
+  {
+    "id": "anthropic-recruiter-g-a-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+    "jobId": "anthropic-recruiter-g-a-san-francisco-ca-new-york-city-ny",
+    "company": "anthropic",
+    "title": "Recruiter, G&A",
+    "postedToDiscord": "2026-01-19T02:56:45.649Z",
+    "sourceDate": "2026-01-14T13:17:10-05:00",
+    "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4821519008",
+    "discordThreadId": "1462641894302552087",
+    "instanceNumber": 1
   }
 ]
