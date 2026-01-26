@@ -716,5 +716,24 @@
     "addedAt": "2026-01-26T08:03:44.296Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Crowdstrike",
+      "job_city": "Redmond",
+      "job_state": "WA",
+      "job_description": "Join Crowdstrike in this exciting opportunity.",
+      "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636",
+      "job_posted_at_datetime_utc": "2026-01-26T12:21:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "crowdstrike-software-engineer-intern-redmond"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-26T12:38:01.912Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
