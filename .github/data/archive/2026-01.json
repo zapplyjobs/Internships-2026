@@ -16740,5 +16740,104 @@
     "sourceUrl": "https://careers.duolingo.com/jobs/8374797002?gh_jid=8374797002",
     "discordThreadId": "1462704025366564886",
     "instanceNumber": 1
+  },
+  {
+    "id": "coinbase-business-controller-intern-hybrid-new-york-ny-2026-01-19-1",
+    "jobId": "coinbase-business-controller-intern-hybrid-new-york-ny",
+    "company": "coinbase",
+    "title": "Business Controller Intern",
+    "postedToDiscord": "2026-01-19T07:21:01.948Z",
+    "sourceDate": "2026-01-14T13:03:34-05:00",
+    "sourceUrl": "https://www.coinbase.com/careers/positions/7434684?gh_jid=7434684",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-product-backend-software-engineer-search-platform-remote-us-select-locations-2026-01-19-1",
+    "jobId": "dropbox-product-backend-software-engineer-search-platform-remote-us-select-locations",
+    "company": "dropbox",
+    "title": "Product Backend Software Engineer, Search Platform",
+    "postedToDiscord": "2026-01-19T07:21:03.675Z",
+    "sourceDate": "2026-01-14T12:23:39-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7491860?gh_jid=7491860",
+    "discordThreadId": "1462708415079120907",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-data-analyst-us-2026-01-19-1",
+    "jobId": "stripe-data-analyst-us",
+    "company": "stripe",
+    "title": "Data Analyst",
+    "postedToDiscord": "2026-01-19T07:21:08.500Z",
+    "sourceDate": "2026-01-14T12:25:22-05:00",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "discordThreadId": "1462708435438145694",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-program-manager-learning-development-remote-us-select-locations-2026-01-19-1",
+    "jobId": "dropbox-program-manager-learning-development-remote-us-select-locations",
+    "company": "dropbox",
+    "title": "Program Manager,  Learning & Development",
+    "postedToDiscord": "2026-01-19T07:21:13.580Z",
+    "sourceDate": "2026-01-14T12:08:42-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7098490?gh_jid=7098490",
+    "discordThreadId": "1462708456539553792",
+    "instanceNumber": 1
+  },
+  {
+    "id": "datadog-product-marketing-manager-log-management-new-york-new-york-usa-2026-01-19-1",
+    "jobId": "datadog-product-marketing-manager-log-management-new-york-new-york-usa",
+    "company": "datadog",
+    "title": "Product Marketing Manager - Log Management",
+    "postedToDiscord": "2026-01-19T07:21:19.975Z",
+    "sourceDate": "2026-01-14T11:55:47-05:00",
+    "sourceUrl": "https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715",
+    "discordThreadId": "1462708476588331101",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-business-recruiter-fixed-term-contract-chicago-atlanta-2026-01-19-1",
+    "jobId": "stripe-business-recruiter-fixed-term-contract-chicago-atlanta",
+    "company": "stripe",
+    "title": "Business Recruiter (Fixed Term Contract)",
+    "postedToDiscord": "2026-01-19T07:21:26.426Z",
+    "sourceDate": "2026-01-14T11:28:07-05:00",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7477504",
+    "discordThreadId": "1462708503876599862",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-go-to-market-recruiter-fixed-term-contract-san-francisco-seattle-new-york-city-2026-01-19-1",
+    "jobId": "stripe-go-to-market-recruiter-fixed-term-contract-san-francisco-seattle-new-york-city",
+    "company": "stripe",
+    "title": "Go-to-Market Recruiter (Fixed Term Contract)",
+    "postedToDiscord": "2026-01-19T07:21:29.854Z",
+    "sourceDate": "2026-01-14T11:11:44-05:00",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7526358",
+    "discordThreadId": "1462708517982048351",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-workforce-planning-partner-gtm-g-a-remote-us-select-locations-2026-01-19-1",
+    "jobId": "dropbox-workforce-planning-partner-gtm-g-a-remote-us-select-locations",
+    "company": "dropbox",
+    "title": "Workforce Planning Partner GTM + G&A",
+    "postedToDiscord": "2026-01-19T07:21:31.528Z",
+    "sourceDate": "2026-01-14T11:01:39-05:00",
+    "sourceUrl": "https://jobs.dropbox.com/listing/7171752?gh_jid=7171752",
+    "discordThreadId": "1462708532389482517",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-account-executive-commercial-new-business-chicago-2026-01-19-1",
+    "jobId": "stripe-account-executive-commercial-new-business-chicago",
+    "company": "stripe",
+    "title": "Account Executive, Commercial (New Business)",
+    "postedToDiscord": "2026-01-19T07:21:37.934Z",
+    "sourceDate": "2026-01-14T10:57:09-05:00",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7368883",
+    "discordThreadId": "1462708551968620672",
+    "instanceNumber": 1
   }
 ]
