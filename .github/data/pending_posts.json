@@ -906,5 +906,329 @@
     "addedAt": "2026-01-26T16:05:59.119Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Intern - Raytheon Software Engineer",
+      "employer_name": "RTX",
+      "job_city": "Dulles",
+      "job_state": "VA",
+      "job_description": "Join RTX in this exciting opportunity.",
+      "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-21251-CUST--21251-Ridgetop-Cir--RIDGETOP-External-Site/XMLNAME-2026-Intern--Raytheon-Software-Engineer---Onsite_01819197",
+      "job_posted_at_datetime_utc": "2026-01-26T23:51:33.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "rtx-2026-intern-raytheon-software-engineer-dulles"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Full-stack Software Engineer Intern",
+      "employer_name": "Klaviyo",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Klaviyo in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7603083003",
+      "job_posted_at_datetime_utc": "2026-01-26T23:46:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "klaviyo-full-stack-software-engineer-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern-Chicago",
+      "employer_name": "Echo Global Logistics",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Echo Global Logistics in this exciting opportunity.",
+      "job_apply_link": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R3770",
+      "job_posted_at_datetime_utc": "2026-01-26T23:45:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "echo-global-logistics-software-engineering-intern-chicago-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Process Automation Intern - Workato",
+      "employer_name": "EverCommerce",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join EverCommerce in this exciting opportunity.",
+      "job_apply_link": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverCommerce---Process-Automation-Intern--Workato--Remote--US-_R-105883",
+      "job_posted_at_datetime_utc": "2026-01-26T23:34:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "evercommerce-process-automation-intern-workato-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Gnn - Advanced Memory System Research",
+      "employer_name": "SK hynix",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join SK hynix in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008",
+      "job_posted_at_datetime_utc": "2026-01-26T23:33:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer  Intern",
+      "employer_name": "BambooHR",
+      "job_city": "Draper",
+      "job_state": "UT",
+      "job_description": "Join BambooHR in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/bamboohr17/jobs/5755725004",
+      "job_posted_at_datetime_utc": "2026-01-26T23:30:30.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "bamboohr-software-engineer-intern-draper"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data & Analytics Intern - Internal Opportunity",
+      "employer_name": "Tecovas",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Tecovas in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/tecovas/jobs/8391013002",
+      "job_posted_at_datetime_utc": "2026-01-26T23:30:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tecovas-data-analytics-intern-internal-opportunity-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Developer - Master Data Management",
+      "employer_name": "Expeditors",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Expeditors in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/Expeditors/744000105700831",
+      "job_posted_at_datetime_utc": "2026-01-26T23:25:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "expeditors-intern-developer-master-data-management-seattle"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Intern for Corporate Sustainability",
+      "employer_name": "KLA Corporation",
+      "job_city": "Ann Arbor",
+      "job_state": "MI",
+      "job_description": "Join KLA Corporation in this exciting opportunity.",
+      "job_apply_link": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-Intern-for-Corporate-Sustainability_2633793",
+      "job_posted_at_datetime_utc": "2026-01-26T23:22:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kla-ai-intern-for-corporate-sustainability-ann-arbor"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Development Intern",
+      "employer_name": "QGenda",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Join QGenda in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/qgenda/jobs/5082965008",
+      "job_posted_at_datetime_utc": "2026-01-26T23:21:36.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "qgenda-software-development-intern-atlanta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Forecasting and Analytics",
+      "employer_name": "Clearway Energy",
+      "job_city": "Scottsdale",
+      "job_state": "AZ",
+      "job_description": "Join Clearway Energy in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5033140007",
+      "job_posted_at_datetime_utc": "2026-01-26T23:21:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "clearway-energy-intern-forecasting-and-analytics-scottsdale"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Ads Interface Platform",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7473334964256393479",
+      "job_posted_at_datetime_utc": "2026-01-26T23:18:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tiktok-software-engineer-intern-ads-interface-platform-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Product Development Data Science",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Science_202601-101288",
+      "job_posted_at_datetime_utc": "2026-01-26T23:15:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "genentech-intern-product-development-data-science-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Summer Intern - Remote & Paid",
+      "employer_name": "Experian",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Experian in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/Experian/744000105720489",
+      "job_posted_at_datetime_utc": "2026-01-26T23:15:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "experian-data-science-summer-intern-remote-paid-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Development Intern - GenAI",
+      "employer_name": "Fortinet",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join Fortinet in this exciting opportunity.",
+      "job_apply_link": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/21952",
+      "job_posted_at_datetime_utc": "2026-01-26T23:11:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "fortinet-software-development-intern-genai-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "University – 2026 Summer Games Software Developer Intern",
+      "employer_name": "Booz Allen",
+      "job_city": "Honolulu",
+      "job_state": "HI",
+      "job_description": "Join Booz Allen in this exciting opportunity.",
+      "job_apply_link": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356-1",
+      "job_posted_at_datetime_utc": "2026-01-26T23:09:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "booz-allen-university-2026-summer-games-software-developer-intern-honolulu"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern, Robotics",
+      "employer_name": "Imperative Care",
+      "job_city": "Campbell",
+      "job_state": "Ohio",
+      "job_description": "Job Title : Software Engineering Intern Robotics\n\nLocation : This position is based in our Campbell California offices on-site & full-time. Imperative Care does not provide relocation or additional housing compensation for the summer internship.\n\nWhy Imperative Care\n\nAt Imperative Care we are developing novel robotic-assisted technologies and interventional capabilities that will forever change the disparate outcomes of ischemic stroke a disease that impacts close to a million people a year in the U.S. and 10 million worldwide. Not only is Imperative Care changing the way stroke is treated but also bringing this treatment to the greater population who is currently without. We are actively building a team who is focused on developing novel solutions for this complex disease a disease in which one in four adults will face in their lifetime.\n\nWhat Youll Do\n\nThe individual will assist software engineers in the development of a playback tool for analysis of case telemetry.\n• Implement visualizations of robotic motion within a workspace using telemetry configurations and kinematics\n• Process and display robot sensor and state machine information\n• Develop the software infrastructure to efficiently generate analysis metrics of the case progression\n\nWhat Youll Bring\n• Experience with Python and C\n• Strong understanding of linear algebra\n• Knowledge in kinematics ROS visualization tools or software architecture is a plus\n• Strong organizational skills : management of priorities documentation and timing\n• Good interpersonal skills effective communication and partnership with other departments\n\nWhat Youll Gain\n\nImperative Care provides an opportunity for students to work in the dynamic medical device industry and gain valuable hands-on experience with state-of-the-art equipment instruments and facilities. Our internship program is designed to give interns foundational experience and exposure to a variety of roles and areas of focus to help prepare them for a career in MedTech. This program also offers ongoing networking learning and professional development opportunities mentorship from executive leadership social activities and peer-to-peer interaction.\n\nJoin Us! Apply Today .\n\nSalary : $29 / hourly for 10 week internship\n\nThe use of external recruiters / staffing agencies requires prior approval from our Human Resources Department. The Human Resources Department at Imperative Care requests that external recruiters / staffing agencies not to contact Imperative Care employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with Imperative Care.\n\nImperative Care will not accept unsolicited resumes from any source other than candidates themselves for either current or future positions. Submission of unsolicited resumes in advance of an agreement between the Human Resources Department and the external recruiter / staffing agency does not create any implied obligation on the part of Imperative Care.\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nCampaigns,Abinitio,AutoCAD 3D,Hardware & Networking,Customer Support,Arabic\n\nEmployment Type : Intern\n\nExperience : years\n\nVacancy : 1",
+      "job_apply_link": "https://www.talent.com/view?id=471a5dbca0aa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-26T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "imperative-care-software-engineer-intern-robotics-campbell"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T00:10:29.665Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
