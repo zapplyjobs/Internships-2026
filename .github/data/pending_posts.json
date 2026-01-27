@@ -1809,5 +1809,25 @@
     "addedAt": "2026-01-27T03:33:43.423Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Parts Summer 2026",
+      "employer_name": "CCC Intelligent Solutions",
+      "job_city": "",
+      "job_state": "Illinois",
+      "job_description": "CCC Intelligent Solutions is a leading cloud platform for the multi-trillion-dollar insurance economy, creating intelligent experiences for various stakeholders. They are seeking a Software Engineer Intern to contribute to real-world application development, working on Java and Python applications, and collaborating with experienced engineers.\n\nResponsibilities\n• Develop and enhance features in existing Java and Python applications\n• Write clean, maintainable, and efficient code following best practices\n• Participate in code reviews, technical discussions, and design sessions\n• Assist in troubleshooting, debugging, and resolving application issues\n• Work collaboratively with cross-functional teams (engineering, QA, product)\n• Contribute to documentation and ensure smooth integration of changes\n\nSkills\n• Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field\n• Strong understanding of Object-Oriented Programming (OOP) concepts\n• Solid foundation in Data Structures and Algorithms\n• Very good knowledge of HTTP/REST APIs and how client‑server communication works\n• Good understanding of Database Management Systems (DBMS) such as MySQL, PostgreSQL, or similar\n• Experience with developing UI with VueJS or similar technology\n• Good analytical and problem‑solving skills\n• Strong communication skills and the ability to work in a team environment\n• Exposure to Software Development Life Cycle (SDLC) processes\n• Experience with version control systems (Git preferred)\n• Basic understanding of CI/CD pipelines and DevOps concepts\n• Exposure to cloud platforms such as Azure, AWS, or GCP\n• Interest or experience in AI/ML technologies\n• Familiarity with Agile methodologies\n\nBenefits\n• 401K Match\n• Paid time off\n• Annual Incentive Plan Performance Bonus\n• Comprehensive health insurance\n• Adoption Assistance\n• Tuition Reimbursement\n• Wellness Programs\n• Stock Purchase Plan options\n• Employee Resource Groups\n\nCompany Overview\n• CCC Intelligent Solutions is a SaaS platform that offers digital and data services for the insurance and automotive industries. It was founded in 1980, and is headquartered in Chicago, Illinois, USA, with a workforce of 1001-5000 employees. Its website is http://www.cccis.com.\n\nCompany H1B Sponsorship\n• CCC Intelligent Solutions has a track record of offering H1B sponsorships, with 69 in 2025, 48 in 2024, 71 in 2023, 79 in 2022, 30 in 2021. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/6978018efdeb8243a27b01b7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "ccc-intelligent-software-engineer-intern-parts-summer-2026-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T06:05:09.367Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
