@@ -2162,5 +2162,119 @@
     "addedAt": "2026-01-27T12:05:14.746Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "IT Architecture & Innovation Internship",
+      "employer_name": "MEMIC",
+      "job_city": "Portland",
+      "job_state": "ME",
+      "job_description": "Join MEMIC in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/memic/jobs/7601233003",
+      "job_posted_at_datetime_utc": "2026-01-27T15:29:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "memic-it-architecture-innovation-internship-portland"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T18:06:35.638Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Business Intelligence Intern",
+      "employer_name": "MEMIC",
+      "job_city": "Portland",
+      "job_state": "ME",
+      "job_description": "Join MEMIC in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/memic/jobs/7601219003",
+      "job_posted_at_datetime_utc": "2026-01-27T15:29:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "memic-business-intelligence-intern-portland"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T18:06:35.638Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Manufacturing Software Engineer",
+      "employer_name": "Veolia",
+      "job_city": "Boulder",
+      "job_state": "CO",
+      "job_description": "Join Veolia in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000105871616",
+      "job_posted_at_datetime_utc": "2026-01-27T15:16:57.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "veolia-intern-manufacturing-software-engineer-boulder"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T18:06:35.638Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Management Undergraduate Summer Internship",
+      "employer_name": "Citizens Financial Group",
+      "job_city": "Providence",
+      "job_state": "RI",
+      "job_description": "Join Citizens Financial Group in this exciting opportunity.",
+      "job_apply_link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44432",
+      "job_posted_at_datetime_utc": "2026-01-27T15:13:04.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "citizens-financial-data-management-undergraduate-summer-internship-providence"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T18:06:35.638Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Development Engineer Intern",
+      "employer_name": "Criteo",
+      "job_city": "Ann Arbor",
+      "job_state": "MI",
+      "job_description": "Join Criteo in this exciting opportunity.",
+      "job_apply_link": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Ann-Arbor/Software-Development-Engineer-Intern_r20252",
+      "job_posted_at_datetime_utc": "2026-01-27T15:12:11.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "criteo-software-development-engineer-intern-ann-arbor"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T18:06:35.638Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Tax Technology Intern - Summer 2027",
+      "employer_name": "Grant Thornton",
+      "job_city": "Dallas",
+      "job_state": "TX",
+      "job_description": "Join Grant Thornton in this exciting opportunity.",
+      "job_apply_link": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114343",
+      "job_posted_at_datetime_utc": "2026-01-27T15:07:27.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "grant-thornton-tax-technology-intern-summer-2027-dallas"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T18:06:35.638Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
