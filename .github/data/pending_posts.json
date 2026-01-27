@@ -1230,5 +1230,584 @@
     "addedAt": "2026-01-27T00:10:29.665Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science and AI Intern",
+      "employer_name": "BillionToOne",
+      "job_city": "Menlo Park",
+      "job_state": "CA",
+      "job_description": "Join BillionToOne in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/billiontoone/jobs/4653775005",
+      "job_posted_at_datetime_utc": "2026-01-27T02:40:23.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "billiontoone-data-science-and-ai-intern-menlo-park"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data & AI Intern - No/Low-Code + GenAI",
+      "employer_name": "HNTB",
+      "job_city": "Kansas City",
+      "job_state": "MO",
+      "job_description": "Join HNTB in this exciting opportunity.",
+      "job_apply_link": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Data---AI-Intern--No-Low-Code---GenAI----Summer-2026_R-28913",
+      "job_posted_at_datetime_utc": "2026-01-27T02:36:29.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "hntb-data-ai-intern-no-low-code-genai-kansas-city"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern ETD Software Engineer",
+      "employer_name": "Micron Technology",
+      "job_city": "Boise",
+      "job_state": "ID",
+      "job_description": "Join Micron Technology in this exciting opportunity.",
+      "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259",
+      "job_posted_at_datetime_utc": "2026-01-27T02:33:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "micron-technology-intern-etd-software-engineer-boise"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Intern - AI Systems and Tools",
+      "employer_name": "Microsoft",
+      "job_city": "Redmond",
+      "job_state": "WA",
+      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556748177",
+      "job_posted_at_datetime_utc": "2026-01-27T02:17:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "microsoft-research-intern-ai-systems-and-tools-redmond"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Application Engineer Bachelor Intern",
+      "employer_name": "Kaiser Permanente",
+      "job_city": "Pleasanton",
+      "job_state": "CA",
+      "job_description": "Join Kaiser Permanente in this exciting opportunity.",
+      "job_apply_link": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405215",
+      "job_posted_at_datetime_utc": "2026-01-27T02:17:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kaiser-permanente-application-engineer-bachelor-intern-pleasanton"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Process Improvement Master's Intern",
+      "employer_name": "Kaiser Permanente",
+      "job_city": "Pasadena",
+      "job_state": "CA",
+      "job_description": "Join Kaiser Permanente in this exciting opportunity.",
+      "job_apply_link": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404990",
+      "job_posted_at_datetime_utc": "2026-01-27T02:17:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kaiser-permanente-process-improvement-master-s-intern-pasadena"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Intern - Product Development Data Science",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Science_202601-101287-1",
+      "job_posted_at_datetime_utc": "2026-01-27T02:14:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "genentech-2026-summer-intern-product-development-data-science-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Research Intern",
+      "employer_name": "d-Matrix",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join d-Matrix in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93/application",
+      "job_posted_at_datetime_utc": "2026-01-27T02:12:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "d-matrix-machine-learning-research-intern-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Intern USA",
+      "employer_name": "Black Box",
+      "job_city": "Plano",
+      "job_state": "TX",
+      "job_description": "Join Black Box in this exciting opportunity.",
+      "job_apply_link": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523",
+      "job_posted_at_datetime_utc": "2026-01-27T02:12:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "black-box-ai-intern-usa-plano"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Intern - AI Inference Software & Systems",
+      "employer_name": "Microsoft",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556748209",
+      "job_posted_at_datetime_utc": "2026-01-27T02:12:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "microsoft-research-intern-ai-inference-software-systems-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Payments Technology Intern",
+      "employer_name": "Santander",
+      "job_city": "Quincy",
+      "job_state": "MA",
+      "job_description": "Join Santander in this exciting opportunity.",
+      "job_apply_link": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/1-Enterprise-Drive-Quincy-Corp/Payments-Technology-Intern_Req1502883-2",
+      "job_posted_at_datetime_utc": "2026-01-27T00:02:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "santander-payments-technology-intern-quincy"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
+      "employer_name": "NVIDIA",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564",
+      "job_posted_at_datetime_utc": "2026-01-26T23:59:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Cost & Supply Analytics Intern",
+      "employer_name": "S&P Global ",
+      "job_city": "Houston",
+      "job_state": "TX",
+      "job_description": "Join S&P Global  in this exciting opportunity.",
+      "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Houston-TX/Cost---Supply-Analytics-Intern--Early-Careers-_320548-1",
+      "job_posted_at_datetime_utc": "2026-01-26T23:59:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "s-p-global-cost-supply-analytics-intern-houston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Release Train Engineer Internship IRES - Ssfb",
+      "employer_name": "Amentum",
+      "job_city": "Colorado Springs",
+      "job_state": "CO",
+      "job_description": "Join Amentum in this exciting opportunity.",
+      "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CO-Colorado-Springs/Release-Train-Engineer-Internship-IRES---SSFB_R0152423",
+      "job_posted_at_datetime_utc": "2026-01-26T23:46:42.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "amentum-release-train-engineer-internship-ires-ssfb-colorado-springs"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Python",
+      "employer_name": "Garda Capital Partners",
+      "job_city": "Wayzata",
+      "job_state": "MN",
+      "job_description": "Join Garda Capital Partners in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/gardacp/jobs/4174194004",
+      "job_posted_at_datetime_utc": "2026-01-26T23:45:08.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "garda-capital-partners-software-engineer-intern-python-wayzata"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Business Analytics Intern",
+      "employer_name": "Sentry Insurance",
+      "job_city": "Plover",
+      "job_state": "WI",
+      "job_description": "Join Sentry Insurance in this exciting opportunity.",
+      "job_apply_link": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Madison-WI/Business-Analytics-Internship-Summer-2026_JR-141184",
+      "job_posted_at_datetime_utc": "2026-01-26T23:45:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sentry-insurance-business-analytics-intern-plover"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – AI Agent Development",
+      "employer_name": "Micron Technology",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join Micron Technology in this exciting opportunity.",
+      "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-Agent-Development_JR82274",
+      "job_posted_at_datetime_utc": "2026-01-26T23:38:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "micron-technology-intern-ai-agent-development-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – AI/HPC System with Advanced Memory System Research",
+      "employer_name": "SK hynix",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join SK hynix in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096696008",
+      "job_posted_at_datetime_utc": "2026-01-26T23:33:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sk-hynix-intern-ai-hpc-system-with-advanced-memory-system-research-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern LLM Serving System Research",
+      "employer_name": "SK hynix",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join SK hynix in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096734008",
+      "job_posted_at_datetime_utc": "2026-01-26T23:33:03.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sk-hynix-intern-llm-serving-system-research-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineer Intern",
+      "employer_name": "Dow Chemical Company",
+      "job_city": "Urbana",
+      "job_state": "IL",
+      "job_description": "Join Dow Chemical Company in this exciting opportunity.",
+      "job_apply_link": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Summer-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2064750",
+      "job_posted_at_datetime_utc": "2026-01-26T23:32:10.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "dow-chemical-company-data-engineer-intern-urbana"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AIML Intern",
+      "employer_name": "Leidos",
+      "job_city": "Reston",
+      "job_state": "Virginia",
+      "job_description": "Leidos is seeking a talented AI / ML Intern for Summer 2026. In the Leidos Health CTO branch you will work to solve complex engineering problems with a highly technical multidisciplinary team consisting of AI engineers computer scientists data scientists and statisticians. This is an exciting opportunity to use your experience and enhance your AI / ML skill by helping the Health and Solutions Sector AI / ML capability development and integration efforts.\n\nThe ideal candidate is passionate about a broad range of projects from research & development to prototype development culminating in deployment of our products to customers. We are on the cutting edge inserting AI into health systems delivered through our AI Capability Integration in partnership with our business areas. The successful candidate will have beginner experience in areas like : software engineering DevOps artificial intelligence and machine learning (ML).\n\nPrimary Responsibilities\n\nEmployees in this role will work to develop solutions to healthcare problems by applying a variety of engineering AI / ML and software technical general interns are presented with one or more open-ended research problems that are related to on-going projects. This allows interns to directly contribute to active development and make a significant impact on the greater project success.\n\nEach intern will utilize and develop technical skills throughout the summer as they work through their specific problems. This may include topics such as dynamical modeling and simulation machine learning (e.g. supervised learning reinforcement learning) statistic-based analysis and data visualization. The aforementioned skills and solutions are expected to be implemented in software via programming languages such as Python.\n\nTo succeed in this role interns are required to leverage internal resources (e.g. software toolkits) collaborate with peers and experienced professionals and learn independently. Each intern will also work closely with an experience mentor throughout the summer. By the end of the internship they will have the opportunity to showcase their experience and work in company-wide events and a formal presentation.\n\nBasic Qualifications\n\nPursuing a bachelors degree in Computer Science Systems Engineering Electrical Engineering Telecommunications Computer Engineering and Information Sciences and Technology or STEM related degree from an accredited college\n\nDemonstrated potential to work in a team environment\n\nPrior Coursework in computer science data science and / or machine learning\n\nBeginner experience with Python Cuda DevSecOps\n\nStrong verbal and written communication skills\n\nPreferred Qualifications\n\nGraduate student and / or research experience.\n\nExperience with Linux.\n\nExperience with version control systems (e.g. Git)\n\nIf youre looking for comfort keep scrolling. At Leidos we outthink outbuild and outpace the status quo because the mission demands it. Were not hiring followers. Were recruiting the ones who disrupt provoke and refuse to fail. Step 10 is ancient history. Were already at step 30 and moving faster than anyone else dares.\n\nOriginal Posting : January 23 2026\n\nFor U.S. Positions : While subject to change based on business needs Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\nPay Range :\n\nPay Range $40300.00 - $72850.00\n\nThe Leidos pay range for this job level is a general guideline onlyand not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job education experience knowledge skills and abilities as well as internal equity alignment with market data applicable bargaining agreement (if any) or other law.\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nCampaigns,Abinitio,AutoCAD 3D,Hardware & Networking,Customer Support,Arabic\n\nEmployment Type : Full-Time\n\nExperience : years\n\nVacancy : 1\n\nMonthly Salary Salary : 40300 - 72850",
+      "job_apply_link": "https://www.talent.com/view?id=e2cd400670f8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-26T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "leidos-aiml-intern-reston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Research Intern – Santa Clara, CA Summer 2026",
+      "employer_name": "Nissan",
+      "job_city": "",
+      "job_state": "California",
+      "job_description": "Nissans Advanced Technology Center in Silicon Valley (NATC-SV) works at the cutting edge of transportation technology helping define the future of mobility. We are researchers scientists engineers and makers that collaborate with world class technical groups and leadership in North America Asia Europe and beyond.\n\nAbout Our Projects\n\nThe EV & Energy Services team brings together machine learning researchers data scientists operations researchers engineers and business leaders. We work on smart cities infrastructure large-scale EV charging orchestration (Vehicle Grid Integration VGI) driver behavior modeling and intelligent battery health management.\n\nOur team develops and leverages state-of-the art technology to maximize the value of EV battery assets. We create services that increase usage of renewable energy in the power grid reduce costs of charging through large-scale price arbitrage and help preserve the residual value of customers EVs.\n\nWe have an open position for a Machine Learning Research Intern to join our team in Silicon Valley CA for Summer 2026. Were looking for candidates who are motivated to apply their technical expertise to solve real problems in the sustainability and mobility spaces.\n\nKey Responsibilities / Daily Expectations\n\nContributing to development training and validation of machine learning models for forecasting simulation optimization and personalized recommendations\n\nApplying machine learning models to real-world customer data or smart charging testbed in NATC-SV office\n\nCollaborating with researchers data scientists and data engineers on feature engineering / data processing and custom KPI development for machine learning models\n\nIdentifying potential business opportunities for your work and communicating findings to teammates leadership and executives\n\nInterns are highly encouraged to pursue patents academic papers and other relevant intellectual property stemming from their work.\n\nRequirements\n\nPursuing PhD degree in computer science statistics engineering operations research or related technical field.\n\nFluency in Python including proficiency with data structures & advanced algorithms\n\nHands-on experience with data science packages including pandas scikit-learn PySpark etc.\n\nStrong practical experience with machine learning tools including TensorFlow Jax and / or PyTorch\n\nExpertise in sequence modeling graphical models time-series forecasting and / or generative modeling (e.g. diffusion models)\n\nAdvanced artifacts in the form of sound and creative scientific contributions (e.g. ICLR ICML NeurIPS ICRA INFORMS ICCPS etc.) open-source contributions and / or patents\n\nAttention to detail flexibility creativity and excellent communication and teamwork skills\n\nA strong passion for sustainability empirical research and for answering hard questions with data\n\nExcellent written and verbal communication skill\n\nGPA of 3.0 or above\n\nPreferred Skills (nice-to-haves but not required) :\n\nPhD candidates within one year of graduation\n\nExperience with AWS\n\nProficiency in numerical optimization tools like cvxpy\n\nFamiliarity with EV-related research topics ( vehicle-grid integration smart charging Li ion batteries battery management systems etc.)\n\nSalary Range Estimate : $44-48 / hr. This compensation range is provided as a reasonable estimate of the salary range for the jobs grade level. Factors that may be used to determine your actual salary may include among other things your specific skills your work location how many years of experience you have and comparison to other employees already in this role.\n\nNissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal state and local laws including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.\n\nIt is Nissans policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race gender military status disability or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.\n\nNISSAN FOR EVERYONE\n\nPeople are our most valuable assets and diversity and inclusion are the key to maximizing the power of each individual member of our team. When everyone belongs the power of NISSAN is undeniable. Our Corporate Diversity Initiative aims to improve business results by ensuring that our workplace and core businesses meet the unique needs of our employees and customer base.\n\nNissan is committed to creating a culture where everyone belongs and employees customers and partners feel respected valued and heard. We have over 10 Business Synergy Teams (BSTs) across the U.S. and Canada that connect employees with shared characteristics or interests build allies and foster a company culture where all employees feel supported and included.\n\nNissan also values inclusion in all areas of our business as we strive to mirror the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services retailing our products and communicating from a diverse perspective which will help us continue to offer our customers competitively designed market-driven products.\n\nJoin us as we carry our commitment to diversity and inclusion into the future.\n\nSanta Clara California United States of America\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nMicrosoft Office,Public Relations,Google Docs,Data Collection,MailChimp,Microsoft Word,Dermal Fillers,Microsoft Powerpoint,Research Experience,Microsoft Excel,Adobe Photoshop,Writing Skills\n\nEmployment Type : Full-Time\n\nExperience : years\n\nVacancy : 1\n\nMonthly Salary Salary : 44 - 48",
+      "job_apply_link": "https://www.talent.com/view?id=9c9e2dfe7c82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "nissan-machine-learning-research-intern-santa-clara-ca-summer-2026-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
+      "employer_name": "1000 KLA Corporation",
+      "job_city": "Milpitas",
+      "job_state": "California",
+      "job_description": "Description\n\n/ Preferred Qualifications\n\n​​Responsibilities :\n\nAs an Algorithms / Machine Learning Engineering Intern, you will :\n\nDesign and advance multi‑modality machine learning solutions that integrate diverse data sources to improve model performance.\n\nLead theoretical investigations and data‑driven analyses to assess and validate new model architectures.\n\nDevelop and maintain data‑quality evaluation frameworks for newly introduced modalities.\n\nImplement structured test plans and perform in‑depth analysis of experimental outcomes to guide iterative improvements.\n\nPartner with cross‑functional teams to refine algorithmic approaches and enhance measurement and evaluation capabilities.\n\nRequired Skills :\n\nStudents studying towards a PhD Level Degree in Physics, Data Science, Machine Learning, Computer Science or related field that has worked with\n\nProficiency in Python and Machine Learning frameworks (PyTorch or Tensorflow)\n\nAbility to perform experiments and data / error analysis\n\nStrong organizational skills and ability to follow detailed work plans and test procedures.\n\nPreferred Qualifications :\n\nPublications on using Machine Learning for multi-modalities strongly encouraged\n\nFamiliarity with materials science, engineering, and semiconductor processes are a plus\n\nMinimum Qualifications\n\nStudents studying towards a PhD Level Degree in Physics, Data Science, Machine Learning, Computer Science or related field that has worked with\n\nProficiency in Python and Machine Learning frameworks (PyTorch or Tensorflow)\n\nBase Pay Range : $57.00 - $57.00 per hour based on pursuit of a Ph.D.Primary Location : USA-CA-Milpitas-KLAKLA’s total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to : medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave.\n\nInterns are eligible for some of the benefits listed. Our pay ranges are determined by role, level, and location. The range displayed reflects the pay for this position in the primary location identified in this posting. Actual pay depends on several factors, including state minimum pay wage rates, location, job-related skills, experience, and relevant education level or training. We are committed to complying with all applicable federal and state minimum wage requirements where applicable. If applicable, your recruiter can share more about the specific pay range for your preferred location during the hiring process.\n\nKLA is proud to be an Equal Opportunity Employer. We will ensure that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment.\n\nBe aware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as KLA employees. KLA never asks for any financial compensation to be considered for an interview, to become an employee, or for equipment. Further, KLA does not work with any recruiters or third parties who charge such fees either directly or on behalf of KLA. Please ensure that you have searched for legitimate job postings. KLA follows a recruiting process that involves multiple interviews in person or on video conferencing with our hiring managers. If you are concerned that a communication, an interview, an offer of employment, or that an employee is not legitimate, please send an email to to confirm the person you are communicating with is an employee. We take your privacy very seriously and confidentially handle your information.",
+      "job_apply_link": "https://www.talent.com/view?id=c4daf8184da2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-22T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "LLM / Machine Learning Engineering Summer Intern",
+      "employer_name": "Skyworks",
+      "job_city": "Irvine",
+      "job_state": "California",
+      "job_description": "If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high-performance analog semiconductors whose solutions are powering the wireless networking revolution. Through our broad technology expertise and one of the most extensive product portfolios in the industry, we are Connecting Everyone and Everything, All the Time.\n\nAt Skyworks, you will find a fast-paced environment with a strong focus on global collaboration, minimal layers of management, and the freedom to make meaningful contributions in a setting that encourages creative thinking. We are excited about the opportunity to work with you and glad you want to be part of a team of talented individuals who together are changing the way the world communicates.\n\nRequisition ID : 76909\n\nDescription\n\nOur Machine Learning & Data Science team is expanding its use of large language models, generative AI, and intelligent automation. We are seeking a motivated LLM / Machine Learning Engineering Summer Intern to help build AI‑powered applications—including internal chatbots, LLM-driven tools, and Model Context Protocol (MCP) integrations that streamline engineering and manufacturing workflows.\n\nThis internship provides hands-on experience with modern LLM architectures, data pipelines, chatbot systems, and production AI tooling.\n\nResponsibilities\n\nDevelop and enhance internal chatbots powered by large language models\n\nBuild and connect MCP servers to interface with internal engineering and manufacturing tools.\n\nExperiment with LLMs and transformer architectures for text understanding and automation\n\nSupport development of LLM-driven applications, retrieval workflows, embeddings, and agent tools\n\nPrepare and process structured and unstructured data for model training and inference\n\nAssist with building APIs and model-serving components\n\nCollaborate closely with ML engineers, software developers, and domain experts\n\nCommunicate findings clearly to technical and non‑technical stakeholders\n\nRequired Experience and Skills\n• Currently pursuing a Bachelor’s, Master’s, or PhD in Computer Science, Electrical Engineering, Data Science, Applied Mathematics, or a related field\n• Strong proficiency in Python and ML libraries (PyTorch, TensorFlow, NumPy, Pandas, scikit‑learn)\n• Experience with LangChain, LlamaIndex, or similar LLM frameworks\n• Familiarity with LLMs and transformer models (GPT, LLaMA, Mistral, etc.)\n• Experience or strong interest in chatbots and conversational AI\n• Understanding of data preparation, preprocessing, and model evaluation\n• Strong problem-solving, communication, and teamwork abilities\n• Ability to work in a fast-paced, collaborative environment\n• Will be available from May / June - August 2026\n\nDesired Experience and Skills\n• Experience with :\n\nModel Context Protocol (MCP) tools or agent integrations\n• Vector databases (FAISS, Pinecone, Chroma, Milvus)\n• FastAPI, Flask, or similar backend frameworks\n• Cloud platforms (Azure, AWS, or GCP)\n• Docker or containerized development\n• Exposure to engineering or industrial datasets is a plus\n• Interest in applying LLMs to real-world engineering and manufacturing workflows\n\nThe typical pay range for an Engineering intern across the U.S. is currently USD $26.00 - $47.50 per hour and for a Non-Engineering intern across the U.S. is currently USD $22.50 - $42.00 per hour. Starting pay will depend on level of education, the ultimate job duties and requirements, and work location. Skyworks has different pay ranges for different work locations in the U.S.\n\nSkyworks is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law. Skyworks strives to create an accessible workplace; if you need an accommodation due to a disability, please contact us at accommodations@skyworksinc.com.",
+      "job_apply_link": "https://www.talent.com/view?id=a2590ff31f06&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "skyworks-llm-machine-learning-engineering-summer-intern-irvine"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Audio Machine Learning Research Intern",
+      "employer_name": "Bose Corporation",
+      "job_city": "",
+      "job_state": "Pennsylvania",
+      "job_description": "Bose Corporation is a leader in audio technology and innovation. They are seeking an Audio Machine Learning Research Intern to develop novel AI-powered audio processing algorithms and gain hands-on experience in a collaborative environment.\n\nResponsibilities\n• Most of your time will be devoted to prototyping, implementing and evaluating ML algorithms, curating and developing internal resources, and presenting your findings\n• You will integrate your novel solutions into existing systems and platforms to showcase new (proof of concept) solutions\n• You will be able to contribute to projects, which will be shipped to Bose customers, apply for patents, and/or submit papers to top-tier AI and signal processing conferences (e.g., NeurIPS, ICASSP, Interpeech, etc.)\n\nSkills\n• Pursuing or recently finished a graduate-level degree in ML, Computer Science, Music Technology or a related field\n• Practical knowledge of applied audio ML (TensorFlow/PyTorch, TFLite/ONNX is a plus)\n• Practical knowledge of audio DSP (Python, Matlab and/or C/C++)\n• Hands-on experience in at least one of the following research topics: Audio source separation, Speech enhancement, Microphone array signal processing, Tiny ML, Generative audio modelling\n• Strong communication skills\n• Familiarity with methods for spatial sound synthesis and/or room acoustics simulation/analysis is a plus\n\nBenefits\n• Bonus programs\n• Comprehensive health and welfare benefits\n• A 401(k) plan\n• Exclusive perks designed to support your wellbeing\n• A generous employee discount where you can immerse yourself in our products and experiences\n\nCompany Overview\n• Bose Corporation is a privately held company that designs and manufactures audio equipment. It was founded in 1964, and is headquartered in Framingham, Massachusetts, USA, with a workforce of 5001-10000 employees. Its website is https://www.bose.com/en_us/index.html.\n\nCompany H1B Sponsorship\n• Bose Corporation has a track record of offering H1B sponsorships, with 29 in 2025, 38 in 2024, 35 in 2023, 46 in 2022, 38 in 2021, 68 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/69701cdd82817106e9773557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "bose-audio-machine-learning-research-intern-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI / ML Research and Development Intern",
+      "employer_name": "The Pennsylvania State University",
+      "job_city": "Reston",
+      "job_state": "Virginia",
+      "job_description": "APPLICATION INSTRUCTIONS :\n\nCURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please to complete the. Please do not apply here, apply internally through Workday.\n\nCURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please to complete the Please do not apply here, apply internally through Workday.\n\nIf you are NOT a current employee or student, please click “Apply” and complete .\n\nApproval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see .\n\nJOB DESCRIPTION AND POSITION REQUIREMENTS\n\nWe are seekingseveral undergraduate students with artificial intelligence / machine learning (AI / ML) experience to join Visualization and Decision Support Division of the Applied Research Laboratory (ARL) at Penn State. looking to support our mission to discover, demonstrate, transition, and educate. Interns will have the opportunity to work on cutting-edge AI technologies, participate in a Kaggle-style competition, and develop solutions to problems in computer vision and geospatial understanding.\n\nStudents selected will serve as active, hands-on, contributing members of the research staff at ARL. As part of this position, the candidate may :\n• Work within an agile development environment with other developers, scrum master, and product owners to scope, develop, and deliver quality software solutions.\n• Contribute to the research and development of unique algorithmic solutions for a wide array of sponsor requirements, with a focus on machine learning and artificial intelligence.\n• Contribute to the development, testing, and transition of front and back-end software applications to various IT environments.\n• Support machine learning model development using tools and technologies such as : PyTorch, Pandas, PostgreSQL, AWS, Docker and similar technologies.\n• Collaborate with cross-functional teams to integrate machine learning models into existing systems and develop new ones to meet specific project needs.\n\nStudents studying Computer Science, Electrical Engineering or Mathematics are encouraged to apply.\n\nExperience in machine learning is preferred.\n\nSuccessful candidates will work up to hours / week during the fall and spring semesters and hours / week over the summer. This is a paid internship located at either State College, PA or Reston, VA. Relocation and housing are not provided.\n\nCandidates selected may be subject to a government security investigation. You must be a U.S. citizen to apply. Employment with the Applied Research Laboratory will require successful completion of a pre-employment drug screen.\n\nFOR FURTHER INFORMATION on ARL, visit our web site at\n\nBACKGROUND CHECKS / CLEARANCES\n\nEmployment with the University will require successful completion of background check(s) in accordance with University policies.All positions at ARL require candidates to possess the ability to obtain a government security clearance; you will be notified during the interview process if this position is subject to a government background investigation. You must be a U.S. citizen to apply. Employment with the ARL will require successful completion of a pre-employment drug screen.\n\nCAMPUS SECURITY CRIME STATISTICS\n\nPursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 8, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review .\n\nEEO IS THE LAW\n\nPenn State is an equal opportunity employer and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 3.",
+      "job_apply_link": "https://www.talent.com/view?id=ab623a82b9e7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Internship Program : Machine Learning Research Intern",
+      "employer_name": "Takeda Pharmaceuticals",
+      "job_city": "Cambridge",
+      "job_state": "Massachusetts",
+      "job_description": "Computational Chemistry Group Internship\n\nThe Computational Chemistry Group in the Computational Science and Data Strategy (CSDS) department at Takeda Research focuses on integrating computational methodologies to advance drug discovery and development.\n\nResponsibilities\n\nIn this role, you will :\n• Design, train, and evaluate modern machine learning models applied to chemical and biological problems.\n• Collaborate with the machine learning research team to explore and test new algorithmic ideas.\n• Clean, organize, and analyze chemical and biological datasets for modeling and benchmarking.\n• Build and validate models for (bio)molecular property prediction and optimization.\n• Compare different molecular representations (e.g., SMILES, graphs, fingerprints) in both supervised and unsupervised learning setups.\n• Work closely with colleagues in chemistry, biology, and data science to understand real R&D needs and how ML solutions can be integrated into existing workflows.\n• Present your results regularly to the team, including progress updates, key findings, and next steps.\n\nRequired Qualifications\n• Currently enrolled in a Master's or PhD program in Computer Science, Engineering, Chemistry, Biology, or a related quantitative field.\n• Strong interest in research at the intersection of machine learning and the life sciences.\n• Good foundational knowledge of chemistry and / or biology.\n• Solid communication skills in English, with the ability to explain technical concepts clearly in small group discussions and meetings.\n\nPreferred Qualifications\n• Hands-on Python programming experience.\n• Experience with data science and / or cheminformatics tools, such as Pandas, Scikit-learn, Matplotlib, RDKit, OEChem, or DeepChem.\n• Experience with at least one deep learning framework, such as PyTorch, TensorFlow, or JAX.\n\nInternship Eligibility\n• Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship.\n• Must be currently enrolled in a degree program graduating December 2026 or later.\n• The internship program is 10-12 weeks depending on the two start dates (May 26 - August 14 or June 15 - August 21).\n• The intern must be able to commit to one of these time frames.\n• Able to work full time 40 hours a week during internship dates.\n• Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program.\n\nProgram Highlights\n• Hands-on experience with real projects and responsibilities.\n• Dedicated mentorship program pairing interns with experienced professionals.\n• Networking opportunities with industry professionals and fellow interns.\n• Internship events focused on professional and skills development.\n• Exposure to multiple business areas or departments within a Pharmaceutical Organization.\n\nApplications will be accepted until January 4th.\n\nTakeda Compensation and Benefits Summary\n\nWe understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we strive to be more transparent with our pay practices.\n\nFor Location : Boston, MA\n\nU.S. Hourly Wage Range : $21.00 - $46.00\n\nThe estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate's school year / level to be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job location.\n\nU.S. internship benefits vary by location and may include :\n• Paid sick time\n• Civic Duty paid time off\n• Participation at company volunteer events\n• Participation at company sponsored special events\n• Access to on-site fitness center (where available)\n• Commuter Benefit : To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation (transit) or parking.\n\nEEO Statement\n\nTakeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.",
+      "job_apply_link": "https://www.talent.com/view?id=03c53fd5eee6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "NASA Artificial Intelligence/Machine Learning for NASA Science Internship-PAID",
+      "employer_name": "National Aeronautics and Space Administration (NASA)",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_description": "NASA Artificial Intelligence/Machine Learning for NASA Science Internship-PAID",
+      "job_apply_link": "https://www.fastweb.com/career-planning/internships/190513-nasa-artificial-intelligence-machine-learning-for-nasa-science-internship-paid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-14T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Fastweb",
+      "job_posted_at": "1h",
+      "id": "national-aeronautics-and-space-administration-nasa-nasa-artificial-intelligence-machine-learning-for-nasa-science-internship-paid-washington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Intern, Vehicle Perception",
+      "employer_name": "Woven by Toyota",
+      "job_city": "Palo Alto",
+      "job_state": "California",
+      "job_description": "Woven by Toyota is enabling Toyota’s transformation into a mobility company through human-centric innovation. The Machine Learning Intern will work alongside experienced engineers to advance the perception systems for autonomous driving, gaining hands-on experience and contributing to impactful projects.\n\nResponsibilities\n• Perception ML model R&D by prototyping, validating and iterating on existing and new model architectures\n• Own development of a new model functionality end-to-end. This means initial development, optimization, production platform validation, and fine tuning based on metrics and on road performance\n• Team player and “get things done” mentality\n• Produce a final report and present to the the autonomy team\n• Collaborate closely with other Perception team members as well as with upstream and downstream customer teams\n\nSkills\n• Currently pursuing a Masters or PhD degree with research focus in: Computer Vision, Robotics, Deep Learning\n• Strong programming skills in Python and ML development with PyTorch\n• Proven ability to develop ML models\n• Extensive experience in deep learning\n• Strong communication skills and ability to communicate concepts clearly and precisely\n• Passionate about self driving car technology and its potential for humanity\n\nCompany Overview\n• Woven by Toyota improve the vehicle intelligence software and operation and accelerate the Toyota Mobility Concept. It was founded in 2023, and is headquartered in Tokyo, Tokyo, JPN, with a workforce of 1001-5000 employees. Its website is https://woven.toyota/en.\n\nCompany H1B Sponsorship\n• Woven by Toyota has a track record of offering H1B sponsorships, with 71 in 2025, 34 in 2024, 15 in 2023. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/6961c518f3f4cd132506c9db?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-10T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "woven-by-toyota-machine-learning-intern-vehicle-perception-palo-alto"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Co-op Internship",
+      "employer_name": "Entrust",
+      "job_city": "Shakopee",
+      "job_state": "MN",
+      "job_description": "Join Entrust in this exciting opportunity.",
+      "job_apply_link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op-Internship_R003765",
+      "job_posted_at_datetime_utc": "2025-09-17T01:51:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "entrust-software-engineer-co-op-internship-shakopee"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T03:33:43.423Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
