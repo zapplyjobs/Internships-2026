@@ -1829,5 +1829,178 @@
     "addedAt": "2026-01-27T06:05:09.367Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Cambridge Associates",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Cambridge Associates in this exciting opportunity.",
+      "job_apply_link": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Data-Science-Intern_JR0000130",
+      "job_posted_at_datetime_utc": "2026-01-27T07:34:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cambridge-associates-data-science-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science & AI Engineer Intern",
+      "employer_name": "Cambridge Associates",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Cambridge Associates in this exciting opportunity.",
+      "job_apply_link": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Data-Science---AI-Engineer-Internship-Program_JR0000121",
+      "job_posted_at_datetime_utc": "2026-01-27T07:34:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cambridge-associates-data-science-ai-engineer-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Cambridge Associates",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Cambridge Associates in this exciting opportunity.",
+      "job_apply_link": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Software-Engineering-Intern_JR0000132-1",
+      "job_posted_at_datetime_utc": "2026-01-27T07:34:42.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cambridge-associates-software-engineer-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Digital Engagement Intern",
+      "employer_name": "Cambridge Associates",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Cambridge Associates in this exciting opportunity.",
+      "job_apply_link": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Arlington/Digital-Engagement-Intern_JR0000108",
+      "job_posted_at_datetime_utc": "2026-01-27T07:34:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cambridge-associates-digital-engagement-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Product Development Intern",
+      "employer_name": "T-Mobile",
+      "job_city": "Overland Park",
+      "job_state": "KS",
+      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/XMLNAME-2026-Summer-Product-Development-Internship_REQ343521",
+      "job_posted_at_datetime_utc": "2026-01-27T07:22:58.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "t-mobile-product-development-intern-overland-park"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 Software Engineering Internship",
+      "employer_name": "T-Mobile",
+      "job_city": "Frisco",
+      "job_state": "TX",
+      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ343554",
+      "job_posted_at_datetime_utc": "2026-01-27T07:22:53.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "t-mobile-summer-2026-software-engineering-internship-frisco"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Talent Analytics Intern - Summer 2026",
+      "employer_name": "Cloudflare",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Cloudflare in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7566017",
+      "job_posted_at_datetime_utc": "2026-01-27T07:21:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cloudflare-talent-analytics-intern-summer-2026-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analytics Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Springfield",
+      "job_state": "Massachusetts",
+      "job_description": "A company is looking for a Data Analytics Intern.\n\nKey Responsibilities\n\nAssist in collecting, organizing, and analyzing data from multiple sources\n\nSupport the development of reports, dashboards, and data visualizations\n\nWork with team members to identify data quality issues and help perform data validation\n\nRequired Qualifications\n\nBasic understanding of data analytics fundamentals, such as data types and metrics\n\nHands-on experience with Excel, including functions and pivot tables\n\nStrong interest and passion for data, analytics, and technology\n\nCurrently pursuing a degree in Data Analytics, Information Systems, Computer Science, or Mathematics\n\nWillingness to learn in a collaborative environment",
+      "job_apply_link": "https://www.talent.com/view?id=19b52e4c2ca9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-24T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-data-analytics-intern-springfield"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Apprentice / Intern, Product Management Specialist - Scottsdale AZ",
+      "employer_name": "APL Logistics",
+      "job_city": "Scottsdale",
+      "job_state": "Arizona",
+      "job_description": "Overview :\n\nAPL Logisticsis seeking talented students to join us in our Global Technology organization for a 12-week summer internship in the following functions :\n• Data Science and Business Intelligence\n• Product Management and Business Analysis\n• Software Engineering\n• AI and Automation Engineering\n\nYou will be working with supply chain domain experts on producing scalable technology solutions. As an intern, you will be exposed to front-end and / or back-end programming languages, development frameworks and cloud computing capabilities. You will be part of a global team helping our multi-national customers solve their complex supply chain problems using process, data and technology capabilities.\n\nEmerging talent program has variety of functional domains within our APL Logistics Global Technology team :\n• Data and Analytics\n• Product Management\n• Warehouse Management Systems\n• Transportation Management Systems\n• Customer Experience Management\n• Customer Technology Solutions\n\nTalented individuals will be part of a cross-functional team that are passionate and excited to create impactful supply chain solutions that enable our customers to have exceptional logistics capabilities.\n\nResponsibilities :\n• Be a part of an agile team that is responsible for managing full application development lifecycle and / or modern cloud technologies (IaaS, Paas, SaaS)\n• Develop hands on experience in application development, cloud deployment, product management, cyber security and business intelligence.\n• Work closely with product managers and operations teams on implementing new features and optimizing existing ones for supply chain domains.\n• Establish good working relationships with internal and external customers\n• Participate in building the product strategy and roadmap for logistics and supply chain services such as order management, sustainability, control tower, distribution and fulfillment.\n• Support the existing platforms and programs while applying lean / six sigma methods and look for continuous improvement opportunities to improve productivity, reduce cost and deliver business objectives.\n\nSkills & Qualifications\n\nWe are looking for individuals that continuously demonstrate the following attributes :\n• Teamwork - showing a commitment to teamwork and collaboration\n• Respect - extending dignity and respect to all people\n• Integrity - fostering trust and a positive work environment\n• Innovation - bringing creativity to the workplace\n• Customer Focus - achieving company, department, and personal goals through a strong customer focus\n• Preferred Juniors and Seniors graduating between May 2026 and May 2027 pursuing a Bachelor’s degree\n• Preferred Master’s students in the relevant field graduating between May 2026 and May 2027\n• Computer Science, Engineering, Business, Economy, Supply Chain Management and other related majors\n\nPreferred skill sets :\n• Basic knowledge of database structure, data retrieval / manipulation, and analysis technology stack and language such as SQL, Python and BI tools such as Tableau and PowerBI\n• Basic knowledge of modern architecture frameworks and technologies (SOA, API, RESTful, Microservice and is a plus\n• Digital user experience design.\n• Some experience in data analytical roles with excellent customer facing communication and technical writing skills\n• Basic knowledge of creating and maintaining technical and functional specs, solution design, and wireframes\n• Working knowledge of application development process as well as a competency in issues management and corporate positioning for internal and external audiences a plus.\n\nCandidates must be within 250 miles of an APL Logistics facility or office.\n\nThe hourly wage for this position is $23.50 - $25.00.\n\nCandidates are eligible for the following benefit :\n• one (1) hour of paid sick time for every thirty (30) hrs worked, and up to a maximum of forty-eight (48) hrs each calendar yr.\n\nWork Location Requirement – APL Logistics\n\nEmployees residing within 25 miles of an APL Logistics Hub Office (AZ, FL, MI, NC, OR) are required to follow a designated Hybrid schedule as described below : Fully on-site, or fully remote schedules are determined based on role and business needs.\n• Hybrid employees must report to the office 8 days per month, scheduled by their supervisor.\n• Warehouse roles are typically fully on-site.\n• Candidates outside the 25-mile radius may be considered for fully remote roles, depending on business needs.\n\nRemote work requires full compliance with company policies, including workspace standards, timekeeping, and communication protocols. Commuting costs are not reimbursed. Adherence to this policy is a condition of employment.",
+      "job_apply_link": "https://www.talent.com/view?id=a4277d607bfb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-14T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "apl-logistics-apprentice-intern-product-management-specialist-scottsdale-az-scottsdale"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-27T09:09:03.369Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
