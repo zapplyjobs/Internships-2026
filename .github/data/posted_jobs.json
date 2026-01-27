@@ -1,260 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-27T06:05:26.890Z",
+  "lastUpdated": "2026-01-27T09:09:22.551Z",
   "jobs": [
-    {
-      "id": "stripe-technical-program-manager-risk-chicago-atlanta-remote-in-the-us-2026-01-20-1",
-      "jobId": "stripe-technical-program-manager-risk-chicago-atlanta-remote-in-the-us",
-      "company": "stripe",
-      "title": "Technical Program Manager, Risk",
-      "postedToDiscord": "2026-01-20T06:11:52.766Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7258983",
-      "discordThreadId": "1463053385505964258",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-technical-program-manager-sandboxes-seattle-sf-nyc-2026-01-20-1",
-      "jobId": "stripe-technical-program-manager-sandboxes-seattle-sf-nyc",
-      "company": "stripe",
-      "title": "Technical Program Manager, Sandboxes",
-      "postedToDiscord": "2026-01-20T06:11:56.206Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7417090",
-      "discordThreadId": "1463053400387092541",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-technical-program-manager-security-sf-seattle-remote-in-the-us-2026-01-20-1",
-      "jobId": "stripe-technical-program-manager-security-sf-seattle-remote-in-the-us",
-      "company": "stripe",
-      "title": "Technical Program Manager, Security",
-      "postedToDiscord": "2026-01-20T06:12:02.725Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7264927",
-      "discordThreadId": "1463053427582963784",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-training-engineer-training-certification-us-sf-2026-01-20-1",
-      "jobId": "stripe-training-engineer-training-certification-us-sf",
-      "company": "stripe",
-      "title": "Training Engineer, Training & Certification",
-      "postedToDiscord": "2026-01-20T06:12:04.426Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7521020",
-      "discordThreadId": "1463053441852248157",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-user-escalations-specialist-us-chicago-or-us-seattle-2026-01-20-1",
-      "jobId": "stripe-user-escalations-specialist-us-chicago-or-us-seattle",
-      "company": "stripe",
-      "title": "User Escalations Specialist",
-      "postedToDiscord": "2026-01-20T06:12:07.750Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7258040",
-      "discordThreadId": "1463053449212985458",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-ux-researcher-reporting-and-data-us-canada-2026-01-20-1",
-      "jobId": "stripe-ux-researcher-reporting-and-data-us-canada",
-      "company": "stripe",
-      "title": "UX Researcher, Reporting and Data",
-      "postedToDiscord": "2026-01-20T06:12:09.390Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7409756",
-      "discordThreadId": "1463053463134146615",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-technical-recruiter-fixed-term-contract-us-rem-2026-01-20-1",
-      "jobId": "stripe-technical-recruiter-fixed-term-contract-us-rem",
-      "company": "stripe",
-      "title": "Technical Recruiter (Fixed Term Contract)",
-      "postedToDiscord": "2026-01-20T06:12:14.108Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7179312",
-      "discordThreadId": "1463053482855764039",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-vendor-operations-lead-chi-atl-us-remote-2026-01-20-1",
-      "jobId": "stripe-vendor-operations-lead-chi-atl-us-remote",
-      "company": "stripe",
-      "title": "Vendor Operations Lead",
-      "postedToDiscord": "2026-01-20T06:12:20.927Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7394979",
-      "discordThreadId": "1463053502740697244",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-writer-content-marketing-us-remote-chi-atl-2026-01-20-1",
-      "jobId": "stripe-writer-content-marketing-us-remote-chi-atl",
-      "company": "stripe",
-      "title": "Writer, Content Marketing",
-      "postedToDiscord": "2026-01-20T06:12:27.251Z",
-      "sourceDate": "2026-01-12T16:58:24-05:00",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7343534",
-      "discordThreadId": "1463053531102842964",
-      "instanceNumber": 1
-    },
-    {
-      "id": "spotify-data-engineer-ads-product-tech-new-york-ny-2026-01-20-1",
-      "jobId": "spotify-data-engineer-ads-product-tech-new-york-ny",
-      "company": "spotify",
-      "title": "Data Engineer, Ads Product & Tech",
-      "postedToDiscord": "2026-01-20T06:24:51.350Z",
-      "sourceDate": "2026-01-12T20:02:57.087Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/6698ffb1-ad8f-4173-bf81-884357eaba0d",
-      "discordThreadId": "1463056651991908490",
-      "instanceNumber": 1
-    },
-    {
-      "id": "spotify-legal-counsel-audiobook-licensing-new-york-ny-2026-01-20-1",
-      "jobId": "spotify-legal-counsel-audiobook-licensing-new-york-ny",
-      "company": "spotify",
-      "title": "Legal Counsel, Audiobook Licensing",
-      "postedToDiscord": "2026-01-20T06:24:55.047Z",
-      "sourceDate": "2026-01-12T16:00:28.923Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/f4e84f7b-c89b-40b1-ba39-700ba2ec2719",
-      "discordThreadId": "1463056665959207004",
-      "instanceNumber": 1
-    },
-    {
-      "id": "figma-director-corporate-securities-counsel-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
-      "jobId": "figma-director-corporate-securities-counsel-san-francisco-ca-new-york-ny-united-states",
-      "company": "figma",
-      "title": "Director, Corporate & Securities Counsel",
-      "postedToDiscord": "2026-01-20T06:25:01.374Z",
-      "sourceDate": "2026-01-12T14:14:32-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5752781004?gh_jid=5752781004",
-      "discordThreadId": "1463056694190932222",
-      "instanceNumber": 1
-    },
-    {
-      "id": "figma-senior-manager-enterprise-sales-figma-weave-new-york-united-states-new-york-ny-2026-01-20-1",
-      "jobId": "figma-senior-manager-enterprise-sales-figma-weave-new-york-united-states-new-york-ny",
-      "company": "figma",
-      "title": "Senior Manager, Enterprise Sales - Figma Weave (New York, United States)",
-      "postedToDiscord": "2026-01-20T06:25:04.702Z",
-      "sourceDate": "2026-01-12T13:58:27-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5741899004?gh_jid=5741899004",
-      "discordThreadId": "1463056707977613385",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brex-expansion-account-executive-enterprise-salt-lake-city-utah-united-states-2026-01-20-1",
-      "jobId": "brex-expansion-account-executive-enterprise-salt-lake-city-utah-united-states",
-      "company": "brex",
-      "title": "Expansion Account Executive, Enterprise",
-      "postedToDiscord": "2026-01-20T06:25:08.112Z",
-      "sourceDate": "2026-01-12T11:11:30-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8220031002?gh_jid=8220031002",
-      "discordThreadId": "1463056721609097384",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brex-expansion-account-executive-enterprise-seattle-washington-united-states-2026-01-20-1",
-      "jobId": "brex-expansion-account-executive-enterprise-seattle-washington-united-states",
-      "company": "brex",
-      "title": "Expansion Account Executive, Enterprise",
-      "postedToDiscord": "2026-01-20T06:25:08.123Z",
-      "sourceDate": "2026-01-12T11:11:29-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8220030002?gh_jid=8220030002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "brex-expansion-account-executive-enterprise-san-francisco-california-united-states-2026-01-20-1",
-      "jobId": "brex-expansion-account-executive-enterprise-san-francisco-california-united-states",
-      "company": "brex",
-      "title": "Expansion Account Executive, Enterprise",
-      "postedToDiscord": "2026-01-20T06:25:08.134Z",
-      "sourceDate": "2026-01-12T11:11:27-05:00",
-      "sourceUrl": "https://www.brex.com/careers/8220013002?gh_jid=8220013002",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "figma-business-recruiter-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
-      "jobId": "figma-business-recruiter-san-francisco-ca-new-york-ny-united-states",
-      "company": "figma",
-      "title": "Business Recruiter",
-      "postedToDiscord": "2026-01-20T06:25:14.691Z",
-      "sourceDate": "2026-01-12T13:59:08-05:00",
-      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5754209004?gh_jid=5754209004",
-      "discordThreadId": "1463056749211947168",
-      "instanceNumber": 1
-    },
-    {
-      "id": "datadog-partner-marketing-manager-public-sector-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote-2026-01-20-1",
-      "jobId": "datadog-partner-marketing-manager-public-sector-district-of-columbia-usa-remote-maryland-usa-remote-virginia-usa-remote",
-      "company": "datadog",
-      "title": "Partner Marketing Manager (Public Sector)",
-      "postedToDiscord": "2026-01-20T06:25:21.190Z",
-      "sourceDate": "2026-01-12T12:36:11-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873",
-      "discordThreadId": "1463056776512536774",
-      "instanceNumber": 1
-    },
-    {
-      "id": "datadog-manager-commercial-sales-engineering-amer-east-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
-      "jobId": "datadog-manager-commercial-sales-engineering-amer-east-boston-massachusetts-usa-new-york-new-york-usa",
-      "company": "datadog",
-      "title": "Manager, Commercial Sales Engineering (AMER - East)",
-      "postedToDiscord": "2026-01-20T06:45:12.468Z",
-      "sourceDate": "2026-01-12T10:54:30-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7512337/?gh_jid=7512337",
-      "discordThreadId": "1463061773354668128",
-      "instanceNumber": 1
-    },
-    {
-      "id": "datadog-sales-development-representative-boston-boston-massachusetts-usa-2026-01-20-1",
-      "jobId": "datadog-sales-development-representative-boston-boston-massachusetts-usa",
-      "company": "datadog",
-      "title": "Sales Development Representative (Boston)",
-      "postedToDiscord": "2026-01-20T06:45:15.794Z",
-      "sourceDate": "2026-01-12T09:49:43-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/6741571/?gh_jid=6741571",
-      "discordThreadId": "1463061787674148969",
-      "instanceNumber": 1
-    },
-    {
-      "id": "datadog-engineering-manager-i-cyber-threat-intelligence-boston-massachusetts-usa-denver-colorado-usa-new-york-new-york-usa-2026-01-20-1",
-      "jobId": "datadog-engineering-manager-i-cyber-threat-intelligence-boston-massachusetts-usa-denver-colorado-usa-new-york-new-york-usa",
-      "company": "datadog",
-      "title": "Engineering Manager I - Cyber Threat Intelligence",
-      "postedToDiscord": "2026-01-20T06:45:22.169Z",
-      "sourceDate": "2026-01-12T10:48:35-05:00",
-      "sourceUrl": "https://careers.datadoghq.com/detail/7181025/?gh_jid=7181025",
-      "discordThreadId": "1463061814186082356",
-      "instanceNumber": 1
-    },
-    {
-      "id": "coinbase-associate-manager-compliance-charlotte-nc-2026-01-20-1",
-      "jobId": "coinbase-associate-manager-compliance-charlotte-nc",
-      "company": "coinbase",
-      "title": "Associate Manager, Compliance",
-      "postedToDiscord": "2026-01-20T06:45:26.860Z",
-      "sourceDate": "2026-01-12T10:36:23-05:00",
-      "sourceUrl": "https://www.coinbase.com/careers/positions/7530570?gh_jid=7530570",
-      "discordThreadId": "1463061840790814761",
-      "instanceNumber": 1
-    },
-    {
-      "id": "spotify-account-executive-backstage-new-york-ny-2026-01-20-1",
-      "jobId": "spotify-account-executive-backstage-new-york-ny",
-      "company": "spotify",
-      "title": "Account Executive - Backstage",
-      "postedToDiscord": "2026-01-20T06:45:30.219Z",
-      "sourceDate": "2026-01-12T15:20:23.728Z",
-      "sourceUrl": "https://jobs.lever.co/spotify/d33ef090-2e71-43a2-ac10-cb81dfb13489",
-      "discordThreadId": "1463061848202023101",
-      "instanceNumber": 1
-    },
     {
       "id": "city-of-charlotte-4-yr-undergrad-intern-1-emergency-management-charlotte-2026-01-21-1",
       "jobId": "city-of-charlotte-4-yr-undergrad-intern-1-emergency-management-charlotte",
@@ -2916,9 +2663,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465588434121789480",
+          "messageId": "1465634715955494933",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:05:12.261Z",
+          "postedAt": "2026-01-27T09:09:08.023Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -2940,9 +2687,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1465588441847697430",
+          "messageId": "1465634729192718504",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:05:13.911Z",
+          "postedAt": "2026-01-27T09:09:09.725Z",
           "channelJobNumber": 4
         }
       },
@@ -2958,9 +2705,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465588460919328903",
+          "messageId": "1465634748977123389",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:05:18.595Z",
+          "postedAt": "2026-01-27T09:09:14.575Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -2982,9 +2729,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465588468947357839",
+          "messageId": "1465634756703158346",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:05:20.670Z",
+          "postedAt": "2026-01-27T09:09:16.280Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -3006,9 +2753,9 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1465588476677460070",
+          "messageId": "1465634763913298000",
           "channelType": "category",
-          "postedAt": "2026-01-27T06:05:22.381Z",
+          "postedAt": "2026-01-27T09:09:18.043Z",
           "channelJobNumber": 6
         }
       },
@@ -3016,11 +2763,11 @@
     }
   ],
   "metadata": {
-    "totalJobs": 269,
+    "totalJobs": 246,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-27T06:05:26.890Z",
+      "date": "2026-01-27T09:09:22.551Z",
       "archived": 0
     }
   }
