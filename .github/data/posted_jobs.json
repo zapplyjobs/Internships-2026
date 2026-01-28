@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-28T15:08:56.050Z",
+  "lastUpdated": "2026-01-28T15:40:21.780Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -2300,9 +2300,9 @@
       "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---BM-SRM--25-584-_R10216979-1",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1466087595061543037",
+          "messageId": "1466095454285594687",
           "channelType": "category",
-          "postedAt": "2026-01-28T15:08:41.555Z",
+          "postedAt": "2026-01-28T15:39:55.194Z",
           "channelJobNumber": 3
         },
         "1464303522177614001": {
@@ -2324,9 +2324,9 @@
       "sourceUrl": "https://www.talent.com/view?id=606460916940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303178286760059": {
-          "messageId": "1466087603160748065",
+          "messageId": "1466095461726294081",
           "channelType": "category",
-          "postedAt": "2026-01-28T15:08:43.330Z",
+          "postedAt": "2026-01-28T15:39:57.021Z",
           "channelJobNumber": 4
         }
       },
@@ -2342,9 +2342,9 @@
       "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1466087623159189536",
+          "messageId": "1466095504009068547",
           "channelType": "category",
-          "postedAt": "2026-01-28T15:08:48.084Z",
+          "postedAt": "2026-01-28T15:40:06.995Z",
           "channelJobNumber": 4
         },
         "1464303522177614001": {
@@ -2366,9 +2366,9 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1466087630390300682",
+          "messageId": "1466095511038722125",
           "channelType": "category",
-          "postedAt": "2026-01-28T15:08:49.795Z",
+          "postedAt": "2026-01-28T15:40:08.762Z",
           "channelJobNumber": 5
         },
         "1464303522177614001": {
@@ -2390,21 +2390,126 @@
       "sourceUrl": "https://www.talent.com/view?id=0fa54d32a998&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "discordPosts": {
         "1464303312626122855": {
-          "messageId": "1466087637801636116",
+          "messageId": "1466095518248734763",
           "channelType": "category",
-          "postedAt": "2026-01-28T15:08:51.541Z",
+          "postedAt": "2026-01-28T15:40:10.542Z",
           "channelJobNumber": 6
         }
       },
       "instanceNumber": 1
+    },
+    {
+      "id": "f6edc2deac93e2c8-2026-01-28-1",
+      "jobId": "f6edc2deac93e2c8",
+      "company": "FlightSafety International",
+      "title": "Software Engineering Intern - Summer 2026",
+      "postedToDiscord": "2026-01-28T15:39:58.705Z",
+      "sourceDate": "2026-01-22T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=34fc7e6bdf34&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466095469212991681",
+          "channelType": "category",
+          "postedAt": "2026-01-28T15:39:58.705Z",
+          "channelJobNumber": 5
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Hazelwood",
+      "job_state": "Missouri",
+      "job_description": "Apply for Software Engineering Intern - Summer 2026 in Hazelwood. FlightSafety International is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "9f00ba04822343f0-2026-01-28-1",
+      "jobId": "9f00ba04822343f0",
+      "company": "VirtualVocations",
+      "title": "Software Engineering Apprentice",
+      "postedToDiscord": "2026-01-28T15:40:00.522Z",
+      "sourceDate": "2026-01-23T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=753b1f58d0ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466095476360220763",
+          "channelType": "category",
+          "postedAt": "2026-01-28T15:40:00.522Z",
+          "channelJobNumber": 6
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Newport News",
+      "job_state": "Virginia",
+      "job_description": "Apply for Software Engineering Apprentice in Newport News. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "c090e0f10e437e9f-2026-01-28-1",
+      "jobId": "c090e0f10e437e9f",
+      "company": "Tri-State Generation and Transmission Association",
+      "title": "Energy Management Intern",
+      "postedToDiscord": "2026-01-28T15:40:02.200Z",
+      "sourceDate": "2026-01-21T20:40:04.000Z",
+      "sourceUrl": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/556",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466095483855311075",
+          "channelType": "category",
+          "postedAt": "2026-01-28T15:40:02.200Z",
+          "channelJobNumber": 7
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Westminster",
+      "job_state": "CO",
+      "job_description": "Tri-State is an electric utility. We have an Energy Management Intern opportunity for 2026."
+    },
+    {
+      "id": "a8f934d8365127ac-2026-01-28-1",
+      "jobId": "a8f934d8365127ac",
+      "company": "HNTB",
+      "title": "Transportation Planning Intern",
+      "postedToDiscord": "2026-01-28T15:40:12.521Z",
+      "sourceDate": "2026-01-25T23:35:32.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Houston-TX-Fannin/Transportation-Planning-Intern--Summer-2026_R-28878-1",
+      "discordPosts": {
+        "1464303312626122855": {
+          "messageId": "1466095526427496644",
+          "channelType": "category",
+          "postedAt": "2026-01-28T15:40:12.521Z",
+          "channelJobNumber": 7
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Houston",
+      "job_state": "TX",
+      "job_description": "What We're Looking ForOur Houston, TX office is hiring a Transportation Planning Intern for Summer 2026.Relocation and housing are NOT provided for this position. At HNTB, you can create a career that is meaningful to you while building communities that matter to all of us. For more than a century, we have been delivering solutions for some of the largest, most complex infrastructure projects across the country. With our historic growth, it is an exciting time to join our team of employee-owners. This opportunity entails being under close supervision, assist departments by performing basic assignments in the areas including, but not limited to Science, Planning, Technology.  This position is usually on a part-time, temporary, or co-op basis.  What You’ll Do:Assists project team members with various support tasks.Conducts basic research and data collection.Maintains records, collections and files related to specific projects.Assist in the development of graphics, presentation materials and reports.Performs other duties assigned.What You’ll Need:Enrolled in a related undergraduate or graduate programWhat We Prefer:Strong interest in transit and transportation planning workGIS experience preferredAdditional InformationClick here for benefits information: HNTB Total RewardsClick here to learn more about Equal Opportunity Employer/Disability/VeteranVisa sponsorship is not available for this position.#AB#TransitAndRail, #TransportationPlanning.Locations:Houston, TX (Fannin)...................NOTICE TO THIRD-PARTY AGENCIES:HNTB does not accept unsolicited resumes from recruiters or agencies.  Any staffing/employment agency, person or entity that submits an unsolicited resume to this site does so with the understanding that the applicant's resume will become the property of HNTB.  HNTB will have the right to hire that applicant at its discretion and without any fee owed to the submitting staffing/employment agency, person or entity. Staffing/employment agencies who have fee agreements with HNTB must submit applicants to the designated HNTB recruiter to be eligible for placement fees."
+    },
+    {
+      "id": "c67b2dc01bec8540-2026-01-28-1",
+      "jobId": "c67b2dc01bec8540",
+      "company": "Visa",
+      "title": "Software Engineer, Intern Summer 2026, Ashburn",
+      "postedToDiscord": "2026-01-28T15:40:17.270Z",
+      "sourceDate": "2026-01-15T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=8253f215d42b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466095546929381622",
+          "channelType": "category",
+          "postedAt": "2026-01-28T15:40:17.270Z",
+          "channelJobNumber": 1
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": null,
+      "job_state": "Virginia",
+      "job_description": "As a Software Engineer Intern you will be placed in one of the technologyorganizations at Visa and specific assignments will depend on upon your skills sets interest and team needs.\n\nWe are seeking Software Engineer interns across our Technology organization. As an intern you will take on meaningful work engage in out-of-the-box problem solving and participate in global case challenges and impactful initiatives. You will get the chance to work with multiple teams systems and products through a wide variety of data sources. From technology to business we are looking for people who can innovate collaborate and bring Visa into the next level of a rapidly evolving digital marketplace.\n\nDuring the internship you will work on one or more hands-on projects with the team. Our summer internship also equips you with social and professional networking events and developmental workshops designed to provide you the resources and training to have an impactful summer.\n\nSome examples of previous summer intern projects :\n\nSelf-serve deployment of Kafka clusters using Docker and Kubernetes with auto scale up capability\n\nCreating a natural language Chatbot for searching CDISI knowledge base\n\nDeveloping a prototype that would automate payments at gas stations\n\nAutomating process for removing duplicate compromised account numbers using low latency algorithms\n\nImproving the usage of Visa Checkout across all mobile and web devices\n\nDeveloping testing tools to identify errors in internal systems\n\nCreating visual monitoring tools to uncover transaction errors\n\nAnalyze design code and unit test software solutions and enhancements for an application that applies business logic and routes digital currency of global transactions\n\nDevelop a robust app factory to be used to create hundreds of mobile banking applications for iOS and Android with a single click\n\nImplementation of a single development lifecycle from Analysis and Design Build QA Security and Deployment. Begin to learn best and secure coding practices and standards\n\nQualifications : Basic Qualifications\n\nPursuing a Bachelors degree in Computer Science Computer Engineering CIS / MIS Cybersecurity or a related field graduating December 2026-August 2027.\n\nStrong communications skills specifically the absence of repeated grammatical or typographical errors clear and concise written and verbal communications that demonstrate professional judgment.\n\nPreferred Qualifications\n\nProficiency in at least one programming language or technology including but not limited to Java C / C C# .NET python Javascript HTML\n\nExperience with Write utilities / automation tools using Selenium Java REST Python Groovy and more\n\nFamiliarity with software testing principles\n\nSolid understanding of software engineering concepts and methodologies\n\nDocument process designs test results and analysis\n\nLead root cause analysis and track defect resolution to completion\n\nReview and provide feedback on development code test designs and test cases\n\nStrong ability to collaborate\n\nHighly driven resourceful and results oriented\n\nGood team player and excellent interpersonal skills\n\nGood analytical and problem-solving skills\n\nDemonstrated ability to lead and navigate through ambiguity\n\nAdditional Information :\n\nU.S. APPLICANTS ONLY : The estimated hourly range for a new hire into this position is $35-$40 / hr which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge skills experience and addition this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical Dental Vision 401 (k) FSA / HSA Life Insurance Paid Time Off and Wellness Program.\n\nWork Authorization : Visa will not sponsor applicants for work visas in connection with this position. Future sponsorship will not be considered.\n\nWork Hours : Varies upon the needs of the department.\n\nThis is a hybrid position : Expectation of days in office will be confirmed by your hiring manager.\n\nTravel Requirements : This position requires travel 5-10% of the time.\n\nMental / Physical Requirements : This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk communicate in person and by telephone frequently operate standard office equipment such as telephones and computers.\n\nVisa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race color religion sex national origin sexual orientation gender identity disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.\n\nVisa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law including the requirements of Article 49 of the San Francisco Police Code.\n\nRemote Work : No\n\nEmployment Type : Full-time\n\nKey Skills\n\nMicrosoft Office,Public Relations,Google Docs,Data Collection,MailChimp,Microsoft Word,Dermal Fillers,Microsoft Powerpoint,Research Experience,Microsoft Excel,Adobe Photoshop,Writing Skills\n\nExperience : years\n\nVacancy : 1"
     }
   ],
   "metadata": {
-    "totalJobs": 213,
+    "totalJobs": 218,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-28T15:08:56.050Z",
+      "date": "2026-01-28T15:40:21.780Z",
       "archived": 0
     }
   }

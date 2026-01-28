@@ -1,66 +1,109 @@
 {
-  "generated": "2026-01-28T15:08:58.200Z",
+  "generated": "2026-01-28T15:40:23.933Z",
   "period": "last_7_days",
-  "period_start": "2026-01-21T15:08:58.200Z",
-  "period_end": "2026-01-28T15:08:58.200Z",
+  "period_start": "2026-01-21T15:40:23.933Z",
+  "period_end": "2026-01-28T15:40:23.933Z",
   "summary": {
-    "total_jobs_posted": 5,
-    "unique_jobs": 5,
+    "total_jobs_posted": 10,
+    "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 2
+    "channels_active": 3
   },
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 2,
+      "count": 5,
       "jobs": [
         "northrop-grumman-software-engineer-huntsville",
-        "zoox-technical-product-management-intern-agentic-ai-san-mateo"
+        "zoox-technical-product-management-intern-agentic-ai-san-mateo",
+        "flightsafety-international-software-engineering-intern-summer-2026-hazelwood",
+        "virtualvocations-software-engineering-apprentice-newport-news",
+        "tri-state-generation-and-transmission-association-energy-management-intern-westminster"
       ],
       "recent_jobs": [
         {
           "id": "northrop-grumman-software-engineer-huntsville",
           "title": "Software Engineer",
           "company": "Northrop Grumman",
-          "posted_at": "2026-01-28T15:08:41.563Z"
+          "posted_at": "2026-01-28T15:39:55.201Z"
         },
         {
           "id": "zoox-technical-product-management-intern-agentic-ai-san-mateo",
           "title": "Technical Product Management Intern, Agentic AI",
           "company": "Zoox",
-          "posted_at": "2026-01-28T15:08:43.335Z"
+          "posted_at": "2026-01-28T15:39:57.025Z"
+        },
+        {
+          "id": "flightsafety-international-software-engineering-intern-summer-2026-hazelwood",
+          "title": "Software Engineering Intern - Summer 2026",
+          "company": "FlightSafety International",
+          "posted_at": "2026-01-28T15:39:58.710Z"
+        },
+        {
+          "id": "virtualvocations-software-engineering-apprentice-newport-news",
+          "title": "Software Engineering Apprentice",
+          "company": "VirtualVocations",
+          "posted_at": "2026-01-28T15:40:00.527Z"
+        },
+        {
+          "id": "tri-state-generation-and-transmission-association-energy-management-intern-westminster",
+          "title": "Energy Management Intern",
+          "company": "Tri-State Generation and Transmission Association",
+          "posted_at": "2026-01-28T15:40:02.204Z"
         }
       ]
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 3,
+      "count": 4,
       "jobs": [
         "franklin-templeton-technology-order-management-execution-compliance-stamford",
         "micron-technology-intern-it-mfg-boise",
-        "danaher-product-management-marketing-intern-marlborough"
+        "danaher-product-management-marketing-intern-marlborough",
+        "hntb-transportation-planning-intern-houston"
       ],
       "recent_jobs": [
         {
           "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
           "title": "Technology Order Management Execution & Compliance",
           "company": "Franklin Templeton",
-          "posted_at": "2026-01-28T15:08:48.092Z"
+          "posted_at": "2026-01-28T15:40:06.999Z"
         },
         {
           "id": "micron-technology-intern-it-mfg-boise",
           "title": "Intern – IT MFG",
           "company": "Micron Technology",
-          "posted_at": "2026-01-28T15:08:49.800Z"
+          "posted_at": "2026-01-28T15:40:08.766Z"
         },
         {
           "id": "danaher-product-management-marketing-intern-marlborough",
           "title": "Product Management / Marketing Intern",
           "company": "Danaher",
-          "posted_at": "2026-01-28T15:08:51.546Z"
+          "posted_at": "2026-01-28T15:40:10.546Z"
+        },
+        {
+          "id": "hntb-transportation-planning-intern-houston",
+          "title": "Transportation Planning Intern",
+          "company": "HNTB",
+          "posted_at": "2026-01-28T15:40:12.526Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "visa-software-engineer-intern-summer-2026-ashburn-"
+      ],
+      "recent_jobs": [
+        {
+          "id": "visa-software-engineer-intern-summer-2026-ashburn-",
+          "title": "Software Engineer, Intern Summer 2026, Ashburn",
+          "company": "Visa",
+          "posted_at": "2026-01-28T15:40:17.275Z"
         }
       ]
     }

@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/556",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Tri-State is an electric utility. We have an Energy Management Intern opportunity for 2026.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/556",
+      "fetchedAt": "2026-01-28T15:38:31.176Z"
+    }
+  },
+  "cachedAt": 1769614711176
+}
