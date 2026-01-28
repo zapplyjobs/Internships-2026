@@ -2923,5 +2923,236 @@
     "addedAt": "2026-01-28T00:09:49.885Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Geology Greenfields Exploration - North America",
+      "employer_name": "AngloGold Ashanti",
+      "job_city": "Greenwood Village",
+      "job_state": "CO",
+      "job_description": "Join AngloGold Ashanti in this exciting opportunity.",
+      "job_apply_link": "https://careers.anglogoldashanti.com/job/Greenwood-Village-Intern,-Geology-Greenfields-Exploration-North-America-CO-80111/1287784801/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-28T02:15:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "anglogold-ashanti-intern-geology-greenfields-exploration-north-america-greenwood-village"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Project Intern - Security-Data - 2026 Start",
+      "employer_name": "ByteDance",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
+      "job_posted_at_datetime_utc": "2026-01-28T02:12:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "bytedance-software-engineer-project-intern-security-data-2026-start-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
+      "employer_name": "ByteDance",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7600168555733027125/detail",
+      "job_posted_at_datetime_utc": "2026-01-28T02:11:51.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "bytedance-security-software-engineer-project-intern-network-security-2026-start-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Validation & Verification",
+      "employer_name": "Field AI",
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Join Field AI in this exciting opportunity.",
+      "job_apply_link": "https://jobs.lever.co/field-ai/29a99694-254b-4b18-9d28-cb70906f06d6/apply",
+      "job_posted_at_datetime_utc": "2026-01-28T02:07:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "field-ai-software-engineer-intern-validation-verification-irvine"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – IT Software Engineer",
+      "employer_name": "Nelnet",
+      "job_city": "Draper",
+      "job_state": "UT",
+      "job_description": "Join Nelnet in this exciting opportunity.",
+      "job_apply_link": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Intern---IT-Software-Engineer_R22252",
+      "job_posted_at_datetime_utc": "2026-01-28T00:07:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "nelnet-intern-it-software-engineer-draper"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Instrument Control Software Intern - Instrument Control Software",
+      "employer_name": "Roche",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join Roche in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2026-Summer-Intern---Instrument-Control-Software_202601-101724",
+      "job_posted_at_datetime_utc": "2026-01-28T00:01:34.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "roche-instrument-control-software-intern-instrument-control-software-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "PGIM Real Estate - Data Management & Innovation MBA Intern",
+      "employer_name": "Prudential Financial",
+      "job_city": "Newark",
+      "job_state": "NJ",
+      "job_description": "Join Prudential Financial in this exciting opportunity.",
+      "job_apply_link": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2026-Real-Estate--Data-Management---Innovation-MBA-Internship_R-123342-2",
+      "job_posted_at_datetime_utc": "2026-01-27T23:59:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "prudential-financial-pgim-real-estate-data-management-innovation-mba-intern-newark"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analyst Intern - Comcast Spectacor Gaming - Spring 2026",
+      "employer_name": "Comcast",
+      "job_city": "North Hollywood",
+      "job_state": "LA",
+      "job_description": "Join Comcast in this exciting opportunity.",
+      "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CA---Universal-City-Bldg-1440-10-Univ-City-Plaza/Data-Analyst-Intern--Comcast-Spectacor-Gaming--Spring-2026-_R428877",
+      "job_posted_at_datetime_utc": "2026-01-27T23:58:13.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "comcast-data-analyst-intern-comcast-spectacor-gaming-spring-2026-north-hollywood"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern - Angular/C#",
+      "employer_name": "Rocket Mortgage",
+      "job_city": "Detroit",
+      "job_state": "MI",
+      "job_description": "Join Rocket Mortgage in this exciting opportunity.",
+      "job_apply_link": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineering-Intern--Angular-C-----Summer-2026_R-081597",
+      "job_posted_at_datetime_utc": "2026-01-27T23:57:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "rocket-mortgage-software-engineering-intern-angular-c-detroit"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Agentic AI & Data Science Internship",
+      "employer_name": "QTC Management, inc",
+      "job_city": "Burlingame",
+      "job_state": "California",
+      "job_description": "Do you crave a career that truly makes an impact in people’s lives? Do you thrive on problem-solving and finding solutions? Join a dedicated, tight-knit team that creates an immediate and meaningful impact every day.\n\nLeidos QTC Health Services is seeking an Agentic AI & Data Science Intern to support our Innovations Ops Improvement Team. We seek a college Jr / Sr student available full-time during summer break. In this role, you will be assigned tasks that are relevant and necessary to the successful execution of the LQTC Information Technology roadmap. Leidos QTC will provide you with real world experience and technical and career mentorship throughout the internship. As a member of the Innovation & Data Team, this position may support a broad set of IT solutions that are key enablers to the LQTC business mission. This is remote role.\n\nPrimary Responsibilities :\n\nSupport to IT solutions throughout the software lifecycle, tailoring an intern’s position to their individual strengths and experience to include :\n• Implementing software solutions\n• Tailoring and configuring commercial solutions to meet business needs\n• Agentic AI development\n• Data structures and data tables\n• Data mining\n• Query development and execution\n• Report generation using Tableau\n• Responding to user questions\n• Integrating and presenting data\n• Experience with data-gathering and research preferred\n• Clinical experience or knowledge of medical practices and procedures preferred\n\nRequired Qualifications :\n• Current Jr / Sr pursuing a bachelor's degree in Computer Science, Information Technology, Mathematics or related field and typically maintain a Minimum GPA\n• Ability to work full time as a summer intern\n• Prior experience or classroom training related to software engineering, cybersecurity, technology, data science, business management, project management or IT support\n\nPreferred Qualifications :\n• Quick learner, able to adapt to changing technologies and priorities\n• The ideal candidate will have demonstrated leadership ability through community or campus involvement\n• Experience or coursework in Agentic AI software, such as NN, Ollma, CrewAI, or other LLM-related software\n• Completed at least one college-level statistics course preferred\n\nAbout Leidos QTC Health Services\n\nLeidos QTC Health Services collaborates closely with government and non-government customers to address current and future program needs within the health services domain. We specialize in disability-focused medical examinations, independent medical exams and review services, occupational health services, diagnostic testing, and case management solutions. As innovators, we focus on advancing technologies that improve service delivery, with a particular emphasis on enhancing accessibility for examinees in rural communities. With a proven track record of continuous improvement and steady growth, we now handle over million appointments annually. Visit for more information.\n\nCompensation and Benefits\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. As a result, we offer meaningful and engaging careers to support you and your career goals, all while nurturing a healthy work-life balance. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement.\n\nThis role may fall under the Service Contract Act (SCA), a federal law which provides for a Department of Labor-prescribed minimum prevailing rate of pay and certain benefit levels. Where appropriate, Company-provided benefit plans such as comprehensive leave, holiday, medical, dental, life, accident, disability coverages, retirement plan contributions, and other health and welfare benefits and payments are utilized to meet these obligations.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos QTC Health Services will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
+      "job_apply_link": "https://www.talent.com/view?id=4626221918d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "qtc-management-agentic-ai-data-science-internship-burlingame"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Internship - Data Science",
+      "employer_name": "Infineon Technologies",
+      "job_city": "Lexington",
+      "job_state": "Kentucky",
+      "job_description": "Infineon Technologies is a global leader in semiconductor solutions, focusing on innovation and customer success in power systems and IoT. They are seeking an intern in Data Science to perform data analysis, build machine learning models, and collaborate with engineering teams to improve data architecture.\n\nResponsibilities\n• Data Analysis: Interpret and analyze structured and unstructured data using statistical methods\n• Data Preparation: Clean, transform, and organize large datasets for analysis\n• Personalization Modeling: Build machine learning models to optimize customer web journeys\n• Tag Management: Assess data collection processes via web tag managers and recommend improvements\n• Experimentation: Conduct and analyze A/B tests to identify actionable insights\n• KPI Optimization: Apply statistical tools and ML techniques to improve DCI team metrics\n• Collaboration: Work with engineering teams to define long-term data architecture strategies\n\nSkills\n• Currently pursuing Bachelor's or Master's in Computer Science, Mathematics, or Statistics\n• Strong knowledge of Python, Java, and SQL\n• Experience with Tableau or other data visualization platforms\n• Familiarity with model development and evaluation\n• Proficient in hypothesis testing and exploratory data analysis\n• Able to work with both structured and unstructured datasets\n• Comfortable working with cross-functional teams\n\nBenefits\n• All employees will be eligible to participate in an incentive plan\n\nCompany Overview\n• Infineon Technologies offers semiconductor solutions, microcontrollers, LED drivers, sensors and Automotive & Power Management ICs. It was founded in 1999, and is headquartered in Neubiberg, Bayern, DEU, with a workforce of 10001+ employees. Its website is https://www.infineon.com.",
+      "job_apply_link": "https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "infineon-internship-data-science-lexington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Cvent",
+      "job_city": "Tysons",
+      "job_state": "Virginia",
+      "job_description": "Overview :\n\nOur Culture and Impact\n\nCvent is a leading meetings, events, and hospitality technology provider with more than 5,000+ employees and 24,000+ customers worldwide, including 60% of the Fortune 500. Founded in 1999, Cvent delivers a comprehensive event marketing and management platform for marketers and event professionals and offers software solutions to hotels, special event venues and destinations to help them grow their group / MICE and corporate travel business. Our technology brings millions of people together at events around the world. In short, we’re transforming the meetings and events industry through innovative technology that powers the human connection.\n\nCvent's strength lies in its people, fostering a culture where everyone is encouraged to think like entrepreneurs, taking risks and making decisions confidently. We value diverse perspectives and celebrate differences, working together with colleagues and clients to build strong connections.\n\nAI at Cvent : Leading the Future\n\nAre you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation.\n\nThroughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you.\n\nInternships at Cvent\n\nCvent’s paid internship gives students hands-on experience and direct mentorship that supports their professional development and career growth after college graduation. Interns are exposed to the inner workings of an industry-leading software company while taking ownership of projects that contribute to the company’s continued success. Interns may receive an offer for full-time employment after graduation.\n\nIn This Role, You Will :\n\nWork on real projects using Generative AI, Machine Learning, and Data Science to build models and LLM-powered features in CventIQ, Cvent’s suite of AI products\n\nIdeal candidates :\n• Will have a strong interest in AI research and a desire to build a career in this field.\n• Bring curiousity, a strong willingess to learn, and the ability to collaborate in a team environment.\n• Skilled in Python, SQL, Machine Learning, data analysis, analytical thinking and solid communication\n\nExample projects :\n• Developing recommendations to personalize event planning and boost attendee engagement\n• Build various ML / statistical models\n• Create AI accelerators\n\nHere's What You Need :\n• Full-time college student with plans to graduate in May 2027 (summer between Junior & Senior year)\n• Ability to work 40 hours per week for 10 weeks.\n• Ability to commute to our headquarters in Tysons Corner, VA.\n• Strong time management, conflict resolution, and analytical skills.\n• Demonstrate enthusiasm and a drive for continual improvement.\n\nMost importantly, a successful candidate will be passionate about technology. Keeping up with the latest advancements in the industry; spending time creating, building, and exploring with technical projects.\n\nJoin us to make real impact, learn from experienced data scientists and AI experts, and grow your career.\n\nWe are not able to offer sponsorship for this position.\n\nPhysical Demands\n\nWork on real projects using Generative AI, Machine Learning, and Data Science to build models and LLM-powered features in CventIQ, Cvent’s suite of AI products\n\nIdeal candidates :\n• Will have a strong interest in AI research and a desire to build a career in this field.\n• Bring curiousity, a strong willingess to learn, and the ability to collaborate in a team environment.\n• Skilled in Python, SQL, Machine Learning, data analysis, analytical thinking and solid communication\n\nExample projects :\n• Developing recommendations to personalize event planning and boost attendee engagement\n• Build various ML / statistical models\n• Create AI accelerators\n• Full-time college student with plans to graduate in May 2027 (summer between Junior & Senior year)\n• Ability to work 40 hours per week for 10 weeks.\n• Ability to commute to our headquarters in Tysons Corner, VA.\n• Strong time management, conflict resolution, and analytical skills.\n• Demonstrate enthusiasm and a drive for continual improvement.\n\nMost importantly, a successful candidate will be passionate about technology. Keeping up with the latest advancements in the industry; spending time creating, building, and exploring with technical projects.\n\nJoin us to make real impact, learn from experienced data scientists and AI experts, and grow your career.\n\nWe are not able to offer sponsorship for this position.\n\nPhysical Demands",
+      "job_apply_link": "https://www.talent.com/view?id=d43e8102b37b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-17T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "cvent-data-science-intern-tysons"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T02:56:53.443Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
