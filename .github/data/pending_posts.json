@@ -2276,5 +2276,652 @@
     "addedAt": "2026-01-27T18:06:35.638Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Intern - Raytheon Software Developer",
+      "employer_name": "RTX",
+      "job_city": "Tucson",
+      "job_state": "AZ",
+      "job_description": "Join RTX in this exciting opportunity.",
+      "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Intern---Raytheon-Software-Developer---Onsite_01819682",
+      "job_posted_at_datetime_utc": "2026-01-27T23:56:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "rtx-2026-intern-raytheon-software-developer-tucson"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Intern",
+      "employer_name": "Cadence Design Systems",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Cadence Design Systems in this exciting opportunity.",
+      "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Intern_R52911-1",
+      "job_posted_at_datetime_utc": "2026-01-27T23:54:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cadence-design-software-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Pricing Strategy & Optimization Intern",
+      "employer_name": "GoodRx",
+      "job_city": "Santa Monica",
+      "job_state": "CA",
+      "job_description": "Join GoodRx in this exciting opportunity.",
+      "job_apply_link": "https://goodrx.wd1.myworkdayjobs.com/Careers/job/Santa-Monica-CA/Pricing-Strategy---Optimization-Intern_JR100539",
+      "job_posted_at_datetime_utc": "2026-01-27T23:51:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "goodrx-pricing-strategy-optimization-intern-santa-monica"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Simulation",
+      "employer_name": "Waymo",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Join Waymo in this exciting opportunity.",
+      "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7565624",
+      "job_posted_at_datetime_utc": "2026-01-27T23:43:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "waymo-intern-simulation-mountain-view"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "McAfee",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join McAfee in this exciting opportunity.",
+      "job_apply_link": "https://mcafee.wd1.myworkdayjobs.com/external/job/US-California-San-Jose/Data-Science-Intern_JR0032270",
+      "job_posted_at_datetime_utc": "2026-01-27T23:39:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "mcafee-data-science-intern-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Web Tools",
+      "employer_name": "HARMAN International",
+      "job_city": "Novi",
+      "job_state": "MI",
+      "job_description": "Join HARMAN International in this exciting opportunity.",
+      "job_apply_link": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Web-Tools_R-51289-2026",
+      "job_posted_at_datetime_utc": "2026-01-27T23:38:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "harman-international-intern-web-tools-novi"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Customer Engineering",
+      "employer_name": "HARMAN International",
+      "job_city": "Novi",
+      "job_state": "MI",
+      "job_description": "Join HARMAN International in this exciting opportunity.",
+      "job_apply_link": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Customer-Engineering_R-51288-2026",
+      "job_posted_at_datetime_utc": "2026-01-27T23:38:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "harman-international-intern-customer-engineering-novi"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern-IT – AI Team - Data",
+      "employer_name": "AskBio",
+      "job_city": "Durham",
+      "job_state": "NC",
+      "job_description": "Join AskBio in this exciting opportunity.",
+      "job_apply_link": "https://askbio.wd12.myworkdayjobs.com/AskBio/job/Durham-NC/Intern--IT--AI-Team--Data_R26-27",
+      "job_posted_at_datetime_utc": "2026-01-27T23:37:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "askbio-intern-it-ai-team-data-durham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern-Data Management",
+      "employer_name": "AskBio",
+      "job_city": "Durham",
+      "job_state": "NC",
+      "job_description": "Join AskBio in this exciting opportunity.",
+      "job_apply_link": "https://askbio.wd12.myworkdayjobs.com/AskBio/job/Durham-NC/Intern-Data-Management_R26-47",
+      "job_posted_at_datetime_utc": "2026-01-27T23:36:59.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "askbio-intern-data-management-durham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 Software Engineering Intern",
+      "employer_name": "T-Mobile",
+      "job_city": "Frisco",
+      "job_state": "TX",
+      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Intern_REQ342907",
+      "job_posted_at_datetime_utc": "2026-01-27T23:35:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "t-mobile-summer-2026-software-engineering-intern-frisco"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "T-Mobile",
+      "job_city": "Frisco",
+      "job_state": "TX",
+      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Intern_REQ343217",
+      "job_posted_at_datetime_utc": "2026-01-27T23:34:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "t-mobile-software-engineer-intern-frisco"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "KP-SAM Code Development Engineering Intern - Summer 2026",
+      "employer_name": "Kairos Power",
+      "job_city": "Alameda",
+      "job_state": "CA",
+      "job_description": "Join Kairos Power in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/kairospower/jobs/5763261004",
+      "job_posted_at_datetime_utc": "2026-01-27T23:33:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Benefits Analytics Intern",
+      "employer_name": "Hilb Group",
+      "job_city": "Sparks",
+      "job_state": "MD",
+      "job_description": "Join Hilb Group in this exciting opportunity.",
+      "job_apply_link": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100493",
+      "job_posted_at_datetime_utc": "2026-01-27T23:27:41.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "hilb-benefits-analytics-intern-sparks"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Intern - Speech Research - Summer/Fall",
+      "employer_name": "Samsung Research America",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Join Samsung Research America in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8390139002",
+      "job_posted_at_datetime_utc": "2026-01-27T23:27:10.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Calix",
+      "job_city": "Minneapolis",
+      "job_state": "MN",
+      "job_description": "Join Calix in this exciting opportunity.",
+      "job_apply_link": "https://calix.wd1.myworkdayjobs.com/External/job/Minneapolis/Software-Engineering-Intern--PON_R-11392",
+      "job_posted_at_datetime_utc": "2026-01-27T23:25:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "calix-software-engineer-intern-minneapolis"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "IT Data Science Intern - IT Data Science",
+      "employer_name": "Virtua Health",
+      "job_city": "Mt Laurel Township",
+      "job_state": "NJ",
+      "job_description": "Join Virtua Health in this exciting opportunity.",
+      "job_apply_link": "https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Data-Science-Intern_R1059091",
+      "job_posted_at_datetime_utc": "2026-01-27T23:25:05.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "virtua-health-it-data-science-intern-it-data-science-mt-laurel-township"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern",
+      "employer_name": "Michelin",
+      "job_city": "Monroe",
+      "job_state": "GA",
+      "job_description": "Join Michelin in this exciting opportunity.",
+      "job_apply_link": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/COVINGTON-GA/Summer-2026-Internship-Covington--GA_R-2025034305",
+      "job_posted_at_datetime_utc": "2026-01-27T23:24:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "michelin-intern-monroe"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Full Stack Software Intern",
+      "employer_name": "KLA",
+      "job_city": "Milpitas",
+      "job_state": "CA",
+      "job_description": "Join KLA in this exciting opportunity.",
+      "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Full-Stack-Software-Intern_2633729",
+      "job_posted_at_datetime_utc": "2026-01-27T23:23:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kla-full-stack-software-intern-milpitas"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Clinical-Pharmacology---Real-World-Treatment-Trajectory-Modeling_202601-101504",
+      "job_posted_at_datetime_utc": "2026-01-27T23:23:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "genentech-intern-clinical-pharmacology-real-world-treatment-trajectory-modeling-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Informatics",
+      "employer_name": "TriNet",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Join TriNet in this exciting opportunity.",
+      "job_apply_link": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003065",
+      "job_posted_at_datetime_utc": "2026-01-27T23:22:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "trinet-intern-informatics-atlanta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Developer Bachelor's Intern",
+      "employer_name": "Kaiser Permanente",
+      "job_city": "Lake Oswego",
+      "job_state": "OR",
+      "job_description": "Join Kaiser Permanente in this exciting opportunity.",
+      "job_apply_link": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404942",
+      "job_posted_at_datetime_utc": "2026-01-27T23:22:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kaiser-permanente-developer-bachelor-s-intern-lake-oswego"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Scientist Intern - Embodied AI",
+      "employer_name": "Field AI",
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Join Field AI in this exciting opportunity.",
+      "job_apply_link": "https://jobs.lever.co/field-ai/1beb8a30-5f4e-4c6a-9499-037ce2a32dd4/apply",
+      "job_posted_at_datetime_utc": "2026-01-27T23:21:10.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "field-ai-research-scientist-intern-embodied-ai-irvine"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Scientist Intern - Vod Data - 2026 Summer",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7593125551477950725",
+      "job_posted_at_datetime_utc": "2026-01-27T23:17:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Tech Program Intern 3 - Full Stack Engineering",
+      "employer_name": "XPO",
+      "job_city": "Charlotte",
+      "job_state": "NC",
+      "job_description": "Join XPO in this exciting opportunity.",
+      "job_apply_link": "https://jobs.xpo.com/job/Charlotte-Tech-Program-Intern-III-(Full-Stack-Engineering)-NC-28277/1359782800/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-27T23:16:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "xpo-tech-program-intern-3-full-stack-engineering-charlotte"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Developer and Qualification Tools",
+      "employer_name": "d-Matrix",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join d-Matrix in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/d-Matrix/543579ed-fd2f-435d-b84e-420992decc44/application",
+      "job_posted_at_datetime_utc": "2026-01-27T23:15:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Scientist – Grad Intern Conversion",
+      "employer_name": "CVS Health",
+      "job_city": "Needham",
+      "job_state": "MA",
+      "job_description": "Join CVS Health in this exciting opportunity.",
+      "job_apply_link": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MA---Wellesley/Data-Scientist---Grad-Intern-Conversion_R0816601",
+      "job_posted_at_datetime_utc": "2026-01-27T23:14:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cvs-health-data-scientist-grad-intern-conversion-needham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
+      "employer_name": "Sandisk",
+      "job_city": "Milpitas",
+      "job_state": "CA",
+      "job_description": "Join Sandisk in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/Sandisk/744000105920835",
+      "job_posted_at_datetime_utc": "2026-01-27T23:14:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
+      "employer_name": "Sandisk",
+      "job_city": "Milpitas",
+      "job_state": "CA",
+      "job_description": "Join Sandisk in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/Sandisk/744000105931382",
+      "job_posted_at_datetime_utc": "2026-01-27T23:14:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - HR Data Analyst",
+      "employer_name": "Sharp Electronics",
+      "job_city": "Mahwah",
+      "job_state": "NJ",
+      "job_description": "Join Sharp Electronics in this exciting opportunity.",
+      "job_apply_link": "https://careers-sharpusa.icims.com/jobs/8680/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-27T23:12:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sharp-electronics-intern-hr-data-analyst-mahwah"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Informatics Intern",
+      "employer_name": "Kymera Therapeutics",
+      "job_city": "Belmont",
+      "job_state": "MA",
+      "job_description": "Join Kymera Therapeutics in this exciting opportunity.",
+      "job_apply_link": "https://www.kymeratx.com/careers-culture/working-at-kymera/?gh_jid=7582976003#open-positions",
+      "job_posted_at_datetime_utc": "2026-01-27T23:12:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kymera-therapeutics-informatics-intern-belmont"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "R&D Software Engineering Intern",
+      "employer_name": "Keysight Technologies",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Keysight Technologies in this exciting opportunity.",
+      "job_apply_link": "https://jobs.keysight.com/jobs/51418?lang=en-us&icims=1",
+      "job_posted_at_datetime_utc": "2026-01-27T23:03:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "keysight-r-d-software-engineering-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern Applications",
+      "employer_name": "Imperative Care",
+      "job_city": "Campbell",
+      "job_state": "Ohio",
+      "job_description": "Title : Software Engineer Intern Applications\n\nLocation : This position is based in our Campbell California offices on-site & full-time. Imperative Care does not provide relocation or additional housing compensation for the summer internship.\n\nWhy Imperative Care\n\nAt Imperative Care we are developing novel robotic-assisted technologies and interventional capabilities that will forever change the disparate outcomes of ischemic stroke a disease that impacts close to a million people a year in the U.S. and 10 million worldwide. Not only is Imperative Care changing the way stroke is treated but also bringing this treatment to the greater population who is currently without. We are actively building a team who is focused on developing novel solutions for this complex disease a disease in which one in four adults will face in their lifetime.\n\nWhat Youll Do\n\nWe are looking for a talented and experienced Software Engineer Intern to take part in the development of software applications and UI for the Telos robotic system. As an intern in the Applications team you will contribute to the design development and testing the software applications that the physician will interact with when using the Telos robotics system. You will work closely with other software engineers as well as system and UX engineers to design and implement solutions that meet clinical needs and requirements.\n• Design implement and test responsive UI and non-user facing applications that include real time media rendering complex communication and other components.\n• Participate in design and implementation of various backend features (image acquisition recording pipeline optimization) for the Telos robotic system.\n• Contribute to development of the software testing and simulation environment\n• Work closely with other engineers (software algorithms clinical systems UX) as part of a focused cross-functional team developing software for a medical application.\n• Understand user needs clinical needs & customer input requirements to drive software development\n• Participate in design discussions and code reviews.\n\nWhat Youll Bring\n• Currently pursuing an B.S. M.S or an Advanced degree in Computer Science Computer Engineering or equivalent\n• Experience with C programming and multi-threaded applications.\n• Background in object-oriented programming software architecture and design patterns\n• Experience with video capture and image acquisition pipelines\n• Experience with GPU programming and CUDA\n• Experience with Qt framework\n• Excellent communication and documentation skills\n\nEmployee Benefits include a stake in our collective success with stock options competitive salaries a 401k plan health benefits generous PTO and a parental leave program.\n\nJoin Us!\n\nSalary : $29 / hourly for 10 week internship\n\nThe use of external recruiters / staffing agencies requires prior approval from our Human Resources Department. The Human Resources Department at Imperative Care requests that external recruiters / staffing agencies not to contact Imperative Care employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with Imperative Care.\n\nImperative Care will not accept unsolicited resumes from any source other than candidates themselves for either current or future positions. Submission of unsolicited resumes in advance of an agreement between the Human Resources Department and the external recruiter / staffing agency does not create any implied obligation on the part of Imperative Care.\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nCampaigns,Abinitio,AutoCAD 3D,Hardware & Networking,Customer Support,Arabic\n\nEmployment Type : Intern\n\nExperience : years\n\nVacancy : 1",
+      "job_apply_link": "https://www.talent.com/view?id=9141d1e2f734&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "imperative-care-software-engineer-intern-applications-campbell"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Technology Product Development Analyst Intern-Summer 2026",
+      "employer_name": "Stifel",
+      "job_city": "St. Louis",
+      "job_state": "MO",
+      "job_description": "Join Stifel in this exciting opportunity.",
+      "job_apply_link": "https://careers-stifel.icims.com/jobs/8188/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-02T16:52:57.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "stifel-technology-product-development-analyst-intern-summer-2026-st-louis"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Belvedere Trading",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Belvedere Trading in this exciting opportunity.",
+      "job_apply_link": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply",
+      "job_posted_at_datetime_utc": "2025-08-09T02:45:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "belvedere-trading-software-engineer-intern-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T00:09:49.885Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
