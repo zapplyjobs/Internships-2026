@@ -1,6 +1,11 @@
 /**
  * Location-based Job Routing Module
  * Determines which location-specific Discord channel a job should be posted to
+ *
+ * UPDATED 2026-01-28: Fixed routing to use actual channel keys from board configs
+ * Common channels across Internships & New-Grad:
+ * - bay-area, new-york, pacific-northwest, remote-usa, other-usa
+ * - southern-california (Internships only)
  */
 
 const { LOCATION_CHANNEL_CONFIG } = require('../discord/config');
@@ -17,26 +22,28 @@ function getJobLocationChannel(job) {
   const description = (job.job_description || '').toLowerCase();
   const combined = `${title} ${description} ${city} ${state}`;
 
-  // Metro area city matching (comprehensive)
+  // Metro area city matching - using ACTUAL channel keys from board configs
   const cityMatches = {
-    // San Francisco Bay Area
-    'san francisco': 'san-francisco',
-    'oakland': 'san-francisco',
-    'berkeley': 'san-francisco',
-    'san jose': 'san-francisco',
-    'palo alto': 'san-francisco',
-    'fremont': 'san-francisco',
-    'hayward': 'san-francisco',
-    'richmond': 'san-francisco',
-    'daly city': 'san-francisco',
-    'alameda': 'san-francisco',
-    'cupertino': 'san-francisco',
-    'santa clara': 'san-francisco',
-    'mountain view': 'mountain-view',
-    'sunnyvale': 'sunnyvale',
-    'san bruno': 'san-bruno',
+    // Bay Area -> bay-area
+    'san francisco': 'bay-area',
+    'oakland': 'bay-area',
+    'berkeley': 'bay-area',
+    'san jose': 'bay-area',
+    'palo alto': 'bay-area',
+    'fremont': 'bay-area',
+    'hayward': 'bay-area',
+    'richmond': 'bay-area',
+    'daly city': 'bay-area',
+    'alameda': 'bay-area',
+    'cupertino': 'bay-area',
+    'santa clara': 'bay-area',
+    'mountain view': 'bay-area',
+    'sunnyvale': 'bay-area',
+    'san bruno': 'bay-area',
+    'menlo park': 'bay-area',
+    'redwood city': 'bay-area',
 
-    // NYC Metro Area
+    // NYC Metro Area -> new-york
     'new york': 'new-york',
     'manhattan': 'new-york',
     'brooklyn': 'new-york',
@@ -49,95 +56,37 @@ function getJobLocationChannel(job) {
     'white plains': 'new-york',
     'yonkers': 'new-york',
 
-    // Seattle Metro Area
-    'seattle': 'seattle',
-    'bellevue': 'seattle',
-    'tacoma': 'seattle',
-    'everett': 'seattle',
-    'renton': 'seattle',
-    'kent': 'seattle',
-    'redmond': 'redmond',
+    // Seattle/PNW Metro Area -> pacific-northwest
+    'seattle': 'pacific-northwest',
+    'bellevue': 'pacific-northwest',
+    'tacoma': 'pacific-northwest',
+    'everett': 'pacific-northwest',
+    'renton': 'pacific-northwest',
+    'kent': 'pacific-northwest',
+    'redmond': 'pacific-northwest',
 
-    // Austin Metro Area
-    'austin': 'austin',
-    'round rock': 'austin',
-    'cedar park': 'austin',
-    'georgetown': 'austin',
-    'pflugerville': 'austin',
-
-    // Chicago Metro Area
-    'chicago': 'chicago',
-    'naperville': 'chicago',
-    'aurora': 'chicago',
-    'joliet': 'chicago',
-    'evanston': 'chicago',
-    'schaumburg': 'chicago',
-
-    // Boston Metro Area
-    'boston': 'boston',
-    'cambridge': 'boston',
-    'somerville': 'boston',
-    'brookline': 'boston',
-    'quincy': 'boston',
-    'newton': 'boston',
-    'waltham': 'boston',
-    'revere': 'boston',
-    'medford': 'boston',
-
-    // Los Angeles Metro Area
-    'los angeles': 'los-angeles',
-    'santa monica': 'los-angeles',
-    'pasadena': 'los-angeles',
-    'long beach': 'los-angeles',
-    'glendale': 'los-angeles',
-    'irvine': 'los-angeles',
-    'anaheim': 'los-angeles',
-    'burbank': 'los-angeles',
-    'torrance': 'los-angeles',
-
-    // Dallas Metro Area (new)
-    'dallas': 'dallas',
-    'fort worth': 'dallas',
-    'arlington': 'dallas',
-    'plano': 'dallas',
-    'irving': 'dallas',
-    'frisco': 'dallas',
-    'mckinney': 'dallas',
-    'garland': 'dallas',
-    'richardson': 'dallas',
-    'denton': 'dallas',
-
-    // San Diego Metro Area (new)
-    'san diego': 'san-diego',
-    'chula vista': 'san-diego',
-    'oceanside': 'san-diego',
-    'escondido': 'san-diego',
-    'carlsbad': 'san-diego',
-    'el cajon': 'san-diego',
-    'la jolla': 'san-diego',
-
-    // DC Metro Area (new)
-    'washington': 'dc-metro',
-    'washington dc': 'dc-metro',
-    'washington d.c.': 'dc-metro',
-    'arlington': 'dc-metro',  // VA Arlington (context-dependent, DC takes priority)
-    'alexandria': 'dc-metro',
-    'bethesda': 'dc-metro',
-    'silver spring': 'dc-metro',
-    'reston': 'dc-metro',
-    'tysons': 'dc-metro',
-    'mclean': 'dc-metro',
-    'fairfax': 'dc-metro',
-    'rockville': 'dc-metro',
-    'chantilly': 'dc-metro',
-    'manassas': 'dc-metro',
-    'herndon': 'dc-metro',
-    'sterling': 'dc-metro'
+    // SoCal -> southern-california
+    'los angeles': 'southern-california',
+    'santa monica': 'southern-california',
+    'pasadena': 'southern-california',
+    'long beach': 'southern-california',
+    'glendale': 'southern-california',
+    'irvine': 'southern-california',
+    'anaheim': 'southern-california',
+    'burbank': 'southern-california',
+    'torrance': 'southern-california',
+    'san diego': 'southern-california',
+    'chula vista': 'southern-california',
+    'oceanside': 'southern-california',
+    'escondido': 'southern-california',
+    'carlsbad': 'southern-california',
+    'el cajon': 'southern-california',
+    'la jolla': 'southern-california',
   };
 
   // City abbreviations
   const cityAbbreviations = {
-    'sf': 'san-francisco',
+    'sf': 'bay-area',
     'nyc': 'new-york'
   };
 
@@ -163,55 +112,41 @@ function getJobLocationChannel(job) {
   }
 
   // 4. State-based fallback (for ALL jobs, not just remote)
-  // If we have a state but no specific city match, map to the main city in that state
+  // If we have a state but no specific city match, map to the main region in that state
   if (state) {
     if (state === 'ca' || state === 'california') {
-      // CA jobs without specific city go to LA (most CA jobs not in Bay Area)
+      // CA jobs without specific city -> southern-california (most CA jobs not in Bay Area)
       // Bay Area cities already caught by city matching above
-      return LOCATION_CHANNEL_CONFIG['los-angeles'];
-    }
-    if (state === 'ma' || state === 'massachusetts') {
-      return LOCATION_CHANNEL_CONFIG['boston'];
+      return LOCATION_CHANNEL_CONFIG['southern-california'] || LOCATION_CHANNEL_CONFIG['other-usa'];
     }
     if (state === 'ny' || state === 'new york') {
       return LOCATION_CHANNEL_CONFIG['new-york'];
     }
-    if (state === 'tx' || state === 'texas') {
-      // Check if Dallas area is mentioned, otherwise default to Austin
-      if (combined.includes('dallas') || combined.includes('fort worth') || combined.includes('plano')) {
-        return LOCATION_CHANNEL_CONFIG['dallas'];
-      }
-      return LOCATION_CHANNEL_CONFIG['austin'];
-    }
     if (state === 'wa' || state === 'washington') {
-      // Check if Redmond is specifically mentioned
-      if (combined.includes('redmond')) {
-        return LOCATION_CHANNEL_CONFIG['redmond'];
-      }
-      return LOCATION_CHANNEL_CONFIG['seattle'];
+      return LOCATION_CHANNEL_CONFIG['pacific-northwest'];
     }
-    if (state === 'il' || state === 'illinois') {
-      return LOCATION_CHANNEL_CONFIG['chicago'];
-    }
-    if (state === 'dc' || state === 'district of columbia') {
-      return LOCATION_CHANNEL_CONFIG['dc-metro'];
-    }
-    if (state === 'va' || state === 'virginia') {
-      // Northern VA goes to DC metro, but only if DC-area cities mentioned
-      if (combined.includes('arlington') || combined.includes('alexandria') ||
-          combined.includes('reston') || combined.includes('tysons') ||
-          combined.includes('mclean') || combined.includes('fairfax')) {
-        return LOCATION_CHANNEL_CONFIG['dc-metro'];
-      }
-      // Other VA cities fall through to remote-usa
-    }
-    if (state === 'md' || state === 'maryland') {
-      // MD suburbs go to DC metro
-      if (combined.includes('bethesda') || combined.includes('silver spring') ||
-          combined.includes('rockville')) {
-        return LOCATION_CHANNEL_CONFIG['dc-metro'];
-      }
-      // Other MD cities fall through to remote-usa
+    if (state === 'tx' || state === 'texas' ||
+        state === 'ma' || state === 'massachusetts' ||
+        state === 'il' || state === 'illinois' ||
+        state === 'dc' || state === 'district of columbia' ||
+        state === 'va' || state === 'virginia' ||
+        state === 'md' || state === 'maryland' ||
+        state === 'co' || state === 'colorado' ||
+        state === 'fl' || state === 'florida' ||
+        state === 'ga' || state === 'georgia' ||
+        state === 'nc' || state === 'north carolina' ||
+        state === 'tn' || state === 'tennessee' ||
+        state === 'az' || state === 'arizona' ||
+        state === 'ut' || state === 'utah' ||
+        state === 'nv' || state === 'nevada' ||
+        state === 'or' || state === 'oregon' ||
+        state === 'mi' || state === 'michigan' ||
+        state === 'oh' || state === 'ohio' ||
+        state === 'pa' || state === 'pennsylvania' ||
+        state === 'mn' || state === 'minnesota' ||
+        state === 'wi' || state === 'wisconsin') {
+      // All other US states -> other-usa
+      return LOCATION_CHANNEL_CONFIG['other-usa'];
     }
   }
 
@@ -225,11 +160,7 @@ function getJobLocationChannel(job) {
     return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
-  // 6. No fallback to remote-usa for non-remote US jobs
-  // Jobs from Phoenix, Denver, Miami, etc. will ONLY post to their category channel (tech, marketing, etc.)
-  // This prevents non-remote jobs from appearing in remote-usa channel
-  // If a job has no specific location channel match, it returns null and posts only to category channel
-
+  // 6. No location match -> return null (will only post to category channel)
   return null;
 }
 
