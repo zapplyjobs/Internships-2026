@@ -3154,5 +3154,65 @@
     "addedAt": "2026-01-28T02:56:53.443Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Engineer Intern",
+      "employer_name": "Imperative Care",
+      "job_city": "Campbell",
+      "job_state": "Ohio",
+      "job_description": "Title : Machine Learning Engineer Intern\n\nLocation : This position is based in our Campbell California offices on-site & full-time. Imperative Care does not provide relocation or additional housing compensation for the summer internship.\n\nWhy Imperative Care\n\nAt Imperative Care we are developing novel robotic-assisted technologies and interventional capabilities that will forever change the disparate outcomes of ischemic stroke a disease that impacts close to a million people a year in the U.S. and 10 million worldwide. Not only is Imperative Care changing the way stroke is treated but also bringing this treatment to the greater population who is currently without. We are actively building a team who is focused on developing novel solutions for this complex disease a disease in which one in four adults will face in their lifetime.\n\nWhat Youll Do\n\nAs a Summer Intern you will support the development of an AI-assisted system that analyzes and summarizes workflow and driving performance in robotic-assisted medical procedures. You will work with real-world procedural data from our Roboto platform to define key events develop workflow metrics and prototype automated AI-generated case summaries.\n• Analyze system logs device data and procedural video streams from robotic-assisted procedures to identify key events and milestones.\n• Define and document workflow and performance metrics related to timing frequency and procedural efficiency across different phases.\n• Support the creation of event-based data snapshots (e.g. images or short video clips) to add context to procedural analysis.\n• Prototype AI-generated reports and case summaries that highlight workflow patterns system usage and opportunities for improvement.\n• Collaborate with engineering product and clinical teams to validate insights and refine analysis outputs.\n\nWhat Youll Bring\n• Currently pursuing a degree in computer science data science biomedical engineering robotics or a related field.\n• Experience or coursework in data analysis machine learning or applied AI concepts\n• Familiarity with working on structured and unstructured data (e.g. logs time-series data images or video).\n• Strong analytical thinking skills and the ability to translate data into clear actionable insights.\n• Interest in medical devices robotics or healthcare applications of AI with strong communication and documentation skills.\n\nEmployee Benefits include a stake in our collective success with stock options competitive salaries a 401k plan health benefits generous PTO and a parental leave program.\n\nJoin Us!\n\nSalary : $29 / hourly for 10 week internship\n\nThe use of external recruiters / staffing agencies requires prior approval from our Human Resources Department. The Human Resources Department at Imperative Care requests that external recruiters / staffing agencies not to contact Imperative Care employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with Imperative Care.\n\nImperative Care will not accept unsolicited resumes from any source other than candidates themselves for either current or future positions. Submission of unsolicited resumes in advance of an agreement between the Human Resources Department and the external recruiter / staffing agency does not create any implied obligation on the part of Imperative Care.\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nCampaigns,Abinitio,AutoCAD 3D,Hardware & Networking,Customer Support,Arabic\n\nEmployment Type : Intern\n\nExperience : years\n\nVacancy : 1",
+      "job_apply_link": "https://www.talent.com/view?id=cec02faa3e78&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "imperative-care-machine-learning-engineer-intern-campbell"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T03:33:13.857Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern / Aide - Machine Learning (Part-time)",
+      "employer_name": "Baylor College of Medicine",
+      "job_city": "Houston",
+      "job_state": "Texas",
+      "job_description": "Job Description\n\nJob Title :\n\nIntern / Aide - Machine Learning (Part-time)\n\nDivision :\n\nIntegrative Physiology\n\nWork Arrangement : Onsite only\n\nLocation : Houston, TX\n\nSalary Range : $ - $ per hour\n\nFLSA Status : Nonexempt\n\nWork Schedule : Flexible\n\nSummary\n\nThe intern will receive training on machine learning algorithms, implementing them, and fitting them on the datasets in our cluster computers. Overall, the position will offer great exposure to genomic data and advanced machine learning. This position is part‑time at 10 hours per week and is not benefits‑eligible.\n\nJob Purpose\n\nProvides temporary administrative or laboratory support to a department while gaining practical work experience.\n\nJob Duties\n• Identifies the specific datasets and machine learning algorithms, the intern will implement the algorithms in Python / R and fit them on the datasets in our cluster computers.\n• Performs other job-related duties as assigned.\n\nMinimum Qualifications\n\nMust be enrolled in high school or be a high school graduate (or equivalent secondary education) or enrolled in an institution of higher education.\n\nWork Authorization Requirement :\n\nThis position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States at the time of application and throughout the duration of employment.\n\nBaylor College of Medicine is an Equal Opportunity / Affirmative Action / Equal Access Employer.\n\nRequisition ID : 24227",
+      "job_apply_link": "https://www.talent.com/view?id=b18bcac46f42&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "baylor-college-of-medicine-intern-aide-machine-learning-part-time-houston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T03:33:13.857Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer (AI/ML) Intern",
+      "employer_name": "KLA",
+      "job_city": "Ann Arbor",
+      "job_state": "Michigan",
+      "job_description": "KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. They are seeking motivated interns to contribute to exciting projects in the summer of 2026, focusing on AI technologies and data analysis within semiconductor manufacturing.\n\nResponsibilities\n• Learn about the data being produced by tools in the semiconductor fab\n• Leverage AI technologies to automate tool anomaly detection\n• Develop data driven, intelligent models to transform the way tools are serviced\n\nSkills\n• Some College or work experience of 0 years\n• Completed fundamental coursework in Computer Science\n• Basic skills in Python\n• Basic skills in machine learning\n• Basic skills in AI\n• Strong analytical and problem-solving skills\n• Excellent written and verbal communication\n• Effective interpersonal skills and a collaborative mindset\n• A proactive attitude and the perseverance to tackle complex challenges\n• The ability to work seamlessly with cross-functional teams across various locations\n\nBenefits\n• Medical\n• Dental\n• Vision\n• Life\n• Other voluntary benefits\n• 401(K) including company matching\n• Employee stock purchase program (ESPP)\n• Student debt assistance\n• Tuition reimbursement program\n• Development and career growth opportunities and programs\n• Financial planning benefits\n• Wellness benefits including an employee assistance program (EAP)\n• Paid time off\n• Paid company holidays\n• Family care and bonding leave\n\nCompany Overview\n• Kla creates tools and services that promote innovation in the electronics industry. It was founded in 1975, and is headquartered in Milpitas, California, USA, with a workforce of 10001+ employees. Its website is https://www.kla.com.\n\nCompany H1B Sponsorship\n• KLA has a track record of offering H1B sponsorships, with 343 in 2025, 218 in 2024, 191 in 2023, 277 in 2022, 200 in 2021, 226 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/69693e36639b452fb57f07bb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-24T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "kla-software-engineer-ai-ml-intern-ann-arbor"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T03:33:13.857Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
