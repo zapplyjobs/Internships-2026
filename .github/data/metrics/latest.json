@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-28T15:40:23.933Z",
+  "generated": "2026-01-28T18:07:45.123Z",
   "period": "last_7_days",
-  "period_start": "2026-01-21T15:40:23.933Z",
-  "period_end": "2026-01-28T15:40:23.933Z",
+  "period_start": "2026-01-21T18:07:45.123Z",
+  "period_end": "2026-01-28T18:07:45.123Z",
   "summary": {
     "total_jobs_posted": 10,
     "unique_jobs": 10,
@@ -28,31 +28,31 @@
           "id": "northrop-grumman-software-engineer-huntsville",
           "title": "Software Engineer",
           "company": "Northrop Grumman",
-          "posted_at": "2026-01-28T15:39:55.201Z"
+          "posted_at": "2026-01-28T18:07:15.916Z"
         },
         {
           "id": "zoox-technical-product-management-intern-agentic-ai-san-mateo",
           "title": "Technical Product Management Intern, Agentic AI",
           "company": "Zoox",
-          "posted_at": "2026-01-28T15:39:57.025Z"
+          "posted_at": "2026-01-28T18:07:17.677Z"
         },
         {
           "id": "flightsafety-international-software-engineering-intern-summer-2026-hazelwood",
           "title": "Software Engineering Intern - Summer 2026",
           "company": "FlightSafety International",
-          "posted_at": "2026-01-28T15:39:58.710Z"
+          "posted_at": "2026-01-28T18:07:19.365Z"
         },
         {
           "id": "virtualvocations-software-engineering-apprentice-newport-news",
           "title": "Software Engineering Apprentice",
           "company": "VirtualVocations",
-          "posted_at": "2026-01-28T15:40:00.527Z"
+          "posted_at": "2026-01-28T18:07:21.116Z"
         },
         {
           "id": "tri-state-generation-and-transmission-association-energy-management-intern-westminster",
           "title": "Energy Management Intern",
           "company": "Tri-State Generation and Transmission Association",
-          "posted_at": "2026-01-28T15:40:02.204Z"
+          "posted_at": "2026-01-28T18:07:23.304Z"
         }
       ]
     },
@@ -70,25 +70,25 @@
           "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
           "title": "Technology Order Management Execution & Compliance",
           "company": "Franklin Templeton",
-          "posted_at": "2026-01-28T15:40:06.999Z"
+          "posted_at": "2026-01-28T18:07:28.151Z"
         },
         {
           "id": "micron-technology-intern-it-mfg-boise",
           "title": "Intern – IT MFG",
           "company": "Micron Technology",
-          "posted_at": "2026-01-28T15:40:08.766Z"
+          "posted_at": "2026-01-28T18:07:29.934Z"
         },
         {
           "id": "danaher-product-management-marketing-intern-marlborough",
           "title": "Product Management / Marketing Intern",
           "company": "Danaher",
-          "posted_at": "2026-01-28T15:40:10.546Z"
+          "posted_at": "2026-01-28T18:07:31.730Z"
         },
         {
           "id": "hntb-transportation-planning-intern-houston",
           "title": "Transportation Planning Intern",
           "company": "HNTB",
-          "posted_at": "2026-01-28T15:40:12.526Z"
+          "posted_at": "2026-01-28T18:07:33.471Z"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "id": "visa-software-engineer-intern-summer-2026-ashburn-",
           "title": "Software Engineer, Intern Summer 2026, Ashburn",
           "company": "Visa",
-          "posted_at": "2026-01-28T15:40:17.275Z"
+          "posted_at": "2026-01-28T18:07:38.459Z"
         }
       ]
     }

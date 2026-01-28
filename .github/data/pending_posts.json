@@ -5550,5 +5550,81 @@
     "addedAt": "2026-01-28T15:38:19.238Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Graduate Intern - Autonomous Lab",
+      "employer_name": "Ginkgo Bioworks",
+      "job_city": "Oakland",
+      "job_state": "CA",
+      "job_description": "Join Ginkgo Bioworks in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007",
+      "job_posted_at_datetime_utc": "2026-01-28T15:35:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "ginkgo-bioworks-software-graduate-intern-autonomous-lab-oakland"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T18:07:12.510Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Intern - Autonomous Lab",
+      "employer_name": "Ginkgo Bioworks",
+      "job_city": "Oakland",
+      "job_state": "CA",
+      "job_description": "Join Ginkgo Bioworks in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007",
+      "job_posted_at_datetime_utc": "2026-01-28T15:35:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "ginkgo-bioworks-software-intern-autonomous-lab-oakland"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T18:07:12.510Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Everpro – Growth and Markets Internship - US",
+      "employer_name": "EverCommerce",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join EverCommerce in this exciting opportunity.",
+      "job_apply_link": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---Growth-and-Markets-Internship--Remote--US-_R-105892",
+      "job_posted_at_datetime_utc": "2026-01-28T15:34:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "evercommerce-everpro-growth-and-markets-internship-us-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T18:07:12.510Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "Johnson Controls",
+      "job_city": "Milwaukee",
+      "job_state": "WI",
+      "job_description": "Join Johnson Controls in this exciting opportunity.",
+      "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Software-Engineering-Intern_WD30258854",
+      "job_posted_at_datetime_utc": "2026-01-15T00:24:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1w",
+      "id": "johnson-controls-software-engineering-intern-milwaukee"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T18:07:12.510Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
