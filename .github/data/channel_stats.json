@@ -1,7 +1,7 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2026-01-28T15:08:51.541Z",
-  "totalPosts": 7076,
+  "lastUpdated": "2026-01-28T15:40:17.270Z",
+  "totalPosts": 7086,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
@@ -129,19 +129,19 @@
       "lastPost": "2026-01-25T19:34:42.100Z"
     },
     "1464303204178067620": {
-      "name": "ai-internships",
-      "posts": 13,
-      "lastPost": "2026-01-24T03:19:45.443Z"
+      "name": "🤖・ai-internships",
+      "posts": 14,
+      "lastPost": "2026-01-28T15:40:17.270Z"
     },
     "1464303178286760059": {
       "name": "💻・tech-internships",
-      "posts": 243,
-      "lastPost": "2026-01-28T15:08:43.330Z"
+      "posts": 248,
+      "lastPost": "2026-01-28T15:40:02.200Z"
     },
     "1464303312626122855": {
       "name": "📣・marketing-internships",
-      "posts": 351,
-      "lastPost": "2026-01-28T15:08:51.541Z"
+      "posts": 355,
+      "lastPost": "2026-01-28T15:40:12.521Z"
     }
   }
 }
