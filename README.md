@@ -66,8 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Research Intern - AI Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 23h |
-| Research Intern - AI Inference Software & Systems | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748209) | 23h |
+| Research Intern - AI Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 1d |
+| Research Intern - AI Inference Software & Systems | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748209) | 1d |
 | Research Intern - AI Evaluation and Alignment | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 1w |
 | Data Engineering Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556659198) | 1w |
 | Research Intern - AI/ML for Electricity Infrastructure Planning | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556734896) | 1w |
@@ -78,7 +78,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Technical Program Management Intern - Deep Learning Software - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564) | 23h |
+| Technical Program Management Intern - Deep Learning Software - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564) | 1d |
 | System Software Engineering Intern - Video - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--Video---Summer-2026_JR2006997) | 5d |
 
 ### 💻 **Enterprise Software** (3 positions)
@@ -97,7 +97,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7565624) | 3h |
+| Intern - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7565624) | 5h |
 
 ### 🏭 **Manufacturing & Industrial** (4 positions)
 
@@ -105,8 +105,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern ETD Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259) | 23h |
-| Intern – AI Agent Development | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-Agent-Development_JR82274) | 23h |
+| Intern ETD Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259) | 1d |
+| Intern – AI Agent Development | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-Agent-Development_JR82274) | 1d |
 | Intern – IT MFG | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122) | 3d |
 | Intern – Smart Manufacturing and AI Data Science | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing-and-AI-Data-Science_JR88885) | 6d |
 
@@ -130,16 +130,18 @@ Check out our other repos for jobs and free resources:
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
   &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
 </p>
 
 ---
@@ -169,7 +171,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1514 roles
-- **🏢 Companies**: 252 companies  
+- **🏢 Companies**: 250 companies  
 - **⭐ FAANG+ Opportunities**: 79 positions
 
 ### ⭐ **FAANG+** (77 positions)
