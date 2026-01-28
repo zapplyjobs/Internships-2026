@@ -3214,5 +3214,45 @@
     "addedAt": "2026-01-28T03:33:13.857Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Confluent Software Engineering Intern Opportunity (Austin, Texas)",
+      "employer_name": "Confluent",
+      "job_city": "Austin",
+      "job_state": "Texas",
+      "job_description": "Confluent is a company that focuses on redefining how data moves and creating a new category for real-time infrastructure. The internship will involve designing, developing, testing, and maintaining software that impacts production and customers, while also participating in code reviews and managing project priorities.\n\nResponsibilities\n• To design, develop, test, deploy, maintain, and improve software that will touch production and have a customer-facing impact\n• Follow best practices for software development and participate in code reviews\n• Manage project priorities, deadlines, and deliverables\n• Help build the next generation Kafka by continuing to push the boundaries of distributed system design\n\nSkills\n• Pursuing a Bachelor's or Master's in Computer Science, Math, or a related technical field with a graduation date between December 2026- August 2027\n• Self-motivated and able to drive projects with mentorship and project requirements\n• Ability to work effectively in teams and strong verbal and written communication skills\n• Good knowledge of data structures and algorithms and are proficient in at least one of these languages: Java/Scala, C, C++, Go\n• Smart, humble, and empathetic\n• Driven and excited about the challenges of a fast-paced, innovative, and quickly growing software development environment\n• Interested in building large-scale distributed systems in the cloud and are excited to make an impact\n\nBenefits\n• A travel reimbursement (if required) for round-trip airline flights (to and from the location of your internship to your home location) or driving mileage reimbursement.\n\nCompany Overview\n• Confluent offers a streaming platform based on Apache Kafka that enables companies to easily access data as real-time streams. It was founded in 2014, and is headquartered in Mountain View, California, USA, with a workforce of 1001-5000 employees. Its website is https://confluent.io.\n\nCompany H1B Sponsorship\n• Confluent has a track record of offering H1B sponsorships, with 142 in 2025, 107 in 2024, 91 in 2023, 155 in 2022, 119 in 2021, 50 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/697291b59b83b424830e855d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "confluent-2026-confluent-software-engineering-intern-opportunity-austin-texas-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T05:47:56.168Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Allentown",
+      "job_state": "Pennsylvania",
+      "job_description": "A company is looking for an Early Talent Community - Software Engineering intern.\n\nKey Responsibilities\n\nEngage with the Early Talent Community to express interest in future software engineering roles\n\nStay informed about upcoming events, webinars, and job application opportunities\n\nParticipate in a collaborative environment focused on innovation in e-commerce\n\nRequired Qualifications\n\nCurrent student graduating in the Class of 2028\n\nInterest in starting a career in software engineering\n\nAbility to work remotely in a co-located team environment\n\nWillingness to engage with community and share insights\n\nNo prior experience required; enthusiasm for learning is essential",
+      "job_apply_link": "https://www.talent.com/view?id=4d10bbcc9021&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-software-engineering-intern-allentown"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T05:47:56.168Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
