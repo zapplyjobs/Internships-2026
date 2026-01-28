@@ -1,0 +1,20 @@
+{
+  "url": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Job Title: Intern - GNN – Advanced Memory System Research (Summer 2026) Office Location: San Jose, CAWork Model: OnsiteDuration: June 2026 - August 2026 At SK hynix America, we're at the forefront of semiconductor innovation, developing advanced memory solutions that power everything from smartphones to data centers. As a global leader in DRAM and NAND flash technologies, we drive the evolution of advancing mobile technology, empowering cloud computing, and pioneering future technologies. Our cutting-edge memory technologies are essential in today's most advanced electronic devices and IT infrastructure, enabling enhanced performance and user experiences across the digital landscape. We're looking for innovative minds to join our mission of shaping the future of technology. At SK hynix America, you'll be part of a team that's pioneering breakthrough memory solutions while maintaining a strong commitment to sustainability. We're not just adapting to technological change – we're driving it, with significant investments in artificial intelligence, machine learning, and eco-friendly solutions and operational practices. As we continue to expand our market presence and push the boundaries of what's possible in semiconductor technology, we invite you to be part of our journey to creating the next generation of memory solutions that will define the future of computing. Responsibilities: Demonstrate feasibility of GNN Training system with advanced memory solutions (HBM) Excellent in reading research papers and implementing them to code Build and evaluate the advanced memory system for a GNN training Qualifications: Accepted or currently enrolled in a PhD/MS program in Computer Science or a related STEM field Expected to complete degree by July 2027 or earlier for PhD’s and 2026 for MS candidates Hands on experience with GNN frameworks like PyG, DGL, or PyTorch Excellent programming skills in Python, CUDA, and C Strong knowledge on a memory-storage IO path including GPU-direct and CXL/PCIe specification Housing Allowance: Eligible interns will receive a housing allowance during their internship. Equal Employment Opportunity:SKHYA is an Equal Employment Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type without regard to race, sex, pregnancy, sexual orientation, religion, age, gender identity, national origin, color, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws. Compensation:Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. Pay within the provided range varies by work location and may also depend on job-related skills and experience. Your Recruiter can share more about the specific salary range for the job location during the hiring process.Pay Range$26 - $50 USD",
+    "requirements": [
+      "Expected to complete degree by July 2027 or earlier for PhD’s and 2026 for MS candidates",
+      "Hands on experience with GNN frameworks like PyG, DGL, or PyTorch",
+      "Strong knowledge on a memory-storage IO path including GPU-direct and CXL/PCIe specification"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008",
+      "fetchedAt": "2026-01-28T21:10:23.506Z"
+    }
+  },
+  "cachedAt": 1769634623507
+}

@@ -1,114 +1,291 @@
 {
-  "generated": "2026-01-28T18:07:45.123Z",
+  "generated": "2026-01-28T21:11:22.449Z",
   "period": "last_7_days",
-  "period_start": "2026-01-21T18:07:45.123Z",
-  "period_end": "2026-01-28T18:07:45.123Z",
+  "period_start": "2026-01-21T21:11:22.449Z",
+  "period_end": "2026-01-28T21:11:22.449Z",
   "summary": {
-    "total_jobs_posted": 10,
+    "total_jobs_posted": 18,
     "unique_jobs": 10,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "multi_channel_postings": 16,
+    "unique_multi_channel_jobs": 8,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 3
+    "channels_active": 8
   },
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 5,
+      "count": 2,
       "jobs": [
-        "northrop-grumman-software-engineer-huntsville",
-        "zoox-technical-product-management-intern-agentic-ai-san-mateo",
-        "flightsafety-international-software-engineering-intern-summer-2026-hazelwood",
-        "virtualvocations-software-engineering-apprentice-newport-news",
-        "tri-state-generation-and-transmission-association-energy-management-intern-westminster"
+        "crowdstrike-software-engineer-intern-redmond",
+        "rheem-product-engineering-intern-huntsville"
       ],
       "recent_jobs": [
         {
-          "id": "northrop-grumman-software-engineer-huntsville",
-          "title": "Software Engineer",
-          "company": "Northrop Grumman",
-          "posted_at": "2026-01-28T18:07:15.916Z"
+          "id": "crowdstrike-software-engineer-intern-redmond",
+          "title": "Software Engineer Intern",
+          "company": "Crowdstrike",
+          "posted_at": "2026-01-28T21:10:36.628Z"
         },
         {
-          "id": "zoox-technical-product-management-intern-agentic-ai-san-mateo",
-          "title": "Technical Product Management Intern, Agentic AI",
-          "company": "Zoox",
-          "posted_at": "2026-01-28T18:07:17.677Z"
-        },
-        {
-          "id": "flightsafety-international-software-engineering-intern-summer-2026-hazelwood",
-          "title": "Software Engineering Intern - Summer 2026",
-          "company": "FlightSafety International",
-          "posted_at": "2026-01-28T18:07:19.365Z"
-        },
-        {
-          "id": "virtualvocations-software-engineering-apprentice-newport-news",
-          "title": "Software Engineering Apprentice",
-          "company": "VirtualVocations",
-          "posted_at": "2026-01-28T18:07:21.116Z"
-        },
-        {
-          "id": "tri-state-generation-and-transmission-association-energy-management-intern-westminster",
-          "title": "Energy Management Intern",
-          "company": "Tri-State Generation and Transmission Association",
-          "posted_at": "2026-01-28T18:07:23.304Z"
+          "id": "rheem-product-engineering-intern-huntsville",
+          "title": "Product Engineering Intern",
+          "company": "Rheem",
+          "posted_at": "2026-01-28T21:10:40.411Z"
         }
       ]
     },
-    "📣・marketing-internships": {
-      "channel_id": "1464303312626122855",
-      "count": 4,
+    "🌲・pacific-northwest-internships": {
+      "channel_id": "1464304146072207390",
+      "count": 1,
       "jobs": [
-        "franklin-templeton-technology-order-management-execution-compliance-stamford",
-        "micron-technology-intern-it-mfg-boise",
-        "danaher-product-management-marketing-intern-marlborough",
-        "hntb-transportation-planning-intern-houston"
+        "crowdstrike-software-engineer-intern-redmond"
       ],
       "recent_jobs": [
         {
-          "id": "franklin-templeton-technology-order-management-execution-compliance-stamford",
-          "title": "Technology Order Management Execution & Compliance",
-          "company": "Franklin Templeton",
-          "posted_at": "2026-01-28T18:07:28.151Z"
-        },
-        {
-          "id": "micron-technology-intern-it-mfg-boise",
-          "title": "Intern – IT MFG",
-          "company": "Micron Technology",
-          "posted_at": "2026-01-28T18:07:29.934Z"
-        },
-        {
-          "id": "danaher-product-management-marketing-intern-marlborough",
-          "title": "Product Management / Marketing Intern",
-          "company": "Danaher",
-          "posted_at": "2026-01-28T18:07:31.730Z"
-        },
-        {
-          "id": "hntb-transportation-planning-intern-houston",
-          "title": "Transportation Planning Intern",
-          "company": "HNTB",
-          "posted_at": "2026-01-28T18:07:33.471Z"
+          "id": "crowdstrike-software-engineer-intern-redmond",
+          "title": "Software Engineer Intern",
+          "company": "Crowdstrike",
+          "posted_at": "2026-01-28T21:10:38.619Z"
         }
       ]
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 1,
+      "count": 4,
       "jobs": [
-        "visa-software-engineer-intern-summer-2026-ashburn-"
+        "labcorp-intern-data-science-and-artificial-intelligence-durham",
+        "bread-financial-intern-speech-intelligence-analyst-columbus",
+        "caterpillar-corporate-intern-digital-and-analytics-peoria",
+        "sparksoft-intern-columbia"
       ],
       "recent_jobs": [
         {
-          "id": "visa-software-engineer-intern-summer-2026-ashburn-",
-          "title": "Software Engineer, Intern Summer 2026, Ashburn",
-          "company": "Visa",
-          "posted_at": "2026-01-28T18:07:38.459Z"
+          "id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
+          "title": "Intern Data Science and Artificial Intelligence",
+          "company": "LabCorp",
+          "posted_at": "2026-01-28T21:10:45.201Z"
+        },
+        {
+          "id": "bread-financial-intern-speech-intelligence-analyst-columbus",
+          "title": "Intern – Speech Intelligence Analyst",
+          "company": "Bread Financial",
+          "posted_at": "2026-01-28T21:10:48.716Z"
+        },
+        {
+          "id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
+          "title": "Corporate Intern - Digital and Analytics",
+          "company": "Caterpillar Inc.",
+          "posted_at": "2026-01-28T21:10:52.159Z"
+        },
+        {
+          "id": "sparksoft-intern-columbia",
+          "title": "Intern",
+          "company": "Sparksoft",
+          "posted_at": "2026-01-28T21:10:55.657Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 4,
+      "jobs": [
+        "labcorp-intern-data-science-and-artificial-intelligence-durham",
+        "caterpillar-corporate-intern-digital-and-analytics-peoria",
+        "sparksoft-intern-columbia",
+        "copart-data-science-intern-dallas"
+      ],
+      "recent_jobs": [
+        {
+          "id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
+          "title": "Intern Data Science and Artificial Intelligence",
+          "company": "LabCorp",
+          "posted_at": "2026-01-28T21:10:46.980Z"
+        },
+        {
+          "id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
+          "title": "Corporate Intern - Digital and Analytics",
+          "company": "Caterpillar Inc.",
+          "posted_at": "2026-01-28T21:10:53.937Z"
+        },
+        {
+          "id": "sparksoft-intern-columbia",
+          "title": "Intern",
+          "company": "Sparksoft",
+          "posted_at": "2026-01-28T21:10:57.349Z"
+        },
+        {
+          "id": "copart-data-science-intern-dallas",
+          "title": "Data Science Intern",
+          "company": "Copart",
+          "posted_at": "2026-01-28T21:11:07.176Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 2,
+      "jobs": [
+        "bread-financial-intern-speech-intelligence-analyst-columbus",
+        "bread-financial-intern-intelligent-automation-columbus"
+      ],
+      "recent_jobs": [
+        {
+          "id": "bread-financial-intern-speech-intelligence-analyst-columbus",
+          "title": "Intern – Speech Intelligence Analyst",
+          "company": "Bread Financial",
+          "posted_at": "2026-01-28T21:10:50.433Z"
+        },
+        {
+          "id": "bread-financial-intern-intelligent-automation-columbus",
+          "title": "Intern – Intelligent Automation",
+          "company": "Bread Financial",
+          "posted_at": "2026-01-28T21:11:13.911Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 2,
+      "jobs": [
+        "adtheorant-data-science-intern-remote-in-usa",
+        "copart-data-science-intern-dallas"
+      ],
+      "recent_jobs": [
+        {
+          "id": "adtheorant-data-science-intern-remote-in-usa",
+          "title": "Data Science Intern",
+          "company": "Adtheorant",
+          "posted_at": "2026-01-28T21:11:02.075Z"
+        },
+        {
+          "id": "copart-data-science-intern-dallas",
+          "title": "Data Science Intern",
+          "company": "Copart",
+          "posted_at": "2026-01-28T21:11:05.463Z"
+        }
+      ]
+    },
+    "🏠・remote-usa-internships": {
+      "channel_id": "1464303522177614001",
+      "count": 1,
+      "jobs": [
+        "adtheorant-data-science-intern-remote-in-usa"
+      ],
+      "recent_jobs": [
+        {
+          "id": "adtheorant-data-science-intern-remote-in-usa",
+          "title": "Data Science Intern",
+          "company": "Adtheorant",
+          "posted_at": "2026-01-28T21:11:03.789Z"
+        }
+      ]
+    },
+    "📣・marketing-internships": {
+      "channel_id": "1464303312626122855",
+      "count": 2,
+      "jobs": [
+        "bread-financial-intern-intelligent-automation-columbus",
+        "nelnet-intern-pathway-lincoln"
+      ],
+      "recent_jobs": [
+        {
+          "id": "bread-financial-intern-intelligent-automation-columbus",
+          "title": "Intern – Intelligent Automation",
+          "company": "Bread Financial",
+          "posted_at": "2026-01-28T21:11:12.061Z"
+        },
+        {
+          "id": "nelnet-intern-pathway-lincoln",
+          "title": "Intern Pathway",
+          "company": "Nelnet",
+          "posted_at": "2026-01-28T21:11:15.763Z"
         }
       ]
     }
   },
-  "multi_channel_routing": [],
+  "multi_channel_routing": [
+    {
+      "job_id": "crowdstrike-software-engineer-intern-redmond",
+      "company": "Crowdstrike",
+      "title": "Software Engineer Intern",
+      "channels": [
+        "💻・tech-internships",
+        "🌲・pacific-northwest-internships"
+      ],
+      "posted_at": "2026-01-28T21:10:36.628Z"
+    },
+    {
+      "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
+      "company": "LabCorp",
+      "title": "Intern Data Science and Artificial Intelligence",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-28T21:10:45.201Z"
+    },
+    {
+      "job_id": "bread-financial-intern-speech-intelligence-analyst-columbus",
+      "company": "Bread Financial",
+      "title": "Intern – Speech Intelligence Analyst",
+      "channels": [
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-28T21:10:48.716Z"
+    },
+    {
+      "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
+      "company": "Caterpillar Inc.",
+      "title": "Corporate Intern - Digital and Analytics",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-28T21:10:52.159Z"
+    },
+    {
+      "job_id": "sparksoft-intern-columbia",
+      "company": "Sparksoft",
+      "title": "Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-28T21:10:55.657Z"
+    },
+    {
+      "job_id": "adtheorant-data-science-intern-remote-in-usa",
+      "company": "Adtheorant",
+      "title": "Data Science Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "🏠・remote-usa-internships"
+      ],
+      "posted_at": "2026-01-28T21:11:02.075Z"
+    },
+    {
+      "job_id": "copart-data-science-intern-dallas",
+      "company": "Copart",
+      "title": "Data Science Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-28T21:11:05.463Z"
+    },
+    {
+      "job_id": "bread-financial-intern-intelligent-automation-columbus",
+      "company": "Bread Financial",
+      "title": "Intern – Intelligent Automation",
+      "channels": [
+        "📣・marketing-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-28T21:11:12.061Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
