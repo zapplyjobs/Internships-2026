@@ -34522,5 +34522,65 @@
     "job_title": "Software Engineering Intern",
     "company": "VirtualVocations",
     "first_seen": "2026-01-28T05:47:56.113Z"
+  },
+  "rtx-software-engineering-intern---summer-2026-richardson": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Software Engineering Intern - Summer 2026",
+    "company": "RTX",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "yes-energy-data-systems-intern-boston": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Data Systems Intern",
+    "company": "Yes Energy",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "yes-energy-analytics-engineer-intern-boulder": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Analytics Engineer Intern",
+    "company": "Yes Energy",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "yes-energy-data-engineering-intern-boulder": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Data Engineering Intern",
+    "company": "Yes Energy",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "yes-energy-energy-market-analytics-intern---encompass-boulder": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Energy Market Analytics Intern - Encompass",
+    "company": "Yes Energy",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "hewlett-packard-enterprise-research-associate-intern-milpitas": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Research Associate Intern",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "elevance-health-graduate-engineering-intern-atlanta": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Graduate Engineering Intern",
+    "company": "Elevance Health",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "energy-northwest-data-architecture-intern-richland": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Data Architecture Intern",
+    "company": "Energy Northwest",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "energy-northwest-engineering-intern-richland": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Engineering Intern",
+    "company": "Energy Northwest",
+    "first_seen": "2026-01-28T09:09:45.682Z"
+  },
+  "microsoft-research-intern---firmware-security-redmond": {
+    "assigned_date": "2026-01-28T09:09:45.682Z",
+    "job_title": "Research Intern - Firmware Security",
+    "company": "Microsoft",
+    "first_seen": "2026-01-28T09:09:45.682Z"
   }
 }
