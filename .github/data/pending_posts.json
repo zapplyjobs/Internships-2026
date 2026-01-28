@@ -3444,5 +3444,24 @@
     "addedAt": "2026-01-28T09:09:45.742Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Engineer Intern",
+      "employer_name": "GenBio AI",
+      "job_city": "Palo Alto",
+      "job_state": "CA",
+      "job_description": "Join GenBio AI in this exciting opportunity.",
+      "job_apply_link": "https://jobs.lever.co/genbio/97d1b075-b30a-4ed6-9ba3-d6690a606348/apply",
+      "job_posted_at_datetime_utc": "2025-07-28T11:39:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "genbio-ai-research-engineer-intern-palo-alto"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-28T12:05:09.353Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
