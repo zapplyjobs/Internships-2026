@@ -63,6 +63,8 @@ jobs:
         # JSearch API integration (optional, disabled by default)
         ENABLE_JSEARCH: ${{ secrets.ENABLE_JSEARCH || 'false' }}
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY || 'YOUR_KEY_HERE' }}
+        # Database retention window (14 days to catch slow-updating sources)
+        ACTIVE_WINDOW_DAYS: 14
 
     - name: Display job-fetcher logs (always run)
       if: always()
@@ -120,6 +122,8 @@ jobs:
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
         DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
         DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
+        # Database retention window (14 days to catch slow-updating sources)
+        ACTIVE_WINDOW_DAYS: 14
         # Industry channels (6 consolidated channels - 2026-01-23)
         DISCORD_TECH_CHANNEL_ID: ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
         DISCORD_AI_CHANNEL_ID: ${{ secrets.DISCORD_AI_CHANNEL_ID }}
