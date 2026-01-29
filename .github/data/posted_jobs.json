@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-29T20:11:57.403Z",
+  "lastUpdated": "2026-01-29T20:27:59.305Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -4278,14 +4278,203 @@
       "job_city": "Boise",
       "job_state": "ID",
       "job_description": "Our vision is to transform how the world uses information to enrich life for all. Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.As an IT Software Engineer at Micron you will configure, develop, maintain and support Micron and third-party applications. You will build and analyze software specifications, as well as research, design, document, modify, and support software throughout the development life cycle. You must demonstrate the functional and technical skills vital to switch between development technologies and merge them to provide the best solution. You must have a demonstrated ability to develop quality software and participate in quality improvement efforts. You will provide solutions that build business value while at the same time minimizing negative impact resulting from defects, downtime, or performance degradation.Key Responsibilities:You will work closely with multiple teams that make up IT, Information security and Technology to drive impactful change.Design, engineering and implementation of application security solutions in a scalable way for a worldwide enterprise.Analyze and solve systems issues.Ensure that the potential impact of software development changes is well understood, using data to support understanding of upstream and downstream dependencies.Collaborate closely with multi-functional teams for end-to-end testing and performance analysis of real-time data applications, tackle issues, proactively identify new opportunities, and drive initiatives through to completionMinimum Qualifications: Currently pursuing a Bachelor's, or Master's, degree in Computer Ccience or related field. Masters is preferred. Cannot graduate prior to September 2026.Strong conceptual knowledge in data structure & algorithms.Solid foundation in relational, NoSQL, graph databases as well as SQL.Strong programming concepts with knowledge of object-oriented programming and languages like C#, Python etc.Knowledge of software architecture concepts.Preferred Qualifications:Knowledge of large language models (LLMs) and how they are used in modern software systems, including prompting, embedding‑based workflows, or agent‑style patterns.Familiarity with Model Context Protocol (MCP) concepts and/or MCP servers for integrating tools, data sources, or services with LLMs.Basic understanding of machine learning and computational intelligence concepts in the modern landscape (e.g., supervised vs. unsupervised learning, model training vs. inference, foundational vs. task‑specific models).Experience or coursework involving AI‑assisted development tools for code generation, review, or efficiency.Self‑motivated and team‑oriented, with a strong desire to work with others and collaborate on challenging problems in a sophisticated technical environment.As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future.  We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget.  Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave.  Additionally, Micron benefits include a robust paid time-off program and paid holidays.  For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits.Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.To learn about your right to work click here.To learn more about Micron, please visit micron.com/careersFor US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at  hrsupport_na@micron.com or 1-800-336-8918 (select option #3)Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.AI alert: Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.   Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc."
+    },
+    {
+      "id": "8fbd337064f81c20-2026-01-29-1",
+      "jobId": "8fbd337064f81c20",
+      "company": "Kaiser Permanente",
+      "title": "Application Engineer Bachelor Intern",
+      "postedToDiscord": "2026-01-29T20:27:25.327Z",
+      "sourceDate": "2026-01-27T02:17:40.000Z",
+      "sourceUrl": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405215",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466530194352247090",
+          "channelType": "category",
+          "postedAt": "2026-01-29T20:27:25.327Z",
+          "channelJobNumber": 37
+        },
+        "1464304161230295131": {
+          "messageId": "1466530202002788598",
+          "channelType": "location",
+          "postedAt": "2026-01-29T20:27:27.093Z",
+          "channelJobNumber": 7
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Pleasanton",
+      "job_state": "CA",
+      "job_description": "Click the link provided to see the complete job description."
+    },
+    {
+      "id": "9e562a58462785a1-2026-01-29-1",
+      "jobId": "9e562a58462785a1",
+      "company": "Kaiser Permanente",
+      "title": "Process Improvement Master's Intern",
+      "postedToDiscord": "2026-01-29T20:27:28.813Z",
+      "sourceDate": "2026-01-27T02:17:31.000Z",
+      "sourceUrl": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404990",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466530209204404458",
+          "channelType": "category",
+          "postedAt": "2026-01-29T20:27:28.813Z",
+          "channelJobNumber": 38
+        },
+        "1464304161230295131": {
+          "messageId": "1466530216401834117",
+          "channelType": "location",
+          "postedAt": "2026-01-29T20:27:30.542Z",
+          "channelJobNumber": 8
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Pasadena",
+      "job_state": "CA",
+      "job_description": "Click the link provided to see the complete job description."
+    },
+    {
+      "id": "0088f4898d8a82db-2026-01-29-1",
+      "jobId": "0088f4898d8a82db",
+      "company": "Genentech",
+      "title": "2026 Summer Intern - Product Development Data Science",
+      "postedToDiscord": "2026-01-29T20:27:35.388Z",
+      "sourceDate": "2026-01-27T02:14:12.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Science_202601-101287-1",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466530236526235884",
+          "channelType": "category",
+          "postedAt": "2026-01-29T20:27:35.388Z",
+          "channelJobNumber": 15
+        },
+        "1464303497242742875": {
+          "messageId": "1466530244067463312",
+          "channelType": "location",
+          "postedAt": "2026-01-29T20:27:37.171Z",
+          "channelJobNumber": 20
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "2026 Summer Intern - Product Development Data ScienceDepartment SummaryProduct Development Data Science & Analytics is a group of data scientists across 5 global sites. We deliver data and insights about our medicine with excellence and passion. Our mission is to unlock the full potential of data, to accelerate innovative healthcare solutions for patients and society.This internship position is located in South San Francisco, on-site.The Opportunity​​Statistical research: Applied problems with direct relevance to ongoing clinical drug development of a molecule in the Cardiovascular-Renal-Metabolomic disease area.  Optimize the trial design \\for molecules in weight management and glycemic control.Learn and support statistical related activities in real clinical trials, e.g. working on statistical analysis plan. Using R or Python, develop an algorithm to explore study design components.Using R or Python, run simulations to evaluate study design operating characteristics under various assumptions taking into account disease specific challenges on patient dropout, confounding factors such as GLP-1 use and imputation methods.Program Highlights6 months paid internship, first 12 weeks must be full time (40 hours/week) onsite, while the rest can be either full time or part time, remote or onsite, with the opportunity to extend to up to 12 months.Program start dates are in May/June 2026.A stipend will be provided to selected interns to help alleviate costs associated with the internship.Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the pharmaceutical biotechnology industry.Final presentations of project work to senior leaders.Lead or participate in intern committees to design and coordinate program events and initiatives.Professional & personal development curriculum throughout the program, including networking opportunities, workshops, and panel discussions.Participate in volunteer projects, social events, and team-building activities.Who You Are (Required) Required EducationYou meet one of the following criteria:Must have attained a Master's Degree (no more than a year ago).Must be pursuing a PhD (enrolled student with at least one year of graduate work by May 2026).Must have attained a PhD (no more than a year ago).Required Majors: Statistics, Biostatistics, Computer Science, Data Science, Mathematics, Biotechnology, or related fields.Required Skills:Solid training in statistics and/or data science.Intermediate programming ability in R or Python; familiarity with R Shiny is a plus.Experienced problem solver capable of seeking help when needed.Preferred Knowledge, Skills, and QualificationsExcellent communicator, collaborator and team player; comfortable explaining complex technical topics to non-technical audiences.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Experience with software development workflow including versioning and code collaboration with Git.Passion for learning and curious about drug development in the pharmaceutical biotechnology industry.Along with the submission of your CV, a cover letter is optional.Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of California is $50.00 hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants."
+    },
+    {
+      "id": "8c0fcb4022fc5973-2026-01-29-1",
+      "jobId": "8c0fcb4022fc5973",
+      "company": "d-Matrix",
+      "title": "Machine Learning Research Intern",
+      "postedToDiscord": "2026-01-29T20:27:41.917Z",
+      "sourceDate": "2026-01-27T02:12:20.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93/application",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466530264221094100",
+          "channelType": "category",
+          "postedAt": "2026-01-29T20:27:41.917Z",
+          "channelJobNumber": 19
+        },
+        "1464303497242742875": {
+          "messageId": "1466530271330308269",
+          "channelType": "location",
+          "postedAt": "2026-01-29T20:27:43.772Z",
+          "channelJobNumber": 21
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "At d-Matrix , we are focused on unleashing the potential of generative AI to power the transformation of technology. We are at the forefront of software and hardware innovation, pushing the boundaries of what is possible. Our culture is one of respect and collaboration. We value humility and believe in direct communication. Our team is inclusive , and our differing perspectives allow for better solutions. We are seeking individuals passionate about tackling challenges and are driven by execution. Ready to come find your playground? Together , we can help shape the endless possibilities of AI. Location Hybrid, working onsite at our Santa Clara, CA headquarters 3 days per week. 12 Week Program: June 1st - August 21st or June 22nd - September 11th Machine Learning Research Intern The Machine Learning Team is responsible for investigating algorithm-hardware co-design research vectors in d-Matrix's end-to- end solution. You will be joining a team of exceptional people enthusiastic about researching and developing state-of-the-art efficient deep learning techniques tailored for d-Matrix's AI compute engine. You will also have the opportunity to collaborate with top academic labs and help customers optimize and deploy workloads for real-world AI applications on our systems. What You Will Do: • Design, implement and evaluate efficient deep neural network architectures and algorithms for d-Matrix's AI compute engine. • Engage and collaborate with internal and external ML researchers to meet R&amp;D goals. • Engage and collaborate with Software team to meet stack development milestones. • Conduct research to guide hardware design. • Develop and maintain tools for high-level simulation and research. • Port customer workloads, optimize them for deployment, generate reference implementations and evaluate performance. • Report and present progress timely and effectively. • Contribute to publications of papers and intellectual property. What You Will Bring: • Pursuing Masters/PhD degree in Computer Science, Electrical and Computer Engineering, or a related scientific discipline. • High proficiency with PyTorch is a must • High proficiency in algorithm analysis, data structure, and Python programming is a must. • Current knowledge in machine learning and modern deep learning. • Hands-on experience with modern neural network architectures such as MoEs and Diffusion models. • Knowledge and experience with efficient deep learning is preferred: quantization, sparsity, distillation. • Strong publication records in top machine learning conferences or journals is preferred. • Proficiency with C/C++ programming is preferred. • Proficiency with GPU CUDA programming is preferred. • Experience with AutoML and meta learning is preferred. • Experience with numerical analysis preferred. • Experience with specialized HW accelerator systems for deep neural network is preferred. Equal Opportunity Employment Policy d-Matrix is proud to be an equal opportunity workplace and affirmative action employer. We’re committed to fostering an inclusive environment where everyone feels welcomed and empowered to do their best work. We hire the best talent for our teams, regardless of race, religion, color, age, disability, sex, gender identity, sexual orientation, ancestry, genetic information, marital status, national origin, political affiliation, or veteran status. Our focus is on hiring teammates with humble expertise, kindness, dedication and a willingness to embrace challenges and learn together every day. d-Matrix does not accept resumes or candidate submissions from external agencies. We appreciate the interest and effort of recruitment firms, but we kindly request that individual interested in opportunities with d-Matrix apply directly through our official channels. This approach allows us to streamline our hiring processes and maintain a consistent and fair evaluation of al applicants. Thank you for your understanding and cooperation."
+    },
+    {
+      "id": "cbb6420aff221126-2026-01-29-1",
+      "jobId": "cbb6420aff221126",
+      "company": "Black Box",
+      "title": "AI Intern USA",
+      "postedToDiscord": "2026-01-29T20:27:45.460Z",
+      "sourceDate": "2026-01-27T02:12:09.000Z",
+      "sourceUrl": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466530279152681032",
+          "channelType": "category",
+          "postedAt": "2026-01-29T20:27:45.460Z",
+          "channelJobNumber": 20
+        },
+        "1464304182923362324": {
+          "messageId": "1466530286346174474",
+          "channelType": "location",
+          "postedAt": "2026-01-29T20:27:47.183Z",
+          "channelJobNumber": 23
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Plano",
+      "job_state": "TX",
+      "job_description": "Join Black Box in this exciting opportunity."
+    },
+    {
+      "id": "cdb24750ae1addc8-2026-01-29-1",
+      "jobId": "cdb24750ae1addc8",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Inference Software & Systems",
+      "postedToDiscord": "2026-01-29T20:27:49.061Z",
+      "sourceDate": "2026-01-27T02:12:01.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556748209",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466530293669429443",
+          "channelType": "category",
+          "postedAt": "2026-01-29T20:27:49.061Z",
+          "channelJobNumber": 21
+        },
+        "1464304182923362324": {
+          "messageId": "1466530301395075103",
+          "channelType": "location",
+          "postedAt": "2026-01-29T20:27:50.869Z",
+          "channelJobNumber": 24
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science, Computer Engineering or a related STEM field. At least 1 year of experience working with LLM inference software stack and systems. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Familiarity with computer architecture and system performance modeling. Experience with PyTorch, CUDA, and parallel programming. Demonstrated ability to develop original research agendas. Ability to think unconventionally and derive creative, innovative solutions. Proficient communication skills, both written and verbal. Proven interpersonal skills with the ability to work effectively across groups and cultures."
+    },
+    {
+      "id": "f34b9cd0f0a16c0f-2026-01-29-1",
+      "jobId": "f34b9cd0f0a16c0f",
+      "company": "NVIDIA",
+      "title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
+      "postedToDiscord": "2026-01-29T20:27:52.710Z",
+      "sourceDate": "2026-01-26T23:59:47.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466530309121249453",
+          "channelType": "category",
+          "postedAt": "2026-01-29T20:27:52.710Z",
+          "channelJobNumber": 22
+        },
+        "1464303497242742875": {
+          "messageId": "1466530317199474710",
+          "channelType": "location",
+          "postedAt": "2026-01-29T20:27:54.784Z",
+          "channelJobNumber": 22
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "We are looking for an ambitious and innately curious person to be our Technical Program Manager for Deep Learning Software Intern! You will work with engineering and product leaders on planning and execution of large-scale programs to develop and publish software for training and inference applications using various types of neural networks. You will drive the development process and coordinate work between multiple organizations, customers, and researchers. Your work will enable NVIDIA’s customers to employ industry leading AI and ML in their products, spanning almost every possible industry.What you'll be doing:Help teams implement and follow software development life cycle principles for deep learning projectsMaintain program schedules to measure release health, predictability, and achievementsRegularly communicate program status and key issues to senior management at NVIDIAHelp coordinate efforts between development teams, product managers, and solution architectsFacilitate meetings with engineering and products team membersWhat we need to see:Pursuing a BS/MS/PhD in CE, CS, or a related fieldExcellent communication and effective presentation skills with a proven ability to articulate a value proposition to technical and non-technical audiencesExcellent organizational skills and ability to use project management tools (e.g. Jira, Confluence, Aha!) and distributed version control systems (e.g. Git)Ability to multitask, quickly switch context, and be thoroughStrong problem-solving skillsProgramming experience using any modern programming languageUnderstanding of software engineering principles, continuous integration/development, and quality assuranceWays to stand out from the crowd:Technical background with machine learning and deep learning algorithms/frameworks and open-source softwareExperience with technologies that support reporting (pivot tables, charts, JQL, macros), Jupyter Notebooks or alternatives, and Markdown, YAML, or LaTeXPrevious experience with Agile methodologies (Scrum, Kanban, SAFe, LeSS, Business Agility)NVIDIA is widely considered to be one of the technology world’s most desirable employers, constantly striving to redefine the limits of technology. We have some of the most forward-thinking and talented people in the world working for us. If you're creative and passionate about developing AI/ML solutions to solve some of humanity’s greatest problems, we want to hear from you!Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until January 30, 2026.This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning"
     }
   ],
   "metadata": {
-    "totalJobs": 286,
+    "totalJobs": 293,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-29T20:11:57.403Z",
+      "date": "2026-01-29T20:27:59.305Z",
       "archived": 0
     }
   }
