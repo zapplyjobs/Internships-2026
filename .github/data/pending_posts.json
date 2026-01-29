@@ -1737,10 +1737,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:45:23.980Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T21:10:17.957Z"
   },
   {
     "job": {
@@ -1758,10 +1758,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:45:23.980Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T21:10:17.957Z"
   },
   {
     "job": {
@@ -1779,10 +1779,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:45:23.980Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T21:10:17.957Z"
   },
   {
     "job": {
@@ -1800,10 +1800,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:57:49.914Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T21:10:17.957Z"
   },
   {
     "job": {
@@ -1821,10 +1821,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:57:49.914Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T21:10:17.957Z"
   },
   {
     "job": {
@@ -1842,10 +1842,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:57:49.914Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T21:10:17.957Z"
   },
   {
     "job": {
@@ -1937,17 +1937,19 @@
       "employer_name": "Sparksoft",
       "job_city": "Columbia",
       "job_state": "MD",
-      "job_description": "Join Sparksoft in this exciting opportunity.",
+      "job_description": "Join us at Sparksoft, where we're not just another tech company—we're a catalyst for change. Our mission isn't just to offer IT solutions; it's to revolutionize the way you work. Here, passion isn't just a buzzword; it's the fuel behind groundbreaking ideas and transformative technologies. We serve a wide range of government clients, delivering impact that's felt across the nation. Our true strength lies in our people. They're the problem-solvers and innovators consistently delivering extraordinary outcomes. With Sparksoft, you're not stepping into a routine job; you're joining a team committed to innovation and excellence. Our innovation extends beyond just delivering projects. Through our specialized Innovation Centers, we continuously refine our methods, ensuring we remain industry leaders. We are Sparksoft!ROLE & RESPONSIBILITIES: Assist in designing, developing, and maintaining applications using Java and related frameworks. Write simple, clean, and well‑structured code under the guidance of senior developers. Support debugging, troubleshooting, and improving existing Java modules. Participate in code reviews and follow best practices in version control and documentation REQUIRED EXPERIENCE: Basic knowledge of Java, OOP concepts, and data structures. Understanding of AI/ML fundamentals such as supervised learning, classification, regression, or neural networks. Familiarity with ML libraries (Python or Java‑based). Good problem‑solving and analytical thinking. Ability to work in a team environment and follow guidance Candidates must be able to obtain and maintain a Public Trust clearance. Candidates must have lived in the United States 3 out of the past 5 years. PREFERED EXPERIENCE: 0-2 Years of relevant experience. EDUCATION & CERTIFICATIONS: Bachelor’s degree (computer science or information technology related field preferred) The pay range for this job level is a general guideline only and not a guarantee of compensation or salary. In addition to our competitive base pay, Sparksoft offers health insurance, paid time off, 401K matching, and training. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, or other laws.Maryland Pay Range$15 - $15 USDWHAT WE OFFER: At Sparksoft, we know that people do their best work when they feel supported, inspired, and connected. That’s why we’ve built a workplace that balances comprehensive benefits with a culture of collaboration and innovation. From flexible time off to professional growth opportunities, we’re committed to helping you thrive both inside and outside of work. When you join Sparksoft, you’ll enjoy: Competitive compensation and a 401(k) with employer contributions to help you plan for the future Flexible paid time off and hybrid ways of working that support true work-life balance Comprehensive health coverage—including medical, dental, vision, life, and disability insurance A curated in-office experience designed to foster community, team connections, and innovation Opportunities to give back through Sparksoft Cares, including annual company-wide fundraising events Training and development programs that build new skills and prepare you for leadership roles A collaborative, transparent, and fun culture—recognized as a Great Place to Work® Accessibility and Accommodations: Sparksoft Corporation is committed to providing equal employment opportunities to all individuals. If you require accommodations during the application or interview process, please contact us at Sparksoft.Accommodations@sparksoftcorp.com or call 410-424-7700. Requests are reviewed and fulfilled on a case-by-case basis. Security Notice: Your privacy and data security are important to us. Sparksoft Corporation will never request sensitive personal information via email. If you receive any suspicious communication claiming to be from Sparksoft, please report it immediately to our security team at abuse@sparksoftcorp.com. Artificial Intelligence (AI) Policy: While Sparksoft recognizes the value of artificial intelligence in the workplace, our hiring process is designed to assess each candidate’s individual skills, judgment, and problem-solving abilities. To maintain the integrity of this process, the use of AI tools at any stage of the application or interview is strictly prohibited. Violations of this policy may result in disqualification from consideration.",
       "job_apply_link": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5030475007",
       "job_posted_at_datetime_utc": "2026-01-26T15:31:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "3d",
-      "id": "sparksoft-intern-columbia"
+      "id": "sparksoft-intern-columbia",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T21:09:42.289Z",
     "postedAt": null
   },
   {
@@ -1956,17 +1958,19 @@
       "employer_name": "Rheem",
       "job_city": "Huntsville",
       "job_state": "AL",
-      "job_description": "Join Rheem in this exciting opportunity.",
+      "job_description": "The Product Engineer Intern is responsible for providing documentation to manufacturing to produce refrigeration products. This will require the structuring and routing of bills of material, coil sizing, refrigeration system design, wiring schematic development and component selection. Duties will also include supporting the shop floor with any drawing interpretation or guidance required, provide any work instructions and support lean manufacturing improvements for the production line. This position also drives the Safety, Quality and Continuous Improvement efforts, in conjunction with the supervisor. This position will serve our HTPG Division, located in Scottsboro, Alabama. Summer/Fall 2026",
       "job_apply_link": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3571",
       "job_posted_at_datetime_utc": "2026-01-26T15:11:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "3d",
-      "id": "rheem-product-engineering-intern-huntsville"
+      "id": "rheem-product-engineering-intern-huntsville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T21:09:42.289Z",
     "postedAt": null
   },
   {
@@ -1975,17 +1979,19 @@
       "employer_name": "Adtheorant",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Adtheorant in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>Cadent ignites seamless connections between brands, publishers &amp; consumers. Our predictive AI orchestrates outcomes on any platform customers are on, across any media they consume &amp; at any stage of the journey. To learn more, please visit Cadent.com.</p> <p>&nbsp;</p> <p>As we continue to grow, we’re looking for a Data Science Intern to join our Data Science team for Spring 2026. The Intern will have an opportunity to gain hands-on experience by working directly with our teams, not for them.</p> <h2>Responsibilities</h2> <p>The Intern will be responsible for fulfilling tasks set out by supervisors from the specific department they’re working in, including but not limited to:</p> <ul> <li>Use Python, SQL, Shell scripting, and Cloud technologies and other department-specific software to complete day-to-day R&amp;D assignments.&nbsp;<strong>*Python experience is required*</strong></li> <li>Collaborate effectively with other members of the engineering research team and broader data services group including but not limited to Data Scientists, Data Engineers, Analytics Engineers, Performance Engineers, Software Engineers and Business Intelligence Analysts</li> <li>Conduct research and present findings to the MLE team and business stakeholders</li> <li>Collaborate with the team in Agile Sprint Planning, demos, seminars, and other team meetings.</li> </ul> <h2>Qualifications</h2> <ul> <li>A senior pursuing a Master’s degree at a college or university majoring in a field closely related to the department they are interning preferably computer science or related field</li> <li>Able to commit to a part-time (20 hours per week) work schedule between March 2, 2026 – May 8, 2026.</li> <li>Proficient in Python SQL, and Shell scripting, with some knowledge Docker containerization and Cloud data processing technologies</li> <li>Background in software engineering and knowledge of statistical concepts</li> <li>Excellent verbal and written communicators</li> <li>Self-motivated with a desire to learn from a rapidly growing company</li> <li>Confident to take initiative and collaborate with teammates</li> </ul> <p>&nbsp;</p> <p>So, if the leading edge of media technology is the place you want to be, please contact us today and let’s start the conversation!</p> <p>&nbsp;</p> <p><em>Cadent is an Equal Opportunity Employer and is committed to supporting all it’s employees when it comes to Inclusion &amp; Diversity. Cadent’s policy is to provide equal opportunity for applicants &amp; employees without regard to race, color, religion, creed, gender, gender identity or expression, sexual identity or orientation, age, national origin or ancestry, citizenship, disability or medical condition (including pregnancy, childbirth, or related medical condition), sexual and reproductive health decisions, genetic information, marital status (including domestic partnerships and civil unions), pregnancy, culture ancestry, familial or caregiver status, military status, veteran status, socioeconomic status, unemployment status, status as a victim of domestic violence or any other basis prohibited by law. and will not discriminate against the basis of disability. This commitment is honored when it comes to decisions on hiring, recruiting, training, promotions, compensations, benefits, transfers and terminations.</em></p> <p>&nbsp;</p> <p><em>Cadent is seeking to actively engage with our employees from a wide variety of cultures and to connect with our clients differently. Our workforce has generational diversity that supports greater innovation when we maximize representation of all diversity. Our active employee resource groups promote engagement across all groups of individuals that are represented within the company and externally</em></p> <h2>Pay Range</h2>USD $20.00 - USD $25.00 /Hr.",
       "job_apply_link": "https://careers-cadent.icims.com/jobs/1300/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2026-01-26T15:11:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "3d",
-      "id": "adtheorant-data-science-intern-remote-in-usa"
+      "id": "adtheorant-data-science-intern-remote-in-usa",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T21:09:42.289Z",
     "postedAt": null
   },
   {
@@ -1994,17 +2000,19 @@
       "employer_name": "LabCorp",
       "job_city": "Durham",
       "job_state": "NC",
-      "job_description": "Join LabCorp in this exciting opportunity.",
+      "job_description": "Company Overview:At Labcorp, we believe in the power of science to change lives. We are nearly 70,000 people across 100 countries who are harnessing science for human good. Our work combines unparalleled diagnostic laboratories, drug development capabilities and commercial innovations. Together, we fuel scientific breakthroughs and deliver more than 160 million medical test results that help guide treatment decisions, accelerate patient care and change lives. Join us in our pursuit of answers.Labcorp 2026 Global Internship Program Exciting Internship Opportunity – Data Science and Artificial Intelligence – Remote (US)Join Labcorp’s 2026 Global Internship Program and take the first step toward a meaningful career in healthcare innovation! We’re looking for motivated students to be part of a dynamic 12-week paid internship where you’ll work on impactful projects and gain real-world experience, all while supporting our mission to improve health and lives.Internship 2026 Dates: May 18, 2026 – August 7, 2026About the ProgramAs a Labcorp intern, you’ll be immersed in hands-on work that complements your academic background. In addition to your project work, you’ll gain valuable exposure to Labcorp’s global business, culture, and leadership through:Enterprise-wide learning experiences that introduce you to key business functions across LabcorpLeadership exposure and visibility, including direct interaction with senior leadersAn immersive, in-person intern event June 2-4, 2026 designed to connect you with peers and deepen your understanding of our missionSenior leader speaker sessions offering insights into strategy, innovation, and career growthContinuous opportunities to connect and grow, from intern cohort communication channels and LinkedIn Learning resources to professional development sessions and storytelling opportunities that highlight your internship journeyConnection to Labcorp’s inclusive culture through engagement with our employee resource groups (ERGs)and values-driven community initiativesDedicated mentoring connections to guide your growth, provide career advice, and support your internship journeyInternship Details Duration: 12 weeks, full-timeDates of Internship: May 18, 2026 – August 7, 2026Location: Remote (US)Compensation: Paid internship; relocation assistance available for qualified candidatesEligibility: Preferred candidates are post graduate Masters or PHD students who are currently enrolled in a relevant degree program; however, all current students pursuing related studies are encouraged to apply.Why Labcorp?In 2025, we welcomed over 300 interns across our global offices. As part of the 2026 cohort, you’ll join a diverse community of future leaders working to shape the future of diagnostics, biopharmaceutical lab services, corporate functions, and healthcare delivery.Ready to make a difference?Apply now to launch your career and create real impact for patients worldwide. #FutureofLabcorp About the Team:The Labcorp Artificial Intelligence team has pioneered real-time API integrations for model inference, deployed solutions leveraging state-of-the-art machine learning models, and continually brings advanced AI capabilities into practice to improve patient outcomes and business operations.Internship Assignment Summary:Machine Learning Model Development & Deployment: Design, develop, and deploy production-ready machine learning models through real-time API integrations, contributing to enterprise-scale AI solutions that directly impact patient care and healthcare delivery across Labcorp's global diagnostic operations.Generative AI Application & Innovation: Apply cutting-edge Generative AI techniques to solve complex healthcare and business challenges, working alongside experienced data scientists to implement state-of-the-art AI capabilities that enhance diagnostic workflows and operational efficiency.End-to-End AI Solution Implementation: Participate in the full lifecycle of AI solution delivery—from data exploration and model development to integration, testing, and monitoring—while gaining hands-on experience with enterprise-level machine learning infrastructure and best practices in a healthcare setting.Education/Qualifications/Skills:Working towards postgraduate degree in Science, Mathematics, Computer Science or other related fieldHas experience delivering multiple projects in an academic or professional settingAbility to collaborate with various stakeholders and internal/external colleaguesCompleted coursework in machine learning, data mining, and statistical analysis, applying learned concepts in real-world scenariosExperience in programming languages including Python, R, and SQL for data manipulation and analysisEmbraces diverse ways of thinking through various forms collaboration and partnershipThis position is not eligible for visa sponsorship.Application Window: 01/26/26 - 01/29/2026Pay Range: $35-$40All job offers will be based on a candidate’s skills and prior relevant experience, applicable degrees/certifications, as well as internal equity and market data. Benefits: Employees regularly scheduled to work 20 or more hours per week are eligible for comprehensive benefits including: Medical, Dental, Vision, Life, STD/LTD, 401(k), Paid Time Off (PTO) or Flexible Time Off (FTO), Tuition Reimbursement and Employee Stock Purchase Plan. Casual, PRN & Part Time employees regularly scheduled to work less than 20 hours are eligible to participate in the 401(k) Plan only. For more detailed information, please click here. Labcorp is proud to be an",
       "job_apply_link": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Data-Science-and-Artificial-Intelligence_2534702",
       "job_posted_at_datetime_utc": "2026-01-26T13:37:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "3d",
-      "id": "labcorp-intern-data-science-and-artificial-intelligence-durham"
+      "id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T21:09:42.289Z",
     "postedAt": null
   },
   {
@@ -2013,17 +2021,19 @@
       "employer_name": "Crowdstrike",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Crowdstrike in this exciting opportunity.",
+      "job_description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Our University Recruiting program is dedicated to attracting and cultivating the future leaders of this industry. This program offers paid positions for students and recent grads, designed to provide exposure to work that makes an impact while being supported through a structured experience with seasoned professionals. Ready to join a mission that matters? The future of cybersecurity starts with you.About the Role:CrowdStrike's Engineering Internship offers a unique opportunity to work with the industry's brightest engineering talent on impactful, real-world engineering challenges. As an engineering intern, you will contribute to building the world's most advanced cybersecurity platform. This role is designed to enhance your programming, system design, and security knowledge. You will receive dedicated mentorship and regular feedback from our senior engineers and leaders while tackling meaningful projects within our engineering teams.Location: All engineering internships will be onsite at our Sunnyvale, CA office or Redmond, WA office.Time Commitment: Interns are expected to work 40 hours per week, Monday through Friday, during standard business hours.Start & End DatesCohort 1: Wednesday, May 20 - Friday, August 7, 2026 (11 ½ Weeks)Cohort 2: Monday, June 1 - Friday, August 21, 2026 (12 Weeks)Cohort 3: Monday, June 15 - Friday, September 4, 2026 (12 Weeks)What You'll do:We are looking for engineering interns to work in the following areas: Cloud  & Data: Design and develop cross-platform software using Python, C/C++, or Go while tackling complex technical challenges in our massively scalable distributed architecture. You'll collaborate with engineering teams to implement high-security standards and coding best practices, gaining hands-on experience with cutting-edge technologies across our entire development stack. Network: Learn about multi-region production networks while developing automation scripts that enhance network observability and efficiency. You'll partner with experienced network engineers on deployment projects, gaining hands-on experience with Linux systems, networking protocols, and modern CI/CD practices. Sensor: Assist in the architecture and improve cutting-edge anti-virus and EDR security solutions across Windows, Mac, and Linux platforms. You’ll design, build, and demo innovative security software while gaining hands-on experience with OS internals, kernel development, and C++ programming.Frontend: Learn to create accessible, high-performance interfaces while gaining hands-on experience with client-side build processes and visualization tools in a collaborative environment. Requires: strong JavaScript, modern framework experience (Ember, React, Angular, or Vue), HTML/CSS (Sass/Tailwind), testing knowledge (QUnit, Mocha, Selenium).Security Research: Learn to analyze and develop adversarial emulations using C2 frameworks (Cobalt Strike, Metasploit, Mythic) to recreate real-world attacks and improve detection. Utilize DevOps tools (Docker, Jenkins, Git, Kubernetes) for automated, scalable testing. Experience with red team frameworks, MITRE ATT&CK, technical analysis, C2 frameworks, scripting, and DevOps is preferred. What You’ll Need: Currently enrolled at a four university, currently working towards a Computer Science, Computer Engineering, Networking, or Mathematics degree, graduating between December 2026 - August 2027Development experienced with one or more of the following: Python, C/C++, Java, or Go and with the technologies listed in areas listed aboveAble to communicate, collaborate, and work effectively in a distributed teamDemonstrates the ability to write high-quality code through work, academics, or open-source projects.Ability to thrive in a fast-paced, test-driven, collaborative programming environment Bonus Points:Contributions to the open source community (GitHub, Stack Overflow, blogging)Familiarity with AWS, Cassandra, Kafka, ElasticSearch, Redis, Grafana, GRPC, Docker, Kubernetes or Jenkins.Experience working on security products, security-related academic background or participation in capture-the-flag competitionsOS system understanding (Linux, XNU, FreeBSD, etc.)LI-AI2LI-MS1LI-MP3What You Can Expect:Market leader in compensation and equity awardsPaid holidays (including birthday holidays) and 401k matching (where applicable)Professional development opportunities including workshops, tech talks, and Executive Speaker SeriesAssigned mentors from across the company for continuous support and feedbackParticipation in companywide initiatives including FalconFIT, Wellness Programs, and Employee Assistance ProgramEmployee Networks, geographic neighborhood groups, and volunteer opportunities to build connectionsVibrant office culture with world class amenitiesOwnership of impactful projects that move the company forwardGreat Place to Work Certified™ across the globeCrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements.If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.Find out more about your rights as an applicant.CrowdStrike participates in the E-Verify program.Notice of E-Verify ParticipationRight to WorkCrowdStrike, Inc. is committed to fair and equitable compensation practices. The hourly rate for this position for all U.S. candidates is $38 - $45",
       "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636",
       "job_posted_at_datetime_utc": "2026-01-26T12:21:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "3d",
-      "id": "crowdstrike-software-engineer-intern-redmond"
+      "id": "crowdstrike-software-engineer-intern-redmond",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T21:09:42.289Z",
     "postedAt": null
   },
   {
@@ -2032,18 +2042,20 @@
       "employer_name": "Stifel",
       "job_city": "St. Louis",
       "job_state": "MO",
-      "job_description": "Join Stifel in this exciting opportunity.",
+      "job_description": "<h2>Why Stifel</h2> <p>Stifel strives for a culture that puts its clients and associates first: a culture where everyone belongs, everyone is welcome, and everyone contributes to the success of our clients, their careers, and the firm as a whole.</p> <p>&nbsp;</p> <p>Let’s talk about how you can find your place here at Stifel,&nbsp;<strong>where success meets success</strong>.</p> <h2>What You'll Be Doing</h2> <p>Stifel's Technology Product Development department works to transform our digital technology for advisors in order to strengthen client bonds.</p> <p>&nbsp;</p> <p>The Technology Product Development Analyst Intern will work as a member of Stifel's analysis team. The Intern will engage with development teams &amp; product management to analyze, document, and understand business processes and procedures as well as support discovery or solutions for firm driven initiatives and development.</p> <p>&nbsp;</p> <h2>What We're Looking For</h2> <ul> <li>Develop an understanding of the Stifel business &amp; data models and use that knowledge to optimize the relationship between the company and the customer.</li> <li>Field inbound requests from business users and product management and refine requirements until a full understanding is reached on the process being analyzed.</li> <li>Perform limited due diligence to ensure quality and accuracy.</li> <li>Work according to standards and practices set by Product Management or senior team members.</li> <li>Gain an understanding of company applications and business practices in the context of how they affect the customer and the business process.</li> <li>Research best practices and supports developing the solutions and recommendations for the business areas as identified.</li> </ul> <h2>What You'll Bring</h2> <ul> <li>Basic understanding of financial industry terminology and concepts.</li> <li>Ability to take a problem and research it from beginning to end creating detailed documentation.</li> <li>Strong analytical skills focused on using logic, reasoning, and data to identify complex relationships as well as to research and discuss recommended uses.</li> </ul> <h2>Education &amp; Experience</h2> <ul> <li>Pursuing a degree in Finance, Information Technology, Computer Science, or Business with at least one year of college completed preferred.</li> <li>Experience with office productivity, reporting, and technical documentation software such as Excel, Powerpoint, and Google Drive applications preferred.&nbsp;</li> <li>Experience with databases and SQL preferred.</li> </ul> <h2>Systems &amp; Technology</h2> <ul> <li>Proficient in Microsoft Word and Excel.</li> </ul> <h2>About Stifel</h2> <p>Stifel is more than 130 years old and still thinking like a start-up.&nbsp; We are a global wealth management and investment banking firm serious about innovation and fresh ideas.&nbsp; Built on a simple premise of safeguarding our clients’ money as if it were our own, coined by our namesake, Herman Stifel, our success is intimately tied to our commitment to helping families, companies, and municipalities find their own success.</p> <p>&nbsp;</p> <p>While our headquarters is in St. Louis, we have offices in New York, San Francisco, Baltimore, London, Frankfurt, Toronto, and more than 400 other locations.&nbsp; Stifel is home to approximately 9,000 individuals who are currently building their careers as financial advisors, research analysts, project managers, marketing specialists, developers, bankers, operations associates, among hundreds more.&nbsp; Let’s talk about how you can find your place here at Stifel, where success meets success.</p> <p>&nbsp;</p> <p>At Stifel we offer an entrepreneurial environment, comprehensive benefits package to include health, dental and vision care, 401k, wellness initiatives, life insurance, and paid time off.</p> <p>&nbsp;</p> <p>Stifel is an Equal Opportunity Employer.</p>",
       "job_apply_link": "https://careers-stifel.icims.com/jobs/8188/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-02T16:52:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1d",
-      "id": "stifel-technology-product-development-analyst-intern-summer-2026-st-louis"
+      "id": "stifel-technology-product-development-analyst-intern-summer-2026-st-louis",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-29T21:09:42.289Z",
+    "postedAt": "2026-01-29T21:10:17.957Z"
   },
   {
     "job": {
@@ -2051,17 +2063,19 @@
       "employer_name": "Entrust",
       "job_city": "Shakopee",
       "job_state": "MN",
-      "job_description": "Join Entrust in this exciting opportunity.",
+      "job_description": "Join us at Entrust  At Entrust, we’re shaping the future of identity centric security solutions. From our comprehensive portfolio of solutions to our flexible, global workplace, we empower careers, foster collaboration, and build solutions that help keep the world moving safely.     Get to Know Us  Headquartered in Minnesota, Entrust is an industry leader in identity-centric security solutions, serving over 150 countries with cutting-edge, scalable technologies. But our secret weapon? Our people. It’s the curiosity, dedication, and innovation that drive our success and help us anticipate the future.  Position Overview: Entrust is looking for a Software Development Co-Op student to join our team for a 6 to 12 months experience in Shakopee, MN at our Corporate headquarters.Join Entrust as a co-op student in our Engineering Group. Gain hands-on experience in your focus area of study. The Program allows undergraduate students an opportunity to gain experience and develop skills through challenging work assignments that truly add value to the business.Responsibilities:Software Development - 50%Design, develop, test, document and deploy softwareAssist in reviewing product requirements and estimation of workWork with test group to validate functionalitySoftware Continuation - 20%Review and Respond to reported field problemsTry to reproduce problemFix and/or identify workaround to the problemReviewing and Testing work from others on the team - 30%Reviewing and unit testing code from others on teamReviewing Technical documents of released functionalityBasic Qualifications:Pursuing bachelor’s degree in Computer Science, Mathematics, or equivalent technical degree.Experience with Java, C++ and/or C# software development.Experience with Windows updates and security Windows OS systemsExperience with diagnosticsMust be able to lawfully work within the US and have unrestricted work authorization for US.Preferred Qualifications:SubversionExperience in Python,.NET, Windows developmentGUI application programing using Java SwingExperienced with agile processes, methodologies, and tools on multi-person teams and projectsExperience or desire working with machine vision systemsExperience with image generation and processing including color managed workflowsExperience with concurrency/multi-threaded development environmentsExperience or interest working with mechanical systemsAbout Entrust Our growing company relies on curious, dedicated and innovative colleagues to anticipate the future and provide solutions for a more connected, mobile and secure world. Entrust technologies and expertise help government agencies, enterprises and financial institutions in more than 150 countries serve and safeguard citizens, employees and consumers. Each year, our solutions secure billions of transactions — and every day, our technologies issue and manage more than 10 million secure identities. How do we do all of this? Together.Join us. Together we’ll create solutions for a more connected, mobile and secure life.For more information, visit http://www.entrust.com/. Follow us on Twitter, YouTube and LinkedIn.Entrust Corporation is an EOE/AA/Veteran/People with Disabilities employer.NO AGENCIES, NO RELOCATION#LI-GR1#ENT123At Entrust, we don’t just offer jobs – we offer career journeys. Here is what you can expect when you join our team:  Career Growth: Whether you’re a budding developer or a seasoned expert, we’re invested in your professional journey. With learning-forward initiatives and exciting challenges, your growth is our priority.  Flexibility: Life is all about balance. Whether you’re remote, hybrid, or on-site, we offer flexible options that fit your lifestyle.  Collaboration: Here, your voice matters. Our teams thrive on sharing ideas, brainstorming solutions, and working together to build a better tomorrow.  We believe in securing identities—but it doesn’t stop there. At Entrust, we’re passionate about valuing all identities. Our culture is built on diversity, inclusion, and respect. From unconscious bias training for our leaders to global affinity groups that connect colleagues across the globe, we’re creating a community where everyone is encouraged to be themselves.   Ready to Make an Impact?  If you’re excited by the prospect of innovating, growing your career, and collaborating in a dynamic environment, Entrust is the place for you. Join us in making a difference. Let’s build a more secure world—together.     Apply today!   For more information, visit www.entrust.com.  Follow us on, LinkedIn, Facebook, Instagram, and YouTube For US roles, or where applicable:Entrust is an EEO/AA/Disabled/Veterans EmployerFor Canadian roles, or where applicable: Entrust values diversity and inclusion and we are committed to building a diverse workforce with wide perspectives and innovative ideas. We welcome applications from qualified individuals of all backgrounds, and we strive to provide an accessible experience for candidates of all abilities. If you require an accommodation, contact accessibility@entrust.com.Recruiter:Grace RusingizaGrace.Rusingiza@entrust.com",
       "job_apply_link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op-Internship_R003765",
       "job_posted_at_datetime_utc": "2025-09-17T01:51:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "entrust-software-engineer-co-op-internship-shakopee"
+      "id": "entrust-software-engineer-co-op-internship-shakopee",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T21:09:42.289Z",
     "postedAt": null
   },
   {
