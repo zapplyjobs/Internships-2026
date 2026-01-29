@@ -813,10 +813,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:15:51.881Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -834,10 +834,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:31:15.345Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -855,10 +855,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:31:15.345Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -876,10 +876,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:31:15.345Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -897,10 +897,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:31:15.345Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -918,10 +918,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:31:15.345Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -939,10 +939,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:31:15.345Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -960,10 +960,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:31:15.345Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T19:47:27.253Z"
   },
   {
     "job": {
@@ -1013,17 +1013,19 @@
       "employer_name": "MEMIC",
       "job_city": "Portland",
       "job_state": "ME",
-      "job_description": "Join MEMIC in this exciting opportunity.",
+      "job_description": "Are you the kind of person who gets a little too excited about a clean spreadsheet? Do you love solving puzzles, spotting patterns, and making messy information make sense? If so, our Business Intelligence internship might be your perfect summer adventure. As a BI intern, you’ll dive into real projects that make a real impact - you’ll be helping us understand the story behind our data and shaping how teams across the company make decisions. What You’ll Do Assist with data mapping and documentation to help us understand where everything lives and how it all connects Clean up, consolidate, and standardize reports so our insights are sharp, accurate, and easy to use Outline processes and identify improvements — and even help brainstorm solutions Participate in cross‑functional training and knowledge sharing to learn how different teams use data Support the BI team with data scrubbing, manipulation, and descriptive analytics Help test new systems and assist with monthly or ad‑hoc reporting Use Power BI to build dashboards and visualizations for teams across the company Contribute to data‑related projects across the MEMIC Group and see how your work drives decisions What You Bring Pursuing an Associate’s degree or higher Familiarity with Power BI, Tableau or SQL Strong Excel skills Excellent attention to detail and strong organizational habits Clear communication skills and a collaborative mindset Why You’ll Love This Internship You’ll gain hands‑on experience, build your technical toolkit, and learn how data powers decisions in a corporate environment. You’ll also get exposure to BI tools, cross‑department collaboration, and real‑world analytics challenges — all while working with a supportive team that wants to see you grow. ___________________________________________________________________________________________________________________________________________________________________________________________________________ MEMIC is committed to a policy of nondiscrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religious creed, national origin, ancestry, age, disability, genetics, gender identity, veteran's status, sexual orientation, or any other characteristic protected by law. MEMIC is an equal opportunity employer encouraging diversity in the workplace. #IND2022 MEMIC's Job Applicant Privacy Notice",
       "job_apply_link": "https://job-boards.greenhouse.io/memic/jobs/7601219003",
       "job_posted_at_datetime_utc": "2026-01-27T15:29:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "memic-business-intelligence-intern-portland"
+      "id": "memic-business-intelligence-intern-portland",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
@@ -1032,17 +1034,19 @@
       "employer_name": "Citizens Financial Group",
       "job_city": "Providence",
       "job_state": "RI",
-      "job_description": "Join Citizens Financial Group in this exciting opportunity.",
+      "job_description": "We’re developing the next generation of Colleagues! Join the data-driven culture at Citizens and learn how we keep customers at the center of everything we do. We are looking for interns to join our 10-week summer internship program and support innovative data & analytics initiatives across the bank. Experience during the program Our program offers interns a unique dual experience – Participants spend half of their time individually partnered with a host team within the data & analytics community to participate in ongoing work. Assignments for data analyst interns may be in areas aligned to data quality monitoring, metadata management, ETL support, data integration, SQL development, cloud-based data tools, and exploratory data analysis- including tasks related to reporting, dashboarding, and ad-hoc investigations. This component of the program provides direct exposure to teams in areas that align to intern education and interests. The other half of the time, interns work on a cr...",
       "job_apply_link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44432",
       "job_posted_at_datetime_utc": "2026-01-27T15:13:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "citizens-financial-data-management-undergraduate-summer-internship-providence"
+      "id": "citizens-financial-data-management-undergraduate-summer-internship-providence",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
@@ -1051,17 +1055,19 @@
       "employer_name": "Criteo",
       "job_city": "Ann Arbor",
       "job_state": "MI",
-      "job_description": "Join Criteo in this exciting opportunity.",
+      "job_description": "What You'll Do:The goal of Criteo’s internship program is to provide valuable real world work experience to the engineers of tomorrow while building a relationship that often leads to future employment. Many of our best engineers were hired after spending a summer with us. With that goal in mind, our internship program is structured so that each intern is assigned to one of our product engineering teams. While working as part of that team, you will work hand in hand with our talented engineers, solving problems and creating new features that will be deployed to tens of millions of users worldwide. At Criteo, you won’t sit in the intern section and work on data entry or QA projects.Who You Are:A Current Student at The University of Michigan or one of the surrounding Colleges (must be available for onsite in Ann Arbor to qualify for the program)Work on real and impactful projects that are used by leading retailers and brandsGain experience by working on cutting edge and highly scalable systemsHone your skills as a full stack, data or UX focused engineer.Work with and learn from talented engineers, with a diverse set of backgroundsYou’ll be placed on one of our technical team based on your interest and skill set.Pursuing a degree (Bachelors or Masters) in Computer Science or a related fieldMust be currently enrolled in a full-time degree program and returning to the program after intern completionExperience in C++, Java, Python, Scala, or C#A strong sense of ownership and a dislike for passing the buckA problem solver, a fixer, and a creative technologist. We believe coding is a talent and a passion, not just a skill.A strong communicator and a team player who can work efficiently with othersWe acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!​Who We Are:Criteo is a leader in commerce media, helping brands, agencies, and publishers create meaningful consumer connections through AI-powered advertising solutions. We’re shaping a more open and sustainable digital future for advertising.    At Criteo, our culture is as unique as it is diverse. From our offices across the globe or from the comfort of home, our 3,600 Criteos collaborate together to build an open, impactful, and forward-thinking environment.    We foster a workplace where everyone is valued, and employment decisions are based solely on skills, qualifications, and business needs—never on non-job-related factors or legally protected characteristics.  What We Offer:🏢 Ways of working – Our hybrid model blends home with in-office experiences, making space for both.   📈 Grow with us – Learning, mentorship & career development programs.  💪 Your wellbeing matters – Health benefits, wellness perks & mental health support.  🤝 A team that cares – Diverse, inclusive, and globally connected.  💸 Fair pay & perks – Attractive salary, with performance-based rewards and family-friendly policies, plus the potential for equity depending on role and level.    Additional benefits may vary depending on the country where you work and the nature of your employment with Criteo.For employees based in the US, certain roles at Criteo are eligible for additional rewards, including quarterly or annual bonus and restricted stock units. US-based employees receive access to healthcare, dental, and vision insurance, a 401(k) plan with company match, short-term and long-term disability coverage, life insurance, family forming and wellness benefits, Flexible Work financial support, learning opportunities, and a robust annual leave plan including volunteer time off and summer vacation days.The US base salary pay range for this position per year is:$48,000k",
       "job_apply_link": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Ann-Arbor/Software-Development-Engineer-Intern_r20252",
       "job_posted_at_datetime_utc": "2026-01-27T15:12:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "criteo-software-development-engineer-intern-ann-arbor"
+      "id": "criteo-software-development-engineer-intern-ann-arbor",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
@@ -1070,17 +1076,19 @@
       "employer_name": "Grant Thornton",
       "job_city": "Dallas",
       "job_state": "TX",
-      "job_description": "Join Grant Thornton in this exciting opportunity.",
+      "job_description": "Why Join our Tax Technology Team as an Intern? At Grant Thornton, our Tax Technology team works with large, complex organizations to improve how tax departments operate by implementing scalable technology solutions and driving meaningful process improvements. Our work spans a range of areas, including the design, configuration, and integration of tax engines for both direct and indirect taxes. We help clients automate and streamline calculation, compliance, and reporting activities, building long-term efficiency and accuracy into their operations. Beyond tax engines, we work with a variety of modern platforms outside of traditional tax software. This includes enterprise systems, data automation tools, workflow tracking solutions, and visualization platforms. We support clients in streamlining data collection, implementing workflow automation, enhancing tax data management, and integrating emerging technologies like AI to solve complex tax challenges. These efforts all align to a...",
       "job_apply_link": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114343",
       "job_posted_at_datetime_utc": "2026-01-27T15:07:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "grant-thornton-tax-technology-intern-summer-2027-dallas"
+      "id": "grant-thornton-tax-technology-intern-summer-2027-dallas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
@@ -1089,17 +1097,19 @@
       "employer_name": "Cambridge Associates",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Cambridge Associates in this exciting opportunity.",
+      "job_description": "Firm Overview:Cambridge Associates (“CA”) is a leading global investment firm. CA’s goal is to help endowments & foundations, pension plans, and ultra-high net worth private clients implement and manage custom investment portfolios that generate outperformance so that they can maximize their impact on the world. Cambridge Associates delivers a range of services, including outsourced CIO, non-discretionary portfolio management, and investment consulting.Headquartered in Boston, Massachusetts, CA has offices in key markets in North America, the United Kingdom, Europe, Asia, and Oceania.  Our worldwide teams ensure our clients benefit from decades of global presence, local expertise, and relationships with the top global investment managers across the world.  For more information, please visit www.cambridgeassociates.com.Job Description Summary:THE OPPORTUNITYData Analyst Internship ProgramPOSITION SPECIFICSLocation of Position: Boston, MAProgram Length: 10-week program from early June to mid-August (open to rising juniors and seniors: Class of 2026 &2027)Required for Application: ResumeOffice Requirement: Intern is expected to work in their assigned office at least 4 days per week with the option to work from home 1 day per weekExpected Hours: Interns are expected to work 40 hours per weekBase Pay/Salary: Boston, MA: $25 / hour and additionally, offer includes sign-on bonus.Job Description:DATA ANALYST INTERNSHIP PROGRAMThe Data Office at Cambridge Associates is seeking motivated and curious interns to join our team for a 10-week summer program. This is an exciting opportunity to gain hands-on financial services domain knowledge and experience in business and data analysis, data governance, data engineering, and development work that supports our enterprise data initiatives. Interns will work closely with the Chief Data Officer and Data Office team on projects that drive data governance, data quality, master data management (Security Master), and the development of our Snowflake Data Platform.You will be exposed to real-world challenges in data management, analytics, and technology, and will contribute to projects that have a meaningful impact on our organization’s data strategy. This program is designed for students who are eager to learn, collaborate, and develop foundational skills for a career in data and analytics.Responsibilities:Collaborate with Data Office professionals on projects related to business analysis, data governance, data engineering, and development.Support the development and enhancement of the Data Platform, including data integration and automation tasks.Assist in the business and data analysis, design, testing, and implementation of data quality and master data management solutions.Analyze and document business and data requirements for data-related initiatives.Participate in data profiling, data cleansing, and data validation activities.Contribute to the creation of dashboards, reports, and data visualizations to support decision-making.Engage in team meetings, planning sessions, and code reviews.Communicate findings and progress clearly to both technical and non-technical stakeholders.Take part in self-guided learning and training sessions to build technical and business knowledge.We Offer:Mentorship from experienced Data Office professionals and the Chief Data Officer.Exposure to enterprise-level data management, governance, and engineering practices.Networking opportunities with leaders across the organization and with other interns.Participation in intern-specific events, employee resource groups, and service council activities.Access to online learning platforms and resources for self-directed skill development.A collaborative, inclusive, and supportive work environment.Qualifications:Current enrollment in a Bachelor’s degree program, ideally in Computer Science, Information Systems, Engineering, Mathematics, Business Analytics, or a related field.Strong analytical and problem-solving skills with passion solving complex problems through dataInterest in data management, data engineering, or business analysis.Basic programming experience (Python, SQL, or similar languages preferred).Interest in learning about finance and investment management.Eagerness to learn new technologies and concepts.Effective communication and teamwork skills.Ability to work in a hybrid environment (Boston office).Proactive, detail-oriented, and organized.Must be eligible to work in the US without sponsorship or restriction now and in the futureHow to Apply:Submit your resume and a brief cover letter describing your interest in data, technology, and how this internship aligns with your career goals.Base salary range for this role:Pay Range Minimum:0Pay Range Maximum:0In addition to the listed salary range, this position is eligible for an annual performance-based bonus and a comprehensive, competitive benefits package. Actual placement within the stated salary range will be determined based on factors such as skills, experience, and qualifications, as well as internal equity.The firm is committed to the concept and practice of equal employment opportunity and will not discriminate against any employee or applicant on the basis of race, color, religion, age, sex, national origin, sexual orientation, gender identity, disability, or veteran status. It is expected that all employees will follow a similar policy toward their co-workers.",
       "job_apply_link": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Data-Science-Intern_JR0000130",
       "job_posted_at_datetime_utc": "2026-01-27T07:34:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "cambridge-associates-data-science-intern-boston"
+      "id": "cambridge-associates-data-science-intern-boston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
@@ -1108,17 +1118,19 @@
       "employer_name": "Cambridge Associates",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Cambridge Associates in this exciting opportunity.",
+      "job_description": "Firm Overview:Cambridge Associates (“CA”) is a leading global investment firm. CA’s goal is to help endowments & foundations, pension plans, and ultra-high net worth private clients implement and manage custom investment portfolios that generate outperformance so that they can maximize their impact on the world. Cambridge Associates delivers a range of services, including outsourced CIO, non-discretionary portfolio management, and investment consulting.Headquartered in Boston, Massachusetts, CA has offices in key markets in North America, the United Kingdom, Europe, Asia, and Oceania.  Our worldwide teams ensure our clients benefit from decades of global presence, local expertise, and relationships with the top global investment managers across the world.  For more information, please visit www.cambridgeassociates.com.Job Description Summary:THE TEAMThe Digital Engagement Team at CA partners with business stakeholders to deliver technology solutions that build relationships among employees and clients, accelerates product and service adoption, and supports business process change in order to enable business growth and development. To do so, the team is committed to designing and implementing digital and non-digital methods that enhance employee and client online experiences in three areas: Employee Engagement (DEX), Customer Relationship Management (CRM), and Digital Client Experience (DCX). More specifically, the Employee Engagement area centers around software and processes that enhance productivity and collaboration through digital community, digital strategy (external websites, digital marketing, and social media), measuring and monitoring employee engagement, and knowledge management. Our primary software stack includes Igloo Software, Box, Asana, Canva, and Microsoft products. The team is focused on delivering value for our colleagues by handling the technical aspects such as prioritizing integrations with other applications in the enterprise, creating analytics dashboards, providing concierge support for each solution, and managing vendor relationships. We also provide project-specific support for new vendor analysis, website updates, communications campaigns, and software releases.THE OPPORTUNITYCambridge Associates (CA) is looking for a Summer Intern for its IT Digital Engagement department located in Boston, MA, or Arlington, VA. Candidate must be actively enrolled in an undergraduate program at an accredited College or University or have an equivalent work background. Under the supervision of our staff, the candidate can expect to participate in projects centering around the technical management of software-as-a-service (SaaS) platforms focused on improving how our employees work together. The Summer Intern on the Digital Engagement team will play a key role in helping to implement technology solutions for Employee Engagement that build and strengthen CA’s employee community, measure and build programs that increase employee belonging, and enable best-in-class collaboration practices for a hybrid workforce. By liaising with the Corporate Communications Team, Human Capital Team, and the Client Relationship Management (CRM) Team, this individual will work with stakeholders to monitor, update, and promote new technology and enhancements into current and new business processes. Interns are expected to work 40 hours per week during the summer (June-August). Interns will be competitively compensated. The individual is expected to be onsite 1 or 2 days each week in the Boston, MA, or Arlington, VA, office. Most work will be completed independently and remotely over Microsoft Teams or Zoom.Interns will gain knowledge of how an Information Technology Department supports a financial services firm by working on projects with analysts and developers from a variety of IT teams.Job Description:RESPONSIBILITIESA successful candidate will interact with employees as they set up blogs and websites, complete light graphic design, in Canva, and complete data and analysis projects using PowerBi for our core software offerings. The candidate will also work alongside our team on AI integration projects and will have access to SaaS vendors to explore the process of software updates, contract renewals, and other related technical elements. They must have the willingness to engage in ad hoc projects and initiatives as they are identified, some of which will be tailored to the interests of the candidate, especially in business intelligence and data visualization.QUALIFICATIONSCandidate must be actively enrolled in an undergraduate program at an accredited College or University·       Demonstrated interest or experience in PowerBI, business intelligence, or data visualization toolsDemonstrated ability to communicate in both verbal and written communication in formal and informal contexts designed to build consensus·       Ability to present work in a clear and concise manner, including data-driven insights·       Ability to set and meet deadlines autonomously·       Strong organizational management skills and ability to manage multiple projects at one time·       Proactive problem solver who is eager to learn and contribute, especially in the areas of business intelligence and analyticsBase salary range for this role:Pay Range Minimum:0Pay Range Maximum:0In addition to the listed salary range, this position is eligible for an annual performance-based bonus and a comprehensive, competitive benefits package. Actual placement within the stated salary range will be determined based on factors such as skills, experience, and qualifications, as well as internal equity.The firm is committed to the concept and practice of equal employment opportunity and will not discriminate against any employee or applicant on the basis of race, color, religion, age, sex, national origin, sexual orientation, gender identity, disability, or veteran status. It is expected that all employees will follow a similar policy toward their co-workers.",
       "job_apply_link": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Arlington/Digital-Engagement-Intern_JR0000108",
       "job_posted_at_datetime_utc": "2026-01-27T07:34:37.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "cambridge-associates-digital-engagement-intern-boston"
+      "id": "cambridge-associates-digital-engagement-intern-boston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
@@ -1127,17 +1139,19 @@
       "employer_name": "T-Mobile",
       "job_city": "Overland Park",
       "job_state": "KS",
-      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!Get hands-on experience, training—and a leg up on a bright future.Learn. Achieve. Build a Career.T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!This is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. You'll contribute your creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hands-on projects and the chance to create an immediate impact.What It's Like:Our team is responsible for the billing and commerce catalog components of every rate plan and service offer that T-Mobile takes to market. We gather requirements from the business and ensure those requirements are implemented in all necessary front end and back end systems to ensure our products and services are available to customers in all sales channels.What You'll Do:The intern will learn the end to end process and partner with existing team members to automate our workflow. Using an AI first focus to drive process improvement and digital tool adoption, the candidate will help empower our team to deliver offers faster for our business.Key Responsibilities:Digital Tool creationJIRA workflow automationdata validation via SQL automationWhat It Takes:Understanding of software development lifecycleproficiency in SQL, ChatGPT(or other AI technologies)At least 18 years of ageLegally authorized to work in the United StatesHigh School Diploma or GEDMust be actively enrolled in a degree program or graduated within the last yearEmployees of T-Mobile or Metro by T-Mobile are ineligible for internshipsEmployer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education.Relocation may be provided to program participants who reside more than 50 miles from the internship location.Intern wages range from $20/hour to $40/hour. The successful candidate's actual pay will be based on experience/location.​Never stop growing!As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
       "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/XMLNAME-2026-Summer-Product-Development-Internship_REQ343521",
       "job_posted_at_datetime_utc": "2026-01-27T07:22:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "t-mobile-product-development-intern-overland-park"
+      "id": "t-mobile-product-development-intern-overland-park",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
@@ -1146,17 +1160,19 @@
       "employer_name": "T-Mobile",
       "job_city": "Frisco",
       "job_state": "TX",
-      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!Get hands-on experience, training—and a leg up on a bright future.Learn. Achieve. Build a career.T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!This is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hand-on projects and the chance to create an immediate impact.What It's Like:We’re seeking a Software Engineer intern to join our dynamic Device Insurance Technology group to work on a green field IT modernization project to build and maintain high quality, reliable and scalable systems, platforms and tools supporting the Device Insurance products and lifecycle. The ideal candidate will work closely with a Sr. Software Engineer to develop and deploy scalable microservices, on a Kubernetes container cloud infrastructure on AWS as well as work closely with T-Mobile insurance vendor on building a tightly integrated end-to-end solution. We are a team that encourages innovation and advocates an agile and open approach, truly working and playing in the Un-carrier way!What You'll Do:The software engineer intern will learn about the Kyber Arch platform, architecture, tools and work on the enhancing/optimizing existing Kyber Arch microservices as well as new build. They will participate in projects under the guidance of Sr. Software Engineer to use AI in day-to-day development activities to increase team productivity and enable faster delivery.Impact - They will contribute to the migration and new build of Kyber Arch platform.Key Responsibilities:1. Learn and develop Spring Boot microservices for the Kyber Arch platform.2. Develop and execute unit tests.3. Participate in solving challenging problems either with products or development infrastructure.What It Takes:1. Enrolled in Computer Science/ MIS/IT or related majors.2. Hands-on experience in Object oriented programming and databases/SQL as part of course work or outside.3. Hands-on experience with using AI tools such as Claude code or similar, a plus.4. Experience with AWS/Azure, a plus.5. Appetite to learn and solve problems.At least 18 years of ageLegally authorized to work in the United StatesHigh School Diploma or GEDMust be actively enrolled in a degree program or graduated with the last yearEmployees of T-Mobile or Metro by T-Mobile are ineligible for InternshipEmployers does not sponsor work visas for this position.  Note that this also applies to individuals who are students of F-1 status who desire sponsorship after they complete their education.Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location.Intern wages range from $26/hour to $47/hour. The successful candidate’s actual pay will be based on experience/location.Never stop growing!As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
       "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ343554",
       "job_posted_at_datetime_utc": "2026-01-27T07:22:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "t-mobile-summer-2026-software-engineering-internship-frisco"
+      "id": "t-mobile-summer-2026-software-engineering-internship-frisco",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T19:46:49.139Z",
     "postedAt": null
   },
   {
