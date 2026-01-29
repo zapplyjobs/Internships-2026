@@ -6636,5 +6636,138 @@
     "addedAt": "2026-01-29T12:12:45.621Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Software Developer",
+      "employer_name": "National Information Solutions Cooperative (NISC)",
+      "job_city": "Bismarck",
+      "job_state": "ND",
+      "job_description": "Join National Information Solutions Cooperative (NISC) in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/nisc/jobs/7574562",
+      "job_posted_at_datetime_utc": "2026-01-29T15:22:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "national-information-solutions-cooperative-nisc-intern-software-developer-bismarck"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T15:47:26.563Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Marketing Analytics – Internship",
+      "employer_name": "Chipotle Mexican Grill",
+      "job_city": "Cincinnati",
+      "job_state": "OH",
+      "job_description": "Join Chipotle Mexican Grill in this exciting opportunity.",
+      "job_apply_link": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/9998---610-Newport-Office/Marketing-Analytics---Internship_JR-2026-00864725",
+      "job_posted_at_datetime_utc": "2026-01-29T15:20:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "chipotle-mexican-grill-marketing-analytics-internship-cincinnati"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T15:47:26.563Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Observability & Monitoring – Intern",
+      "employer_name": "Chipotle Mexican Grill",
+      "job_city": "Cincinnati",
+      "job_state": "OH",
+      "job_description": "Join Chipotle Mexican Grill in this exciting opportunity.",
+      "job_apply_link": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/8890---500-Neil-Ave/Observability---Monitoring---Internship_JR-2026-00864456",
+      "job_posted_at_datetime_utc": "2026-01-29T15:20:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "chipotle-mexican-grill-observability-monitoring-intern-cincinnati"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T15:47:26.563Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "BI Engineering  Internship",
+      "employer_name": "Chipotle Mexican Grill",
+      "job_city": "Ainsworth",
+      "job_state": "NE",
+      "job_description": "Join Chipotle Mexican Grill in this exciting opportunity.",
+      "job_apply_link": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/9998---610-Newport-Office/BI-Engineering---Internship_JR-2026-00864372-1",
+      "job_posted_at_datetime_utc": "2026-01-29T15:20:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "chipotle-mexican-grill-bi-engineering-internship-ainsworth"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T15:47:26.563Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Development Intern",
+      "employer_name": "Chipotle Mexican Grill",
+      "job_city": "Newport",
+      "job_state": "RI",
+      "job_description": "Join Chipotle Mexican Grill in this exciting opportunity.",
+      "job_apply_link": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/9998---610-Newport-Office/Software-Development---Internship_JR-2026-00864821",
+      "job_posted_at_datetime_utc": "2026-01-29T15:20:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "chipotle-mexican-grill-software-development-intern-newport"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T15:47:26.563Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "5G Architecture Intern",
+      "employer_name": "Nokia",
+      "job_city": "Naperville",
+      "job_state": "IL",
+      "job_description": "Join Nokia in this exciting opportunity.",
+      "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30024",
+      "job_posted_at_datetime_utc": "2026-01-29T15:16:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "nokia-5g-architecture-intern-naperville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T15:47:26.563Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Multiple Teams",
+      "employer_name": "Exegy",
+      "job_city": "St. Louis",
+      "job_state": "MO",
+      "job_description": "Join Exegy in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5/application",
+      "job_posted_at_datetime_utc": "2025-09-23T01:54:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "exegy-software-engineer-intern-multiple-teams-st-louis"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T15:47:26.563Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
