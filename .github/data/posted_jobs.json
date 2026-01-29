@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-29T19:31:53.377Z",
+  "lastUpdated": "2026-01-29T19:47:27.257Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -3726,14 +3726,224 @@
       "job_city": "Monroe",
       "job_state": "GA",
       "job_description": "Summer 2026 Internship Covington, GABuild a Career That Matters with One of the World’s Most Respected Employers!- - - - - - - - - - - -Michelin has Summer 2026 openings for an Engineering Internships. This opportunity is located at our Covington, GA site. Students will be responsible for working on a project team to analyze data, improve production and quality performance.   Michelin’s purpose is to support everyone’s right to move freely to find their better way forward.    If respect for people, teamwork and trust are some values you live by you should consider joining us, the Worldwide leader in Tires!Michelin, the leading mobility company, is working with tires, around tires and beyond tires to enable Motion for Life. Dedicated to enhancing its clients’ mobility and sustainability, Michelin designs and distributes the most suitable tires, services and solutions for its customers’ needs. Michelin provides digital services, maps and guides to help enrich trips and travels and make them unique experiences. Bringing its expertise to new markets, the company is investing in high-technology materials, 3D printing and hydrogen, to serve a wide variety of industries – from aerospace to biotech. Get in the driver’s seat and be on your way to a meaningful professional journey!WHAT WILL YOU BRINGA willingness to work in an industrial plant environment (Monday-Friday on day shift).The ability to interact in a professional manner with external partners, suppliers, customers, and colleagues.Success in working with other people or team to meet a common objective.Proficient in the use of Microsoft Office® Suite (Word, Excel, PowerPoint) and ability to learn other software systems.Minimum cumulative GPA of 3.0Currently enrolled full time at an accredited four-year college or university.US citizen, permanent resident or otherwise authorized to work for Michelin on an ongoing, indefinite basis. This position is not available for immigration sponsorship.#LI-HIRINGMICHELINReady to Shape the Future of Innovation?Michelin is building a world-leading manufacturer of life-changing composites and experiences. Pioneering engineered materials for more than 130 years, Michelin is uniquely positioned to make decisive contributions to human progress and a more sustainable world. Drawing on its deep know-how in polymer composite materials, Michelin is constantly innovating to manufacture high-quality tires and components for critical applications in demanding fields as varied as mobility, construction, aeronautics, low-carbon energies and healthcare.The care placed in its products and deep customer knowledge inspire Michelin to offer the finest experiences. This spans from providing data- and AI-based connected solutions for professional fleets to recommending outstanding restaurants and hotels curated by the MICHELIN Guide.Why Michelin?Career Growth: Personalized development plans, mentorship, and cross-functional opportunities. Unique career paths and opportunities for advancement.Inclusive Culture: Thrive in a diverse, supportive environment where your competencies, contributions and behaviors are recognized. Option to join one of our Connected Communities.Innovation-Driven: Work on projects that matter—from sustainable materials to digital transformation.Community Impact: Be part of a company that does what's right. We use sustainable business practices while balancing the needs of our customers and communities.Michelin provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), political affiliation, military service, or other non-merit-based factors. Consistent with these obligations, Michelin also provides reasonable accommodations to employees and applicants with disabilities and for sincerely held religious beliefs. If you need accommodation for any part of the employment process because of a disability, please contact us at accommodations@michelin.com.This position is not available for immigration sponsorship.We build the future with people like you. Begin your career with Michelin today!"
+    },
+    {
+      "id": "5a3309b4750778da-2026-01-29-1",
+      "jobId": "5a3309b4750778da",
+      "company": "Field AI",
+      "title": "Research Scientist Intern - Embodied AI",
+      "postedToDiscord": "2026-01-29T19:46:52.318Z",
+      "sourceDate": "2026-01-27T23:21:10.000Z",
+      "sourceUrl": "https://jobs.lever.co/field-ai/1beb8a30-5f4e-4c6a-9499-037ce2a32dd4/apply",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466519989300494438",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:46:52.318Z",
+          "channelJobNumber": 11
+        },
+        "1464304161230295131": {
+          "messageId": "1466519996795584584",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:46:54.077Z",
+          "channelJobNumber": 6
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Research Scientist Intern, Embodied AIIrvine, CAArea 1: ML, AI, Autonomy /Internship /HybridApply for this jobField AI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.As an Research Scientist Intern, Embodied AI, you will investigate and tackle real-world robotics challenges in unstructured environments, with a focus on autonomous inspection, mobile manipulation, and human–robot interaction.You will work at the intersection of research and deployment—developing algorithms, validating them on real robots, and contributing to publications at top robotics and AI venues.What You'll Do:Model & Algorithm Development: Design and develop context-aware reasoning and planning algorithms. Leverage and adapt foundation models (e.g., VLMs, VLAs) and world models for embodied intelligence.Robotic Software Development & Testing: Implement, test, and integrate algorithms on real robotic platforms. Collaborate closely with engineers to validate performance in field conditions.Research & Publication: Conduct cutting-edge research in embodied AI and robotics. Author and submit papers to leading robotics and AI conferences and journals.What You Bring:Currently pursuing or recently completed a PhD in Robotics, Computer Science, Aerospace, Electrical Engineering, Mechanical Engineering, or a related fieldStrong foundation in robotics autonomy and machine learningFamiliarity with state-of-the-art embodied AI research literatureStrong programming skills in Python and/or C++Experience with modern machine learning frameworksExperience developing robotic systems using ROS 2Strong analytical, problem-solving, and communication skillsWhat Will Set You Apart:Hands-on robotics experience, including testing and deploying autonomous systems in the fieldExperience fine-tuning and deploying large multimodal models, particularly: Vision, language, action, or open-vocabulary models.Publications in top-tier AI and robotics venues such as CoRL, ICRA, IROS, RSS, NeurIPS, CVPR, or similar$40 - $50 an hourOur salary range is generous and we take into consideration an individual's background and experience in determining final salary; base pay offered may vary considerably depending on geographic location, job-related knowledge, skills, and experience. Why Join Field AI?We are solving one of the world’s most complex challenges: deploying robots in unstructured, previously unknown environments. Our Field Foundational Models™ set a new standard in perception, planning, localization, and manipulation, ensuring our approach is explainable and safe for deployment.You will have the opportunity to work with a world-class team that thrives on creativity, resilience, and bold thinking. With a decade-long track record of deploying solutions in the field, winning DARPA challenge segments, and bringing expertise from organizations like DeepMind, NASA JPL, Boston Dynamics, NVIDIA, Amazon, Tesla Autopilot, Cruise Self-Driving, Zoox, Toyota Research Institute, and SpaceX, we are set to achieve our ambitious goals.Be Part of the Next Robotics RevolutionTo tackle such ambitious challenges, we need a team as unique as our vision — innovators who go beyond conventional methods and are eager to tackle tough, uncharted questions. We’re seeking individuals who challenge the status quo, dive into uncharted territory, and bring interdisciplinary expertise. Our team requires not only top AI talent but also exceptional software developers, engineers, product designers, field deployment experts, and communicators.We are headquartered in always-sunny Mission Viejo (Irvine adjacent), Southern California and have US based and global teammates. Join us, shape the future, and be part of a fun, close-knit team on an exciting journey!We celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job"
+    },
+    {
+      "id": "20f431fa5fa07747-2026-01-29-1",
+      "jobId": "20f431fa5fa07747",
+      "company": "d-Matrix",
+      "title": "Software Engineer Intern - Developer and Qualification Tools",
+      "postedToDiscord": "2026-01-29T19:46:55.868Z",
+      "sourceDate": "2026-01-27T23:15:21.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/d-Matrix/543579ed-fd2f-435d-b84e-420992decc44/application",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466520004198662227",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:46:55.868Z",
+          "channelJobNumber": 12
+        },
+        "1464303497242742875": {
+          "messageId": "1466520012046205163",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:46:57.625Z",
+          "channelJobNumber": 16
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "At d-Matrix , we are focused on unleashing the potential of generative AI to power the transformation of technology. We are at the forefront of software and hardware innovation, pushing the boundaries of what is possible. Our culture is one of respect and collaboration. We value humility and believe in direct communication. Our team is inclusive , and our differing perspectives allow for better solutions. We are seeking individuals passionate about tackling challenges and are driven by execution. Ready to come find your playground? Together , we can help shape the endless possibilities of AI. Location: Hybrid, working onsite at our Santa Clara office 3 days per week. 12 Week Program: June 1st - August 21st or June 22nd - September 11th The role: Software Engineering Intern, Developer and Qualification Tools What You Will Do: You will be part of the team that is building the developer and diagnostic tools for d-Matrix' cutting edge AI inference accelerators. You will be responsible for the design, development, enhancement, and maintenance of tools like the debugger and the profiler as well as hardware diagnostic tools for a novel and disruptive hardware and software stack. Minimum Qualifications: Pursuing a Computer Science, Engineering, Math, Physics, or related bachelor's degree Experience with Python programming Preferred Qualifications: Experience with C/C++ programming Completed 2nd year of a 3 or 4 year bachelor's program Experience with LLVM / GCC, GNU binutil development, or other compiler development Equal Opportunity Employment Policy d-Matrix is proud to be an equal opportunity workplace and affirmative action employer. We’re committed to fostering an inclusive environment where everyone feels welcomed and empowered to do their best work. We hire the best talent for our teams, regardless of race, religion, color, age, disability, sex, gender identity, sexual orientation, ancestry, genetic information, marital status, national origin, political affiliation, or veteran status. Our focus is on hiring teammates with humble expertise, kindness, dedication and a willingness to embrace challenges and learn together every day. d-Matrix does not accept resumes or candidate submissions from external agencies. We appreciate the interest and effort of recruitment firms, but we kindly request that individual interested in opportunities with d-Matrix apply directly through our official channels. This approach allows us to streamline our hiring processes and maintain a consistent and fair evaluation of al applicants. Thank you for your understanding and cooperation."
+    },
+    {
+      "id": "db705a01e2e41019-2026-01-29-1",
+      "jobId": "db705a01e2e41019",
+      "company": "Sandisk",
+      "title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
+      "postedToDiscord": "2026-01-29T19:46:59.360Z",
+      "sourceDate": "2026-01-27T23:14:24.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000105920835",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466520019386110135",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:46:59.360Z",
+          "channelJobNumber": 13
+        },
+        "1464303539101634634": {
+          "messageId": "1466520026537394280",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:47:01.041Z",
+          "channelJobNumber": 2
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Milpitas",
+      "job_state": "CA",
+      "job_description": "Failure Analysis Engineering Intern - Gen AI focus (Masters, Summer 2026)InternSalary Range: 0.00-0.00Job Type (exemption status): Non-Exempt position - Please see related compensation & benefits details belowBusiness Function: Engineering SupportWork Location: Milpitas Office--LOC_WDT_USCA25Company DescriptionSandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that we have the power to shape.Sandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for innovation, performance and quality.Sandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to the Flash memory it needs to keep our world moving forward.Job DescriptionThe intern will be involved in the development of failure analysis automation tools for Solid State Drives and NAND flash memory. This role requires a solid understanding in machine learning, including Convolutional Neural Networks (CNNs) and Large Language Models (LLMs).ESSENTIAL DUTIES AND RESPONSIBILITIES:Develop failure analysis automation tools related to SSDs and NAND flash memory. Design, train, and optimize machine learning models, with a focus on CNN and LLM. Automated compilation and organization of technical data to share with SSD and NAND Subject Matter Experts (SMEs). Document design, tool implementation, testing and validation results, and data analysis findings for communication and transparency. QualificationsRequired:Currently pursuing a Master's degree in Computer Science, AI Engineering, Computer Engineering, Electrical Engineering, related field with a graduation date of May/June 2027Available to work a 12-week, full time internship during May - August 2026Preference given to candidates who will not require relocation to the Milpitas, CA area. Relocation will not be offered for this positionHands-on experience with machine learning frameworks like TensorFlow, PyTorch, or KerasStrong understanding of Convolutional Neural Networks (CNNs) and their applications in computer visionStrong programming skills in Python, ElasticSearch, and Jupiter NotebookUnderstanding of gen AI developmentPreferred Skills: It’s helpful if you meet one or more of the following qualifications, but it isn't a requirement.Ability to learn quickly and work collaboratively in a team environmentGood problem-solving and analytical skillsExcellent verbal and written communication skillsGood understanding of Solid State Drives (SSDs) and NAND Flash memory is a plus.Experience working with Large Language Models (LLMs) like GPT, BERT, or similar architecturesAbility to utilize RAG, and finetuning the LLM modelsAdditional InformationSandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"Know Your Rights: Workplace Discrimination is Illegal” poster. Our pay transparency policy is available here.Sandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.Sandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at [email protected] to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.Based on our experience, we anticipate that the application deadline will be 04/27i/2026 (3 months from posting), although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update this posting with a new anticipated application deadline.#LI-TG1Compensation & Benefits DetailsAn employee’s pay position within the salary range may be based on several factors including but not limited to (1) relevant education; qualifications; certifications; and experience; (2) skills, ability, knowledge of the job; (3) performance, contribution and results; (4) geographic location; (5) shift; (6) internal and external equity; and (7) business and organizational needs.The salary range is what we believe to be the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in California, Colorado, New York or remote jobs that can be performed in California, Colorado and New York. This range may be modified in the future.If your position is non-exempt, you are eligible for overtime pay pursuant to company policy and applicable laws. You may also be eligible for shift differential pay, depending on the shift to which you are assigned.You will be eligible to participate in Sandisk's Short-Term Incentive (STI) Plan, which provides incentive awards based on Company and individual performance. Depending on your role and your performance, you may be eligible to participate in our annual Long-Term Incentive (LTI) program, which consists of restricted stock units (RSUs) or cash equivalents, pursuant to the terms of the LTI plan. Please note that not all roles are eligible to participate in the LTI program, and not all roles are eligible for equity under the LTI plan. RSU awards are also available to eligible new hires, subject to Sandisk’s Standard Terms and Conditions for Restricted Stock Unit Awards.We offer a comprehensive package of benefits including paid vacation time; paid sick leave; medical/dental/vision insurance; life, accident and disability insurance; tax-advantaged flexible spending and health savings accounts; employee assistance program; other voluntary benefit programs such as supplemental life and AD&D, legal plan, pet insurance, critical illness, accident and hospital indemnity; tuition reimbursement; transit; the Applause Program; employee stock purchase plan; and the Sandisk Savings 401(k) Plan.Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.I'm interestedI'm interestedPrivacy Policy"
+    },
+    {
+      "id": "6e5495a7cdb89e7f-2026-01-29-1",
+      "jobId": "6e5495a7cdb89e7f",
+      "company": "Sandisk",
+      "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
+      "postedToDiscord": "2026-01-29T19:47:02.750Z",
+      "sourceDate": "2026-01-27T23:14:24.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000105931382",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466520033604927783",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:47:02.750Z",
+          "channelJobNumber": 14
+        },
+        "1464303539101634634": {
+          "messageId": "1466520040978387044",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:47:04.516Z",
+          "channelJobNumber": 3
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Milpitas",
+      "job_state": "CA",
+      "job_description": "PhD Summer 2026 Intern, Advanced Memory Technology (AI/ML Focus)InternSalary Range: 0.00-0.00Job Type (exemption status): Non-Exempt position - Please see related compensation & benefits details belowBusiness Function: Engineering SupportWork Location: Milpitas Office--LOC_WDT_USCA25Company DescriptionSandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that we have the power to shape.Sandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for innovation, performance and quality.Sandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to the Flash memory it needs to keep our world moving forward.Job DescriptionJoin our innovative team in Milpitas, United States, for an exciting Summer 2026 internship opportunity in Advanced Memory Technology Group. As an intern, you'll have the chance to apply machine learning, deep learning, and Large Language Models (LLMs) for semiconductor process technology development.ESSENTIAL DUTIES AND RESPONSIBILITIES:Develop and evaluate AI/ML models to analyze semiconductor process, device, and metrology dataApply LLMs for:Knowledge extraction from process logs, experiment reports, and technical documentationAssisting with root-cause analysis and hypothesis generationAutomating data interpretation and reporting workflowsDesign end-to-end ML pipelines, including data preprocessing, feature engineering, model training, validation, and deploymentExplore advanced learning techniques such as:Physics-informed machine learningBayesian optimization for process tuningReinforcement learning for process controlCollaborate with domain experts to translate semiconductor process challenges into tractable AI problemsPresent findings through technical reports, presentations, and (where applicable) internal publications or patentsQualificationsRequired:Currently pursuing a PhD degree majoring in Electrical Engineering, Computer Science, Materials Science & Engineering, Chemical Engineering or equivalent engineering discipline with understanding of Semiconductor Fabrication.Strong foundation in machine learning and statistical modelingHands-on experience with Python and at least one ML framework: PyTorch, TensorFlow, or JAXExperience working with Large Language Models (LLMs), such as:Model fine-tuning (full or parameter-efficient methods)Prompt engineeringRetrieval-Augmented Generation (RAG)Familiarity with data handling and analysis libraries (e.g., NumPy, Pandas, scikit-learn)Ability to work independently and collaboratively in a research-driven engineering environmentPreferred Skills: Good problem-solving and analytical skillsExcellent verbal and written communication skillsAdditional InformationSandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"Know Your Rights: Workplace Discrimination is Illegal” poster. Our pay transparency policy is available here.Sandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.Sandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at [email protected] to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.Based on our experience, we anticipate that the application deadline will be 04/27/2026 (3 months from posting), although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update this posting with a new anticipated application deadline.#LI-TG1Compensation & Benefits DetailsAn employee’s pay position within the salary range may be based on several factors including but not limited to (1) relevant education; qualifications; certifications; and experience; (2) skills, ability, knowledge of the job; (3) performance, contribution and results; (4) geographic location; (5) shift; (6) internal and external equity; and (7) business and organizational needs.The salary range is what we believe to be the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in California, Colorado, New York or remote jobs that can be performed in California, Colorado and New York. This range may be modified in the future.If your position is non-exempt, you are eligible for overtime pay pursuant to company policy and applicable laws. You may also be eligible for shift differential pay, depending on the shift to which you are assigned.You will be eligible to participate in Sandisk's Short-Term Incentive (STI) Plan, which provides incentive awards based on Company and individual performance. Depending on your role and your performance, you may be eligible to participate in our annual Long-Term Incentive (LTI) program, which consists of restricted stock units (RSUs) or cash equivalents, pursuant to the terms of the LTI plan. Please note that not all roles are eligible to participate in the LTI program, and not all roles are eligible for equity under the LTI plan. RSU awards are also available to eligible new hires, subject to Sandisk’s Standard Terms and Conditions for Restricted Stock Unit Awards.We offer a comprehensive package of benefits including paid vacation time; paid sick leave; medical/dental/vision insurance; life, accident and disability insurance; tax-advantaged flexible spending and health savings accounts; employee assistance program; other voluntary benefit programs such as supplemental life and AD&D, legal plan, pet insurance, critical illness, accident and hospital indemnity; tuition reimbursement; transit; the Applause Program; employee stock purchase plan; and the Sandisk Savings 401(k) Plan.Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.I'm interestedI'm interestedPrivacy Policy"
+    },
+    {
+      "id": "20e0650712d584c1-2026-01-29-1",
+      "jobId": "20e0650712d584c1",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - Vod Data - 2026 Summer",
+      "postedToDiscord": "2026-01-29T19:47:09.234Z",
+      "sourceDate": "2026-01-27T23:17:02.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7593125551477950725",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466520060930822175",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:47:09.234Z",
+          "channelJobNumber": 8
+        },
+        "1464303497242742875": {
+          "messageId": "1466520068044230915",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:47:11.050Z",
+          "channelJobNumber": 17
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "View our opening for Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!"
+    },
+    {
+      "id": "48d8cac0ce341801-2026-01-29-1",
+      "jobId": "48d8cac0ce341801",
+      "company": "Sharp Electronics",
+      "title": "Intern - HR Data Analyst",
+      "postedToDiscord": "2026-01-29T19:47:12.804Z",
+      "sourceDate": "2026-01-27T23:12:49.000Z",
+      "sourceUrl": "https://careers-sharpusa.icims.com/jobs/8680/job?mobile=true&needsRedirect=false",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466520075673665626",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:47:12.804Z",
+          "channelJobNumber": 9
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Mahwah",
+      "job_state": "NJ",
+      "job_description": "<h2>Overview</h2> <p>In this role, the intern will work closely with the HR team to enhance the way information is stored, maintained, and accessed across the HR organization. They will be instrumental in preparing and organizing HR data and content to bolster both current data delivery methods and future AI-enabled HR self-service tools. All the data analysis and cleanup efforts will ultimately contribute to the development of a Human Resources driven chatbot, designed to assist our company employees. This is an incredible opportunity for someone looking to dive deep into HR data analytics and make a tangible impact on our HR processes.</p> <h2>Responsibilities</h2> <ul> <li>Assess existing HR data and documents across shared drives and HR systems</li> <li>Consolidate, clean, and standardize HR data to reduce duplication and improve consistency</li> <li>Improve data accessibility through better structure, naming conventions, and organization</li> <li>Help prepare and maintain HR content to support current and future AI-enabled HR self-service tools</li> <li>Assist in the design and interface planning of a Human Resources AI partner</li> <li>Help document HR AI Partner Use Cases</li> <li>Map HR data sources and content to HR AI Partner knowledge areas</li> <li>Partner with HR and IT teams to ensure data quality, accuracy, and appropriate access controls</li> <li>Assist in documenting data standards, workflows, and best practices for HR information management</li> <li>Support basic HR data reporting, audits, and data maintenance activities</li> <li>Assist with general HR projects including onboarding materials, policy updates, and internal communications</li> </ul> <h2>Qualifications</h2> <ul> <li>Currently pursuing a Bachelor’s or Master’s degree in Human Resources, Data Analytics, Information Systems, Computer Science, or a related field</li> <li>Strong interest in data analysis, data cleanup, and information organization</li> <li>Familiarity with Microsoft 365 tools including SharePoint, OneDrive, Excel, and Teams</li> <li>Interest in AI-enabled tools such as Microsoft Copilot</li> <li>Strong attention to detail and organizational skills</li> <li>Ability to handle sensitive information with discretion</li> </ul> <p><strong>Summer Internship Details:</strong></p> <ul> <li><em>Compensation:</em> The hourly rate is $20/hr.</li> <li><em>Duration:</em> The internship program spans approximately 10 weeks, running from June 1st to August 14th, 2026.</li> <li><em>Work Arrangement:</em> This is a hybrid position, requiring interns to be in the office in Montvale, NJ, four days a week (Monday to Thursday), with Fridays designated for remote work at the manager's discretion.&nbsp;</li> <li><em>Transportation:</em> Since the office location in Montvale, NJ, is not accessible by public transportation, interns must have reliable transportation.</li> <li><em>Housing:</em> We do not provide housing or a housing stipend for interns.</li> <li><em>Work Visa:</em> Unfortunately, we do not offer work visa sponsorship for this role, including participation in Curricular Practical Training (CPT), Optional Practical Training (OPT), and F-1 Visa programs.</li> </ul> <p><strong>ABOUT US: Sharp Imaging and Information Company of America (SIICA)</strong></p> <p>Sharp Imaging and Information Company of America (SIICA) is a division of Sharp Electronics Corporation, the U.S. subsidiary of Japan's Sharp Corporation, a global technology company which has been named to Fortune magazine's World's Most Admired Company List. Sharp strives to help businesses achieve Simply Smarter work by helping companies manage workflow efficiently, create immersive and engaging environments, and increase productivity. SIICA offers a full suite of secure printer and copier solutions, professional and commercial visual displays and projectors, software management and productivity software and markets durable Dynabook laptops. As a total solutions provider, Sharp has a reputation for innovation, quality, reliability, and industry-leading customer support expertise.&nbsp;</p> <p>&nbsp;</p> <p>#li-cz1</p> <p>#sec</p>"
+    },
+    {
+      "id": "b549e8c0128136f9-2026-01-29-1",
+      "jobId": "b549e8c0128136f9",
+      "company": "XPO",
+      "title": "Tech Program Intern 3 - Full Stack Engineering",
+      "postedToDiscord": "2026-01-29T19:47:17.547Z",
+      "sourceDate": "2026-01-27T23:16:43.000Z",
+      "sourceUrl": "https://jobs.xpo.com/job/Charlotte-Tech-Program-Intern-III-(Full-Stack-Engineering)-NC-28277/1359782800/?ats=successfactors",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466520095630299250",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:47:17.547Z",
+          "channelJobNumber": 31
+        },
+        "1464304182923362324": {
+          "messageId": "1466520102651302136",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:47:19.248Z",
+          "channelJobNumber": 16
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Charlotte",
+      "job_state": "NC",
+      "job_description": "What you’ll need to succeed as a Tech Program Intern III (Full Stack Engineering) at XPO: Minimum qualifications: High school diploma or equivalent and currently pursuing a bachelor’s degree 2 or more years of relevant undergraduate coursework Experience with Microsoft Office (Word, Excel, PowerPoint and Outlook) Strong computer skills and familiarity with administrative processes Preferred qualifications: Class status as a junior (3rd year) or greater 2 or more years of relevant software development coursework Development experience with at least one object-oriented programming language, such as Java, C#, C++, etc. Development experience with at least one JavaScript framework (Angular, React, etc.) Experience in web, mobile and responsive design Solid technical competency in coding and testing; good object-oriented programming language skills A portfolio that reflects intuitive, functional and original design Self-motivated and able to work well with minimal supervision or in a team environment; consult with team members and management as needed Ability to be open-minded and receptive to feedback in an intellectually rigorous environment Strong attention to detail and analytical skills with the ability to identify and resolve problems Good organizational skills with the ability to multitask Great verbal and written communication skills About the Tech Program Intern III (Full Stack Engineering) job What you’ll do on a typical day: Participate in a12-week program where you will own the full development cycle of a unique project from requirements gathering and design, to development, through testing, and on to implementation in production. Work with a fast-paced, extremely talented team that values collaboration and delivers high-quality results Develop software using technologies such as Angular 12+, C#, .NET core, JavaScript, HTML, CSS, and more Exposure to full-stack technologies like SQL, Oracle databases, Elasticsearch and more Engage directly in building frameworks and supporting application infrastructure Work as an active member of a tech team in the development and support of complex distributed systems Apply best coding practices and standards Support the development of APIs to support web applications Work in an agile start-up environment with daily standups and continuous integration About XPO XPO is a top ten global provider of transportation services, with a highly integrated network of people, technology and physical assets. At XPO, we look for employees who like a challenge and can communicate effectively in all situations. We want to leverage your skills and years of experience to drive positive results while ensuring a bright future for yourself and XPO. If you’re looking for a growth opportunity, join us at XPO. We are proud to be an Equal Opportunity employer. Qualified applicants will receive consideration for employment without regard to race, sex, disability, veteran or other protected status. All applicants who receive a conditional offer of employment may be required to take and pass a pre-employment drug test. The above statements are not an exhaustive list of all required responsibilities, duties and skills for this job classification. Review XPO's candidate privacy statement here."
+    },
+    {
+      "id": "40a96a09ef2cfb4a-2026-01-29-1",
+      "jobId": "40a96a09ef2cfb4a",
+      "company": "Kymera Therapeutics",
+      "title": "Informatics Intern",
+      "postedToDiscord": "2026-01-29T19:47:20.904Z",
+      "sourceDate": "2026-01-27T23:12:39.000Z",
+      "sourceUrl": "https://www.kymeratx.com/careers-culture/working-at-kymera/?gh_jid=7582976003#open-positions",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466520109924356213",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:47:20.904Z",
+          "channelJobNumber": 32
+        },
+        "1464304182923362324": {
+          "messageId": "1466520117058736139",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:47:22.738Z",
+          "channelJobNumber": 17
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Belmont",
+      "job_state": "MA",
+      "job_description": "Join Kymera Therapeutics in this exciting opportunity."
     }
   ],
   "metadata": {
-    "totalJobs": 264,
+    "totalJobs": 272,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-29T19:31:53.377Z",
+      "date": "2026-01-29T19:47:27.257Z",
       "archived": 0
     }
   }

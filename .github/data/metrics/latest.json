@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-29T19:31:55.508Z",
+  "generated": "2026-01-29T19:47:29.414Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T19:31:55.508Z",
-  "period_end": "2026-01-29T19:31:55.508Z",
+  "period_start": "2026-01-22T19:47:29.414Z",
+  "period_end": "2026-01-29T19:47:29.414Z",
   "summary": {
     "total_jobs_posted": 15,
     "unique_jobs": 8,
@@ -10,107 +10,42 @@
     "unique_multi_channel_jobs": 7,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 6
+    "channels_active": 7
   },
   "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 5,
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 4,
       "jobs": [
-        "harman-international-intern-customer-engineering-novi",
-        "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
-        "hilb-benefits-analytics-intern-sparks",
-        "kla-full-stack-software-intern-milpitas",
-        "kaiser-permanente-developer-bachelor-s-intern-lake-oswego"
+        "field-ai-research-scientist-intern-embodied-ai-irvine",
+        "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
+        "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
+        "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas"
       ],
       "recent_jobs": [
         {
-          "id": "harman-international-intern-customer-engineering-novi",
-          "title": "Intern - Customer Engineering",
-          "company": "HARMAN International",
-          "posted_at": "2026-01-29T19:31:18.130Z"
+          "id": "field-ai-research-scientist-intern-embodied-ai-irvine",
+          "title": "Research Scientist Intern - Embodied AI",
+          "company": "Field AI",
+          "posted_at": "2026-01-29T19:46:52.331Z"
         },
         {
-          "id": "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
-          "title": "KP-SAM Code Development Engineering Intern - Summer 2026",
-          "company": "Kairos Power",
-          "posted_at": "2026-01-29T19:31:21.688Z"
+          "id": "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
+          "title": "Software Engineer Intern - Developer and Qualification Tools",
+          "company": "d-Matrix",
+          "posted_at": "2026-01-29T19:46:55.877Z"
         },
         {
-          "id": "hilb-benefits-analytics-intern-sparks",
-          "title": "Benefits Analytics Intern",
-          "company": "Hilb Group",
-          "posted_at": "2026-01-29T19:31:25.438Z"
+          "id": "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
+          "title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
+          "company": "Sandisk",
+          "posted_at": "2026-01-29T19:46:59.371Z"
         },
         {
-          "id": "kla-full-stack-software-intern-milpitas",
-          "title": "Full Stack Software Intern",
-          "company": "KLA",
-          "posted_at": "2026-01-29T19:31:28.897Z"
-        },
-        {
-          "id": "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
-          "title": "Developer Bachelor's Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-01-29T19:31:32.410Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 3,
-      "jobs": [
-        "harman-international-intern-customer-engineering-novi",
-        "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
-        "michelin-intern-monroe"
-      ],
-      "recent_jobs": [
-        {
-          "id": "harman-international-intern-customer-engineering-novi",
-          "title": "Intern - Customer Engineering",
-          "company": "HARMAN International",
-          "posted_at": "2026-01-29T19:31:19.990Z"
-        },
-        {
-          "id": "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
-          "title": "Developer Bachelor's Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-01-29T19:31:34.212Z"
-        },
-        {
-          "id": "michelin-intern-monroe",
-          "title": "Intern",
-          "company": "Michelin",
-          "posted_at": "2026-01-29T19:31:48.867Z"
-        }
-      ]
-    },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
-      "count": 3,
-      "jobs": [
-        "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
-        "hilb-benefits-analytics-intern-sparks",
-        "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view"
-      ],
-      "recent_jobs": [
-        {
-          "id": "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
-          "title": "KP-SAM Code Development Engineering Intern - Summer 2026",
-          "company": "Kairos Power",
-          "posted_at": "2026-01-29T19:31:23.540Z"
-        },
-        {
-          "id": "hilb-benefits-analytics-intern-sparks",
-          "title": "Benefits Analytics Intern",
-          "company": "Hilb Group",
-          "posted_at": "2026-01-29T19:31:27.137Z"
-        },
-        {
-          "id": "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
-          "title": "2026 Intern - Speech Research - Summer/Fall",
-          "company": "Samsung Research America",
-          "posted_at": "2026-01-29T19:31:40.711Z"
+          "id": "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas",
+          "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
+          "company": "Sandisk",
+          "posted_at": "2026-01-29T19:47:02.760Z"
         }
       ]
     },
@@ -118,125 +53,198 @@
       "channel_id": "1464304161230295131",
       "count": 1,
       "jobs": [
-        "kla-full-stack-software-intern-milpitas"
+        "field-ai-research-scientist-intern-embodied-ai-irvine"
       ],
       "recent_jobs": [
         {
-          "id": "kla-full-stack-software-intern-milpitas",
-          "title": "Full Stack Software Intern",
-          "company": "KLA",
-          "posted_at": "2026-01-29T19:31:30.626Z"
+          "id": "field-ai-research-scientist-intern-embodied-ai-irvine",
+          "title": "Research Scientist Intern - Embodied AI",
+          "company": "Field AI",
+          "posted_at": "2026-01-29T19:46:54.088Z"
         }
       ]
     },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
       "count": 2,
       "jobs": [
-        "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
-        "virtua-health-it-data-science-intern-it-data-science-mt-laurel-township"
+        "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
+        "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose"
       ],
       "recent_jobs": [
         {
-          "id": "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
-          "title": "2026 Intern - Speech Research - Summer/Fall",
-          "company": "Samsung Research America",
-          "posted_at": "2026-01-29T19:31:38.913Z"
+          "id": "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
+          "title": "Software Engineer Intern - Developer and Qualification Tools",
+          "company": "d-Matrix",
+          "posted_at": "2026-01-29T19:46:57.635Z"
         },
         {
-          "id": "virtua-health-it-data-science-intern-it-data-science-mt-laurel-township",
-          "title": "IT Data Science Intern - IT Data Science",
-          "company": "Virtua Health",
-          "posted_at": "2026-01-29T19:31:42.397Z"
+          "id": "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
+          "title": "Data Scientist Intern - Vod Data - 2026 Summer",
+          "company": "TikTok",
+          "posted_at": "2026-01-29T19:47:11.060Z"
         }
       ]
     },
-    "📣・marketing-internships": {
-      "channel_id": "1464303312626122855",
-      "count": 1,
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 2,
       "jobs": [
-        "michelin-intern-monroe"
+        "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
+        "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas"
       ],
       "recent_jobs": [
         {
-          "id": "michelin-intern-monroe",
-          "title": "Intern",
-          "company": "Michelin",
-          "posted_at": "2026-01-29T19:31:47.098Z"
+          "id": "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
+          "title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
+          "company": "Sandisk",
+          "posted_at": "2026-01-29T19:47:01.052Z"
+        },
+        {
+          "id": "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas",
+          "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
+          "company": "Sandisk",
+          "posted_at": "2026-01-29T19:47:04.527Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 2,
+      "jobs": [
+        "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
+        "sharp-electronics-intern-hr-data-analyst-mahwah"
+      ],
+      "recent_jobs": [
+        {
+          "id": "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
+          "title": "Data Scientist Intern - Vod Data - 2026 Summer",
+          "company": "TikTok",
+          "posted_at": "2026-01-29T19:47:09.244Z"
+        },
+        {
+          "id": "sharp-electronics-intern-hr-data-analyst-mahwah",
+          "title": "Intern - HR Data Analyst",
+          "company": "Sharp Electronics",
+          "posted_at": "2026-01-29T19:47:12.812Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 2,
+      "jobs": [
+        "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
+        "kymera-therapeutics-informatics-intern-belmont"
+      ],
+      "recent_jobs": [
+        {
+          "id": "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
+          "title": "Tech Program Intern 3 - Full Stack Engineering",
+          "company": "XPO",
+          "posted_at": "2026-01-29T19:47:17.557Z"
+        },
+        {
+          "id": "kymera-therapeutics-informatics-intern-belmont",
+          "title": "Informatics Intern",
+          "company": "Kymera Therapeutics",
+          "posted_at": "2026-01-29T19:47:20.916Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 2,
+      "jobs": [
+        "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
+        "kymera-therapeutics-informatics-intern-belmont"
+      ],
+      "recent_jobs": [
+        {
+          "id": "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
+          "title": "Tech Program Intern 3 - Full Stack Engineering",
+          "company": "XPO",
+          "posted_at": "2026-01-29T19:47:19.258Z"
+        },
+        {
+          "id": "kymera-therapeutics-informatics-intern-belmont",
+          "title": "Informatics Intern",
+          "company": "Kymera Therapeutics",
+          "posted_at": "2026-01-29T19:47:22.748Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "harman-international-intern-customer-engineering-novi",
-      "company": "HARMAN International",
-      "title": "Intern - Customer Engineering",
+      "job_id": "field-ai-research-scientist-intern-embodied-ai-irvine",
+      "company": "Field AI",
+      "title": "Research Scientist Intern - Embodied AI",
       "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-29T19:31:18.130Z"
-    },
-    {
-      "job_id": "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
-      "company": "Kairos Power",
-      "title": "KP-SAM Code Development Engineering Intern - Summer 2026",
-      "channels": [
-        "💻・tech-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-29T19:31:21.688Z"
-    },
-    {
-      "job_id": "hilb-benefits-analytics-intern-sparks",
-      "company": "Hilb Group",
-      "title": "Benefits Analytics Intern",
-      "channels": [
-        "💻・tech-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-29T19:31:25.438Z"
-    },
-    {
-      "job_id": "kla-full-stack-software-intern-milpitas",
-      "company": "KLA",
-      "title": "Full Stack Software Intern",
-      "channels": [
-        "💻・tech-internships",
+        "🤖・ai-internships",
         "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-29T19:31:28.897Z"
+      "posted_at": "2026-01-29T19:46:52.331Z"
     },
     {
-      "job_id": "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
-      "company": "Kaiser Permanente",
-      "title": "Developer Bachelor's Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-29T19:31:32.410Z"
-    },
-    {
-      "job_id": "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
-      "company": "Samsung Research America",
-      "title": "2026 Intern - Speech Research - Summer/Fall",
+      "job_id": "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
+      "company": "d-Matrix",
+      "title": "Software Engineer Intern - Developer and Qualification Tools",
       "channels": [
         "🤖・ai-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T19:31:38.913Z"
+      "posted_at": "2026-01-29T19:46:55.877Z"
     },
     {
-      "job_id": "michelin-intern-monroe",
-      "company": "Michelin",
-      "title": "Intern",
+      "job_id": "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
+      "company": "Sandisk",
+      "title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
       "channels": [
-        "📣・marketing-internships",
+        "🤖・ai-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-01-29T19:46:59.371Z"
+    },
+    {
+      "job_id": "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas",
+      "company": "Sandisk",
+      "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
+      "channels": [
+        "🤖・ai-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-01-29T19:47:02.760Z"
+    },
+    {
+      "job_id": "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - Vod Data - 2026 Summer",
+      "channels": [
+        "📊・data-science-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T19:47:09.244Z"
+    },
+    {
+      "job_id": "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
+      "company": "XPO",
+      "title": "Tech Program Intern 3 - Full Stack Engineering",
+      "channels": [
+        "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:31:47.098Z"
+      "posted_at": "2026-01-29T19:47:17.557Z"
+    },
+    {
+      "job_id": "kymera-therapeutics-informatics-intern-belmont",
+      "company": "Kymera Therapeutics",
+      "title": "Informatics Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-29T19:47:20.916Z"
     }
   ],
   "failures": [],
