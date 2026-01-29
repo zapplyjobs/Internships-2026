@@ -2119,5 +2119,249 @@
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T21:25:54.268Z",
     "postedAt": "2026-01-29T21:26:13.909Z"
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Cooper Standard",
+      "job_city": "Livonia",
+      "job_state": "MI",
+      "job_description": "Job Description:The RoleWe are seeking a Data Science Intern to help develop and deliver the core products of our AI stack: trained models of process physics and AI controllers for edge deployment. Unlike a traditional theoretical research role, this position focuses heavily on implementation. You will define, automate, and optimize the entire analytics path—including signal processing, training, validation, deployment, and monitoring. You will work within a dynamic team to deploy models for inference within mission-critical manufacturing environments, optimizing for real-time response.Key ResponsibilitiesPipeline & Code Development: Design, develop, and iterate on algorithms using robust coding practices, including the use of code development tools like GitHub.Model Deployment: Experience deploying models in local or cloud environments. You will help deploy policies to the edge where they run real-time inference and continuously make adjustments to physical hardware.Data Engineering: Assess new data sources and interact with data ingestion pipelines or data warehouses.Automation: Automate the creation of automated controls and the analytics path to ensure the technology is scalable.Collaboration: Collaborate with process domain experts to determine what data to collect to ensure high data quality.Required Technical SkillsWe prioritize candidates with strong software engineering fundamentals and fluency in modern data stacks.Core Languages: Proficiency in Python is required.Libraries & Frameworks: Expertise with data analysis and ML libraries, specifically TensorFlow, PyTorch, Numpy, Pandas, Scikit-learn, and Spark ML.DevOps & Environment: Fluency with standard DevOps tools. Experience working on Linux ML libraries and compilation.Cloud Technologies: Familiarity with cloud technologies such as AWS, Azure, Databricks, or Hadoop/Spark.Data Visualization: Expertise in data visualization techniques to present actionable insights.Domain KnowledgeWhile programming is the primary focus, familiarity with the following application areas is essential:Time Series & Deep Learning: Demonstrated skills in time series data analysis and Deep Learning architectures including LSTM, RNN, and CNN.Reinforcement Learning: Understanding of reinforcement learning techniques for developing optimal control policies.Qualifications & Soft SkillsEducation: Currently pursuing or recently completed a Master’s Degree or PhD in Computer Science, Engineering, or Science.Problem Solving: Intellectual curiosity, entrepreneurial drive, and innovative thinking.Communication: Ability to explain moderately complex information in a concise manner to both specialists and non-technical audiences.What's In It for YouCompetitive compensation.The opportunity to join a startup with funding, a major customer, and a world-class tech center.Access to full-scale production lines to generate proprietary data and test your code on physical hardware.Position Type:Intern (Trainee)Additional Locations: Additional Information:Cooper Standard is proud of its diverse workforce and committed to providing equal employment opportunities to applicants and employees without regard to race, color, religion, sex, national origin, genetic information, physical or mental disability, age, veteran or military status, or any other characteristic protected by applicable law. We are dedicated to creating an environment at work that not only values diversity but also encourages inclusion and a sense of belonging. We firmly believe that a diverse workplace fosters an environment where our employees can flourish and provide superior service to our customers. Because we recognize and value the range of ways in which people acquire experiences, whether personal, professional, or via education or volunteerism, we invite interested applicants to evaluate the key duties and requirements and apply for any opportunities that fit your experience and qualifications. Applicants with disabilities may be entitled to reasonable accommodations under the Americans with Disabilities Act, as well as certain state and/or local laws. If you believe you require such assistance to complete our online application or to participate in an interview, you (or someone on your behalf) may request assistance by emailing recruitment@cooperstandard.com with a description of the accommodation you seek. Application materials submitted to this email address will not be considered.Remote Status:Hybrid",
+      "job_apply_link": "https://cooperstandard.wd1.myworkdayjobs.com/CooperStandard/job/Livonia-Michigan/Data-Science-Intern_R017907",
+      "job_posted_at_datetime_utc": "2026-01-29T23:25:59.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cooper-standard-data-science-intern-livonia",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": "2026-01-29T23:42:23.913Z"
+  },
+  {
+    "job": {
+      "job_title": "Mobile App Development Intern",
+      "employer_name": "Citizens Financial Group",
+      "job_city": "Coralville",
+      "job_state": "IA",
+      "job_description": "Mobile Application Development Internship Calling all emerging technologists! Interested in real-world experience in mobile app development? Citizens is dedicated to opening doors for students and encouraging new ideas that drive impact. Join the 10week summer internship program and contribute to mobile app development efforts that power the college planning platform in our Student Lending ecosystem. Experience during the program Interns can expect to spend their time collaborating with other interns, colleagues, and business partners to work on a real-world project. The intern will play a key role in developing new features and enhancements for the Citizens digital platform, with a focus on integrating innovative college planning tools that support students in making informed financial and academic decisions. The role offers hands-on experience with modern web technologies, agile development practices, and cross-functional collaboration with product managers, desi...",
+      "job_apply_link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44487",
+      "job_posted_at_datetime_utc": "2026-01-29T23:18:59.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "citizens-financial-mobile-app-development-intern-coralville",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": "2026-01-29T23:42:23.913Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Intuit",
+      "job_city": "San Diego",
+      "job_state": "CA",
+      "job_description": "<p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 13pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Overview</span></p><p dir='ltr' style='line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #1d1c1d; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>At Intuit, we believe in the power of early talent. Our internship and co-op program provides hands-on experience, mentorship, and opportunities to contribute to real-world projects that impact millions. We get up every morning with our hearts beating fast, driven by the knowledge that we're transforming the world of consumer and small business finance. It’s why our products continue to resonate with 50 million consumers around the globe.&nbsp;</span></p><p><br></p><p dir='ltr' style='line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #191919; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Join Intuit Consumer Group’s Business Tax product development team as a Software Engineering Intern. You'll gain hands-on experience in a fast-paced, agile environment, contributing to the design and development of innovative web applications, prototypes, and proofs of concept. This is an excellent opportunity for aspiring software engineers to learn, grow, and apply their skills while collaborating with cross-functional teams.</span></p><br><p class='Responsibilities'><strong>Responsibilities</strong></p><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 12pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>What You’ll Do</span><span style='font-size: 12pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>:</span></p><p><br></p><ul style='margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;'><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.2; margin-top: 12pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Assist in the design, development, and testing of software applications and systems.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Contribute to code reviews and ensure adherence to coding standards.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Participate in debugging and resolving software defects.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Collaborate with team members to understand project requirements and deliver solutions.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.2; margin-top: 0pt; margin-bottom: 12pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Support the deployment and maintenance of software</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.2; margin-top: 12pt; margin-bottom: 12pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Learn how Intuit is supporting small business tax filers with both TurboTax and Quickbooks.</span></p></li></ul><br><p class='Qualifications'><strong>Qualifications</strong></p><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 12pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>What You’ll Bring</span></p><p dir='ltr' style='line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Must Haves:</span></p><ul style='margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;'><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Solid understanding of object-oriented design and fundamental programming concepts.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Familiarity with Agile development methodologies and the software development lifecycle</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>A 'self-starter' attitude with the ability to take initiative and make independent decisions.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Strong problem-solving skills and a history of successfully delivering on assigned tasks.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Desire to learn and grow within a technical environment.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Excellent verbal and written communication skills.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Experience and familiarity with Javascript.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Exposure to Artificial Intelligence (AI) programs, tools and concepts</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Currently enrolled in a&nbsp; Bachelor's or Master's degree in Computer Science or a related technical field.</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #191919; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #191919; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>A graduation date at least 4 months after the end of the internship</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #191919; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #191919; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Must be legally authorized to work in the US on a full-time basis during the duration of the internship</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #191919; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #191919; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Ability to work onsite for a minimum of 3 days per week</span></p></li></ul><p dir='ltr' style='line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Nice to Haves:</span></p><p><br></p><ul style='margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;'><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.2; margin-top: 12pt; margin-bottom: 0pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Ability to code proficiently in Java, Python or C#</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Knowledge of AWS or other cloud computing services</span></p></li><li dir='ltr' style='list-style-type: disc; font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;'><p dir='ltr' style='line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;'><span style='font-size: 10pt; font-family: 'Avenir Next For Intuit',sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;'>Experience with Docker, Kubernetes, ECS, EK</span></p></li></ul><br><p style='outline: 0px; margin: 0px 0px 0.6em; padding: 0px; border: 0px; color: rgb(118, 118, 118);' id='isPasted'>Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at <a href='https://www.intuit.com/careers/benefits/full-time-employees/' target='_blank' rel='noopener noreferrer' style='outline: 0px; margin: 0px; text-decoration: none; color: rgb(0, 100, 240); user-select: auto;'>Intuit®: Careers | Benefits</a>). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is:&nbsp;</p><p style='outline: 0px; margin: 0px 0px 0.6em; padding: 0px; border: 0px; color: rgb(118, 118, 118);'><span style='font-size:11pt;line-height:115%;font-family:'Aptos Narrow',sans-serif;color:black;' data-pasted='true'>Southern California $</span><span style='font-size:11pt;line-height:115%;font-family:'Aptos',sans-serif;'>&nbsp;TBA</span></p><p style='outline: 0px; margin: 0px 0px 0.6em; padding: 0px; border: 0px; color: rgb(118, 118, 118);'><br style='outline: 0px; margin: 0px;'></p><p style='outline: 0px; margin: 0px 0px 0.6em; padding: 0px; border: 0px; color: rgb(118, 118, 118);'><br style='outline: 0px; margin: 0px; color: rgb(118, 118, 118); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'></p><p><br></p>",
+      "job_apply_link": "https://jobs.intuit.com/job/san-diego/software-engineer-intern-business-tax/27595/91172117936",
+      "job_posted_at_datetime_utc": "2026-01-29T23:18:11.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "intuit-software-engineer-intern-san-diego",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": "2026-01-29T23:42:23.913Z"
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Internship - Equities Technology - Chicago",
+      "employer_name": "Verition Fund Management",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Verition Fund Management in this exciting opportunity.",
+      "job_apply_link": "https://www.verition.com/open-positions?gh_jid=5037983007",
+      "job_posted_at_datetime_utc": "2026-01-29T23:16:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "verition-fund-management-2026-summer-internship-equities-technology-chicago-chicago",
+      "description_platform": "generic",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": "2026-01-29T23:42:23.913Z"
+  },
+  {
+    "job": {
+      "job_title": "Data Engineering Intern",
+      "employer_name": "APEX Analytix",
+      "job_city": "Greensboro",
+      "job_state": "NC",
+      "job_description": "Quick Take The Data Engineering Intern is responsible for developing and deploying data applications, deploying into Kubernetes clusters, a...",
+      "job_apply_link": "https://ats.rippling.com/apexanalytix-careers/jobs/6ee082e7-a22e-4cf9-b80b-38f38db7f555",
+      "job_posted_at_datetime_utc": "2026-01-29T23:14:42.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "apex-analytix-data-engineering-intern-greensboro",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": "2026-01-29T23:42:23.913Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer – Intern",
+      "employer_name": "Sprinter Health",
+      "job_city": "Menlo Park",
+      "job_state": "CA",
+      "job_description": "<p><b>We’re looking for ambitious software engineering interns who want to make an impact</b>. We want to make a difference in the lives of those falling between the cracks of the current healthcare system, and could use all the help we can get reimagining last-mile healthcare delivery.</p><p><br></p><p><b>If you want to experience real-world technical challenges</b>, we want to talk to you. Health tech is challenging enough on its own, but add in DoorDash-style logistics problems at scale and the constraints of a distributed labor force working in patients’ homes and things get interesting quickly. You’ll get to contribute to solving hard problems like how to:</p><p><br></p><p>🚗 <b>Optimize logistics</b> simulations for a fleet of mobile clinicians at national scale&nbsp;</p><p>📢 <b>Strategize outreach</b> across SMS, phone, email, and mail for maximal patient reach</p><p>🔍 <b>Uncover care gaps</b> and predict future risk with automated deep analysis of patient data</p><p>📝 <b>Synthesize rich, pre-visit clinical summaries</b> for our NPs using LLMs over patient records</p><p>🤖 <b>Detect and prevent medical data errors</b> with automated validation and anomaly detection</p><p><br></p><p>If any of these sound interesting, Sprinter could be the right place for you. This is your chance to learn and grow while contributing to something truly 0 to 1 at a company with meteoric growth.</p><p><br></p><p>Since just 2021, we've grown to:</p><p><br></p><p>👥 <b>&gt;150k patients served</b></p><p>🚀 <b>6x revenue growth</b> last year, 5x the year before</p><p>🌍 <b>&gt;60% coverage</b> of the US population</p><p>🏥 <b>6 of the 10</b> largest US health plans</p><p>🏦 <b>&gt;$125M raised</b> from a16z, General Catalyst, GV, and Accel</p><p><br></p><p><u><b>Internship Logistics: </b></u></p><p>Summer 2026 (Dates flexible)</p><p>Hybrid Work Schedule (SF + Menlo Park)</p>\\n<p></p><p><br></p><b>Technologies</b><ul><li>Serverless AWS (AppSync, DynamoDB, Lambda, Amplify, CloudFormation, Node)</li><li>React Native, React Native for Web</li><li>GraphQL</li><li>Typescript</li><li>Javascript</li><li><a rel=\"noopener noreferrer\" class=\"postings-link\" href=\"http://Node.js\">Node.js</a></li></ul><p><br></p><b>The Fun Stuff ™</b><ul><li>Free lunch everyday and fully-stocked microkitchens and coffee/tea bar</li><li>Team offsites, game hours, tech talks, and design sprints</li><li>Flexible work-from-home policy for work/life balance (3 days in the Menlo Park office)</li></ul><p><br></p><p></p>\\n<p>The internship pays a weekly compensation rate of $2,200.</p><p><br></p><p>Sprinter Health is an equal opportunity employer. We value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or other protected classes.</p><p><br></p><p>If you're looking for a career that offers opportunities for growth, continual development, professional challenge and the chance to make a real difference in the lives of people, apply today!</p><p><br></p><p><br></p><p><i>Beware of recruitment fraud and scams that involve fictitious job descriptions followed by false job offers.</i></p><p><br></p><p><i>If you are applying for a job, you can confirm the legitimacy of a job posting by viewing current open roles&nbsp;</i><b><i><a rel=\"noopener noreferrer\" class=\"postings-link\" href=\"https://jobs.lever.co/SprinterHealth\">here</a></i></b><i>. All legitimate job postings will require an application to be made directly on our official Sprinter Health Careers website. Job-related communications will only be sent from email addresses ending in @sprinterhealth.com. Please ensure that you’re only replying to emails that end with @sprinterhealth.com.</i></p>",
+      "job_apply_link": "https://jobs.lever.co/SprinterHealth/27f2b51b-35bb-4da0-9779-71e31af38961/apply",
+      "job_posted_at_datetime_utc": "2026-01-29T23:12:53.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sprinter-health-software-engineer-intern-menlo-park",
+      "description_platform": "lever",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": "2026-01-29T23:42:23.913Z"
+  },
+  {
+    "job": {
+      "job_title": "Systems Architecture Intern",
+      "employer_name": "Rheem",
+      "job_city": "Roswell",
+      "job_state": "GA",
+      "job_description": "The Systems Architecture Intern will help design, test, and validate the IoT platform and the ecosystem. We aim to develop your talents as an engineer and enable you to contribute significantly to the Smart Connected Products platform in new feature design and development during your time at Rheem. This position is in our Advanced Technology Integration department in Roswell, Georgia (Hybrid). This position will start immediately, working 20-40 hours per week.",
+      "job_apply_link": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3587",
+      "job_posted_at_datetime_utc": "2026-01-29T23:12:13.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "rheem-systems-architecture-intern-roswell",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": "2026-01-29T23:42:23.913Z"
+  },
+  {
+    "job": {
+      "job_title": "Technology Product Development Developer Intern-Summer 2026",
+      "employer_name": "Stifel",
+      "job_city": "St. Louis",
+      "job_state": "MO",
+      "job_description": "<h2>Why Stifel</h2> <p>Stifel strives for a culture that puts its clients and associates first: a culture where everyone belongs, everyone is welcome, and everyone contributes to the success of our clients, their careers, and the firm as a whole.</p> <p>&nbsp;</p> <p>Let’s talk about how you can find your place here at Stifel,&nbsp;<strong>where success meets success</strong>.</p> <h2>What You'll Be Doing</h2> <p>Stifel's Technology Product Development department works to transform our digital technology for advisors in order to strengthen client bonds.</p> <p>&nbsp;</p> <p>The Technology Product Developer Intern will assist the Development team in various phases of development, including design, implementation, integration, revision control, release and the maintenance of multiple products and systems.</p> <h2>What We're Looking For</h2> <ul> <li>Assist the Development team in various phases of development and with the maintenance of multiple products and systems.</li> <li>Implement short-cycle development tasks.</li> <li>Develop understanding of unit testing and continuous integration practices.</li> <li>Work closely with Development team to understand and follow Stifel's coding and core development concepts.</li> <li>Document clearly and effectively within code.</li> <li>Learn from and participate with more experienced developers for complex developmental tasks.</li> </ul> <h2>What You'll Bring</h2> <ul> <li>Ability to collaborate&nbsp;with a team using knowledge of appropriate development environments.</li> <li>Ability to resolve problems, basic troubleshooting and problem-solving skills.</li> <li>Displays awareness of the impact of actions on the product or feature and acts in line with it.</li> </ul> <h2>Education &amp; Experience</h2> <ul> <li>Pursuing a degree in computer science and/or software development with at least one year of college completed preferred.</li> <li>Experience in C#/.NET, or relevant Java/C++ or equivalent relational database systems</li> <li>Experience with JavaScript Libraries/Frameworks (Angular, jQuery)</li> </ul> <h2>Systems &amp; Technology</h2> <ul> <li>Proficient in Microsoft Word and Excel.</li> </ul> <h2>About Stifel</h2> <p>Stifel is more than 130 years old and still thinking like a start-up.&nbsp; We are a global wealth management and investment banking firm serious about innovation and fresh ideas.&nbsp; Built on a simple premise of safeguarding our clients’ money as if it were our own, coined by our namesake, Herman Stifel, our success is intimately tied to our commitment to helping families, companies, and municipalities find their own success.</p> <p>&nbsp;</p> <p>While our headquarters is in St. Louis, we have offices in New York, San Francisco, Baltimore, London, Frankfurt, Toronto, and more than 400 other locations.&nbsp; Stifel is home to approximately 9,000 individuals who are currently building their careers as financial advisors, research analysts, project managers, marketing specialists, developers, bankers, operations associates, among hundreds more.&nbsp; Let’s talk about how you can find your place here at Stifel, where success meets success.</p> <p>&nbsp;</p> <p>At Stifel we offer an entrepreneurial environment, comprehensive benefits package to include health, dental and vision care, 401k, wellness initiatives, life insurance, and paid time off.</p> <p>&nbsp;</p> <p>Stifel is an Equal Opportunity Employer.</p>",
+      "job_apply_link": "https://careers-stifel.icims.com/jobs/8210/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-09-17T21:29:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "stifel-technology-product-development-developer-intern-summer-2026-st-louis",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": "2026-01-29T23:41:51.411Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer Intern - Validation AI Software Engineer",
+      "employer_name": "Cirrus Logic",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Cirrus Logic in this exciting opportunity.",
+      "job_apply_link": "https://jobs.eu.lever.co/cirrus/187c0e47-1128-467b-ac10-fbe1e5e82923/apply",
+      "job_posted_at_datetime_utc": "2025-10-14T19:03:23.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cirrus-logic-summer-intern-validation-ai-software-engineer-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Internship - Technology - Data & Analytics",
+      "employer_name": "LPL Financial Holdings",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join LPL Financial Holdings in this exciting opportunity.",
+      "job_apply_link": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Internship-Summer-2026---Technology--Data---Analytics_R-046202-1",
+      "job_posted_at_datetime_utc": "2025-09-09T03:53:59.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "lpl-financial-holdings-internship-technology-data-analytics-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Internship Summer 2026 - Technology - Software Development",
+      "employer_name": "LPL Financial Holdings",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join LPL Financial Holdings in this exciting opportunity.",
+      "job_apply_link": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Internship-Summer-2026---Technology--Software-Development_R-046201-1",
+      "job_posted_at_datetime_utc": "2025-09-09T03:47:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "lpl-financial-holdings-internship-summer-2026-technology-software-development-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "Cox",
+      "job_city": "Williston Park",
+      "job_state": "NY",
+      "job_description": "Join Cox in this exciting opportunity.",
+      "job_apply_link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---North-Hills--NY_R202566837",
+      "job_posted_at_datetime_utc": "2025-09-06T00:34:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cox-software-engineering-intern-williston-park"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T23:41:11.569Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
