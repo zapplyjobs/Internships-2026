@@ -6307,5 +6307,178 @@
     "addedAt": "2026-01-29T02:17:59.827Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Data Analyst",
+      "employer_name": "Aristocrat Leisure",
+      "job_city": "Bedford",
+      "job_state": "NH",
+      "job_description": "Join Aristocrat Leisure in this exciting opportunity.",
+      "job_apply_link": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/USA---New-Hampshire-Concord/Intern--Data-Analyst_R0020525",
+      "job_posted_at_datetime_utc": "2026-01-29T02:45:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "aristocrat-leisure-intern-data-analyst-bedford"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data & Analytics Intern",
+      "employer_name": "Equifax",
+      "job_city": "Alpharetta",
+      "job_state": "GA",
+      "job_description": "Join Equifax in this exciting opportunity.",
+      "job_apply_link": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081",
+      "job_posted_at_datetime_utc": "2026-01-29T02:35:33.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "equifax-data-analytics-intern-alpharetta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern-Software Engineer-Technology Modernization",
+      "employer_name": "Empower",
+      "job_city": "Greenwood Village",
+      "job_state": "CO",
+      "job_description": "Join Empower in this exciting opportunity.",
+      "job_apply_link": "https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2026-Intern--Software-Engineer--Technology-Modernization_R0056207",
+      "job_posted_at_datetime_utc": "2026-01-29T02:22:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "empower-intern-software-engineer-technology-modernization-greenwood-village"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineer Intern",
+      "employer_name": "Archer",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join Archer in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/archer56/jobs/7565624003",
+      "job_posted_at_datetime_utc": "2026-01-29T02:17:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "archer-data-engineer-intern-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Intern",
+      "employer_name": "d-Matrix",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join d-Matrix in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/d-Matrix/72854192-f7bd-4fd5-988b-e05582501ce8/application",
+      "job_posted_at_datetime_utc": "2026-01-29T02:14:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "d-matrix-machine-learning-intern-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Engineering",
+      "employer_name": "Ercot",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Ercot in this exciting opportunity.",
+      "job_apply_link": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Engineering--Texas-A-M-_R1992",
+      "job_posted_at_datetime_utc": "2026-01-29T02:10:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "ercot-intern-engineering-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "Ercot",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Ercot in this exciting opportunity.",
+      "job_apply_link": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Engineering--Baylor-University-_R1993",
+      "job_posted_at_datetime_utc": "2026-01-29T02:10:04.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "ercot-engineering-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Intern, Autolabeling",
+      "employer_name": "Woven by Toyota",
+      "job_city": "Palo Alto",
+      "job_state": "California",
+      "job_description": "Woven by Toyota is enabling Toyota’s transformation into a mobility company, focusing on human-centric innovation. They are seeking a Machine Learning Intern to contribute to the development of innovative systems, collaborating closely with Senior ML Engineers and working on autolabeling capabilities.\n\nResponsibilities\n• Conduct research to integrate state-of-the-art ML components into our auto-labeling pipeline, enhancing its efficiency and accuracy\n• Prepare and manage datasets to support data-driven model development and validation\n• Engage in daily collaboration with a ML Engineer, receiving mentorship and guidance while working on project tasks\n• Gain hands-on experience with production-level data and real-world applications, enhancing your practical skills in a professional setting\n• Summarize key findings and insights in a comprehensive final report, highlighting project outcomes and providing actionable recommendations\n\nSkills\n• Currently pursuing a Masters or a PhD degree in Computer Science, Computer Engineering, Computer Systems, Data Science, or similar discipline\n• Proven ability to develop ML models for image, video, 3D or 4D data processing and/or generation (must be supported by school projects and/or publications)\n• Strong programming skills in Python and ML development with PyTorch\n• Good written and verbal communication skills\n• Passionate about self driving car technology and its potential for humanity\n• Experience developing ML models for autonomous driving or ADAS\n• Experience developing Perception algorithms for autonomous driving or ADAS\n• Publications in top tier CV, ML or robotics conferences or journals\n\nCompany Overview\n• Woven by Toyota improve the vehicle intelligence software and operation and accelerate the Toyota Mobility Concept. It was founded in 2023, and is headquartered in Tokyo, Tokyo, JPN, with a workforce of 1001-5000 employees. Its website is https://woven.toyota/en.\n\nCompany H1B Sponsorship\n• Woven by Toyota has a track record of offering H1B sponsorships, with 71 in 2025, 34 in 2024, 15 in 2023. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/6961ce28e7ed9a5731ba9c99?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-10T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "woven-by-toyota-machine-learning-intern-autolabeling-palo-alto"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern",
+      "employer_name": "Advanced Micro Devices, Inc",
+      "job_city": "Fort Collins",
+      "job_state": "Colorado",
+      "job_description": "WHAT YOU DO AT AMD CHANGES EVERYTHING At AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond. Together, we advance your career. As an AMD AI / ML Intern or Co-op, you’ll be placed at the epicenter of the AI ecosystem, working alongside experts and industry pioneers. You’ll do important work, learn new skills, expand your network, and gain real-world experience on projects that impact millions of end-users worldwide. Whether you’re an undergrad or a PhD student, your contributions matter—and your experience here will be a launchpad for what comes next. JOB DETAILS : Location : Austin, TX; Boxborough, MA; Fort Collins, CO; Longmont, CO; Fishkill, NY; or Rochester, NY Onsite / Hybrid : This role requires the student to work full time (40 hours a week), in either a hybrid or onsite work structure throughout the duration of the co-op / intern term Duration : Summer / Fall Co-op : May 18, 2026 - December 11, 2026 or June 22, 2026 - December 11, 2026 Summer Internship : May 18, 2026 - August 7, 2026 or June 22, 2026 – September 11, 2026 Fall Internship : September 14, 2026 – December 11, 2026 WHAT YOU WILL BE DOING : We are seeking a highly motivated Machine Learning (ML) / Artificial Intelligence (AI) intern to join our team and participate in research and development of next-generation product differentiation features with extraordinary ML / AI engineers. In this role – We will help you learn innovative new technologies in Machine Learning | AI | High Performance Compute We will train you to analyze and implement changes to algorithms to improve AI performance and user experiences We may assign you to one or more of the following project work - Work on machine learning techniques to build applications for source code analysis and Image Corruption Detection Research, development, and deployment in machine learning-based and computer vision products on AMD’s current and future products Fixing and addressing problems with deployed AI to improve user experience Support AI software teams with roadmap planning, collateral development, and customer engagements WHO WE ARE LOOKING FOR : You are currently enrolled in a US based University in a bachelor's degree program majoring in computer science, computer engineering, data science / analytics, or a related field If you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage you to apply – Machine learning, data science, computer vision, statistics, and mathematics Programming in Python, C / C++ Relational (SQL) and no-SQL databases Machine learning algorithms and frameworks Deep learning / AI framework like Pytorch, Tensorflow, Caffe. Familiarity with cloud (e.g., AWS, GCP, Azure) Note : By submitting your application, you are indicating your interest in AMD intern positions. We are recruiting for multiple positions, and if your experience aligns with any of our intern opportunities, a recruiter will contact you. This role is not eligible for visa sponsorship. Benefits offered are described : AMD benefits at a glance. AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and / or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process. AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here. This posting is for an existing vacancy.As an AMD AI / ML Intern or Co-op, you’ll be placed at the epicenter of the AI ecosystem, working alongside experts and industry pioneers. You’ll do important work, learn new skills, expand your network, and gain real-world experience on projects that impact millions of end-users worldwide. Whether you’re an undergrad or a PhD student, your contributions matter—and your experience here will be a launchpad for what comes next. JOB DETAILS : Location : Austin, TX; Boxborough, MA; Fort Collins, CO; Longmont, CO; Fishkill, NY; or Rochester, NY Onsite / Hybrid : This role requires the student to work full time (40 hours a week), in either a hybrid or onsite work structure throughout the duration of the co-op / intern term Duration : Summer / Fall Co-op : May 18, 2026 - December 11, 2026 or June 22, 2026 - December 11, 2026 Summer Internship : May 18, 2026 - August 7, 2026 or June 22, 2026 – September 11, 2026 Fall Internship : September 14, 2026 – December 11, 2026 WHAT YOU WILL BE DOING : We are seeking a highly motivated Machine Learning (ML) / Artificial Intelligence (AI) intern to join our team and participate in research and development of next-generation product differentiation features with extraordinary ML / AI engineers. In this role – We will help you learn innovative new technologies in Machine Learning | AI | High Performance Compute We will train you to analyze and implement changes to algorithms to improve AI performance and user experiences We may assign you to one or more of the following project work - Work on machine learning techniques to build applications for source code analysis and Image Corruption Detection Research, development, and deployment in machine learning-based and computer vision products on AMD’s current and future products Fixing and addressing problems with deployed AI to improve user experience Support AI software teams with roadmap planning, collateral development, and customer engagements WHO WE ARE LOOKING FOR : You are currently enrolled in a US based University in a bachelor's degree program majoring in computer science, computer engineering, data science / analytics, or a related field If you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage you to apply – Machine learning, data science, computer vision, statistics, and mathematics Programming in Python, C / C++ Relational (SQL) and no-SQL databases Machine learning algorithms and frameworks Deep learning / AI framework like Pytorch, Tensorflow, Caffe. Familiarity with cloud (e.g., AWS, GCP, Azure) Note : By submitting your application, you are indicating your interest in AMD intern positions. We are recruiting for multiple positions, and if your experience aligns with any of our intern opportunities, a recruiter will contact you. This role is not eligible for visa sponsorship.\n\nBenefits offered are described : AMD benefits at a glance. AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and / or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process. AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here. This posting is for an existing vacancy.",
+      "job_apply_link": "https://www.talent.com/view?id=428e2f793aed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-08T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "advanced-micro-devices-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-fort-collins"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T03:20:07.868Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
