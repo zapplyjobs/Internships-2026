@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-29T16:58:20.308Z",
+  "generated": "2026-01-29T17:15:39.907Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T16:58:20.308Z",
-  "period_end": "2026-01-29T16:58:20.308Z",
+  "period_start": "2026-01-22T17:15:39.907Z",
+  "period_end": "2026-01-29T17:15:39.907Z",
   "summary": {
     "total_jobs_posted": 0,
     "unique_jobs": 0,
@@ -25,70 +25,70 @@
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:06.170Z"
+        "timestamp": "2026-01-29T17:15:25.747Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:06.170Z"
+        "timestamp": "2026-01-29T17:15:25.747Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:09.173Z"
+        "timestamp": "2026-01-29T17:15:28.750Z"
       },
       {
         "job_id": "bread-financial-intern-speech-intelligence-analyst-columbus",
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:09.173Z"
+        "timestamp": "2026-01-29T17:15:28.750Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:09.173Z"
+        "timestamp": "2026-01-29T17:15:28.750Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:09.173Z"
+        "timestamp": "2026-01-29T17:15:28.751Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:12.176Z"
+        "timestamp": "2026-01-29T17:15:31.752Z"
       },
       {
         "job_id": "copart-data-science-intern-dallas",
         "title": "Data Science Intern",
         "company": "Copart",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:12.176Z"
+        "timestamp": "2026-01-29T17:15:31.752Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:15.177Z"
+        "timestamp": "2026-01-29T17:15:34.755Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T16:58:15.177Z"
+        "timestamp": "2026-01-29T17:15:34.755Z"
       }
     ]
   }
