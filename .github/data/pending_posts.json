@@ -5369,5 +5369,903 @@
     "addedAt": "2026-01-28T21:08:03.794Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern-Backend Developer",
+      "employer_name": "Cadence Design Systems",
+      "job_city": "Santa Fe",
+      "job_state": "NM",
+      "job_description": "Join Cadence Design Systems in this exciting opportunity.",
+      "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern-Backend-Developer_R52938",
+      "job_posted_at_datetime_utc": "2026-01-28T23:55:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cadence-design-intern-backend-developer-santa-fe"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Programmer Intern",
+      "employer_name": "Amentum",
+      "job_city": "Detroit",
+      "job_state": "MI",
+      "job_description": "Join Amentum in this exciting opportunity.",
+      "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0152744",
+      "job_posted_at_datetime_utc": "2026-01-28T23:49:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "amentum-software-programmer-intern-detroit"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intelligent Automation Intern - Summer 2026",
+      "employer_name": "Cox",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Join Cox in this exciting opportunity.",
+      "job_apply_link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Intelligent-Automation-Intern---Summer-2026_R202672581",
+      "job_posted_at_datetime_utc": "2026-01-28T23:47:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cox-intelligent-automation-intern-summer-2026-atlanta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science / AI Intern - Literature Mining & Graph Modeling",
+      "employer_name": "AstraZeneca",
+      "job_city": "Waltham",
+      "job_state": "MA",
+      "job_description": "Join AstraZeneca in this exciting opportunity.",
+      "job_apply_link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Waltham---MA/Data-Science---AI-Intern---Literature-Mining---Graph-Modeling_R-244721",
+      "job_posted_at_datetime_utc": "2026-01-28T23:44:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "astrazeneca-data-science-ai-intern-literature-mining-graph-modeling-waltham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Product Development Innovation Intern",
+      "employer_name": "Withum",
+      "job_city": "Parsippany-Troy Hills",
+      "job_state": "NJ",
+      "job_description": "Join Withum in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/campusopportunities/jobs/8380820002",
+      "job_posted_at_datetime_utc": "2026-01-28T23:42:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "withum-product-development-innovation-intern-parsippany-troy-hills"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI / Computer Vision Intern",
+      "employer_name": "Jabil",
+      "job_city": "Lexington",
+      "job_state": "KY",
+      "job_description": "Join Jabil in this exciting opportunity.",
+      "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Lexington-KY/AI---Computer-Vision-Intern_J2437762",
+      "job_posted_at_datetime_utc": "2026-01-28T23:42:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "jabil-ai-computer-vision-intern-lexington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Launch Intern",
+      "employer_name": "Crowdstrike",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Crowdstrike in this exciting opportunity.",
+      "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Launch-Intern---Summer-2026_R26658",
+      "job_posted_at_datetime_utc": "2026-01-28T23:41:11.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "crowdstrike-launch-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineering Intern",
+      "employer_name": "MERGE",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join MERGE in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/mergeworld/jobs/7567984",
+      "job_posted_at_datetime_utc": "2026-01-28T23:40:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "merge-data-engineering-intern-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Digital Engineering Intern",
+      "employer_name": "MERGE",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join MERGE in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/mergeworld/jobs/7567967",
+      "job_posted_at_datetime_utc": "2026-01-28T23:40:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "merge-digital-engineering-intern-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Applied Intelligence Intern",
+      "employer_name": "MERGE",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join MERGE in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/mergeworld/jobs/7558184",
+      "job_posted_at_datetime_utc": "2026-01-28T23:40:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "merge-applied-intelligence-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Software Development Engineer",
+      "employer_name": "GoDaddy",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join GoDaddy in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7490893003",
+      "job_posted_at_datetime_utc": "2026-01-28T23:37:28.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "godaddy-intern-software-development-engineer-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Applied AI & Research Intern",
+      "employer_name": "Tempus",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Tempus in this exciting opportunity.",
+      "job_apply_link": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Applied-AI---Research-Summer-Associate_JR202600081",
+      "job_posted_at_datetime_utc": "2026-01-28T23:37:06.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tempus-applied-ai-research-intern-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - GM Energy",
+      "employer_name": "General Motors",
+      "job_city": "Warren",
+      "job_state": "MI",
+      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---GM-Energy_JR-202601937",
+      "job_posted_at_datetime_utc": "2026-01-28T23:36:42.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "general-motors-intern-gm-energy-warren"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Clinical Data Analyst - Machine Learning",
+      "employer_name": "Tarsus Pharamceuticals",
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Join Tarsus Pharamceuticals in this exciting opportunity.",
+      "job_apply_link": "https://tarsusrx.com/careers?gh_jid=5781491004",
+      "job_posted_at_datetime_utc": "2026-01-28T23:35:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tarsus-pharamceuticals-intern-clinical-data-analyst-machine-learning-irvine"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Clinical Data Management and Biostatistics",
+      "employer_name": "Tarsus Pharamceuticals",
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Join Tarsus Pharamceuticals in this exciting opportunity.",
+      "job_apply_link": "https://tarsusrx.com/careers?gh_jid=5781539004",
+      "job_posted_at_datetime_utc": "2026-01-28T23:35:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tarsus-pharamceuticals-intern-clinical-data-management-and-biostatistics-irvine"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – IT",
+      "employer_name": "Tarsus Pharamceuticals",
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Join Tarsus Pharamceuticals in this exciting opportunity.",
+      "job_apply_link": "https://tarsusrx.com/careers?gh_jid=5781770004",
+      "job_posted_at_datetime_utc": "2026-01-28T23:35:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tarsus-pharamceuticals-intern-it-irvine"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "DigitalOcean",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join DigitalOcean in this exciting opportunity.",
+      "job_apply_link": "https://www.digitalocean.com/careers/position/apply/?gh_jid=7572452",
+      "job_posted_at_datetime_utc": "2026-01-28T23:33:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "digitalocean-engineering-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "DigitalOcean",
+      "job_city": "Denver",
+      "job_state": "CO",
+      "job_description": "Join DigitalOcean in this exciting opportunity.",
+      "job_apply_link": "https://www.digitalocean.com/careers/position/apply/?gh_jid=7572450",
+      "job_posted_at_datetime_utc": "2026-01-28T23:33:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "digitalocean-engineering-intern-denver"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Engineering/Data Science Intern",
+      "employer_name": "BambooHR",
+      "job_city": "Draper",
+      "job_state": "UT",
+      "job_description": "Join BambooHR in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/bamboohr17/jobs/5763769004",
+      "job_posted_at_datetime_utc": "2026-01-28T23:32:04.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "bamboohr-ai-engineering-data-science-intern-draper"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Materials Informatics - Summer 2026",
+      "employer_name": "Nissan",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join Nissan in this exciting opportunity.",
+      "job_apply_link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Intern---Materials-Informatics---Summer-2026_R00201317",
+      "job_posted_at_datetime_utc": "2026-01-28T23:26:29.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "nissan-intern-materials-informatics-summer-2026-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Intern - Software Engineer - Summer",
+      "employer_name": "Samsung Research America",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Join Samsung Research America in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8391853002",
+      "job_posted_at_datetime_utc": "2026-01-28T23:25:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "samsung-research-america-2026-intern-software-engineer-summer-mountain-view"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Application Development – Summer Intern",
+      "employer_name": "Fiserv",
+      "job_city": "Fishers",
+      "job_state": "IN",
+      "job_description": "Join Fiserv in this exciting opportunity.",
+      "job_apply_link": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Fishers-Indiana/Application-Development---Summer-Intern_R-10381710-1",
+      "job_posted_at_datetime_utc": "2026-01-28T23:21:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "fiserv-application-development-summer-intern-fishers"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Application Development – Intern",
+      "employer_name": "Fiserv",
+      "job_city": "King of Prussia",
+      "job_state": "PA",
+      "job_description": "Join Fiserv in this exciting opportunity.",
+      "job_apply_link": "https://fiserv.wd5.myworkdayjobs.com/ext/job/King-of-Prussia-Pennsylvania/Application-Development----Intern-_R-10381720",
+      "job_posted_at_datetime_utc": "2026-01-28T23:21:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "fiserv-application-development-intern-king-of-prussia"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Application Development Intern – Summer Intern",
+      "employer_name": "Fiserv",
+      "job_city": "Fishers",
+      "job_state": "IN",
+      "job_description": "Join Fiserv in this exciting opportunity.",
+      "job_apply_link": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Fishers-Indiana/Application-Development-Intern---Summer-Intern_R-10381709",
+      "job_posted_at_datetime_utc": "2026-01-28T23:21:13.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "fiserv-application-development-intern-summer-intern-fishers"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software and Computer Engineering Intern",
+      "employer_name": "Trane Technologies",
+      "job_city": "Noblesville",
+      "job_state": "IN",
+      "job_description": "Join Trane Technologies in this exciting opportunity.",
+      "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/2502589",
+      "job_posted_at_datetime_utc": "2026-01-28T23:19:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "trane-software-and-computer-engineering-intern-noblesville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Nestlé Health Science-Engineering Intern",
+      "employer_name": "Nestle",
+      "job_city": "Bridgewater Township",
+      "job_state": "NJ",
+      "job_description": "Join Nestle in this exciting opportunity.",
+      "job_apply_link": "https://jobdetails.nestle.com/job/Bridgewater-Nestl%C3%A9-Health-Science-Engineering-Intern-NJ-08807/1288239201/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-28T23:18:08.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "nestle-nestl-health-science-engineering-intern-bridgewater-township"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Nestlé Health Science – R&D Sustainability Intern",
+      "employer_name": "Nestle",
+      "job_city": "Bridgewater Township",
+      "job_state": "NJ",
+      "job_description": "Join Nestle in this exciting opportunity.",
+      "job_apply_link": "https://jobdetails.nestle.com/job/Bridgewater-Nestl%C3%A9-Health-Science-R&D-Sustainability-Intern-NJ-08807/1288245101/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-28T23:17:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "nestle-nestl-health-science-r-d-sustainability-intern-bridgewater-township"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Client Success Data Intern",
+      "employer_name": "LPL Financial Holdings",
+      "job_city": "San Diego",
+      "job_state": "CA",
+      "job_description": "Join LPL Financial Holdings in this exciting opportunity.",
+      "job_apply_link": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego/XMLNAME-2026-Summer-Internship--Client-Success-Data-Summer-Intern_R-047338-1",
+      "job_posted_at_datetime_utc": "2026-01-28T23:16:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "lpl-financial-holdings-client-success-data-intern-san-diego"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7600535181632457013",
+      "job_posted_at_datetime_utc": "2026-01-28T23:14:57.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tiktok-security-software-engineer-project-intern-product-security-2026-start-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Full Stack Software Developer Intern - Health and Life Science",
+      "employer_name": "SAS",
+      "job_city": "Morrisville",
+      "job_state": "NC",
+      "job_description": "Join SAS in this exciting opportunity.",
+      "job_apply_link": "https://careers-sas.icims.com/jobs/40704/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-28T23:12:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sas-full-stack-software-developer-intern-health-and-life-science-morrisville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Technology Solutions Analyst",
+      "employer_name": "Cotiviti",
+      "job_city": "South Jordan",
+      "job_state": "UT",
+      "job_description": "Join Cotiviti in this exciting opportunity.",
+      "job_apply_link": "https://careers-cotiviti.icims.com/jobs/18195/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-28T23:11:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "cotiviti-intern-technology-solutions-analyst-south-jordan"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Developer Intern",
+      "employer_name": "SAS",
+      "job_city": "Morrisville",
+      "job_state": "NC",
+      "job_description": "Join SAS in this exciting opportunity.",
+      "job_apply_link": "https://careers-sas.icims.com/jobs/40586/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-28T23:11:28.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sas-ai-developer-intern-morrisville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Learning Data Science Master's Intern",
+      "employer_name": "SAS",
+      "job_city": "Morrisville",
+      "job_state": "NC",
+      "job_description": "Join SAS in this exciting opportunity.",
+      "job_apply_link": "https://careers-sas.icims.com/jobs/40778/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-28T23:11:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sas-learning-data-science-master-s-intern-morrisville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Technology - Digital Workplace Technology & Support",
+      "employer_name": "Kroll",
+      "job_city": "Nashville",
+      "job_state": "TN",
+      "job_description": "Join Kroll in this exciting opportunity.",
+      "job_apply_link": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21013556",
+      "job_posted_at_datetime_utc": "2026-01-28T23:10:41.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "kroll-intern-technology-digital-workplace-technology-support-nashville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Intern - Applied Sciences Group",
+      "employer_name": "Microsoft",
+      "job_city": "Redmond",
+      "job_state": "WA",
+      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556748770",
+      "job_posted_at_datetime_utc": "2026-01-28T23:08:23.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "microsoft-research-intern-applied-sciences-group-redmond"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Firmware / Software Engineer Intern",
+      "employer_name": "Schneider Electric",
+      "job_city": "Cedar Rapids",
+      "job_state": "Iowa",
+      "job_description": "Schneider Electric is looking for a Firmware and / or Software Engineer Intern to join our team for Summer 2026 based in Cedar Rapids, IA. We are looking for a positive, self-motivated, passionate individual with a strong desire to work in an exciting, fast-paced design environment to help us develop next generation technologies. This individual will be able to grow with Fortune 500 experience, and work in the following areas :\n\nWhat will you do?\n• Expand and modify existing firmware to meet design requirements\n• Perform development (coding and / or testing) of a part of an embedded software solution whose specification and architecture are defined.\n• Participate in firmware design reviews with peers to gain knowledge on the best practices.\n• Work with the formal verification team to define, document, analyze, perform and interpret developmental tests for new and / or modified products.\n• Firmware development using Integrated Development Environment (IDEs).\n• Software development for web pages, database interfaces and dashboards.\n• Facilitate the generation of prototypes for testing.\n• Contribute to verification and validation test plans including test method and acceptance criteria.\n• Interpretation of test results and other data. Ability to synthesize data into technical communication for effective written and oral presentation.\n• Capable with developing, debugging, analyzing and root cause analysis for HW and embedded systems from proof of concept through development.\n• Contribute to development of user documentation such as instruction bulletins, wiki pages, safety labels, and product markings.\n\nWhat qualifications will make you successful?\n• Working towards a Bachelor's, Masters or PhD degree in electrical engineering or software engineering, Computer Science or related engineering field.\n• Able to work 40 hours per week\n• Experience working in new software development, and / or embedded firmware design implementation.\n• Experience in digital signal processing and simulation tools is a plus.\n• Experience with CSS, Java Script, Matlab, Python, HTML, SQL, or SQL Server is a plus.\n• Familiarity with Flask, React, Node.js, D3, are preferrable.\n• Strong experience coding with C Language for microcontrollers applications.\n• Desired analysis skills : Highly creative & inquisitive for design and system optimization. / Strength of component & system analysis / Capable with electronics lab equipment for test and debug / Strong understanding of design for test & reliability in safety products. Use of statistical techniques for analyzing empirical data.\n• Willingness to work in a process driven environment using formalized documentation and approval management.\n• Ability to discuss a new software product development success as a team member and be able to articulate your role.\n• LabView programming and Data Acquisition system experience is a plus.\n• Experience with wireless communications technologies and protocols such as Bluetooth and Zigbee is a plus.\n• Currently local to Cedar Rapids, Iowa, this role does not provide funding for relocation or housing.\n\nApplicants must be authorized to work in the United States on a full-time, ongoing basis. The company does not provide immigration sponsorship now or in the future.\n\nLet us learn about you! Apply today. #SEcareers\n\nYou must submit an online application to be considered for any position with us. This position will be posted until filled.\n\nLooking to make an IMPACT with your career?\n\nWhen you are thinking about joining a new team, culture matters. At Schneider Electric, our values and behaviors are the foundation for creating a great culture to support business success. We believe that our IMPACT values - Inclusion, Mastery, Purpose, Action, Curiosity, Teamwork - starts with us.\n\nIMPACT is also your invitation to join Schneider Electric where you can contribute to turning sustainability ambition into actions, no matter what role you play. It is a call to connect your career with the ambition of achieving a more resilient, efficient, and sustainable world.\n\nWe are looking for IMPACT Makers; exceptional people who turn sustainability ambitions into actions at the intersection of automation, electrification, and digitization. We celebrate IMPACT Makers and believe everyone has the potential to be one.\n\nBecome an IMPACT Maker with Schneider Electric - apply today!\n\n€36 billion global revenue\n• 13% organic growth\n\n150 000+ employees in 100+ countries\n\n#1 on the Global 100 World's most sustainable corporations\n\nYou must submit an online application to be considered for any position with us. This position will be posted until filled.\n\nSchneider Electric aspires to be the most inclusive and caring company in the world, by providing equitable opportunities to everyone, everywhere, and ensuring all employees feel uniquely valued and safe to contribute their best. We mirror the diversity of the communities in which we operate, and 'inclusion' is one of our core values. We believe our differences make us stronger as a company and as individuals and we are committed to championing inclusivity in everything we do.\n\nAt Schneider Electric, we uphold the highest standards of ethics and compliance, and we believe that trust is a foundational value. Our Trust Charter is our Code of Conduct and demonstrates our commitment to ethics, safety, sustainability, quality and cybersecurity, underpinning every aspect of our business and our willingness to behave and respond respectfully and in good faith to all our stakeholders. You can find out more about our Trust Charter here\n\nSchneider Electric is an Equal Opportunity Employer. It is our policy to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct.",
+      "job_apply_link": "https://www.talent.com/view?id=b9d2e72e17d9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-28T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "schneider-electric-firmware-software-engineer-intern-cedar-rapids"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Application Development Intern",
+      "employer_name": "Fiserv",
+      "job_city": "Fishers",
+      "job_state": "IN",
+      "job_description": "Join Fiserv in this exciting opportunity.",
+      "job_apply_link": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Fishers-Indiana/Application-Development-Intern_R-10373071",
+      "job_posted_at_datetime_utc": "2026-01-28T23:21:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "fiserv-application-development-intern-fishers"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Engineer Intern - Search Ads - 2026 Summer (removed) BS/MS",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7600250402370586933",
+      "job_posted_at_datetime_utc": "2026-01-28T23:15:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tiktok-machine-learning-engineer-intern-search-ads-2026-summer-removed-bs-ms-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Geographic Information Systems",
+      "employer_name": "Gannet Fleming",
+      "job_city": "Towson",
+      "job_state": "MD",
+      "job_description": "Join Gannet Fleming in this exciting opportunity.",
+      "job_apply_link": "https://careers-gannettfleming.icims.com/jobs/13421/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-28T23:03:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "gannet-fleming-intern-geographic-information-systems-towson"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Cyber Software Engineer Intern - Top Secret/SCI-Full Scope Jobs",
+      "employer_name": "Northrop Grumman",
+      "job_city": "Jessup",
+      "job_state": "Maryland",
+      "job_description": "RELOCATION ASSISTANCE: No relocation assistance available\n\nCLEARANCE TYPE: Polygraph\n\nTRAVEL: No\n\nDescription\n\nAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work - and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.\n\nPerforms a variety of duties in the Cyber Software, Systems, electronic, mechanical, electromechanical, or optical areas. Constructs, troubleshoots, calibrates, adjusts, tests, and maintains equipment, components, devices, or systems. Works from engineering drawings and written or verbal instructions. Operates related equipment; conducts tests and reports data in prescribed format. Performs calibration and alignment checks; makes adjustments, modifications, and replacements as directed; prepares prescribed compounds and solutions. Exclude technicians working in Production or Quality Assurance\n\nRoles and Responsibilities\n\nPerforms a variety of duties in the electronic, mechanical, electromechanical, or optical areas. Constructs, troubleshoots, calibrates, adjusts, tests, and maintains equipment, components, devices, or systems. Works from engineering drawings and written or verbal instructions. Operates related equipment; conducts tests and reports data in prescribed format. Performs calibration and alignment checks; makes adjustments, modifications, and replacements as directed; prepares prescribed compounds and solutions.\n\nBasic Qualifications\n\nA candidate must meet ALL of the below criteria. The candidate must:\n• Be a student who is enrolled full-time and pursuing an undergraduate or graduate degree from an accredited college/university in a background in line with our MS Strategic Disciplines and be enrolled for fall 2026\n• Be majoring in or having majored in a STEM (Science, Technology, Engineering or Math) degree\n• Have an overall cumulative GPA of 3.0/4.0 or higher (unofficial academic transcripts must be provided at time of application by uploading the documents to your application or profile)\n• Be available to work full-time (40 hours per week) during summer 2026\n• Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)\n• MUST CURRENTLY HAVE ACTIVE TS/SCI with FULL SCOPE POLYGRAPH TO START.\n\nPOLYGRAPH must be through the state of Maryland\n\nPreferred Qualifications\n• Have an overall cumulative GPA of 3.70/4.0 or higher\n\nCo-op Pay Range:\n\nBachelor's: $20.50 - $38.00 per hour\n\nMaster's: $29.75 to $46.75 per hour\n\nAt Northrop Grumman, our internship pay rates are standardized and take into account three main factors: the anticipated graduation date of the individual, the cost of labor of the geographic location, and whether the internship is considered technical or administrative.\n\ncampusjobs\n\nPrimary Level Salary Range: $20.50 - $38.00\n\nThe above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.\n\nDepending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.\n\nThe application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.\n\nNorthrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
+      "job_apply_link": "https://www.clearancejobs.com/jobs/8722041/2026-cyber-software-engineer-intern-top-secretsci-full-scope?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-26T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Clearance Jobs",
+      "job_posted_at": "2d",
+      "id": "northrop-grumman-2026-cyber-software-engineer-intern-top-secret-sci-full-scope-jobs-jessup"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)",
+      "employer_name": "General Motors",
+      "job_city": "",
+      "job_state": "Michigan",
+      "job_description": "General Motors is a company with a vision for a world with Zero Crashes, Zero Emissions and Zero Congestion. As an Autonomous Driving Software Engineer Intern, you will contribute to the design, development, and validation of software for self-driving systems, collaborating with experienced engineers across various teams.\n\nResponsibilities\n• Develop, test, and deploy production-ready code across components of vehicle platform software\n• Quickly ramp up on assigned codebase, product area, and/or system\n• Complete assigned tasks efficiently with few iterations\n• Identify problem statements, outline optimal solutions, account for tradeoffs and edge cases\n• Participate in code reviews, technical discussions, and design resign\n• Collaborate with cross-functional teams including hardware, systems, test, and safety to ensure seamless software integration\n• Communicate effectively across multiple stakeholders\n\nSkills\n• Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Bachelors or Masters degree in computer science or a related field\n• Experience with modern object-oriented programming languages (e.g., Java, C++, Python) preferably in a production or applied project environment\n• Able to work fulltime, 40 hours per week\n• Previous experience with software development through internships, class projects, personal projects, or coding competitions\n• Experience developing and testing software through internships, coursework, or personal projects\n• Familiarity with Linux/POSIX environments and exposure to embedded systems or robotics projects\n• Understanding of networking fundamentals relevant to embedded or distributed systems\n• Experience with robotics frameworks (e.g., ROS), embedded Linux platforms, or common sensors (e.g., cameras, lidar, radar, IMUs) is a plus\n• Interest or coursework related to safety-critical or high-reliability systems (automotive, aerospace, medical) is beneficial\n• Passion for self-driving technology and its potential impact on the world\n• Intent to return to degree-program after the completion of the internship\n• Graduating between December 2026 and August 2027\n\nBenefits\n• Paid US GM Holidays\n• GM Family First Vehicle Discount Program\n• Result-based potential for growth within GM\n• Intern events to network with company leaders and peers\n\nCompany Overview\n• General Motors is an automotive company that designs, produces, markets, and distributes vehicles and vehicle parts. It was founded in 1908, and is headquartered in Detroit, Michigan, USA, with a workforce of 10001+ employees. Its website is https://www.gm.com.\n\nCompany H1B Sponsorship\n• General Motors has a track record of offering H1B sponsorships, with 787 in 2025, 740 in 2024, 450 in 2023, 795 in 2022, 748 in 2021, 452 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/696b6de2350cf4380312c4e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-25T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "2d",
+      "id": "general-motors-2026-summer-intern-software-engineer-autonomous-driving-master-s-degree-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 Software Developer Internship",
+      "employer_name": "General Dynamics Information Technology",
+      "job_city": "Annapolis Junction",
+      "job_state": "Maryland",
+      "job_description": "General Dynamics Information Technology, through Praxis Engineering, is seeking top performing college students for their Summer 2026 Software Developer Internship. This internship offers hands-on experience in areas such as Full-Spectrum Cyberspace Operations, Data Science/Machine Learning/AI, and High-Performance Computing, where interns will work closely with experienced mentors on software projects.\n\nResponsibilities\n• Building hands-on experience with modern software and technologies\n• Learning best practices in the software development lifecycle and how to work efficiently as a team\n• Creating and delivering professional-grade demos and presentations – critical skills for well-rounded engineers\n\nSkills\n• At least 2 years of education towards a Computer Science, Computer Engineering, Cybersecurity, or similar Engineering degree (we will consider strong candidates from any major with at least 1 year of Computer Science coursework)\n• Demonstrated experience and/or training in software development and proficiency in programming languages such as Python, Java, C/C++, Rust, JavaScript/TypeScript\n• Demonstrated experience and/or training in software design/development best practices and methodologies\n• Passion for solving complex software engineering problems, continuously learning, and working effectively in a collaborative team environment!\n• Interest in developing engineering soft skills like demoing, building presentations, and public speaking\n• US Citizenship required\n• Must be eligible to obtain a TS/SCI with POLY clearance\n\nBenefits\n• Comprehensive benefits and wellness packages\n• 401K with company match\n• Variety of medical plan options\n• Some with Health Savings Accounts\n• Dental plan options\n• Vision plan\n• Paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave\n• Short and long-term disability benefits\n• Life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance\n\nCompany Overview\n• General Dynamics Information Technology is an IT consulting company that specializes in cyber security, AI, and quantum computing. It is a sub-organization of General Dynamics. It was founded in 1999, and is headquartered in Falls Church, Virginia, USA, with a workforce of 10001+ employees. Its website is https://www.gdit.com/.",
+      "job_apply_link": "https://jobright.ai/jobs/info/69767ea73778585635102c9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "3d",
+      "id": "general-dynamics-information-technology-summer-2026-software-developer-internship-annapolis-junction"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern - Summer 2026",
+      "employer_name": "FlightSafety International",
+      "job_city": "Hazelwood",
+      "job_state": "Missouri",
+      "job_description": "About FlightSafety International\n\nFlightSafety International is the world’s premier professional aviation training company and supplier of flight simulators, visual systems and displays to commercial, government and military organizations. The company provides training for pilots, technicians and other aviation professionals from 167 countries and independent territories. FlightSafety operates the world’s largest fleet of advanced full-flight simulators and award-winning maintenance training at Learning Centers and training locations in the United States, Canada, France and the United Kingdom.\n\nThe Software Engineering Intern will perform meaningful work alongside other talented professionals gaining insight to FlightSafety International’s culture and business philosophy. This paid internship is a 10-week program that will begin May 26, 2026, and will conclude July 31st, 2026. 40 hours per week will be expected of each intern.\n\nTasks and Responsibilities\n• Understands the overall concept of the company, including the brand, customer, product goals, and all other aspects of service.\n• Rotates through our divisions of responsibility and provides ideas to grow and improve the business.\n• Accepts designated, business-focus projects to research, propose ideas and solutions, and present final project during the internship.\n• Engages with customers or clients and provides service and / or sales.\n• Provide suggestions to management for improving customer service and internal processes.\n• Learns and becomes proficient on internal software systems.\n\nMinimum Education\n• Must currently be enrolled in an undergraduate or graduate program, working towards a Bachelor's or Master's degree.\n• Cumulative GPA of 3.0 or higher at the time of application. Must be submitted on resume.\n\nMinimum Experience\n• Fundamental knowledge of computer programs, techniques, and concepts for the area of application.\n\nKnowledge, Skills, Abilities\n• Strong work ethic, self-motivated, positive, personable, and ability to develop relationships.\n• Excellent critical thinking / problem solving skills.\n• Ability to handle confidential information.",
+      "job_apply_link": "https://www.talent.com/view?id=34fc7e6bdf34&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-22T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "3d",
+      "id": "flightsafety-international-software-engineering-intern-summer-2026-hazelwood"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Packaging Research & Engineering Intern - Design & Digital",
+      "employer_name": "The Coca-Cola Company",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Join The Coca-Cola Company in this exciting opportunity.",
+      "job_apply_link": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Packaging-Research---Engineering-Intern--Design---Digital_R-133495",
+      "job_posted_at_datetime_utc": "2026-01-16T23:28:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1w",
+      "id": "the-coca-cola-company-packaging-research-engineering-intern-design-digital-atlanta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Development Intern",
+      "employer_name": "CACI",
+      "job_city": "Chantilly",
+      "job_state": "VA",
+      "job_description": "Join CACI in this exciting opportunity.",
+      "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Software-Development-Intern---Summer-2026_317363",
+      "job_posted_at_datetime_utc": "2025-09-16T20:47:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "caci-software-development-intern-chantilly"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Enterprise Data & Analytics Intern",
+      "employer_name": "Xcel Energy",
+      "job_city": "Denver",
+      "job_state": "CO",
+      "job_description": "Join Xcel Energy in this exciting opportunity.",
+      "job_apply_link": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Enterprise-Data---Analytics-Intern_JR109606-1",
+      "job_posted_at_datetime_utc": "2025-09-15T23:08:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "xcel-energy-enterprise-data-analytics-intern-denver"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "IT Business Intelligence Intern",
+      "employer_name": "Medline",
+      "job_city": "Northbrook",
+      "job_state": "IL",
+      "job_description": "Join Medline in this exciting opportunity.",
+      "job_apply_link": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Intelligence-Intern---Summer-2026_R2514323",
+      "job_posted_at_datetime_utc": "2025-08-29T16:43:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "medline-it-business-intelligence-intern-northbrook"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T00:10:37.436Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
