@@ -1,73 +1,72 @@
 {
-  "generated": "2026-01-29T18:24:15.771Z",
+  "generated": "2026-01-29T18:49:45.178Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T18:24:15.771Z",
-  "period_end": "2026-01-29T18:24:15.771Z",
+  "period_start": "2026-01-22T18:49:45.178Z",
+  "period_end": "2026-01-29T18:49:45.178Z",
   "summary": {
-    "total_jobs_posted": 20,
-    "unique_jobs": 10,
-    "multi_channel_postings": 20,
-    "unique_multi_channel_jobs": 10,
+    "total_jobs_posted": 18,
+    "unique_jobs": 9,
+    "multi_channel_postings": 18,
+    "unique_multi_channel_jobs": 9,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 8
+    "channels_active": 7
   },
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 5,
+      "count": 7,
       "jobs": [
-        "rtx-software-engineering-intern-summer-2026-richardson",
-        "yes-energy-data-systems-intern-boston",
-        "yes-energy-energy-market-analytics-intern-encompass-boulder",
-        "elevance-health-graduate-engineering-intern-atlanta",
-        "energy-northwest-engineering-intern-richland"
+        "bytedance-software-engineer-project-intern-security-data-2026-start-san-jose",
+        "bytedance-security-software-engineer-project-intern-network-security-2026-start-san-jose",
+        "nelnet-intern-it-software-engineer-draper",
+        "roche-instrument-control-software-intern-instrument-control-software-santa-clara",
+        "prudential-financial-pgim-real-estate-data-management-innovation-mba-intern-newark",
+        "rocket-mortgage-software-engineering-intern-angular-c-detroit",
+        "rtx-2026-intern-raytheon-software-developer-tucson"
       ],
       "recent_jobs": [
         {
-          "id": "rtx-software-engineering-intern-summer-2026-richardson",
-          "title": "Software Engineering Intern - Summer 2026",
+          "id": "bytedance-software-engineer-project-intern-security-data-2026-start-san-jose",
+          "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
+          "company": "ByteDance",
+          "posted_at": "2026-01-29T18:49:01.381Z"
+        },
+        {
+          "id": "bytedance-security-software-engineer-project-intern-network-security-2026-start-san-jose",
+          "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
+          "company": "ByteDance",
+          "posted_at": "2026-01-29T18:49:05.126Z"
+        },
+        {
+          "id": "nelnet-intern-it-software-engineer-draper",
+          "title": "Intern – IT Software Engineer",
+          "company": "Nelnet",
+          "posted_at": "2026-01-29T18:49:08.771Z"
+        },
+        {
+          "id": "roche-instrument-control-software-intern-instrument-control-software-santa-clara",
+          "title": "Instrument Control Software Intern - Instrument Control Software",
+          "company": "Roche",
+          "posted_at": "2026-01-29T18:49:12.285Z"
+        },
+        {
+          "id": "prudential-financial-pgim-real-estate-data-management-innovation-mba-intern-newark",
+          "title": "PGIM Real Estate - Data Management & Innovation MBA Intern",
+          "company": "Prudential Financial",
+          "posted_at": "2026-01-29T18:49:15.799Z"
+        },
+        {
+          "id": "rocket-mortgage-software-engineering-intern-angular-c-detroit",
+          "title": "Software Engineering Intern - Angular/C#",
+          "company": "Rocket Mortgage",
+          "posted_at": "2026-01-29T18:49:19.294Z"
+        },
+        {
+          "id": "rtx-2026-intern-raytheon-software-developer-tucson",
+          "title": "2026 Intern - Raytheon Software Developer",
           "company": "RTX",
-          "posted_at": "2026-01-29T18:23:26.572Z"
-        },
-        {
-          "id": "yes-energy-data-systems-intern-boston",
-          "title": "Data Systems Intern",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:29.977Z"
-        },
-        {
-          "id": "yes-energy-energy-market-analytics-intern-encompass-boulder",
-          "title": "Energy Market Analytics Intern - Encompass",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:33.469Z"
-        },
-        {
-          "id": "elevance-health-graduate-engineering-intern-atlanta",
-          "title": "Graduate Engineering Intern",
-          "company": "Elevance Health",
-          "posted_at": "2026-01-29T18:23:36.880Z"
-        },
-        {
-          "id": "energy-northwest-engineering-intern-richland",
-          "title": "Engineering Intern",
-          "company": "Energy Northwest",
-          "posted_at": "2026-01-29T18:23:40.357Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 1,
-      "jobs": [
-        "rtx-software-engineering-intern-summer-2026-richardson"
-      ],
-      "recent_jobs": [
-        {
-          "id": "rtx-software-engineering-intern-summer-2026-richardson",
-          "title": "Software Engineering Intern - Summer 2026",
-          "company": "RTX",
-          "posted_at": "2026-01-29T18:23:28.288Z"
+          "posted_at": "2026-01-29T18:49:22.773Z"
         }
       ]
     },
@@ -75,130 +74,79 @@
       "channel_id": "1464303497242742875",
       "count": 4,
       "jobs": [
-        "yes-energy-data-systems-intern-boston",
-        "yes-energy-energy-market-analytics-intern-encompass-boulder",
-        "yes-energy-analytics-engineer-intern-boulder",
-        "yes-energy-data-engineering-intern-boulder"
+        "bytedance-software-engineer-project-intern-security-data-2026-start-san-jose",
+        "bytedance-security-software-engineer-project-intern-network-security-2026-start-san-jose",
+        "roche-instrument-control-software-intern-instrument-control-software-santa-clara",
+        "comcast-data-analyst-intern-comcast-spectacor-gaming-spring-2026-north-hollywood"
       ],
       "recent_jobs": [
         {
-          "id": "yes-energy-data-systems-intern-boston",
-          "title": "Data Systems Intern",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:31.677Z"
+          "id": "bytedance-software-engineer-project-intern-security-data-2026-start-san-jose",
+          "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
+          "company": "ByteDance",
+          "posted_at": "2026-01-29T18:49:03.103Z"
         },
         {
-          "id": "yes-energy-energy-market-analytics-intern-encompass-boulder",
-          "title": "Energy Market Analytics Intern - Encompass",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:35.179Z"
+          "id": "bytedance-security-software-engineer-project-intern-network-security-2026-start-san-jose",
+          "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
+          "company": "ByteDance",
+          "posted_at": "2026-01-29T18:49:06.871Z"
         },
         {
-          "id": "yes-energy-analytics-engineer-intern-boulder",
-          "title": "Analytics Engineer Intern",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:48.739Z"
+          "id": "roche-instrument-control-software-intern-instrument-control-software-santa-clara",
+          "title": "Instrument Control Software Intern - Instrument Control Software",
+          "company": "Roche",
+          "posted_at": "2026-01-29T18:49:14.105Z"
         },
         {
-          "id": "yes-energy-data-engineering-intern-boulder",
-          "title": "Data Engineering Intern",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:52.302Z"
+          "id": "comcast-data-analyst-intern-comcast-spectacor-gaming-spring-2026-north-hollywood",
+          "title": "Data Analyst Intern - Comcast Spectacor Gaming - Spring 2026",
+          "company": "Comcast",
+          "posted_at": "2026-01-29T18:49:38.501Z"
         }
       ]
     },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
-      "count": 2,
-      "jobs": [
-        "elevance-health-graduate-engineering-intern-atlanta",
-        "hewlett-packard-enterprise-research-associate-intern-milpitas"
-      ],
-      "recent_jobs": [
-        {
-          "id": "elevance-health-graduate-engineering-intern-atlanta",
-          "title": "Graduate Engineering Intern",
-          "company": "Elevance Health",
-          "posted_at": "2026-01-29T18:23:38.580Z"
-        },
-        {
-          "id": "hewlett-packard-enterprise-research-associate-intern-milpitas",
-          "title": "Research Associate Intern",
-          "company": "Hewlett Packard Enterprise",
-          "posted_at": "2026-01-29T18:24:02.486Z"
-        }
-      ]
-    },
-    "🌲・pacific-northwest-internships": {
-      "channel_id": "1464304146072207390",
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
       "count": 3,
       "jobs": [
-        "energy-northwest-engineering-intern-richland",
-        "energy-northwest-data-architecture-intern-richland",
-        "microsoft-research-intern-firmware-security-redmond"
+        "nelnet-intern-it-software-engineer-draper",
+        "rocket-mortgage-software-engineering-intern-angular-c-detroit",
+        "rtx-2026-intern-raytheon-software-developer-tucson"
       ],
       "recent_jobs": [
         {
-          "id": "energy-northwest-engineering-intern-richland",
-          "title": "Engineering Intern",
-          "company": "Energy Northwest",
-          "posted_at": "2026-01-29T18:23:42.045Z"
+          "id": "nelnet-intern-it-software-engineer-draper",
+          "title": "Intern – IT Software Engineer",
+          "company": "Nelnet",
+          "posted_at": "2026-01-29T18:49:10.520Z"
         },
         {
-          "id": "energy-northwest-data-architecture-intern-richland",
-          "title": "Data Architecture Intern",
-          "company": "Energy Northwest",
-          "posted_at": "2026-01-29T18:23:55.811Z"
+          "id": "rocket-mortgage-software-engineering-intern-angular-c-detroit",
+          "title": "Software Engineering Intern - Angular/C#",
+          "company": "Rocket Mortgage",
+          "posted_at": "2026-01-29T18:49:20.998Z"
         },
         {
-          "id": "microsoft-research-intern-firmware-security-redmond",
-          "title": "Research Intern - Firmware Security",
-          "company": "Microsoft",
-          "posted_at": "2026-01-29T18:24:09.107Z"
+          "id": "rtx-2026-intern-raytheon-software-developer-tucson",
+          "title": "2026 Intern - Raytheon Software Developer",
+          "company": "RTX",
+          "posted_at": "2026-01-29T18:49:24.473Z"
         }
       ]
     },
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 3,
-      "jobs": [
-        "yes-energy-analytics-engineer-intern-boulder",
-        "yes-energy-data-engineering-intern-boulder",
-        "energy-northwest-data-architecture-intern-richland"
-      ],
-      "recent_jobs": [
-        {
-          "id": "yes-energy-analytics-engineer-intern-boulder",
-          "title": "Analytics Engineer Intern",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:46.886Z"
-        },
-        {
-          "id": "yes-energy-data-engineering-intern-boulder",
-          "title": "Data Engineering Intern",
-          "company": "Yes Energy",
-          "posted_at": "2026-01-29T18:23:50.520Z"
-        },
-        {
-          "id": "energy-northwest-data-architecture-intern-richland",
-          "title": "Data Architecture Intern",
-          "company": "Energy Northwest",
-          "posted_at": "2026-01-29T18:23:54.082Z"
-        }
-      ]
-    },
-    "📣・marketing-internships": {
-      "channel_id": "1464303312626122855",
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
       "count": 1,
       "jobs": [
-        "hewlett-packard-enterprise-research-associate-intern-milpitas"
+        "prudential-financial-pgim-real-estate-data-management-innovation-mba-intern-newark"
       ],
       "recent_jobs": [
         {
-          "id": "hewlett-packard-enterprise-research-associate-intern-milpitas",
-          "title": "Research Associate Intern",
-          "company": "Hewlett Packard Enterprise",
-          "posted_at": "2026-01-29T18:24:00.730Z"
+          "id": "prudential-financial-pgim-real-estate-data-management-innovation-mba-intern-newark",
+          "title": "PGIM Real Estate - Data Management & Innovation MBA Intern",
+          "company": "Prudential Financial",
+          "posted_at": "2026-01-29T18:49:17.577Z"
         }
       ]
     },
@@ -206,118 +154,138 @@
       "channel_id": "1464303204178067620",
       "count": 1,
       "jobs": [
-        "microsoft-research-intern-firmware-security-redmond"
+        "field-ai-software-engineer-intern-validation-verification-irvine"
       ],
       "recent_jobs": [
         {
-          "id": "microsoft-research-intern-firmware-security-redmond",
-          "title": "Research Intern - Firmware Security",
-          "company": "Microsoft",
-          "posted_at": "2026-01-29T18:24:07.297Z"
+          "id": "field-ai-software-engineer-intern-validation-verification-irvine",
+          "title": "Software Engineer Intern - Validation & Verification",
+          "company": "Field AI",
+          "posted_at": "2026-01-29T18:49:29.195Z"
+        }
+      ]
+    },
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 1,
+      "jobs": [
+        "field-ai-software-engineer-intern-validation-verification-irvine"
+      ],
+      "recent_jobs": [
+        {
+          "id": "field-ai-software-engineer-intern-validation-verification-irvine",
+          "title": "Software Engineer Intern - Validation & Verification",
+          "company": "Field AI",
+          "posted_at": "2026-01-29T18:49:31.156Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 1,
+      "jobs": [
+        "comcast-data-analyst-intern-comcast-spectacor-gaming-spring-2026-north-hollywood"
+      ],
+      "recent_jobs": [
+        {
+          "id": "comcast-data-analyst-intern-comcast-spectacor-gaming-spring-2026-north-hollywood",
+          "title": "Data Analyst Intern - Comcast Spectacor Gaming - Spring 2026",
+          "company": "Comcast",
+          "posted_at": "2026-01-29T18:49:36.031Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "rtx-software-engineering-intern-summer-2026-richardson",
-      "company": "RTX",
-      "title": "Software Engineering Intern - Summer 2026",
+      "job_id": "bytedance-software-engineer-project-intern-security-data-2026-start-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
+      "channels": [
+        "💻・tech-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T18:49:01.381Z"
+    },
+    {
+      "job_id": "bytedance-security-software-engineer-project-intern-network-security-2026-start-san-jose",
+      "company": "ByteDance",
+      "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
+      "channels": [
+        "💻・tech-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T18:49:05.126Z"
+    },
+    {
+      "job_id": "nelnet-intern-it-software-engineer-draper",
+      "company": "Nelnet",
+      "title": "Intern – IT Software Engineer",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T18:23:26.572Z"
+      "posted_at": "2026-01-29T18:49:08.771Z"
     },
     {
-      "job_id": "yes-energy-data-systems-intern-boston",
-      "company": "Yes Energy",
-      "title": "Data Systems Intern",
+      "job_id": "roche-instrument-control-software-intern-instrument-control-software-santa-clara",
+      "company": "Roche",
+      "title": "Instrument Control Software Intern - Instrument Control Software",
       "channels": [
         "💻・tech-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T18:23:29.977Z"
+      "posted_at": "2026-01-29T18:49:12.285Z"
     },
     {
-      "job_id": "yes-energy-energy-market-analytics-intern-encompass-boulder",
-      "company": "Yes Energy",
-      "title": "Energy Market Analytics Intern - Encompass",
+      "job_id": "prudential-financial-pgim-real-estate-data-management-innovation-mba-intern-newark",
+      "company": "Prudential Financial",
+      "title": "PGIM Real Estate - Data Management & Innovation MBA Intern",
       "channels": [
         "💻・tech-internships",
-        "🌉・bay-area-internships"
+        "🗽・new-york-internships"
       ],
-      "posted_at": "2026-01-29T18:23:33.469Z"
+      "posted_at": "2026-01-29T18:49:15.799Z"
     },
     {
-      "job_id": "elevance-health-graduate-engineering-intern-atlanta",
-      "company": "Elevance Health",
-      "title": "Graduate Engineering Intern",
+      "job_id": "rocket-mortgage-software-engineering-intern-angular-c-detroit",
+      "company": "Rocket Mortgage",
+      "title": "Software Engineering Intern - Angular/C#",
       "channels": [
         "💻・tech-internships",
-        "🌴・socal-internships"
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T18:23:36.880Z"
+      "posted_at": "2026-01-29T18:49:19.294Z"
     },
     {
-      "job_id": "energy-northwest-engineering-intern-richland",
-      "company": "Energy Northwest",
-      "title": "Engineering Intern",
+      "job_id": "rtx-2026-intern-raytheon-software-developer-tucson",
+      "company": "RTX",
+      "title": "2026 Intern - Raytheon Software Developer",
       "channels": [
         "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T18:23:40.357Z"
+      "posted_at": "2026-01-29T18:49:22.773Z"
     },
     {
-      "job_id": "yes-energy-analytics-engineer-intern-boulder",
-      "company": "Yes Energy",
-      "title": "Analytics Engineer Intern",
-      "channels": [
-        "📊・data-science-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-29T18:23:46.886Z"
-    },
-    {
-      "job_id": "yes-energy-data-engineering-intern-boulder",
-      "company": "Yes Energy",
-      "title": "Data Engineering Intern",
-      "channels": [
-        "📊・data-science-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-29T18:23:50.520Z"
-    },
-    {
-      "job_id": "energy-northwest-data-architecture-intern-richland",
-      "company": "Energy Northwest",
-      "title": "Data Architecture Intern",
-      "channels": [
-        "📊・data-science-internships",
-        "🌲・pacific-northwest-internships"
-      ],
-      "posted_at": "2026-01-29T18:23:54.082Z"
-    },
-    {
-      "job_id": "hewlett-packard-enterprise-research-associate-intern-milpitas",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Research Associate Intern",
-      "channels": [
-        "📣・marketing-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-29T18:24:00.730Z"
-    },
-    {
-      "job_id": "microsoft-research-intern-firmware-security-redmond",
-      "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
+      "job_id": "field-ai-software-engineer-intern-validation-verification-irvine",
+      "company": "Field AI",
+      "title": "Software Engineer Intern - Validation & Verification",
       "channels": [
         "🤖・ai-internships",
-        "🌲・pacific-northwest-internships"
+        "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-29T18:24:07.297Z"
+      "posted_at": "2026-01-29T18:49:29.195Z"
+    },
+    {
+      "job_id": "comcast-data-analyst-intern-comcast-spectacor-gaming-spring-2026-north-hollywood",
+      "company": "Comcast",
+      "title": "Data Analyst Intern - Comcast Spectacor Gaming - Spring 2026",
+      "channels": [
+        "📊・data-science-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T18:49:36.031Z"
     }
   ],
   "failures": [],

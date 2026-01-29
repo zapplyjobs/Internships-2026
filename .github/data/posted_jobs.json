@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-29T18:24:13.617Z",
+  "lastUpdated": "2026-01-29T18:49:43.012Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -3030,14 +3030,257 @@
       "job_city": "Redmond",
       "job_state": "WA",
       "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Research and prototype ways to apply LLMs to firmware-focused code review, including summarization of findings, reasoning over call stacks, and generating actionable reviewer guidance. Integrate and evaluate LLM-driven approaches alongside existing static analysis tools used in firmware pipelines, with attention to false positives, deduplication, and explainability. Experiment with “agentic” or multi-step workflows that combine tool outputs (e.g., static analysis) with LLM reasoning to verify or refute findings and improve signal quality. Collaborate with firmware, security, and systems engineers to define success metrics and validate prototypes on representative firmware codebases and workflows. Document results and present recommendations that help scale secure firmware development and review practices. Currently pursuing a master&#39;s or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a related field. At least one semester/quarter remaining after the completion of the internship. Experience with programming in at least one of the following: Python, C/C++, Rust, or similar, and comfort reading systems-level code (firmware/OS/hardware-adjacent code). In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Familiarity with static analysis concepts and outputs (findings, taint/dataflow, call graphs, rule-based detections) and an interest in improving developer experience and review quality. Exposure to firmware or embedded systems development, secure boot/update pipelines, or security review methods used for privileged code. Interest in applying LLMs to security engineering problems, including vulnerability discovery and remediation workflows."
+    },
+    {
+      "id": "5b465206631215ed-2026-01-29-1",
+      "jobId": "5b465206631215ed",
+      "company": "ByteDance",
+      "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
+      "postedToDiscord": "2026-01-29T18:49:01.371Z",
+      "sourceDate": "2026-01-28T02:12:19.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466505431378821273",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:01.371Z",
+          "channelJobNumber": 13
+        },
+        "1464303497242742875": {
+          "messageId": "1466505438823710903",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:03.096Z",
+          "channelJobNumber": 7
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "View our opening for Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!"
+    },
+    {
+      "id": "b0dfd1263e9c6903-2026-01-29-1",
+      "jobId": "b0dfd1263e9c6903",
+      "company": "ByteDance",
+      "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
+      "postedToDiscord": "2026-01-29T18:49:05.119Z",
+      "sourceDate": "2026-01-28T02:11:51.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7600168555733027125/detail",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466505446658674915",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:05.119Z",
+          "channelJobNumber": 14
+        },
+        "1464303497242742875": {
+          "messageId": "1466505454602424473",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:06.864Z",
+          "channelJobNumber": 8
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "View our opening for Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS) and learn more about what it's like to work at ByteDance!"
+    },
+    {
+      "id": "dbba22d8e38c6ad5-2026-01-29-1",
+      "jobId": "dbba22d8e38c6ad5",
+      "company": "Nelnet",
+      "title": "Intern – IT Software Engineer",
+      "postedToDiscord": "2026-01-29T18:49:08.763Z",
+      "sourceDate": "2026-01-28T00:07:38.000Z",
+      "sourceUrl": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Intern---IT-Software-Engineer_R22252",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466505462328332360",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:08.763Z",
+          "channelJobNumber": 15
+        },
+        "1464304182923362324": {
+          "messageId": "1466505469743861874",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:10.512Z",
+          "channelJobNumber": 6
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Draper",
+      "job_state": "UT",
+      "job_description": "Our Vision: We make dreams possible.Yes, we’re a student loan servicer. We’re also a technology company, idea incubator, start-up accelerator, and K-12 and higher education expert. At Nelnet, we’re so much more than what you think—and we’re just getting started. So, no matter what you want to do in life—build codes or build brands—we’re the best place to do it.Join Nelnet as an intern and do real work that matters to our business. All Nelnet interns receive one-on-one mentorship, competitive pay, casual dress, flexible schedule, intern-specific programming, and meaningful work experience.Apply to one of our internships today. Your career awaits.Software Engineer Interns will enhance and support our internal and external web-based applications. Specific responsibilities include the analysis, design, coding, testing, implementation, maintenance and support of these complex business systems. Interns will contribute meaningfully to a team that builds technology products.JOB RESPONSIBILITIES:Collaborate with technology expertsLearn new technologies & languages relevant to the teamDevelop skills coding, testing, and evaluating technical tradeoffsParticipate in standup meetings, sprints, and take on projects related to the team’s goalAttend intern professional, personal, and social development eventsEDUCATION: Pursuing degree in an IT-related field including software development, computer science, or other related major.EXPERIENCE: Minimum Experience:General knowledge of the Software Development Life Cycle (SDLC), computer information systems, and Agile approach.Knowledge of computers: preferably macOS and Unix systems, advancement in programming language learning.Preferred Experience:Previous experience in creating and deploying software (e.g. internship, class-based project, personal project, research opportunity, non-profit work, etc.)Experience solving complex problems and working through challenging requirementsExperience with Node.js, NPM, REST APIs, AWS, and CI/CDCOMPETENCIES – SKILLS/KNOWLEDGE/ABILITIES:Motivated and excited by technical challengesPassionate about collaborating with teammates and customersDemonstrates an eagerness to learn and enjoys helping othersShares new ideas, is creative and passionate about innovationDetail oriented and cares about creating an exceptional user experienceExceptional written, verbal and interpersonal skillsComfortable working in an agile development environment and understands on time/within-budget principles.Pay range for this position is $18 to $26 per hour.Nelnet is committed to providing a welcoming and respectful workplace where all associates have the opportunity to succeed. As an Equal Opportunity Employer, we ensure that all qualified applicants are considered for employment. Employment decisions are made without regard to race, color, religion/creed, national origin, gender, sex, marital status, age, disability, use of a guide dog or service animal, sexual orientation, military/veteran status, or any other status protected by federal, state, or local law. We value the unique contributions of every team member and believe that a positive work environment benefits everyone.Qualified individuals with disabilities who require reasonable accommodations in order to apply or compete for positions at Nelnet may request such accommodations by contacting Corporate Recruiting at 402-486-5725 or corporaterecruiting@nelnet.net.Nelnet is a Drug Free and Tobacco Free Workplace."
+    },
+    {
+      "id": "4f2e03aa2a8c875b-2026-01-29-1",
+      "jobId": "4f2e03aa2a8c875b",
+      "company": "Roche",
+      "title": "Instrument Control Software Intern - Instrument Control Software",
+      "postedToDiscord": "2026-01-29T18:49:12.278Z",
+      "sourceDate": "2026-01-28T00:01:34.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2026-Summer-Intern---Instrument-Control-Software_202601-101724",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466505477184553047",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:12.278Z",
+          "channelJobNumber": 16
+        },
+        "1464303497242742875": {
+          "messageId": "1466505484981899573",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:14.097Z",
+          "channelJobNumber": 9
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join Roche in this exciting opportunity."
+    },
+    {
+      "id": "98b22f3b72164576-2026-01-29-1",
+      "jobId": "98b22f3b72164576",
+      "company": "Prudential Financial",
+      "title": "PGIM Real Estate - Data Management & Innovation MBA Intern",
+      "postedToDiscord": "2026-01-29T18:49:15.792Z",
+      "sourceDate": "2026-01-27T23:59:00.000Z",
+      "sourceUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2026-Real-Estate--Data-Management---Innovation-MBA-Internship_R-123342-2",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466505492200427796",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:15.792Z",
+          "channelJobNumber": 17
+        },
+        "1464303539101634634": {
+          "messageId": "1466505499242660014",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:17.570Z",
+          "channelJobNumber": 1
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Newark",
+      "job_state": "NJ",
+      "job_description": "Job Classification:Technology - Software Development/Quality EngineeringPGIM: 2026 Real Estate, Data Management & Innovation MBA Internship   This position is only available in the following locations: Newark, NJ; New York City, NY (Hybrid)  When selecting your location preferences, only choose from the location listed above. Applications that include unlisted or unavailable locations may not be considered.  With $210B in gross assets under management and administration ($131B net), PGIM Real Estate provides investors and borrowers access to a range of real estate equity, real estate debt, agriculture, and impact solutions across the risk-return spectrum.  PGIM Real Estate is a business of PGIM, the global asset management business of Prudential Financial, Inc. (NYSE: PRU). PGIM Real Estate’s risk management approach, execution capabilities and industry insights are backed by a 50-year legacy of investing in commercial real estate, a 140-year history of real estate financing, and the local experience of professionals in 32 cities globally. Through its investment, financing, asset management, and talent management approach, PGIM Real Estate engages in practices that strive to ignite positive environmental and social impact, while pursuing activities that seek to strengthen communities around the world. For more information, visit pgimrealestate.com.  PGIM is seeking motivated and goal-orientated interns to join our team. Our summer internship program spans approximately 10 weeks, offering you a valuable opportunity to work on impactful projects where you can demonstrate your skills and talents.   You'll be part of a dynamic environment that encourages learning, growth, and networking. Explore our mission to deliver financial solutions that empower individuals and institutions to achieve long-term financial wellness. This internship is more than just a summer experience; it's your first step towards a potential long-term career with Prudential.   Timeline:  Program Dates: Monday, June 1st, 2026 – Friday, August 7th, 2026 Application Deadline: Friday, January 30th, 2026 (We review applications on a rolling basis and reserve the right to close earlier based on volume or role availability.)  You may apply for up to three roles per recruitment season.  What you can expect:   PGIM is offering an exciting 10 week summer internship for MBA students, supporting the Real Estate Global Innovation Team. The Global Innovation team is responsible for driving business initiatives that will guide the evolution and growth of PGIM Real Estate’s global debt and equity businesses. The intern will provide support to the team as they work on innovation and technology initiatives across PGIM Real Estate. They will interact cross functionally with internal stakeholders as well as with technology start-ups and our VC partners to help research, diligence, and implement technologies across the global portfolio and platform.    Responsibilities may include but are not limited to:  Evaluate AI use cases for feasibility and business impact, identify and/or develop solutions to address those use cases, and lead project management to drive successful implementation and change adoption.  Researching specific PropTech verticals in-depth to understand the best technologies and firms for further exploration and/or for potential pilot programs in specific Real Estate asset classes, regions, or focus areas – example research projects from previous internships include EV Charging and Construction Tech.  Connecting with internal and external stakeholders to define needs and evaluate new technologies and processes – external stakeholders may include start-ups, VC firms, peer Real Estate firms, etc.   Collaborating with the Business Management, Systems, and Marketing teams to advance internal projects, which may include enhancement of data-related efforts, building dashboards and reports, automation of processes and marketing materials, and others that may arise.  Defining, measuring, and communicating the impact of technologies, process enhancements, and projects to the business and stakeholders.    What you’ll need:  Candidates must be enrolled in an accredited graduate program (MBA) graduating between December 2026 and May 2027 Prudential does not provide visa sponsorship for this position. Successful candidates must possess the requisite US employment authorization to be eligible for consideration Project and change management skills.  Excellent organizational skills and attention to detail.  Technologically savvy with interest in evaluating new technologies.  Enthusiasm, initiative, curiosity, and eagerness to learn.  Ability to work independently.   Note: The annualized salary for this internship is $130,000. Actual compensation will be prorated based on the internship work schedule. Roles may also be eligible for additional compensation and/or benefits. ​Prudential Financial, Inc. of the United States is not affiliated with Prudential plc. which is headquartered in the United Kingdom. Prudential is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender identity, national origin, genetics, disability, marital status, age, veteran status, domestic partner status, medical condition or any other characteristic protected by law. If you need an accommodation to complete the application process, please email accommodations.hw@prudential.com.  If you are experiencing a technical issue with your application or an assessment, please email careers.technicalsupport@prudential.com to request assistance."
+    },
+    {
+      "id": "f80df24d4a5cbb27-2026-01-29-1",
+      "jobId": "f80df24d4a5cbb27",
+      "company": "Rocket Mortgage",
+      "title": "Software Engineering Intern - Angular/C#",
+      "postedToDiscord": "2026-01-29T18:49:19.287Z",
+      "sourceDate": "2026-01-27T23:57:21.000Z",
+      "sourceUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineering-Intern--Angular-C-----Summer-2026_R-081597",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466505506771304469",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:19.287Z",
+          "channelJobNumber": 18
+        },
+        "1464304182923362324": {
+          "messageId": "1466505513943437551",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:20.989Z",
+          "channelJobNumber": 7
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Detroit",
+      "job_state": "MI",
+      "job_description": "As a Summer Software Engineering Intern with Rocket Product Engineering, you will gain hands-on experience developing real-world solutions that make it into production. You'll collaborate with talented engineers who will mentor you while you contribute to meaningful projects using cutting-edge technologies. This internship offers a unique opportunity to apply your technical skills, explore AI-driven development, and make a tangible impact on products that serve millions of customers. You'll leave with valuable industry experience and a portfolio of work that demonstrates your capabilities in a fast-paced, innovative environment.About the RoleDevelop, test, and deploy code that will be integrated into production systemsCollaborate with experienced engineers on real-world projects that impact our customersWork with modern technology stacks including .NET, C#, Angular, TypeScript, SQL, Python, and AWSParticipate in agile development processes including daily stand-ups, sprint planning, and retrospectivesLeverage AI tools for exploratory work and discovery to accelerate development and problem-solvingReceive mentorship from senior engineers who are invested in your growth and success • Present your work and findings to team members and leadership at the end of your internshipAbout YouMinimum QualificationsCurrently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related technical fieldHands on experience with the following: .NET, C#, Angular, TypeScript, SQL, Python, or AWSDemonstrated ability to write clean, efficient code and problem-solve effectivelyStrong communication skills and ability to work collaboratively in a team environmentPassion for learning new technologies and applying them to solve real business problemsPreferred QualificationsExperience with AI tools for code generation, exploration, or discoveryPrevious internship or project experience in software developmentFamiliarity with version control systems like GitKnowledge of agile development methodologiesInterest in fintech, mortgage, or related industriesWhat you’ll getOur team members fuel our strategy, innovation and growth, so we ensure the health and well-being of not just you, but your family, too! We go above and beyond to give you the support you need on an individual level and offer all sorts of ways to help you live your best life. We are proud to offer eligible team members perks and health benefits that will help you have peace of mind. Simply put: We’ve got your back. Check out our full list of Benefits and Perks.About usRocket is a Detroit-based company made up of businesses that provide simple, fast and trusted digital solutions for complex transactions. The name comes from our flagship business, now known as Rocket Mortgage®, which was founded in 1985. Today, we’re a publicly traded company involved in many different industries, including mortgages, fintech, real estate and more. We’re insistently different in how we look at the world and are committed to an inclusive workplace where every voice is heard. Apply today to join a team that offers career growth, amazing benefits and the chance to work with leading industry professionals.This job description is an outline of the primary responsibilities of this position and may be modified at the discretion of the company at any time.  Decisions related to employment are not based on race, color, religion, national origin, sex, physical or mental disability, sexual orientation, gender identity or expression, age, military or veteran status or any other characteristic protected by state or federal law.  The company provides reasonable accommodations to qualified individuals with disabilities in accordance with applicable state and federal laws.  Applicants requiring reasonable accommodations in completing the application and/or participating in the application process should contact a member of the Human Resources team, at Careers@Rocket.com."
+    },
+    {
+      "id": "904249ee2aa490f6-2026-01-29-1",
+      "jobId": "904249ee2aa490f6",
+      "company": "RTX",
+      "title": "2026 Intern - Raytheon Software Developer",
+      "postedToDiscord": "2026-01-29T18:49:22.765Z",
+      "sourceDate": "2026-01-27T23:56:01.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Intern---Raytheon-Software-Developer---Onsite_01819682",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466505520947925209",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:22.765Z",
+          "channelJobNumber": 19
+        },
+        "1464304182923362324": {
+          "messageId": "1466505528208392237",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:24.464Z",
+          "channelJobNumber": 8
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Tucson",
+      "job_state": "AZ",
+      "job_description": "Date Posted:2026-01-27Country:United States of AmericaLocation:US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805Position Role Type:OnsiteU.S. Citizen, U.S. Person, or Immigration Status Requirements: The ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearanceSecurity Clearance Type: DoD Clearance: SecretSecurity Clearance Status: Active and existing security clearance required after day 1At Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.The Integrated Solutions, Modeling, and Architecture (ISMA) directorate assesses, develops, and evaluates solution architectures for our customers’ largest, most complex challenges across all the operational domains. In the Operations and Mission Analysis Department you’ll be part of a special team that analyzes the world’s most challenging threats and helps define new capabilities to counter them, pushing the boundaries of innovation, and leading the industry in operational modeling and simulation using our purpose-built software. As a team member in the Air Dominance Modeling and Analysis section, you will join a high-performing team of engineers working with high-fidelity sensor, platform, and weapon simulations to provide actionable analysis to the Department of Defense and the Warfighter.Raytheon is currently seeking a Kill Chain Software Developer Intern for Summer 2026.  This is an onsite role in Tucson, AZ. What You Will DoActively participate as a member of an agile development teamDesign, Develop, Review and Test new software features in an all-digital distributed simulation environmentWork closely with senior developers to implement APIs and integration external high-fidelity digital simulation software into Raytheon’s Air Dominance Testbed and Air Combat Evaluation Model®.Provide direct Warfighter support by developing software used to inform operator tactics and procedures.Work with Subject Matter Experts to verify and validate digital simulation performanceWork cross-domain to develop medium-fidelity physics models of conceptual missile systemsExpand your knowledge base in various software and system components to be able to support a wide variety of software development tasks.What You Will LearnYou will develop an understanding of the Defense Industry and learn about Raytheon and its operationsYou will build foundations for a technical career in software development and analysis of US tacticsYou will learn how to write production-grade software and understand how different software architectures are leveraged in professional settings.Qualifications You Must HavePursuing a Bachelor’s or advanced degree in Computer Science or Software EngineeringThis position is for an intern who is enrolled in a Bachelor's or Master's degree program and will be a Senior or Post Graduate standing level by the start of Summer 2026Experience with at least one object oriented programming language (Python, C++, Java, C#, etc)Experience with Linux and Linux command lineQualifications We PreferCumulative GPA ≥ 3.0Coursework, internship, projects or work experience in the following areas:Simulation modeling, development, and/or analysis of physical systemsAgile development methodologiesProbability and statisticsSoftware development processes and object-oriented design using and/or Python in either Unix or Linux computing environments.Software Configuration Management tools and processes (git, subversion, mercurial)Computation on high-performance computing (HPC) grids/clusters, SLURMDistributed simulation communication standards (DIS, TENA, HLA)DevOps tools, processes, and methodsDemonstrated ability in the following areas:Excellent communication skills and ability to effectively collaborate with peers, customers, management, and functional partners (IT, Cyber Security, Security).Creation and presentation of effective technical reports in PowerPoint and Document form.What We OfferOur values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Safety, Trust, Respect, Accountability, Collaboration, and Innovation.Relocation Eligibility: Whether you’re just starting out on your career journey or are an experienced professional, we offer a robust total rewards package that goes above and beyond with compensation, work/life benefits, career development and recognition programs. Some of the superior benefits we offer include flexible work schedules.Learn More & Apply Now!Please consider the following role type definitions as you apply for this role:Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.Please upload a copy of your most recent transcripts with your resume including your projected graduation date when applying to this requisition. Include your cumulative GPA and projected graduation date on your resume.This position requires a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978.htmAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.The salary range for this role is 37,000 USD - 82,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act. Privacy Policy and Terms:Click on this link to read the Policy and Terms"
+    },
+    {
+      "id": "b30fe87638fe83fc-2026-01-29-1",
+      "jobId": "b30fe87638fe83fc",
+      "company": "Field AI",
+      "title": "Software Engineer Intern - Validation & Verification",
+      "postedToDiscord": "2026-01-29T18:49:29.188Z",
+      "sourceDate": "2026-01-28T02:07:25.000Z",
+      "sourceUrl": "https://jobs.lever.co/field-ai/29a99694-254b-4b18-9d28-cb70906f06d6/apply",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466505548416684254",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:29.188Z",
+          "channelJobNumber": 7
+        },
+        "1464304161230295131": {
+          "messageId": "1466505555337019619",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:31.147Z",
+          "channelJobNumber": 3
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Software Engineer, Validation & Verification, Intern (Summer 2026)Irvine, CAArea 2: Engineering and Product /Internship /On-siteApply for this jobField AI is transforming how robots interact with the real world. We are building risk-aware, reliable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications.We are looking for a Software Engineer, V&V Intern to support the quality bar for Field AI’s off-road autonomy, legged, and humanoid robotics stacks. In this role, you will help design and execute scenario-based tests, improve automation and CI pipelines, and contribute evidence that demonstrates our systems are becoming safer, more reliable, and more deployment-ready over time. You will work closely with autonomy, robotics, and infrastructure engineers to turn logs, simulations, and field data into clear, actionable insights. This is a hands-on internship where you will contribute directly to real validation efforts — from simulation and log replay to structured field testing — while learning best practices for safety-critical software development in robotics. If you enjoy breaking systems so customers don’t have to, care about measurable safety, and want your work to translate into real robots operating in the world, this role is for you.What You'll Do:Contribute to verification and validation across autonomy software stacksDesign and implement tests for perception, planning, localization, and controlDefine clear pass/fail criteria for features and releasesMaintain traceability between requirements, tests, logs, and resultsBuild and execute scenario-based tests using simulation (SIL/HIL) and log replayDevelop realistic and adversarial test scenarios (terrain, lighting, weather, sensor noise or faults)Support sim-to-real calibration through data replay and basic sensor or hardware characterizationImprove test infrastructure and developer feedback loopsIntegrate tests into CI pipelines (e.g., GitHub Actions, GitLab) with actionable reporting artifactsBuild tooling for log capture, analysis, and automated failure triageTrack and visualize quality signals including scenario coverage, regressions, and safety or performance KPIsSupport structured field validation activities as neededAssist with fault-injection and degraded-mode testing under supervisionProduce clear, lightweight evidence reports for internal reviewsWhat You Bring: Strong interest in software or robotics testing, verification & validation, QA, reliability, or test infrastructureCoding experience in Python and/or C/C++ for test harnesses, automation, or analysisFamiliarity with robotics logging workflows (e.g., ROS / ROS 2, bag files, telemetry) or willingness to learn quicklyBasic understanding of CI/CD concepts and reproducible development workflowsComfort working with robotics sensor data (cameras, LiDAR, IMU, joint or force sensors) at a foundational levelClear technical writing skills for test plans, results summaries, and debugging notesAn evidence-driven mindset with an interest in metrics, automation, and early issue detectionWhat Will Set You Apart:Experience with robotics simulators or testing frameworks (e.g., Gazebo, Isaac Sim)Exposure to autonomy components such as perception evaluation, planning behaviors, or control validationFamiliarity with fault injection or robustness testing (sensor dropouts, time skew, GPS denial, actuator issues)Experience building dashboards, log visualization tools, or scenario librariesField testing experience and strong safety disciplineCoursework or project experience in robotics, autonomy, or safety-critical systems$40 - $50 an hourOur salary range is generous and we take into consideration an individual's background and experience in determining final salary; base pay offered may vary considerably depending on geographic location, job-related knowledge, skills, and experience. Why Join Field AI?We are solving one of the world’s most complex challenges: deploying robots in unstructured, previously unknown environments. Our Field Foundational Models™ set a new standard in perception, planning, localization, and manipulation, ensuring our approach is explainable and safe for deployment.You will have the opportunity to work with a world-class team that thrives on creativity, resilience, and bold thinking. With a decade-long track record of deploying solutions in the field, winning DARPA challenge segments, and bringing expertise from organizations like DeepMind, NASA JPL, Boston Dynamics, NVIDIA, Amazon, Tesla Autopilot, Cruise Self-Driving, Zoox, Toyota Research Institute, and SpaceX, we are set to achieve our ambitious goals.Be Part of the Next Robotics RevolutionTo tackle such ambitious challenges, we need a team as unique as our vision — innovators who go beyond conventional methods and are eager to tackle tough, uncharted questions. We’re seeking individuals who challenge the status quo, dive into uncharted territory, and bring interdisciplinary expertise. Our team requires not only top AI talent but also exceptional software developers, engineers, product designers, field deployment experts, and communicators.We are headquartered in always-sunny Mission Viejo (Irvine adjacent), Southern California and have US based and global teammates. Join us, shape the future, and be part of a fun, close-knit team on an exciting journey!We celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job"
+    },
+    {
+      "id": "caa552adea87c805-2026-01-29-1",
+      "jobId": "caa552adea87c805",
+      "company": "Comcast",
+      "title": "Data Analyst Intern - Comcast Spectacor Gaming - Spring 2026",
+      "postedToDiscord": "2026-01-29T18:49:36.021Z",
+      "sourceDate": "2026-01-27T23:58:13.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CA---Universal-City-Bldg-1440-10-Univ-City-Plaza/Data-Analyst-Intern--Comcast-Spectacor-Gaming--Spring-2026-_R428877",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466505576711458951",
+          "channelType": "category",
+          "postedAt": "2026-01-29T18:49:36.021Z",
+          "channelJobNumber": 6
+        },
+        "1464303497242742875": {
+          "messageId": "1466505585670230142",
+          "channelType": "location",
+          "postedAt": "2026-01-29T18:49:38.492Z",
+          "channelJobNumber": 10
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "North Hollywood",
+      "job_state": "LA",
+      "job_description": "Comcast Spectacor is a leading sports and entertainment company with a diverse portfolio including the National Hockey League’s Philadelphia Flyers, the National Lacrosse League’s Philadelphia Wings, the award-winning Xfinity Mobile Arena, and the worldclass esports franchise, T1 Entertainment & Sports. Headquartered in Philadelphia, Comcast Spectacor has more than 50 years of experience, with a proven track record of cultivating championship teams, managing worldclass venues, and promoting vibrant communities. Comcast Spectacor is part of Comcast Corporation, a global media and technology company that operates Comcast Cable, NBCUniversal, and Sky.Job SummaryJoin us at the intersection of tech and culture. Our team runs like a startup inside the larger ComcastNBCU managing an internal data platform used by decision makers at every level. In this internship you’ll move quickly and your work will be highly visible. Lock down data quality, then dive into social, search, and fandom signals to spot the next big thing.Job DescriptionWhat you’ll do● Guard the data: Run daily quality checks to keep datasets accurate, current, and reliable.● Chase the signal: Track title-level trends across multiple platforms covering search, social and fandoms including YouTube, TikTok, Reddit, Fandom, Wattpad, and more.● Surface what matters: Ensure data completeness across categories and titles.● Close the loop: Partner with engineers to feed your findings back into the platform.● Stay ahead: Keep a pulse on emerging media patterns to inform business decisions.What you’ll bring● Tech-curious mindset and interests in data analysis at the audience/user level (no pro experience required).● Culture fluency in gaming/anime/TV/film or adjacent fandoms.● Platform familiarity (YouTube, TikTok, Reddit, Twitch, Fandom, Wattpad) is a plus.● Analytical chops and resourcefulness; experience with social analytics is helpful● Detail obsession and the ability to work independently in a fast-moving team.● Education: Enrolled in Data Science, Media Studies, or related field (preferred, not required).Why this role● Hands-on impact: Your work powers decisions not just slide decks.● Blend tech + culture: Apply analytical skills to what people actually watch, play, and love.● Learn by doing: You’ll be exposed to and working with different business units across the organization.Details:● Location: Los Angeles area (required to be at Universal City office at least 1 day per week)● Duration: January – April (16 weeks)● Hours: required: 10-15 hours / week● PaidInterested candidates should submit a resume.SkillsAccountability, Communication, Professional Etiquette, Relationship Building, Resilience, TeamworkCompensationBase Pay: $17.81Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work.    Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non-sales positions are eligible for a Bonus.  Additionally, Comcast provides best-in-class Benefits to eligible employees.  We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most.  That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details. The application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later.EducationCertifications (if applicable)Relevant Work Experience0-2 YearsComcast is an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law. Comcast will consider for employment applicants with arrest or conviction records in accordance with the requirements of applicable law, including the San Francisco Fair Chance Ordinance, the Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Please note that federal state, or local laws and regulations may restrict or prohibit Comcast from hiring individuals convicted of certain crimes. Additionally, an applicant’s criminal history may have a direct, adverse, and negative relationship on the job duties of this position, which may result in the withdrawal of a conditional offer of employment."
     }
   ],
   "metadata": {
-    "totalJobs": 238,
+    "totalJobs": 247,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-29T18:24:13.617Z",
+      "date": "2026-01-29T18:49:43.012Z",
       "archived": 0
     }
   }
