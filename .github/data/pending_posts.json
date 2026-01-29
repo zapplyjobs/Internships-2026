@@ -6579,5 +6579,43 @@
     "addedAt": "2026-01-29T07:31:35.729Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Intern - Product Development Data Sciences",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences--Digital-Endpoints-and-Patient-Centered-Solutions_202601-101745",
+      "job_posted_at_datetime_utc": "2026-01-29T02:20:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "genentech-2026-summer-intern-product-development-data-sciences-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T11:04:19.832Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Frontend Engineer Intern - Trust and Safety-Engineering-Data Product & General Service",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7527615375778416914",
+      "job_posted_at_datetime_utc": "2025-08-07T08:17:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tiktok-frontend-engineer-intern-trust-and-safety-engineering-data-product-general-service-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T11:04:19.832Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
