@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-29T19:59:10.140Z",
+  "generated": "2026-01-29T20:11:59.568Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T19:59:10.140Z",
-  "period_end": "2026-01-29T19:59:10.140Z",
+  "period_start": "2026-01-22T20:11:59.568Z",
+  "period_end": "2026-01-29T20:11:59.568Z",
   "summary": {
     "total_jobs_posted": 11,
     "unique_jobs": 7,
@@ -10,159 +10,183 @@
     "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 4
+    "channels_active": 7
   },
   "by_channel": {
+    "🤝・sales-internships": {
+      "channel_id": "1464303236772270122",
+      "count": 1,
+      "jobs": [
+        "t-mobile-product-development-intern-overland-park"
+      ],
+      "recent_jobs": [
+        {
+          "id": "t-mobile-product-development-intern-overland-park",
+          "title": "Product Development Intern",
+          "company": "T-Mobile",
+          "posted_at": "2026-01-29T20:11:26.306Z"
+        }
+      ]
+    },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
       "count": 2,
       "jobs": [
-        "keysight-r-d-software-engineering-intern-austin",
-        "criteo-software-development-engineer-intern-ann-arbor"
+        "t-mobile-summer-2026-software-engineering-internship-frisco",
+        "microsoft-research-intern-ai-systems-and-tools-redmond"
       ],
       "recent_jobs": [
         {
-          "id": "keysight-r-d-software-engineering-intern-austin",
-          "title": "R&D Software Engineering Intern",
-          "company": "Keysight Technologies",
-          "posted_at": "2026-01-29T19:58:39.817Z"
+          "id": "t-mobile-summer-2026-software-engineering-internship-frisco",
+          "title": "Summer 2026 Software Engineering Internship",
+          "company": "T-Mobile",
+          "posted_at": "2026-01-29T20:11:31.135Z"
         },
         {
-          "id": "criteo-software-development-engineer-intern-ann-arbor",
-          "title": "Software Development Engineer Intern",
-          "company": "Criteo",
-          "posted_at": "2026-01-29T19:58:43.463Z"
+          "id": "microsoft-research-intern-ai-systems-and-tools-redmond",
+          "title": "Research Intern - AI Systems and Tools",
+          "company": "Microsoft",
+          "posted_at": "2026-01-29T20:11:34.634Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 4,
+      "count": 1,
       "jobs": [
-        "keysight-r-d-software-engineering-intern-austin",
-        "criteo-software-development-engineer-intern-ann-arbor",
-        "cambridge-associates-data-science-intern-boston",
-        "cambridge-associates-digital-engagement-intern-boston"
+        "t-mobile-summer-2026-software-engineering-internship-frisco"
       ],
       "recent_jobs": [
         {
-          "id": "keysight-r-d-software-engineering-intern-austin",
-          "title": "R&D Software Engineering Intern",
-          "company": "Keysight Technologies",
-          "posted_at": "2026-01-29T19:58:41.594Z"
-        },
-        {
-          "id": "criteo-software-development-engineer-intern-ann-arbor",
-          "title": "Software Development Engineer Intern",
-          "company": "Criteo",
-          "posted_at": "2026-01-29T19:58:45.191Z"
-        },
-        {
-          "id": "cambridge-associates-data-science-intern-boston",
-          "title": "Data Science Intern",
-          "company": "Cambridge Associates",
-          "posted_at": "2026-01-29T19:59:00.008Z"
-        },
-        {
-          "id": "cambridge-associates-digital-engagement-intern-boston",
-          "title": "Digital Engagement Intern",
-          "company": "Cambridge Associates",
-          "posted_at": "2026-01-29T19:59:03.470Z"
+          "id": "t-mobile-summer-2026-software-engineering-internship-frisco",
+          "title": "Summer 2026 Software Engineering Internship",
+          "company": "T-Mobile",
+          "posted_at": "2026-01-29T20:11:32.933Z"
         }
       ]
     },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
+    "🌲・pacific-northwest-internships": {
+      "channel_id": "1464304146072207390",
       "count": 1,
       "jobs": [
-        "memic-it-architecture-innovation-internship-portland"
+        "microsoft-research-intern-ai-systems-and-tools-redmond"
       ],
       "recent_jobs": [
         {
-          "id": "memic-it-architecture-innovation-internship-portland",
-          "title": "IT Architecture & Innovation Internship",
-          "company": "MEMIC",
-          "posted_at": "2026-01-29T19:58:49.940Z"
+          "id": "microsoft-research-intern-ai-systems-and-tools-redmond",
+          "title": "Research Intern - AI Systems and Tools",
+          "company": "Microsoft",
+          "posted_at": "2026-01-29T20:11:36.392Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 4,
+      "count": 1,
       "jobs": [
-        "memic-business-intelligence-intern-portland",
-        "citizens-financial-data-management-undergraduate-summer-internship-providence",
-        "cambridge-associates-data-science-intern-boston",
-        "cambridge-associates-digital-engagement-intern-boston"
+        "cloudflare-talent-analytics-intern-summer-2026-austin"
       ],
       "recent_jobs": [
         {
-          "id": "memic-business-intelligence-intern-portland",
-          "title": "Business Intelligence Intern",
-          "company": "MEMIC",
-          "posted_at": "2026-01-29T19:58:54.740Z"
+          "id": "cloudflare-talent-analytics-intern-summer-2026-austin",
+          "title": "Talent Analytics Intern - Summer 2026",
+          "company": "Cloudflare",
+          "posted_at": "2026-01-29T20:11:41.098Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 2,
+      "jobs": [
+        "cloudflare-talent-analytics-intern-summer-2026-austin",
+        "billiontoone-data-science-and-ai-intern-menlo-park"
+      ],
+      "recent_jobs": [
+        {
+          "id": "cloudflare-talent-analytics-intern-summer-2026-austin",
+          "title": "Talent Analytics Intern - Summer 2026",
+          "company": "Cloudflare",
+          "posted_at": "2026-01-29T20:11:42.810Z"
         },
         {
-          "id": "citizens-financial-data-management-undergraduate-summer-internship-providence",
-          "title": "Data Management Undergraduate Summer Internship",
-          "company": "Citizens Financial Group",
-          "posted_at": "2026-01-29T19:58:56.470Z"
+          "id": "billiontoone-data-science-and-ai-intern-menlo-park",
+          "title": "Data Science and AI Intern",
+          "company": "BillionToOne",
+          "posted_at": "2026-01-29T20:11:49.332Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 3,
+      "jobs": [
+        "billiontoone-data-science-and-ai-intern-menlo-park",
+        "hntb-data-ai-intern-no-low-code-genai-kansas-city",
+        "micron-technology-intern-etd-software-engineer-boise"
+      ],
+      "recent_jobs": [
+        {
+          "id": "billiontoone-data-science-and-ai-intern-menlo-park",
+          "title": "Data Science and AI Intern",
+          "company": "BillionToOne",
+          "posted_at": "2026-01-29T20:11:47.599Z"
         },
         {
-          "id": "cambridge-associates-data-science-intern-boston",
-          "title": "Data Science Intern",
-          "company": "Cambridge Associates",
-          "posted_at": "2026-01-29T19:58:58.227Z"
+          "id": "hntb-data-ai-intern-no-low-code-genai-kansas-city",
+          "title": "Data & AI Intern - No/Low-Code + GenAI",
+          "company": "HNTB",
+          "posted_at": "2026-01-29T20:11:51.188Z"
         },
         {
-          "id": "cambridge-associates-digital-engagement-intern-boston",
-          "title": "Digital Engagement Intern",
-          "company": "Cambridge Associates",
-          "posted_at": "2026-01-29T19:59:01.728Z"
+          "id": "micron-technology-intern-etd-software-engineer-boise",
+          "title": "Intern ETD Software Engineer",
+          "company": "Micron Technology",
+          "posted_at": "2026-01-29T20:11:52.894Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "keysight-r-d-software-engineering-intern-austin",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineering Intern",
+      "job_id": "t-mobile-summer-2026-software-engineering-internship-frisco",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Software Engineering Internship",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:58:39.817Z"
+      "posted_at": "2026-01-29T20:11:31.135Z"
     },
     {
-      "job_id": "criteo-software-development-engineer-intern-ann-arbor",
-      "company": "Criteo",
-      "title": "Software Development Engineer Intern",
+      "job_id": "microsoft-research-intern-ai-systems-and-tools-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Systems and Tools",
       "channels": [
         "💻・tech-internships",
-        "📍・other-usa-internships"
+        "🌲・pacific-northwest-internships"
       ],
-      "posted_at": "2026-01-29T19:58:43.463Z"
+      "posted_at": "2026-01-29T20:11:34.634Z"
     },
     {
-      "job_id": "cambridge-associates-data-science-intern-boston",
-      "company": "Cambridge Associates",
-      "title": "Data Science Intern",
+      "job_id": "cloudflare-talent-analytics-intern-summer-2026-austin",
+      "company": "Cloudflare",
+      "title": "Talent Analytics Intern - Summer 2026",
       "channels": [
         "📊・data-science-internships",
-        "📍・other-usa-internships"
+        "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T19:58:58.227Z"
+      "posted_at": "2026-01-29T20:11:41.098Z"
     },
     {
-      "job_id": "cambridge-associates-digital-engagement-intern-boston",
-      "company": "Cambridge Associates",
-      "title": "Digital Engagement Intern",
+      "job_id": "billiontoone-data-science-and-ai-intern-menlo-park",
+      "company": "BillionToOne",
+      "title": "Data Science and AI Intern",
       "channels": [
-        "📊・data-science-internships",
-        "📍・other-usa-internships"
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T19:59:01.728Z"
+      "posted_at": "2026-01-29T20:11:47.599Z"
     }
   ],
   "failures": [],
