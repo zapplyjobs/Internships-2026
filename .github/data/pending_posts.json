@@ -6560,5 +6560,24 @@
     "addedAt": "2026-01-29T05:21:24.174Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Platform-Product Solutions and Operations Intern - Ads Interface and Platform - 2026 Summer BS/MS",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7600292878967785781",
+      "job_posted_at_datetime_utc": "2026-01-29T07:13:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "tiktok-platform-product-solutions-and-operations-intern-ads-interface-and-platform-2026-summer-bs-ms-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T07:31:35.729Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
