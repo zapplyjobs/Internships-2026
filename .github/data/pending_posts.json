@@ -6617,5 +6617,24 @@
     "addedAt": "2026-01-29T11:04:19.832Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Statistical and Quantitative Analytics Intern",
+      "employer_name": "FHLBank Atlanta",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Join FHLBank Atlanta in this exciting opportunity.",
+      "job_apply_link": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Credit---Collateral-Analytics---Valuation-Intern_JR267",
+      "job_posted_at_datetime_utc": "2025-12-17T23:18:49.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "fhlbank-atlanta-statistical-and-quantitative-analytics-intern-atlanta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T12:12:45.621Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
