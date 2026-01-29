@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-29T20:28:01.466Z",
+  "generated": "2026-01-29T20:46:07.570Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T20:28:01.466Z",
-  "period_end": "2026-01-29T20:28:01.466Z",
+  "period_start": "2026-01-22T20:46:07.570Z",
+  "period_end": "2026-01-29T20:46:07.570Z",
   "summary": {
     "total_jobs_posted": 14,
     "unique_jobs": 7,
@@ -10,50 +10,108 @@
     "unique_multi_channel_jobs": 7,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 6
+    "channels_active": 8
   },
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 2,
+      "count": 4,
       "jobs": [
-        "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
-        "kaiser-permanente-process-improvement-master-s-intern-pasadena"
+        "s-p-global-cost-supply-analytics-intern-houston",
+        "amentum-release-train-engineer-internship-ires-ssfb-colorado-springs",
+        "garda-capital-partners-software-engineer-intern-python-wayzata",
+        "micron-technology-intern-ai-agent-development-san-jose"
       ],
       "recent_jobs": [
         {
-          "id": "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
-          "title": "Application Engineer Bachelor Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-01-29T20:27:25.339Z"
+          "id": "s-p-global-cost-supply-analytics-intern-houston",
+          "title": "Cost & Supply Analytics Intern",
+          "company": "S&P Global ",
+          "posted_at": "2026-01-29T20:45:27.222Z"
         },
         {
-          "id": "kaiser-permanente-process-improvement-master-s-intern-pasadena",
-          "title": "Process Improvement Master's Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-01-29T20:27:28.824Z"
+          "id": "amentum-release-train-engineer-internship-ires-ssfb-colorado-springs",
+          "title": "Release Train Engineer Internship IRES - Ssfb",
+          "company": "Amentum",
+          "posted_at": "2026-01-29T20:45:30.855Z"
+        },
+        {
+          "id": "garda-capital-partners-software-engineer-intern-python-wayzata",
+          "title": "Software Engineer Intern - Python",
+          "company": "Garda Capital Partners",
+          "posted_at": "2026-01-29T20:45:34.624Z"
+        },
+        {
+          "id": "micron-technology-intern-ai-agent-development-san-jose",
+          "title": "Intern – AI Agent Development",
+          "company": "Micron Technology",
+          "posted_at": "2026-01-29T20:45:38.161Z"
         }
       ]
     },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
-      "count": 2,
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 3,
       "jobs": [
-        "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
-        "kaiser-permanente-process-improvement-master-s-intern-pasadena"
+        "s-p-global-cost-supply-analytics-intern-houston",
+        "amentum-release-train-engineer-internship-ires-ssfb-colorado-springs",
+        "klaviyo-full-stack-software-engineer-intern-boston"
       ],
       "recent_jobs": [
         {
-          "id": "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
-          "title": "Application Engineer Bachelor Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-01-29T20:27:27.105Z"
+          "id": "s-p-global-cost-supply-analytics-intern-houston",
+          "title": "Cost & Supply Analytics Intern",
+          "company": "S&P Global ",
+          "posted_at": "2026-01-29T20:45:29.126Z"
         },
         {
-          "id": "kaiser-permanente-process-improvement-master-s-intern-pasadena",
-          "title": "Process Improvement Master's Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-01-29T20:27:30.551Z"
+          "id": "amentum-release-train-engineer-internship-ires-ssfb-colorado-springs",
+          "title": "Release Train Engineer Internship IRES - Ssfb",
+          "company": "Amentum",
+          "posted_at": "2026-01-29T20:45:32.689Z"
+        },
+        {
+          "id": "klaviyo-full-stack-software-engineer-intern-boston",
+          "title": "Full-stack Software Engineer Intern",
+          "company": "Klaviyo",
+          "posted_at": "2026-01-29T20:45:46.991Z"
+        }
+      ]
+    },
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 1,
+      "jobs": [
+        "garda-capital-partners-software-engineer-intern-python-wayzata"
+      ],
+      "recent_jobs": [
+        {
+          "id": "garda-capital-partners-software-engineer-intern-python-wayzata",
+          "title": "Software Engineer Intern - Python",
+          "company": "Garda Capital Partners",
+          "posted_at": "2026-01-29T20:45:36.381Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 2,
+      "jobs": [
+        "micron-technology-intern-ai-agent-development-san-jose",
+        "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose"
+      ],
+      "recent_jobs": [
+        {
+          "id": "micron-technology-intern-ai-agent-development-san-jose",
+          "title": "Intern – AI Agent Development",
+          "company": "Micron Technology",
+          "posted_at": "2026-01-29T20:45:40.039Z"
+        },
+        {
+          "id": "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose",
+          "title": "Intern – Gnn - Advanced Memory System Research",
+          "company": "SK hynix",
+          "posted_at": "2026-01-29T20:46:00.895Z"
         }
       ]
     },
@@ -61,175 +119,133 @@
       "channel_id": "1464303266866135232",
       "count": 1,
       "jobs": [
-        "genentech-2026-summer-intern-product-development-data-science-san-bruno"
+        "klaviyo-full-stack-software-engineer-intern-boston"
       ],
       "recent_jobs": [
         {
-          "id": "genentech-2026-summer-intern-product-development-data-science-san-bruno",
-          "title": "2026 Summer Intern - Product Development Data Science",
-          "company": "Genentech",
-          "posted_at": "2026-01-29T20:27:35.400Z"
+          "id": "klaviyo-full-stack-software-engineer-intern-boston",
+          "title": "Full-stack Software Engineer Intern",
+          "company": "Klaviyo",
+          "posted_at": "2026-01-29T20:45:44.750Z"
         }
       ]
     },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
-      "count": 3,
+    "📣・marketing-internships": {
+      "channel_id": "1464303312626122855",
+      "count": 1,
       "jobs": [
-        "genentech-2026-summer-intern-product-development-data-science-san-bruno",
-        "d-matrix-machine-learning-research-intern-santa-clara",
-        "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara"
+        "evercommerce-process-automation-intern-workato-remote-in-usa"
       ],
       "recent_jobs": [
         {
-          "id": "genentech-2026-summer-intern-product-development-data-science-san-bruno",
-          "title": "2026 Summer Intern - Product Development Data Science",
-          "company": "Genentech",
-          "posted_at": "2026-01-29T20:27:37.182Z"
-        },
+          "id": "evercommerce-process-automation-intern-workato-remote-in-usa",
+          "title": "Process Automation Intern - Workato",
+          "company": "EverCommerce",
+          "posted_at": "2026-01-29T20:45:52.186Z"
+        }
+      ]
+    },
+    "🏠・remote-usa-internships": {
+      "channel_id": "1464303522177614001",
+      "count": 1,
+      "jobs": [
+        "evercommerce-process-automation-intern-workato-remote-in-usa"
+      ],
+      "recent_jobs": [
         {
-          "id": "d-matrix-machine-learning-research-intern-santa-clara",
-          "title": "Machine Learning Research Intern",
-          "company": "d-Matrix",
-          "posted_at": "2026-01-29T20:27:43.782Z"
-        },
-        {
-          "id": "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara",
-          "title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-29T20:27:54.794Z"
+          "id": "evercommerce-process-automation-intern-workato-remote-in-usa",
+          "title": "Process Automation Intern - Workato",
+          "company": "EverCommerce",
+          "posted_at": "2026-01-29T20:45:54.270Z"
         }
       ]
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 4,
+      "count": 1,
       "jobs": [
-        "d-matrix-machine-learning-research-intern-santa-clara",
-        "black-box-ai-intern-usa-plano",
-        "microsoft-research-intern-ai-inference-software-systems-boston",
-        "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara"
+        "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose"
       ],
       "recent_jobs": [
         {
-          "id": "d-matrix-machine-learning-research-intern-santa-clara",
-          "title": "Machine Learning Research Intern",
-          "company": "d-Matrix",
-          "posted_at": "2026-01-29T20:27:41.929Z"
-        },
-        {
-          "id": "black-box-ai-intern-usa-plano",
-          "title": "AI Intern USA",
-          "company": "Black Box",
-          "posted_at": "2026-01-29T20:27:45.470Z"
-        },
-        {
-          "id": "microsoft-research-intern-ai-inference-software-systems-boston",
-          "title": "Research Intern - AI Inference Software & Systems",
-          "company": "Microsoft",
-          "posted_at": "2026-01-29T20:27:49.072Z"
-        },
-        {
-          "id": "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara",
-          "title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
-          "company": "NVIDIA",
-          "posted_at": "2026-01-29T20:27:52.720Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 2,
-      "jobs": [
-        "black-box-ai-intern-usa-plano",
-        "microsoft-research-intern-ai-inference-software-systems-boston"
-      ],
-      "recent_jobs": [
-        {
-          "id": "black-box-ai-intern-usa-plano",
-          "title": "AI Intern USA",
-          "company": "Black Box",
-          "posted_at": "2026-01-29T20:27:47.194Z"
-        },
-        {
-          "id": "microsoft-research-intern-ai-inference-software-systems-boston",
-          "title": "Research Intern - AI Inference Software & Systems",
-          "company": "Microsoft",
-          "posted_at": "2026-01-29T20:27:50.879Z"
+          "id": "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose",
+          "title": "Intern – Gnn - Advanced Memory System Research",
+          "company": "SK hynix",
+          "posted_at": "2026-01-29T20:45:59.070Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
-      "company": "Kaiser Permanente",
-      "title": "Application Engineer Bachelor Intern",
+      "job_id": "s-p-global-cost-supply-analytics-intern-houston",
+      "company": "S&P Global ",
+      "title": "Cost & Supply Analytics Intern",
       "channels": [
         "💻・tech-internships",
-        "🌴・socal-internships"
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T20:27:25.339Z"
+      "posted_at": "2026-01-29T20:45:27.222Z"
     },
     {
-      "job_id": "kaiser-permanente-process-improvement-master-s-intern-pasadena",
-      "company": "Kaiser Permanente",
-      "title": "Process Improvement Master's Intern",
+      "job_id": "amentum-release-train-engineer-internship-ires-ssfb-colorado-springs",
+      "company": "Amentum",
+      "title": "Release Train Engineer Internship IRES - Ssfb",
       "channels": [
         "💻・tech-internships",
-        "🌴・socal-internships"
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T20:27:28.824Z"
+      "posted_at": "2026-01-29T20:45:30.855Z"
     },
     {
-      "job_id": "genentech-2026-summer-intern-product-development-data-science-san-bruno",
-      "company": "Genentech",
-      "title": "2026 Summer Intern - Product Development Data Science",
+      "job_id": "garda-capital-partners-software-engineer-intern-python-wayzata",
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern - Python",
+      "channels": [
+        "💻・tech-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-01-29T20:45:34.624Z"
+    },
+    {
+      "job_id": "micron-technology-intern-ai-agent-development-san-jose",
+      "company": "Micron Technology",
+      "title": "Intern – AI Agent Development",
+      "channels": [
+        "💻・tech-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T20:45:38.161Z"
+    },
+    {
+      "job_id": "klaviyo-full-stack-software-engineer-intern-boston",
+      "company": "Klaviyo",
+      "title": "Full-stack Software Engineer Intern",
       "channels": [
         "📊・data-science-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-29T20:27:35.400Z"
-    },
-    {
-      "job_id": "d-matrix-machine-learning-research-intern-santa-clara",
-      "company": "d-Matrix",
-      "title": "Machine Learning Research Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-29T20:27:41.929Z"
-    },
-    {
-      "job_id": "black-box-ai-intern-usa-plano",
-      "company": "Black Box",
-      "title": "AI Intern USA",
-      "channels": [
-        "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T20:27:45.470Z"
+      "posted_at": "2026-01-29T20:45:44.750Z"
     },
     {
-      "job_id": "microsoft-research-intern-ai-inference-software-systems-boston",
-      "company": "Microsoft",
-      "title": "Research Intern - AI Inference Software & Systems",
+      "job_id": "evercommerce-process-automation-intern-workato-remote-in-usa",
+      "company": "EverCommerce",
+      "title": "Process Automation Intern - Workato",
       "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
+        "📣・marketing-internships",
+        "🏠・remote-usa-internships"
       ],
-      "posted_at": "2026-01-29T20:27:49.072Z"
+      "posted_at": "2026-01-29T20:45:52.186Z"
     },
     {
-      "job_id": "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara",
-      "company": "NVIDIA",
-      "title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
+      "job_id": "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose",
+      "company": "SK hynix",
+      "title": "Intern – Gnn - Advanced Memory System Research",
       "channels": [
         "🤖・ai-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T20:27:52.720Z"
+      "posted_at": "2026-01-29T20:45:59.070Z"
     }
   ],
   "failures": [],
