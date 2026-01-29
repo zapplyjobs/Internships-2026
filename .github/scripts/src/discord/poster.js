@@ -128,15 +128,14 @@ function buildJobEmbed(job, options = {}) {
   const companyDate = job.job_posted_at_datetime_utc ? new Date(job.job_posted_at_datetime_utc) : null;
   const daysDifference = companyDate ? Math.floor((now - companyDate) / (1000 * 60 * 60 * 24)) : 0;
 
-  // Always show both Discord and Company dates for consistency
-  const discordDateStr = now.toLocaleDateString('en-US', {
-    month: 'short',
-    day: 'numeric',
-    year: 'numeric'
-  });
-
   let postedValue;
-  if (companyDate) {
+  if (daysDifference > 7 && companyDate) {
+    // Show both dates when >7 days apart (helps users understand job freshness)
+    const discordDateStr = now.toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric'
+    });
     const companyDateStr = companyDate.toLocaleDateString('en-US', {
       month: 'short',
       day: 'numeric',
@@ -144,7 +143,8 @@ function buildJobEmbed(job, options = {}) {
     });
     postedValue = `Discord: ${discordDateStr}\nCompany: ${companyDateStr}`;
   } else {
-    postedValue = `Discord: ${discordDateStr}\nCompany: Unknown`;
+    // Show single date if recent or no company date
+    postedValue = formatPostedDate(job.job_posted_at_datetime_utc);
   }
 
   const embed = new EmbedBuilder()
