@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-29T03:20:55.905Z",
+  "generated": "2026-01-29T04:15:51.342Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T03:20:55.905Z",
-  "period_end": "2026-01-29T03:20:55.905Z",
+  "period_start": "2026-01-22T04:15:51.342Z",
+  "period_end": "2026-01-29T04:15:51.342Z",
   "summary": {
     "total_jobs_posted": 18,
     "unique_jobs": 10,
@@ -25,13 +25,13 @@
           "id": "crowdstrike-software-engineer-intern-redmond",
           "title": "Software Engineer Intern",
           "company": "Crowdstrike",
-          "posted_at": "2026-01-29T03:20:11.039Z"
+          "posted_at": "2026-01-29T04:15:05.644Z"
         },
         {
           "id": "rheem-product-engineering-intern-huntsville",
           "title": "Product Engineering Intern",
           "company": "Rheem",
-          "posted_at": "2026-01-29T03:20:14.439Z"
+          "posted_at": "2026-01-29T04:15:09.228Z"
         }
       ]
     },
@@ -46,7 +46,7 @@
           "id": "crowdstrike-software-engineer-intern-redmond",
           "title": "Software Engineer Intern",
           "company": "Crowdstrike",
-          "posted_at": "2026-01-29T03:20:12.784Z"
+          "posted_at": "2026-01-29T04:15:07.430Z"
         }
       ]
     },
@@ -64,25 +64,25 @@
           "id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
           "title": "Intern Data Science and Artificial Intelligence",
           "company": "LabCorp",
-          "posted_at": "2026-01-29T03:20:19.140Z"
+          "posted_at": "2026-01-29T04:15:13.953Z"
         },
         {
           "id": "bread-financial-intern-speech-intelligence-analyst-columbus",
           "title": "Intern – Speech Intelligence Analyst",
           "company": "Bread Financial",
-          "posted_at": "2026-01-29T03:20:22.626Z"
+          "posted_at": "2026-01-29T04:15:17.501Z"
         },
         {
           "id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
           "title": "Corporate Intern - Digital and Analytics",
           "company": "Caterpillar Inc.",
-          "posted_at": "2026-01-29T03:20:26.218Z"
+          "posted_at": "2026-01-29T04:15:21.066Z"
         },
         {
           "id": "sparksoft-intern-columbia",
           "title": "Intern",
           "company": "Sparksoft",
-          "posted_at": "2026-01-29T03:20:29.576Z"
+          "posted_at": "2026-01-29T04:15:24.429Z"
         }
       ]
     },
@@ -100,25 +100,25 @@
           "id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
           "title": "Intern Data Science and Artificial Intelligence",
           "company": "LabCorp",
-          "posted_at": "2026-01-29T03:20:20.893Z"
+          "posted_at": "2026-01-29T04:15:15.684Z"
         },
         {
           "id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
           "title": "Corporate Intern - Digital and Analytics",
           "company": "Caterpillar Inc.",
-          "posted_at": "2026-01-29T03:20:27.872Z"
+          "posted_at": "2026-01-29T04:15:22.750Z"
         },
         {
           "id": "sparksoft-intern-columbia",
           "title": "Intern",
           "company": "Sparksoft",
-          "posted_at": "2026-01-29T03:20:31.306Z"
+          "posted_at": "2026-01-29T04:15:26.276Z"
         },
         {
           "id": "copart-data-science-intern-dallas",
           "title": "Data Science Intern",
           "company": "Copart",
-          "posted_at": "2026-01-29T03:20:41.143Z"
+          "posted_at": "2026-01-29T04:15:36.414Z"
         }
       ]
     },
@@ -134,13 +134,13 @@
           "id": "bread-financial-intern-speech-intelligence-analyst-columbus",
           "title": "Intern – Speech Intelligence Analyst",
           "company": "Bread Financial",
-          "posted_at": "2026-01-29T03:20:24.316Z"
+          "posted_at": "2026-01-29T04:15:19.280Z"
         },
         {
           "id": "bread-financial-intern-intelligent-automation-columbus",
           "title": "Intern – Intelligent Automation",
           "company": "Bread Financial",
-          "posted_at": "2026-01-29T03:20:47.542Z"
+          "posted_at": "2026-01-29T04:15:42.943Z"
         }
       ]
     },
@@ -156,13 +156,13 @@
           "id": "adtheorant-data-science-intern-remote-in-usa",
           "title": "Data Science Intern",
           "company": "Adtheorant",
-          "posted_at": "2026-01-29T03:20:36.056Z"
+          "posted_at": "2026-01-29T04:15:31.218Z"
         },
         {
           "id": "copart-data-science-intern-dallas",
           "title": "Data Science Intern",
           "company": "Copart",
-          "posted_at": "2026-01-29T03:20:39.442Z"
+          "posted_at": "2026-01-29T04:15:34.694Z"
         }
       ]
     },
@@ -177,7 +177,7 @@
           "id": "adtheorant-data-science-intern-remote-in-usa",
           "title": "Data Science Intern",
           "company": "Adtheorant",
-          "posted_at": "2026-01-29T03:20:37.720Z"
+          "posted_at": "2026-01-29T04:15:32.973Z"
         }
       ]
     },
@@ -193,13 +193,13 @@
           "id": "bread-financial-intern-intelligent-automation-columbus",
           "title": "Intern – Intelligent Automation",
           "company": "Bread Financial",
-          "posted_at": "2026-01-29T03:20:45.840Z"
+          "posted_at": "2026-01-29T04:15:41.147Z"
         },
         {
           "id": "nelnet-intern-pathway-lincoln",
           "title": "Intern Pathway",
           "company": "Nelnet",
-          "posted_at": "2026-01-29T03:20:49.238Z"
+          "posted_at": "2026-01-29T04:15:44.692Z"
         }
       ]
     }
@@ -213,7 +213,7 @@
         "💻・tech-internships",
         "🌲・pacific-northwest-internships"
       ],
-      "posted_at": "2026-01-29T03:20:11.039Z"
+      "posted_at": "2026-01-29T04:15:05.644Z"
     },
     {
       "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
@@ -223,7 +223,7 @@
         "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T03:20:19.140Z"
+      "posted_at": "2026-01-29T04:15:13.953Z"
     },
     {
       "job_id": "bread-financial-intern-speech-intelligence-analyst-columbus",
@@ -233,7 +233,7 @@
         "🤖・ai-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T03:20:22.626Z"
+      "posted_at": "2026-01-29T04:15:17.501Z"
     },
     {
       "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
@@ -243,7 +243,7 @@
         "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T03:20:26.218Z"
+      "posted_at": "2026-01-29T04:15:21.066Z"
     },
     {
       "job_id": "sparksoft-intern-columbia",
@@ -253,7 +253,7 @@
         "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T03:20:29.576Z"
+      "posted_at": "2026-01-29T04:15:24.429Z"
     },
     {
       "job_id": "adtheorant-data-science-intern-remote-in-usa",
@@ -263,7 +263,7 @@
         "📊・data-science-internships",
         "🏠・remote-usa-internships"
       ],
-      "posted_at": "2026-01-29T03:20:36.056Z"
+      "posted_at": "2026-01-29T04:15:31.218Z"
     },
     {
       "job_id": "copart-data-science-intern-dallas",
@@ -273,7 +273,7 @@
         "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T03:20:39.442Z"
+      "posted_at": "2026-01-29T04:15:34.694Z"
     },
     {
       "job_id": "bread-financial-intern-intelligent-automation-columbus",
@@ -283,7 +283,7 @@
         "📣・marketing-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T03:20:45.840Z"
+      "posted_at": "2026-01-29T04:15:41.147Z"
     }
   ],
   "failures": [],
