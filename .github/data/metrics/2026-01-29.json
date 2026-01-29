@@ -1,250 +1,168 @@
 {
-  "generated": "2026-01-29T19:47:29.414Z",
+  "generated": "2026-01-29T19:59:10.140Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T19:47:29.414Z",
-  "period_end": "2026-01-29T19:47:29.414Z",
+  "period_start": "2026-01-22T19:59:10.140Z",
+  "period_end": "2026-01-29T19:59:10.140Z",
   "summary": {
-    "total_jobs_posted": 15,
-    "unique_jobs": 8,
-    "multi_channel_postings": 14,
-    "unique_multi_channel_jobs": 7,
+    "total_jobs_posted": 11,
+    "unique_jobs": 7,
+    "multi_channel_postings": 8,
+    "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 7
+    "channels_active": 4
   },
   "by_channel": {
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 4,
-      "jobs": [
-        "field-ai-research-scientist-intern-embodied-ai-irvine",
-        "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
-        "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
-        "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas"
-      ],
-      "recent_jobs": [
-        {
-          "id": "field-ai-research-scientist-intern-embodied-ai-irvine",
-          "title": "Research Scientist Intern - Embodied AI",
-          "company": "Field AI",
-          "posted_at": "2026-01-29T19:46:52.331Z"
-        },
-        {
-          "id": "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
-          "title": "Software Engineer Intern - Developer and Qualification Tools",
-          "company": "d-Matrix",
-          "posted_at": "2026-01-29T19:46:55.877Z"
-        },
-        {
-          "id": "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
-          "title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
-          "company": "Sandisk",
-          "posted_at": "2026-01-29T19:46:59.371Z"
-        },
-        {
-          "id": "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas",
-          "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-          "company": "Sandisk",
-          "posted_at": "2026-01-29T19:47:02.760Z"
-        }
-      ]
-    },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
-      "count": 1,
-      "jobs": [
-        "field-ai-research-scientist-intern-embodied-ai-irvine"
-      ],
-      "recent_jobs": [
-        {
-          "id": "field-ai-research-scientist-intern-embodied-ai-irvine",
-          "title": "Research Scientist Intern - Embodied AI",
-          "company": "Field AI",
-          "posted_at": "2026-01-29T19:46:54.088Z"
-        }
-      ]
-    },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
-      "count": 2,
-      "jobs": [
-        "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
-        "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose"
-      ],
-      "recent_jobs": [
-        {
-          "id": "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
-          "title": "Software Engineer Intern - Developer and Qualification Tools",
-          "company": "d-Matrix",
-          "posted_at": "2026-01-29T19:46:57.635Z"
-        },
-        {
-          "id": "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
-          "title": "Data Scientist Intern - Vod Data - 2026 Summer",
-          "company": "TikTok",
-          "posted_at": "2026-01-29T19:47:11.060Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 2,
-      "jobs": [
-        "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
-        "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas"
-      ],
-      "recent_jobs": [
-        {
-          "id": "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
-          "title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
-          "company": "Sandisk",
-          "posted_at": "2026-01-29T19:47:01.052Z"
-        },
-        {
-          "id": "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas",
-          "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-          "company": "Sandisk",
-          "posted_at": "2026-01-29T19:47:04.527Z"
-        }
-      ]
-    },
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 2,
-      "jobs": [
-        "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
-        "sharp-electronics-intern-hr-data-analyst-mahwah"
-      ],
-      "recent_jobs": [
-        {
-          "id": "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
-          "title": "Data Scientist Intern - Vod Data - 2026 Summer",
-          "company": "TikTok",
-          "posted_at": "2026-01-29T19:47:09.244Z"
-        },
-        {
-          "id": "sharp-electronics-intern-hr-data-analyst-mahwah",
-          "title": "Intern - HR Data Analyst",
-          "company": "Sharp Electronics",
-          "posted_at": "2026-01-29T19:47:12.812Z"
-        }
-      ]
-    },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
       "count": 2,
       "jobs": [
-        "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
-        "kymera-therapeutics-informatics-intern-belmont"
+        "keysight-r-d-software-engineering-intern-austin",
+        "criteo-software-development-engineer-intern-ann-arbor"
       ],
       "recent_jobs": [
         {
-          "id": "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
-          "title": "Tech Program Intern 3 - Full Stack Engineering",
-          "company": "XPO",
-          "posted_at": "2026-01-29T19:47:17.557Z"
+          "id": "keysight-r-d-software-engineering-intern-austin",
+          "title": "R&D Software Engineering Intern",
+          "company": "Keysight Technologies",
+          "posted_at": "2026-01-29T19:58:39.817Z"
         },
         {
-          "id": "kymera-therapeutics-informatics-intern-belmont",
-          "title": "Informatics Intern",
-          "company": "Kymera Therapeutics",
-          "posted_at": "2026-01-29T19:47:20.916Z"
+          "id": "criteo-software-development-engineer-intern-ann-arbor",
+          "title": "Software Development Engineer Intern",
+          "company": "Criteo",
+          "posted_at": "2026-01-29T19:58:43.463Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 2,
+      "count": 4,
       "jobs": [
-        "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
-        "kymera-therapeutics-informatics-intern-belmont"
+        "keysight-r-d-software-engineering-intern-austin",
+        "criteo-software-development-engineer-intern-ann-arbor",
+        "cambridge-associates-data-science-intern-boston",
+        "cambridge-associates-digital-engagement-intern-boston"
       ],
       "recent_jobs": [
         {
-          "id": "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
-          "title": "Tech Program Intern 3 - Full Stack Engineering",
-          "company": "XPO",
-          "posted_at": "2026-01-29T19:47:19.258Z"
+          "id": "keysight-r-d-software-engineering-intern-austin",
+          "title": "R&D Software Engineering Intern",
+          "company": "Keysight Technologies",
+          "posted_at": "2026-01-29T19:58:41.594Z"
         },
         {
-          "id": "kymera-therapeutics-informatics-intern-belmont",
-          "title": "Informatics Intern",
-          "company": "Kymera Therapeutics",
-          "posted_at": "2026-01-29T19:47:22.748Z"
+          "id": "criteo-software-development-engineer-intern-ann-arbor",
+          "title": "Software Development Engineer Intern",
+          "company": "Criteo",
+          "posted_at": "2026-01-29T19:58:45.191Z"
+        },
+        {
+          "id": "cambridge-associates-data-science-intern-boston",
+          "title": "Data Science Intern",
+          "company": "Cambridge Associates",
+          "posted_at": "2026-01-29T19:59:00.008Z"
+        },
+        {
+          "id": "cambridge-associates-digital-engagement-intern-boston",
+          "title": "Digital Engagement Intern",
+          "company": "Cambridge Associates",
+          "posted_at": "2026-01-29T19:59:03.470Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "memic-it-architecture-innovation-internship-portland"
+      ],
+      "recent_jobs": [
+        {
+          "id": "memic-it-architecture-innovation-internship-portland",
+          "title": "IT Architecture & Innovation Internship",
+          "company": "MEMIC",
+          "posted_at": "2026-01-29T19:58:49.940Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 4,
+      "jobs": [
+        "memic-business-intelligence-intern-portland",
+        "citizens-financial-data-management-undergraduate-summer-internship-providence",
+        "cambridge-associates-data-science-intern-boston",
+        "cambridge-associates-digital-engagement-intern-boston"
+      ],
+      "recent_jobs": [
+        {
+          "id": "memic-business-intelligence-intern-portland",
+          "title": "Business Intelligence Intern",
+          "company": "MEMIC",
+          "posted_at": "2026-01-29T19:58:54.740Z"
+        },
+        {
+          "id": "citizens-financial-data-management-undergraduate-summer-internship-providence",
+          "title": "Data Management Undergraduate Summer Internship",
+          "company": "Citizens Financial Group",
+          "posted_at": "2026-01-29T19:58:56.470Z"
+        },
+        {
+          "id": "cambridge-associates-data-science-intern-boston",
+          "title": "Data Science Intern",
+          "company": "Cambridge Associates",
+          "posted_at": "2026-01-29T19:58:58.227Z"
+        },
+        {
+          "id": "cambridge-associates-digital-engagement-intern-boston",
+          "title": "Digital Engagement Intern",
+          "company": "Cambridge Associates",
+          "posted_at": "2026-01-29T19:59:01.728Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "field-ai-research-scientist-intern-embodied-ai-irvine",
-      "company": "Field AI",
-      "title": "Research Scientist Intern - Embodied AI",
+      "job_id": "keysight-r-d-software-engineering-intern-austin",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineering Intern",
       "channels": [
-        "🤖・ai-internships",
-        "🌴・socal-internships"
+        "💻・tech-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:46:52.331Z"
+      "posted_at": "2026-01-29T19:58:39.817Z"
     },
     {
-      "job_id": "d-matrix-software-engineer-intern-developer-and-qualification-tools-santa-clara",
-      "company": "d-Matrix",
-      "title": "Software Engineer Intern - Developer and Qualification Tools",
+      "job_id": "criteo-software-development-engineer-intern-ann-arbor",
+      "company": "Criteo",
+      "title": "Software Development Engineer Intern",
       "channels": [
-        "🤖・ai-internships",
-        "🌉・bay-area-internships"
+        "💻・tech-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:46:55.877Z"
+      "posted_at": "2026-01-29T19:58:43.463Z"
     },
     {
-      "job_id": "sandisk-failure-analysis-engineering-intern-gen-ai-focus-masters-milpitas",
-      "company": "Sandisk",
-      "title": "Failure Analysis Engineering Intern - Gen AI focus - Masters",
-      "channels": [
-        "🤖・ai-internships",
-        "🗽・new-york-internships"
-      ],
-      "posted_at": "2026-01-29T19:46:59.371Z"
-    },
-    {
-      "job_id": "sandisk-phd-intern-advanced-memory-technology-ai-ml-focus-milpitas",
-      "company": "Sandisk",
-      "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-      "channels": [
-        "🤖・ai-internships",
-        "🗽・new-york-internships"
-      ],
-      "posted_at": "2026-01-29T19:47:02.760Z"
-    },
-    {
-      "job_id": "tiktok-data-scientist-intern-vod-data-2026-summer-san-jose",
-      "company": "TikTok",
-      "title": "Data Scientist Intern - Vod Data - 2026 Summer",
+      "job_id": "cambridge-associates-data-science-intern-boston",
+      "company": "Cambridge Associates",
+      "title": "Data Science Intern",
       "channels": [
         "📊・data-science-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-29T19:47:09.244Z"
-    },
-    {
-      "job_id": "xpo-tech-program-intern-3-full-stack-engineering-charlotte",
-      "company": "XPO",
-      "title": "Tech Program Intern 3 - Full Stack Engineering",
-      "channels": [
-        "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:47:17.557Z"
+      "posted_at": "2026-01-29T19:58:58.227Z"
     },
     {
-      "job_id": "kymera-therapeutics-informatics-intern-belmont",
-      "company": "Kymera Therapeutics",
-      "title": "Informatics Intern",
+      "job_id": "cambridge-associates-digital-engagement-intern-boston",
+      "company": "Cambridge Associates",
+      "title": "Digital Engagement Intern",
       "channels": [
-        "💻・tech-internships",
+        "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:47:20.916Z"
+      "posted_at": "2026-01-29T19:59:01.728Z"
     }
   ],
   "failures": [],
