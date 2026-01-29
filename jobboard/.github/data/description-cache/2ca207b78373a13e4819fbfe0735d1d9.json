@@ -1,0 +1,19 @@
+{
+  "url": "https://job-boards.greenhouse.io/memic/jobs/7601233003",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Are you fascinated by machine learning, data science, and the challenge of scaling models across complex environments? As our Architecture & Innovation Intern, you’ll dive into a forward‑looking initiative: expanding our claim complexity model beyond Maine and helping to determine how it should evolve as we introduce additional states. You’ll explore real‑world questions that don’t have straightforward answers. This is hands‑on, high‑impact work where your analysis and recommendations will directly help influence decisions. What You’ll Work On You’ll start by digging into the existing claim complexity model and understanding how it functions today. From there, you’ll explore what it would take to expand the model to additional states — including evaluating whether a unified model or multiple state‑based models is the best approach. Your work will involve: Conducting exploratory data analysis to understand differences across states Evaluating feature availability, regulatory considerations, and data consistency Assessing historical data volume and how it impacts model performance Comparing machine learning models and determining whether the current approach still fits Engineering features, defining labels, and performing statistical analysis Writing scripts to generate reports and insights Supporting documentation, research, and model‑related tasks Participating in meetings, updating scrum boards, and collaborating with the broader Architecture & Innovation team Potentially working with AWS, pipelines, testing, and source control Your findings will help shape MEMIC’s long‑term modeling strategy — and you’ll gain experience with real machine learning challenges that go far beyond classroom examples. What You Bring Pursuing an Associate’s degree or higher Experience with Python, Jupyter Notebooks, Data Visualization and SQL Why You’ll Love This Internship You won’t just be running models — you’ll be helping decide how MEMIC should scale them. You’ll work on meaningful, open‑ended problems that require creativity, technical skill, and strategic thinking. ___________________________________________________________________________________________________________________________________________________________________________________________________________ MEMIC is committed to a policy of nondiscrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religious creed, national origin, ancestry, age, disability, genetics, gender identity, veteran's status, sexual orientation, or any other characteristic protected by law. MEMIC is an equal opportunity employer encouraging diversity in the workplace. #IND2022 MEMIC's Job Applicant Privacy Notice",
+    "requirements": [
+      "Pursuing an Associate’s degree or higher",
+      "Experience with Python, Jupyter Notebooks, Data Visualization and SQL"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/memic/jobs/7601233003",
+      "fetchedAt": "2026-01-29T19:31:15.344Z"
+    }
+  },
+  "cachedAt": 1769715075345
+}
