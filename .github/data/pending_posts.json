@@ -6769,5 +6769,24 @@
     "addedAt": "2026-01-29T15:47:26.563Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Asset Management AI",
+      "employer_name": "Manulife Financial",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Manulife Financial in this exciting opportunity.",
+      "job_apply_link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Summer-Intern-2026---Asset-Management-AI_JR25120642-1",
+      "job_posted_at_datetime_utc": "2026-01-29T15:46:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1w",
+      "id": "manulife-financial-intern-asset-management-ai-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T16:13:37.760Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
