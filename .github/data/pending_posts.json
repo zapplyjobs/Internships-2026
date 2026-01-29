@@ -1296,10 +1296,10 @@
       "description_platform": "taleo",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:58:36.316Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T20:27:59.301Z"
   },
   {
     "job": {
@@ -1317,10 +1317,10 @@
       "description_platform": "taleo",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:58:36.316Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T20:27:59.301Z"
   },
   {
     "job": {
@@ -1338,10 +1338,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T19:58:36.316Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T20:27:59.301Z"
   },
   {
     "job": {
@@ -1359,10 +1359,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:11:23.069Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T20:27:59.301Z"
   },
   {
     "job": {
@@ -1380,10 +1380,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:11:23.069Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T20:27:59.301Z"
   },
   {
     "job": {
@@ -1401,10 +1401,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:11:23.069Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T20:27:59.301Z"
   },
   {
     "job": {
@@ -1422,10 +1422,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T20:11:23.069Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T20:27:59.301Z"
   },
   {
     "job": {
@@ -1496,17 +1496,19 @@
       "employer_name": "Garda Capital Partners",
       "job_city": "Wayzata",
       "job_state": "MN",
-      "job_description": "Join Garda Capital Partners in this exciting opportunity.",
+      "job_description": "Garda Capital Partners (Garda) is a multi-billion dollar alternative investment firm with over 22 years of experience deploying relative value strategies across fixed income markets for institutional investors. Garda's primary offices are located in Wayzata, New York City, West Palm Beach, Geneva, Zug, Copenhagen, Singapore, and Scottsdale.Garda is looking to hire a Software Engineer Intern (Python) to be a part of our Research and Technology (R&T) team based out of our Wayzata office, in Summer 2026. This is an exciting position offering opportunities to gain exposure to enterprise software development practices at a global hedge fund. Position Responsibilities Aid in the development of new lines of business solutions using Python, and SQL Support senior staff in designing and implementing complete solutions for our front office/risk systems. Provide support for in-house and 3rd party applications Qualifications & Desired Skills Pursuing a Bachelor's or Master’s Degree in Computer Science, Engineering, Mathematics, or Quantitative Finance Experience with the Python ecosystem of common libraries and working knowledge of at least one statically typed language Good grasp of computer science fundamentals (e.g. data structures, algorithms, operating systems etc.) Familiarity with object-oriented programming Strong problem-solving skills and commitment to high standards for code Interest or prior experience in the financial trading industry (particularly in fixed income) a plus Ability to work effectively in a high-energy, time-sensitive team environment Detail-oriented with strong verbal and written communication skills Within the range, individual pay is determined by work location and additional factors, such as job-related skills, experience, and relevant education. Hourly Compensation for this role is expected to be between:$45 - $45 USD",
       "job_apply_link": "https://job-boards.greenhouse.io/gardacp/jobs/4174194004",
       "job_posted_at_datetime_utc": "2026-01-26T23:45:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "garda-capital-partners-software-engineer-intern-python-wayzata"
+      "id": "garda-capital-partners-software-engineer-intern-python-wayzata",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T20:27:22.223Z",
     "postedAt": null
   },
   {
@@ -1521,11 +1523,13 @@
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "micron-technology-intern-ai-agent-development-san-jose"
+      "id": "micron-technology-intern-ai-agent-development-san-jose",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T20:27:22.223Z",
     "postedAt": null
   },
   {
@@ -1534,17 +1538,19 @@
       "employer_name": "EverCommerce",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join EverCommerce in this exciting opportunity.",
+      "job_description": "EverCommerce (Nasdaq: EVCM) is a leading service commerce platform, providing vertically-tailored, integrated SaaS solutions that help more than 690,000 global service-based businesses accelerate growth, streamline operations, and increase retention. Its modern digital and mobile applications create predictable, informed, and convenient experiences between customers and their service professionals. With its EverPro, EverHealth, and EverWell brands specializing in Home, Health, and Wellness service industries, EverCommerce provides end-to-end business management software, embedded payment acceptance, marketing technology, and customer experience applications. Learn more at EverCommerce.com.We are building an extraordinary company and looking for talented, energetic, and motivated people to join our team. You can learn more about our Company, Culture and Values here: https://www.evercommerce.com/about-us/careers/We are currently seeking rising junior and senior students to apply for our summer internship program. This is a great opportunity for individuals looking to gain hands-on experience and contribute to meaningful projects.The Process Automation Intern will support the design, development, and maintenance of enterprise automations using the Workato platform. This role offers hands-on experience with system integrations across HR, Finance, IT, and SaaS applications, while working closely with engineers and business stakeholders. The intern will help analyze manual processes, document automation workflows, troubleshoot issues, and contribute to improving operational efficiency through automation.Responsibilities:Assist in designing, building, and testing process automations using the Workato platform.Support integration workflows across enterprise systems (e.g., HR, Finance, IT, and SaaS applications).Help document automation logic, data mappings, and process flows with accuracy and clarity.Troubleshoot and validate automation failures and data issues under guidance from the Integration team.Analyze existing manual processes and identify opportunities for automation and improvement.Collaborate with engineers and business partners to translate business requirements into automation solutions.Support operational monitoring of existing automations as needed.Qualifications:Pursuing a bachelors degree in Engineering, Software Development, or Computer Science.High level of attention to detail/accuracy.Exercise discretion and good judgment and maintain confidentiality when handling sensitive information.Positive attitude approaching any task no matter how big/small.Approaches projects with creativity and is willing to think outside of the box.Effective communication skills, both written and verbal, with the ability to present complex information in a clear and concise manner.Proactive, self-motivated, and able to work both independently and collaboratively in a fast-paced environment.Willing to travel for Denver, Colorado for the intern kickoff week and possibly the Intern executive presentations.What we are looking for:Rising juniors and seniors pursuing a bachelor’s degree from an accredited university.Applicants to be currently authorized to work in the United States on a full-time basis from June to August 2026.Must be willing to commit to a 10-week internship the Summer of 2026 (June-August) on a full-time basis.Enthusiastic about technology and committed to professional development.Willing to learn and collaborate with your teammates.Where: The EverCommerce team is distributed globally, with teams in the U.S., Canada, the U.K., Jordan, New Zealand, and Australia. With a widely distributed team, we are used to working remotely across different time zones. This role can be based anywhere in the United States – if you’re close to one of our offices, we can set you up in-office or you can work 100% remotely. Please note that you must be eligible to work without sponsorship to qualify for this position.Compensation: The target base compensation for this position is $20.00 USD per hour. Final offer amounts are determined by multiple factors including location, local market variances, and candidate experience and expertise, and may vary from the amounts listed above.EverCommerce is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, veteran status, or disability status. We look forward to reviewing your credentials and getting to know more about your experience!",
       "job_apply_link": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverCommerce---Process-Automation-Intern--Workato--Remote--US-_R-105883",
       "job_posted_at_datetime_utc": "2026-01-26T23:34:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "evercommerce-process-automation-intern-workato-remote-in-usa"
+      "id": "evercommerce-process-automation-intern-workato-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T20:27:22.223Z",
     "postedAt": null
   },
   {
@@ -1553,17 +1559,19 @@
       "employer_name": "SK hynix",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join SK hynix in this exciting opportunity.",
+      "job_description": "Job Title: Intern - GNN – Advanced Memory System Research (Summer 2026) Office Location: San Jose, CAWork Model: OnsiteDuration: June 2026 - August 2026 At SK hynix America, we're at the forefront of semiconductor innovation, developing advanced memory solutions that power everything from smartphones to data centers. As a global leader in DRAM and NAND flash technologies, we drive the evolution of advancing mobile technology, empowering cloud computing, and pioneering future technologies. Our cutting-edge memory technologies are essential in today's most advanced electronic devices and IT infrastructure, enabling enhanced performance and user experiences across the digital landscape. We're looking for innovative minds to join our mission of shaping the future of technology. At SK hynix America, you'll be part of a team that's pioneering breakthrough memory solutions while maintaining a strong commitment to sustainability. We're not just adapting to technological change – we're driving it, with significant investments in artificial intelligence, machine learning, and eco-friendly solutions and operational practices. As we continue to expand our market presence and push the boundaries of what's possible in semiconductor technology, we invite you to be part of our journey to creating the next generation of memory solutions that will define the future of computing. Responsibilities: Demonstrate feasibility of GNN Training system with advanced memory solutions (HBM) Excellent in reading research papers and implementing them to code Build and evaluate the advanced memory system for a GNN training Qualifications: Accepted or currently enrolled in a PhD/MS program in Computer Science or a related STEM field Expected to complete degree by July 2027 or earlier for PhD’s and 2026 for MS candidates Hands on experience with GNN frameworks like PyG, DGL, or PyTorch Excellent programming skills in Python, CUDA, and C Strong knowledge on a memory-storage IO path including GPU-direct and CXL/PCIe specification Housing Allowance: Eligible interns will receive a housing allowance during their internship. Equal Employment Opportunity:SKHYA is an Equal Employment Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type without regard to race, sex, pregnancy, sexual orientation, religion, age, gender identity, national origin, color, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws. Compensation:Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. Pay within the provided range varies by work location and may also depend on job-related skills and experience. Your Recruiter can share more about the specific salary range for the job location during the hiring process.Pay Range$26 - $50 USD",
       "job_apply_link": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008",
       "job_posted_at_datetime_utc": "2026-01-26T23:33:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose"
+      "id": "sk-hynix-intern-gnn-advanced-memory-system-research-san-jose",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T20:27:22.223Z",
     "postedAt": null
   },
   {
@@ -1572,17 +1580,19 @@
       "employer_name": "SK hynix",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join SK hynix in this exciting opportunity.",
+      "job_description": "Job Title: Intern - AI/HPC System with Advanced Memory System Research (Summer 2026) Office Location: San Jose, CAWork Model: OnsiteDuration: June 2026 - August 2026 At SK hynix America, we're at the forefront of semiconductor innovation, developing advanced memory solutions that power everything from smartphones to data centers. As a global leader in DRAM and NAND flash technologies, we drive the evolution of advancing mobile technology, empowering cloud computing, and pioneering future technologies. Our cutting-edge memory technologies are essential in today's most advanced electronic devices and IT infrastructure, enabling enhanced performance and user experiences across the digital landscape. We're looking for innovative minds to join our mission of shaping the future of technology. At SK hynix America, you'll be part of a team that's pioneering breakthrough memory solutions while maintaining a strong commitment to sustainability. We're not just adapting to technological change – we're driving it, with significant investments in artificial intelligence, machine learning, and eco-friendly solutions and operational practices. As we continue to expand our market presence and push the boundaries of what's possible in semiconductor technology, we invite you to be part of our journey to creating the next generation of memory solutions that will define the future of computing. Responsibilities: Demonstrate feasibility of AI system with advanced memory solutions (HBM, CXL memory) Excellent in reading research papers and implementing them to code Build and evaluate the advanced memory system for an LLM training/inferencing Qualifications: Accepted or currently enrolled in a PhD/MS program in Computer Science or a related STEM field Expected to complete degree by July 2027 or earlier for PhD’s and 2026 for MS candidates Hands on experience with ML/DL frameworks like TensorFlow/Keras or PyTorch Excellent programming skills in Python, CUDA, and C Housing Allowance: Eligible interns will receive a housing allowance during their internship. Equal Employment Opportunity:SKHYA is an Equal Employment Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type without regard to race, sex, pregnancy, sexual orientation, religion, age, gender identity, national origin, color, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws. Compensation:Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. Pay within the provided range varies by work location and may also depend on job-related skills and experience. Your Recruiter can share more about the specific salary range for the job location during the hiring process.Pay Range$26 - $50 USD",
       "job_apply_link": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096696008",
       "job_posted_at_datetime_utc": "2026-01-26T23:33:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "sk-hynix-intern-ai-hpc-system-with-advanced-memory-system-research-san-jose"
+      "id": "sk-hynix-intern-ai-hpc-system-with-advanced-memory-system-research-san-jose",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T20:27:22.223Z",
     "postedAt": null
   },
   {
@@ -1591,17 +1601,19 @@
       "employer_name": "SK hynix",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join SK hynix in this exciting opportunity.",
+      "job_description": "Job Title: Intern - LLM Serving System Research (Summer 2026) Office Location: San Jose, CAWork Model: OnsiteDuration: June 2026 - August 2026 At SK hynix America, we're at the forefront of semiconductor innovation, developing advanced memory solutions that power everything from smartphones to data centers. As a global leader in DRAM and NAND flash technologies, we drive the evolution of advancing mobile technology, empowering cloud computing, and pioneering future technologies. Our cutting-edge memory technologies are essential in today's most advanced electronic devices and IT infrastructure, enabling enhanced performance and user experiences across the digital landscape. We're looking for innovative minds to join our mission of shaping the future of technology. At SK hynix America, you'll be part of a team that's pioneering breakthrough memory solutions while maintaining a strong commitment to sustainability. We're not just adapting to technological change – we're driving it, with significant investments in artificial intelligence, machine learning, and eco-friendly solutions and operational practices. As we continue to expand our market presence and push the boundaries of what's possible in semiconductor technology, we invite you to be part of our journey to creating the next generation of memory solutions that will define the future of computing. Responsibilities: Research for improving distributed LLM serving System utilizing CXL Pooled memory systems Excellent in reading research papers and implementing them to code LLM Serving system analysis Qualifications: Accepted or currently enrolled in a PhD/MS program in Computer Science or a related STEM field Expected to complete degree by July 2027 or earlier for PhD’s and 2026 for MS candidates LLM Serving System profiling/analysis scheme Distributed computing/Parallelism/Collective Communication knowledge CXL/PCIe specification knowledge Strong knowledge on Algorithms and Data Structures Housing Allowance: Eligible interns will receive a housing allowance during their internship. Equal Employment Opportunity:SKHYA is an Equal Employment Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type without regard to race, sex, pregnancy, sexual orientation, religion, age, gender identity, national origin, color, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws. Compensation: Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. Pay within the provided range varies by work location and may also depend on job-related skills and experience. Your Recruiter can share more about the specific salary range for the job location during the hiring process.Pay Range$26 - $50 USD",
       "job_apply_link": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5096734008",
       "job_posted_at_datetime_utc": "2026-01-26T23:33:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "sk-hynix-intern-llm-serving-system-research-san-jose"
+      "id": "sk-hynix-intern-llm-serving-system-research-san-jose",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T20:27:22.223Z",
     "postedAt": null
   },
   {
@@ -1610,17 +1622,19 @@
       "employer_name": "Dow Chemical Company",
       "job_city": "Urbana",
       "job_state": "IL",
-      "job_description": "Join Dow Chemical Company in this exciting opportunity.",
+      "job_description": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet.   Our people are at the heart of our solutions. They reflect the communities we live in and the world where we do business. Their diversity is our strength. We’re a community of relentless problem solvers that offers the daily opportunity to contribute with your perspective, transform industries and shape the future. Our purpose is simple - to deliver a sustainable future for the world through science and collaboration. If you’re looking for a challenge and meaningful role, you’re in the right place. Dow has a Data Engineering Internship opportunity within Dow's Enterprise Data & Analytics organization.This position is an in-person, full-time internship role based out of Champaign, IL at the Dow Delivery Center at UIUC (University of Illinois Urbana Champaign). Individuals who are within one to three years of graduation and are currently enrolled at the University of Illinois Urbana Champaign working towards a Bachelor's or Master’s degree in a related technical field are encouraged to apply. The duration of the internship is typically 11-12 weeks during the Summer 2026.As a Data Engineer Intern, you will work with a cross-functional team whose objective is to deliver solutions that drive business value for Dow. Recent solutions include carbon visibility, plastics circularity, and sales opportunities utilizing our enterprise data ecosystem. The Data Engineer Intern will focus on the ingestion, persistence and curation of data as defined by specific projects. The on-site Dow Delivery Center at UIUC people manager and technical manager will provide in-person mentorship across your day-to-day activities.The Data Engineer Intern will work closely with a multi-disciplinary team to:          Create data pipelines for projects in the Azure environment.Design, develop, test, and implement analytics. This includes the curation and ingestion of data from different source systems, driving end-to-end data flow for multiple solutions.Identify opportunities for innovating with digital capabilities aiming to accelerate Dow’s digital transformation.QualificationsRequired:Must be currently enrolled at the University of Illinois Urbana Champaign.Must be working towards a Bachelor's or Master's degree in a related technical field.Must be within one to three years of graduation.A minimum requirement for this U.S. based position is the ability to work legally in the United States.  No visa sponsorship/support is available for this position, including for any type of U.S. permanent residency (green card) process.Preferred:A GPA of 3.0 or higher.A degree discipline in Computer Science, Computer Information Systems, or other Engineering DisciplinesExperience with cloud platforms such as AWS, GCP or Azure.Familiarity with Python, Scala, and SQL programming languages.Familiarity with data warehouse/lakehouse platforms such as Snowflake or DatabricksExperience with structured/semi-/non-structured databases, data ingestion, and data modeling.Multi-application and cross-platform design experience.Proficiency in data visualization tools like Microsoft Power BI.Knowledge of Agile Methodology, Scrum, or Kanban methodologies.Knowledge of version control systems and code review practices.SkillsTechnical Proficiency: Background in computer science, computer information systems or other engineering disciplines. Familiarity with cloud platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP), or Azure. Familiarity with Python, Scala, and SQL programming languages.Problem-Solving Skills: Effectively troubleshoots and resolves issues.Collaboration and Communication: Works well with cross-functional teams and communicates effectively (spoken and written).Security and Compliance: Familiarity with security and compliance best practices and standards.Innovation and Improvement: Continuously seeks opportunities to improve existing processes and implement new technologies. Documentation and Reporting: Maintains thorough documentation of processes, solutions, and best practices.Time Management & Organizational Skills: Ability to manage your own work effort with little supervision.Additional notesThis position does not offer relocation or housing assistance.Must have access to public transportation or have personal/reliable transportation during the work term to complete internship shifts in-person at the Dow Delivery Center at UIUC.For positions based in Illinois, Dow is required by law to include the pay scale that is reasonably expected to represent the pay range for the position. This pay range is specific to the State of Illinois and accounts for both new and experienced employees with consideration to factors including but not limited to skillset, experience, and sustained job performance (or similar jobs). A reasonable pay range for this position is:  Bachelors:  $25.72-$34.28 per hour; Masters: $36.35-$38.41 per hour About DowDow (NYSE: DOW) is one of the world’s leading materials science companies, serving customers in high-growth markets such as packaging, infrastructure, mobility and consumer applications. Our global breadth, asset integration and scale, focused innovation, leading business positions and commitment to sustainability enable us to achieve profitable growth and help deliver a sustainable future. We operate manufacturing sites in 30 countries and employ approximately 36,000 people. Dow delivered sales of approximately $43 billion in 2024. References to Dow or the Company mean Dow Inc. and its subsidiaries. ​​​​Learn more about us and our ambition to be the most innovative, customer-centric, inclusive and sustainable materials science company in the world by visiting www.dow.com.As part of our dedication to inclusion, Dow is committed to equal opportunities in employment. We encourage every employee to bring their whole self to work each day to not only deliver more value, but also have a more fulfilling career. Further information regarding Dow's equal opportunities is available on www.dow.com.Dow is an Equal Employment Opportunity employer and is committed to providing opportunities without regard for race, color, religion, sex, including pregnancy, sexual orientation, or gender identity, national origin, age, disability and genetic information, including family medical history. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may call us at 1-833-My Dow HR (833-693-6947) and select option 8.",
       "job_apply_link": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Summer-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2064750",
       "job_posted_at_datetime_utc": "2026-01-26T23:32:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "2d",
-      "id": "dow-chemical-company-data-engineer-intern-urbana"
+      "id": "dow-chemical-company-data-engineer-intern-urbana",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-29T20:27:22.223Z",
     "postedAt": null
   },
   {
