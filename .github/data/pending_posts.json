@@ -2073,10 +2073,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
     "enrichedAt": "2026-01-29T21:09:42.289Z",
-    "postedAt": null
+    "postedAt": "2026-01-29T21:26:13.909Z"
   },
   {
     "job": {
@@ -2084,18 +2084,20 @@
       "employer_name": "Belvedere Trading",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Belvedere Trading in this exciting opportunity.",
+      "job_description": "Software Engineer Intern - Summer 2026Chicago, Illinois / Boulder, ColoradoTechnology – Campus /Intern /On-siteApply for this jobBelvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performance proprietary development is the source of our success and competitive advantage at Belvedere, further fueling our passion for performance. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. We place a high premium on defining, developing, and deploying high-performance trading software using a team-based, holistic development approach. We look for passionate team members that excel and their contribution is critical to our continued success. At Belvedere Trading, our pragmatic Software Engineer Interns work directly with full-time Software Engineers and other interns to develop our low latency, high-performance, proprietary trading systems. They participate in all aspects of our software development lifecycle, from design to testing to deployment, and have both a love of technology and a demonstrated interest in the financial markets. We’re looking for college juniors who fit this bill. Don’t know a lot about finance or trading? No sweat. Belvedere Trading University (BTU) program will teach you everything you need to know once you join the team.What our Software Engineer Interns doCollaborate – Work in a collaborative team environment which encourages constant learning and innovation from all levels of the company to build the future of technology and finance BTU – Participate in our in-house learning and development curriculum via peer-lead lectures to obtain knowledge about the fundamentals of trading and our proprietary trading systemsPartner with team members to design, implement, and debug complex trading applications, ensure our software meets requirements, and is testableCommunicate with project managers and team leadership to develop work strategiesKey Qualities in Great CandidatesHigh performer – Experience developing efficient, user-friendly, extensible programs, preferably with an object-oriented programming language such as C++, C#, or Java Ownership – Thrive in a collaborative, entrepreneurial environmentIntellectual curiosity and passion – Desire to continuously learn in a team environment, solve challenging problems and learn quicklyStrong Communication – Effectively communicate project updates to teammates and product managersAbility to live in Chicago or Boulder and attend the internship fully in person during the summer of 2026. Graduation date of December 2026 or later$130,000 - $130,000 a yearAdditionally, certain positions at Belvedere Trading are eligible for discretionary bonuses. Our employees have access to a variety of benefits, which can be found on our website here.Women and underrepresented groups frequently apply to jobs only if they meet 100% of the qualifications.We encourage you to break that mold and apply. No candidate is perfect; all have a lot to offer. We welcome your application.Core ValuesThe secret to our award-winning culture is our Core Values: Team Belvedere, Me In Team, Own It, Build Rockets, and Passionate Discourse. We live and breathe these values every day.ComplianceFor our trading positions and certain engineering roles, the SIE and Series 57 licenses are required; Belvedere Trading will provide comprehensive study materials and allocate dedicated time during the onboarding process to ensure your success in obtaining these certifications. Our StanceBelvedere is an Equal Opportunity Employer and is committed to providing a non-discriminatory employment environment for its employees. Discrimination against employees and applicants due to race, color, religion, sex, national origin, disability, age, military, and veteran status is prohibited. Belvedere encourages initiatives to increase diversity and provide equal opportunity to all applicants and employees. Belvedere is committed to providing a positive environment in which team members are treated with respect, dignity, and courtesy. Our firm believes in a dynamic culture of inclusion and diversity, where people thrive on individual and organizational characteristics, values, experiences, and backgrounds. Please note that Belvedere Trading does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resumes will become the property of Team Belvedere. No phone calls, please. Any questions regarding the virtual recruiting process, please reach out to recruiting@belvederetrading.com. Work Schedule: Regular and reliable attendance during standard business hours with the ability to be on-site prior to the start of business on occasion Amount of Travel Required: NoneSponsorship: Yes We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply",
       "job_posted_at_datetime_utc": "2025-08-09T02:45:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1d",
-      "id": "belvedere-trading-software-engineer-intern-chicago"
+      "id": "belvedere-trading-software-engineer-intern-chicago",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-29T21:25:54.268Z",
+    "postedAt": "2026-01-29T21:26:13.909Z"
   },
   {
     "job": {
@@ -2103,17 +2105,19 @@
       "employer_name": "GenBio AI",
       "job_city": "Palo Alto",
       "job_state": "CA",
-      "job_description": "Join GenBio AI in this exciting opportunity.",
+      "job_description": "Research Engineer InternPalo Alto, CA / Abu Dhabi / ParisEngineering /Intern /HybridApply for this jobHeadquartered in Silicon Valley, we are a newly established start-up where a collective of visionary scientists, engineers, and entrepreneurs are dedicated to transforming the landscape of biology and medicine through the power of generative AI. Our team comprises leading minds and innovators in AI and biological science, pushing the boundaries of what is possible. We are dreamers who reimagine a new paradigm for biology and medicine.We are committed to decoding biology holistically and enabling the next generation of life-transforming solutions. As the first mover in pan-modal Large Biological Models (LBM), we are pioneering a new era of biomedicine, with our LBM training leading to ground-breaking advancements and a transformative approach to healthcare. Our robust R&D team and leadership in LLMs and generative AI position us at the forefront of this revolutionary field. With headquarters in Silicon Valley, California, and a branch office in Paris and Abu Dhabi, we are poised to make a global impact. Join us as we embark on this journey to redefine the future of biology and medicine through the transformative power of Generative AI.Job Description:You will work with the team to conduct cutting-edge research in AI, foundation models, and computational biology. Your primary tasks will include improving existing models and exploring new methodologies to advance our AI capabilities in biology.You will collaborate with the team on designing and executing large-scale experiments, analyzing complex datasets, and applying statistical techniques to validate the performance and robustness of AI systems.Additionally, you will work closely with AI/machine learning researchers and computational biologists to develop Genbio AI’s state-of-the-art biology foundation models and drive the research agenda to generate impact.Qualification:Currently enrolled in a full-time master's or PhD (preferred) program in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field (preferably in the United States).A strong coder with excellent skills in C/C++ and Python.Fluent in deep learning frameworks like PyTorch (and/or JAX), Hugging Face (Datasets, Accelerate, Transformers, etc.), Megatron-LM, DeepSpeed, etc.Have a solid understanding of GPU, CPU, or other AI accelerator architectures.Familiar with LLM (and/or other foundation model) architectures (such as attention mechanisms, state-space models, MoE, etc.) and training infrastructure (e.g., large-scale GPU clusters).Have experience improving ML accuracy using low-precision formats.Have 1+ years of relevant industry experience.Derive a great deal of satisfaction from every percentage point of performance improvement.Have experience writing and optimizing compute kernels using CUDA or similar languages.Nice to Have:Current PhD in Computer Science and Engineering with a specialization in Computer Architecture, Parallel Computing, Compilers, or other systems.Co-optimizing computing infrastructure and deep learning frameworks for optimal performance on specific workloads. Identify and resolve performance bottlenecks through profiling and system analysis.Experience collaborating with data scientists and machine learning engineers to integrate distributed training capabilities into GenBio AI’s model development and deployment frameworks.Proficient in Python with experience in GPU-accelerated libraries (e.g., CUDA, cuDNN).Knowledge of performance profiling and optimization tools for HPC and deep learning.Join us as we embark on this journey to redefine the future of biology and medicine.We are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. GenBio AI participates in the U.S. Department of Homeland Security’s E-Verify program to confirm the employment eligibility of all newly hired employees. For more information on E-Verify, please visit www.e-verify.gov.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/genbio/97d1b075-b30a-4ed6-9ba3-d6690a606348/apply",
       "job_posted_at_datetime_utc": "2025-07-28T11:39:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1d",
-      "id": "genbio-ai-research-engineer-intern-palo-alto"
+      "id": "genbio-ai-research-engineer-intern-palo-alto",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-29T18:21:13.686Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-29T21:25:54.268Z",
+    "postedAt": "2026-01-29T21:26:13.909Z"
   }
 ]
