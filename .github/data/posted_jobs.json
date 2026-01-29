@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-29T19:47:27.257Z",
+  "lastUpdated": "2026-01-29T19:59:07.981Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -3936,14 +3936,185 @@
       "job_city": "Belmont",
       "job_state": "MA",
       "job_description": "Join Kymera Therapeutics in this exciting opportunity."
+    },
+    {
+      "id": "8b961e3f7a553dff-2026-01-29-1",
+      "jobId": "8b961e3f7a553dff",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineering Intern",
+      "postedToDiscord": "2026-01-29T19:58:39.804Z",
+      "sourceDate": "2026-01-27T23:03:24.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/51418?lang=en-us&icims=1",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466522956472516794",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:58:39.804Z",
+          "channelJobNumber": 33
+        },
+        "1464304182923362324": {
+          "messageId": "1466522964525711631",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:58:41.584Z",
+          "channelJobNumber": 18
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #e90029;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #e90029;\" rel=\"noopener\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\">Keysight</span></a></span><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif;\">&nbsp;is at the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;</span><span style=\"color: #e90029;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #e90029;\" rel=\"noopener\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\">about what we do.</span></a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif;\">Our </span><span style=\"color: #e90029;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif; color: #e90029;\">award-winning</span></a></span><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif; color: red;\">&nbsp;</span><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif;\">culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</span></p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin: 0px;\">We are looking for a passionate and energetic intern to undertake real-world commercial challenges of platform software development. You will be working on software running on various hardware, VM or cloud solutions offered by Keysight. Ideal candidate is an CS or CE major with very strong CS background.</p> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin: 0px;\">&nbsp;</p><div class=\"p-rich_text_section\">Current students pursuing BS/MS/PhD in CS/CE with strong background in software development.</div><ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-stringify-type=\"unordered-list\" data-indent=\"0\" data-border=\"0\"><li data-stringify-indent=\"0\" data-stringify-border=\"0\">Strong programming experience focused on Linux development environments.</li><li data-stringify-indent=\"0\" data-stringify-border=\"0\">Proficiency in object-oriented analysis, design &amp; programming.</li><li data-stringify-indent=\"0\" data-stringify-border=\"0\">Advanced programming skills using language such as golang, Python, C++, and/or Java.</li><li data-stringify-indent=\"0\" data-stringify-border=\"0\">Effective teamwork and communication skills.</li><li data-stringify-indent=\"0\" data-stringify-border=\"0\">Experience in Cloud technologies (Docker, Kubernetes etc) strongly preferred.</li><li data-stringify-indent=\"0\" data-stringify-border=\"0\">Experience in Linux technologies (kernel, network-manager, systemd etc) considered a huge plus.</li></ul><div data-block=\"true\" data-editor=\"1enu7\" data-offset-key=\"d8pra57a-0-0\"><div data-offset-key=\"d8pra57a-0-0\"><span data-offset-key=\"d8pra57a-0-0\">Candidates who wish to be considered must be enrolled in a accredited college/university as of September 2026. Applicants who have graduated before September 2026 will not be considered unless they are entering/applying to a MS or PHD program after graduating.</span></div></div><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Visa Sponsorship is not available for this position. Candidates who now or at any point in the future require sponsorship for employment visa status (e.g., H-1B Visa status) may not be considered.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Keysight Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.</p><p style=\"margin: 0px;\">&nbsp;</p><p>The level of role will be based on applicable experience, education and skills; Most offers will be between the minimum and the midpoint of the Salary Range listed below.</p><p>&nbsp;</p><p>California pay range: MIN $40.32-$43.49/hour</p><p>&nbsp;</p><p>Note: For other locations, pay ranges will vary by region.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>"
+    },
+    {
+      "id": "fcbcd660fc7aebf6-2026-01-29-1",
+      "jobId": "fcbcd660fc7aebf6",
+      "company": "Criteo",
+      "title": "Software Development Engineer Intern",
+      "postedToDiscord": "2026-01-29T19:58:43.453Z",
+      "sourceDate": "2026-01-27T15:12:11.000Z",
+      "sourceUrl": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Ann-Arbor/Software-Development-Engineer-Intern_r20252",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466522972159475856",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:58:43.453Z",
+          "channelJobNumber": 34
+        },
+        "1464304182923362324": {
+          "messageId": "1466522979780399271",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:58:45.183Z",
+          "channelJobNumber": 19
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Ann Arbor",
+      "job_state": "MI",
+      "job_description": "What You'll Do:The goal of Criteo’s internship program is to provide valuable real world work experience to the engineers of tomorrow while building a relationship that often leads to future employment. Many of our best engineers were hired after spending a summer with us. With that goal in mind, our internship program is structured so that each intern is assigned to one of our product engineering teams. While working as part of that team, you will work hand in hand with our talented engineers, solving problems and creating new features that will be deployed to tens of millions of users worldwide. At Criteo, you won’t sit in the intern section and work on data entry or QA projects.Who You Are:A Current Student at The University of Michigan or one of the surrounding Colleges (must be available for onsite in Ann Arbor to qualify for the program)Work on real and impactful projects that are used by leading retailers and brandsGain experience by working on cutting edge and highly scalable systemsHone your skills as a full stack, data or UX focused engineer.Work with and learn from talented engineers, with a diverse set of backgroundsYou’ll be placed on one of our technical team based on your interest and skill set.Pursuing a degree (Bachelors or Masters) in Computer Science or a related fieldMust be currently enrolled in a full-time degree program and returning to the program after intern completionExperience in C++, Java, Python, Scala, or C#A strong sense of ownership and a dislike for passing the buckA problem solver, a fixer, and a creative technologist. We believe coding is a talent and a passion, not just a skill.A strong communicator and a team player who can work efficiently with othersWe acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!​Who We Are:Criteo is a leader in commerce media, helping brands, agencies, and publishers create meaningful consumer connections through AI-powered advertising solutions. We’re shaping a more open and sustainable digital future for advertising.    At Criteo, our culture is as unique as it is diverse. From our offices across the globe or from the comfort of home, our 3,600 Criteos collaborate together to build an open, impactful, and forward-thinking environment.    We foster a workplace where everyone is valued, and employment decisions are based solely on skills, qualifications, and business needs—never on non-job-related factors or legally protected characteristics.  What We Offer:🏢 Ways of working – Our hybrid model blends home with in-office experiences, making space for both.   📈 Grow with us – Learning, mentorship & career development programs.  💪 Your wellbeing matters – Health benefits, wellness perks & mental health support.  🤝 A team that cares – Diverse, inclusive, and globally connected.  💸 Fair pay & perks – Attractive salary, with performance-based rewards and family-friendly policies, plus the potential for equity depending on role and level.    Additional benefits may vary depending on the country where you work and the nature of your employment with Criteo.For employees based in the US, certain roles at Criteo are eligible for additional rewards, including quarterly or annual bonus and restricted stock units. US-based employees receive access to healthcare, dental, and vision insurance, a 401(k) plan with company match, short-term and long-term disability coverage, life insurance, family forming and wellness benefits, Flexible Work financial support, learning opportunities, and a robust annual leave plan including volunteer time off and summer vacation days.The US base salary pay range for this position per year is:$48,000k"
+    },
+    {
+      "id": "8b70850a182bde97-2026-01-29-1",
+      "jobId": "8b70850a182bde97",
+      "company": "MEMIC",
+      "title": "IT Architecture & Innovation Internship",
+      "postedToDiscord": "2026-01-29T19:58:49.929Z",
+      "sourceDate": "2026-01-27T15:29:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/memic/jobs/7601233003",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466522999820779531",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:58:49.929Z",
+          "channelJobNumber": 15
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Portland",
+      "job_state": "ME",
+      "job_description": "Are you fascinated by machine learning, data science, and the challenge of scaling models across complex environments? As our Architecture & Innovation Intern, you’ll dive into a forward‑looking initiative: expanding our claim complexity model beyond Maine and helping to determine how it should evolve as we introduce additional states. You’ll explore real‑world questions that don’t have straightforward answers. This is hands‑on, high‑impact work where your analysis and recommendations will directly help influence decisions. What You’ll Work On You’ll start by digging into the existing claim complexity model and understanding how it functions today. From there, you’ll explore what it would take to expand the model to additional states — including evaluating whether a unified model or multiple state‑based models is the best approach. Your work will involve: Conducting exploratory data analysis to understand differences across states Evaluating feature availability, regulatory considerations, and data consistency Assessing historical data volume and how it impacts model performance Comparing machine learning models and determining whether the current approach still fits Engineering features, defining labels, and performing statistical analysis Writing scripts to generate reports and insights Supporting documentation, research, and model‑related tasks Participating in meetings, updating scrum boards, and collaborating with the broader Architecture & Innovation team Potentially working with AWS, pipelines, testing, and source control Your findings will help shape MEMIC’s long‑term modeling strategy — and you’ll gain experience with real machine learning challenges that go far beyond classroom examples. What You Bring Pursuing an Associate’s degree or higher Experience with Python, Jupyter Notebooks, Data Visualization and SQL Why You’ll Love This Internship You won’t just be running models — you’ll be helping decide how MEMIC should scale them. You’ll work on meaningful, open‑ended problems that require creativity, technical skill, and strategic thinking. ___________________________________________________________________________________________________________________________________________________________________________________________________________ MEMIC is committed to a policy of nondiscrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religious creed, national origin, ancestry, age, disability, genetics, gender identity, veteran's status, sexual orientation, or any other characteristic protected by law. MEMIC is an equal opportunity employer encouraging diversity in the workplace. #IND2022 MEMIC's Job Applicant Privacy Notice"
+    },
+    {
+      "id": "54669e05e263d092-2026-01-29-1",
+      "jobId": "54669e05e263d092",
+      "company": "MEMIC",
+      "title": "Business Intelligence Intern",
+      "postedToDiscord": "2026-01-29T19:58:54.731Z",
+      "sourceDate": "2026-01-27T15:29:19.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/memic/jobs/7601219003",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466523019689328906",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:58:54.731Z",
+          "channelJobNumber": 10
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Portland",
+      "job_state": "ME",
+      "job_description": "Are you the kind of person who gets a little too excited about a clean spreadsheet? Do you love solving puzzles, spotting patterns, and making messy information make sense? If so, our Business Intelligence internship might be your perfect summer adventure. As a BI intern, you’ll dive into real projects that make a real impact - you’ll be helping us understand the story behind our data and shaping how teams across the company make decisions. What You’ll Do Assist with data mapping and documentation to help us understand where everything lives and how it all connects Clean up, consolidate, and standardize reports so our insights are sharp, accurate, and easy to use Outline processes and identify improvements — and even help brainstorm solutions Participate in cross‑functional training and knowledge sharing to learn how different teams use data Support the BI team with data scrubbing, manipulation, and descriptive analytics Help test new systems and assist with monthly or ad‑hoc reporting Use Power BI to build dashboards and visualizations for teams across the company Contribute to data‑related projects across the MEMIC Group and see how your work drives decisions What You Bring Pursuing an Associate’s degree or higher Familiarity with Power BI, Tableau or SQL Strong Excel skills Excellent attention to detail and strong organizational habits Clear communication skills and a collaborative mindset Why You’ll Love This Internship You’ll gain hands‑on experience, build your technical toolkit, and learn how data powers decisions in a corporate environment. You’ll also get exposure to BI tools, cross‑department collaboration, and real‑world analytics challenges — all while working with a supportive team that wants to see you grow. ___________________________________________________________________________________________________________________________________________________________________________________________________________ MEMIC is committed to a policy of nondiscrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religious creed, national origin, ancestry, age, disability, genetics, gender identity, veteran's status, sexual orientation, or any other characteristic protected by law. MEMIC is an equal opportunity employer encouraging diversity in the workplace. #IND2022 MEMIC's Job Applicant Privacy Notice"
+    },
+    {
+      "id": "7a0f87f949f06d84-2026-01-29-1",
+      "jobId": "7a0f87f949f06d84",
+      "company": "Citizens Financial Group",
+      "title": "Data Management Undergraduate Summer Internship",
+      "postedToDiscord": "2026-01-29T19:58:56.459Z",
+      "sourceDate": "2026-01-27T15:13:04.000Z",
+      "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44432",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466523027058720829",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:58:56.459Z",
+          "channelJobNumber": 11
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Providence",
+      "job_state": "RI",
+      "job_description": "We’re developing the next generation of Colleagues! Join the data-driven culture at Citizens and learn how we keep customers at the center of everything we do. We are looking for interns to join our 10-week summer internship program and support innovative data & analytics initiatives across the bank. Experience during the program Our program offers interns a unique dual experience – Participants spend half of their time individually partnered with a host team within the data & analytics community to participate in ongoing work. Assignments for data analyst interns may be in areas aligned to data quality monitoring, metadata management, ETL support, data integration, SQL development, cloud-based data tools, and exploratory data analysis- including tasks related to reporting, dashboarding, and ad-hoc investigations. This component of the program provides direct exposure to teams in areas that align to intern education and interests. The other half of the time, interns work on a cr..."
+    },
+    {
+      "id": "7ef1dab14e2d4aaf-2026-01-29-1",
+      "jobId": "7ef1dab14e2d4aaf",
+      "company": "Cambridge Associates",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-29T19:58:58.215Z",
+      "sourceDate": "2026-01-27T07:34:45.000Z",
+      "sourceUrl": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Data-Science-Intern_JR0000130",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466523034411339941",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:58:58.215Z",
+          "channelJobNumber": 12
+        },
+        "1464304182923362324": {
+          "messageId": "1466523041679933766",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:58:59.997Z",
+          "channelJobNumber": 20
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Firm Overview:Cambridge Associates (“CA”) is a leading global investment firm. CA’s goal is to help endowments & foundations, pension plans, and ultra-high net worth private clients implement and manage custom investment portfolios that generate outperformance so that they can maximize their impact on the world. Cambridge Associates delivers a range of services, including outsourced CIO, non-discretionary portfolio management, and investment consulting.Headquartered in Boston, Massachusetts, CA has offices in key markets in North America, the United Kingdom, Europe, Asia, and Oceania.  Our worldwide teams ensure our clients benefit from decades of global presence, local expertise, and relationships with the top global investment managers across the world.  For more information, please visit www.cambridgeassociates.com.Job Description Summary:THE OPPORTUNITYData Analyst Internship ProgramPOSITION SPECIFICSLocation of Position: Boston, MAProgram Length: 10-week program from early June to mid-August (open to rising juniors and seniors: Class of 2026 &2027)Required for Application: ResumeOffice Requirement: Intern is expected to work in their assigned office at least 4 days per week with the option to work from home 1 day per weekExpected Hours: Interns are expected to work 40 hours per weekBase Pay/Salary: Boston, MA: $25 / hour and additionally, offer includes sign-on bonus.Job Description:DATA ANALYST INTERNSHIP PROGRAMThe Data Office at Cambridge Associates is seeking motivated and curious interns to join our team for a 10-week summer program. This is an exciting opportunity to gain hands-on financial services domain knowledge and experience in business and data analysis, data governance, data engineering, and development work that supports our enterprise data initiatives. Interns will work closely with the Chief Data Officer and Data Office team on projects that drive data governance, data quality, master data management (Security Master), and the development of our Snowflake Data Platform.You will be exposed to real-world challenges in data management, analytics, and technology, and will contribute to projects that have a meaningful impact on our organization’s data strategy. This program is designed for students who are eager to learn, collaborate, and develop foundational skills for a career in data and analytics.Responsibilities:Collaborate with Data Office professionals on projects related to business analysis, data governance, data engineering, and development.Support the development and enhancement of the Data Platform, including data integration and automation tasks.Assist in the business and data analysis, design, testing, and implementation of data quality and master data management solutions.Analyze and document business and data requirements for data-related initiatives.Participate in data profiling, data cleansing, and data validation activities.Contribute to the creation of dashboards, reports, and data visualizations to support decision-making.Engage in team meetings, planning sessions, and code reviews.Communicate findings and progress clearly to both technical and non-technical stakeholders.Take part in self-guided learning and training sessions to build technical and business knowledge.We Offer:Mentorship from experienced Data Office professionals and the Chief Data Officer.Exposure to enterprise-level data management, governance, and engineering practices.Networking opportunities with leaders across the organization and with other interns.Participation in intern-specific events, employee resource groups, and service council activities.Access to online learning platforms and resources for self-directed skill development.A collaborative, inclusive, and supportive work environment.Qualifications:Current enrollment in a Bachelor’s degree program, ideally in Computer Science, Information Systems, Engineering, Mathematics, Business Analytics, or a related field.Strong analytical and problem-solving skills with passion solving complex problems through dataInterest in data management, data engineering, or business analysis.Basic programming experience (Python, SQL, or similar languages preferred).Interest in learning about finance and investment management.Eagerness to learn new technologies and concepts.Effective communication and teamwork skills.Ability to work in a hybrid environment (Boston office).Proactive, detail-oriented, and organized.Must be eligible to work in the US without sponsorship or restriction now and in the futureHow to Apply:Submit your resume and a brief cover letter describing your interest in data, technology, and how this internship aligns with your career goals.Base salary range for this role:Pay Range Minimum:0Pay Range Maximum:0In addition to the listed salary range, this position is eligible for an annual performance-based bonus and a comprehensive, competitive benefits package. Actual placement within the stated salary range will be determined based on factors such as skills, experience, and qualifications, as well as internal equity.The firm is committed to the concept and practice of equal employment opportunity and will not discriminate against any employee or applicant on the basis of race, color, religion, age, sex, national origin, sexual orientation, gender identity, disability, or veteran status. It is expected that all employees will follow a similar policy toward their co-workers."
+    },
+    {
+      "id": "d0cb336293553585-2026-01-29-1",
+      "jobId": "d0cb336293553585",
+      "company": "Cambridge Associates",
+      "title": "Digital Engagement Intern",
+      "postedToDiscord": "2026-01-29T19:59:01.718Z",
+      "sourceDate": "2026-01-27T07:34:37.000Z",
+      "sourceUrl": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Arlington/Digital-Engagement-Intern_JR0000108",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466523049233875116",
+          "channelType": "category",
+          "postedAt": "2026-01-29T19:59:01.718Z",
+          "channelJobNumber": 13
+        },
+        "1464304182923362324": {
+          "messageId": "1466523056343089253",
+          "channelType": "location",
+          "postedAt": "2026-01-29T19:59:03.459Z",
+          "channelJobNumber": 21
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Firm Overview:Cambridge Associates (“CA”) is a leading global investment firm. CA’s goal is to help endowments & foundations, pension plans, and ultra-high net worth private clients implement and manage custom investment portfolios that generate outperformance so that they can maximize their impact on the world. Cambridge Associates delivers a range of services, including outsourced CIO, non-discretionary portfolio management, and investment consulting.Headquartered in Boston, Massachusetts, CA has offices in key markets in North America, the United Kingdom, Europe, Asia, and Oceania.  Our worldwide teams ensure our clients benefit from decades of global presence, local expertise, and relationships with the top global investment managers across the world.  For more information, please visit www.cambridgeassociates.com.Job Description Summary:THE TEAMThe Digital Engagement Team at CA partners with business stakeholders to deliver technology solutions that build relationships among employees and clients, accelerates product and service adoption, and supports business process change in order to enable business growth and development. To do so, the team is committed to designing and implementing digital and non-digital methods that enhance employee and client online experiences in three areas: Employee Engagement (DEX), Customer Relationship Management (CRM), and Digital Client Experience (DCX). More specifically, the Employee Engagement area centers around software and processes that enhance productivity and collaboration through digital community, digital strategy (external websites, digital marketing, and social media), measuring and monitoring employee engagement, and knowledge management. Our primary software stack includes Igloo Software, Box, Asana, Canva, and Microsoft products. The team is focused on delivering value for our colleagues by handling the technical aspects such as prioritizing integrations with other applications in the enterprise, creating analytics dashboards, providing concierge support for each solution, and managing vendor relationships. We also provide project-specific support for new vendor analysis, website updates, communications campaigns, and software releases.THE OPPORTUNITYCambridge Associates (CA) is looking for a Summer Intern for its IT Digital Engagement department located in Boston, MA, or Arlington, VA. Candidate must be actively enrolled in an undergraduate program at an accredited College or University or have an equivalent work background. Under the supervision of our staff, the candidate can expect to participate in projects centering around the technical management of software-as-a-service (SaaS) platforms focused on improving how our employees work together. The Summer Intern on the Digital Engagement team will play a key role in helping to implement technology solutions for Employee Engagement that build and strengthen CA’s employee community, measure and build programs that increase employee belonging, and enable best-in-class collaboration practices for a hybrid workforce. By liaising with the Corporate Communications Team, Human Capital Team, and the Client Relationship Management (CRM) Team, this individual will work with stakeholders to monitor, update, and promote new technology and enhancements into current and new business processes. Interns are expected to work 40 hours per week during the summer (June-August). Interns will be competitively compensated. The individual is expected to be onsite 1 or 2 days each week in the Boston, MA, or Arlington, VA, office. Most work will be completed independently and remotely over Microsoft Teams or Zoom.Interns will gain knowledge of how an Information Technology Department supports a financial services firm by working on projects with analysts and developers from a variety of IT teams.Job Description:RESPONSIBILITIESA successful candidate will interact with employees as they set up blogs and websites, complete light graphic design, in Canva, and complete data and analysis projects using PowerBi for our core software offerings. The candidate will also work alongside our team on AI integration projects and will have access to SaaS vendors to explore the process of software updates, contract renewals, and other related technical elements. They must have the willingness to engage in ad hoc projects and initiatives as they are identified, some of which will be tailored to the interests of the candidate, especially in business intelligence and data visualization.QUALIFICATIONSCandidate must be actively enrolled in an undergraduate program at an accredited College or University·       Demonstrated interest or experience in PowerBI, business intelligence, or data visualization toolsDemonstrated ability to communicate in both verbal and written communication in formal and informal contexts designed to build consensus·       Ability to present work in a clear and concise manner, including data-driven insights·       Ability to set and meet deadlines autonomously·       Strong organizational management skills and ability to manage multiple projects at one time·       Proactive problem solver who is eager to learn and contribute, especially in the areas of business intelligence and analyticsBase salary range for this role:Pay Range Minimum:0Pay Range Maximum:0In addition to the listed salary range, this position is eligible for an annual performance-based bonus and a comprehensive, competitive benefits package. Actual placement within the stated salary range will be determined based on factors such as skills, experience, and qualifications, as well as internal equity.The firm is committed to the concept and practice of equal employment opportunity and will not discriminate against any employee or applicant on the basis of race, color, religion, age, sex, national origin, sexual orientation, gender identity, disability, or veteran status. It is expected that all employees will follow a similar policy toward their co-workers."
     }
   ],
   "metadata": {
-    "totalJobs": 272,
+    "totalJobs": 279,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-29T19:47:27.257Z",
+      "date": "2026-01-29T19:59:07.981Z",
       "archived": 0
     }
   }
