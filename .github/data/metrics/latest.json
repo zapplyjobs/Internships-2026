@@ -1,138 +1,116 @@
 {
-  "generated": "2026-01-29T19:16:40.062Z",
+  "generated": "2026-01-29T19:31:55.508Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T19:16:40.062Z",
-  "period_end": "2026-01-29T19:16:40.062Z",
+  "period_start": "2026-01-22T19:31:55.508Z",
+  "period_end": "2026-01-29T19:31:55.508Z",
   "summary": {
-    "total_jobs_posted": 18,
-    "unique_jobs": 9,
-    "multi_channel_postings": 18,
-    "unique_multi_channel_jobs": 9,
+    "total_jobs_posted": 15,
+    "unique_jobs": 8,
+    "multi_channel_postings": 14,
+    "unique_multi_channel_jobs": 7,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 8
+    "channels_active": 6
   },
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 6,
+      "count": 5,
       "jobs": [
-        "cadence-design-software-intern-austin",
-        "harman-international-intern-web-tools-novi",
-        "askbio-intern-it-ai-team-data-durham",
-        "askbio-intern-data-management-durham",
-        "t-mobile-summer-2026-software-engineering-intern-frisco",
-        "t-mobile-software-engineer-intern-frisco"
+        "harman-international-intern-customer-engineering-novi",
+        "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
+        "hilb-benefits-analytics-intern-sparks",
+        "kla-full-stack-software-intern-milpitas",
+        "kaiser-permanente-developer-bachelor-s-intern-lake-oswego"
       ],
       "recent_jobs": [
         {
-          "id": "cadence-design-software-intern-austin",
-          "title": "Software Intern",
-          "company": "Cadence Design Systems",
-          "posted_at": "2026-01-29T19:15:54.741Z"
-        },
-        {
-          "id": "harman-international-intern-web-tools-novi",
-          "title": "Intern - Web Tools",
+          "id": "harman-international-intern-customer-engineering-novi",
+          "title": "Intern - Customer Engineering",
           "company": "HARMAN International",
-          "posted_at": "2026-01-29T19:15:58.124Z"
+          "posted_at": "2026-01-29T19:31:18.130Z"
         },
         {
-          "id": "askbio-intern-it-ai-team-data-durham",
-          "title": "Intern-IT – AI Team - Data",
-          "company": "AskBio",
-          "posted_at": "2026-01-29T19:16:01.424Z"
+          "id": "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
+          "title": "KP-SAM Code Development Engineering Intern - Summer 2026",
+          "company": "Kairos Power",
+          "posted_at": "2026-01-29T19:31:21.688Z"
         },
         {
-          "id": "askbio-intern-data-management-durham",
-          "title": "Intern-Data Management",
-          "company": "AskBio",
-          "posted_at": "2026-01-29T19:16:04.923Z"
+          "id": "hilb-benefits-analytics-intern-sparks",
+          "title": "Benefits Analytics Intern",
+          "company": "Hilb Group",
+          "posted_at": "2026-01-29T19:31:25.438Z"
         },
         {
-          "id": "t-mobile-summer-2026-software-engineering-intern-frisco",
-          "title": "Summer 2026 Software Engineering Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T19:16:08.510Z"
+          "id": "kla-full-stack-software-intern-milpitas",
+          "title": "Full Stack Software Intern",
+          "company": "KLA",
+          "posted_at": "2026-01-29T19:31:28.897Z"
         },
         {
-          "id": "t-mobile-software-engineer-intern-frisco",
-          "title": "Software Engineer Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T19:16:11.963Z"
+          "id": "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
+          "title": "Developer Bachelor's Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-01-29T19:31:32.410Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 4,
+      "count": 3,
       "jobs": [
-        "cadence-design-software-intern-austin",
-        "harman-international-intern-web-tools-novi",
-        "askbio-intern-it-ai-team-data-durham",
-        "askbio-intern-data-management-durham"
+        "harman-international-intern-customer-engineering-novi",
+        "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
+        "michelin-intern-monroe"
       ],
       "recent_jobs": [
         {
-          "id": "cadence-design-software-intern-austin",
-          "title": "Software Intern",
-          "company": "Cadence Design Systems",
-          "posted_at": "2026-01-29T19:15:56.466Z"
-        },
-        {
-          "id": "harman-international-intern-web-tools-novi",
-          "title": "Intern - Web Tools",
+          "id": "harman-international-intern-customer-engineering-novi",
+          "title": "Intern - Customer Engineering",
           "company": "HARMAN International",
-          "posted_at": "2026-01-29T19:15:59.773Z"
+          "posted_at": "2026-01-29T19:31:19.990Z"
         },
         {
-          "id": "askbio-intern-it-ai-team-data-durham",
-          "title": "Intern-IT – AI Team - Data",
-          "company": "AskBio",
-          "posted_at": "2026-01-29T19:16:03.206Z"
+          "id": "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
+          "title": "Developer Bachelor's Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-01-29T19:31:34.212Z"
         },
         {
-          "id": "askbio-intern-data-management-durham",
-          "title": "Intern-Data Management",
-          "company": "AskBio",
-          "posted_at": "2026-01-29T19:16:06.664Z"
+          "id": "michelin-intern-monroe",
+          "title": "Intern",
+          "company": "Michelin",
+          "posted_at": "2026-01-29T19:31:48.867Z"
         }
       ]
     },
-    "🌲・pacific-northwest-internships": {
-      "channel_id": "1464304146072207390",
-      "count": 2,
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 3,
       "jobs": [
-        "t-mobile-summer-2026-software-engineering-intern-frisco",
-        "t-mobile-software-engineer-intern-frisco"
+        "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
+        "hilb-benefits-analytics-intern-sparks",
+        "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view"
       ],
       "recent_jobs": [
         {
-          "id": "t-mobile-summer-2026-software-engineering-intern-frisco",
-          "title": "Summer 2026 Software Engineering Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T19:16:10.231Z"
+          "id": "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
+          "title": "KP-SAM Code Development Engineering Intern - Summer 2026",
+          "company": "Kairos Power",
+          "posted_at": "2026-01-29T19:31:23.540Z"
         },
         {
-          "id": "t-mobile-software-engineer-intern-frisco",
-          "title": "Software Engineer Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T19:16:13.841Z"
-        }
-      ]
-    },
-    "🤝・sales-internships": {
-      "channel_id": "1464303236772270122",
-      "count": 1,
-      "jobs": [
-        "goodrx-pricing-strategy-optimization-intern-santa-monica"
-      ],
-      "recent_jobs": [
+          "id": "hilb-benefits-analytics-intern-sparks",
+          "title": "Benefits Analytics Intern",
+          "company": "Hilb Group",
+          "posted_at": "2026-01-29T19:31:27.137Z"
+        },
         {
-          "id": "goodrx-pricing-strategy-optimization-intern-santa-monica",
-          "title": "Pricing Strategy & Optimization Intern",
-          "company": "GoodRx",
-          "posted_at": "2026-01-29T19:16:18.543Z"
+          "id": "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
+          "title": "2026 Intern - Speech Research - Summer/Fall",
+          "company": "Samsung Research America",
+          "posted_at": "2026-01-29T19:31:40.711Z"
         }
       ]
     },
@@ -140,160 +118,125 @@
       "channel_id": "1464304161230295131",
       "count": 1,
       "jobs": [
-        "goodrx-pricing-strategy-optimization-intern-santa-monica"
+        "kla-full-stack-software-intern-milpitas"
       ],
       "recent_jobs": [
         {
-          "id": "goodrx-pricing-strategy-optimization-intern-santa-monica",
-          "title": "Pricing Strategy & Optimization Intern",
-          "company": "GoodRx",
-          "posted_at": "2026-01-29T19:16:20.214Z"
+          "id": "kla-full-stack-software-intern-milpitas",
+          "title": "Full Stack Software Intern",
+          "company": "KLA",
+          "posted_at": "2026-01-29T19:31:30.626Z"
         }
       ]
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 1,
-      "jobs": [
-        "waymo-intern-simulation-mountain-view"
-      ],
-      "recent_jobs": [
-        {
-          "id": "waymo-intern-simulation-mountain-view",
-          "title": "Intern - Simulation",
-          "company": "Waymo",
-          "posted_at": "2026-01-29T19:16:25.009Z"
-        }
-      ]
-    },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
       "count": 2,
       "jobs": [
-        "waymo-intern-simulation-mountain-view",
-        "mcafee-data-science-intern-san-jose"
+        "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
+        "virtua-health-it-data-science-intern-it-data-science-mt-laurel-township"
       ],
       "recent_jobs": [
         {
-          "id": "waymo-intern-simulation-mountain-view",
-          "title": "Intern - Simulation",
-          "company": "Waymo",
-          "posted_at": "2026-01-29T19:16:26.672Z"
+          "id": "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
+          "title": "2026 Intern - Speech Research - Summer/Fall",
+          "company": "Samsung Research America",
+          "posted_at": "2026-01-29T19:31:38.913Z"
         },
         {
-          "id": "mcafee-data-science-intern-san-jose",
-          "title": "Data Science Intern",
-          "company": "McAfee",
-          "posted_at": "2026-01-29T19:16:33.399Z"
+          "id": "virtua-health-it-data-science-intern-it-data-science-mt-laurel-township",
+          "title": "IT Data Science Intern - IT Data Science",
+          "company": "Virtua Health",
+          "posted_at": "2026-01-29T19:31:42.397Z"
         }
       ]
     },
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
+    "📣・marketing-internships": {
+      "channel_id": "1464303312626122855",
       "count": 1,
       "jobs": [
-        "mcafee-data-science-intern-san-jose"
+        "michelin-intern-monroe"
       ],
       "recent_jobs": [
         {
-          "id": "mcafee-data-science-intern-san-jose",
-          "title": "Data Science Intern",
-          "company": "McAfee",
-          "posted_at": "2026-01-29T19:16:31.464Z"
+          "id": "michelin-intern-monroe",
+          "title": "Intern",
+          "company": "Michelin",
+          "posted_at": "2026-01-29T19:31:47.098Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "cadence-design-software-intern-austin",
-      "company": "Cadence Design Systems",
-      "title": "Software Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-29T19:15:54.741Z"
-    },
-    {
-      "job_id": "harman-international-intern-web-tools-novi",
+      "job_id": "harman-international-intern-customer-engineering-novi",
       "company": "HARMAN International",
-      "title": "Intern - Web Tools",
+      "title": "Intern - Customer Engineering",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:15:58.124Z"
+      "posted_at": "2026-01-29T19:31:18.130Z"
     },
     {
-      "job_id": "askbio-intern-it-ai-team-data-durham",
-      "company": "AskBio",
-      "title": "Intern-IT – AI Team - Data",
+      "job_id": "kairos-power-kp-sam-code-development-engineering-intern-summer-2026-alameda",
+      "company": "Kairos Power",
+      "title": "KP-SAM Code Development Engineering Intern - Summer 2026",
       "channels": [
         "💻・tech-internships",
-        "📍・other-usa-internships"
+        "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T19:16:01.424Z"
+      "posted_at": "2026-01-29T19:31:21.688Z"
     },
     {
-      "job_id": "askbio-intern-data-management-durham",
-      "company": "AskBio",
-      "title": "Intern-Data Management",
+      "job_id": "hilb-benefits-analytics-intern-sparks",
+      "company": "Hilb Group",
+      "title": "Benefits Analytics Intern",
       "channels": [
         "💻・tech-internships",
-        "📍・other-usa-internships"
+        "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T19:16:04.923Z"
+      "posted_at": "2026-01-29T19:31:25.438Z"
     },
     {
-      "job_id": "t-mobile-summer-2026-software-engineering-intern-frisco",
-      "company": "T-Mobile",
-      "title": "Summer 2026 Software Engineering Intern",
+      "job_id": "kla-full-stack-software-intern-milpitas",
+      "company": "KLA",
+      "title": "Full Stack Software Intern",
       "channels": [
         "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
-      ],
-      "posted_at": "2026-01-29T19:16:08.510Z"
-    },
-    {
-      "job_id": "t-mobile-software-engineer-intern-frisco",
-      "company": "T-Mobile",
-      "title": "Software Engineer Intern",
-      "channels": [
-        "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
-      ],
-      "posted_at": "2026-01-29T19:16:11.963Z"
-    },
-    {
-      "job_id": "goodrx-pricing-strategy-optimization-intern-santa-monica",
-      "company": "GoodRx",
-      "title": "Pricing Strategy & Optimization Intern",
-      "channels": [
-        "🤝・sales-internships",
         "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-29T19:16:18.543Z"
+      "posted_at": "2026-01-29T19:31:28.897Z"
     },
     {
-      "job_id": "waymo-intern-simulation-mountain-view",
-      "company": "Waymo",
-      "title": "Intern - Simulation",
+      "job_id": "kaiser-permanente-developer-bachelor-s-intern-lake-oswego",
+      "company": "Kaiser Permanente",
+      "title": "Developer Bachelor's Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-29T19:31:32.410Z"
+    },
+    {
+      "job_id": "samsung-research-america-2026-intern-speech-research-summer-fall-mountain-view",
+      "company": "Samsung Research America",
+      "title": "2026 Intern - Speech Research - Summer/Fall",
       "channels": [
         "🤖・ai-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T19:16:25.009Z"
+      "posted_at": "2026-01-29T19:31:38.913Z"
     },
     {
-      "job_id": "mcafee-data-science-intern-san-jose",
-      "company": "McAfee",
-      "title": "Data Science Intern",
+      "job_id": "michelin-intern-monroe",
+      "company": "Michelin",
+      "title": "Intern",
       "channels": [
-        "📊・data-science-internships",
-        "🌉・bay-area-internships"
+        "📣・marketing-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-29T19:16:31.464Z"
+      "posted_at": "2026-01-29T19:31:47.098Z"
     }
   ],
   "failures": [],
