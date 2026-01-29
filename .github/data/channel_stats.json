@@ -1,7 +1,7 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2026-01-29T07:06:21.837Z",
-  "totalPosts": 7294,
+  "lastUpdated": "2026-01-29T07:32:18.006Z",
+  "totalPosts": 7312,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
@@ -120,43 +120,43 @@
     },
     "1464303266866135232": {
       "name": "📊・data-science-internships",
-      "posts": 30,
-      "lastPost": "2026-01-29T07:06:11.769Z"
+      "posts": 32,
+      "lastPost": "2026-01-29T07:32:08.083Z"
     },
     "1464303522177614001": {
       "name": "🏠・remote-usa-internships",
-      "posts": 70,
-      "lastPost": "2026-01-29T07:06:09.879Z"
+      "posts": 71,
+      "lastPost": "2026-01-29T07:32:06.364Z"
     },
     "1464303204178067620": {
       "name": "🤖・ai-internships",
-      "posts": 59,
-      "lastPost": "2026-01-29T07:06:00.628Z"
+      "posts": 63,
+      "lastPost": "2026-01-29T07:31:58.108Z"
     },
     "1464303178286760059": {
       "name": "💻・tech-internships",
-      "posts": 275,
-      "lastPost": "2026-01-29T07:05:45.664Z"
+      "posts": 277,
+      "lastPost": "2026-01-29T07:31:42.454Z"
     },
     "1464303312626122855": {
       "name": "📣・marketing-internships",
-      "posts": 381,
-      "lastPost": "2026-01-29T07:06:21.837Z"
+      "posts": 383,
+      "lastPost": "2026-01-29T07:32:18.006Z"
     },
     "1464304146072207390": {
       "name": "🌲・pacific-northwest-internships",
-      "posts": 11,
-      "lastPost": "2026-01-29T07:05:44.004Z"
+      "posts": 12,
+      "lastPost": "2026-01-29T07:31:40.743Z"
     },
     "1464304182923362324": {
       "name": "📍・other-usa-internships",
-      "posts": 44,
-      "lastPost": "2026-01-29T07:06:13.528Z"
+      "posts": 48,
+      "lastPost": "2026-01-29T07:32:09.804Z"
     },
     "1464303497242742875": {
       "name": "🌉・bay-area-internships",
-      "posts": 22,
-      "lastPost": "2026-01-29T07:06:20.168Z"
+      "posts": 24,
+      "lastPost": "2026-01-29T07:32:16.274Z"
     }
   }
 }
