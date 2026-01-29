@@ -1,82 +1,59 @@
 {
-  "generated": "2026-01-29T20:11:59.568Z",
+  "generated": "2026-01-29T20:28:01.466Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T20:11:59.568Z",
-  "period_end": "2026-01-29T20:11:59.568Z",
+  "period_start": "2026-01-22T20:28:01.466Z",
+  "period_end": "2026-01-29T20:28:01.466Z",
   "summary": {
-    "total_jobs_posted": 11,
+    "total_jobs_posted": 14,
     "unique_jobs": 7,
-    "multi_channel_postings": 8,
-    "unique_multi_channel_jobs": 4,
+    "multi_channel_postings": 14,
+    "unique_multi_channel_jobs": 7,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 7
+    "channels_active": 6
   },
   "by_channel": {
-    "🤝・sales-internships": {
-      "channel_id": "1464303236772270122",
-      "count": 1,
-      "jobs": [
-        "t-mobile-product-development-intern-overland-park"
-      ],
-      "recent_jobs": [
-        {
-          "id": "t-mobile-product-development-intern-overland-park",
-          "title": "Product Development Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T20:11:26.306Z"
-        }
-      ]
-    },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
       "count": 2,
       "jobs": [
-        "t-mobile-summer-2026-software-engineering-internship-frisco",
-        "microsoft-research-intern-ai-systems-and-tools-redmond"
+        "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
+        "kaiser-permanente-process-improvement-master-s-intern-pasadena"
       ],
       "recent_jobs": [
         {
-          "id": "t-mobile-summer-2026-software-engineering-internship-frisco",
-          "title": "Summer 2026 Software Engineering Internship",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T20:11:31.135Z"
+          "id": "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
+          "title": "Application Engineer Bachelor Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-01-29T20:27:25.339Z"
         },
         {
-          "id": "microsoft-research-intern-ai-systems-and-tools-redmond",
-          "title": "Research Intern - AI Systems and Tools",
-          "company": "Microsoft",
-          "posted_at": "2026-01-29T20:11:34.634Z"
+          "id": "kaiser-permanente-process-improvement-master-s-intern-pasadena",
+          "title": "Process Improvement Master's Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-01-29T20:27:28.824Z"
         }
       ]
     },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 1,
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 2,
       "jobs": [
-        "t-mobile-summer-2026-software-engineering-internship-frisco"
+        "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
+        "kaiser-permanente-process-improvement-master-s-intern-pasadena"
       ],
       "recent_jobs": [
         {
-          "id": "t-mobile-summer-2026-software-engineering-internship-frisco",
-          "title": "Summer 2026 Software Engineering Internship",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-29T20:11:32.933Z"
-        }
-      ]
-    },
-    "🌲・pacific-northwest-internships": {
-      "channel_id": "1464304146072207390",
-      "count": 1,
-      "jobs": [
-        "microsoft-research-intern-ai-systems-and-tools-redmond"
-      ],
-      "recent_jobs": [
+          "id": "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
+          "title": "Application Engineer Bachelor Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-01-29T20:27:27.105Z"
+        },
         {
-          "id": "microsoft-research-intern-ai-systems-and-tools-redmond",
-          "title": "Research Intern - AI Systems and Tools",
-          "company": "Microsoft",
-          "posted_at": "2026-01-29T20:11:36.392Z"
+          "id": "kaiser-permanente-process-improvement-master-s-intern-pasadena",
+          "title": "Process Improvement Master's Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-01-29T20:27:30.551Z"
         }
       ]
     },
@@ -84,109 +61,175 @@
       "channel_id": "1464303266866135232",
       "count": 1,
       "jobs": [
-        "cloudflare-talent-analytics-intern-summer-2026-austin"
+        "genentech-2026-summer-intern-product-development-data-science-san-bruno"
       ],
       "recent_jobs": [
         {
-          "id": "cloudflare-talent-analytics-intern-summer-2026-austin",
-          "title": "Talent Analytics Intern - Summer 2026",
-          "company": "Cloudflare",
-          "posted_at": "2026-01-29T20:11:41.098Z"
+          "id": "genentech-2026-summer-intern-product-development-data-science-san-bruno",
+          "title": "2026 Summer Intern - Product Development Data Science",
+          "company": "Genentech",
+          "posted_at": "2026-01-29T20:27:35.400Z"
         }
       ]
     },
     "🌉・bay-area-internships": {
       "channel_id": "1464303497242742875",
-      "count": 2,
+      "count": 3,
       "jobs": [
-        "cloudflare-talent-analytics-intern-summer-2026-austin",
-        "billiontoone-data-science-and-ai-intern-menlo-park"
+        "genentech-2026-summer-intern-product-development-data-science-san-bruno",
+        "d-matrix-machine-learning-research-intern-santa-clara",
+        "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara"
       ],
       "recent_jobs": [
         {
-          "id": "cloudflare-talent-analytics-intern-summer-2026-austin",
-          "title": "Talent Analytics Intern - Summer 2026",
-          "company": "Cloudflare",
-          "posted_at": "2026-01-29T20:11:42.810Z"
+          "id": "genentech-2026-summer-intern-product-development-data-science-san-bruno",
+          "title": "2026 Summer Intern - Product Development Data Science",
+          "company": "Genentech",
+          "posted_at": "2026-01-29T20:27:37.182Z"
         },
         {
-          "id": "billiontoone-data-science-and-ai-intern-menlo-park",
-          "title": "Data Science and AI Intern",
-          "company": "BillionToOne",
-          "posted_at": "2026-01-29T20:11:49.332Z"
+          "id": "d-matrix-machine-learning-research-intern-santa-clara",
+          "title": "Machine Learning Research Intern",
+          "company": "d-Matrix",
+          "posted_at": "2026-01-29T20:27:43.782Z"
+        },
+        {
+          "id": "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara",
+          "title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
+          "company": "NVIDIA",
+          "posted_at": "2026-01-29T20:27:54.794Z"
         }
       ]
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 3,
+      "count": 4,
       "jobs": [
-        "billiontoone-data-science-and-ai-intern-menlo-park",
-        "hntb-data-ai-intern-no-low-code-genai-kansas-city",
-        "micron-technology-intern-etd-software-engineer-boise"
+        "d-matrix-machine-learning-research-intern-santa-clara",
+        "black-box-ai-intern-usa-plano",
+        "microsoft-research-intern-ai-inference-software-systems-boston",
+        "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara"
       ],
       "recent_jobs": [
         {
-          "id": "billiontoone-data-science-and-ai-intern-menlo-park",
-          "title": "Data Science and AI Intern",
-          "company": "BillionToOne",
-          "posted_at": "2026-01-29T20:11:47.599Z"
+          "id": "d-matrix-machine-learning-research-intern-santa-clara",
+          "title": "Machine Learning Research Intern",
+          "company": "d-Matrix",
+          "posted_at": "2026-01-29T20:27:41.929Z"
         },
         {
-          "id": "hntb-data-ai-intern-no-low-code-genai-kansas-city",
-          "title": "Data & AI Intern - No/Low-Code + GenAI",
-          "company": "HNTB",
-          "posted_at": "2026-01-29T20:11:51.188Z"
+          "id": "black-box-ai-intern-usa-plano",
+          "title": "AI Intern USA",
+          "company": "Black Box",
+          "posted_at": "2026-01-29T20:27:45.470Z"
         },
         {
-          "id": "micron-technology-intern-etd-software-engineer-boise",
-          "title": "Intern ETD Software Engineer",
-          "company": "Micron Technology",
-          "posted_at": "2026-01-29T20:11:52.894Z"
+          "id": "microsoft-research-intern-ai-inference-software-systems-boston",
+          "title": "Research Intern - AI Inference Software & Systems",
+          "company": "Microsoft",
+          "posted_at": "2026-01-29T20:27:49.072Z"
+        },
+        {
+          "id": "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara",
+          "title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
+          "company": "NVIDIA",
+          "posted_at": "2026-01-29T20:27:52.720Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 2,
+      "jobs": [
+        "black-box-ai-intern-usa-plano",
+        "microsoft-research-intern-ai-inference-software-systems-boston"
+      ],
+      "recent_jobs": [
+        {
+          "id": "black-box-ai-intern-usa-plano",
+          "title": "AI Intern USA",
+          "company": "Black Box",
+          "posted_at": "2026-01-29T20:27:47.194Z"
+        },
+        {
+          "id": "microsoft-research-intern-ai-inference-software-systems-boston",
+          "title": "Research Intern - AI Inference Software & Systems",
+          "company": "Microsoft",
+          "posted_at": "2026-01-29T20:27:50.879Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "t-mobile-summer-2026-software-engineering-internship-frisco",
-      "company": "T-Mobile",
-      "title": "Summer 2026 Software Engineering Internship",
+      "job_id": "kaiser-permanente-application-engineer-bachelor-intern-pleasanton",
+      "company": "Kaiser Permanente",
+      "title": "Application Engineer Bachelor Intern",
       "channels": [
         "💻・tech-internships",
-        "📍・other-usa-internships"
+        "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-29T20:11:31.135Z"
+      "posted_at": "2026-01-29T20:27:25.339Z"
     },
     {
-      "job_id": "microsoft-research-intern-ai-systems-and-tools-redmond",
-      "company": "Microsoft",
-      "title": "Research Intern - AI Systems and Tools",
+      "job_id": "kaiser-permanente-process-improvement-master-s-intern-pasadena",
+      "company": "Kaiser Permanente",
+      "title": "Process Improvement Master's Intern",
       "channels": [
         "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
+        "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-29T20:11:34.634Z"
+      "posted_at": "2026-01-29T20:27:28.824Z"
     },
     {
-      "job_id": "cloudflare-talent-analytics-intern-summer-2026-austin",
-      "company": "Cloudflare",
-      "title": "Talent Analytics Intern - Summer 2026",
+      "job_id": "genentech-2026-summer-intern-product-development-data-science-san-bruno",
+      "company": "Genentech",
+      "title": "2026 Summer Intern - Product Development Data Science",
       "channels": [
         "📊・data-science-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T20:11:41.098Z"
+      "posted_at": "2026-01-29T20:27:35.400Z"
     },
     {
-      "job_id": "billiontoone-data-science-and-ai-intern-menlo-park",
-      "company": "BillionToOne",
-      "title": "Data Science and AI Intern",
+      "job_id": "d-matrix-machine-learning-research-intern-santa-clara",
+      "company": "d-Matrix",
+      "title": "Machine Learning Research Intern",
       "channels": [
         "🤖・ai-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-29T20:11:47.599Z"
+      "posted_at": "2026-01-29T20:27:41.929Z"
+    },
+    {
+      "job_id": "black-box-ai-intern-usa-plano",
+      "company": "Black Box",
+      "title": "AI Intern USA",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-29T20:27:45.470Z"
+    },
+    {
+      "job_id": "microsoft-research-intern-ai-inference-software-systems-boston",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Inference Software & Systems",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-29T20:27:49.072Z"
+    },
+    {
+      "job_id": "nvidia-technical-program-management-intern-deep-learning-software-summer-2026-santa-clara",
+      "company": "NVIDIA",
+      "title": "Technical Program Management Intern - Deep Learning Software - Summer 2026",
+      "channels": [
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T20:27:52.720Z"
     }
   ],
   "failures": [],
