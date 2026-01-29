@@ -1,17 +1,19 @@
 {
   "date": "2026-01-29",
-  "requests": 5,
-  "remaining": 1,
+  "requests": 6,
+  "remaining": 0,
   "queries_executed": [
     "software engineer intern",
     "data science intern",
     "machine learning intern",
     "product manager intern",
-    "product manager intern"
+    "product manager intern",
+    "software engineer intern"
   ],
   "metrics": {
     "jobs_per_query": {
       "software engineer intern": [
+        10,
         10
       ],
       "data science intern": [
@@ -25,6 +27,6 @@
         10
       ]
     },
-    "total_jobs": 50
+    "total_jobs": 60
   }
 }

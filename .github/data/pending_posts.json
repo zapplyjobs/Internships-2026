@@ -6520,5 +6520,45 @@
     "addedAt": "2026-01-29T04:15:02.150Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Embedded/Firmware Engineer Intern (Summer 2026)",
+      "employer_name": "Block",
+      "job_city": "",
+      "job_state": "California",
+      "job_description": "Block is a company that builds technology to increase access to the global economy. As a Software Engineering Intern, you will work with firmware engineers on Square's Connected Hardware products, contributing to the development, testing, and debugging of embedded software used in Square's hardware ecosystem.\n\nResponsibilities\n• Contribute code to embedded firmware running on resource-constrained devices\n• Help develop and maintain drivers, features, or system components under guidance from senior engineers\n• Learn and apply best practices in embedded software development, including code reviews, documentation, and testing\n• Write and run tests to validate firmware behavior and product features\n• Use debugging tools to investigate and help resolve firmware issues\n• Collaborate with partners such as electrical engineering, manufacturing, and quality teams\n• Gain exposure to communication protocols and hardware/software integration\n\nSkills\n• Currently pursuing a BS or MS in Computer Science, Computer Engineering, Electrical Engineering, or a related field with a graduation date between May 2027 and May 2030\n• Recent bootcamp graduates and engineering training participants are also considered within three months of completing program/training requirements\n• Coursework or project experience in systems programming, embedded systems, or low-level software\n• Experience programming in C or C++ (through coursework, labs, or personal projects)\n• Familiarity with basic software engineering concepts such as version control, modular code, and debugging\n• Microcontrollers, RTOS concepts, or bare-metal programming\n• Communication protocols (e.g. SPI, I2C, UART, and USB)\n\nBenefits\n• Remote work\n• Medical insurance\n• Flexible time off\n• Retirement savings plans\n• Modern family planning\n\nCompany Overview\n• Block is one company built from many blocks, all united by the same purpose of economic empowerment. It was founded in 1990, and is headquartered in Oakland, California, US, with a workforce of 10001+ employees. Its website is https://block.xyz/.\n\nCompany H1B Sponsorship\n• Block has a track record of offering H1B sponsorships, with 257 in 2025, 253 in 2024, 260 in 2023, 297 in 2022. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/697a66b19d60e431a16be423?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-28T19:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "block-embedded-firmware-engineer-intern-summer-2026-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T05:21:24.174Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 – Software Engineer Intern",
+      "employer_name": "SAS",
+      "job_city": "",
+      "job_state": "North Carolina",
+      "job_description": "SAS is a leader in data and AI, inspiring customers to transform data into intelligence. They are seeking a Software Engineer Intern for the summer of 2026, where the intern will work on the development and testing of SAS’s core product functionality, collaborating with product management and participating in agile processes.\n\nResponsibilities\n• Work with Product Management to interpret and design features and new requirements\n• Break down work tasks into manageable pieces and create work tickets that can be used to prioritize your work\n• Participate in the monthly planning process and daily scrum meetings and provide feedback on your work\n• Contribute towards meaningful code implementation which includes development, testing and incorporation into our CI/CD pipeline\n\nSkills\n• Undergraduate student pursuing a degree in Computer Science or Computer Engineering, not graduating prior to December 2026\n• Familiarity with CI/CD principles, software programming languages, and the software development lifecycle\n• You're curious, passionate, authentic, and accountable. These are our values and influence everything we do\n• Strong communication skills – both written and verbal\n• Leadership abilities. Your past experiences demonstrate you'll take initiative and go above and beyond the call of duty\n• You're interested in the future of Analytics and embrace technology\n• Java, Jenkins, git or other source management tools, Jira or another agile tool\n• Problem solving in team environment with good communication skills\n\nBenefits\n• Free SAS programming training and certification.\n• Your well-being matters, and that’s why we support all dimensions of your well-being by offering programs that reduce stress and distractions to help you stay healthy and productive. This includes an on-site and remote Work/Life Center staffed by master’s level Social Workers and an Employee Assistance Program.\n• We work hard, but we like to play hard, too. Enjoy hackathons, social events and other opportunities to connect + engage.\n\nCompany Overview\n• SAS provides advanced business analytics and business intelligent software and services to enable companies to optimize their operations. It was founded in 1976, and is headquartered in Cary, North Carolina, USA, with a workforce of 10001+ employees. Its website is http://www.sas.com.",
+      "job_apply_link": "https://jobright.ai/jobs/info/697aa3e48dbbf73badc7e030?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-28T18:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "sas-summer-2026-software-engineer-intern-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T05:21:24.174Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
