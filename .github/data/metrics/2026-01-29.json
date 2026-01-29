@@ -1,95 +1,330 @@
 {
-  "generated": "2026-01-29T17:59:28.358Z",
+  "generated": "2026-01-29T18:24:15.771Z",
   "period": "last_7_days",
-  "period_start": "2026-01-22T17:59:28.358Z",
-  "period_end": "2026-01-29T17:59:28.358Z",
+  "period_start": "2026-01-22T18:24:15.771Z",
+  "period_end": "2026-01-29T18:24:15.771Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 20,
+    "unique_jobs": 10,
+    "multi_channel_postings": 20,
+    "unique_multi_channel_jobs": 10,
     "failed_postings": 0,
-    "filtered_jobs": 10,
-    "channels_active": 0
+    "filtered_jobs": 0,
+    "channels_active": 8
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 5,
+      "jobs": [
+        "rtx-software-engineering-intern-summer-2026-richardson",
+        "yes-energy-data-systems-intern-boston",
+        "yes-energy-energy-market-analytics-intern-encompass-boulder",
+        "elevance-health-graduate-engineering-intern-atlanta",
+        "energy-northwest-engineering-intern-richland"
+      ],
+      "recent_jobs": [
+        {
+          "id": "rtx-software-engineering-intern-summer-2026-richardson",
+          "title": "Software Engineering Intern - Summer 2026",
+          "company": "RTX",
+          "posted_at": "2026-01-29T18:23:26.572Z"
+        },
+        {
+          "id": "yes-energy-data-systems-intern-boston",
+          "title": "Data Systems Intern",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:29.977Z"
+        },
+        {
+          "id": "yes-energy-energy-market-analytics-intern-encompass-boulder",
+          "title": "Energy Market Analytics Intern - Encompass",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:33.469Z"
+        },
+        {
+          "id": "elevance-health-graduate-engineering-intern-atlanta",
+          "title": "Graduate Engineering Intern",
+          "company": "Elevance Health",
+          "posted_at": "2026-01-29T18:23:36.880Z"
+        },
+        {
+          "id": "energy-northwest-engineering-intern-richland",
+          "title": "Engineering Intern",
+          "company": "Energy Northwest",
+          "posted_at": "2026-01-29T18:23:40.357Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 1,
+      "jobs": [
+        "rtx-software-engineering-intern-summer-2026-richardson"
+      ],
+      "recent_jobs": [
+        {
+          "id": "rtx-software-engineering-intern-summer-2026-richardson",
+          "title": "Software Engineering Intern - Summer 2026",
+          "company": "RTX",
+          "posted_at": "2026-01-29T18:23:28.288Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 4,
+      "jobs": [
+        "yes-energy-data-systems-intern-boston",
+        "yes-energy-energy-market-analytics-intern-encompass-boulder",
+        "yes-energy-analytics-engineer-intern-boulder",
+        "yes-energy-data-engineering-intern-boulder"
+      ],
+      "recent_jobs": [
+        {
+          "id": "yes-energy-data-systems-intern-boston",
+          "title": "Data Systems Intern",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:31.677Z"
+        },
+        {
+          "id": "yes-energy-energy-market-analytics-intern-encompass-boulder",
+          "title": "Energy Market Analytics Intern - Encompass",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:35.179Z"
+        },
+        {
+          "id": "yes-energy-analytics-engineer-intern-boulder",
+          "title": "Analytics Engineer Intern",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:48.739Z"
+        },
+        {
+          "id": "yes-energy-data-engineering-intern-boulder",
+          "title": "Data Engineering Intern",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:52.302Z"
+        }
+      ]
+    },
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 2,
+      "jobs": [
+        "elevance-health-graduate-engineering-intern-atlanta",
+        "hewlett-packard-enterprise-research-associate-intern-milpitas"
+      ],
+      "recent_jobs": [
+        {
+          "id": "elevance-health-graduate-engineering-intern-atlanta",
+          "title": "Graduate Engineering Intern",
+          "company": "Elevance Health",
+          "posted_at": "2026-01-29T18:23:38.580Z"
+        },
+        {
+          "id": "hewlett-packard-enterprise-research-associate-intern-milpitas",
+          "title": "Research Associate Intern",
+          "company": "Hewlett Packard Enterprise",
+          "posted_at": "2026-01-29T18:24:02.486Z"
+        }
+      ]
+    },
+    "🌲・pacific-northwest-internships": {
+      "channel_id": "1464304146072207390",
+      "count": 3,
+      "jobs": [
+        "energy-northwest-engineering-intern-richland",
+        "energy-northwest-data-architecture-intern-richland",
+        "microsoft-research-intern-firmware-security-redmond"
+      ],
+      "recent_jobs": [
+        {
+          "id": "energy-northwest-engineering-intern-richland",
+          "title": "Engineering Intern",
+          "company": "Energy Northwest",
+          "posted_at": "2026-01-29T18:23:42.045Z"
+        },
+        {
+          "id": "energy-northwest-data-architecture-intern-richland",
+          "title": "Data Architecture Intern",
+          "company": "Energy Northwest",
+          "posted_at": "2026-01-29T18:23:55.811Z"
+        },
+        {
+          "id": "microsoft-research-intern-firmware-security-redmond",
+          "title": "Research Intern - Firmware Security",
+          "company": "Microsoft",
+          "posted_at": "2026-01-29T18:24:09.107Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 3,
+      "jobs": [
+        "yes-energy-analytics-engineer-intern-boulder",
+        "yes-energy-data-engineering-intern-boulder",
+        "energy-northwest-data-architecture-intern-richland"
+      ],
+      "recent_jobs": [
+        {
+          "id": "yes-energy-analytics-engineer-intern-boulder",
+          "title": "Analytics Engineer Intern",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:46.886Z"
+        },
+        {
+          "id": "yes-energy-data-engineering-intern-boulder",
+          "title": "Data Engineering Intern",
+          "company": "Yes Energy",
+          "posted_at": "2026-01-29T18:23:50.520Z"
+        },
+        {
+          "id": "energy-northwest-data-architecture-intern-richland",
+          "title": "Data Architecture Intern",
+          "company": "Energy Northwest",
+          "posted_at": "2026-01-29T18:23:54.082Z"
+        }
+      ]
+    },
+    "📣・marketing-internships": {
+      "channel_id": "1464303312626122855",
+      "count": 1,
+      "jobs": [
+        "hewlett-packard-enterprise-research-associate-intern-milpitas"
+      ],
+      "recent_jobs": [
+        {
+          "id": "hewlett-packard-enterprise-research-associate-intern-milpitas",
+          "title": "Research Associate Intern",
+          "company": "Hewlett Packard Enterprise",
+          "posted_at": "2026-01-29T18:24:00.730Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "microsoft-research-intern-firmware-security-redmond"
+      ],
+      "recent_jobs": [
+        {
+          "id": "microsoft-research-intern-firmware-security-redmond",
+          "title": "Research Intern - Firmware Security",
+          "company": "Microsoft",
+          "posted_at": "2026-01-29T18:24:07.297Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "rtx-software-engineering-intern-summer-2026-richardson",
+      "company": "RTX",
+      "title": "Software Engineering Intern - Summer 2026",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:26.572Z"
+    },
+    {
+      "job_id": "yes-energy-data-systems-intern-boston",
+      "company": "Yes Energy",
+      "title": "Data Systems Intern",
+      "channels": [
+        "💻・tech-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:29.977Z"
+    },
+    {
+      "job_id": "yes-energy-energy-market-analytics-intern-encompass-boulder",
+      "company": "Yes Energy",
+      "title": "Energy Market Analytics Intern - Encompass",
+      "channels": [
+        "💻・tech-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:33.469Z"
+    },
+    {
+      "job_id": "elevance-health-graduate-engineering-intern-atlanta",
+      "company": "Elevance Health",
+      "title": "Graduate Engineering Intern",
+      "channels": [
+        "💻・tech-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:36.880Z"
+    },
+    {
+      "job_id": "energy-northwest-engineering-intern-richland",
+      "company": "Energy Northwest",
+      "title": "Engineering Intern",
+      "channels": [
+        "💻・tech-internships",
+        "🌲・pacific-northwest-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:40.357Z"
+    },
+    {
+      "job_id": "yes-energy-analytics-engineer-intern-boulder",
+      "company": "Yes Energy",
+      "title": "Analytics Engineer Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:46.886Z"
+    },
+    {
+      "job_id": "yes-energy-data-engineering-intern-boulder",
+      "company": "Yes Energy",
+      "title": "Data Engineering Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:50.520Z"
+    },
+    {
+      "job_id": "energy-northwest-data-architecture-intern-richland",
+      "company": "Energy Northwest",
+      "title": "Data Architecture Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "🌲・pacific-northwest-internships"
+      ],
+      "posted_at": "2026-01-29T18:23:54.082Z"
+    },
+    {
+      "job_id": "hewlett-packard-enterprise-research-associate-intern-milpitas",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Research Associate Intern",
+      "channels": [
+        "📣・marketing-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-01-29T18:24:00.730Z"
+    },
+    {
+      "job_id": "microsoft-research-intern-firmware-security-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "channels": [
+        "🤖・ai-internships",
+        "🌲・pacific-northwest-internships"
+      ],
+      "posted_at": "2026-01-29T18:24:07.297Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": [
-      {
-        "job_id": "crowdstrike-software-engineer-intern-redmond",
-        "title": "Software Engineer Intern",
-        "company": "Crowdstrike",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:14.199Z"
-      },
-      {
-        "job_id": "rheem-product-engineering-intern-huntsville",
-        "title": "Product Engineering Intern",
-        "company": "Rheem",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:14.199Z"
-      },
-      {
-        "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
-        "title": "Intern Data Science and Artificial Intelligence",
-        "company": "LabCorp",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:17.200Z"
-      },
-      {
-        "job_id": "bread-financial-intern-speech-intelligence-analyst-columbus",
-        "title": "Intern – Speech Intelligence Analyst",
-        "company": "Bread Financial",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:17.200Z"
-      },
-      {
-        "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
-        "title": "Corporate Intern - Digital and Analytics",
-        "company": "Caterpillar Inc.",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:17.201Z"
-      },
-      {
-        "job_id": "sparksoft-intern-columbia",
-        "title": "Intern",
-        "company": "Sparksoft",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:17.201Z"
-      },
-      {
-        "job_id": "adtheorant-data-science-intern-remote-in-usa",
-        "title": "Data Science Intern",
-        "company": "Adtheorant",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:20.203Z"
-      },
-      {
-        "job_id": "copart-data-science-intern-dallas",
-        "title": "Data Science Intern",
-        "company": "Copart",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:20.203Z"
-      },
-      {
-        "job_id": "bread-financial-intern-intelligent-automation-columbus",
-        "title": "Intern – Intelligent Automation",
-        "company": "Bread Financial",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:23.205Z"
-      },
-      {
-        "job_id": "nelnet-intern-pathway-lincoln",
-        "title": "Intern Pathway",
-        "company": "Nelnet",
-        "reason": "already_posted_to_channel",
-        "timestamp": "2026-01-29T17:59:23.205Z"
-      }
-    ]
+    "other": []
   }
 }
