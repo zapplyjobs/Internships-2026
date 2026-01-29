@@ -34882,5 +34882,17 @@
     "job_title": "IT Business Intelligence Intern",
     "company": "Medline",
     "first_seen": "2026-01-29T00:10:37.388Z"
+  },
+  "enterprise-mobility-data-science-intern-brentwood": {
+    "assigned_date": "2026-01-29T02:17:59.768Z",
+    "job_title": "Data Science Intern",
+    "company": "Enterprise Mobility",
+    "first_seen": "2026-01-29T02:17:59.768Z"
+  },
+  "whiting-turner-data-analytics-intern-towson": {
+    "assigned_date": "2026-01-29T02:17:59.768Z",
+    "job_title": "Data Analytics Intern",
+    "company": "Whiting-Turner",
+    "first_seen": "2026-01-29T02:17:59.768Z"
   }
 }

@@ -6267,5 +6267,45 @@
     "addedAt": "2026-01-29T00:10:37.436Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Enterprise Mobility",
+      "job_city": "Brentwood",
+      "job_state": "Missouri",
+      "job_description": "Enterprise Mobility is a leading provider of mobility solutions, and they are seeking a driven and passionate Data Science Intern to join their Summer 2026 Internship Program. The intern will gain hands-on experience building analytical solutions, collaborating with teams, and developing skills in predictive modeling and data analysis.\n\nResponsibilities\n• Support predictive modeling – Assist in data collection, cleaning, and analysis to support predictive modeling and optimization projects\n• Collaborate – Work with cross-functional teams to understand business requirements and contribute to analytical solutions\n• Forecasting– You’ll build your own predictive model, support test out and present your findings to leadership\n• Designing experiments- Assist with designing experiments and analyzing results to inform business decisions\n\nSkills\n• Must be a student enrolled full time for their upcoming final semester in a Master's degree program in a Statistical or Mathematical field (e.g. Engineering, Social Science or Statistics) set to graduate between December 2026 – June 2027\n• Must have experience with predictive models, statistical inference, and/or other forms of quantitative analysis\n• Must have proficiency in R or Python\n• Must have experience using libraries like tensorflow or pytorch\n• Must be a resident of greater St. Louis, Missouri for summer 2026 or be attending a St. Louis based university\n• Must be able to work Monday - Friday, 40 hours per week from May 18th - August 7th 2026\n• Must be 18 years of age or older\n• Must be authorized to work in the United States and not require work authorization sponsorship by our company for this position now or in the future\n• Experience designing experiments\n• Experience exploring and visualizing data\n• Experience using SQL\n• Experience working with data (merging, recording, etc.) from a variety of sources/formats\n• Experience working with observational data to attempt causal inference (e.g. matching, weighting, etc.)\n\nCompany Overview\n• At Enterprise Mobility™ we are paving a new way forward by creating better experiences for how we move. It was founded in 1957, and is headquartered in St Louis, Missouri, USA, with a workforce of 10001+ employees. Its website is http://www.enterpriseholdings.com.",
+      "job_apply_link": "https://jobright.ai/jobs/info/69728235584a1c1ef6fd7d99?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "enterprise-mobility-data-science-intern-brentwood"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T02:17:59.827Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analytics Intern",
+      "employer_name": "Whiting-Turner",
+      "job_city": "Towson",
+      "job_state": "Maryland",
+      "job_description": "DATA ANALYTICS INTERN\n\nINTERNSHIP – Towson, MD\n\nWork Model : In-person\n\nNo Reallocation Assistance\n\nThe Whiting-Turner Contracting Company is an Equal Opportunity Employer, including the disabled and veterans.\n\nJOB DESCRIPTION :\n\nProvides technical support for our BI and Analytics solutions. Aids in all areas of BI & Analytics including troubleshooting, testing, design, analysis and creation. Analyze and assist with new processes and / or analytical improvements. Bridge the gap between end-users, software and fellow analytics team members using popular data analysis tools and databases.\n\nResponsibilities :\n• Troubleshoot and resolve employee inquiries via email and phone\n• Provide insight and training to end-users regarding our analytical tools\n• Analyze, solution, and create custom reporting and analytics requests from various stakeholders\n• Analyze and assist with implementing new enhancements and functionality to our analytical services\n• Work with vendors to troubleshoot issues and enhancements\n• Communicate updates, changes, and issues internally within our analytics group\n• Learn and become knowledgeable on various data sources and databases\n• Learn and become knowledgeable on our analytical tools and platforms\n• Learn and understand Whiting-Turner business processes\n• Supporting initiatives for data integrity and normalization\n• Other duties as assigned\n\nRequired Skills\n• BS in Computer Science, Data Science, Computer Information Systems, or other related major\n• Strong technical, analytical, and problem-solving skills\n• Knowledge of relational databases\n• Knowledge of reporting tools\n• Experienced in MS O365, specifically Outlook, Teams, Word, and Excel\n• Ability to work both independently and as part of a team\n• Ability to effectively multi-task\n• Focus on quality and attention to detail\n• Excellent customer service skills\n• Excellent verbal and written communication skills\n• Ability to review, test and document programming fixes and enhancements\n\nRequired Experience\n• BS in Computer Science, Data Science, Computer Information Systems, or other related major\n• Strong technical, analytical, and problem-solving skills\n• Knowledge of relational databases\n• Knowledge of reporting tools\n• Experienced in MS O365, specifically Outlook, Teams, Word, and Excel\n• Ability to work both independently and as part of a team\n• Ability to effectively multi-task\n• Focus on quality and attention to detail\n• Excellent customer service skills\n• Excellent verbal and written communication skills\n• Ability to review, test and document programming fixes and enhancements",
+      "job_apply_link": "https://www.talent.com/view?id=4ad564b07ab8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "whiting-turner-data-analytics-intern-towson"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-29T02:17:59.827Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
