@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T04:24:46.102Z",
+  "lastUpdated": "2026-01-30T04:59:53.755Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -6288,14 +6288,122 @@
       "job_city": "St Paul",
       "job_state": "Minnesota",
       "job_description": "Apply for R&D Research Algorithm & Data Science Intern 2026 in Saint Paul. Boston Scientific is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "79bbbc70f93ddf56-2026-01-30-1",
+      "jobId": "79bbbc70f93ddf56",
+      "company": "SPA",
+      "title": "Data Science Intern Jobs",
+      "postedToDiscord": "2026-01-30T04:59:33.913Z",
+      "sourceDate": "2026-01-24T00:00:00.000Z",
+      "sourceUrl": "https://www.clearancejobs.com/jobs/8721030/data-science-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466659079291404437",
+          "channelType": "category",
+          "postedAt": "2026-01-30T04:59:33.913Z",
+          "channelJobNumber": 27
+        },
+        "1464304182923362324": {
+          "messageId": "1466659086719521034",
+          "channelType": "location",
+          "postedAt": "2026-01-30T04:59:35.705Z",
+          "channelJobNumber": 52
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Vienna",
+      "job_state": "Virginia",
+      "job_description": "<strong>Overview</strong><br><br>Systems Planning and Analysis, Inc. (SPA) delivers high-impact, technical solutions to complex national security issues. With over 50 years of business expertise and consistent growth, we are known for continuous innovation for our government customers, in both the US and abroad. Our exceptionally talented team is highly collaborative in spirit and practice, producing Results that Matter. Come work with the best! We offer opportunity, unique challenges, and clear-sighted commitment to the mission. SPA: Objective. Responsive. Trusted. <br><br>The Joint, Office of the Secretary of Defense, Interagency Division provides expert support services to a range of customers spanning across the Department of Defense, Federal Civilian, and international markets. JOID provides a diverse portfolio of analytical and programmatic capabilities to help our customers make informed decisions on their most challenging issues. <br><br>Group W provides wargaming, warfare modeling and simulation, software development, data analytics, and operations research/system analysis support to the national security mission. As a leader in the fields of campaign, mission, and wargaming analysis we embrace the cycle of research paradigm, continually seeking to improve the multi-method application of tools, data, methods, and techniques to generate credible and resilient insights to inform decisions on the Department's most challenging issues spanning CONOPs, acquisitions, force structures, tactics, and strategies. Group W is the developer and maintainer of the Synthetic Theater Operations Research Model (STORM), the authoritative M&S tool accepted by the Joint Analytic Community for analysis of theater-level, multi-domain, joint warfare. Similarly, we developed and manage the Standard Wargame Integration and Facilitation Tool (SWIFT) for OSW as an adaptable environment to support joint force combatants' wargaming requirements. <br><br>We have a near-term need for a Data Science Intern to provide onsite support out of Vienna, VA. <br> <br><strong>Responsibilities </strong><br><br>SPA seeks a passionate, versatile, data science minded summer intern to join a high-performance team working to address some of the most critical issues facing the DoW today. The Data Science Team will work with the Intern to define a project aligned with their interests but intended to enhance their data science skills and capabilities. The Data Science Intern will get hands-on experience with advanced data science techniques and tools, git & GitLab for version control, Docker & Kubernetes for cloud-native deployment, MS Azure for cloud infrastructure, and Python and JavaScript for source code. Projects could include t raining/tuning a semantic search engine model to provide better responses to specific subject matter inquiries (e.g. DoW, campaign modeling); g eospatial analysis and visualization of campaign modeling and simulation model outputs; d eveloping an analytic model that predicts simulation model outcomes or identifies anomalies during a simulation model run; and AI application that can generate a response of potential courses of action an adversary may undertake given a user-provided scenario or current event. <br><ul><li> Applications can be submitted and will be reviewed on a rolling basis through January 2026. </li><li> Interviews will be scheduled on a rolling basis through February 2026. </li><li> Offers/decisions will be extended on a rolling basis following interviews. </li><li> Internship term will run from approximately late May or early June through August-though flexibility based on class schedule is possible. </li></ul> <br><strong>Qualifications</strong><br><br><strong>Required:</strong> <br><ul><li> Currently pursuing a Bachelor's or Master's degree in an applied science or quantitative related field such as data science, mathematics, physics, computer science, statistics, or operations research </li><li> Excellent written and oral communication skills, demonstrated multitasking skills, and the ability to work effectively in a multidisciplinary team </li><li> Interest in applying quantitative and analytic skills in support of national defense </li><li> U.S. Citizen with the ability to obtain a DoW Top Secret clearance </li><li> Able to work fully onsite </li></ul><br> <strong>Desired:</strong> <br><ul><li> Coursework or projects that relate to requirement definition and problem solving </li><li> Passion for building tools that help people understand, analyze, and visualize complex data sets </li><li> Academic coursework, experience, or research with one or more of the following: Python, Java, R, SQL, PL/SQL, C++ </li><li> Ability to create meaningful visualizations from data </li><li> Active DoW Secret clearance or higher </li></ul><ul></ul>"
+    },
+    {
+      "id": "cbc0607b9044eba9-2026-01-30-1",
+      "jobId": "cbc0607b9044eba9",
+      "company": "Cvent",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-30T04:59:37.407Z",
+      "sourceDate": "2026-01-17T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=d43e8102b37b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466659094340309022",
+          "channelType": "category",
+          "postedAt": "2026-01-30T04:59:37.407Z",
+          "channelJobNumber": 28
+        },
+        "1464304182923362324": {
+          "messageId": "1466659101445455964",
+          "channelType": "location",
+          "postedAt": "2026-01-30T04:59:39.083Z",
+          "channelJobNumber": 53
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Tysons",
+      "job_state": "Virginia",
+      "job_description": "Apply for Data Science Intern in Tysons. Cvent is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "8b3f6a3b4094dfa9-2026-01-30-1",
+      "jobId": "8b3f6a3b4094dfa9",
+      "company": "Magna International",
+      "title": "Data Science Intern- Summer 2026",
+      "postedToDiscord": "2026-01-30T04:59:44.024Z",
+      "sourceDate": "2026-01-17T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/696a69df350cf4380311536e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466659121431314588",
+          "channelType": "category",
+          "postedAt": "2026-01-30T04:59:44.024Z",
+          "channelJobNumber": 44
+        },
+        "1464304182923362324": {
+          "messageId": "1466659129031397479",
+          "channelType": "location",
+          "postedAt": "2026-01-30T04:59:45.778Z",
+          "channelJobNumber": 54
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Troy",
+      "job_state": "Michigan",
+      "job_description": "Data Science Intern- Summer 2026 jobs in United StatesOverviewCompanyThis job has closed.APPLY to similar jobsMagna International · 1 week agoData Science Intern- Summer 2026Troy, Michigan, USInternshipOnsiteInternStart in 2026 SummerMagna International is a mobility technology company focused on advancing automotive technologies. They are seeking a motivated intern to assist with data analysis, machine learning pipelines, and software solution development.AutomotiveIndustrial EngineeringManufacturingH1B Sponsor LikelyResponsibilitiesPerform and present data analysis results based on requests of supervisorsCreate data/machine learning pipeline in one of the popular cloud platformsParticipate in development and improvement of a software solutionTest and evaluate the developed solutionsQualificationPythonC++Machine LearningDeep LearningCloud PlatformsTechnical SkillsAnalytical SkillsProfessional CommunicationMicrosoft OfficeRequiredGraduate student (Ph.D. preferred) of mechanical engineering, electrical engineering, or computer engineering/science, or equivalent engineering, math or science disciplineStrong Python and C++ programming experience is requiredStrong technical and analytical skillsAbility to work on complex engineering systems with creative waysProficient in Microsoft Office Products (Excel, Word, Power Point)Professional Communication skills (written and verbal)PreferredFamiliarity with Deep Learning (TensorFlow or PyTorch) and Cloud Platforms preferredExperience with software development process preferredExperience in computer vision tasks like image classification, object detection, or semantic segmentation, 3D reconstruction is a plusCurrently attending University, preferably a graduate studentCompanyMagna InternationalGlassdoor3.8Magna International is a mobility tech company and auto supplier that engages in body exteriors, structures, power, vision, and seating.Founded in 1957Aurora, Ontario, CAN10001+ employeeshttp://www.magna.com/H1B SponsorshipMagna International has a track record of offering H1B sponsorships. Please note that this does not guarantee sponsorship for this specific role. Below presents additional info for your reference. (Data Powered by US Department of Labor)Distribution of Different Job Fields Receiving SponsorshipRepresents job field similar to this jobTrends of Total Sponsorships2025 (2)2024 (3)2021 (1)FundingCurrent StagePublic CompanyTotal Funding$1.79B2025-05-14Post Ipo Debt· $1.04B2024-05-27Post Ipo Debt· $330.18M2024-03-05Post Ipo Debt· $400MLeadership TeamPhilip FracassaEVP & Chief Financial OfficerJorg MeinrichPurchasing DirectorRecent NewsGlobeNewswireMagna to Offer DRIVE Hyperion-Compatible ECUs and Tier-1 Integration Services for NVIDIA DRIVE AV2026-01-06Investing.comTop 5 Autopart OEM Stocks WarrenAI Says to Watch: Visteon Leads the Pack2025-12-13Magna International Inc.GAC Accelerates European EV Strategy with Magna Vehicle Assembly Program2025-11-21Company data provided by crunchbaseBoost Your Interview ChancesImprove Resume Match ScoreFREE?Your ScoreTop ApplicantsMust-Have Skills for This RolePythonC++Machine LearningDeep LearningCloud PlatformsOptimize my ResumeGet Referral Via linkedIn FREE3× Higher Response via Email OutreachRRobert K.Senior Data Scientist - Corporate R&DSSayali A.Data Science EngineerDraft Message to ConnectApply Faster with Autofill PluginFREEApply With Autofill"
+    },
+    {
+      "id": "f5a183a8ee5f2dbe-2026-01-30-1",
+      "jobId": "f5a183a8ee5f2dbe",
+      "company": "Infineon Technologies",
+      "title": "Internship - Data Science",
+      "postedToDiscord": "2026-01-30T04:59:47.493Z",
+      "sourceDate": "2026-01-20T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466659136610762964",
+          "channelType": "category",
+          "postedAt": "2026-01-30T04:59:47.493Z",
+          "channelJobNumber": 45
+        },
+        "1464304146072207390": {
+          "messageId": "1466659143854329906",
+          "channelType": "location",
+          "postedAt": "2026-01-30T04:59:49.225Z",
+          "channelJobNumber": 12
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Lexington",
+      "job_state": "Kentucky",
+      "job_description": "<p>Infineon Technologies is a global leader in semiconductor solutions, focusing on innovation and customer success in power systems and IoT. They are seeking an intern in Data Science to perform data analysis, build machine learning models, and collaborate with engineering teams to improve data architecture.</p><br><p>Responsibilities</p><ul><li>Data Analysis: Interpret and analyze structured and unstructured data using statistical methods</li><li>Data Preparation: Clean, transform, and organize large datasets for analysis</li><li>Personalization Modeling: Build machine learning models to optimize customer web journeys</li><li>Tag Management: Assess data collection processes via web tag managers and recommend improvements</li><li>Experimentation: Conduct and analyze A/B tests to identify actionable insights</li><li>KPI Optimization: Apply statistical tools and ML techniques to improve DCI team metrics</li><li>Collaboration: Work with engineering teams to define long-term data architecture strategies</li></ul><br><p>Skills</p><ul><li>Currently pursuing Bachelor's or Master's in Computer Science, Mathematics, or Statistics</li><li>Strong knowledge of Python, Java, and SQL</li><li>Experience with Tableau or other data visualization platforms</li><li>Familiarity with model development and evaluation</li><li>Proficient in hypothesis testing and exploratory data analysis</li><li>Able to work with both structured and unstructured datasets</li><li>Comfortable working with cross-functional teams</li></ul><br><p>Benefits</p><ul><li>All employees will be eligible to participate in an incentive plan</li></ul><br><p>Company Overview</p><li>Infineon Technologies offers semiconductor solutions, microcontrollers, LED drivers, sensors and Automotive & Power Management ICs. It was founded in 1999, and is headquartered in Neubiberg, Bayern, DEU, with a workforce of 10001+ employees. Its website is https://www.infineon.com.</li><br>"
     }
   ],
   "metadata": {
-    "totalJobs": 362,
+    "totalJobs": 366,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T04:24:46.102Z",
+      "date": "2026-01-30T04:59:53.755Z",
       "archived": 0
     }
   }
