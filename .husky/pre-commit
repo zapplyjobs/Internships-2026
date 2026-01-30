@@ -1,4 +1,32 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+# Schema validation for posted_jobs.json
+if git diff --cached --name-only | grep -q "posted_jobs.json" ; then
+  echo "Validating posted_jobs.json schema..."
+  if ! node .github/scripts/schema-validator.js ; then
+    echo ""
+    echo "❌ COMMIT BLOCKED: Schema validation failed"
+    echo "   Fix missing or invalid fields in posted_jobs.json"
+    echo ""
+    echo "   Override (NOT recommended): git commit --no-verify"
+    echo ""
+    exit 1
+  fi
+fi
+
+# Cron syntax validation for workflows
+if git diff --cached --name-only | grep -q ".github/workflows/" ; then
+  echo "Validating workflow cron schedules..."
+  if ! node .github/scripts/cron-validator.js ; then
+    echo ""
+    echo "❌ COMMIT BLOCKED: Cron validation failed"
+    echo "   Fix invalid cron schedules in workflow files"
+    echo ""
+    echo "   Override (NOT recommended): git commit --no-verify"
+    echo ""
+    exit 1
+  fi
+fi
+
 npx lint-staged
