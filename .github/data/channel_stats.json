@@ -1,7 +1,7 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2026-01-30T06:35:18.961Z",
-  "totalPosts": 7999,
+  "lastUpdated": "2026-01-30T07:32:11.583Z",
+  "totalPosts": 8003,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
@@ -135,8 +135,8 @@
     },
     "1464303178286760059": {
       "name": "💻・tech-internships",
-      "posts": 390,
-      "lastPost": "2026-01-30T06:16:54.196Z"
+      "posts": 391,
+      "lastPost": "2026-01-30T07:32:09.809Z"
     },
     "1464303312626122855": {
       "name": "📣・marketing-internships",
@@ -150,13 +150,13 @@
     },
     "1464304182923362324": {
       "name": "📍・other-usa-internships",
-      "posts": 192,
-      "lastPost": "2026-01-30T06:35:18.961Z"
+      "posts": 193,
+      "lastPost": "2026-01-30T07:32:05.076Z"
     },
     "1464303497242742875": {
       "name": "🌉・bay-area-internships",
-      "posts": 105,
-      "lastPost": "2026-01-30T05:28:40.121Z"
+      "posts": 106,
+      "lastPost": "2026-01-30T07:32:11.583Z"
     },
     "1464304161230295131": {
       "name": "🌴・socal-internships",
@@ -170,8 +170,8 @@
     },
     "1464303236772270122": {
       "name": "🤝・sales-internships",
-      "posts": 2,
-      "lastPost": "2026-01-29T20:11:26.293Z"
+      "posts": 3,
+      "lastPost": "2026-01-30T07:32:03.401Z"
     }
   }
 }
