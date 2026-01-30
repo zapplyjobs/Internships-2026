@@ -173,6 +173,9 @@ function buildChannelMapping() {
  * Get channel name from ID
  */
 function getChannelName(channelId, mapping) {
+  if (!channelId) {
+    return 'channel-unknown';
+  }
   return mapping[channelId] || `channel-${channelId.substring(0, 8)}`;
 }
 
