@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T11:42:35.059Z",
+  "lastUpdated": "2026-01-30T11:54:35.945Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -7125,14 +7125,41 @@
       "job_city": "Cambridge",
       "job_state": "MA",
       "job_description": "Join Anywhere in this exciting opportunity."
+    },
+    {
+      "id": "7377b9f18f0cd40f-2026-01-30-1",
+      "jobId": "7377b9f18f0cd40f",
+      "company": "Genentech",
+      "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
+      "postedToDiscord": "2026-01-30T11:54:29.695Z",
+      "sourceDate": "2026-01-27T23:23:20.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Clinical-Pharmacology---Real-World-Treatment-Trajectory-Modeling_202601-101504",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466763499375034421",
+          "channelType": "category",
+          "postedAt": "2026-01-30T11:54:29.695Z",
+          "channelJobNumber": 57
+        },
+        "1464303497242742875": {
+          "messageId": "1466763507323109490",
+          "channelType": "location",
+          "postedAt": "2026-01-30T11:54:31.414Z",
+          "channelJobNumber": 41
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "2026 Summer Intern - Clinical Pharmacology - Real-World Treatment Trajectory ModelingDepartment SummaryClinical Pharmacology is a dynamic function that plays a critical role in supporting drug development teams and in optimizing the dosing regimen for patients. Utilizing our expertise in pharmacokinetics and pharmacodynamics, Clinical Pharmacologists contribute at every stage of development, applying quantitative pharmacology principles across a molecule's life-cycle for both small molecules, biologics, and novel treatment modalities. The Clinical Pharmacology department is instrumental in shaping future treatments and ensuring they are both safe and effective.This internship position is located in South San Francisco, on-site. The OpportunityData Engineering & Cohort Definition: Develop claims-based cohort definitions to extract dispensing patterns, dose levels, and patient characteristics (e.g., body weight, adverse events) from large-scale U.S. insurance claims and/or electronic health record datasets.Exploratory Data Analysis: Conduct longitudinal analysis to visualize dose trajectories, quantify medication attrition, and identify switching rates using R or Python.Advanced Trajectory Modeling: Implement Latent Class Analysis (LCA) and Group-Based Trajectory Modeling (GBTM) to identify distinct patient subgroups and treatment adherence patterns.Predictive Analytics: Explore the feasibility of machine learning approaches (e.g., NCDEs) to predict future treatment trajectories based on baseline patient characteristics.Scientific Communication: Synthesize technical findings into clinical insights and deliver a codebase and final report/presentation to the Clinical Pharmacology and Modeling & Simulation teams.Program HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internship.Program start date is in May/June 2026.A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You Are (Required) Required Education: You meet one of the following criteria:Must be pursuing a Bachelor's Degree (enrolled student).Must have attained a Bachelor's Degree.Must be pursuing a Master's Degree (enrolled student).Must have attained a Master's Degree.Must be pursuing a PhD (enrolled student).Required Majors: Data science, Biostatistics, Bioinformatics, Pharmacometrics, or related quantitative fields.Required Skills: Proficiency in R or Python programming for data manipulation and statistical analysis.Strong analytical thinking and the ability to translate complex technical findings into actionable clinical insights.Preferred Knowledge, Skills, and QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Experience working with Real-World Data (RWD) such as insurance claims or EHR-linked datasets.Familiarity with longitudinal modeling techniques (LCA, GBTM) or Machine Learning libraries (e.g., scikit-learn, PyTorch).Basic understanding of Pharmacometrics principles or Clinical Pharmacology.Experience with version control (Git) and creating reproducible research frameworks.Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of California is $45.00 - $50.00 hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants."
     }
   ],
   "metadata": {
-    "totalJobs": 393,
+    "totalJobs": 394,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T11:42:35.059Z",
+      "date": "2026-01-30T11:54:35.945Z",
       "archived": 0
     }
   }
