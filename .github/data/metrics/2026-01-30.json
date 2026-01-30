@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-30T11:42:37.234Z",
+  "generated": "2026-01-30T11:54:38.122Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T11:42:37.234Z",
-  "period_end": "2026-01-30T11:42:37.234Z",
+  "period_start": "2026-01-23T11:54:38.122Z",
+  "period_end": "2026-01-30T11:54:38.122Z",
   "summary": {
     "total_jobs_posted": 2,
     "unique_jobs": 1,
@@ -13,47 +13,47 @@
     "channels_active": 2
   },
   "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
       "count": 1,
       "jobs": [
-        "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge"
+        "genentech-intern-clinical-pharmacology-real-world-treatment-trajectory-modeling-san-bruno"
       ],
       "recent_jobs": [
         {
-          "id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge",
-          "title": "AI Foundations – Research Internship: 2026 - Research Scientist",
-          "company": "Anywhere",
-          "posted_at": "2026-01-30T11:42:28.772Z"
+          "id": "genentech-intern-clinical-pharmacology-real-world-treatment-trajectory-modeling-san-bruno",
+          "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
+          "company": "Genentech",
+          "posted_at": "2026-01-30T11:54:29.721Z"
         }
       ]
     },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
       "count": 1,
       "jobs": [
-        "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge"
+        "genentech-intern-clinical-pharmacology-real-world-treatment-trajectory-modeling-san-bruno"
       ],
       "recent_jobs": [
         {
-          "id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge",
-          "title": "AI Foundations – Research Internship: 2026 - Research Scientist",
-          "company": "Anywhere",
-          "posted_at": "2026-01-30T11:42:30.544Z"
+          "id": "genentech-intern-clinical-pharmacology-real-world-treatment-trajectory-modeling-san-bruno",
+          "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
+          "company": "Genentech",
+          "posted_at": "2026-01-30T11:54:31.431Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge",
-      "company": "Anywhere",
-      "title": "AI Foundations – Research Internship: 2026 - Research Scientist",
+      "job_id": "genentech-intern-clinical-pharmacology-real-world-treatment-trajectory-modeling-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
       "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-30T11:42:28.772Z"
+      "posted_at": "2026-01-30T11:54:29.721Z"
     }
   ],
   "failures": [],
@@ -67,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.507Z"
+        "timestamp": "2026-01-30T11:54:29.137Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.507Z"
+        "timestamp": "2026-01-30T11:54:29.137Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.508Z"
+        "timestamp": "2026-01-30T11:54:29.137Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.508Z"
+        "timestamp": "2026-01-30T11:54:29.137Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.508Z"
+        "timestamp": "2026-01-30T11:54:29.138Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.508Z"
+        "timestamp": "2026-01-30T11:54:29.138Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.509Z"
+        "timestamp": "2026-01-30T11:54:29.138Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.509Z"
+        "timestamp": "2026-01-30T11:54:29.138Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.509Z"
+        "timestamp": "2026-01-30T11:54:29.138Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:42:28.509Z"
+        "timestamp": "2026-01-30T11:54:29.139Z"
       }
     ]
   }
