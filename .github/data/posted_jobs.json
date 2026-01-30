@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T01:36:25.362Z",
+  "lastUpdated": "2026-01-30T02:40:16.055Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -5889,14 +5889,176 @@
       "job_city": "Remote in USA",
       "job_state": "Locations",
       "job_description": "About Us Abacus Insights is changing the way healthcare works for you. We’re on a mission to unlock the power of data so health plans can enable the right care at the right time—making life better for millions of people. No more data silos, no more inefficiencies. Just smarter care, lower costs, and better experiences. Backed by $100M from top VCs, we’re tackling big challenges in an industry that’s ready for change. And while GenAI is still new for many, we’ve already mastered turning complex healthcare data into clear, actionable insights. That’s our superpower—and it’s why we’re leading the way. Abacus, innovation starts with people. We’re bold, curious, and collaborative—because the best ideas come from working together. Ready to make an impact? Join us and let's build the future, together.About the Role We are seeking a Data Operations Engineer Intern to join our TechOps organization within the Connector Factory team. This role provides hands-on experience supporting production grade data pipelines responsible for ingesting, transforming, validating, and delivering healthcare data from numerous external sources. As an intern, you will work closely with senior data, platform, and operations engineers to monitor pipeline health, debug data and system issues, automate operational workflows, and improve data reliability. You will gain exposure to both batch and streaming architectures and learn how modern data platforms are deployed and operated using AWS services such as Lambda, EMR, EKS, and Databricks. Your day to day: Monitor production data pipelines and systems, identifying failures, latency issues, schema changes, and data quality anomalies. Debug pipeline failures by analyzing logs, metrics, SQL outputs, and upstream/downstream dependencies. Assist in root cause analysis (RCA) for data incidents and contribute to implementing corrective and preventive solutions. Support the maintenance and optimization of ETL/ELT workflows to improve reliability, scalability, and performance. Automate recurring data operations tasks using Python, shell scripting, or similar tools to reduce manual intervention. Assist with data mapping, transformation, and normalization efforts, including alignment with Master Data Management (MDM) systems. Collaborate on the generation and validation of synthetic test datasets for pipeline testing and data quality validation. Shadow senior engineers to deploy, monitor, and troubleshoot data workflows on AWS, Databricks, and Kubernetes-based environments. Ensure data integrity and consistency across multiple environments (development, staging, production). Clearly document bugs, data issues, and operational incidents in Jira and Confluence, including reproduction steps, impact analysis, and resolution details. Communicate effectively with cross-functional, onsite, and offshore teams to escalate issues, provide status updates, and track resolutions. Participate in Agile ceremonies and follow structured incident and change management processes What you bring to the team: Strong interest in data engineering, data operations, and production data systems. Currently pursuing or recently completed a Master’s degree in Computer Science, Data Science, Engineering, Statistics, or a related quantitative discipline. Solid understanding of ETL/ELT architectures, including ingestion, transformation, validation, orchestration, and error handling. Proficiency in SQL, including complex joins, aggregations, window functions, and debugging data discrepancies at scale. Working knowledge of Python for data processing, automation, and operational tooling. Familiarity with workflow orchestration tools such as Apache Airflow, including DAG design, scheduling, retries, and dependency management. Experience or exposure to data integration platforms such as Airbyte, including connector-based ingestion, schema evolution, and sync monitoring. Understanding of Master Data Management (MDM) concepts and tools, with exposure to platforms such as Rhapsody, Onyx, or other enterprise MDM solutions. Knowledge of data pipeline observability, including log analysis, metrics, alerting, and debugging failed jobs. Exposure to cloud platforms (preferably AWS), with familiarity in services such as S3, Lambda, EMR, EKS, or managed data processing services. Ability to communicate technical issues clearly and concisely, including writing actionable bug reports and collaborating on incident resolution. Strong documentation habits and attention to detail in operational workflows. What we would like to see, but not required: Experience with cloud data warehouses such as Snowflake or BigQuery. Familiarity with Databricks, Apache Spark, or distributed data processing frameworks. Hands-on experience building automation for data operations or reliability engineering. Exposure to healthcare data standards, regulated data environments, or HIPAA-compliant systems. Compensation: Compensation for this role is based on experience, skills, and location, and includes base salary plus eligibility for performance bonuses and equity grants. What you’ll get in return: Unlimited paid time off – recharge when you need it Work from anywhere – flexibility to fit your life Comprehensive health coverage – multiple plan options to choose from Equity for every employee – share in our success Growth-focused environment – your development matters here Home office setup allowance – one-time support to get you started Monthly cell phone allowance – stay connected with ease #LI-RF1 #LI-Remote Our Commitment as an Equal Opportunity Employer As a mission-led technology company helping to drive better healthcare outcomes, Abacus Insights believes that the best innovation and value we can bring to our customers comes from diverse ideas, thoughts, experiences, and perspectives. Therefore, we dedicate resources to building diverse teams and providing equal employment opportunities to all applicants. Abacus prohibits discrimination and harassment regarding race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. At the heart of who we are is a commitment to continuously and intentionally building an inclusive culture—one that empowers every team member across the globe to do their best work and bring their authentic selves. We carry that same commitment into our hiring process, aiming to create an interview experience where you feel comfortable and confident showcasing your strengths. If there’s anything we can do to support that—big or small—please let us know."
+    },
+    {
+      "id": "8b236b121a6ab49c-2026-01-30-1",
+      "jobId": "8b236b121a6ab49c",
+      "company": "SAS",
+      "title": "Summer 2026 - Full Stack Software Developer Intern (Health and Life Science)",
+      "postedToDiscord": "2026-01-30T02:39:45.514Z",
+      "sourceDate": "2026-01-29T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/697ac387f6fc293b0a2cbdca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466623895531688021",
+          "channelType": "category",
+          "postedAt": "2026-01-30T02:39:45.514Z",
+          "channelJobNumber": 40
+        },
+        "1464304182923362324": {
+          "messageId": "1466623903219847414",
+          "channelType": "location",
+          "postedAt": "2026-01-30T02:39:47.241Z",
+          "channelJobNumber": 44
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": null,
+      "job_state": "North Carolina",
+      "job_description": "<p>SAS is a leader in data and AI, inspiring customers worldwide to transform data into intelligence. They are seeking a Full Stack Software Developer Intern to join their Health and Life Science team, responsible for developing advanced analytics products and solutions that impact clinical research and patient outcomes.</p><br><p>Responsibilities</p><ul><li>Developing Generative AI applications using Python, Docker, Kubernetes, and Agentic AI frameworks</li><li>Building full-stack solutions, including React-based user interfaces and backend APIs developed in Golang or Java</li><li>Writing complex SQL and working closely with cross-functional SAS teams to deliver multi-team, enterprise-scale projects</li><li>Continuously learning and adopting the latest technological advancements, and applying those insights to enhance day-to-day development work</li></ul><br><p>Skills</p><ul><li>Degree Type: Bachelor</li><li>Targeted majors: Computer Science OR Artificial Intelligence</li><li>You're a college student enrolled in an accredited program, not graduating prior to December 2026</li><li>Full Stack Development, Generative AI – RAG, and Machine Learning skills</li><li>Python, React, Docker, Java, SQL, PLSQL, Agentic AI Development using Azure/Google agentic development frameworks</li><li>You're curious, passionate, authentic, and accountable. These are our values and influence everything we do</li><li>Strong communication skills – both written and verbal</li><li>Leadership abilities. Your past experiences demonstrate you'll take initiative and go above and beyond the call of duty</li><li>You're interested in the future of Analytics and embrace technology</li><li>GO, Java, React, Python</li><li>Demonstrates strong communication, excels in collaborating across multiple teams, and consistently shows a proactive, go-getter mindset</li></ul><br><p>Benefits</p><ul><li>Free SAS programming training and certification.</li><li>Flexible work is the norm.</li><li>Hackathons, social events and other opportunities to connect + engage.</li><li>Programs that reduce stress and distractions to help you stay healthy and productive.</li><li>An on-site and remote Work/Life Center staffed by master’s level social workers and an Employee Assistance Program.</li></ul><br><p>Company Overview</p><li>SAS provides advanced business analytics and business intelligent software and services to enable companies to optimize their operations. It was founded in 1976, and is headquartered in Cary, North Carolina, USA, with a workforce of 10001+ employees. Its website is http://www.sas.com.</li><br>"
+    },
+    {
+      "id": "d24fe76924797825-2026-01-30-1",
+      "jobId": "d24fe76924797825",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Software Engineering Internship",
+      "postedToDiscord": "2026-01-30T02:39:52.055Z",
+      "sourceDate": "2026-01-30T00:00:34.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ343685",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466623923428003996",
+          "channelType": "category",
+          "postedAt": "2026-01-30T02:39:52.055Z",
+          "channelJobNumber": 67
+        },
+        "1464304146072207390": {
+          "messageId": "1466623931023626250",
+          "channelType": "location",
+          "postedAt": "2026-01-30T02:39:53.893Z",
+          "channelJobNumber": 9
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Overland Park",
+      "job_state": "KS",
+      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop! Get hands-on experience, training—and a leg up on a bright future. Learn. Achieve. Build a career. T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way! This is an 11-week paid learning experience during which you’ll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. You’ll contribute your creativity and outstanding ideas, while working alongside T-Mobile employees. We’ll give you hands-on projects and the chance to create an immediate impact. What It's Like Our software engineers develop a wide variety of technologies that change how millions of users connect and interact with one another. As an Intern, you will work in small teams to tackle problems as we continue to push technology forward. You will have the opportunity to be a part of team who will impact the customer experience, design, architecture, and implementation of a cutting-edge mobile product used every day, by people you know. What You'll Do Build new features on T-Mobile.com focused on bringing world-class Customer Experience. Work on T-Mobile Security &amp; Stability Initiatives. Key Responsibilities Work with JavaScript and/or Typescript and other web technologies to deliver a performant, scalable, and responsive platform Build web applications that integrate seamlessly with existing architecture. What It Takes Proficient understanding of code versioning tools, such as Git. Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations. Academic or web development experience using JavaScript Good understanding of HTML/CSS and W3C standards Knowledge of RESTful web services and networking Experience with building responsive application interfaces Able to write maintainable and functionally tested modules preferred At least 18 years of age Legally authorized to work in the United States Must be actively enrolled in a Bachelors or Graduate degree program Employees of T-Mobile or Metro by T-Mobile are ineligible for Internships Employer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education. Relocation assistance may be provided to program participants who reside more than 50 miles from the internship location. Intern wages range from $26/hour to $47/hour. The successful candidate’s actual pay will be based on education/STEM vs non-STEM designation. Never stop growing! As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable! T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated. Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests. T-Mobile U.S. Inc. (NASDAQ: TMUS) is America’s supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile’s customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Sprint. For more information please visit: http://www.t-mobile.com We take equal opportunity seriously—by choice. T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated. T-Mobile USA, Inc. maintains a drug-free workplace. The unlawful manufacture, sale, distribution, dispensation, possession, or use of a controlled substance or marijuana is prohibited in T-Mobile's workplace and employee conduct in violation of this prohibition is subject to employer discipline, including termination. We are committed to maintaining your trust by respecting and protecting your privacy. For more information about how T-Mobile processes the personal data of job applicants, please visit Applicant Privacy Notice."
+    },
+    {
+      "id": "55bb5454096b4cc5-2026-01-30-1",
+      "jobId": "55bb5454096b4cc5",
+      "company": "Stryker",
+      "title": "2026 Summer Intern - Software Engineering - Washington",
+      "postedToDiscord": "2026-01-30T02:39:56.161Z",
+      "sourceDate": "2026-01-24T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/697490c3206da320f49ed9ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466623940670521438",
+          "channelType": "category",
+          "postedAt": "2026-01-30T02:39:56.161Z",
+          "channelJobNumber": 68
+        },
+        "1464304146072207390": {
+          "messageId": "1466623948044374029",
+          "channelType": "location",
+          "postedAt": "2026-01-30T02:39:57.992Z",
+          "channelJobNumber": 10
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Redmond",
+      "job_state": "Washington",
+      "job_description": "<p>Stryker is a global leader in medical technologies, driven to make healthcare better. As a Software Engineering intern, you will collaborate with cross-functional teams to support product design, quality, testing, and manufacturing while gaining exposure to leaders who will mentor you and contributing to meaningful projects.</p><br><p>Responsibilities</p><ul><li>Apply classroom knowledge and gain experience in a fast-paced and growing industry setting</li><li>Implement new ideas, be constantly challenged, and develop your skills</li><li>Network with key/high-level stakeholders and leaders of the business</li><li>Be a part of an innovative team and culture</li><li>Experience documenting complex processes and presenting them in a clear format</li><li>Support initiatives that ensure products meet the highest standards for safety, reliability, and compliance</li><li>Contribute to innovation and product improvement</li><li>Research new technologies and customer needs; use tools such as CAD, FEA, LabView, simulations, and software development to design new products or enhance existing ones</li><li>Apply engineering skills to improve the safety, reliability, and performance of current products through analysis, testing, and design improvements</li><li>Partner with engineers to evaluate prototypes and verify designs through fixture development, simulated use testing, and quantitative verification of technical specifications</li><li>Collaborate with design and operations teams to bring products to market efficiently</li><li>Work with engineering teams to design, develop, and test software solutions that integrate with Stryker’s medical technologies</li></ul><br><p>Skills</p><ul><li>Currently pursuing a Bachelor's or Master's degree in a related field; must remain enrolled in a degree-seeking program after the internship</li><li>Cumulative 3.0 GPA or above (verified at time of hire)</li><li>Must be legally authorized to work in the U.S. and not require sponsorship now or in the future</li><li>Strong written and verbal communication skills, with proven ability to collaborate and build relationships</li><li>Demonstrated leadership, problem-solving, and organizational skills with the ability to manage multiple priorities</li><li>Proficiency in Microsoft Office (Excel, Word, PowerPoint) and eagerness to learn in a dynamic environment</li></ul><br><p>Benefits</p><ul><li>Sign-on bonus</li><li>11 paid holidays annually</li><li>Paid corporate housing or a living stipend, dependent upon hiring location</li></ul><br><p>Company Overview</p><li>Stryker is a medical technology company that offers products and services in orthopaedics. It was founded in 1941, and is headquartered in Kalamazoo, Michigan, USA, with a workforce of 10001+ employees. Its website is http://www.stryker.com/en-us/index.htm.</li><br>"
+    },
+    {
+      "id": "bc1a4020dff32ebc-2026-01-30-1",
+      "jobId": "bc1a4020dff32ebc",
+      "company": "Imperative Care",
+      "title": "Software Engineer Intern Applications",
+      "postedToDiscord": "2026-01-30T02:39:59.702Z",
+      "sourceDate": "2026-01-27T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=9141d1e2f734&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466623955489132737",
+          "channelType": "category",
+          "postedAt": "2026-01-30T02:39:59.702Z",
+          "channelJobNumber": 69
+        },
+        "1464304182923362324": {
+          "messageId": "1466623962615119983",
+          "channelType": "location",
+          "postedAt": "2026-01-30T02:40:01.393Z",
+          "channelJobNumber": 45
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Campbell",
+      "job_state": "Ohio",
+      "job_description": "Apply for Software Engineer Intern Applications in Campbell. Imperative Care is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "ab8d6e72c2c1f969-2026-01-30-1",
+      "jobId": "ab8d6e72c2c1f969",
+      "company": "T-Mobile",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-30T02:40:03.271Z",
+      "sourceDate": "2026-01-30T01:05:47.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Software-Engineering-Intern_REQ343611",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466623970026721280",
+          "channelType": "category",
+          "postedAt": "2026-01-30T02:40:03.271Z",
+          "channelJobNumber": 70
+        },
+        "1464304146072207390": {
+          "messageId": "1466623977630994623",
+          "channelType": "location",
+          "postedAt": "2026-01-30T02:40:05.009Z",
+          "channelJobNumber": 11
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Bellevue",
+      "job_state": "WA",
+      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!Get hands-on experience, training—and a leg up on a bright future.Learn. Achieve. Build a career. T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way! This is an 11-week paid learning experience during which you’ll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. You’ll contribute your creativity and outstanding ideas, while working alongside T-Mobile employees. We’ll give you hands-on projects and the chance to create an immediate impact.What It's LikeOur software engineers develop a wide variety of technologies that change how millions of users connect and interact with one another. As an Intern, you will work in small teams to tackle problems as we continue to push technology forward. You will have the opportunity to be a part of team who will impact the customer experience, design, architecture, and implementation of a cutting-edge mobile product used every day, by people you know.What You'll DoBuild new features on T-Mobile.com Assist with T-Mobile Security & Stability InitiativesKey ResponsibilitiesWork with JavaScript and/or Typescript and other web technologies to deliver a performant, scalable, and responsive platform Build web applications that need to be integrated seamlessly. Proficient understanding of code versioning tools, such as Git. Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operationsWhat It TakesAcademic or web development experience using JavaScriptSolid understanding of HTML/CSS and W3C standards Knowledge of RESTful web services and networking Experience with building responsive application interfaces Able to write maintainable and functionally tested modules, preferred Minimum Qualifications At least 18 years of ageLegally authorized to work in the United StatesMust be actively enrolled in a Bachelors or Graduate degree programEmployees of T-Mobile or Metro by T-Mobile are ineligible for InternshipsEmployer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education.Relocation assistance may be provided to program participants who reside more than 50 miles from the internship location.Intern wages range from $26/hour to $47/hour. The successful candidate’s actual pay will be based on education/STEM vs non-STEM designation.Never stop growing!As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests."
+    },
+    {
+      "id": "bdff75052d0657e9-2026-01-30-1",
+      "jobId": "bdff75052d0657e9",
+      "company": "Xenith Solutions",
+      "title": "Summer Intern- Software Engineer / Data Science",
+      "postedToDiscord": "2026-01-30T02:40:09.745Z",
+      "sourceDate": "2026-01-27T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=da266a501391&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466623997792751757",
+          "channelType": "category",
+          "postedAt": "2026-01-30T02:40:09.745Z",
+          "channelJobNumber": 23
+        },
+        "1464304182923362324": {
+          "messageId": "1466624004948365450",
+          "channelType": "location",
+          "postedAt": "2026-01-30T02:40:11.524Z",
+          "channelJobNumber": 46
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Leesburg",
+      "job_state": "Virginia",
+      "job_description": "Apply for Summer Intern- Software Engineer/Data Science in Leesburg. Xenith Solutions is hiring now. Discover your next career opportunity today on Talent.com."
     }
   ],
   "metadata": {
-    "totalJobs": 347,
+    "totalJobs": 353,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T01:36:25.362Z",
+      "date": "2026-01-30T02:40:16.055Z",
       "archived": 0
     }
   }
