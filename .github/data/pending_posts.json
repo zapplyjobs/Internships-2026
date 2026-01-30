@@ -2789,10 +2789,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-30T00:19:40.192Z",
     "enrichedAt": "2026-01-30T01:35:57.821Z",
-    "postedAt": null
+    "postedAt": "2026-01-30T02:40:16.048Z"
   },
   {
     "job": {
@@ -2800,18 +2800,20 @@
       "employer_name": "T-Mobile",
       "job_city": "Overland Park",
       "job_state": "KS",
-      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop! Get hands-on experience, training—and a leg up on a bright future. Learn. Achieve. Build a career. T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way! This is an 11-week paid learning experience during which you’ll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. You’ll contribute your creativity and outstanding ideas, while working alongside T-Mobile employees. We’ll give you hands-on projects and the chance to create an immediate impact. What It's Like Our software engineers develop a wide variety of technologies that change how millions of users connect and interact with one another. As an Intern, you will work in small teams to tackle problems as we continue to push technology forward. You will have the opportunity to be a part of team who will impact the customer experience, design, architecture, and implementation of a cutting-edge mobile product used every day, by people you know. What You'll Do Build new features on T-Mobile.com focused on bringing world-class Customer Experience. Work on T-Mobile Security &amp; Stability Initiatives. Key Responsibilities Work with JavaScript and/or Typescript and other web technologies to deliver a performant, scalable, and responsive platform Build web applications that integrate seamlessly with existing architecture. What It Takes Proficient understanding of code versioning tools, such as Git. Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations. Academic or web development experience using JavaScript Good understanding of HTML/CSS and W3C standards Knowledge of RESTful web services and networking Experience with building responsive application interfaces Able to write maintainable and functionally tested modules preferred At least 18 years of age Legally authorized to work in the United States Must be actively enrolled in a Bachelors or Graduate degree program Employees of T-Mobile or Metro by T-Mobile are ineligible for Internships Employer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education. Relocation assistance may be provided to program participants who reside more than 50 miles from the internship location. Intern wages range from $26/hour to $47/hour. The successful candidate’s actual pay will be based on education/STEM vs non-STEM designation. Never stop growing! As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable! T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated. Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests. T-Mobile U.S. Inc. (NASDAQ: TMUS) is America’s supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile’s customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Sprint. For more information please visit: http://www.t-mobile.com We take equal opportunity seriously—by choice. T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated. T-Mobile USA, Inc. maintains a drug-free workplace. The unlawful manufacture, sale, distribution, dispensation, possession, or use of a controlled substance or marijuana is prohibited in T-Mobile's workplace and employee conduct in violation of this prohibition is subject to employer discipline, including termination. We are committed to maintaining your trust by respecting and protecting your privacy. For more information about how T-Mobile processes the personal data of job applicants, please visit Applicant Privacy Notice.",
       "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ343685",
       "job_posted_at_datetime_utc": "2026-01-30T00:00:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "t-mobile-summer-2026-software-engineering-internship-overland-park"
+      "id": "t-mobile-summer-2026-software-engineering-internship-overland-park",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T00:53:58.147Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T02:39:42.106Z",
+    "postedAt": "2026-01-30T02:40:16.048Z"
   },
   {
     "job": {
@@ -2819,19 +2821,21 @@
       "employer_name": "Stryker",
       "job_city": "Redmond",
       "job_state": "Washington",
-      "job_description": "Stryker is a global leader in medical technologies, driven to make healthcare better. As a Software Engineering intern, you will collaborate with cross-functional teams to support product design, quality, testing, and manufacturing while gaining exposure to leaders who will mentor you and contributing to meaningful projects.\n\nResponsibilities\n• Apply classroom knowledge and gain experience in a fast-paced and growing industry setting\n• Implement new ideas, be constantly challenged, and develop your skills\n• Network with key/high-level stakeholders and leaders of the business\n• Be a part of an innovative team and culture\n• Experience documenting complex processes and presenting them in a clear format\n• Support initiatives that ensure products meet the highest standards for safety, reliability, and compliance\n• Contribute to innovation and product improvement\n• Research new technologies and customer needs; use tools such as CAD, FEA, LabView, simulations, and software development to design new products or enhance existing ones\n• Apply engineering skills to improve the safety, reliability, and performance of current products through analysis, testing, and design improvements\n• Partner with engineers to evaluate prototypes and verify designs through fixture development, simulated use testing, and quantitative verification of technical specifications\n• Collaborate with design and operations teams to bring products to market efficiently\n• Work with engineering teams to design, develop, and test software solutions that integrate with Stryker’s medical technologies\n\nSkills\n• Currently pursuing a Bachelor's or Master's degree in a related field; must remain enrolled in a degree-seeking program after the internship\n• Cumulative 3.0 GPA or above (verified at time of hire)\n• Must be legally authorized to work in the U.S. and not require sponsorship now or in the future\n• Strong written and verbal communication skills, with proven ability to collaborate and build relationships\n• Demonstrated leadership, problem-solving, and organizational skills with the ability to manage multiple priorities\n• Proficiency in Microsoft Office (Excel, Word, PowerPoint) and eagerness to learn in a dynamic environment\n\nBenefits\n• Sign-on bonus\n• 11 paid holidays annually\n• Paid corporate housing or a living stipend, dependent upon hiring location\n\nCompany Overview\n• Stryker is a medical technology company that offers products and services in orthopaedics. It was founded in 1941, and is headquartered in Kalamazoo, Michigan, USA, with a workforce of 10001+ employees. Its website is http://www.stryker.com/en-us/index.htm.",
+      "job_description": "<p>Stryker is a global leader in medical technologies, driven to make healthcare better. As a Software Engineering intern, you will collaborate with cross-functional teams to support product design, quality, testing, and manufacturing while gaining exposure to leaders who will mentor you and contributing to meaningful projects.</p><br><p>Responsibilities</p><ul><li>Apply classroom knowledge and gain experience in a fast-paced and growing industry setting</li><li>Implement new ideas, be constantly challenged, and develop your skills</li><li>Network with key/high-level stakeholders and leaders of the business</li><li>Be a part of an innovative team and culture</li><li>Experience documenting complex processes and presenting them in a clear format</li><li>Support initiatives that ensure products meet the highest standards for safety, reliability, and compliance</li><li>Contribute to innovation and product improvement</li><li>Research new technologies and customer needs; use tools such as CAD, FEA, LabView, simulations, and software development to design new products or enhance existing ones</li><li>Apply engineering skills to improve the safety, reliability, and performance of current products through analysis, testing, and design improvements</li><li>Partner with engineers to evaluate prototypes and verify designs through fixture development, simulated use testing, and quantitative verification of technical specifications</li><li>Collaborate with design and operations teams to bring products to market efficiently</li><li>Work with engineering teams to design, develop, and test software solutions that integrate with Stryker’s medical technologies</li></ul><br><p>Skills</p><ul><li>Currently pursuing a Bachelor's or Master's degree in a related field; must remain enrolled in a degree-seeking program after the internship</li><li>Cumulative 3.0 GPA or above (verified at time of hire)</li><li>Must be legally authorized to work in the U.S. and not require sponsorship now or in the future</li><li>Strong written and verbal communication skills, with proven ability to collaborate and build relationships</li><li>Demonstrated leadership, problem-solving, and organizational skills with the ability to manage multiple priorities</li><li>Proficiency in Microsoft Office (Excel, Word, PowerPoint) and eagerness to learn in a dynamic environment</li></ul><br><p>Benefits</p><ul><li>Sign-on bonus</li><li>11 paid holidays annually</li><li>Paid corporate housing or a living stipend, dependent upon hiring location</li></ul><br><p>Company Overview</p><li>Stryker is a medical technology company that offers products and services in orthopaedics. It was founded in 1941, and is headquartered in Kalamazoo, Michigan, USA, with a workforce of 10001+ employees. Its website is http://www.stryker.com/en-us/index.htm.</li><br>",
       "job_apply_link": "https://jobright.ai/jobs/info/697490c3206da320f49ed9ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-24T00:00:00.000Z",
       "job_employment_type": "Internship",
       "job_source": "jsearch",
       "job_publisher": "Jobright",
       "job_posted_at": "1h",
-      "id": "stryker-2026-summer-intern-software-engineering-washington-redmond"
+      "id": "stryker-2026-summer-intern-software-engineering-washington-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T00:53:58.147Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T02:39:42.106Z",
+    "postedAt": "2026-01-30T02:40:16.048Z"
   },
   {
     "job": {
@@ -2839,19 +2843,21 @@
       "employer_name": "Imperative Care",
       "job_city": "Campbell",
       "job_state": "Ohio",
-      "job_description": "Title : Software Engineer Intern Applications\n\nLocation : This position is based in our Campbell California offices on-site & full-time. Imperative Care does not provide relocation or additional housing compensation for the summer internship.\n\nWhy Imperative Care\n\nAt Imperative Care we are developing novel robotic-assisted technologies and interventional capabilities that will forever change the disparate outcomes of ischemic stroke a disease that impacts close to a million people a year in the U.S. and 10 million worldwide. Not only is Imperative Care changing the way stroke is treated but also bringing this treatment to the greater population who is currently without. We are actively building a team who is focused on developing novel solutions for this complex disease a disease in which one in four adults will face in their lifetime.\n\nWhat Youll Do\n\nWe are looking for a talented and experienced Software Engineer Intern to take part in the development of software applications and UI for the Telos robotic system. As an intern in the Applications team you will contribute to the design development and testing the software applications that the physician will interact with when using the Telos robotics system. You will work closely with other software engineers as well as system and UX engineers to design and implement solutions that meet clinical needs and requirements.\n• Design implement and test responsive UI and non-user facing applications that include real time media rendering complex communication and other components.\n• Participate in design and implementation of various backend features (image acquisition recording pipeline optimization) for the Telos robotic system.\n• Contribute to development of the software testing and simulation environment\n• Work closely with other engineers (software algorithms clinical systems UX) as part of a focused cross-functional team developing software for a medical application.\n• Understand user needs clinical needs & customer input requirements to drive software development\n• Participate in design discussions and code reviews.\n\nWhat Youll Bring\n• Currently pursuing an B.S. M.S or an Advanced degree in Computer Science Computer Engineering or equivalent\n• Experience with C programming and multi-threaded applications.\n• Background in object-oriented programming software architecture and design patterns\n• Experience with video capture and image acquisition pipelines\n• Experience with GPU programming and CUDA\n• Experience with Qt framework\n• Excellent communication and documentation skills\n\nEmployee Benefits include a stake in our collective success with stock options competitive salaries a 401k plan health benefits generous PTO and a parental leave program.\n\nJoin Us!\n\nSalary : $29 / hourly for 10 week internship\n\nThe use of external recruiters / staffing agencies requires prior approval from our Human Resources Department. The Human Resources Department at Imperative Care requests that external recruiters / staffing agencies not to contact Imperative Care employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with Imperative Care.\n\nImperative Care will not accept unsolicited resumes from any source other than candidates themselves for either current or future positions. Submission of unsolicited resumes in advance of an agreement between the Human Resources Department and the external recruiter / staffing agency does not create any implied obligation on the part of Imperative Care.\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nCampaigns,Abinitio,AutoCAD 3D,Hardware & Networking,Customer Support,Arabic\n\nEmployment Type : Intern\n\nExperience : years\n\nVacancy : 1",
+      "job_description": "Apply for Software Engineer Intern Applications in Campbell. Imperative Care is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_apply_link": "https://www.talent.com/view?id=9141d1e2f734&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
       "job_employment_type": "Full-time",
       "job_source": "jsearch",
       "job_publisher": "Talent.com",
       "job_posted_at": "2d",
-      "id": "imperative-care-software-engineer-intern-applications-campbell"
+      "id": "imperative-care-software-engineer-intern-applications-campbell",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T00:53:58.147Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T02:39:42.106Z",
+    "postedAt": "2026-01-30T02:40:16.048Z"
   },
   {
     "job": {
@@ -2859,19 +2865,21 @@
       "employer_name": "Xenith Solutions",
       "job_city": "Leesburg",
       "job_state": "Virginia",
-      "job_description": "Xenith Solutions is looking for a driven and curious Summer Intern who’s excited to gain real‑world experience inside a small, family‑focused company that truly invests in its people.\n\nAs a rapidly growing organization supporting Federal, Civilian, Defense, and Intelligence customers, we offer students the chance to learn from industry professionals, contribute to meaningful projects, and become part of a team that values collaboration, growth, and community.\n\nAs a Summer Intern you will also gain hands-on experience applying data-driven techniques to real-world problems.\n\nInterns will work alongside experienced engineers and technologists to support the development of machine learning models, data pipelines, software engineering, and analytical tools that inform decision-making and enable rapid prototyping.\n\nThis role emphasizes practical application, transforming raw data into insights, experimenting with algorithms, and contributing to prototype solutions that may evolve into operational capabilities.\n\nIdeal candidates are curious, analytical, and eager to apply classroom knowledge to meaningful, mission-focused technology challenges.\n\nDepending on your interests and skill set, you may :\n• Support software development and prototyping efforts Write, test, and debug code in Java and / or Python Contribute to web-based applications using React or similar frameworks Assist with data processing, analytics, or visualization Help configure and deploy applications in cloud environments (AWS, Azure, GCP, or similar) Participate in design discussions, code reviews, and technical problem-solving sessions Learn how engineering teams operate in real-world, mission-driven environments We’re seeking students who : Are currently pursuing a degree in : Computer Science Software Engineering Data Science Or a closely related technical field (i.e.\n\nMathematics, Statistics, or Science) Have some hands-on experience (academic, personal, or internship) with :\n• Java and / or Python Front-end frameworks such as React (or similar) Basic cloud concepts or environments Are eager to learn, ask questions, and take initiative Enjoy solving problems and building things that work Can communicate clearly and collaborate with a technical team You don’t need to be an expert; we care more about curiosity, fundamentals, and willingness to learn.\n• This is a paid internship opportunity (up to $20 / hr).\n• Please note that this internship does not offer college credit. Xenith Solutions LLC is a Service-Disabled Veteran-Owned Small Business founded in 2019.\n• We provide comprehensive, timely and relevant Solutions and Business Consulting support to our customers as a key partner.\n• Our leadership brings over a century of combined experience in Defense and Civilian markets.\n• Our employees possess experience in all aspects of solution development from requirements creation, development, test and evaluation, fielding, and sustainment.\n• At the core of our offerings, we provide strategy and technology solutions, giving our customers valuable insights and thought leadership on the best application of information technology to drive business objectives.\n• Xenith focuses on solving complex business challenges facing our customers.\n• Our “Success Through Achievement” work ethic means our customer receive quality solutions through our commitment.\n• We pride ourselves on tackling some of the most difficult operational requirements our customers have – ensuring an appropriate match between the mission requirements, financials, schedule, and security.\n• EEO Xenith Solutions provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws.\n• EEO IS THE LAW If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Xenith Solutions.\n• E-Verify As a Federal Contractor, Xenith Solutions is required to participate in the E-Verify Program to confirm eligibility to work in the United States.\n• Affirmative Action Plan As a federal government contractor and based on Executive Orders and applicable laws and regulations, Xenith Solutions develops and maintains annual written Affirmative Action Plans and endeavors to hire and advance qualified minorities, females, individuals with disabilities, and protected veterans.\n• Powered by JazzHR",
+      "job_description": "Apply for Summer Intern- Software Engineer/Data Science in Leesburg. Xenith Solutions is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_apply_link": "https://www.talent.com/view?id=da266a501391&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
       "job_employment_type": "Full-time",
       "job_source": "jsearch",
       "job_publisher": "Talent.com",
       "job_posted_at": "2d",
-      "id": "xenith-summer-intern-software-engineer-data-science-leesburg"
+      "id": "xenith-summer-intern-software-engineer-data-science-leesburg",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T00:53:58.147Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T02:39:42.106Z",
+    "postedAt": "2026-01-30T02:40:16.048Z"
   },
   {
     "job": {
@@ -2886,11 +2894,13 @@
       "job_source": "jsearch",
       "job_publisher": "Talent.com",
       "job_posted_at": "4d",
-      "id": "visa-software-engineer-intern-summer-2026-ashburn-"
+      "id": "visa-software-engineer-intern-summer-2026-ashburn-",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-30T00:53:58.147Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-30T02:39:42.106Z",
     "postedAt": null
   },
   {
@@ -2899,18 +2909,20 @@
       "employer_name": "T-Mobile",
       "job_city": "Bellevue",
       "job_state": "WA",
-      "job_description": "Join T-Mobile in this exciting opportunity.",
+      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!Get hands-on experience, training—and a leg up on a bright future.Learn. Achieve. Build a career. T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way! This is an 11-week paid learning experience during which you’ll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. You’ll contribute your creativity and outstanding ideas, while working alongside T-Mobile employees. We’ll give you hands-on projects and the chance to create an immediate impact.What It's LikeOur software engineers develop a wide variety of technologies that change how millions of users connect and interact with one another. As an Intern, you will work in small teams to tackle problems as we continue to push technology forward. You will have the opportunity to be a part of team who will impact the customer experience, design, architecture, and implementation of a cutting-edge mobile product used every day, by people you know.What You'll DoBuild new features on T-Mobile.com Assist with T-Mobile Security & Stability InitiativesKey ResponsibilitiesWork with JavaScript and/or Typescript and other web technologies to deliver a performant, scalable, and responsive platform Build web applications that need to be integrated seamlessly. Proficient understanding of code versioning tools, such as Git. Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operationsWhat It TakesAcademic or web development experience using JavaScriptSolid understanding of HTML/CSS and W3C standards Knowledge of RESTful web services and networking Experience with building responsive application interfaces Able to write maintainable and functionally tested modules, preferred Minimum Qualifications At least 18 years of ageLegally authorized to work in the United StatesMust be actively enrolled in a Bachelors or Graduate degree programEmployees of T-Mobile or Metro by T-Mobile are ineligible for InternshipsEmployer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education.Relocation assistance may be provided to program participants who reside more than 50 miles from the internship location.Intern wages range from $26/hour to $47/hour. The successful candidate’s actual pay will be based on education/STEM vs non-STEM designation.Never stop growing!As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
       "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Software-Engineering-Intern_REQ343611",
       "job_posted_at_datetime_utc": "2026-01-30T01:05:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "t-mobile-software-engineer-intern-bellevue"
+      "id": "t-mobile-software-engineer-intern-bellevue",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T01:35:47.135Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T02:39:42.106Z",
+    "postedAt": "2026-01-30T02:40:16.048Z"
   },
   {
     "job": {
@@ -3025,6 +3037,185 @@
     },
     "status": "pending",
     "addedAt": "2026-01-30T01:35:47.135Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "DOE-EM University Programs Intern",
+      "employer_name": "Idaho National Laboratory",
+      "job_city": "Idaho Falls",
+      "job_state": "ID",
+      "job_description": "Join Idaho National Laboratory in this exciting opportunity.",
+      "job_apply_link": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23660",
+      "job_posted_at_datetime_utc": "2026-01-30T02:11:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "idaho-national-laboratory-doe-em-university-programs-intern-idaho-falls"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineering Intern",
+      "employer_name": "Fabletics",
+      "job_city": "El Segundo",
+      "job_state": "California",
+      "job_description": "Description\n\nFabletics is seeking a Data Engineering Intern to support the development and improvement of data pipelines and analytics datasets. This role provides hands-on experience working with cloud data platforms, advanced ETL frameworks, and data replication systems that support data driven decision making across ecommerce and operations.\n\nResponsibilities\n\nUnderstand the current ETL architecture and identify opportunities for more efficient and scalable solutions\n\nHelp improve existing data pipelines and optimize them for performance and reliability\n\nBuild and maintain ETL processes using modular, reusable programming patterns\n\nGain hands-on experience with advanced ETL and data replication systems used in production environments\n\nAssist with evaluating, and supporting data connectors using tools such as Fivetran\n\nAssist with data quality checks, monitoring, and validation\n\nCollaborate with analytics engineers and data scientists to ensure data is accessible, maintainable, and well documented\n\nQualifications\n\nPursuing a degree in Computer Science, Data Engineering, Data Science, or a related field\n\nStrong SQL fundamentals\n\nExperience with Python or a similar programming language\n\nUnderstanding of modular programming concepts and clean code practices\n\nFamiliarity with cloud data warehouses such as Snowflake\n\nStrong analytical and communication skills\n\nNice to Have\n\nAcademic projects or prior internship experience in data or software engineering\n\nExposure to cloud based data platforms or ecommerce data\n\nThe Intern Gig : We are looking for enthusiastic students with ambition to go far. Our full-time paid internship program will give you a chance to gain in-depth knowledge of what it is like to be a part of our fast-paced and innovative company. Our interns have the unique opportunity to gain real work experience, while participating in skill-building workshops and interactive social activities throughout the duration of the internship assignment.\n\nOur summer internship program will be in our El Segundo, CA headquarters and will run for 9 weeks from June 15th, 2026, through August 14th, 2026 . We operate on a hybrid work schedule where employees must be willing and able to work in-office Tuesday-Thursday each week, with the option to work remotely on Mondays and Fridays. We will not be considering remote or non-local applicants at this time.\n\nThe hourly range for this position is $18.00-$22.00. The hourly rate offered will be dependent on factors including the scope and complexity of the role, candidate’s related work experience, subject matter expertise, and work location.\n• YOU MUST BE A RISING JUNIOR OR RISING SENIOR (graduating in 2027 or 2028) UNDERGRADUATE STUDENT ENROLLED AT AN ACCREDITED UNIVERSITY TO BE CONSIDERED FOR THIS INTERNSHIP\n\n#LI-LS1\n\n#LI-Fabletics\n\nSecurity Alert : Protect yourself from scams\n\nAt Fabletics, we're dedicated to recruiting top talent who share our drive for innovation. To safeguard candidates, Fabletics emphasizes legitimate recruitment practices. Initial communication is primarily via official email addresses and LinkedIn; beware of deviations. Personal data and sensitive information will not be solicited during the application phase. Interviews are conducted via phone, in person, or through the approved platforms Teams or Zoom—never via messaging apps or other calling services. Offers are merit-based, communicated verbally, and followed up in writing. If personal information is requested to initiate the hiring process, rest assured it will be through secure and protected means.\n\nFabletics, Inc. is an equal opportunity employer. We recruit, employ, compensate, develop, and promote regardless of race, national origin, religion, sex, sexual orientation, gender identity, age, disability, genetic information, veteran status, and other protected status as required by applicable. At Fabletics, Inc., we champion a vibrant workplace culture that thrives on diversity law and do not tolerate discrimination or harassment. We are one team from many backgrounds, innovating through diversity of individuals, who are driven by passion for creating an inclusive space for all. Fabletics, Inc. will continue to champion a workplace culture that prizes diversity and inclusivity.\n\nWe encourage you to apply regardless of meeting all qualifications and / or requirements.",
+      "job_apply_link": "https://www.talent.com/view?id=17c4d46a9bb5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-28T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "fabletics-data-engineering-intern-el-segundo"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analysis and Simulation Co-op/Intern- Summer 2026",
+      "employer_name": "American Honda Motor Co., Inc.",
+      "job_city": "Raymond",
+      "job_state": "Ohio",
+      "job_description": "Data Analysis and Simulation Co-op/Intern- Summer 2026\n\nThis job description reflects potential openings for the Summer 2026 Co-op/Internship Session (May-August). This is a general job description and represents multiple openings in various departments. Honda offers both single and multi-semester co-ops and internships. College students must apply to the requisition pertaining to their major and semester of interest.\n\nPlease note: Sponsorship for employment visa status for these positions is unavailable. Applicants requiring sponsorship for employment visa status now or in the future (e.g., F-1 CPT/OPT, H-1B, TN, etc.) will not be considered.\n\nMore about the Data Analysis and Simulation Co-op/ Intern at Honda\n\nThe below descriptions reflect potential environments and duties within our various Engineering Data Analytics Co-op/Intern positions that we offer. Work environments and projects may include but are not limited to:\n\nData Analysis and Simulation (Data Science, Machine Learning, Computational Modeling):\n• Develop and implement algorithms for data analysis, machine learning and simulation.\n• Support design, test, and new model groups with data-driven insights and predictive modeling.\n• Conduct computational simulations to predict material and part behavior and performance.\n• Collect, organize, and analyze large datasets to identify trends and correlations.\n• Summarize analysis results in report form and present findings to internal or external stakeholders.\n• Analyze current processes and identify automation or coding solutions for process improvement.\n• Collaborate with cross-functional teams to integrate modeling results into product development\n\nWhat you need to be successful in this role\n\nRequired:\n• Legally authorized to work in the U.S. without sponsorship\n• Basic Business coursework\n• Minimum 2.5 Cumulative GPA or higher (You will be required to provide your current transcript)\n• Class status- Sophomore (by credit hour) or above\n• Availability to work a minimum of 10 weeks at 40 hours per week\n• Enrollment in a Bachelor's or Master's degree program studying Computer Science, Materials Science Engineering, Data Science\n• Valid U.S. Driver's License (exceptions considered on a case-by-case basis)\n• Ability to secure own transportation to and from work each day\n• *Public transportation and ride share services are limited in some of our locations. Co-ops are responsible for securing their own transportation to and from work each day, and must have a reliable plan for transportation in order to be eligible for a position. Regular in-person attendance is required, and transportation issues will not be excused.\n\nDesired:\n• Computer Science, Information Systems, Data Science and Analytics, Data Engineering, Programming, Statistics, Artificial Intelligence, Materials Science, Machine Learning, Finite Element Analysis\n\nPosition Location\n\nData Analysis and Simulation Co-op/ Intern positions are offered in the cities/ states listed below, if you are selected to move forward in the process, you will be given the opportunity to make selections on your location preferences:\n• Raymond, Ohio (45 minutes northwest of Columbus, Ohio)\n• Marysville, Ohio (45 minutes northwest of Columbus, Ohio)\n\nHonda Co-operative and Learning Internships Program Benefits\n\nHousing Accommodations: Honda offers housing at a shared cost or a housing stipend based on location for our Co-ops and Interns. It is not required to opt-in to but is available should you need housing at the time of your Co-op/ Internship with Honda.\n\nHonda Business Resource Groups: One of the ways Honda gives diversity a voice is through its business resource groups. The associate-led, company-supported groups have members aligned across different dimensions of diversity such as gender, ethnicity, ability, life stage and experiences. The groups provide networking opportunities, a chance to give back and professional development. Some groups have even given feedback on Honda\n\nproducts, making them more appealing to all. Embracing all views is what will drive us into the future. Honda wants passionate, driven people to be a part of that future.\n\nPerformance Feedback: Honda Co-ops and Interns will have the opportunity to receive informal and formal feedback from their leaders, ask questions and express future interest in a scheduled mid-term and final evaluation.\n\nMentorship: Each Co-op/ Intern is assigned a mentor in your department to help you navigate your time at Honda.\n\nOn-site Wellness Center: Co-ops and Interns have access to join our Wellness Centers (varies by location). Our Wellness Centers are full gyms equipped with cardio machines, weights, basketball courts, pools, dieticians, personal trainers and group fitness classes.\n\nPaid overtime: Co-ops and Interns will receive 1.5 times their hourly rate of pay for any overtime worked.\n\nHourly Wage Range: $23.35-$30.21\n\nPay will be based on several variables that include, but not limited to, geographic location, work experience, education, etc.\n\nConsideration for full time employment: Our Cooperative Learning Internships program is utilized as a talent pipeline for our full-time positions!\n\nAdditional details regarding Honda Co-op and Intern benefits are provided upon offer.",
+      "job_apply_link": "https://careers.honda.com/us/en/job/8218/Data-Analysis-and-Simulation-Co-op-Intern-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-28T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Honda Careers",
+      "job_posted_at": "2d",
+      "id": "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Agentic AI & Data Science Internship",
+      "employer_name": "QTC Management, inc",
+      "job_city": "Burlingame",
+      "job_state": "California",
+      "job_description": "Do you crave a career that truly makes an impact in people’s lives? Do you thrive on problem-solving and finding solutions? Join a dedicated, tight-knit team that creates an immediate and meaningful impact every day.\n\nLeidos QTC Health Services is seeking an Agentic AI & Data Science Intern to support our Innovations Ops Improvement Team. We seek a college Jr / Sr student available full-time during summer break. In this role, you will be assigned tasks that are relevant and necessary to the successful execution of the LQTC Information Technology roadmap. Leidos QTC will provide you with real world experience and technical and career mentorship throughout the internship. As a member of the Innovation & Data Team, this position may support a broad set of IT solutions that are key enablers to the LQTC business mission. This is remote role.\n\nPrimary Responsibilities :\n\nSupport to IT solutions throughout the software lifecycle, tailoring an intern’s position to their individual strengths and experience to include :\n• Implementing software solutions\n• Tailoring and configuring commercial solutions to meet business needs\n• Agentic AI development\n• Data structures and data tables\n• Data mining\n• Query development and execution\n• Report generation using Tableau\n• Responding to user questions\n• Integrating and presenting data\n• Experience with data-gathering and research preferred\n• Clinical experience or knowledge of medical practices and procedures preferred\n\nRequired Qualifications :\n• Current Jr / Sr pursuing a bachelor's degree in Computer Science, Information Technology, Mathematics or related field and typically maintain a Minimum GPA\n• Ability to work full time as a summer intern\n• Prior experience or classroom training related to software engineering, cybersecurity, technology, data science, business management, project management or IT support\n\nPreferred Qualifications :\n• Quick learner, able to adapt to changing technologies and priorities\n• The ideal candidate will have demonstrated leadership ability through community or campus involvement\n• Experience or coursework in Agentic AI software, such as NN, Ollma, CrewAI, or other LLM-related software\n• Completed at least one college-level statistics course preferred\n\nAbout Leidos QTC Health Services\n\nLeidos QTC Health Services collaborates closely with government and non-government customers to address current and future program needs within the health services domain. We specialize in disability-focused medical examinations, independent medical exams and review services, occupational health services, diagnostic testing, and case management solutions. As innovators, we focus on advancing technologies that improve service delivery, with a particular emphasis on enhancing accessibility for examinees in rural communities. With a proven track record of continuous improvement and steady growth, we now handle over million appointments annually. Visit for more information.\n\nCompensation and Benefits\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. As a result, we offer meaningful and engaging careers to support you and your career goals, all while nurturing a healthy work-life balance. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement.\n\nThis role may fall under the Service Contract Act (SCA), a federal law which provides for a Department of Labor-prescribed minimum prevailing rate of pay and certain benefit levels. Where appropriate, Company-provided benefit plans such as comprehensive leave, holiday, medical, dental, life, accident, disability coverages, retirement plan contributions, and other health and welfare benefits and payments are utilized to meet these obligations.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos QTC Health Services will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
+      "job_apply_link": "https://www.talent.com/view?id=4626221918d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1d",
+      "id": "qtc-management-agentic-ai-data-science-internship-burlingame"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "R&D Research Algorithm & Data Science Intern 2026",
+      "employer_name": "Boston Scientific",
+      "job_city": "St Paul",
+      "job_state": "Minnesota",
+      "job_description": "R&D Research Algorithm & Data Science Intern 2026\n\nAt Boston Scientific, we'll give you the opportunity to harness all that's within you by working in teams of diverse and high-performing employees, tackling some of the most important health industry challenges. With access to the latest tools, information, and training, we'll help you in advancing your skills and career. Here, you'll be supported in progressing whatever your ambitions.\n\nOur R&D engineers are tasked with designing and developing implant products for the Active Implantable Systems (AIS) group. This includes technologies that monitor, support diagnosis, and treat irregular heart rhythms, heart failure, and sudden cardiac arrest. AIS provides devices and therapies for a patient's entire continuum of care, from diagnostic to treatment. This division strives to innovate and create a paradigm shift that can solve unmet clinical needs and change what is possible for patients.\n\nYour responsibilities will include :\n• Develop deep learning models to predict cardiac events using ECG and other physiological signals\n• Apply signal processing techniques to clean, analyze, and interpret biosignals for device diagnostics and monitoring\n• Support the design of AI / ML algorithms that enhance implantable device performance and patient outcomes\n• Collaborate with engineers to integrate Python-based tools for data analysis, simulation, and model validation\n• Contribute to feasibility studies exploring novel diagnostic features for heart rhythm detection\n• Analyze large datasets from implantable devices to identify patterns and inform next-generation therapy development\n\nRequired Qualifications :\n• Masters or Ph.D. student. Must have at least one semester of school left post-internship to qualify.\n• Working towards a degree in Biomedical Engineering (EE emphasis), Electrical Engineering, Data Science, Neuroscience, or Mathematics.\n• Must be able to start internship on May 18th or 26th, 2026 and work for 12 weeks\n• Must have reliable transportation to / from work.\n• Demonstrated ability to build and refine algorithms using statistical and analytical methods for data-driven innovation.\n\nPreferred Qualifications :\n• Proficient in Python, Kotlin, or Java, with hands-on experience using MATLAB for algorithm development, simulation, or signal processing\n• Experience with AI / ML and deep learning-based prediction model development\n• Experience working with / studying Electrocardiogram (ECG) and physiological signals using signal processing\n• Medical device industry experience\n• Excellent communication and collaboration skills",
+      "job_apply_link": "https://www.talent.com/view?id=f22eeecf7505&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-26T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "2d",
+      "id": "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern Jobs",
+      "employer_name": "SPA",
+      "job_city": "Vienna",
+      "job_state": "Virginia",
+      "job_description": "Overview\n\nSystems Planning and Analysis, Inc. (SPA) delivers high-impact, technical solutions to complex national security issues. With over 50 years of business expertise and consistent growth, we are known for continuous innovation for our government customers, in both the US and abroad. Our exceptionally talented team is highly collaborative in spirit and practice, producing Results that Matter. Come work with the best! We offer opportunity, unique challenges, and clear-sighted commitment to the mission. SPA: Objective. Responsive. Trusted.\n\nThe Joint, Office of the Secretary of Defense, Interagency Division provides expert support services to a range of customers spanning across the Department of Defense, Federal Civilian, and international markets. JOID provides a diverse portfolio of analytical and programmatic capabilities to help our customers make informed decisions on their most challenging issues.\n\nGroup W provides wargaming, warfare modeling and simulation, software development, data analytics, and operations research/system analysis support to the national security mission. As a leader in the fields of campaign, mission, and wargaming analysis we embrace the cycle of research paradigm, continually seeking to improve the multi-method application of tools, data, methods, and techniques to generate credible and resilient insights to inform decisions on the Department's most challenging issues spanning CONOPs, acquisitions, force structures, tactics, and strategies. Group W is the developer and maintainer of the Synthetic Theater Operations Research Model (STORM), the authoritative M&S tool accepted by the Joint Analytic Community for analysis of theater-level, multi-domain, joint warfare. Similarly, we developed and manage the Standard Wargame Integration and Facilitation Tool (SWIFT) for OSW as an adaptable environment to support joint force combatants' wargaming requirements.\n\nWe have a near-term need for a Data Science Intern to provide onsite support out of Vienna, VA.\n\nResponsibilities\n\nSPA seeks a passionate, versatile, data science minded summer intern to join a high-performance team working to address some of the most critical issues facing the DoW today. The Data Science Team will work with the Intern to define a project aligned with their interests but intended to enhance their data science skills and capabilities. The Data Science Intern will get hands-on experience with advanced data science techniques and tools, git & GitLab for version control, Docker & Kubernetes for cloud-native deployment, MS Azure for cloud infrastructure, and Python and JavaScript for source code. Projects could include t raining/tuning a semantic search engine model to provide better responses to specific subject matter inquiries (e.g. DoW, campaign modeling); g eospatial analysis and visualization of campaign modeling and simulation model outputs; d eveloping an analytic model that predicts simulation model outcomes or identifies anomalies during a simulation model run; and AI application that can generate a response of potential courses of action an adversary may undertake given a user-provided scenario or current event.\n• Applications can be submitted and will be reviewed on a rolling basis through January 2026.\n• Interviews will be scheduled on a rolling basis through February 2026.\n• Offers/decisions will be extended on a rolling basis following interviews.\n• Internship term will run from approximately late May or early June through August-though flexibility based on class schedule is possible.\n\nQualifications\n\nRequired:\n• Currently pursuing a Bachelor's or Master's degree in an applied science or quantitative related field such as data science, mathematics, physics, computer science, statistics, or operations research\n• Excellent written and oral communication skills, demonstrated multitasking skills, and the ability to work effectively in a multidisciplinary team\n• Interest in applying quantitative and analytic skills in support of national defense\n• U.S. Citizen with the ability to obtain a DoW Top Secret clearance\n• Able to work fully onsite\n\nDesired:\n• Coursework or projects that relate to requirement definition and problem solving\n• Passion for building tools that help people understand, analyze, and visualize complex data sets\n• Academic coursework, experience, or research with one or more of the following: Python, Java, R, SQL, PL/SQL, C++\n• Ability to create meaningful visualizations from data\n• Active DoW Secret clearance or higher",
+      "job_apply_link": "https://www.clearancejobs.com/jobs/8721030/data-science-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-24T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Clearance Jobs",
+      "job_posted_at": "2d",
+      "id": "spa-data-science-intern-jobs-vienna"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern- Summer 2026",
+      "employer_name": "Magna International",
+      "job_city": "Troy",
+      "job_state": "Michigan",
+      "job_description": "Magna International is a mobility technology company focused on advancing automotive technologies. They are seeking a motivated intern to assist with data analysis, machine learning pipelines, and software solution development.\n\nResponsibilities\n• Perform and present data analysis results based on requests of supervisors\n• Create data/machine learning pipeline in one of the popular cloud platforms\n• Participate in development and improvement of a software solution\n• Test and evaluate the developed solutions\n\nSkills\n• Graduate student (Ph.D. preferred) of mechanical engineering, electrical engineering, or computer engineering/science, or equivalent engineering, math or science discipline\n• Strong Python and C++ programming experience is required\n• Strong technical and analytical skills\n• Ability to work on complex engineering systems with creative ways\n• Proficient in Microsoft Office Products (Excel, Word, Power Point)\n• Professional Communication skills (written and verbal)\n• Familiarity with Deep Learning (TensorFlow or PyTorch) and Cloud Platforms preferred\n• Experience with software development process preferred\n• Experience in computer vision tasks like image classification, object detection, or semantic segmentation, 3D reconstruction is a plus\n• Currently attending University, preferably a graduate student\n\nCompany Overview\n• Magna International is a mobility tech company and auto supplier that engages in body exteriors, structures, power, vision, and seating. It was founded in 1957, and is headquartered in Aurora, Ontario, CAN, with a workforce of 10001+ employees. Its website is http://www.magna.com/.\n\nCompany H1B Sponsorship\n• Magna International has a track record of offering H1B sponsorships, with 2 in 2025, 3 in 2024, 1 in 2021. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/696a69df350cf4380311536e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-17T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "magna-international-data-science-intern-summer-2026-troy"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Internship - Data Science",
+      "employer_name": "Infineon Technologies",
+      "job_city": "Lexington",
+      "job_state": "Kentucky",
+      "job_description": "Infineon Technologies is a global leader in semiconductor solutions, focusing on innovation and customer success in power systems and IoT. They are seeking an intern in Data Science to perform data analysis, build machine learning models, and collaborate with engineering teams to improve data architecture.\n\nResponsibilities\n• Data Analysis: Interpret and analyze structured and unstructured data using statistical methods\n• Data Preparation: Clean, transform, and organize large datasets for analysis\n• Personalization Modeling: Build machine learning models to optimize customer web journeys\n• Tag Management: Assess data collection processes via web tag managers and recommend improvements\n• Experimentation: Conduct and analyze A/B tests to identify actionable insights\n• KPI Optimization: Apply statistical tools and ML techniques to improve DCI team metrics\n• Collaboration: Work with engineering teams to define long-term data architecture strategies\n\nSkills\n• Currently pursuing Bachelor's or Master's in Computer Science, Mathematics, or Statistics\n• Strong knowledge of Python, Java, and SQL\n• Experience with Tableau or other data visualization platforms\n• Familiarity with model development and evaluation\n• Proficient in hypothesis testing and exploratory data analysis\n• Able to work with both structured and unstructured datasets\n• Comfortable working with cross-functional teams\n\nBenefits\n• All employees will be eligible to participate in an incentive plan\n\nCompany Overview\n• Infineon Technologies offers semiconductor solutions, microcontrollers, LED drivers, sensors and Automotive & Power Management ICs. It was founded in 1999, and is headquartered in Neubiberg, Bayern, DEU, with a workforce of 10001+ employees. Its website is https://www.infineon.com.",
+      "job_apply_link": "https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1d",
+      "id": "infineon-internship-data-science-lexington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Cvent",
+      "job_city": "Tysons",
+      "job_state": "Virginia",
+      "job_description": "Overview :\n\nOur Culture and Impact\n\nCvent is a leading meetings, events, and hospitality technology provider with more than 5,000+ employees and 24,000+ customers worldwide, including 60% of the Fortune 500. Founded in 1999, Cvent delivers a comprehensive event marketing and management platform for marketers and event professionals and offers software solutions to hotels, special event venues and destinations to help them grow their group / MICE and corporate travel business. Our technology brings millions of people together at events around the world. In short, we’re transforming the meetings and events industry through innovative technology that powers the human connection.\n\nCvent's strength lies in its people, fostering a culture where everyone is encouraged to think like entrepreneurs, taking risks and making decisions confidently. We value diverse perspectives and celebrate differences, working together with colleagues and clients to build strong connections.\n\nAI at Cvent : Leading the Future\n\nAre you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation.\n\nThroughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you.\n\nInternships at Cvent\n\nCvent’s paid internship gives students hands-on experience and direct mentorship that supports their professional development and career growth after college graduation. Interns are exposed to the inner workings of an industry-leading software company while taking ownership of projects that contribute to the company’s continued success. Interns may receive an offer for full-time employment after graduation.\n\nIn This Role, You Will :\n\nWork on real projects using Generative AI, Machine Learning, and Data Science to build models and LLM-powered features in CventIQ, Cvent’s suite of AI products\n\nIdeal candidates :\n• Will have a strong interest in AI research and a desire to build a career in this field.\n• Bring curiousity, a strong willingess to learn, and the ability to collaborate in a team environment.\n• Skilled in Python, SQL, Machine Learning, data analysis, analytical thinking and solid communication\n\nExample projects :\n• Developing recommendations to personalize event planning and boost attendee engagement\n• Build various ML / statistical models\n• Create AI accelerators\n\nHere's What You Need :\n• Full-time college student with plans to graduate in May 2027 (summer between Junior & Senior year)\n• Ability to work 40 hours per week for 10 weeks.\n• Ability to commute to our headquarters in Tysons Corner, VA.\n• Strong time management, conflict resolution, and analytical skills.\n• Demonstrate enthusiasm and a drive for continual improvement.\n\nMost importantly, a successful candidate will be passionate about technology. Keeping up with the latest advancements in the industry; spending time creating, building, and exploring with technical projects.\n\nJoin us to make real impact, learn from experienced data scientists and AI experts, and grow your career.\n\nWe are not able to offer sponsorship for this position.\n\nPhysical Demands\n\nWork on real projects using Generative AI, Machine Learning, and Data Science to build models and LLM-powered features in CventIQ, Cvent’s suite of AI products\n\nIdeal candidates :\n• Will have a strong interest in AI research and a desire to build a career in this field.\n• Bring curiousity, a strong willingess to learn, and the ability to collaborate in a team environment.\n• Skilled in Python, SQL, Machine Learning, data analysis, analytical thinking and solid communication\n\nExample projects :\n• Developing recommendations to personalize event planning and boost attendee engagement\n• Build various ML / statistical models\n• Create AI accelerators\n• Full-time college student with plans to graduate in May 2027 (summer between Junior & Senior year)\n• Ability to work 40 hours per week for 10 weeks.\n• Ability to commute to our headquarters in Tysons Corner, VA.\n• Strong time management, conflict resolution, and analytical skills.\n• Demonstrate enthusiasm and a drive for continual improvement.\n\nMost importantly, a successful candidate will be passionate about technology. Keeping up with the latest advancements in the industry; spending time creating, building, and exploring with technical projects.\n\nJoin us to make real impact, learn from experienced data scientists and AI experts, and grow your career.\n\nWe are not able to offer sponsorship for this position.\n\nPhysical Demands",
+      "job_apply_link": "https://www.talent.com/view?id=d43e8102b37b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-17T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1d",
+      "id": "cvent-data-science-intern-tysons"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T02:39:12.984Z",
     "enrichedAt": null,
     "postedAt": null
   }

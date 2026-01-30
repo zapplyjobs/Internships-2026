@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=9141d1e2f734&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Software Engineer Intern Applications in Campbell. Imperative Care is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=9141d1e2f734&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-01-30T02:39:27.995Z"
+    }
+  },
+  "cachedAt": 1769740767995
+}
