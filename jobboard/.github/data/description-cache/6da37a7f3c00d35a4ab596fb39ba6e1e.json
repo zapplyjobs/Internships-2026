@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/69795d5952f3c27ec645cd3d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>SAP SuccessFactors is part of SAP's global, strategic, paid internship program aimed at providing university students with meaningful career opportunities. As an AI/ML Intern, you will collaborate with senior data scientists and engineers to build and optimize intelligent systems while engaging in hands-on learning experiences.</p><br><p>Responsibilities</p><ul><li>Collect, clean, and preprocess large-scale structured and unstructured datasets to ensure they are 'model-ready.'</li><li>Assist in designing and implementing ML algorithms (Supervised, Unsupervised, and Deep Learning) using frameworks like PyTorch or TensorFlow</li><li>Conduct A/B testing, hyperparameter tuning, and error analysis to improve model precision and recall</li><li>Work with Large Language Models (LLMs), including prompt engineering, fine-tuning, and implementing RAG (Retrieval-Augmented Generation) pipelines</li><li>Help maintain and monitor model performance in production; assist in containerizing models using Docker for deployment</li><li>Stay current with the latest AI research (e.g., via arXiv) and document your experimental results for the wider engineering team</li></ul><br><p>Skills</p><ul><li>Currently pursuing a BS, MS, or PhD in Computer Science, Data Science, Mathematics, or a related quantitative field</li><li>Must be currently enrolled, or recently graduated (start date must be within 6 months of graduation date) from a coding academy/bootcamp, apprenticeship, associate, bachelor's, master's or JD/PhD program</li><li>A proven ability to break down complex problems and think through edge cases</li><li>A strong desire to learn new libraries and stay updated on the fast-moving AI landscape</li></ul><br><p>Benefits</p><ul><li>Culture of Collaboration: Partner with experienced SAP colleagues and expert mentors who will support your growth.</li><li>Project-driven Experience: Kickstart your career with hands-on learning experience, making an impact from day one by contributing to meaningful projects that help the world run better.</li><li>Gain Visibility: Build relationships with leaders and peers across teams and functions.</li></ul><br><p>Company Overview</p><li>We find the best job offers for experts in ChatGPT and related technologies. It was founded in 2024, and is headquartered in New York, NY, New York, US, with a workforce of 2-10 employees. Its website is https://www.chatgpt-jobs.com.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/69795d5952f3c27ec645cd3d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-01-30T05:28:22.515Z"
+    }
+  },
+  "cachedAt": 1769750902515
+}
