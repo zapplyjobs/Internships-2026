@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-18-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-7-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-16-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-7-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 7+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 18+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 6+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 16+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -66,22 +66,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Research Intern - Firmware Security | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748757) | 1d |
 | Research Intern - Applied Sciences Group | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748770) | 1d |
-| Research Intern - AI Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 2d |
-| Research Intern - AI Inference Software & Systems | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748209) | 2d |
+| Research Intern - Firmware Security | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748757) | 1d |
+| Research Intern - AI Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 3d |
+| Research Intern - AI Inference Software & Systems | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748209) | 3d |
 | Research Intern - AI Evaluation and Alignment | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 1w |
 | Data Engineering Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556659198) | 1w |
 | Research Intern - AI/ML for Electricity Infrastructure Planning | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556734896) | 1w |
 
-### 🏢 **Top Tech** (2 positions)
+### 🏢 **Top Tech** (1 position)
 
-#### 🎮 **NVIDIA** (2 positions)
+#### 🎮 **NVIDIA** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Technical Program Management Intern - Deep Learning Software - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564) | 2d |
-| System Software Engineering Intern - Video - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--Video---Summer-2026_JR2006997) | 1w |
+| Technical Program Management Intern - Deep Learning Software - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564) | 3d |
 
 ### 💻 **Enterprise Software** (4 positions)
 
@@ -107,21 +106,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |------|----------|-------|-----------|-----|
 | Intern - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7565624) | 2d |
 
-### 🏭 **Manufacturing & Industrial** (4 positions)
+### 🏭 **Manufacturing & Industrial** (3 positions)
 
 #### 💾 **Micron Technology** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern ETD Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259) | 2d |
+| Intern ETD Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259) | 3d |
 | Intern – IT MFG | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122) | 5d |
 | Intern – Smart Manufacturing and AI Data Science | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing-and-AI-Data-Science_JR88885) | 1w |
-
-#### 🚗 **Magna International** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Data Science Intern- Summer 2026 | Troy, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/696a69df350cf4380311536e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 
 
@@ -178,13 +171,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1573 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1574 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1573 roles
-- **🏢 Companies**: 235 companies  
+- **📁 Total Positions**: 1574 roles
+- **🏢 Companies**: 234 companies  
 - **⭐ FAANG+ Opportunities**: 79 positions
 
 ### ⭐ **FAANG+** (77 positions)
@@ -470,7 +463,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18 current opportunities from 7 top companies.**
+**🎯 16 current opportunities from 6 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
