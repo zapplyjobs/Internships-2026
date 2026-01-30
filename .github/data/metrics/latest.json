@@ -1,30 +1,59 @@
 {
-  "generated": "2026-01-30T06:17:19.196Z",
+  "generated": "2026-01-30T06:35:25.670Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T06:17:19.196Z",
-  "period_end": "2026-01-30T06:17:19.196Z",
+  "period_start": "2026-01-23T06:35:25.670Z",
+  "period_end": "2026-01-30T06:35:25.670Z",
   "summary": {
-    "total_jobs_posted": 8,
-    "unique_jobs": 4,
-    "multi_channel_postings": 8,
-    "unique_multi_channel_jobs": 4,
+    "total_jobs_posted": 6,
+    "unique_jobs": 3,
+    "multi_channel_postings": 6,
+    "unique_multi_channel_jobs": 3,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 5
+    "channels_active": 3
   },
   "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
+    "📣・marketing-internships": {
+      "channel_id": "1464303312626122855",
+      "count": 3,
       "jobs": [
-        "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston"
+        "siriusxm-summer-intern-product-management-irving",
+        "leland-product-management-intern-",
+        "world-kinect-technology-intern-multiple-teams-miami"
       ],
       "recent_jobs": [
         {
-          "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
-          "title": "AI / ML Research and Development Intern",
-          "company": "The Pennsylvania State University",
-          "posted_at": "2026-01-30T06:16:54.217Z"
+          "id": "siriusxm-summer-intern-product-management-irving",
+          "title": "Summer Intern, Product Management",
+          "company": "SiriusXM",
+          "posted_at": "2026-01-30T06:35:10.127Z"
+        },
+        {
+          "id": "leland-product-management-intern-",
+          "title": "Product Management Intern",
+          "company": "Leland",
+          "posted_at": "2026-01-30T06:35:13.772Z"
+        },
+        {
+          "id": "world-kinect-technology-intern-multiple-teams-miami",
+          "title": "Technology Intern - Multiple Teams",
+          "company": "World Kinect",
+          "posted_at": "2026-01-30T06:35:17.213Z"
+        }
+      ]
+    },
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 1,
+      "jobs": [
+        "siriusxm-summer-intern-product-management-irving"
+      ],
+      "recent_jobs": [
+        {
+          "id": "siriusxm-summer-intern-product-management-irving",
+          "title": "Summer Intern, Product Management",
+          "company": "SiriusXM",
+          "posted_at": "2026-01-30T06:35:11.909Z"
         }
       ]
     },
@@ -32,124 +61,55 @@
       "channel_id": "1464304182923362324",
       "count": 2,
       "jobs": [
-        "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
-        "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge"
+        "leland-product-management-intern-",
+        "world-kinect-technology-intern-multiple-teams-miami"
       ],
       "recent_jobs": [
         {
-          "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
-          "title": "AI / ML Research and Development Intern",
-          "company": "The Pennsylvania State University",
-          "posted_at": "2026-01-30T06:16:55.943Z"
+          "id": "leland-product-management-intern-",
+          "title": "Product Management Intern",
+          "company": "Leland",
+          "posted_at": "2026-01-30T06:35:15.513Z"
         },
         {
-          "id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
-          "title": "2026 Summer Internship Program : Machine Learning Research Intern",
-          "company": "Takeda Pharmaceuticals",
-          "posted_at": "2026-01-30T06:17:02.493Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 2,
-      "jobs": [
-        "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
-        "air-liquide-ai-and-machine-learning-intern-newark"
-      ],
-      "recent_jobs": [
-        {
-          "id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
-          "title": "2026 Summer Internship Program : Machine Learning Research Intern",
-          "company": "Takeda Pharmaceuticals",
-          "posted_at": "2026-01-30T06:17:00.648Z"
-        },
-        {
-          "id": "air-liquide-ai-and-machine-learning-intern-newark",
-          "title": "AI and Machine Learning Intern",
-          "company": "Air Liquide",
-          "posted_at": "2026-01-30T06:17:04.243Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 2,
-      "jobs": [
-        "air-liquide-ai-and-machine-learning-intern-newark",
-        "air-liquide-hse-data-automation-intern-newark"
-      ],
-      "recent_jobs": [
-        {
-          "id": "air-liquide-ai-and-machine-learning-intern-newark",
-          "title": "AI and Machine Learning Intern",
-          "company": "Air Liquide",
-          "posted_at": "2026-01-30T06:17:05.947Z"
-        },
-        {
-          "id": "air-liquide-hse-data-automation-intern-newark",
-          "title": "HSE Data & Automation Intern",
-          "company": "Air Liquide",
-          "posted_at": "2026-01-30T06:17:12.510Z"
-        }
-      ]
-    },
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 1,
-      "jobs": [
-        "air-liquide-hse-data-automation-intern-newark"
-      ],
-      "recent_jobs": [
-        {
-          "id": "air-liquide-hse-data-automation-intern-newark",
-          "title": "HSE Data & Automation Intern",
-          "company": "Air Liquide",
-          "posted_at": "2026-01-30T06:17:10.750Z"
+          "id": "world-kinect-technology-intern-multiple-teams-miami",
+          "title": "Technology Intern - Multiple Teams",
+          "company": "World Kinect",
+          "posted_at": "2026-01-30T06:35:18.982Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
-      "company": "The Pennsylvania State University",
-      "title": "AI / ML Research and Development Intern",
+      "job_id": "siriusxm-summer-intern-product-management-irving",
+      "company": "SiriusXM",
+      "title": "Summer Intern, Product Management",
       "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-30T06:16:54.217Z"
-    },
-    {
-      "job_id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
-      "company": "Takeda Pharmaceuticals",
-      "title": "2026 Summer Internship Program : Machine Learning Research Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-30T06:17:00.648Z"
-    },
-    {
-      "job_id": "air-liquide-ai-and-machine-learning-intern-newark",
-      "company": "Air Liquide",
-      "title": "AI and Machine Learning Intern",
-      "channels": [
-        "🤖・ai-internships",
+        "📣・marketing-internships",
         "🗽・new-york-internships"
       ],
-      "posted_at": "2026-01-30T06:17:04.243Z"
+      "posted_at": "2026-01-30T06:35:10.127Z"
     },
     {
-      "job_id": "air-liquide-hse-data-automation-intern-newark",
-      "company": "Air Liquide",
-      "title": "HSE Data & Automation Intern",
+      "job_id": "leland-product-management-intern-",
+      "company": "Leland",
+      "title": "Product Management Intern",
       "channels": [
-        "📊・data-science-internships",
-        "🗽・new-york-internships"
+        "📣・marketing-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T06:17:10.750Z"
+      "posted_at": "2026-01-30T06:35:13.772Z"
+    },
+    {
+      "job_id": "world-kinect-technology-intern-multiple-teams-miami",
+      "company": "World Kinect",
+      "title": "Technology Intern - Multiple Teams",
+      "channels": [
+        "📣・marketing-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-30T06:35:17.213Z"
     }
   ],
   "failures": [],
@@ -163,70 +123,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.661Z"
+        "timestamp": "2026-01-30T06:35:09.848Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.662Z"
+        "timestamp": "2026-01-30T06:35:09.849Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.662Z"
+        "timestamp": "2026-01-30T06:35:09.849Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.662Z"
+        "timestamp": "2026-01-30T06:35:09.849Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.662Z"
+        "timestamp": "2026-01-30T06:35:09.849Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.662Z"
+        "timestamp": "2026-01-30T06:35:09.849Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.663Z"
+        "timestamp": "2026-01-30T06:35:09.850Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.663Z"
+        "timestamp": "2026-01-30T06:35:09.850Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.663Z"
+        "timestamp": "2026-01-30T06:35:09.850Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T06:16:53.663Z"
+        "timestamp": "2026-01-30T06:35:09.850Z"
       }
     ]
   }
