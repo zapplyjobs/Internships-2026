@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T10:46:29.747Z",
+  "lastUpdated": "2026-01-30T11:02:52.000Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -7044,14 +7044,41 @@
       "job_city": "Bellevue",
       "job_state": "WA",
       "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!Get hands-on experience, training—and a leg up on a bright future.Learn. Achieve. Build a career.T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!This is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hand-on projects and the chance to create an immediate impact.What It's Like:Want to build AI that actually matters? Join T-Mobile's AI Agents team this summer and work on real products that customers use every day. You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create. You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile.What You'll Do:You will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program. You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models. You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products. You will have a direct impact to hundreds of thousands of customer interactions every day!Responsibilities:- Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions- Integrate T-Mobile APIs into the context/prompt of your agent- Integrate your AI Agent into IntentCX's multi-agent framework- Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone numberWhat It Takes:- Coding experience (Python is usually key for AI work)- Understanding of how APIs work- Familiarity with data analysis or machine learning basics- Comfortable working with large datasets- Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech- Communication skills to explain technical work to non-technical stakeholders- Ability to work cross-functionally with product, engineering, and business teams- Comfortable with ambiguity: AI projects rarely have clear-cut answers- Experience with LLMs, prompt engineering, or chatbot frameworksAt least 18 years of ageLegally authorized to work in the United StatesMust be actively enrolled in a Bachelors or Graduate degree programEmployees of T-Mobile or Metro by T-Mobile are ineligible for InternshipsEmployer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education.Relocation assistance may be provided to program participants who reside more than 50 miles from the internship location.Intern wages range from $20/hour to $40/hour. The successful candidate’s actual pay will be based on experience/location.Never stop growing!As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests."
+    },
+    {
+      "id": "6bc23f277672fa99-2026-01-30-1",
+      "jobId": "6bc23f277672fa99",
+      "company": "Microsoft",
+      "title": "Software Engineer: Co-Op Intern Opportunities",
+      "postedToDiscord": "2026-01-30T11:02:45.705Z",
+      "sourceDate": "2026-01-30T10:33:08.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556746673",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466750480544694374",
+          "channelType": "category",
+          "postedAt": "2026-01-30T11:02:45.705Z",
+          "channelJobNumber": 79
+        },
+        "1464304146072207390": {
+          "messageId": "1466750488145039486",
+          "channelType": "location",
+          "postedAt": "2026-01-30T11:02:47.468Z",
+          "channelJobNumber": 15
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Redmond",
+      "job_state": "WA",
+      "job_description": "Apply engineering principles to solve complex problems through sound and creative engineering. Work with appropriate stakeholders to determine user requirements for a feature. Quickly learns new engineering methods and incorporates them into work processes. Seek feedback and apply internal or industry best practices to improve technical solutions. Demonstrate skill in time management and completing software projects in a cooperative team environment. Review current developments and proactively seek new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Currently pursuing Bachelor&#39;s degree in Computer Science, Engineering, or related field at Waterloo University. Candidate must be enrolled in a full time bachelor&#39;s program at Waterloo University in an area relevant for the role during the academic term immediately before their internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms."
     }
   ],
   "metadata": {
-    "totalJobs": 390,
+    "totalJobs": 391,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T10:46:29.747Z",
+      "date": "2026-01-30T11:02:52.000Z",
       "archived": 0
     }
   }
