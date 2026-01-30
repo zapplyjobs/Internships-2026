@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T16:11:54.367Z",
+  "lastUpdated": "2026-01-30T16:27:42.211Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -7260,14 +7260,41 @@
       "job_city": "Dedham",
       "job_state": "MA",
       "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of business principles. <strong>Administration Interns</strong> must be enrolled in an accredited degree program with a preference in a related field.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Administration Intern to join our team. The position provides an opportunity to enhance the performance and profitability of an organization that supports some of our nation's fundamental defense services. This position will support program teams supporting the efforts</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various projects of the GDMS organization and its clients. In addition to receiving a competitive wage, the Administration Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p>#LI-Hybrid</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $33.60 - USD $33.60 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>"
+    },
+    {
+      "id": "4603464cec04f73f-2026-01-30-1",
+      "jobId": "4603464cec04f73f",
+      "company": "Parexel",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2026-01-30T16:27:34.098Z",
+      "sourceDate": "2026-01-30T15:40:47.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/en-US/recruiting/parexel/Parexel_External_Careers/job/United-States---Raleigh---North-Carolina/Data-Engineer-Intern_R0000037539-1",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1466832220663709970",
+          "channelType": "category",
+          "postedAt": "2026-01-30T16:27:34.098Z",
+          "channelJobNumber": 33
+        },
+        "1464304182923362324": {
+          "messageId": "1466832235620597884",
+          "channelType": "location",
+          "postedAt": "2026-01-30T16:27:37.674Z",
+          "channelJobNumber": 73
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Raleigh",
+      "job_state": "NC",
+      "job_description": "When our values align, there's no limit to what we can achieve. At Parexel, we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do. Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we're committed to making a difference. Key Accountabilities: Using Microsoft Azure data PaaS services, design, build, modify, and support data pipelines leveraging DataBricks and PowerBI in a medallion architecture setting Create prototypes to validate proposed ideas and solicit input from stakeholders Collaborate with Team Leads to define/clarify business requirements, estimate development costs, and finalize work plans Run unit and integration tests on all created code – Create and run unit and integration tests throughout the development lifecycle Support and Troubleshooting – Assist the Operations Team with any environmental issues that arise during application deployment in the Development, QA, Staging, and Production environments Assist other teams in resolving issues that may develop as a result of applications or the integration of multiple components Knowledge and Experience: Understanding of design concepts and architectural basics The ability to transform functional and nonfunctional needs into system requirements The ability to develop and code complicated applications is required. The ability to create test cases and scenarios based on specifications. Knowledge of SDLC and agile techniques, current technologies and trends Logical thinking and problem-solving abilities, as well as the capacity to collaborate Exposure to Cloud Platform, Azure, Databricks, ADF, ADO Knowledge of SQL and Python Education: Studying Computer Science, Engineering, or related technical field EEO Disclaimer Parexel is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to legally protected status, which in the US includes race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. Parexel is a leading global clinical research organization (CRO) providing insights-driven Clinical and Consulting solutions to the world’s life sciences industry. Leveraging deep local knowledge and a global breadth of clinical, regulatory and therapeutic expertise, our professionals worldwide work in partnership with biopharmaceutical leaders, emerging innovators and sites to design and deliver clinical trials with patients in mind — broadening access and making clinical research a care option for anyone, anywhere. Our proven track record spans 40+ years and drives us forward, advancing clinical research in healthcare’s most complex areas while harnessing innovation to drive efficiencies across every phase of the clinical development process. Our insights-driven approach, proven delivery and trusted execution are accelerating the delivery of life-changing treatments to patients — With Heart.™"
     }
   ],
   "metadata": {
-    "totalJobs": 398,
+    "totalJobs": 399,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T16:11:54.367Z",
+      "date": "2026-01-30T16:27:42.211Z",
       "archived": 0
     }
   }
