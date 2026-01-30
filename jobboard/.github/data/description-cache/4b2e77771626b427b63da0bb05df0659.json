@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556746673",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply engineering principles to solve complex problems through sound and creative engineering. Work with appropriate stakeholders to determine user requirements for a feature. Quickly learns new engineering methods and incorporates them into work processes. Seek feedback and apply internal or industry best practices to improve technical solutions. Demonstrate skill in time management and completing software projects in a cooperative team environment. Review current developments and proactively seek new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Currently pursuing Bachelor&#39;s degree in Computer Science, Engineering, or related field at Waterloo University. Candidate must be enrolled in a full time bachelor&#39;s program at Waterloo University in an area relevant for the role during the academic term immediately before their internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556746673",
+      "fetchedAt": "2026-01-30T11:02:42.363Z"
+    }
+  },
+  "cachedAt": 1769770962363
+}

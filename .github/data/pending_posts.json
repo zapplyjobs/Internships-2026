@@ -3824,5 +3824,83 @@
     "addedAt": "2026-01-30T10:46:21.689Z",
     "enrichedAt": "2026-01-30T10:46:26.635Z",
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer: Co-Op Intern Opportunities",
+      "employer_name": "Microsoft",
+      "job_city": "Redmond",
+      "job_state": "WA",
+      "job_description": "Apply engineering principles to solve complex problems through sound and creative engineering. Work with appropriate stakeholders to determine user requirements for a feature. Quickly learns new engineering methods and incorporates them into work processes. Seek feedback and apply internal or industry best practices to improve technical solutions. Demonstrate skill in time management and completing software projects in a cooperative team environment. Review current developments and proactively seek new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Currently pursuing Bachelor&#39;s degree in Computer Science, Engineering, or related field at Waterloo University. Candidate must be enrolled in a full time bachelor&#39;s program at Waterloo University in an area relevant for the role during the academic term immediately before their internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms.",
+      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556746673",
+      "job_posted_at_datetime_utc": "2026-01-30T10:33:08.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "microsoft-software-engineer-co-op-intern-opportunities-redmond",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-30T11:02:41.866Z",
+    "enrichedAt": "2026-01-30T11:02:42.364Z",
+    "postedAt": "2026-01-30T11:02:51.992Z"
+  },
+  {
+    "job": {
+      "job_title": "Application Developer Intern - Client Innovation Center",
+      "employer_name": "Anywhere",
+      "job_city": "East Lansing",
+      "job_state": "MI",
+      "job_description": "Join Anywhere in this exciting opportunity.",
+      "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87264",
+      "job_posted_at_datetime_utc": "2026-01-30T10:32:06.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "anywhere-application-developer-intern-client-innovation-center-east-lansing"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T11:02:41.866Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Foundations – Research Internship: 2026 - Research Scientist",
+      "employer_name": "Anywhere",
+      "job_city": "Cambridge",
+      "job_state": "MA",
+      "job_description": "Join Anywhere in this exciting opportunity.",
+      "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805",
+      "job_posted_at_datetime_utc": "2026-01-30T10:32:05.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T11:02:41.866Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Clinical-Pharmacology---Real-World-Treatment-Trajectory-Modeling_202601-101504",
+      "job_posted_at_datetime_utc": "2026-01-27T23:23:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "2d",
+      "id": "genentech-intern-clinical-pharmacology-real-world-treatment-trajectory-modeling-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T11:02:41.866Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
