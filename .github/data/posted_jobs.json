@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T11:02:52.000Z",
+  "lastUpdated": "2026-01-30T11:26:27.454Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -7071,14 +7071,41 @@
       "job_city": "Redmond",
       "job_state": "WA",
       "job_description": "Apply engineering principles to solve complex problems through sound and creative engineering. Work with appropriate stakeholders to determine user requirements for a feature. Quickly learns new engineering methods and incorporates them into work processes. Seek feedback and apply internal or industry best practices to improve technical solutions. Demonstrate skill in time management and completing software projects in a cooperative team environment. Review current developments and proactively seek new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Currently pursuing Bachelor&#39;s degree in Computer Science, Engineering, or related field at Waterloo University. Candidate must be enrolled in a full time bachelor&#39;s program at Waterloo University in an area relevant for the role during the academic term immediately before their internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms."
+    },
+    {
+      "id": "892ac6a4a44cdb4b-2026-01-30-1",
+      "jobId": "892ac6a4a44cdb4b",
+      "company": "Anywhere",
+      "title": "Application Developer Intern - Client Innovation Center",
+      "postedToDiscord": "2026-01-30T11:26:21.201Z",
+      "sourceDate": "2026-01-30T10:32:06.000Z",
+      "sourceUrl": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87264",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466756417837990156",
+          "channelType": "category",
+          "postedAt": "2026-01-30T11:26:21.201Z",
+          "channelJobNumber": 80
+        },
+        "1464304182923362324": {
+          "messageId": "1466756425194668158",
+          "channelType": "location",
+          "postedAt": "2026-01-30T11:26:22.919Z",
+          "channelJobNumber": 67
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "East Lansing",
+      "job_state": "MI",
+      "job_description": "Join Anywhere in this exciting opportunity."
     }
   ],
   "metadata": {
-    "totalJobs": 391,
+    "totalJobs": 392,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T11:02:52.000Z",
+      "date": "2026-01-30T11:26:27.454Z",
       "archived": 0
     }
   }
