@@ -1,19 +1,61 @@
 {
-  "generated": "2026-01-30T14:30:34.385Z",
+  "generated": "2026-01-30T14:50:43.413Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T14:30:34.385Z",
-  "period_end": "2026-01-30T14:30:34.385Z",
+  "period_start": "2026-01-23T14:50:43.413Z",
+  "period_end": "2026-01-30T14:50:43.413Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 2,
+    "unique_jobs": 1,
+    "multi_channel_postings": 2,
+    "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 0
+    "channels_active": 2
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "fidelity-investments-intern-data-science-and-optimization-boston"
+      ],
+      "recent_jobs": [
+        {
+          "id": "fidelity-investments-intern-data-science-and-optimization-boston",
+          "title": "Intern Data Science and Optimization",
+          "company": "Fidelity Investments",
+          "posted_at": "2026-01-30T14:50:35.054Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 1,
+      "jobs": [
+        "fidelity-investments-intern-data-science-and-optimization-boston"
+      ],
+      "recent_jobs": [
+        {
+          "id": "fidelity-investments-intern-data-science-and-optimization-boston",
+          "title": "Intern Data Science and Optimization",
+          "company": "Fidelity Investments",
+          "posted_at": "2026-01-30T14:50:36.725Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "fidelity-investments-intern-data-science-and-optimization-boston",
+      "company": "Fidelity Investments",
+      "title": "Intern Data Science and Optimization",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-30T14:50:35.054Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
@@ -25,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.190Z"
+        "timestamp": "2026-01-30T14:50:34.332Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.190Z"
+        "timestamp": "2026-01-30T14:50:34.333Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.190Z"
+        "timestamp": "2026-01-30T14:50:34.333Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.191Z"
+        "timestamp": "2026-01-30T14:50:34.333Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.191Z"
+        "timestamp": "2026-01-30T14:50:34.333Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.191Z"
+        "timestamp": "2026-01-30T14:50:34.333Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.191Z"
+        "timestamp": "2026-01-30T14:50:34.334Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.192Z"
+        "timestamp": "2026-01-30T14:50:34.334Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.192Z"
+        "timestamp": "2026-01-30T14:50:34.334Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T14:30:32.192Z"
+        "timestamp": "2026-01-30T14:50:34.334Z"
       }
     ]
   }
