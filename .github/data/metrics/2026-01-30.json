@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-30T16:27:44.388Z",
+  "generated": "2026-01-30T16:48:33.402Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T16:27:44.388Z",
-  "period_end": "2026-01-30T16:27:44.388Z",
+  "period_start": "2026-01-23T16:48:33.402Z",
+  "period_end": "2026-01-30T16:48:33.402Z",
   "summary": {
     "total_jobs_posted": 2,
     "unique_jobs": 1,
@@ -13,18 +13,18 @@
     "channels_active": 2
   },
   "by_channel": {
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
       "count": 1,
       "jobs": [
-        "parexel-data-engineer-intern-raleigh"
+        "caci-ai-prompt-engineer-intern-ashburn"
       ],
       "recent_jobs": [
         {
-          "id": "parexel-data-engineer-intern-raleigh",
-          "title": "Data Engineer Intern",
-          "company": "Parexel",
-          "posted_at": "2026-01-30T16:27:34.122Z"
+          "id": "caci-ai-prompt-engineer-intern-ashburn",
+          "title": "AI Prompt Engineer Intern",
+          "company": "CACI",
+          "posted_at": "2026-01-30T16:48:25.033Z"
         }
       ]
     },
@@ -32,28 +32,28 @@
       "channel_id": "1464304182923362324",
       "count": 1,
       "jobs": [
-        "parexel-data-engineer-intern-raleigh"
+        "caci-ai-prompt-engineer-intern-ashburn"
       ],
       "recent_jobs": [
         {
-          "id": "parexel-data-engineer-intern-raleigh",
-          "title": "Data Engineer Intern",
-          "company": "Parexel",
-          "posted_at": "2026-01-30T16:27:37.692Z"
+          "id": "caci-ai-prompt-engineer-intern-ashburn",
+          "title": "AI Prompt Engineer Intern",
+          "company": "CACI",
+          "posted_at": "2026-01-30T16:48:26.708Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "parexel-data-engineer-intern-raleigh",
-      "company": "Parexel",
-      "title": "Data Engineer Intern",
+      "job_id": "caci-ai-prompt-engineer-intern-ashburn",
+      "company": "CACI",
+      "title": "AI Prompt Engineer Intern",
       "channels": [
-        "📊・data-science-internships",
+        "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T16:27:34.122Z"
+      "posted_at": "2026-01-30T16:48:25.033Z"
     }
   ],
   "failures": [],
@@ -67,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.704Z"
+        "timestamp": "2026-01-30T16:48:24.779Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.705Z"
+        "timestamp": "2026-01-30T16:48:24.779Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.705Z"
+        "timestamp": "2026-01-30T16:48:24.780Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.705Z"
+        "timestamp": "2026-01-30T16:48:24.780Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.705Z"
+        "timestamp": "2026-01-30T16:48:24.780Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.705Z"
+        "timestamp": "2026-01-30T16:48:24.780Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.706Z"
+        "timestamp": "2026-01-30T16:48:24.780Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.706Z"
+        "timestamp": "2026-01-30T16:48:24.781Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.706Z"
+        "timestamp": "2026-01-30T16:48:24.781Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T16:27:33.707Z"
+        "timestamp": "2026-01-30T16:48:24.781Z"
       }
     ]
   }
