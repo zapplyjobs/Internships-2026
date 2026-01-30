@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-30T04:24:48.281Z",
+  "generated": "2026-01-30T04:59:55.935Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T04:24:48.281Z",
-  "period_end": "2026-01-30T04:24:48.281Z",
+  "period_start": "2026-01-23T04:59:55.935Z",
+  "period_end": "2026-01-30T04:59:55.935Z",
   "summary": {
     "total_jobs_posted": 8,
     "unique_jobs": 4,
@@ -10,146 +10,138 @@
     "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 5
+    "channels_active": 4
   },
   "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
-      "jobs": [
-        "fabletics-data-engineering-intern-el-segundo"
-      ],
-      "recent_jobs": [
-        {
-          "id": "fabletics-data-engineering-intern-el-segundo",
-          "title": "Data Engineering Intern",
-          "company": "Fabletics",
-          "posted_at": "2026-01-30T04:24:23.168Z"
-        }
-      ]
-    },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
       "count": 2,
       "jobs": [
-        "fabletics-data-engineering-intern-el-segundo",
-        "qtc-management-agentic-ai-data-science-internship-burlingame"
+        "spa-data-science-intern-jobs-vienna",
+        "cvent-data-science-intern-tysons"
       ],
       "recent_jobs": [
         {
-          "id": "fabletics-data-engineering-intern-el-segundo",
-          "title": "Data Engineering Intern",
-          "company": "Fabletics",
-          "posted_at": "2026-01-30T04:24:24.944Z"
+          "id": "spa-data-science-intern-jobs-vienna",
+          "title": "Data Science Intern Jobs",
+          "company": "SPA",
+          "posted_at": "2026-01-30T04:59:33.934Z"
         },
         {
-          "id": "qtc-management-agentic-ai-data-science-internship-burlingame",
-          "title": "Agentic AI & Data Science Internship",
-          "company": "QTC Management, inc",
-          "posted_at": "2026-01-30T04:24:38.125Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 1,
-      "jobs": [
-        "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond"
-      ],
-      "recent_jobs": [
-        {
-          "id": "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
-          "title": "Data Analysis and Simulation Co-op/Intern- Summer 2026",
-          "company": "American Honda Motor Co., Inc.",
-          "posted_at": "2026-01-30T04:24:29.783Z"
+          "id": "cvent-data-science-intern-tysons",
+          "title": "Data Science Intern",
+          "company": "Cvent",
+          "posted_at": "2026-01-30T04:59:37.423Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 2,
+      "count": 3,
       "jobs": [
-        "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
-        "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul"
+        "spa-data-science-intern-jobs-vienna",
+        "cvent-data-science-intern-tysons",
+        "magna-international-data-science-intern-summer-2026-troy"
       ],
       "recent_jobs": [
         {
-          "id": "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
-          "title": "Data Analysis and Simulation Co-op/Intern- Summer 2026",
-          "company": "American Honda Motor Co., Inc.",
-          "posted_at": "2026-01-30T04:24:31.552Z"
+          "id": "spa-data-science-intern-jobs-vienna",
+          "title": "Data Science Intern Jobs",
+          "company": "SPA",
+          "posted_at": "2026-01-30T04:59:35.726Z"
         },
         {
-          "id": "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul",
-          "title": "R&D Research Algorithm & Data Science Intern 2026",
-          "company": "Boston Scientific",
-          "posted_at": "2026-01-30T04:24:41.588Z"
+          "id": "cvent-data-science-intern-tysons",
+          "title": "Data Science Intern",
+          "company": "Cvent",
+          "posted_at": "2026-01-30T04:59:39.100Z"
+        },
+        {
+          "id": "magna-international-data-science-intern-summer-2026-troy",
+          "title": "Data Science Intern- Summer 2026",
+          "company": "Magna International",
+          "posted_at": "2026-01-30T04:59:45.794Z"
         }
       ]
     },
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
       "count": 2,
       "jobs": [
-        "qtc-management-agentic-ai-data-science-internship-burlingame",
-        "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul"
+        "magna-international-data-science-intern-summer-2026-troy",
+        "infineon-internship-data-science-lexington"
       ],
       "recent_jobs": [
         {
-          "id": "qtc-management-agentic-ai-data-science-internship-burlingame",
-          "title": "Agentic AI & Data Science Internship",
-          "company": "QTC Management, inc",
-          "posted_at": "2026-01-30T04:24:36.383Z"
+          "id": "magna-international-data-science-intern-summer-2026-troy",
+          "title": "Data Science Intern- Summer 2026",
+          "company": "Magna International",
+          "posted_at": "2026-01-30T04:59:44.045Z"
         },
         {
-          "id": "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul",
-          "title": "R&D Research Algorithm & Data Science Intern 2026",
-          "company": "Boston Scientific",
-          "posted_at": "2026-01-30T04:24:39.813Z"
+          "id": "infineon-internship-data-science-lexington",
+          "title": "Internship - Data Science",
+          "company": "Infineon Technologies",
+          "posted_at": "2026-01-30T04:59:47.512Z"
+        }
+      ]
+    },
+    "🌲・pacific-northwest-internships": {
+      "channel_id": "1464304146072207390",
+      "count": 1,
+      "jobs": [
+        "infineon-internship-data-science-lexington"
+      ],
+      "recent_jobs": [
+        {
+          "id": "infineon-internship-data-science-lexington",
+          "title": "Internship - Data Science",
+          "company": "Infineon Technologies",
+          "posted_at": "2026-01-30T04:59:49.240Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "fabletics-data-engineering-intern-el-segundo",
-      "company": "Fabletics",
-      "title": "Data Engineering Intern",
+      "job_id": "spa-data-science-intern-jobs-vienna",
+      "company": "SPA",
+      "title": "Data Science Intern Jobs",
       "channels": [
-        "💻・tech-internships",
-        "🌴・socal-internships"
+        "📊・data-science-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T04:24:23.168Z"
+      "posted_at": "2026-01-30T04:59:33.934Z"
     },
     {
-      "job_id": "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
-      "company": "American Honda Motor Co., Inc.",
-      "title": "Data Analysis and Simulation Co-op/Intern- Summer 2026",
+      "job_id": "cvent-data-science-intern-tysons",
+      "company": "Cvent",
+      "title": "Data Science Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-30T04:59:37.423Z"
+    },
+    {
+      "job_id": "magna-international-data-science-intern-summer-2026-troy",
+      "company": "Magna International",
+      "title": "Data Science Intern- Summer 2026",
       "channels": [
         "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T04:24:29.783Z"
+      "posted_at": "2026-01-30T04:59:44.045Z"
     },
     {
-      "job_id": "qtc-management-agentic-ai-data-science-internship-burlingame",
-      "company": "QTC Management, inc",
-      "title": "Agentic AI & Data Science Internship",
+      "job_id": "infineon-internship-data-science-lexington",
+      "company": "Infineon Technologies",
+      "title": "Internship - Data Science",
       "channels": [
-        "📊・data-science-internships",
-        "🌴・socal-internships"
+        "🤖・ai-internships",
+        "🌲・pacific-northwest-internships"
       ],
-      "posted_at": "2026-01-30T04:24:36.383Z"
-    },
-    {
-      "job_id": "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul",
-      "company": "Boston Scientific",
-      "title": "R&D Research Algorithm & Data Science Intern 2026",
-      "channels": [
-        "📊・data-science-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-30T04:24:39.813Z"
+      "posted_at": "2026-01-30T04:59:47.512Z"
     }
   ],
   "failures": [],
@@ -163,70 +155,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.820Z"
+        "timestamp": "2026-01-30T04:59:33.638Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.820Z"
+        "timestamp": "2026-01-30T04:59:33.639Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.820Z"
+        "timestamp": "2026-01-30T04:59:33.639Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.821Z"
+        "timestamp": "2026-01-30T04:59:33.639Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.821Z"
+        "timestamp": "2026-01-30T04:59:33.639Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.821Z"
+        "timestamp": "2026-01-30T04:59:33.639Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.821Z"
+        "timestamp": "2026-01-30T04:59:33.640Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.821Z"
+        "timestamp": "2026-01-30T04:59:33.640Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.821Z"
+        "timestamp": "2026-01-30T04:59:33.640Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T04:24:22.822Z"
+        "timestamp": "2026-01-30T04:59:33.640Z"
       }
     ]
   }

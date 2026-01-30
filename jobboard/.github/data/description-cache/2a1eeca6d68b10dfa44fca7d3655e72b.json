@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>Infineon Technologies is a global leader in semiconductor solutions, focusing on innovation and customer success in power systems and IoT. They are seeking an intern in Data Science to perform data analysis, build machine learning models, and collaborate with engineering teams to improve data architecture.</p><br><p>Responsibilities</p><ul><li>Data Analysis: Interpret and analyze structured and unstructured data using statistical methods</li><li>Data Preparation: Clean, transform, and organize large datasets for analysis</li><li>Personalization Modeling: Build machine learning models to optimize customer web journeys</li><li>Tag Management: Assess data collection processes via web tag managers and recommend improvements</li><li>Experimentation: Conduct and analyze A/B tests to identify actionable insights</li><li>KPI Optimization: Apply statistical tools and ML techniques to improve DCI team metrics</li><li>Collaboration: Work with engineering teams to define long-term data architecture strategies</li></ul><br><p>Skills</p><ul><li>Currently pursuing Bachelor's or Master's in Computer Science, Mathematics, or Statistics</li><li>Strong knowledge of Python, Java, and SQL</li><li>Experience with Tableau or other data visualization platforms</li><li>Familiarity with model development and evaluation</li><li>Proficient in hypothesis testing and exploratory data analysis</li><li>Able to work with both structured and unstructured datasets</li><li>Comfortable working with cross-functional teams</li></ul><br><p>Benefits</p><ul><li>All employees will be eligible to participate in an incentive plan</li></ul><br><p>Company Overview</p><li>Infineon Technologies offers semiconductor solutions, microcontrollers, LED drivers, sensors and Automotive & Power Management ICs. It was founded in 1999, and is headquartered in Neubiberg, Bayern, DEU, with a workforce of 10001+ employees. Its website is https://www.infineon.com.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-01-30T04:59:28.524Z"
+    }
+  },
+  "cachedAt": 1769749168524
+}
