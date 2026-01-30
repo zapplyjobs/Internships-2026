@@ -1,101 +1,19 @@
 {
-  "generated": "2026-01-30T07:32:18.301Z",
+  "generated": "2026-01-30T07:51:43.329Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T07:32:18.301Z",
-  "period_end": "2026-01-30T07:32:18.301Z",
+  "period_start": "2026-01-23T07:51:43.329Z",
+  "period_end": "2026-01-30T07:51:43.329Z",
   "summary": {
-    "total_jobs_posted": 4,
-    "unique_jobs": 2,
-    "multi_channel_postings": 4,
-    "unique_multi_channel_jobs": 2,
+    "total_jobs_posted": 0,
+    "unique_jobs": 0,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 4
+    "channels_active": 0
   },
-  "by_channel": {
-    "🤝・sales-internships": {
-      "channel_id": "1464303236772270122",
-      "count": 1,
-      "jobs": [
-        "at-t-at-t-summer-internship-technology-washington"
-      ],
-      "recent_jobs": [
-        {
-          "id": "at-t-at-t-summer-internship-technology-washington",
-          "title": "AT&T Summer Internship - Technology",
-          "company": "AT&T",
-          "posted_at": "2026-01-30T07:32:03.424Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 1,
-      "jobs": [
-        "at-t-at-t-summer-internship-technology-washington"
-      ],
-      "recent_jobs": [
-        {
-          "id": "at-t-at-t-summer-internship-technology-washington",
-          "title": "AT&T Summer Internship - Technology",
-          "company": "AT&T",
-          "posted_at": "2026-01-30T07:32:05.095Z"
-        }
-      ]
-    },
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
-      "jobs": [
-        "dordt-university-ai-ml-engineering-internship-svl-san-jose"
-      ],
-      "recent_jobs": [
-        {
-          "id": "dordt-university-ai-ml-engineering-internship-svl-san-jose",
-          "title": "AI/ML Engineering internship: SVL",
-          "company": "Dordt University",
-          "posted_at": "2026-01-30T07:32:09.825Z"
-        }
-      ]
-    },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
-      "count": 1,
-      "jobs": [
-        "dordt-university-ai-ml-engineering-internship-svl-san-jose"
-      ],
-      "recent_jobs": [
-        {
-          "id": "dordt-university-ai-ml-engineering-internship-svl-san-jose",
-          "title": "AI/ML Engineering internship: SVL",
-          "company": "Dordt University",
-          "posted_at": "2026-01-30T07:32:11.605Z"
-        }
-      ]
-    }
-  },
-  "multi_channel_routing": [
-    {
-      "job_id": "at-t-at-t-summer-internship-technology-washington",
-      "company": "AT&T",
-      "title": "AT&T Summer Internship - Technology",
-      "channels": [
-        "🤝・sales-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-30T07:32:03.424Z"
-    },
-    {
-      "job_id": "dordt-university-ai-ml-engineering-internship-svl-san-jose",
-      "company": "Dordt University",
-      "title": "AI/ML Engineering internship: SVL",
-      "channels": [
-        "💻・tech-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-30T07:32:09.825Z"
-    }
-  ],
+  "by_channel": {},
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [],
@@ -107,70 +25,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.004Z"
+        "timestamp": "2026-01-30T07:51:41.144Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.004Z"
+        "timestamp": "2026-01-30T07:51:41.144Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.004Z"
+        "timestamp": "2026-01-30T07:51:41.145Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.004Z"
+        "timestamp": "2026-01-30T07:51:41.145Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.005Z"
+        "timestamp": "2026-01-30T07:51:41.145Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.005Z"
+        "timestamp": "2026-01-30T07:51:41.145Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.005Z"
+        "timestamp": "2026-01-30T07:51:41.145Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.005Z"
+        "timestamp": "2026-01-30T07:51:41.145Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.005Z"
+        "timestamp": "2026-01-30T07:51:41.146Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T07:32:03.006Z"
+        "timestamp": "2026-01-30T07:51:41.146Z"
       }
     ]
   }
