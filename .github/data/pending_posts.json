@@ -3879,12 +3879,14 @@
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge"
+      "id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T11:02:41.866Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T11:42:25.858Z",
+    "postedAt": "2026-01-30T11:42:35.052Z"
   },
   {
     "job": {

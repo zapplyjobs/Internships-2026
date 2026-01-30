@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-30T11:26:29.629Z",
+  "generated": "2026-01-30T11:42:37.234Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T11:26:29.629Z",
-  "period_end": "2026-01-30T11:26:29.629Z",
+  "period_start": "2026-01-23T11:42:37.234Z",
+  "period_end": "2026-01-30T11:42:37.234Z",
   "summary": {
     "total_jobs_posted": 2,
     "unique_jobs": 1,
@@ -17,14 +17,14 @@
       "channel_id": "1464303178286760059",
       "count": 1,
       "jobs": [
-        "anywhere-application-developer-intern-client-innovation-center-east-lansing"
+        "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge"
       ],
       "recent_jobs": [
         {
-          "id": "anywhere-application-developer-intern-client-innovation-center-east-lansing",
-          "title": "Application Developer Intern - Client Innovation Center",
+          "id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge",
+          "title": "AI Foundations – Research Internship: 2026 - Research Scientist",
           "company": "Anywhere",
-          "posted_at": "2026-01-30T11:26:21.224Z"
+          "posted_at": "2026-01-30T11:42:28.772Z"
         }
       ]
     },
@@ -32,28 +32,28 @@
       "channel_id": "1464304182923362324",
       "count": 1,
       "jobs": [
-        "anywhere-application-developer-intern-client-innovation-center-east-lansing"
+        "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge"
       ],
       "recent_jobs": [
         {
-          "id": "anywhere-application-developer-intern-client-innovation-center-east-lansing",
-          "title": "Application Developer Intern - Client Innovation Center",
+          "id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge",
+          "title": "AI Foundations – Research Internship: 2026 - Research Scientist",
           "company": "Anywhere",
-          "posted_at": "2026-01-30T11:26:22.940Z"
+          "posted_at": "2026-01-30T11:42:30.544Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "anywhere-application-developer-intern-client-innovation-center-east-lansing",
+      "job_id": "anywhere-ai-foundations-research-internship-2026-research-scientist-cambridge",
       "company": "Anywhere",
-      "title": "Application Developer Intern - Client Innovation Center",
+      "title": "AI Foundations – Research Internship: 2026 - Research Scientist",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T11:26:21.224Z"
+      "posted_at": "2026-01-30T11:42:28.772Z"
     }
   ],
   "failures": [],
@@ -67,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.853Z"
+        "timestamp": "2026-01-30T11:42:28.507Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.854Z"
+        "timestamp": "2026-01-30T11:42:28.507Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.854Z"
+        "timestamp": "2026-01-30T11:42:28.508Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.854Z"
+        "timestamp": "2026-01-30T11:42:28.508Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.854Z"
+        "timestamp": "2026-01-30T11:42:28.508Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.855Z"
+        "timestamp": "2026-01-30T11:42:28.508Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.855Z"
+        "timestamp": "2026-01-30T11:42:28.509Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.855Z"
+        "timestamp": "2026-01-30T11:42:28.509Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.855Z"
+        "timestamp": "2026-01-30T11:42:28.509Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T11:26:20.855Z"
+        "timestamp": "2026-01-30T11:42:28.509Z"
       }
     ]
   }
