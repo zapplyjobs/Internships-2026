@@ -1,67 +1,30 @@
 {
-  "generated": "2026-01-30T08:27:53.483Z",
+  "generated": "2026-01-30T08:48:05.788Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T08:27:53.483Z",
-  "period_end": "2026-01-30T08:27:53.483Z",
+  "period_start": "2026-01-23T08:48:05.788Z",
+  "period_end": "2026-01-30T08:48:05.788Z",
   "summary": {
-    "total_jobs_posted": 6,
-    "unique_jobs": 3,
-    "multi_channel_postings": 6,
-    "unique_multi_channel_jobs": 3,
+    "total_jobs_posted": 2,
+    "unique_jobs": 1,
+    "multi_channel_postings": 2,
+    "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 5
+    "channels_active": 2
   },
   "by_channel": {
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 1,
-      "jobs": [
-        "fidelity-investments-2026-leap-technology-program-intern-conversion-application-swe-westlake"
-      ],
-      "recent_jobs": [
-        {
-          "id": "fidelity-investments-2026-leap-technology-program-intern-conversion-application-swe-westlake",
-          "title": "2026 Leap Technology Program – Intern Conversion Application - SWE",
-          "company": "Fidelity Investments",
-          "posted_at": "2026-01-30T08:27:31.750Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 2,
-      "jobs": [
-        "fidelity-investments-2026-leap-technology-program-intern-conversion-application-swe-westlake",
-        "t-mobile-ai-engineering-intern-ai-engineering-frisco"
-      ],
-      "recent_jobs": [
-        {
-          "id": "fidelity-investments-2026-leap-technology-program-intern-conversion-application-swe-westlake",
-          "title": "2026 Leap Technology Program – Intern Conversion Application - SWE",
-          "company": "Fidelity Investments",
-          "posted_at": "2026-01-30T08:27:33.705Z"
-        },
-        {
-          "id": "t-mobile-ai-engineering-intern-ai-engineering-frisco",
-          "title": "AI Engineering Intern - AI Engineering",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-30T08:27:46.786Z"
-        }
-      ]
-    },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
       "count": 1,
       "jobs": [
-        "t-mobile-machine-learning-engineering-intern-bellevue"
+        "t-mobile-ai-engineering-intern-bellevue"
       ],
       "recent_jobs": [
         {
-          "id": "t-mobile-machine-learning-engineering-intern-bellevue",
-          "title": "Machine Learning Engineering Intern",
+          "id": "t-mobile-ai-engineering-intern-bellevue",
+          "title": "AI Engineering Intern",
           "company": "T-Mobile",
-          "posted_at": "2026-01-30T08:27:38.524Z"
+          "posted_at": "2026-01-30T08:47:57.401Z"
         }
       ]
     },
@@ -69,63 +32,28 @@
       "channel_id": "1464304146072207390",
       "count": 1,
       "jobs": [
-        "t-mobile-machine-learning-engineering-intern-bellevue"
+        "t-mobile-ai-engineering-intern-bellevue"
       ],
       "recent_jobs": [
         {
-          "id": "t-mobile-machine-learning-engineering-intern-bellevue",
-          "title": "Machine Learning Engineering Intern",
+          "id": "t-mobile-ai-engineering-intern-bellevue",
+          "title": "AI Engineering Intern",
           "company": "T-Mobile",
-          "posted_at": "2026-01-30T08:27:40.245Z"
-        }
-      ]
-    },
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
-      "jobs": [
-        "t-mobile-ai-engineering-intern-ai-engineering-frisco"
-      ],
-      "recent_jobs": [
-        {
-          "id": "t-mobile-ai-engineering-intern-ai-engineering-frisco",
-          "title": "AI Engineering Intern - AI Engineering",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-30T08:27:44.962Z"
+          "posted_at": "2026-01-30T08:47:59.097Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "fidelity-investments-2026-leap-technology-program-intern-conversion-application-swe-westlake",
-      "company": "Fidelity Investments",
-      "title": "2026 Leap Technology Program – Intern Conversion Application - SWE",
-      "channels": [
-        "📊・data-science-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-30T08:27:31.750Z"
-    },
-    {
-      "job_id": "t-mobile-machine-learning-engineering-intern-bellevue",
+      "job_id": "t-mobile-ai-engineering-intern-bellevue",
       "company": "T-Mobile",
-      "title": "Machine Learning Engineering Intern",
+      "title": "AI Engineering Intern",
       "channels": [
         "🤖・ai-internships",
         "🌲・pacific-northwest-internships"
       ],
-      "posted_at": "2026-01-30T08:27:38.524Z"
-    },
-    {
-      "job_id": "t-mobile-ai-engineering-intern-ai-engineering-frisco",
-      "company": "T-Mobile",
-      "title": "AI Engineering Intern - AI Engineering",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-30T08:27:44.962Z"
+      "posted_at": "2026-01-30T08:47:57.401Z"
     }
   ],
   "failures": [],
@@ -139,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.478Z"
+        "timestamp": "2026-01-30T08:47:57.036Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.478Z"
+        "timestamp": "2026-01-30T08:47:57.036Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.478Z"
+        "timestamp": "2026-01-30T08:47:57.036Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.479Z"
+        "timestamp": "2026-01-30T08:47:57.036Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.479Z"
+        "timestamp": "2026-01-30T08:47:57.037Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.479Z"
+        "timestamp": "2026-01-30T08:47:57.037Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.479Z"
+        "timestamp": "2026-01-30T08:47:57.037Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.479Z"
+        "timestamp": "2026-01-30T08:47:57.037Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.479Z"
+        "timestamp": "2026-01-30T08:47:57.037Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T08:27:31.480Z"
+        "timestamp": "2026-01-30T08:47:57.038Z"
       }
     ]
   }
