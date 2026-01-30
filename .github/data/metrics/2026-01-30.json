@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-30T05:50:08.167Z",
+  "generated": "2026-01-30T06:17:19.196Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T05:50:08.167Z",
-  "period_end": "2026-01-30T05:50:08.167Z",
+  "period_start": "2026-01-23T06:17:19.196Z",
+  "period_end": "2026-01-30T06:17:19.196Z",
   "summary": {
     "total_jobs_posted": 8,
     "unique_jobs": 4,
@@ -10,35 +10,21 @@
     "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 4
+    "channels_active": 5
   },
   "by_channel": {
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 3,
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 1,
       "jobs": [
-        "imperative-care-machine-learning-engineer-intern-campbell",
-        "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
-        "skyworks-llm-machine-learning-engineering-summer-intern-irvine"
+        "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston"
       ],
       "recent_jobs": [
         {
-          "id": "imperative-care-machine-learning-engineer-intern-campbell",
-          "title": "Machine Learning Engineer Intern",
-          "company": "Imperative Care",
-          "posted_at": "2026-01-30T05:49:46.285Z"
-        },
-        {
-          "id": "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
-          "title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
-          "company": "1000 KLA Corporation",
-          "posted_at": "2026-01-30T05:49:49.716Z"
-        },
-        {
-          "id": "skyworks-llm-machine-learning-engineering-summer-intern-irvine",
-          "title": "LLM / Machine Learning Engineering Summer Intern",
-          "company": "Skyworks",
-          "posted_at": "2026-01-30T05:49:53.058Z"
+          "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
+          "title": "AI / ML Research and Development Intern",
+          "company": "The Pennsylvania State University",
+          "posted_at": "2026-01-30T06:16:54.217Z"
         }
       ]
     },
@@ -46,102 +32,124 @@
       "channel_id": "1464304182923362324",
       "count": 2,
       "jobs": [
-        "imperative-care-machine-learning-engineer-intern-campbell",
-        "leidos-aiml-intern-reston"
+        "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
+        "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge"
       ],
       "recent_jobs": [
         {
-          "id": "imperative-care-machine-learning-engineer-intern-campbell",
-          "title": "Machine Learning Engineer Intern",
-          "company": "Imperative Care",
-          "posted_at": "2026-01-30T05:49:48.031Z"
+          "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
+          "title": "AI / ML Research and Development Intern",
+          "company": "The Pennsylvania State University",
+          "posted_at": "2026-01-30T06:16:55.943Z"
         },
         {
-          "id": "leidos-aiml-intern-reston",
-          "title": "AIML Intern",
-          "company": "Leidos",
-          "posted_at": "2026-01-30T05:50:01.474Z"
+          "id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
+          "title": "2026 Summer Internship Program : Machine Learning Research Intern",
+          "company": "Takeda Pharmaceuticals",
+          "posted_at": "2026-01-30T06:17:02.493Z"
         }
       ]
     },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
       "count": 2,
       "jobs": [
-        "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
-        "skyworks-llm-machine-learning-engineering-summer-intern-irvine"
+        "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
+        "air-liquide-ai-and-machine-learning-intern-newark"
       ],
       "recent_jobs": [
         {
-          "id": "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
-          "title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
-          "company": "1000 KLA Corporation",
-          "posted_at": "2026-01-30T05:49:51.378Z"
+          "id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
+          "title": "2026 Summer Internship Program : Machine Learning Research Intern",
+          "company": "Takeda Pharmaceuticals",
+          "posted_at": "2026-01-30T06:17:00.648Z"
         },
         {
-          "id": "skyworks-llm-machine-learning-engineering-summer-intern-irvine",
-          "title": "LLM / Machine Learning Engineering Summer Intern",
-          "company": "Skyworks",
-          "posted_at": "2026-01-30T05:49:54.955Z"
+          "id": "air-liquide-ai-and-machine-learning-intern-newark",
+          "title": "AI and Machine Learning Intern",
+          "company": "Air Liquide",
+          "posted_at": "2026-01-30T06:17:04.243Z"
         }
       ]
     },
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 2,
       "jobs": [
-        "leidos-aiml-intern-reston"
+        "air-liquide-ai-and-machine-learning-intern-newark",
+        "air-liquide-hse-data-automation-intern-newark"
       ],
       "recent_jobs": [
         {
-          "id": "leidos-aiml-intern-reston",
-          "title": "AIML Intern",
-          "company": "Leidos",
-          "posted_at": "2026-01-30T05:49:59.668Z"
+          "id": "air-liquide-ai-and-machine-learning-intern-newark",
+          "title": "AI and Machine Learning Intern",
+          "company": "Air Liquide",
+          "posted_at": "2026-01-30T06:17:05.947Z"
+        },
+        {
+          "id": "air-liquide-hse-data-automation-intern-newark",
+          "title": "HSE Data & Automation Intern",
+          "company": "Air Liquide",
+          "posted_at": "2026-01-30T06:17:12.510Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 1,
+      "jobs": [
+        "air-liquide-hse-data-automation-intern-newark"
+      ],
+      "recent_jobs": [
+        {
+          "id": "air-liquide-hse-data-automation-intern-newark",
+          "title": "HSE Data & Automation Intern",
+          "company": "Air Liquide",
+          "posted_at": "2026-01-30T06:17:10.750Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "imperative-care-machine-learning-engineer-intern-campbell",
-      "company": "Imperative Care",
-      "title": "Machine Learning Engineer Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-30T05:49:46.285Z"
-    },
-    {
-      "job_id": "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
-      "company": "1000 KLA Corporation",
-      "title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
-      "channels": [
-        "🤖・ai-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-30T05:49:49.716Z"
-    },
-    {
-      "job_id": "skyworks-llm-machine-learning-engineering-summer-intern-irvine",
-      "company": "Skyworks",
-      "title": "LLM / Machine Learning Engineering Summer Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-30T05:49:53.058Z"
-    },
-    {
-      "job_id": "leidos-aiml-intern-reston",
-      "company": "Leidos",
-      "title": "AIML Intern",
+      "job_id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
+      "company": "The Pennsylvania State University",
+      "title": "AI / ML Research and Development Intern",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T05:49:59.668Z"
+      "posted_at": "2026-01-30T06:16:54.217Z"
+    },
+    {
+      "job_id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
+      "company": "Takeda Pharmaceuticals",
+      "title": "2026 Summer Internship Program : Machine Learning Research Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-30T06:17:00.648Z"
+    },
+    {
+      "job_id": "air-liquide-ai-and-machine-learning-intern-newark",
+      "company": "Air Liquide",
+      "title": "AI and Machine Learning Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-01-30T06:17:04.243Z"
+    },
+    {
+      "job_id": "air-liquide-hse-data-automation-intern-newark",
+      "company": "Air Liquide",
+      "title": "HSE Data & Automation Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-01-30T06:17:10.750Z"
     }
   ],
   "failures": [],
@@ -155,70 +163,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.989Z"
+        "timestamp": "2026-01-30T06:16:53.661Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.990Z"
+        "timestamp": "2026-01-30T06:16:53.662Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.990Z"
+        "timestamp": "2026-01-30T06:16:53.662Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.990Z"
+        "timestamp": "2026-01-30T06:16:53.662Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.990Z"
+        "timestamp": "2026-01-30T06:16:53.662Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.990Z"
+        "timestamp": "2026-01-30T06:16:53.662Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.991Z"
+        "timestamp": "2026-01-30T06:16:53.663Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.991Z"
+        "timestamp": "2026-01-30T06:16:53.663Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.991Z"
+        "timestamp": "2026-01-30T06:16:53.663Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:49:45.991Z"
+        "timestamp": "2026-01-30T06:16:53.663Z"
       }
     ]
   }
