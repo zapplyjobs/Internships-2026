@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T05:28:48.082Z",
+  "lastUpdated": "2026-01-30T05:50:05.990Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -6504,14 +6504,122 @@
       "job_city": null,
       "job_state": "California",
       "job_description": "<p>SAP SuccessFactors is part of SAP's global, strategic, paid internship program aimed at providing university students with meaningful career opportunities. As an AI/ML Intern, you will collaborate with senior data scientists and engineers to build and optimize intelligent systems while engaging in hands-on learning experiences.</p><br><p>Responsibilities</p><ul><li>Collect, clean, and preprocess large-scale structured and unstructured datasets to ensure they are 'model-ready.'</li><li>Assist in designing and implementing ML algorithms (Supervised, Unsupervised, and Deep Learning) using frameworks like PyTorch or TensorFlow</li><li>Conduct A/B testing, hyperparameter tuning, and error analysis to improve model precision and recall</li><li>Work with Large Language Models (LLMs), including prompt engineering, fine-tuning, and implementing RAG (Retrieval-Augmented Generation) pipelines</li><li>Help maintain and monitor model performance in production; assist in containerizing models using Docker for deployment</li><li>Stay current with the latest AI research (e.g., via arXiv) and document your experimental results for the wider engineering team</li></ul><br><p>Skills</p><ul><li>Currently pursuing a BS, MS, or PhD in Computer Science, Data Science, Mathematics, or a related quantitative field</li><li>Must be currently enrolled, or recently graduated (start date must be within 6 months of graduation date) from a coding academy/bootcamp, apprenticeship, associate, bachelor's, master's or JD/PhD program</li><li>A proven ability to break down complex problems and think through edge cases</li><li>A strong desire to learn new libraries and stay updated on the fast-moving AI landscape</li></ul><br><p>Benefits</p><ul><li>Culture of Collaboration: Partner with experienced SAP colleagues and expert mentors who will support your growth.</li><li>Project-driven Experience: Kickstart your career with hands-on learning experience, making an impact from day one by contributing to meaningful projects that help the world run better.</li><li>Gain Visibility: Build relationships with leaders and peers across teams and functions.</li></ul><br><p>Company Overview</p><li>We find the best job offers for experts in ChatGPT and related technologies. It was founded in 2024, and is headquartered in New York, NY, New York, US, with a workforce of 2-10 employees. Its website is https://www.chatgpt-jobs.com.</li><br>"
+    },
+    {
+      "id": "78635888066cf680-2026-01-30-1",
+      "jobId": "78635888066cf680",
+      "company": "Imperative Care",
+      "title": "Machine Learning Engineer Intern",
+      "postedToDiscord": "2026-01-30T05:49:46.264Z",
+      "sourceDate": "2026-01-27T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=cec02faa3e78&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466671714053132291",
+          "channelType": "category",
+          "postedAt": "2026-01-30T05:49:46.264Z",
+          "channelJobNumber": 48
+        },
+        "1464304182923362324": {
+          "messageId": "1466671721238102069",
+          "channelType": "location",
+          "postedAt": "2026-01-30T05:49:48.012Z",
+          "channelJobNumber": 55
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Campbell",
+      "job_state": "Ohio",
+      "job_description": "Apply for Machine Learning Engineer Intern in Campbell. Imperative Care is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "ac706bc61b56c06d-2026-01-30-1",
+      "jobId": "ac706bc61b56c06d",
+      "company": "1000 KLA Corporation",
+      "title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
+      "postedToDiscord": "2026-01-30T05:49:49.700Z",
+      "sourceDate": "2026-01-22T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=c4daf8184da2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466671728775270574",
+          "channelType": "category",
+          "postedAt": "2026-01-30T05:49:49.700Z",
+          "channelJobNumber": 49
+        },
+        "1464304161230295131": {
+          "messageId": "1466671735947395072",
+          "channelType": "location",
+          "postedAt": "2026-01-30T05:49:51.362Z",
+          "channelJobNumber": 16
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Milpitas",
+      "job_state": "California",
+      "job_description": "Apply for Algorithms/Machine Learning Engineering Intern (Multi-Modalities) in Milpitas. 1000 KLA Corporation is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "253af103e2f6e728-2026-01-30-1",
+      "jobId": "253af103e2f6e728",
+      "company": "Skyworks",
+      "title": "LLM / Machine Learning Engineering Summer Intern",
+      "postedToDiscord": "2026-01-30T05:49:53.042Z",
+      "sourceDate": "2026-01-21T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=a2590ff31f06&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466671742910202012",
+          "channelType": "category",
+          "postedAt": "2026-01-30T05:49:53.042Z",
+          "channelJobNumber": 50
+        },
+        "1464304161230295131": {
+          "messageId": "1466671750262689924",
+          "channelType": "location",
+          "postedAt": "2026-01-30T05:49:54.935Z",
+          "channelJobNumber": 17
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Irvine",
+      "job_state": "California",
+      "job_description": "Apply for LLM/Machine Learning Engineering Summer Intern in Irvine. Skyworks is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "7d003a7309327da5-2026-01-30-1",
+      "jobId": "7d003a7309327da5",
+      "company": "Leidos",
+      "title": "AIML Intern",
+      "postedToDiscord": "2026-01-30T05:49:59.652Z",
+      "sourceDate": "2026-01-26T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=e2cd400670f8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466671770642677865",
+          "channelType": "category",
+          "postedAt": "2026-01-30T05:49:59.652Z",
+          "channelJobNumber": 75
+        },
+        "1464304182923362324": {
+          "messageId": "1466671777823326412",
+          "channelType": "location",
+          "postedAt": "2026-01-30T05:50:01.454Z",
+          "channelJobNumber": 56
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Reston",
+      "job_state": "Virginia",
+      "job_description": "Apply for AIML Intern in Reston. Leidos is hiring now. Discover your next career opportunity today on Talent.com."
     }
   ],
   "metadata": {
-    "totalJobs": 370,
+    "totalJobs": 374,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T05:28:48.082Z",
+      "date": "2026-01-30T05:50:05.990Z",
       "archived": 0
     }
   }

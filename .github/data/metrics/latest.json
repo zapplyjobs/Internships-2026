@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-30T05:28:50.264Z",
+  "generated": "2026-01-30T05:50:08.167Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T05:28:50.264Z",
-  "period_end": "2026-01-30T05:28:50.264Z",
+  "period_start": "2026-01-23T05:50:08.167Z",
+  "period_end": "2026-01-30T05:50:08.167Z",
   "summary": {
     "total_jobs_posted": 8,
     "unique_jobs": 4,
@@ -10,43 +10,79 @@
     "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 6
+    "channels_active": 4
   },
   "by_channel": {
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 1,
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 3,
       "jobs": [
-        "flexera-ai-operations-intern-remote-in-usa"
+        "imperative-care-machine-learning-engineer-intern-campbell",
+        "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
+        "skyworks-llm-machine-learning-engineering-summer-intern-irvine"
       ],
       "recent_jobs": [
         {
-          "id": "flexera-ai-operations-intern-remote-in-usa",
-          "title": "AI Operations Intern",
-          "company": "Flexera",
-          "posted_at": "2026-01-30T05:28:25.656Z"
+          "id": "imperative-care-machine-learning-engineer-intern-campbell",
+          "title": "Machine Learning Engineer Intern",
+          "company": "Imperative Care",
+          "posted_at": "2026-01-30T05:49:46.285Z"
+        },
+        {
+          "id": "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
+          "title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
+          "company": "1000 KLA Corporation",
+          "posted_at": "2026-01-30T05:49:49.716Z"
+        },
+        {
+          "id": "skyworks-llm-machine-learning-engineering-summer-intern-irvine",
+          "title": "LLM / Machine Learning Engineering Summer Intern",
+          "company": "Skyworks",
+          "posted_at": "2026-01-30T05:49:53.058Z"
         }
       ]
     },
-    "🏠・remote-usa-internships": {
-      "channel_id": "1464303522177614001",
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
       "count": 2,
       "jobs": [
-        "flexera-ai-operations-intern-remote-in-usa",
-        "flexera-data-analytics-intern-remote-in-usa"
+        "imperative-care-machine-learning-engineer-intern-campbell",
+        "leidos-aiml-intern-reston"
       ],
       "recent_jobs": [
         {
-          "id": "flexera-ai-operations-intern-remote-in-usa",
-          "title": "AI Operations Intern",
-          "company": "Flexera",
-          "posted_at": "2026-01-30T05:28:27.314Z"
+          "id": "imperative-care-machine-learning-engineer-intern-campbell",
+          "title": "Machine Learning Engineer Intern",
+          "company": "Imperative Care",
+          "posted_at": "2026-01-30T05:49:48.031Z"
         },
         {
-          "id": "flexera-data-analytics-intern-remote-in-usa",
-          "title": "Data Analytics Intern",
-          "company": "Flexera",
-          "posted_at": "2026-01-30T05:28:33.751Z"
+          "id": "leidos-aiml-intern-reston",
+          "title": "AIML Intern",
+          "company": "Leidos",
+          "posted_at": "2026-01-30T05:50:01.474Z"
+        }
+      ]
+    },
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 2,
+      "jobs": [
+        "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
+        "skyworks-llm-machine-learning-engineering-summer-intern-irvine"
+      ],
+      "recent_jobs": [
+        {
+          "id": "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
+          "title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
+          "company": "1000 KLA Corporation",
+          "posted_at": "2026-01-30T05:49:51.378Z"
+        },
+        {
+          "id": "skyworks-llm-machine-learning-engineering-summer-intern-irvine",
+          "title": "LLM / Machine Learning Engineering Summer Intern",
+          "company": "Skyworks",
+          "posted_at": "2026-01-30T05:49:54.955Z"
         }
       ]
     },
@@ -54,110 +90,58 @@
       "channel_id": "1464303178286760059",
       "count": 1,
       "jobs": [
-        "flexera-data-analytics-intern-remote-in-usa"
+        "leidos-aiml-intern-reston"
       ],
       "recent_jobs": [
         {
-          "id": "flexera-data-analytics-intern-remote-in-usa",
-          "title": "Data Analytics Intern",
-          "company": "Flexera",
-          "posted_at": "2026-01-30T05:28:32.108Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 2,
-      "jobs": [
-        "genentech-intern-data-digital-catalysts-san-bruno",
-        "chatgpt-jobs-sap-ixp-intern-ai-machine-learning-"
-      ],
-      "recent_jobs": [
-        {
-          "id": "genentech-intern-data-digital-catalysts-san-bruno",
-          "title": "Intern - Data & Digital Catalysts",
-          "company": "Genentech",
-          "posted_at": "2026-01-30T05:28:38.454Z"
-        },
-        {
-          "id": "chatgpt-jobs-sap-ixp-intern-ai-machine-learning-",
-          "title": "SAP iXp Intern - AI Machine Learning",
-          "company": "ChatGPT Jobs",
-          "posted_at": "2026-01-30T05:28:41.874Z"
-        }
-      ]
-    },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
-      "count": 1,
-      "jobs": [
-        "genentech-intern-data-digital-catalysts-san-bruno"
-      ],
-      "recent_jobs": [
-        {
-          "id": "genentech-intern-data-digital-catalysts-san-bruno",
-          "title": "Intern - Data & Digital Catalysts",
-          "company": "Genentech",
-          "posted_at": "2026-01-30T05:28:40.139Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 1,
-      "jobs": [
-        "chatgpt-jobs-sap-ixp-intern-ai-machine-learning-"
-      ],
-      "recent_jobs": [
-        {
-          "id": "chatgpt-jobs-sap-ixp-intern-ai-machine-learning-",
-          "title": "SAP iXp Intern - AI Machine Learning",
-          "company": "ChatGPT Jobs",
-          "posted_at": "2026-01-30T05:28:43.566Z"
+          "id": "leidos-aiml-intern-reston",
+          "title": "AIML Intern",
+          "company": "Leidos",
+          "posted_at": "2026-01-30T05:49:59.668Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "flexera-ai-operations-intern-remote-in-usa",
-      "company": "Flexera",
-      "title": "AI Operations Intern",
+      "job_id": "imperative-care-machine-learning-engineer-intern-campbell",
+      "company": "Imperative Care",
+      "title": "Machine Learning Engineer Intern",
       "channels": [
-        "📊・data-science-internships",
-        "🏠・remote-usa-internships"
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T05:28:25.656Z"
+      "posted_at": "2026-01-30T05:49:46.285Z"
     },
     {
-      "job_id": "flexera-data-analytics-intern-remote-in-usa",
-      "company": "Flexera",
-      "title": "Data Analytics Intern",
+      "job_id": "1000-kla-algorithms-machine-learning-engineering-intern-multi-modalities-milpitas",
+      "company": "1000 KLA Corporation",
+      "title": "Algorithms / Machine Learning Engineering Intern (Multi-Modalities)",
+      "channels": [
+        "🤖・ai-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-01-30T05:49:49.716Z"
+    },
+    {
+      "job_id": "skyworks-llm-machine-learning-engineering-summer-intern-irvine",
+      "company": "Skyworks",
+      "title": "LLM / Machine Learning Engineering Summer Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-01-30T05:49:53.058Z"
+    },
+    {
+      "job_id": "leidos-aiml-intern-reston",
+      "company": "Leidos",
+      "title": "AIML Intern",
       "channels": [
         "💻・tech-internships",
-        "🏠・remote-usa-internships"
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T05:28:32.108Z"
-    },
-    {
-      "job_id": "genentech-intern-data-digital-catalysts-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - Data & Digital Catalysts",
-      "channels": [
-        "🤖・ai-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-01-30T05:28:38.454Z"
-    },
-    {
-      "job_id": "chatgpt-jobs-sap-ixp-intern-ai-machine-learning-",
-      "company": "ChatGPT Jobs",
-      "title": "SAP iXp Intern - AI Machine Learning",
-      "channels": [
-        "🤖・ai-internships",
-        "🗽・new-york-internships"
-      ],
-      "posted_at": "2026-01-30T05:28:41.874Z"
+      "posted_at": "2026-01-30T05:49:59.668Z"
     }
   ],
   "failures": [],
@@ -171,70 +155,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.264Z"
+        "timestamp": "2026-01-30T05:49:45.989Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.264Z"
+        "timestamp": "2026-01-30T05:49:45.990Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.264Z"
+        "timestamp": "2026-01-30T05:49:45.990Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.265Z"
+        "timestamp": "2026-01-30T05:49:45.990Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.265Z"
+        "timestamp": "2026-01-30T05:49:45.990Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.265Z"
+        "timestamp": "2026-01-30T05:49:45.990Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.265Z"
+        "timestamp": "2026-01-30T05:49:45.991Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.265Z"
+        "timestamp": "2026-01-30T05:49:45.991Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.265Z"
+        "timestamp": "2026-01-30T05:49:45.991Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T05:28:25.266Z"
+        "timestamp": "2026-01-30T05:49:45.991Z"
       }
     ]
   }
