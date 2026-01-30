@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T15:27:49.023Z",
+  "lastUpdated": "2026-01-30T15:47:35.206Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -7206,14 +7206,41 @@
       "job_city": "Boston",
       "job_state": "MA",
       "job_description": "Job Description:The Fidelity Enterprise Services Advanced Technology for Investment Management Team contributes to the vitality and growth of the organization by transforming breakthrough technologies into practical capabilities for Fidelity’s internal and external investment clients. The Team promotes companywide collaboration while delivering new Artificial Intelligence enabled portfolio level perspectives to investment managers and client service colleagues.The Expertise We’re Looking ForGraduate degrees in computer science, computational financial engineering or related fields2+ years of academy course/project training on machine learning, optimization, data science and related fieldsDemonstrated success development of large-scale computing algorithms with Java, Scala, Python or R with GPUs and/or map-reduce framework on SPARK clusterProven success building machine learning models to solve real-world problemsProficient in programming languages including Python and/or R, C/C++, Java/ScalaThe Purpose of Your RoleFidelity is looking for an energetic and innovative intern who brings hands-on data science capabilities in research and development of AI/ML methods as components in consolidating investment management technology solutions. It will be important for a candidate to be curious, creative, and agile in learning and applying investment concepts.The Skills You BringYou have passion for the financial markets, products, and processes (including: Fixed Income Instruments/Analytics, Asset Pricing Models/Instruments and Multi-Factor Risk Models)You have professional knowledge with statistical models, predictive models and time series analysis (such as regression, classification, simulation, dimension reduction)You have solid mathematical background of solving common optimization problems (including: linear/nonlinear/integer programming)You have hands-on experience in developing and evaluating machine learning models on large scale datasetsYou have meticulous attention to detail and unquestioned integrityYou are a fast learner and a good team playerThe Value You DeliverAdvancing the research and development of AI/ML methods as components in the delivery of innovative investment management technology solutionsDesigning and implementing portfolio risk and optimization techniques to deliver industry differentiated capabilitiesEffective partnering across Fidelity’s technology, AI Center of Excellence and investment teamsHow Your Work Impacts the OrganizationThe Fidelity Enterprise Services Advanced Technology for Investment Management identifies projects to continually strengthen investment decision and portfolio construction insights and support personalized investment goals. The Team works within an innovation ecosystem that includes partners from investment, client relations, technology and centralized R&D units. Fidelity Enterprise Services Advanced Technology seeks cross-domain authorities with backgrounds that connect investment management, machine learning and technology implementation. We cultivate success through a rigorous, collaborative approach that builds, tests, and iterates as we learn and seek challenging processes and problems in investment management.Company OverviewAt Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. For information about working at Fidelity, visit FidelityCareers.comFidelity Investments is an equal opportunity employer.Certifications:Category:Administration"
+    },
+    {
+      "id": "33c47ef6edeaf7e0-2026-01-30-1",
+      "jobId": "33c47ef6edeaf7e0",
+      "company": "Anduril",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-30T15:47:28.948Z",
+      "sourceDate": "2026-01-30T15:23:57.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5038508007",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1466822133010403651",
+          "channelType": "category",
+          "postedAt": "2026-01-30T15:47:28.948Z",
+          "channelJobNumber": 59
+        },
+        "1464304182923362324": {
+          "messageId": "1466822140660547747",
+          "channelType": "location",
+          "postedAt": "2026-01-30T15:47:30.676Z",
+          "channelJobNumber": 71
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.We are seeking Software Engineering Interns for Summer 2026! This is a paid, in-person, 12 week internship. This role will be based in Atlanta, GA.WHAT YOU’LL DO Support the software solutions that are deployed to customers and key stakeholders. Write code to improve products and scale the mission capability to more customers. Collaborate across multiple teams to plan, build, and test complex functionality. Create and analyze metrics that are leveraged for debugging and monitoring. Triage issues, root cause failures, and coordinate next-steps. Work on real, meaningful projects and learn from experienced professionals along the way. REQUIRED QUALIFICATIONS Must be pursuing a Bachelor’s or Master's degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or any related field. Must be a rising senior at the time of their internship and returning to school at the end of their internship to continue their academic studies for at least one quarter/semester. Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools. Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python. A desire to work on software and applications that have real-world impact. U.S. Person status is required as this position needs to access export controlled data. PREFERRED QUALIFICATIONS Have a bias for action. If you see a problem, you want to solve and fix it. Be naturally curious about the technologies and tools you use. Low-ego, high ownership, and mission oriented. US Salary Range$40 - $50 USDUS Hourly Range $40 - $50 USDThe salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: Healthcare Benefits US Roles: Comprehensive medical, dental, and vision plans at little to no cost to you. UK & AUS Roles: We cover full cost of medical insurance premiums for you and your dependents. IE Roles: We offer an annual contribution toward your private health insurance for you and your dependents. Additional Benefits Income Protection: Anduril covers life and disability insurance for all employees. Generous time off: Highly competitive PTO plans with a holiday hiatus in December. Caregiver & Wellness Leave is available to care for family members, bond with a new baby, or address your own medical needs. Family Planning & Parenting Support: Coverage for fertility treatments (e.g., IVF, preservation), adoption, and gestational carriers, along with resources to support you and your partner from planning to parenting. Mental Health Resources: Access free mental health resources 24/7, including therapy and life coaching. Additional work-life services, such as legal and financial support, are also available. Professional Development: Annual reimbursement for professional development Commuter Benefits: Company-funded commuter benefits based on your region. Relocation Assistance: Available depending on role eligibility. Retirement Savings Plan US Roles: Traditional 401(k), Roth, and after-tax (mega backdoor Roth) options. UK & IE Roles: Pension plan with employer match. AUS Roles: Superannuation plan. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process. To view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/."
     }
   ],
   "metadata": {
-    "totalJobs": 396,
+    "totalJobs": 397,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T15:27:49.023Z",
+      "date": "2026-01-30T15:47:35.206Z",
       "archived": 0
     }
   }
