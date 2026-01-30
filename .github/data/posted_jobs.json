@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-30T11:26:27.454Z",
+  "lastUpdated": "2026-01-30T11:42:35.059Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -7098,14 +7098,41 @@
       "job_city": "East Lansing",
       "job_state": "MI",
       "job_description": "Join Anywhere in this exciting opportunity."
+    },
+    {
+      "id": "201d37406aea9116-2026-01-30-1",
+      "jobId": "201d37406aea9116",
+      "company": "Anywhere",
+      "title": "AI Foundations – Research Internship: 2026 - Research Scientist",
+      "postedToDiscord": "2026-01-30T11:42:28.749Z",
+      "sourceDate": "2026-01-30T10:32:05.000Z",
+      "sourceUrl": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1466760476124778578",
+          "channelType": "category",
+          "postedAt": "2026-01-30T11:42:28.749Z",
+          "channelJobNumber": 81
+        },
+        "1464304182923362324": {
+          "messageId": "1466760483326525626",
+          "channelType": "location",
+          "postedAt": "2026-01-30T11:42:30.524Z",
+          "channelJobNumber": 68
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Cambridge",
+      "job_state": "MA",
+      "job_description": "Join Anywhere in this exciting opportunity."
     }
   ],
   "metadata": {
-    "totalJobs": 392,
+    "totalJobs": 393,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-30T11:26:27.454Z",
+      "date": "2026-01-30T11:42:35.059Z",
       "archived": 0
     }
   }
