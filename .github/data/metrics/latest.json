@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-30T23:41:32.230Z",
+  "generated": "2026-01-30T23:53:31.098Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T23:41:32.230Z",
-  "period_end": "2026-01-30T23:41:32.230Z",
+  "period_start": "2026-01-23T23:53:31.098Z",
+  "period_end": "2026-01-30T23:53:31.098Z",
   "summary": {
     "total_jobs_posted": 2,
     "unique_jobs": 1,
@@ -17,43 +17,43 @@
       "channel_id": "1464303266866135232",
       "count": 1,
       "jobs": [
-        "fiserv-corporate-intern-program-application-development-fishers"
+        "verizon-communications-verizon-consumer-experience-strategy-summer-2026-internship-new-jersey-institute-of-technology-new-york-university-rutgers-university-berkeley-heights"
       ],
       "recent_jobs": [
         {
-          "id": "fiserv-corporate-intern-program-application-development-fishers",
-          "title": "Corporate Intern Program-Application Development",
-          "company": "Fiserv",
-          "posted_at": "2026-01-30T23:41:23.843Z"
+          "id": "verizon-communications-verizon-consumer-experience-strategy-summer-2026-internship-new-jersey-institute-of-technology-new-york-university-rutgers-university-berkeley-heights",
+          "title": "Verizon Consumer Experience Strategy Summer 2026 Internship: New Jersey Institute of Technology - New York University - & Rutgers University",
+          "company": "Verizon Communications",
+          "posted_at": "2026-01-30T23:53:22.687Z"
         }
       ]
     },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
       "count": 1,
       "jobs": [
-        "fiserv-corporate-intern-program-application-development-fishers"
+        "verizon-communications-verizon-consumer-experience-strategy-summer-2026-internship-new-jersey-institute-of-technology-new-york-university-rutgers-university-berkeley-heights"
       ],
       "recent_jobs": [
         {
-          "id": "fiserv-corporate-intern-program-application-development-fishers",
-          "title": "Corporate Intern Program-Application Development",
-          "company": "Fiserv",
-          "posted_at": "2026-01-30T23:41:25.533Z"
+          "id": "verizon-communications-verizon-consumer-experience-strategy-summer-2026-internship-new-jersey-institute-of-technology-new-york-university-rutgers-university-berkeley-heights",
+          "title": "Verizon Consumer Experience Strategy Summer 2026 Internship: New Jersey Institute of Technology - New York University - & Rutgers University",
+          "company": "Verizon Communications",
+          "posted_at": "2026-01-30T23:53:24.406Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "fiserv-corporate-intern-program-application-development-fishers",
-      "company": "Fiserv",
-      "title": "Corporate Intern Program-Application Development",
+      "job_id": "verizon-communications-verizon-consumer-experience-strategy-summer-2026-internship-new-jersey-institute-of-technology-new-york-university-rutgers-university-berkeley-heights",
+      "company": "Verizon Communications",
+      "title": "Verizon Consumer Experience Strategy Summer 2026 Internship: New Jersey Institute of Technology - New York University - & Rutgers University",
       "channels": [
         "📊・data-science-internships",
-        "🗽・new-york-internships"
+        "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-30T23:41:23.843Z"
+      "posted_at": "2026-01-30T23:53:22.687Z"
     }
   ],
   "failures": [],
@@ -67,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.478Z"
+        "timestamp": "2026-01-30T23:53:22.417Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.479Z"
+        "timestamp": "2026-01-30T23:53:22.417Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.479Z"
+        "timestamp": "2026-01-30T23:53:22.417Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.479Z"
+        "timestamp": "2026-01-30T23:53:22.418Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.479Z"
+        "timestamp": "2026-01-30T23:53:22.418Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.479Z"
+        "timestamp": "2026-01-30T23:53:22.418Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.479Z"
+        "timestamp": "2026-01-30T23:53:22.418Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.480Z"
+        "timestamp": "2026-01-30T23:53:22.418Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.480Z"
+        "timestamp": "2026-01-30T23:53:22.419Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:41:23.480Z"
+        "timestamp": "2026-01-30T23:53:22.419Z"
       }
     ]
   }
