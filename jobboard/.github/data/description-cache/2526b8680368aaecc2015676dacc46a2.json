@@ -1,0 +1,17 @@
+{
+  "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23660",
+  "data": {
+    "success": true,
+    "platform": "taleo",
+    "description": "The U.S. Department of Energy's Office of Environmental Management (DOE-EM) offers internships to help develop our future workforce in critically important areas of science, engineering, technology, and mathematics (STEM). DOE-EM summer internships take place at selected DOE national laboratories. Interns will complete research projects that are relevant to EM’s ongoing mission. Students will also be involved in enrichment activities provided by the host laboratory.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23660",
+      "fetchedAt": "2026-01-30T04:24:12.924Z"
+    }
+  },
+  "cachedAt": 1769747052925
+}
