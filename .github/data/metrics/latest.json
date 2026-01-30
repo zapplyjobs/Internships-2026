@@ -1,11 +1,11 @@
 {
-  "generated": "2026-01-30T03:36:37.855Z",
+  "generated": "2026-01-30T04:24:48.281Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T03:36:37.855Z",
-  "period_end": "2026-01-30T03:36:37.855Z",
+  "period_start": "2026-01-23T04:24:48.281Z",
+  "period_end": "2026-01-30T04:24:48.281Z",
   "summary": {
-    "total_jobs_posted": 9,
-    "unique_jobs": 5,
+    "total_jobs_posted": 8,
+    "unique_jobs": 4,
     "multi_channel_postings": 8,
     "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
@@ -13,150 +13,143 @@
     "channels_active": 5
   },
   "by_channel": {
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 2,
-      "jobs": [
-        "s-p-global-intern-data-scientist-princeton",
-        "lockheed-martin-ai-software-developer-intern-jan-jun-2026-"
-      ],
-      "recent_jobs": [
-        {
-          "id": "s-p-global-intern-data-scientist-princeton",
-          "title": "Intern - Data Scientist",
-          "company": "S&P Global ",
-          "posted_at": "2026-01-30T03:36:11.376Z"
-        },
-        {
-          "id": "lockheed-martin-ai-software-developer-intern-jan-jun-2026-",
-          "title": "AI Software Developer Intern(Jan-Jun 2026)",
-          "company": "Lockheed Martin",
-          "posted_at": "2026-01-30T03:36:13.009Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 1,
-      "jobs": [
-        "lockheed-martin-ai-software-developer-intern-jan-jun-2026-"
-      ],
-      "recent_jobs": [
-        {
-          "id": "lockheed-martin-ai-software-developer-intern-jan-jun-2026-",
-          "title": "AI Software Developer Intern(Jan-Jun 2026)",
-          "company": "Lockheed Martin",
-          "posted_at": "2026-01-30T03:36:14.666Z"
-        }
-      ]
-    },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "rtx-software-engineering-intern-software-engineer-annapolis",
-        "motorola-software-engineering-intern-2026-internship-program-west-valley-city"
+        "fabletics-data-engineering-intern-el-segundo"
       ],
       "recent_jobs": [
         {
-          "id": "rtx-software-engineering-intern-software-engineer-annapolis",
-          "title": "Software Engineering Intern - Software Engineer",
-          "company": "RTX",
-          "posted_at": "2026-01-30T03:36:19.361Z"
+          "id": "fabletics-data-engineering-intern-el-segundo",
+          "title": "Data Engineering Intern",
+          "company": "Fabletics",
+          "posted_at": "2026-01-30T04:24:23.168Z"
+        }
+      ]
+    },
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 2,
+      "jobs": [
+        "fabletics-data-engineering-intern-el-segundo",
+        "qtc-management-agentic-ai-data-science-internship-burlingame"
+      ],
+      "recent_jobs": [
+        {
+          "id": "fabletics-data-engineering-intern-el-segundo",
+          "title": "Data Engineering Intern",
+          "company": "Fabletics",
+          "posted_at": "2026-01-30T04:24:24.944Z"
         },
         {
-          "id": "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
-          "title": "Software Engineering Intern - 2026 Internship Program",
-          "company": "Motorola Solutions",
-          "posted_at": "2026-01-30T03:36:22.967Z"
+          "id": "qtc-management-agentic-ai-data-science-internship-burlingame",
+          "title": "Agentic AI & Data Science Internship",
+          "company": "QTC Management, inc",
+          "posted_at": "2026-01-30T04:24:38.125Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond"
+      ],
+      "recent_jobs": [
+        {
+          "id": "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
+          "title": "Data Analysis and Simulation Co-op/Intern- Summer 2026",
+          "company": "American Honda Motor Co., Inc.",
+          "posted_at": "2026-01-30T04:24:29.783Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 3,
+      "count": 2,
       "jobs": [
-        "rtx-software-engineering-intern-software-engineer-annapolis",
-        "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
-        "proofpoint-data-analyst-intern-6f8-co-op-draper"
+        "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
+        "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul"
       ],
       "recent_jobs": [
         {
-          "id": "rtx-software-engineering-intern-software-engineer-annapolis",
-          "title": "Software Engineering Intern - Software Engineer",
-          "company": "RTX",
-          "posted_at": "2026-01-30T03:36:21.260Z"
+          "id": "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
+          "title": "Data Analysis and Simulation Co-op/Intern- Summer 2026",
+          "company": "American Honda Motor Co., Inc.",
+          "posted_at": "2026-01-30T04:24:31.552Z"
         },
         {
-          "id": "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
-          "title": "Software Engineering Intern - 2026 Internship Program",
-          "company": "Motorola Solutions",
-          "posted_at": "2026-01-30T03:36:24.737Z"
-        },
-        {
-          "id": "proofpoint-data-analyst-intern-6f8-co-op-draper",
-          "title": "Data Analyst Intern 6f8 Co-op",
-          "company": "Proofpoint",
-          "posted_at": "2026-01-30T03:36:31.175Z"
+          "id": "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul",
+          "title": "R&D Research Algorithm & Data Science Intern 2026",
+          "company": "Boston Scientific",
+          "posted_at": "2026-01-30T04:24:41.588Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 1,
+      "count": 2,
       "jobs": [
-        "proofpoint-data-analyst-intern-6f8-co-op-draper"
+        "qtc-management-agentic-ai-data-science-internship-burlingame",
+        "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul"
       ],
       "recent_jobs": [
         {
-          "id": "proofpoint-data-analyst-intern-6f8-co-op-draper",
-          "title": "Data Analyst Intern 6f8 Co-op",
-          "company": "Proofpoint",
-          "posted_at": "2026-01-30T03:36:29.466Z"
+          "id": "qtc-management-agentic-ai-data-science-internship-burlingame",
+          "title": "Agentic AI & Data Science Internship",
+          "company": "QTC Management, inc",
+          "posted_at": "2026-01-30T04:24:36.383Z"
+        },
+        {
+          "id": "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul",
+          "title": "R&D Research Algorithm & Data Science Intern 2026",
+          "company": "Boston Scientific",
+          "posted_at": "2026-01-30T04:24:39.813Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "lockheed-martin-ai-software-developer-intern-jan-jun-2026-",
-      "company": "Lockheed Martin",
-      "title": "AI Software Developer Intern(Jan-Jun 2026)",
+      "job_id": "fabletics-data-engineering-intern-el-segundo",
+      "company": "Fabletics",
+      "title": "Data Engineering Intern",
+      "channels": [
+        "💻・tech-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-01-30T04:24:23.168Z"
+    },
+    {
+      "job_id": "american-honda-motor-co-data-analysis-and-simulation-co-op-intern-summer-2026-raymond",
+      "company": "American Honda Motor Co., Inc.",
+      "title": "Data Analysis and Simulation Co-op/Intern- Summer 2026",
       "channels": [
         "🤖・ai-internships",
-        "🗽・new-york-internships"
-      ],
-      "posted_at": "2026-01-30T03:36:13.009Z"
-    },
-    {
-      "job_id": "rtx-software-engineering-intern-software-engineer-annapolis",
-      "company": "RTX",
-      "title": "Software Engineering Intern - Software Engineer",
-      "channels": [
-        "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T03:36:19.361Z"
+      "posted_at": "2026-01-30T04:24:29.783Z"
     },
     {
-      "job_id": "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
-      "company": "Motorola Solutions",
-      "title": "Software Engineering Intern - 2026 Internship Program",
+      "job_id": "qtc-management-agentic-ai-data-science-internship-burlingame",
+      "company": "QTC Management, inc",
+      "title": "Agentic AI & Data Science Internship",
       "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
+        "📊・data-science-internships",
+        "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-30T03:36:22.967Z"
+      "posted_at": "2026-01-30T04:24:36.383Z"
     },
     {
-      "job_id": "proofpoint-data-analyst-intern-6f8-co-op-draper",
-      "company": "Proofpoint",
-      "title": "Data Analyst Intern 6f8 Co-op",
+      "job_id": "boston-scientific-r-d-research-algorithm-data-science-intern-2026-st-paul",
+      "company": "Boston Scientific",
+      "title": "R&D Research Algorithm & Data Science Intern 2026",
       "channels": [
         "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T03:36:29.466Z"
+      "posted_at": "2026-01-30T04:24:39.813Z"
     }
   ],
   "failures": [],
@@ -170,70 +163,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.922Z"
+        "timestamp": "2026-01-30T04:24:22.820Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.922Z"
+        "timestamp": "2026-01-30T04:24:22.820Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.922Z"
+        "timestamp": "2026-01-30T04:24:22.820Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.922Z"
+        "timestamp": "2026-01-30T04:24:22.821Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.923Z"
+        "timestamp": "2026-01-30T04:24:22.821Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.923Z"
+        "timestamp": "2026-01-30T04:24:22.821Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.923Z"
+        "timestamp": "2026-01-30T04:24:22.821Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.923Z"
+        "timestamp": "2026-01-30T04:24:22.821Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.923Z"
+        "timestamp": "2026-01-30T04:24:22.821Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T03:36:10.924Z"
+        "timestamp": "2026-01-30T04:24:22.822Z"
       }
     ]
   }
