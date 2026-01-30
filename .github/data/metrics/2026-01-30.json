@@ -1,19 +1,61 @@
 {
-  "generated": "2026-01-30T23:25:53.189Z",
+  "generated": "2026-01-30T23:41:32.230Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T23:25:53.189Z",
-  "period_end": "2026-01-30T23:25:53.189Z",
+  "period_start": "2026-01-23T23:41:32.230Z",
+  "period_end": "2026-01-30T23:41:32.230Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 2,
+    "unique_jobs": 1,
+    "multi_channel_postings": 2,
+    "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 0
+    "channels_active": 2
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 1,
+      "jobs": [
+        "fiserv-corporate-intern-program-application-development-fishers"
+      ],
+      "recent_jobs": [
+        {
+          "id": "fiserv-corporate-intern-program-application-development-fishers",
+          "title": "Corporate Intern Program-Application Development",
+          "company": "Fiserv",
+          "posted_at": "2026-01-30T23:41:23.843Z"
+        }
+      ]
+    },
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 1,
+      "jobs": [
+        "fiserv-corporate-intern-program-application-development-fishers"
+      ],
+      "recent_jobs": [
+        {
+          "id": "fiserv-corporate-intern-program-application-development-fishers",
+          "title": "Corporate Intern Program-Application Development",
+          "company": "Fiserv",
+          "posted_at": "2026-01-30T23:41:25.533Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "fiserv-corporate-intern-program-application-development-fishers",
+      "company": "Fiserv",
+      "title": "Corporate Intern Program-Application Development",
+      "channels": [
+        "📊・data-science-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-01-30T23:41:23.843Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
@@ -25,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.988Z"
+        "timestamp": "2026-01-30T23:41:23.478Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.988Z"
+        "timestamp": "2026-01-30T23:41:23.479Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.988Z"
+        "timestamp": "2026-01-30T23:41:23.479Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.988Z"
+        "timestamp": "2026-01-30T23:41:23.479Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.989Z"
+        "timestamp": "2026-01-30T23:41:23.479Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.989Z"
+        "timestamp": "2026-01-30T23:41:23.479Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.989Z"
+        "timestamp": "2026-01-30T23:41:23.479Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.989Z"
+        "timestamp": "2026-01-30T23:41:23.480Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.989Z"
+        "timestamp": "2026-01-30T23:41:23.480Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T23:25:50.990Z"
+        "timestamp": "2026-01-30T23:41:23.480Z"
       }
     ]
   }
