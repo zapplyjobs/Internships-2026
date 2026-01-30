@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-30T02:40:18.234Z",
+  "generated": "2026-01-30T03:36:37.855Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T02:40:18.234Z",
-  "period_end": "2026-01-30T02:40:18.234Z",
+  "period_start": "2026-01-23T03:36:37.855Z",
+  "period_end": "2026-01-30T03:36:37.855Z",
   "summary": {
-    "total_jobs_posted": 12,
-    "unique_jobs": 6,
-    "multi_channel_postings": 12,
-    "unique_multi_channel_jobs": 6,
+    "total_jobs_posted": 9,
+    "unique_jobs": 5,
+    "multi_channel_postings": 8,
+    "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
     "filtered_jobs": 10,
     "channels_active": 5
@@ -15,16 +15,60 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 1,
+      "count": 2,
       "jobs": [
-        "sas-summer-2026-full-stack-software-developer-intern-health-and-life-science-"
+        "s-p-global-intern-data-scientist-princeton",
+        "lockheed-martin-ai-software-developer-intern-jan-jun-2026-"
       ],
       "recent_jobs": [
         {
-          "id": "sas-summer-2026-full-stack-software-developer-intern-health-and-life-science-",
-          "title": "Summer 2026 - Full Stack Software Developer Intern (Health and Life Science)",
-          "company": "SAS",
-          "posted_at": "2026-01-30T02:39:45.535Z"
+          "id": "s-p-global-intern-data-scientist-princeton",
+          "title": "Intern - Data Scientist",
+          "company": "S&P Global ",
+          "posted_at": "2026-01-30T03:36:11.376Z"
+        },
+        {
+          "id": "lockheed-martin-ai-software-developer-intern-jan-jun-2026-",
+          "title": "AI Software Developer Intern(Jan-Jun 2026)",
+          "company": "Lockheed Martin",
+          "posted_at": "2026-01-30T03:36:13.009Z"
+        }
+      ]
+    },
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 1,
+      "jobs": [
+        "lockheed-martin-ai-software-developer-intern-jan-jun-2026-"
+      ],
+      "recent_jobs": [
+        {
+          "id": "lockheed-martin-ai-software-developer-intern-jan-jun-2026-",
+          "title": "AI Software Developer Intern(Jan-Jun 2026)",
+          "company": "Lockheed Martin",
+          "posted_at": "2026-01-30T03:36:14.666Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 2,
+      "jobs": [
+        "rtx-software-engineering-intern-software-engineer-annapolis",
+        "motorola-software-engineering-intern-2026-internship-program-west-valley-city"
+      ],
+      "recent_jobs": [
+        {
+          "id": "rtx-software-engineering-intern-software-engineer-annapolis",
+          "title": "Software Engineering Intern - Software Engineer",
+          "company": "RTX",
+          "posted_at": "2026-01-30T03:36:19.361Z"
+        },
+        {
+          "id": "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
+          "title": "Software Engineering Intern - 2026 Internship Program",
+          "company": "Motorola Solutions",
+          "posted_at": "2026-01-30T03:36:22.967Z"
         }
       ]
     },
@@ -32,93 +76,28 @@
       "channel_id": "1464304182923362324",
       "count": 3,
       "jobs": [
-        "sas-summer-2026-full-stack-software-developer-intern-health-and-life-science-",
-        "imperative-care-software-engineer-intern-applications-campbell",
-        "xenith-summer-intern-software-engineer-data-science-leesburg"
+        "rtx-software-engineering-intern-software-engineer-annapolis",
+        "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
+        "proofpoint-data-analyst-intern-6f8-co-op-draper"
       ],
       "recent_jobs": [
         {
-          "id": "sas-summer-2026-full-stack-software-developer-intern-health-and-life-science-",
-          "title": "Summer 2026 - Full Stack Software Developer Intern (Health and Life Science)",
-          "company": "SAS",
-          "posted_at": "2026-01-30T02:39:47.260Z"
+          "id": "rtx-software-engineering-intern-software-engineer-annapolis",
+          "title": "Software Engineering Intern - Software Engineer",
+          "company": "RTX",
+          "posted_at": "2026-01-30T03:36:21.260Z"
         },
         {
-          "id": "imperative-care-software-engineer-intern-applications-campbell",
-          "title": "Software Engineer Intern Applications",
-          "company": "Imperative Care",
-          "posted_at": "2026-01-30T02:40:01.410Z"
+          "id": "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
+          "title": "Software Engineering Intern - 2026 Internship Program",
+          "company": "Motorola Solutions",
+          "posted_at": "2026-01-30T03:36:24.737Z"
         },
         {
-          "id": "xenith-summer-intern-software-engineer-data-science-leesburg",
-          "title": "Summer Intern- Software Engineer / Data Science",
-          "company": "Xenith Solutions",
-          "posted_at": "2026-01-30T02:40:11.540Z"
-        }
-      ]
-    },
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 4,
-      "jobs": [
-        "t-mobile-summer-2026-software-engineering-internship-overland-park",
-        "stryker-2026-summer-intern-software-engineering-washington-redmond",
-        "imperative-care-software-engineer-intern-applications-campbell",
-        "t-mobile-software-engineer-intern-bellevue"
-      ],
-      "recent_jobs": [
-        {
-          "id": "t-mobile-summer-2026-software-engineering-internship-overland-park",
-          "title": "Summer 2026 Software Engineering Internship",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-30T02:39:52.070Z"
-        },
-        {
-          "id": "stryker-2026-summer-intern-software-engineering-washington-redmond",
-          "title": "2026 Summer Intern - Software Engineering - Washington",
-          "company": "Stryker",
-          "posted_at": "2026-01-30T02:39:56.177Z"
-        },
-        {
-          "id": "imperative-care-software-engineer-intern-applications-campbell",
-          "title": "Software Engineer Intern Applications",
-          "company": "Imperative Care",
-          "posted_at": "2026-01-30T02:39:59.717Z"
-        },
-        {
-          "id": "t-mobile-software-engineer-intern-bellevue",
-          "title": "Software Engineer Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-30T02:40:03.288Z"
-        }
-      ]
-    },
-    "🌲・pacific-northwest-internships": {
-      "channel_id": "1464304146072207390",
-      "count": 3,
-      "jobs": [
-        "t-mobile-summer-2026-software-engineering-internship-overland-park",
-        "stryker-2026-summer-intern-software-engineering-washington-redmond",
-        "t-mobile-software-engineer-intern-bellevue"
-      ],
-      "recent_jobs": [
-        {
-          "id": "t-mobile-summer-2026-software-engineering-internship-overland-park",
-          "title": "Summer 2026 Software Engineering Internship",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-30T02:39:53.911Z"
-        },
-        {
-          "id": "stryker-2026-summer-intern-software-engineering-washington-redmond",
-          "title": "2026 Summer Intern - Software Engineering - Washington",
-          "company": "Stryker",
-          "posted_at": "2026-01-30T02:39:58.009Z"
-        },
-        {
-          "id": "t-mobile-software-engineer-intern-bellevue",
-          "title": "Software Engineer Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-30T02:40:05.024Z"
+          "id": "proofpoint-data-analyst-intern-6f8-co-op-draper",
+          "title": "Data Analyst Intern 6f8 Co-op",
+          "company": "Proofpoint",
+          "posted_at": "2026-01-30T03:36:31.175Z"
         }
       ]
     },
@@ -126,78 +105,58 @@
       "channel_id": "1464303266866135232",
       "count": 1,
       "jobs": [
-        "xenith-summer-intern-software-engineer-data-science-leesburg"
+        "proofpoint-data-analyst-intern-6f8-co-op-draper"
       ],
       "recent_jobs": [
         {
-          "id": "xenith-summer-intern-software-engineer-data-science-leesburg",
-          "title": "Summer Intern- Software Engineer / Data Science",
-          "company": "Xenith Solutions",
-          "posted_at": "2026-01-30T02:40:09.762Z"
+          "id": "proofpoint-data-analyst-intern-6f8-co-op-draper",
+          "title": "Data Analyst Intern 6f8 Co-op",
+          "company": "Proofpoint",
+          "posted_at": "2026-01-30T03:36:29.466Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "sas-summer-2026-full-stack-software-developer-intern-health-and-life-science-",
-      "company": "SAS",
-      "title": "Summer 2026 - Full Stack Software Developer Intern (Health and Life Science)",
+      "job_id": "lockheed-martin-ai-software-developer-intern-jan-jun-2026-",
+      "company": "Lockheed Martin",
+      "title": "AI Software Developer Intern(Jan-Jun 2026)",
       "channels": [
         "🤖・ai-internships",
-        "📍・other-usa-internships"
+        "🗽・new-york-internships"
       ],
-      "posted_at": "2026-01-30T02:39:45.535Z"
+      "posted_at": "2026-01-30T03:36:13.009Z"
     },
     {
-      "job_id": "t-mobile-summer-2026-software-engineering-internship-overland-park",
-      "company": "T-Mobile",
-      "title": "Summer 2026 Software Engineering Internship",
-      "channels": [
-        "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
-      ],
-      "posted_at": "2026-01-30T02:39:52.070Z"
-    },
-    {
-      "job_id": "stryker-2026-summer-intern-software-engineering-washington-redmond",
-      "company": "Stryker",
-      "title": "2026 Summer Intern - Software Engineering - Washington",
-      "channels": [
-        "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
-      ],
-      "posted_at": "2026-01-30T02:39:56.177Z"
-    },
-    {
-      "job_id": "imperative-care-software-engineer-intern-applications-campbell",
-      "company": "Imperative Care",
-      "title": "Software Engineer Intern Applications",
+      "job_id": "rtx-software-engineering-intern-software-engineer-annapolis",
+      "company": "RTX",
+      "title": "Software Engineering Intern - Software Engineer",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T02:39:59.717Z"
+      "posted_at": "2026-01-30T03:36:19.361Z"
     },
     {
-      "job_id": "t-mobile-software-engineer-intern-bellevue",
-      "company": "T-Mobile",
-      "title": "Software Engineer Intern",
+      "job_id": "motorola-software-engineering-intern-2026-internship-program-west-valley-city",
+      "company": "Motorola Solutions",
+      "title": "Software Engineering Intern - 2026 Internship Program",
       "channels": [
         "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T02:40:03.288Z"
+      "posted_at": "2026-01-30T03:36:22.967Z"
     },
     {
-      "job_id": "xenith-summer-intern-software-engineer-data-science-leesburg",
-      "company": "Xenith Solutions",
-      "title": "Summer Intern- Software Engineer / Data Science",
+      "job_id": "proofpoint-data-analyst-intern-6f8-co-op-draper",
+      "company": "Proofpoint",
+      "title": "Data Analyst Intern 6f8 Co-op",
       "channels": [
         "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-30T02:40:09.762Z"
+      "posted_at": "2026-01-30T03:36:29.466Z"
     }
   ],
   "failures": [],
@@ -211,70 +170,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.099Z"
+        "timestamp": "2026-01-30T03:36:10.922Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.099Z"
+        "timestamp": "2026-01-30T03:36:10.922Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.099Z"
+        "timestamp": "2026-01-30T03:36:10.922Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.099Z"
+        "timestamp": "2026-01-30T03:36:10.922Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.099Z"
+        "timestamp": "2026-01-30T03:36:10.923Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.100Z"
+        "timestamp": "2026-01-30T03:36:10.923Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.100Z"
+        "timestamp": "2026-01-30T03:36:10.923Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.100Z"
+        "timestamp": "2026-01-30T03:36:10.923Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.100Z"
+        "timestamp": "2026-01-30T03:36:10.923Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T02:39:45.101Z"
+        "timestamp": "2026-01-30T03:36:10.924Z"
       }
     ]
   }
