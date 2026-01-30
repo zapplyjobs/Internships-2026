@@ -3999,18 +3999,20 @@
       "employer_name": "Parexel",
       "job_city": "Raleigh",
       "job_state": "NC",
-      "job_description": "Join Parexel in this exciting opportunity.",
+      "job_description": "When our values align, there's no limit to what we can achieve. At Parexel, we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do. Each of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we're committed to making a difference. Key Accountabilities: Using Microsoft Azure data PaaS services, design, build, modify, and support data pipelines leveraging DataBricks and PowerBI in a medallion architecture setting Create prototypes to validate proposed ideas and solicit input from stakeholders Collaborate with Team Leads to define/clarify business requirements, estimate development costs, and finalize work plans Run unit and integration tests on all created code – Create and run unit and integration tests throughout the development lifecycle Support and Troubleshooting – Assist the Operations Team with any environmental issues that arise during application deployment in the Development, QA, Staging, and Production environments Assist other teams in resolving issues that may develop as a result of applications or the integration of multiple components Knowledge and Experience: Understanding of design concepts and architectural basics The ability to transform functional and nonfunctional needs into system requirements The ability to develop and code complicated applications is required. The ability to create test cases and scenarios based on specifications. Knowledge of SDLC and agile techniques, current technologies and trends Logical thinking and problem-solving abilities, as well as the capacity to collaborate Exposure to Cloud Platform, Azure, Databricks, ADF, ADO Knowledge of SQL and Python Education: Studying Computer Science, Engineering, or related technical field EEO Disclaimer Parexel is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to legally protected status, which in the US includes race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. Parexel is a leading global clinical research organization (CRO) providing insights-driven Clinical and Consulting solutions to the world’s life sciences industry. Leveraging deep local knowledge and a global breadth of clinical, regulatory and therapeutic expertise, our professionals worldwide work in partnership with biopharmaceutical leaders, emerging innovators and sites to design and deliver clinical trials with patients in mind — broadening access and making clinical research a care option for anyone, anywhere. Our proven track record spans 40+ years and drives us forward, advancing clinical research in healthcare’s most complex areas while harnessing innovation to drive efficiencies across every phase of the clinical development process. Our insights-driven approach, proven delivery and trusted execution are accelerating the delivery of life-changing treatments to patients — With Heart.™",
       "job_apply_link": "https://wd1.myworkdaysite.com/en-US/recruiting/parexel/Parexel_External_Careers/job/United-States---Raleigh---North-Carolina/Data-Engineer-Intern_R0000037539-1",
       "job_posted_at_datetime_utc": "2026-01-30T15:40:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "parexel-data-engineer-intern-raleigh"
+      "id": "parexel-data-engineer-intern-raleigh",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T16:11:44.207Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T16:27:30.394Z",
+    "postedAt": "2026-01-30T16:27:42.201Z"
   },
   {
     "job": {
