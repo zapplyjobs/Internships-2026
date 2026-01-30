@@ -3428,19 +3428,21 @@
       "employer_name": "The Pennsylvania State University",
       "job_city": "Reston",
       "job_state": "Virginia",
-      "job_description": "APPLICATION INSTRUCTIONS :\n\nCURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please to complete the. Please do not apply here, apply internally through Workday.\n\nCURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please to complete the Please do not apply here, apply internally through Workday.\n\nIf you are NOT a current employee or student, please click “Apply” and complete .\n\nApproval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see .\n\nJOB DESCRIPTION AND POSITION REQUIREMENTS\n\nWe are seekingseveral undergraduate students with artificial intelligence / machine learning (AI / ML) experience to join Visualization and Decision Support Division of the Applied Research Laboratory (ARL) at Penn State. looking to support our mission to discover, demonstrate, transition, and educate. Interns will have the opportunity to work on cutting-edge AI technologies, participate in a Kaggle-style competition, and develop solutions to problems in computer vision and geospatial understanding.\n\nStudents selected will serve as active, hands-on, contributing members of the research staff at ARL. As part of this position, the candidate may :\n• Work within an agile development environment with other developers, scrum master, and product owners to scope, develop, and deliver quality software solutions.\n• Contribute to the research and development of unique algorithmic solutions for a wide array of sponsor requirements, with a focus on machine learning and artificial intelligence.\n• Contribute to the development, testing, and transition of front and back-end software applications to various IT environments.\n• Support machine learning model development using tools and technologies such as : PyTorch, Pandas, PostgreSQL, AWS, Docker and similar technologies.\n• Collaborate with cross-functional teams to integrate machine learning models into existing systems and develop new ones to meet specific project needs.\n\nStudents studying Computer Science, Electrical Engineering or Mathematics are encouraged to apply.\n\nExperience in machine learning is preferred.\n\nSuccessful candidates will work up to hours / week during the fall and spring semesters and hours / week over the summer. This is a paid internship located at either State College, PA or Reston, VA. Relocation and housing are not provided.\n\nCandidates selected may be subject to a government security investigation. You must be a U.S. citizen to apply. Employment with the Applied Research Laboratory will require successful completion of a pre-employment drug screen.\n\nFOR FURTHER INFORMATION on ARL, visit our web site at\n\nBACKGROUND CHECKS / CLEARANCES\n\nEmployment with the University will require successful completion of background check(s) in accordance with University policies.All positions at ARL require candidates to possess the ability to obtain a government security clearance; you will be notified during the interview process if this position is subject to a government background investigation. You must be a U.S. citizen to apply. Employment with the ARL will require successful completion of a pre-employment drug screen.\n\nCAMPUS SECURITY CRIME STATISTICS\n\nPursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 8, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review .\n\nEEO IS THE LAW\n\nPenn State is an equal opportunity employer and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 3.",
+      "job_description": "Apply for AI/ML Research and Development Intern (parttime) in Reston. The Pennsylvania State University is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_apply_link": "https://www.talent.com/view?id=ab623a82b9e7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-21T00:00:00.000Z",
       "job_employment_type": "Full-time",
       "job_source": "jsearch",
       "job_publisher": "Talent.com",
       "job_posted_at": "3d",
-      "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston"
+      "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-reston",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T03:35:44.996Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T06:16:50.490Z",
+    "postedAt": "2026-01-30T06:17:17.018Z"
   },
   {
     "job": {
@@ -3448,19 +3450,21 @@
       "employer_name": "Takeda Pharmaceuticals",
       "job_city": "Cambridge",
       "job_state": "Massachusetts",
-      "job_description": "Computational Chemistry Group Internship\n\nThe Computational Chemistry Group in the Computational Science and Data Strategy (CSDS) department at Takeda Research focuses on integrating computational methodologies to advance drug discovery and development.\n\nResponsibilities\n\nIn this role, you will :\n• Design, train, and evaluate modern machine learning models applied to chemical and biological problems.\n• Collaborate with the machine learning research team to explore and test new algorithmic ideas.\n• Clean, organize, and analyze chemical and biological datasets for modeling and benchmarking.\n• Build and validate models for (bio)molecular property prediction and optimization.\n• Compare different molecular representations (e.g., SMILES, graphs, fingerprints) in both supervised and unsupervised learning setups.\n• Work closely with colleagues in chemistry, biology, and data science to understand real R&D needs and how ML solutions can be integrated into existing workflows.\n• Present your results regularly to the team, including progress updates, key findings, and next steps.\n\nRequired Qualifications\n• Currently enrolled in a Master's or PhD program in Computer Science, Engineering, Chemistry, Biology, or a related quantitative field.\n• Strong interest in research at the intersection of machine learning and the life sciences.\n• Good foundational knowledge of chemistry and / or biology.\n• Solid communication skills in English, with the ability to explain technical concepts clearly in small group discussions and meetings.\n\nPreferred Qualifications\n• Hands-on Python programming experience.\n• Experience with data science and / or cheminformatics tools, such as Pandas, Scikit-learn, Matplotlib, RDKit, OEChem, or DeepChem.\n• Experience with at least one deep learning framework, such as PyTorch, TensorFlow, or JAX.\n\nInternship Eligibility\n• Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship.\n• Must be currently enrolled in a degree program graduating December 2026 or later.\n• The internship program is 10-12 weeks depending on the two start dates (May 26 - August 14 or June 15 - August 21).\n• The intern must be able to commit to one of these time frames.\n• Able to work full time 40 hours a week during internship dates.\n• Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program.\n\nProgram Highlights\n• Hands-on experience with real projects and responsibilities.\n• Dedicated mentorship program pairing interns with experienced professionals.\n• Networking opportunities with industry professionals and fellow interns.\n• Internship events focused on professional and skills development.\n• Exposure to multiple business areas or departments within a Pharmaceutical Organization.\n\nApplications will be accepted until January 4th.\n\nTakeda Compensation and Benefits Summary\n\nWe understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we strive to be more transparent with our pay practices.\n\nFor Location : Boston, MA\n\nU.S. Hourly Wage Range : $21.00 - $46.00\n\nThe estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate's school year / level to be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job location.\n\nU.S. internship benefits vary by location and may include :\n• Paid sick time\n• Civic Duty paid time off\n• Participation at company volunteer events\n• Participation at company sponsored special events\n• Access to on-site fitness center (where available)\n• Commuter Benefit : To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation (transit) or parking.\n\nEEO Statement\n\nTakeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.",
+      "job_description": "Apply for 2026 Summer Internship Program: Machine Learning Research Intern (internship) in Cambridge. Takeda Pharmaceuticals is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_apply_link": "https://www.talent.com/view?id=03c53fd5eee6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-21T00:00:00.000Z",
       "job_employment_type": "Full-time",
       "job_source": "jsearch",
       "job_publisher": "Talent.com",
       "job_posted_at": "3d",
-      "id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge"
+      "id": "takeda-pharmaceuticals-2026-summer-internship-program-machine-learning-research-intern-cambridge",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T03:35:44.996Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T06:16:50.490Z",
+    "postedAt": "2026-01-30T06:17:17.018Z"
   },
   {
     "job": {
@@ -3468,18 +3472,20 @@
       "employer_name": "Air Liquide",
       "job_city": "Newark",
       "job_state": "DE",
-      "job_description": "Join Air Liquide in this exciting opportunity.",
+      "job_description": "R10083535 HSE Data & Automation Intern (Open)\n\nLocation:Newark, DE (ICD) - Support functions\n\nThe Innovation and Development Division (IDD) drives the innovation strategy for the Hubs and Operations, and contributes to the Group's transformation. It is responsible for imagining, developing and incubating new solutions until they are brought to market, particularly when it comes to offers with a high technological content (including digital and IT). IDD gathers more than 3,000 employees from 70 nationalities at 60 sites.How will you CONTRIBUTE and GROW?Air Liquide is Hiring for a HSE Data & Automation Intern in Newark, DE!At Air Liquide, we are committed to building a diverse and inclusive workplace that embraces the unique perspectives of our employees, our customers, patients, community stakeholders, and cultures across the world. We believe that a variety of backgrounds makes our team stronger and more innovative.We are looking for you!Pay: $24.00 - $30.00 per hourLength: 10 Week Internship ProgramRelocation: No Relocation will be provided for this positionAs the HSE Intern, you will assist the Health, Safety, and Environment Manager with daily tasks to continuously improve the occupational health, safety, and environmental protection of the company's staff and assets. For the Summer 2026 term, your primary focus will be bridging the gap between traditional safety management and modern data science by leading a comprehensive audit and optimization of our electronic chemical inventory system.Duties and ResponsibilitiesThe internship will be divided between core HSE support and specialized technical projects.Core HSE Support:Safety Event Management: Categorize, log, and create presentations for safety events.Training Coordination: Work with trainers to schedule, track, and update local safety training records.Compliance & Auditing: Assist with internal inspections and learn regulatory compliance data collection.Safety Culture: Promote the reporting of good catches and near-misses to enhance employee awareness.Priority Projects:Chemical Inventory Optimization: Lead the effort to clean, verify, and organize the electronic chemical inventory. You will leverage platform integration capabilities using SQL and JavaScript to ensure data integrity and real-time accessibility.Task Automation: Develop scripts and workflows to automate repetitive HSE administrative tasks across Google Workspace (Sheets, Docs, Forms).AI Implementation: Assist in the generation and deployment of Google GEMS (custom AI experts) to provide staff with instant access to safety procedures and regulatory guidance.__________________Are you a MATCH? Required QualificationsCurrently pursuing a bachelors degree in Information Technology, Computer Science, Environmental or Chemical Engineering.Demonstrated proficiency with spreadsheet generation and complex formulas.Working knowledge of SQL and JavaScript for data manipulation and system integration.Strong organizational skills and meticulous attention to detail.Ability to read, understand, and apply complex written safety procedures in English. Preferred Qualifications Prior experience in a laboratory or industrial setting is helpful but not required.Experience with Google Apps Script or similar automation tools The candidate must have valid unrestricted employment authorization in the U.S. and must not require visa sponsorship now or in the future. Our Differences make our PerformanceAt Air Liquide, we are committed to build a diverse and inclusive workplace that embraces the diversity of our employees, our customers, patients, community stakeholders and cultures across the world.We welcome and consider applications from all qualified applicants, regardless of their background. We strongly believe a diverse organization opens up opportunities for people to express their talent, both individually and collectively and it helps foster our ability to innovate by living our fundamentals, acting for our success and creating an engaging environment in a changing world.",
       "job_apply_link": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newark-DE-ICD/HSE-Data---Automation-Intern_R10083535",
       "job_posted_at_datetime_utc": "2026-01-30T03:34:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "air-liquide-hse-data-automation-intern-newark"
+      "id": "air-liquide-hse-data-automation-intern-newark",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T04:24:12.521Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T06:16:50.490Z",
+    "postedAt": "2026-01-30T06:17:17.018Z"
   },
   {
     "job": {
@@ -3487,18 +3493,20 @@
       "employer_name": "Air Liquide",
       "job_city": "Newark",
       "job_state": "DE",
-      "job_description": "Join Air Liquide in this exciting opportunity.",
+      "job_description": "R10083794 AI and Machine Learning Intern (Open)\n\nLocation:Newark, DE (ICD) - R&D - Electronics\n\nThe Innovation and Development Division (IDD) drives the innovation strategy for the Hubs and Operations, and contributes to the Group's transformation. It is responsible for imagining, developing and incubating new solutions until they are brought to market, particularly when it comes to offers with a high technological content (including digital and IT). IDD gathers more than 3,000 employees from 70 nationalities at 60 sites.How will you CONTRIBUTE and GROW?Air Liquide is Hiring for an AI & Machine Learning Intern in Newark, DE!At Air Liquide, we are committed to building a diverse and inclusive workplace that embraces the unique perspectives of our employees, our customers, patients, community stakeholders, and cultures across the world. We believe that a variety of backgrounds makes our team stronger and more innovative.We are looking for you!Pay: $24.00 - $30.00 per hourLength: 10 Week Internship ProgramRelocation: No Relocation will be provided for this positionWe are seeking a motivated intern to join our Electronics Materials division, focusing on the integration of AI, machine learning, and advanced digital tools. In this role, you will work to streamline complex data flows originating from our laboratory research to accelerate the development of novel materials. By collaborating closely with our team of researchers, you will help design and implement innovative methodologies that leverage AI to optimize data analysis. This is a unique opportunity to apply cutting-edge computational techniques to real-world laboratory challenges and drive efficiency in material science.ResponsibilitiesDevelop AI and machine learning tools to analyze laboratory dataSupport researchers in their research projects to streamline data acquisition and data analysisIdentify where AI and machine learning can support the efficiency improvement of our laboratory work and material discovery projects__________________Are you a MATCH? RequirementsCurrently pursuing a degree (Junior/Senior) in Computer Science, Data Science, Materials Science, Chemical Engineering, or a related field.Strong understanding and hands on experience with current AI and machine learning.  Strong programming skills in Python (specifically libraries like NumPy, Pandas, and Scikit-learn).Familiarity with data visualization tools and an understanding of how to handle high-dimensional laboratory datasets.Ability to explain complex digital concepts to team members who may have a more traditional laboratory background.The candidate must have valid unrestricted employment authorization in the U.S. and must not require visa sponsorship now or in the future. Our Differences make our PerformanceAt Air Liquide, we are committed to build a diverse and inclusive workplace that embraces the diversity of our employees, our customers, patients, community stakeholders and cultures across the world.We welcome and consider applications from all qualified applicants, regardless of their background. We strongly believe a diverse organization opens up opportunities for people to express their talent, both individually and collectively and it helps foster our ability to innovate by living our fundamentals, acting for our success and creating an engaging environment in a changing world.",
       "job_apply_link": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newark-DE-ICD/AI-and-Machine-Learning-Intern_R10083794",
       "job_posted_at_datetime_utc": "2026-01-30T03:34:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "air-liquide-ai-and-machine-learning-intern-newark"
+      "id": "air-liquide-ai-and-machine-learning-intern-newark",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T04:24:12.521Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-30T06:16:50.490Z",
+    "postedAt": "2026-01-30T06:17:17.018Z"
   },
   {
     "job": {
