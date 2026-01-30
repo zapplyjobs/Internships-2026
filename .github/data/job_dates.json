@@ -35458,5 +35458,17 @@
     "job_title": "Administrative Data Analytics Intern",
     "company": "General Dynamics Mission Systems",
     "first_seen": "2026-01-30T15:47:24.616Z"
+  },
+  "parexel-data-engineer-intern-raleigh": {
+    "assigned_date": "2026-01-30T16:11:44.147Z",
+    "job_title": "Data Engineer Intern",
+    "company": "Parexel",
+    "first_seen": "2026-01-30T16:11:44.147Z"
+  },
+  "caci-ai-prompt-engineer-intern-ashburn": {
+    "assigned_date": "2026-01-30T16:11:44.147Z",
+    "job_title": "AI Prompt Engineer Intern",
+    "company": "CACI",
+    "first_seen": "2026-01-30T16:11:44.147Z"
   }
 }

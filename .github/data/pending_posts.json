@@ -3978,16 +3978,56 @@
       "employer_name": "General Dynamics Mission Systems",
       "job_city": "Dedham",
       "job_state": "MA",
-      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of business principles. <strong>Administration Interns</strong> must be enrolled in an accredited degree program with a preference in a related field.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Administration Intern to join our team. The position provides an opportunity to enhance the performance and profitability of an organization that supports some of our nation's fundamental defense services. This position will support program teams supporting the efforts</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various projects of the GDMS organization and its clients. In addition to receiving a competitive wage, the Administration Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p>#LI-Hybrid</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $33.60 - USD $33.60 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
       "job_apply_link": "https://careers-gdms.icims.com/jobs/70489/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2026-01-30T15:08:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "general-dynamics-mission-administrative-data-analytics-intern-dedham"
+      "id": "general-dynamics-mission-administrative-data-analytics-intern-dedham",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-30T15:47:24.686Z",
+    "enrichedAt": "2026-01-30T16:11:44.736Z",
+    "postedAt": "2026-01-30T16:11:54.359Z"
+  },
+  {
+    "job": {
+      "job_title": "Data Engineer Intern",
+      "employer_name": "Parexel",
+      "job_city": "Raleigh",
+      "job_state": "NC",
+      "job_description": "Join Parexel in this exciting opportunity.",
+      "job_apply_link": "https://wd1.myworkdaysite.com/en-US/recruiting/parexel/Parexel_External_Careers/job/United-States---Raleigh---North-Carolina/Data-Engineer-Intern_R0000037539-1",
+      "job_posted_at_datetime_utc": "2026-01-30T15:40:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "parexel-data-engineer-intern-raleigh"
     },
     "status": "pending",
-    "addedAt": "2026-01-30T15:47:24.686Z",
+    "addedAt": "2026-01-30T16:11:44.207Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Prompt Engineer Intern",
+      "employer_name": "CACI",
+      "job_city": "Ashburn",
+      "job_state": "VA",
+      "job_description": "Join CACI in this exciting opportunity.",
+      "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer-Intern_321469",
+      "job_posted_at_datetime_utc": "2026-01-30T15:40:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "caci-ai-prompt-engineer-intern-ashburn"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-30T16:11:44.207Z",
     "enrichedAt": null,
     "postedAt": null
   }
