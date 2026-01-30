@@ -1,19 +1,61 @@
 {
-  "generated": "2026-01-30T15:27:51.208Z",
+  "generated": "2026-01-30T15:47:37.390Z",
   "period": "last_7_days",
-  "period_start": "2026-01-23T15:27:51.208Z",
-  "period_end": "2026-01-30T15:27:51.208Z",
+  "period_start": "2026-01-23T15:47:37.390Z",
+  "period_end": "2026-01-30T15:47:37.390Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 2,
+    "unique_jobs": 1,
+    "multi_channel_postings": 2,
+    "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 0
+    "channels_active": 2
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "anduril-software-engineer-intern-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "anduril-software-engineer-intern-atlanta",
+          "title": "Software Engineer Intern",
+          "company": "Anduril",
+          "posted_at": "2026-01-30T15:47:28.973Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 1,
+      "jobs": [
+        "anduril-software-engineer-intern-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "anduril-software-engineer-intern-atlanta",
+          "title": "Software Engineer Intern",
+          "company": "Anduril",
+          "posted_at": "2026-01-30T15:47:30.693Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "anduril-software-engineer-intern-atlanta",
+      "company": "Anduril",
+      "title": "Software Engineer Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-30T15:47:28.973Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
@@ -25,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.010Z"
+        "timestamp": "2026-01-30T15:47:28.621Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.010Z"
+        "timestamp": "2026-01-30T15:47:28.622Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.011Z"
+        "timestamp": "2026-01-30T15:47:28.622Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.011Z"
+        "timestamp": "2026-01-30T15:47:28.622Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.011Z"
+        "timestamp": "2026-01-30T15:47:28.622Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.011Z"
+        "timestamp": "2026-01-30T15:47:28.622Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.011Z"
+        "timestamp": "2026-01-30T15:47:28.623Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.011Z"
+        "timestamp": "2026-01-30T15:47:28.623Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.012Z"
+        "timestamp": "2026-01-30T15:47:28.623Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-30T15:27:49.012Z"
+        "timestamp": "2026-01-30T15:47:28.623Z"
       }
     ]
   }
