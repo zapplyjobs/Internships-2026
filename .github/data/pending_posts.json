@@ -4104,18 +4104,20 @@
       "employer_name": "Virtru",
       "job_city": "Washington",
       "job_state": "DC",
-      "job_description": "Join Virtru in this exciting opportunity.",
+      "job_description": "About Virtru: While the rest of the security industry obsesses over locking data down to prevent it from being lost or stolen, we're doing something fundamentally different at Virtru. We're setting data free so that you can intentionally share it with others, but without sacrificing security, privacy, or control. We've created both a suite of powerful data protection applications and an open platform that's sparking an ecosystem of innovation. Through the Trusted Data Format (TDF) open standard, we're not just protecting data; we're creating a new paradigm where security enables sharing rather than preventing it. Think of us as the Android of data protection: a robust platform with an open core that developers and partners can build upon, coupled with our own best-in-class applications that showcase what's possible when you reimagine security from the ground up. Backed by Iconiq Capital, Bessemer Venture Partners, Foundry Capital, and Tiger Global, we're helping Fortune 500 companies and government agencies discover that true data security means having the freedom to share, collaborate, and innovate — without compromise.This is a paid Summer 2026 Internship. This is a temporary, full-time internship. Candidates must be able to commit to a 10 week program.Compensation: $25/ hour Team & Position Details: As a Software Developer Intern on our Platform Web team, you will be working closely with our frontend engineering team and with our Platform team to enable managing our Data Security Platform with a web UI. Our stack consists of TypeScript, React, and MUI on the frontend, and Golang on the backend. As a Software Developer Intern, your responsibilities will include: Building web-based software for our Data Security Platform Meeting with your manager for status updates Work with our design and UX team to refine functionality Skills that will help you thrive in this role: Experience building and running JavaScript applications Ability to break a problem down into smaller problems Willingness to ask questions Nice to haves Experience with TypeScript Experience with React Interest in cryptography Virtruvian qualities that will set you up for success: Thinking outside of the box to respectfully challenge your teammates and managers in the pursuit of excellence Strong sense of urgency with an action-oriented mindset Able to collaborate and adapt to shifting priorities as business needs evolve Comfortable with asynchronous communication including slack, email, zoom, etc. As a Virtru Summer Intern: During the interview process, you will meet with your Manager and discuss role expectations, your interests, and your skills. As a Virtru intern, you will work closely with your team and assist with challenging tasks and responsibilities to help Virtru come closer to achieving our goals. And of course, if you would like to learn more about something, just ask. In the Internship Cohort, you will be managed by your internship coordinator and HR advocate, Bella. Organized events, such as games nights, career workshops, and speaker series sessions are planned and executed specifically for interns. As an important team member of Virtru, you will be included in company-wide meetings and events, including one-on-one sessions with your department’s executive leader (giving you a peek as to what it’s like working with us full-time)!. You will gain real-world, hands-on learning and contribute to critical elements of an enterprise Software as a Service (SaaS) business. You will be joining a highly collaborative company, with the opportunity to reach out to anyone for questions, with a summer mentor and HR advocate to assist you with internal networking! Events to note in the ten week summer session: First week of Onboarding, just like a full-time employee! Weekly sessions with your HR advocate, 1:1 and in a group setting Two formal feedback sessions 1:1 session with Steering/Executive Leader Opportunity for in-office visit/mentorship This internship is for learners ready to work in a connected hybrid environment. While we are not a strict 9-5 work environment, you will be responsible for timely responses in Slack, email, and meeting attendance. Intern Perks & Benefits: At Virtru, we believe people do their best work when their wellbeing is put first. This is why we make your wellbeing our priority with a thoughtful and holistic program that encompasses Occupational, Mental, Social, Physical, and Environmental Wellness by offering benefits such as… A Hybrid Approach — Virtru is committed to being forever flexible when it comes to where, how, and when you get your work done. You have the option to work from home if that suits you best, or work from our brand new DC Headquarters if you prefer being in person! Internal mobility options for those interested in exploring their skills in other areas of the business Frequent company-sponsored Team Celebrations that provide ample opportunities to connect with teammates and be social! A high degree of flexibility — Have an appointment, errand, or family emergency to take care of? Hop to it! We give you the time and space to take care of you and your own first. We only ask that you communicate with your team and manager to let them know when you will be unavailable. In addition to wellbeing, Virtru places a strong emphasis on diversity, equity, inclusion, and belonging. Our DE&I Council is dedicated to fostering an inclusive workplace and making the psychological safety of each and every one of our teammates a top priority. The Council also hosts a range of events throughout the year focused on the continual education of our teammates on social justice issues, current events, and marginalized cultures and communities. Virtru is currently operating in a remote-first capacity; however, there are plenty of opportunities to connect with the team in person throughout the year, both in and out of the office, whether they be team-specific or company-wide celebrations and events. Virtru is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. Virtru is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.",
       "job_apply_link": "https://job-boards.greenhouse.io/virtru/jobs/4653403005",
       "job_posted_at_datetime_utc": "2026-01-30T23:22:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "virtru-software-developer-intern-platform-web-washington"
+      "id": "virtru-software-developer-intern-platform-web-washington",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T23:41:16.348Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-31T00:19:05.628Z",
+    "postedAt": "2026-01-31T00:19:15.557Z"
   },
   {
     "job": {
@@ -4228,6 +4230,197 @@
     },
     "status": "pending",
     "addedAt": "2026-01-30T23:41:16.348Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Programming Intern",
+      "employer_name": "Genmab",
+      "job_city": "Princeton",
+      "job_state": "NJ",
+      "job_description": "Join Genmab in this exciting opportunity.",
+      "job_apply_link": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Programming-Intern_R15389",
+      "job_posted_at_datetime_utc": "2026-01-30T23:39:44.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "genmab-programming-intern-princeton"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Platform Engineer Intern",
+      "employer_name": "Intel",
+      "job_city": "Folsom",
+      "job_state": "CA",
+      "job_description": "Join Intel in this exciting opportunity.",
+      "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Data-Platforms-Engineering-Intern_JR0279842",
+      "job_posted_at_datetime_utc": "2026-01-30T23:39:42.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "intel-data-platform-engineer-intern-folsom"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "DARC Data and Reporting Student/Intern",
+      "employer_name": "Intel",
+      "job_city": "Hillsboro",
+      "job_state": "OR",
+      "job_description": "Join Intel in this exciting opportunity.",
+      "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/DARC-Data-and-Reporting-Student-Intern_JR0280027",
+      "job_posted_at_datetime_utc": "2026-01-30T23:39:41.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "intel-darc-data-and-reporting-student-intern-hillsboro"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Marketing Analytics Intern",
+      "employer_name": "Bio-Techne",
+      "job_city": "Minneapolis",
+      "job_state": "MN",
+      "job_description": "Join Bio-Techne in this exciting opportunity.",
+      "job_apply_link": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Marketing-Analytics-Intern_JR101535",
+      "job_posted_at_datetime_utc": "2026-01-30T23:37:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "bio-techne-marketing-analytics-intern-minneapolis"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "Etsy",
+      "job_city": "Brooklyn",
+      "job_state": "NY",
+      "job_description": "Join Etsy in this exciting opportunity.",
+      "job_apply_link": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineering-Intern--2026--Brooklyn--NY-_JR5371",
+      "job_posted_at_datetime_utc": "2026-01-30T23:37:04.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "etsy-software-engineering-intern-brooklyn"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Computer Science/Computer Engineering Intern",
+      "employer_name": "CACI",
+      "job_city": "Aberdeen",
+      "job_state": "MD",
+      "job_description": "Join CACI in this exciting opportunity.",
+      "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Computer-Science-Computer-Engineering-Intern---Summer-2026_321656",
+      "job_posted_at_datetime_utc": "2026-01-30T23:30:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "caci-computer-science-computer-engineering-intern-aberdeen"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Supply Chain Data Analyst Intern - Summer 2026",
+      "employer_name": "CACI",
+      "job_city": "Reston",
+      "job_state": "VA",
+      "job_description": "Join CACI in this exciting opportunity.",
+      "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Reston/Supply-Chain-Data-Analyst-Intern---Summer-2026_321644",
+      "job_posted_at_datetime_utc": "2026-01-30T23:30:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "caci-supply-chain-data-analyst-intern-summer-2026-reston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Performance Marketing & Analytics Intern",
+      "employer_name": "Hewlett Packard Enterprise",
+      "job_city": "Spring",
+      "job_state": "TX",
+      "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
+      "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Performance-Marketing---Analytics-Intern_1202317",
+      "job_posted_at_datetime_utc": "2026-01-30T23:27:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "hewlett-packard-enterprise-performance-marketing-analytics-intern-spring"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern",
+      "employer_name": "ABB",
+      "job_city": "Morrisville",
+      "job_state": "NC",
+      "job_description": "Join ABB in this exciting opportunity.",
+      "job_apply_link": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Developer-for-Supply-Chain-Optimization---Data-Analytics-Intern--Summer-2026_JR00020645",
+      "job_posted_at_datetime_utc": "2026-01-30T23:22:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-morrisville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Web Developer Software Engineering Intern",
+      "employer_name": "Cahoot",
+      "job_city": "",
+      "job_state": "Ohio",
+      "job_description": "As Cahoots business continues to experience rapid growth we are in need of rock-star full stack engineers to help us build secure scalable and reliable products. You will be responsible for designing building and maintaining our software and infrastructure that helps merchants optimize their fulfillment. You will be deeply involved in the technical details of building highly available and reliable services while also working with product teams to enable Cahoot to rapidly build new capabilities for our merchants.\n\nPrimary Duties and Responsibilities :\n• Under the supervision of our senior developers you will implement solutions that employ leading edge Microsoft technologies C# MVC JavaScript Bootstrap HTML / CSS MS SQL Server IIS 8.0 / 8.5 WCF JSON TFS and Amazon AWS.\n• You will contribute to the development and deployment of Cahoots Internet based application by personally implementing complex specialized or highly technical components of the system.\n• You will participate in formal QA methodologies and efficient release engineering processes in an Agile or XP environment.\n\nQualifications :\n• Coding experience in Core C# XML and JavaScript\n• Software experience in Microsoft SQL Server Visual Studio Site Server and IIS in Microsoft Windows environment\n• Exposure to developing web-services and implementing a service-oriented architecture (SOA)\n• Experience within the Microsoft web environment . (NUnit FxCop and Nant are a plus.)\n• Any exposure to industry-standard software development methodologies e.g. use of case-driven and test-driven iterative software development methodologies (Scrum XP)\n• Any exposure to debugging code-reviewing code-refactoring and performance tuning.\n• Any exposure to version control issue tracking and build / release management.\n• Any exposure to rapid development cycles.\n• GPA >\n\n3.5 and 3 years of professional software development experience a MUST\n• Knowledge of scripting tools (Python) is a plus\n• You should be confident with application development and execution environment as well as familiar with a structured development methodology and process.\n• The ability to set and achieve goals in a complex and fast-moving environment great interpersonal skills and a high energy level are a must.\n\nAdditional Information :\n\nWe are easily accessible by public transportation and conveniently located within a 5-minute drive from the Bridgeport Metro-North train station.\n\nWe have a demanding hiring process that includes skill assessments a practical assignment a background check and an in-person interview to help ensure that the company culture is a good fit for any new team members.\n\nFast-paced environment with competing priorities.\n\nA snack-filled kitchen and fridge free lunch Fridays monthly company happy hours quarterly company family outings!\n\nFun energetic and highly driven colleagues.\n\nOnly direct applicants need apply. No recruiters please.\n\nRemote Work : No\n\nEmployment Type : Intern\n\nKey Skills\n\nBootstrap,CSS,.NET,HTML5,React,Node.js,Web Development,AJAX,Angular,MySQL,JavaScript,PHP\n\nExperience : years\n\nVacancy : 1",
+      "job_apply_link": "https://www.talent.com/view?id=1cfae7286446&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "cahoot-web-developer-software-engineering-intern-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T00:19:05.212Z",
     "enrichedAt": null,
     "postedAt": null
   }
