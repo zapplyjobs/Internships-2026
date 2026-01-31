@@ -1,19 +1,251 @@
 {
-  "generated": "2026-01-31T17:42:37.220Z",
+  "generated": "2026-01-31T17:49:13.504Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T17:42:37.220Z",
-  "period_end": "2026-01-31T17:42:37.220Z",
+  "period_start": "2026-01-24T17:49:13.504Z",
+  "period_end": "2026-01-31T17:49:13.504Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 18,
+    "unique_jobs": 10,
+    "multi_channel_postings": 16,
+    "unique_multi_channel_jobs": 8,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 0
+    "channels_active": 3
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "🎯・other-industry-internships": {
+      "channel_id": "1464303419794784347",
+      "count": 10,
+      "jobs": [
+        "anglogold-ashanti-intern-geology-greenfields-exploration-north-america-greenwood-village",
+        "trinet-intern-informatics-atlanta",
+        "grant-thornton-tax-technology-intern-summer-2027-dallas",
+        "two-six-research-intern-arlington",
+        "roche-intern-computational-science-sci-pleasanton",
+        "idaho-national-laboratory-doe-em-university-programs-intern-idaho-falls",
+        "w-r-berkley-intern-wilmington",
+        "united-wholesale-mortgage-client-experience-intern-program-pontiac",
+        "equity-residential-sustainability-intern-chicago",
+        "paccar-diagnostic-systems-intern-lewisville"
+      ],
+      "recent_jobs": [
+        {
+          "id": "anglogold-ashanti-intern-geology-greenfields-exploration-north-america-greenwood-village",
+          "title": "Intern – Geology Greenfields Exploration - North America",
+          "company": "AngloGold Ashanti",
+          "posted_at": "2026-01-31T17:48:37.785Z"
+        },
+        {
+          "id": "trinet-intern-informatics-atlanta",
+          "title": "Intern Informatics",
+          "company": "TriNet",
+          "posted_at": "2026-01-31T17:48:41.277Z"
+        },
+        {
+          "id": "grant-thornton-tax-technology-intern-summer-2027-dallas",
+          "title": "Tax Technology Intern - Summer 2027",
+          "company": "Grant Thornton",
+          "posted_at": "2026-01-31T17:48:44.674Z"
+        },
+        {
+          "id": "two-six-research-intern-arlington",
+          "title": "Research Intern",
+          "company": "Two Six Technologies",
+          "posted_at": "2026-01-31T17:48:48.028Z"
+        },
+        {
+          "id": "roche-intern-computational-science-sci-pleasanton",
+          "title": "Intern - Computational Science - Sci",
+          "company": "Roche",
+          "posted_at": "2026-01-31T17:48:51.451Z"
+        },
+        {
+          "id": "idaho-national-laboratory-doe-em-university-programs-intern-idaho-falls",
+          "title": "DOE-EM University Programs Intern",
+          "company": "Idaho National Laboratory",
+          "posted_at": "2026-01-31T17:48:54.824Z"
+        },
+        {
+          "id": "w-r-berkley-intern-wilmington",
+          "title": "Intern",
+          "company": "W.R. Berkley",
+          "posted_at": "2026-01-31T17:48:56.587Z"
+        },
+        {
+          "id": "united-wholesale-mortgage-client-experience-intern-program-pontiac",
+          "title": "Client Experience Intern Program",
+          "company": "United Wholesale Mortgage",
+          "posted_at": "2026-01-31T17:48:58.287Z"
+        },
+        {
+          "id": "equity-residential-sustainability-intern-chicago",
+          "title": "Sustainability Intern",
+          "company": "Equity Residential",
+          "posted_at": "2026-01-31T17:49:01.656Z"
+        },
+        {
+          "id": "paccar-diagnostic-systems-intern-lewisville",
+          "title": "Diagnostic Systems Intern",
+          "company": "Paccar",
+          "posted_at": "2026-01-31T17:49:05.069Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 7,
+      "jobs": [
+        "anglogold-ashanti-intern-geology-greenfields-exploration-north-america-greenwood-village",
+        "trinet-intern-informatics-atlanta",
+        "grant-thornton-tax-technology-intern-summer-2027-dallas",
+        "two-six-research-intern-arlington",
+        "united-wholesale-mortgage-client-experience-intern-program-pontiac",
+        "equity-residential-sustainability-intern-chicago",
+        "paccar-diagnostic-systems-intern-lewisville"
+      ],
+      "recent_jobs": [
+        {
+          "id": "anglogold-ashanti-intern-geology-greenfields-exploration-north-america-greenwood-village",
+          "title": "Intern – Geology Greenfields Exploration - North America",
+          "company": "AngloGold Ashanti",
+          "posted_at": "2026-01-31T17:48:39.516Z"
+        },
+        {
+          "id": "trinet-intern-informatics-atlanta",
+          "title": "Intern Informatics",
+          "company": "TriNet",
+          "posted_at": "2026-01-31T17:48:43.023Z"
+        },
+        {
+          "id": "grant-thornton-tax-technology-intern-summer-2027-dallas",
+          "title": "Tax Technology Intern - Summer 2027",
+          "company": "Grant Thornton",
+          "posted_at": "2026-01-31T17:48:46.352Z"
+        },
+        {
+          "id": "two-six-research-intern-arlington",
+          "title": "Research Intern",
+          "company": "Two Six Technologies",
+          "posted_at": "2026-01-31T17:48:49.733Z"
+        },
+        {
+          "id": "united-wholesale-mortgage-client-experience-intern-program-pontiac",
+          "title": "Client Experience Intern Program",
+          "company": "United Wholesale Mortgage",
+          "posted_at": "2026-01-31T17:48:59.941Z"
+        },
+        {
+          "id": "equity-residential-sustainability-intern-chicago",
+          "title": "Sustainability Intern",
+          "company": "Equity Residential",
+          "posted_at": "2026-01-31T17:49:03.374Z"
+        },
+        {
+          "id": "paccar-diagnostic-systems-intern-lewisville",
+          "title": "Diagnostic Systems Intern",
+          "company": "Paccar",
+          "posted_at": "2026-01-31T17:49:06.801Z"
+        }
+      ]
+    },
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 1,
+      "jobs": [
+        "roche-intern-computational-science-sci-pleasanton"
+      ],
+      "recent_jobs": [
+        {
+          "id": "roche-intern-computational-science-sci-pleasanton",
+          "title": "Intern - Computational Science - Sci",
+          "company": "Roche",
+          "posted_at": "2026-01-31T17:48:53.107Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "anglogold-ashanti-intern-geology-greenfields-exploration-north-america-greenwood-village",
+      "company": "AngloGold Ashanti",
+      "title": "Intern – Geology Greenfields Exploration - North America",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:48:37.785Z"
+    },
+    {
+      "job_id": "trinet-intern-informatics-atlanta",
+      "company": "TriNet",
+      "title": "Intern Informatics",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:48:41.277Z"
+    },
+    {
+      "job_id": "grant-thornton-tax-technology-intern-summer-2027-dallas",
+      "company": "Grant Thornton",
+      "title": "Tax Technology Intern - Summer 2027",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:48:44.674Z"
+    },
+    {
+      "job_id": "two-six-research-intern-arlington",
+      "company": "Two Six Technologies",
+      "title": "Research Intern",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:48:48.028Z"
+    },
+    {
+      "job_id": "roche-intern-computational-science-sci-pleasanton",
+      "company": "Roche",
+      "title": "Intern - Computational Science - Sci",
+      "channels": [
+        "🎯・other-industry-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-01-31T17:48:51.451Z"
+    },
+    {
+      "job_id": "united-wholesale-mortgage-client-experience-intern-program-pontiac",
+      "company": "United Wholesale Mortgage",
+      "title": "Client Experience Intern Program",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:48:58.287Z"
+    },
+    {
+      "job_id": "equity-residential-sustainability-intern-chicago",
+      "company": "Equity Residential",
+      "title": "Sustainability Intern",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:49:01.656Z"
+    },
+    {
+      "job_id": "paccar-diagnostic-systems-intern-lewisville",
+      "company": "Paccar",
+      "title": "Diagnostic Systems Intern",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:49:05.069Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
@@ -25,70 +257,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.025Z"
+        "timestamp": "2026-01-31T17:48:37.482Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.026Z"
+        "timestamp": "2026-01-31T17:48:37.482Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.026Z"
+        "timestamp": "2026-01-31T17:48:37.482Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.026Z"
+        "timestamp": "2026-01-31T17:48:37.482Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.026Z"
+        "timestamp": "2026-01-31T17:48:37.482Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.027Z"
+        "timestamp": "2026-01-31T17:48:37.483Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.027Z"
+        "timestamp": "2026-01-31T17:48:37.483Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.027Z"
+        "timestamp": "2026-01-31T17:48:37.483Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.027Z"
+        "timestamp": "2026-01-31T17:48:37.483Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:42:35.028Z"
+        "timestamp": "2026-01-31T17:48:37.484Z"
       }
     ]
   }
