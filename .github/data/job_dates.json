@@ -35536,5 +35536,65 @@
     "job_title": "AI/ML Intern",
     "company": "Nokia",
     "first_seen": "2026-01-30T23:41:16.289Z"
+  },
+  "genmab-programming-intern-princeton": {
+    "assigned_date": "2026-01-31T00:19:05.151Z",
+    "job_title": "Programming Intern",
+    "company": "Genmab",
+    "first_seen": "2026-01-31T00:19:05.151Z"
+  },
+  "intel-data-platform-engineer-intern-folsom": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "Data Platform Engineer Intern",
+    "company": "Intel",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "intel-darc-data-and-reporting-student/intern-hillsboro": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "DARC Data and Reporting Student/Intern",
+    "company": "Intel",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "bio-techne-marketing-analytics-intern-minneapolis": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "Marketing Analytics Intern",
+    "company": "Bio-Techne",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "etsy-software-engineering-intern-brooklyn": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "Software Engineering Intern",
+    "company": "Etsy",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "caci-computer-science/computer-engineering-intern-aberdeen": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "Computer Science/Computer Engineering Intern",
+    "company": "CACI",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "caci-supply-chain-data-analyst-intern---summer-2026-reston": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "Supply Chain Data Analyst Intern - Summer 2026",
+    "company": "CACI",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "hewlett-packard-enterprise-performance-marketing-&-analytics-intern-spring": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "Performance Marketing & Analytics Intern",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "abb-ai-developer-for-supply-chain-optimization-&-data-analytics-intern-morrisville": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern",
+    "company": "ABB",
+    "first_seen": "2026-01-31T00:19:05.152Z"
+  },
+  "cahoot-web-developer-software-engineering-intern-": {
+    "assigned_date": "2026-01-31T00:19:05.152Z",
+    "job_title": "Web Developer Software Engineering Intern",
+    "company": "Cahoot",
+    "first_seen": "2026-01-31T00:19:05.152Z"
   }
 }
