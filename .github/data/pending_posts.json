@@ -4761,5 +4761,24 @@
     "addedAt": "2026-01-31T03:32:43.437Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "IT Informatics Intern",
+      "employer_name": "Virtua Health",
+      "job_city": "Mt Laurel Township",
+      "job_state": "NJ",
+      "job_description": "Join Virtua Health in this exciting opportunity.",
+      "job_apply_link": "https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084",
+      "job_posted_at_datetime_utc": "2026-01-28T15:23:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "virtua-health-it-informatics-intern-mt-laurel-township"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T12:47:54.498Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
