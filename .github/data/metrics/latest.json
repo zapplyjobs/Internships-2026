@@ -1,35 +1,61 @@
 {
-  "generated": "2026-01-31T01:35:03.710Z",
+  "generated": "2026-01-31T02:39:13.552Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T01:35:03.710Z",
-  "period_end": "2026-01-31T01:35:03.710Z",
+  "period_start": "2026-01-24T02:39:13.552Z",
+  "period_end": "2026-01-31T02:39:13.552Z",
   "summary": {
-    "total_jobs_posted": 1,
+    "total_jobs_posted": 2,
     "unique_jobs": 1,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "multi_channel_postings": 2,
+    "unique_multi_channel_jobs": 1,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 1
+    "channels_active": 2
   },
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
       "count": 1,
       "jobs": [
-        "nestle-nestl-health-science-r-d-digital-intern-bridgewater-township"
+        "booz-allen-data-engineer-intern-atlanta"
       ],
       "recent_jobs": [
         {
-          "id": "nestle-nestl-health-science-r-d-digital-intern-bridgewater-township",
-          "title": "Nestlé Health Science R&D Digital Intern",
-          "company": "Nestle",
-          "posted_at": "2026-01-31T01:34:57.006Z"
+          "id": "booz-allen-data-engineer-intern-atlanta",
+          "title": "Data Engineer Intern",
+          "company": "Booz Allen",
+          "posted_at": "2026-01-31T02:39:05.067Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 1,
+      "jobs": [
+        "booz-allen-data-engineer-intern-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "booz-allen-data-engineer-intern-atlanta",
+          "title": "Data Engineer Intern",
+          "company": "Booz Allen",
+          "posted_at": "2026-01-31T02:39:06.861Z"
         }
       ]
     }
   },
-  "multi_channel_routing": [],
+  "multi_channel_routing": [
+    {
+      "job_id": "booz-allen-data-engineer-intern-atlanta",
+      "company": "Booz Allen",
+      "title": "Data Engineer Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T02:39:05.067Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
@@ -41,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.777Z"
+        "timestamp": "2026-01-31T02:39:04.700Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.778Z"
+        "timestamp": "2026-01-31T02:39:04.700Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.778Z"
+        "timestamp": "2026-01-31T02:39:04.700Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.778Z"
+        "timestamp": "2026-01-31T02:39:04.701Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.778Z"
+        "timestamp": "2026-01-31T02:39:04.701Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.778Z"
+        "timestamp": "2026-01-31T02:39:04.701Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.779Z"
+        "timestamp": "2026-01-31T02:39:04.701Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.779Z"
+        "timestamp": "2026-01-31T02:39:04.701Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.779Z"
+        "timestamp": "2026-01-31T02:39:04.701Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T01:34:56.779Z"
+        "timestamp": "2026-01-31T02:39:04.702Z"
       }
     ]
   }
