@@ -1,201 +1,24 @@
 {
-  "generated": "2026-01-31T18:26:37.280Z",
+  "generated": "2026-01-31T18:46:04.992Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T18:26:37.280Z",
-  "period_end": "2026-01-31T18:26:37.280Z",
+  "period_start": "2026-01-24T18:46:04.992Z",
+  "period_end": "2026-01-31T18:46:04.992Z",
   "summary": {
-    "total_jobs_posted": 6,
-    "unique_jobs": 3,
-    "multi_channel_postings": 6,
-    "unique_multi_channel_jobs": 3,
+    "total_jobs_posted": 0,
+    "unique_jobs": 0,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
-    "filtered_jobs": 10,
-    "channels_active": 4
+    "filtered_jobs": 0,
+    "channels_active": 0
   },
-  "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
-      "jobs": [
-        "alo-yoga-engineering-intern-retail-technology-san-ramon"
-      ],
-      "recent_jobs": [
-        {
-          "id": "alo-yoga-engineering-intern-retail-technology-san-ramon",
-          "title": "Engineering Intern - Retail Technology",
-          "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:26:15.299Z"
-        }
-      ]
-    },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
-      "count": 3,
-      "jobs": [
-        "alo-yoga-engineering-intern-retail-technology-san-ramon",
-        "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
-        "alo-yoga-digital-engineering-intern-culver-city"
-      ],
-      "recent_jobs": [
-        {
-          "id": "alo-yoga-engineering-intern-retail-technology-san-ramon",
-          "title": "Engineering Intern - Retail Technology",
-          "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:26:17.388Z"
-        },
-        {
-          "id": "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
-          "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
-          "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:26:23.928Z"
-        },
-        {
-          "id": "alo-yoga-digital-engineering-intern-culver-city",
-          "title": "Digital Engineering Intern",
-          "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:26:30.572Z"
-        }
-      ]
-    },
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 1,
-      "jobs": [
-        "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city"
-      ],
-      "recent_jobs": [
-        {
-          "id": "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
-          "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
-          "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:26:22.185Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 1,
-      "jobs": [
-        "alo-yoga-digital-engineering-intern-culver-city"
-      ],
-      "recent_jobs": [
-        {
-          "id": "alo-yoga-digital-engineering-intern-culver-city",
-          "title": "Digital Engineering Intern",
-          "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:26:28.825Z"
-        }
-      ]
-    }
-  },
-  "multi_channel_routing": [
-    {
-      "job_id": "alo-yoga-engineering-intern-retail-technology-san-ramon",
-      "company": "Alo Yoga",
-      "title": "Engineering Intern - Retail Technology",
-      "channels": [
-        "💻・tech-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-31T18:26:15.299Z"
-    },
-    {
-      "job_id": "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
-      "company": "Alo Yoga",
-      "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
-      "channels": [
-        "📊・data-science-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-31T18:26:22.185Z"
-    },
-    {
-      "job_id": "alo-yoga-digital-engineering-intern-culver-city",
-      "company": "Alo Yoga",
-      "title": "Digital Engineering Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-31T18:26:28.825Z"
-    }
-  ],
+  "by_channel": {},
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": [
-      {
-        "job_id": "bread-financial-intern-speech-intelligence-analyst-columbus",
-        "title": "Intern – Speech Intelligence Analyst",
-        "company": "Bread Financial",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.605Z"
-      },
-      {
-        "job_id": "bread-financial-intern-intelligent-automation-columbus",
-        "title": "Intern – Intelligent Automation",
-        "company": "Bread Financial",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.605Z"
-      },
-      {
-        "job_id": "nelnet-intern-pathway-lincoln",
-        "title": "Intern Pathway",
-        "company": "Nelnet",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.605Z"
-      },
-      {
-        "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
-        "title": "Corporate Intern - Digital and Analytics",
-        "company": "Caterpillar Inc.",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.606Z"
-      },
-      {
-        "job_id": "sparksoft-intern-columbia",
-        "title": "Intern",
-        "company": "Sparksoft",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.606Z"
-      },
-      {
-        "job_id": "rheem-product-engineering-intern-huntsville",
-        "title": "Product Engineering Intern",
-        "company": "Rheem",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.606Z"
-      },
-      {
-        "job_id": "adtheorant-data-science-intern-remote-in-usa",
-        "title": "Data Science Intern",
-        "company": "Adtheorant",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.606Z"
-      },
-      {
-        "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
-        "title": "Intern Data Science and Artificial Intelligence",
-        "company": "LabCorp",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.606Z"
-      },
-      {
-        "job_id": "crowdstrike-software-engineer-intern-redmond",
-        "title": "Software Engineer Intern",
-        "company": "Crowdstrike",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.607Z"
-      },
-      {
-        "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
-        "title": "Software Engineer, Intern Summer 2026, Ashburn",
-        "company": "Visa",
-        "reason": "already_posted",
-        "timestamp": "2026-01-31T18:26:14.607Z"
-      }
-    ]
+    "other": []
   }
 }
