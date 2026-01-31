@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-31T17:57:03.956Z",
+  "lastUpdated": "2026-01-31T18:08:08.458Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -8277,14 +8277,197 @@
       "job_city": null,
       "job_state": "West Virginia",
       "job_description": "Apply for Geospatial Data Scientist Intern Networking Event with AECOM – Raleigh (parttime) in Raleigh. AECOM is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "17e52afa9a663ac9-2026-01-31-1",
+      "jobId": "17e52afa9a663ac9",
+      "company": "Alo Yoga",
+      "title": "Engineering Intern - Business Technology Operations - Operations Data & Visibility",
+      "postedToDiscord": "2026-01-31T18:07:32.120Z",
+      "sourceDate": "2026-01-31T02:32:38.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/aloyoga/jobs/5781932004",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1467219766581268693",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:07:32.120Z",
+          "channelJobNumber": 42
+        },
+        "1464304161230295131": {
+          "messageId": "1467219774017638481",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:07:33.876Z",
+          "channelJobNumber": 21
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.OVERVIEW We are seeking a motivated and technically strong Computer Science Intern – Operations Data & Visibility to join our Biz Tech Operations team. This internship offers a unique opportunity to work on high-impact data and analytics initiatives that directly support our Distribution Technology organization, including distribution centers (DCs) and third-party logistics providers (3PLs). As an intern, you will help design and build data pipelines, analytical models, and reporting solutions that improve operational visibility across inventory, 4-wall activities, orders, shipments, and fulfillment performance. Your work will contribute to foundational capabilities accelerating ALO’s continued growth. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our Beverly Hills HQ. RESPONSIBILITIES Partner closely with Distribution Technology, Data Engineering, and Operations teams to define data-driven solutions that improve operational visibility across DCs and 3PLs Assist in the design and development of data pipelines and data models that integrate information from multiple enterprise systems, including: Progress databases Azure SQL databases Amazon Redshift Other 3rd party data sources Support the creation of a centralized distribution data layer that enables consistent reporting and analytics across supply chain, inventory, order lifecycle, shipment status, and fulfillment performance Develop and maintain SQL queries, views, and transformations to support operational dashboards and KPI reporting Contribute to the development of ThoughtSpot dashboards and insights that allow business users to self-serve key distribution and logistics metrics Collaborate with Business Analysts and Business stakeholders to help define problem statements, document requirements, and translate business questions into analytical solutions Create and maintain technical documentation, including data flow diagrams, source-to-target mappings, and metric definitions Validate data accuracy and consistency across systems, assisting with reconciliation, anomaly detection, and data quality checks Work with internal and third-party development teams by reviewing requirements, clarifying technical questions, and providing feedback on delivered solutions Learn and apply best practices for data engineering, analytics engineering, and enterprise reporting in a real-world environment QUALIFICATIONS Currently pursuing a degree in Computer Science, Data Science, Information Systems, or a related technical field Strong working knowledge of SQL and relational databases Experience with or exposure to data modeling, ETL/ELT concepts, and analytical workflows Familiarity with one or more programming or scripting languages such as Python, Java, or C# is a plus Interest in data analytics, business intelligence, and operational reporting Strong problem-solving skills and the ability to work with ambiguous requirements in a fast-paced environment Ability to communicate technical concepts clearly to both technical and non-technical stakeholders A passion for learning new technologies and applying them to real-world, business-critical challenges NICE TO HAVE Exposure to cloud data platforms (AWS, Azure) Experience with BI tools such as ThoughtSpot, Tableau, or Power BI Coursework or projects involving supply chain, logistics, or operations analytics The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE."
+    },
+    {
+      "id": "0afd45302a2eb0e7-2026-01-31-1",
+      "jobId": "0afd45302a2eb0e7",
+      "company": "Alo Yoga",
+      "title": "Digital Engineering Intern",
+      "postedToDiscord": "2026-01-31T18:07:38.768Z",
+      "sourceDate": "2026-01-31T02:32:37.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/aloyoga/jobs/5783146004",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467219793563095235",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:07:38.768Z",
+          "channelJobNumber": 68
+        },
+        "1464304161230295131": {
+          "messageId": "1467219801830326384",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:07:40.528Z",
+          "channelJobNumber": 22
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Ramon",
+      "job_state": "CA",
+      "job_description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.OVERVIEW ALO’s Digital Engineering team is looking for a highly motivated Graduate or PhD-level Intern with strong foundations in computer science and modern internet-scale systems. This role is designed for candidates who want hands-on experience building and scaling server-side systems, cloud-native services, and AI-assisted development workflows in a real-world, production environment. You will work closely with senior engineers on designing, developing, and optimizing distributed systems that power ALO’s digital platforms. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our San Ramon, CA office. RESPONSIBILITIES Design, develop, and test server-side components and APIs Assist in building and scaling distributed cloud-based systems Collaborate with senior engineers on architecture and implementation decisions Apply AI-assisted coding tools to improve productivity and code quality Write clean, maintainable, and well-documented code Participate in code reviews and technical discussions MINIMUM QUALIFICATIONS Master's degree in computer science, Software Engineering, or a related field OR PhD candidate in Computer Science or a closely related discipline Strong understanding of Internet fundamentals, including: HTTP/HTTPS RESTful APIs Web protocols and networking basics Solid experience with server-side programming Proficiency in at least one modern programming language, such as: Java (preferred) Python Go C++ Strong conceptual understanding of: Distributed systems Concurrency and scalability Fault tolerance and system reliability Working knowledge of cloud architecture, with emphasis on AWS, including services such as: EC2, S3, RDS/DynamoDB Lambda API Gateway IAM, VPC (conceptual understanding acceptable) Exposure to AI/ML-assisted development, including: Using AI tools for code generation, refactoring, or testing Understanding strengths and limitations of AI-generated cod PREFERRED QUALIFICATIONS Hands-on experience building or deploying cloud-native applications Familiarity with: Microservices architecture Containerization (Docker, Kubernetes – a plus) Experience working with: Version control systems (Git) CI/CD pipelines Coursework or research in: Distributed computing Cloud systems Machine learning or applied AI Strong problem-solving skills and ability to reason about system design trade-offs WHAT YOU'LL GAIN Hands-on experience with production-scale systems Exposure to modern cloud architecture on AWS Practical application of AI/ML tools in software development Mentorship from experienced engineers in a fast-paced digital team Opportunity to make real impact on Alo’s digital platforms The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE."
+    },
+    {
+      "id": "8f24dc4311bf592b-2026-01-31-1",
+      "jobId": "8f24dc4311bf592b",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Machine Learning Engineering Internship",
+      "postedToDiscord": "2026-01-31T18:07:42.286Z",
+      "sourceDate": "2026-01-30T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=d6127412b9dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467219809233010781",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:07:42.286Z",
+          "channelJobNumber": 69
+        },
+        "1464304182923362324": {
+          "messageId": "1467219816602669088",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:07:44.038Z",
+          "channelJobNumber": 97
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Dunwoody",
+      "job_state": "Georgia",
+      "job_description": "Apply for Summer 2026 Machine Learning Engineering Internship (internship) in Dunwoody. T-Mobile is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "d1680a1e3cabcc46-2026-01-31-1",
+      "jobId": "d1680a1e3cabcc46",
+      "company": "Paramount",
+      "title": "Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)",
+      "postedToDiscord": "2026-01-31T18:07:47.210Z",
+      "sourceDate": "2026-01-14T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/694b4c284b53a1551f951238?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467219823913210061",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:07:47.210Z",
+          "channelJobNumber": 70
+        },
+        "1464304161230295131": {
+          "messageId": "1467219837360013374",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:07:49.047Z",
+          "channelJobNumber": 23
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Burbank",
+      "job_state": "California",
+      "job_description": "Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF) jobs in United StatesOverviewCompanyThis job has closed.APPLY to similar jobsParamount · 2 weeks agoMachine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)Burbank, CAInternshipOnsiteIntern$45/hr - $50/hrStart in 2026 SummerParamount is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. They are seeking a Machine Learning Engineering Intern to support their Applied Intelligence Group, focusing on improving user experience through scalable machine learning solutions and collaboration with various teams.Digital EntertainmentEventsMedia and EntertainmentNo H1BResponsibilitiesDesign and develop highly scalable and reliable machine learning solutions to improve user experience on a specific product featureDesign and testing a modeling solution or integrationParticipate in design and code reviewsQualificationPythonTensorFlowPyTorchMachine LearningSQLAPI workEffective communicationRequiredInternships are available to students who will be Seniors or Master's students in the fall of 2026You must be available to intern full-time (5 days a week/36-40 hours a week) for 10 weeks total starting in JuneInterns will be required to work fully on-site for the duration of the programApplicants must be currently authorized to work in the United States on a full‑time basisEmployment eligibility to work with Paramount in the United States is required as the company does not engage in sponsorship for internshipsPreferredCurrent undergrad or master's student working to obtaining their degree in Software Engineering or Machine Learning Engineering or Applied Math at a university in the United StatesExperience working with Python, Tensorflow, PyTorch, SQL and API workBenefitsSpeaker series with industry expertsUnique networking opportunities & social eventsComplimentary Paramount+ subscription during your internshipWorkshops on crafting your resume, nailing interviews and career strategy1:1 mentorship, volunteer opportunities, on-the-job learning and so much more!CompanyParamountGlassdoor3.9Paramount is a leading media and entertainment company that creates premium content and experiences for audiences worldwide. It is a sub-organization of Paramount Pictures.Founded in 1914New York, New York, USA10001+ employeeshttps://www.paramount.comFundingCurrent StageLate StageLeadership TeamVibol HouEVP & CTO, StreamingAnna PriestSVP, Head of Paramount+ UK & IrelandRecent NewsPR NewswireParamount Introduces Programmatic Access to Marquee Live Sports on Paramount+2026-01-22Morningstar.comDow Jones Top Company Headlines at 11 PM ET: Jamie Dimon Seemed to Have Trump Figured Out-Until This Week | Rio ...2026-01-17Morningstar.comPARAMOUNT APPOINTS DENNIS K. CINELLI AS CHIEF FINANCIAL OFFICER AND ADDS ANDREW CAMPION TO ITS BOARD OF DIRECTORS2026-01-16Company data provided by crunchbaseBoost Your Interview ChancesImprove Resume Match ScoreFREE?Your ScoreTop ApplicantsMust-Have Skills for This RolePythonTensorFlowPyTorchMachine LearningSQLOptimize my ResumeGet Referral Via linkedIn FREE3× Higher Response via Email OutreachAAdam L.Vice President ML Engineering & PersonalizationCChaitanya P.Sr. Machine Learning EngineerDraft Message to ConnectApply Faster with Autofill PluginFREEApply With Autofill"
+    },
+    {
+      "id": "79dcaddf1eba0936-2026-01-31-1",
+      "jobId": "79dcaddf1eba0936",
+      "company": "Radiant Digital",
+      "title": "AI Intern",
+      "postedToDiscord": "2026-01-31T18:07:50.927Z",
+      "sourceDate": "2026-01-29T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/697a9c4e8dbbf73badc7d85c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467219845366944001",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:07:50.927Z",
+          "channelJobNumber": 71
+        },
+        "1464304182923362324": {
+          "messageId": "1467219852434608252",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:07:52.631Z",
+          "channelJobNumber": 98
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Vienna",
+      "job_state": "Virginia",
+      "job_description": "AI Intern jobs in United StatesOverviewCompanyThis job has closed.APPLY to similar jobsRadiant Digital · 2 days agoAI InternVienna, VAInternshipOnsiteInternRadiant Digital is seeking an AI Intern to assist in various data-driven projects. The role involves data analysis, supporting the development and testing of machine learning models, and collaborating with team members.Health CareInformation TechnologyInfrastructureH1B Sponsor LikelyHiring ManagerShaik Firdous AliResponsibilitiesAssist in data analysis, data cleaning, and feature engineeringSupport development and testing of machine learning and AI modelsWork with structured and unstructured datasetsAssist in model evaluation, visualization, and reportingCollaborate with team members on data-driven projectsQualificationPythonMachine learningData analysis librariesStatisticsAnalytical skillsProblem-solving skillsRequiredBachelor's degree (ongoing or completed) in Computer Science, Data Science, or related fieldBasic knowledge of Python, statistics, and machine learning conceptsFamiliarity with data analysis libraries (Pandas, NumPy, scikit-learn)Strong analytical and problem-solving skillsCompanyRadiant DigitalRadiant Digital is supports multiple health focused agencies including Department of Health and Human Services.Founded in 1997Vienna, Virginia, USA201-500 employeeshttps://www.radiant.digital/H1B SponsorshipRadiant Digital has a track record of offering H1B sponsorships. Please note that this does not guarantee sponsorship for this specific role. Below presents additional info for your reference. (Data Powered by US Department of Labor)Distribution of Different Job Fields Receiving SponsorshipRepresents job field similar to this jobTrends of Total Sponsorships2025 (6)2024 (5)2023 (10)2022 (2)2021 (10)2020 (21)FundingCurrent StageGrowth StageRecent NewsSalesTech StarRadiant Digital Acquires Beacon Systems to Scale and Deliver Outcomes Beyond Digital Transformation2022-01-13Company data provided by crunchbaseBoost Your Interview ChancesImprove Resume Match ScoreFREE?Your ScoreTop ApplicantsMust-Have Skills for This RolePythonMachine learningData analysis librariesStatisticsAnalytical skillsOptimize my ResumeGet Referral Via linkedIn FREE3× Higher Response via Email OutreachAAnthony M.Sr RecruiterAAvantika P.Artificial Intelligence (AI) AnalystDraft Message to ConnectApply Faster with Autofill PluginFREEApply With Autofill"
+    },
+    {
+      "id": "11046591396d9a68-2026-01-31-1",
+      "jobId": "11046591396d9a68",
+      "company": "Alo Yoga",
+      "title": "Engineering Intern - Enterprise Resource Planning Finance Systems",
+      "postedToDiscord": "2026-01-31T18:07:57.411Z",
+      "sourceDate": "2026-01-31T02:32:35.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/aloyoga/jobs/5781860004",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467219872802144476",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:07:57.411Z",
+          "channelJobNumber": 94
+        },
+        "1464304161230295131": {
+          "messageId": "1467219880125403147",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:07:59.185Z",
+          "channelJobNumber": 24
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.OVERVIEW We are seeking a motivated and technically strong intern to join our Corporate Systems tech team. As our Software Engineering, Finance Systems Intern, you will support the team and the business as we approach the transformation of our ERP (Employee Resource Planning) systems. You will have exposure to how we approach Business Process engineering, solution requirements and design for our internal systems. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our Beverly Hills HQ. RESPONSIBILITIES Apply theoretical learnings from your academic study and develop skills to support a future career in Financial systems Work with the Finance Business team in the capacity of a Technical Analyst/Engineer Document functional requirements for key projects assigned Partner with Developers and Engineers to create prototypes and functional design solutions Create Pseudo Algorithms Write Business use case and functional requirements for new features Develop code/programs in ERPs such as Oracle Fusion and FDM4 Create test scenarios and success criteria for functional solutions Lead or assist on projects using a hands-on approach Build Interfaces and develop code for new functionality or able to write functional flow QUALIFICATIONS Currently pursuing or recently completed a Bachelor's or Master's degree in Computer Science Good knowledge of programming languages such as JAVA, SQL & PL/SQL, PYTHON or C - OR - Good knowledge of financial processes, accounting procedures and financial applications. College subjects should cover financials topics Proficient in Microsoft Office Power Point, Excel, Visio, Lucid Charts, google docs Excellent written, verbal and listening skills Learn from the best by interacting with a dynamic team of professionals Ability to document requirements and keen attention to details Ability to speak in front of groups that include both business and IT partners The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE."
+    },
+    {
+      "id": "433ef2e2c43dc38d-2026-01-31-1",
+      "jobId": "433ef2e2c43dc38d",
+      "company": "Virtua Health",
+      "title": "IT Informatics Intern",
+      "postedToDiscord": "2026-01-31T18:08:03.920Z",
+      "sourceDate": "2026-01-28T15:23:47.000Z",
+      "sourceUrl": "https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084",
+      "discordPosts": {
+        "1464303419794784347": {
+          "messageId": "1467219900107063542",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:08:03.920Z",
+          "channelJobNumber": 12
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Mt Laurel Township",
+      "job_state": "NJ",
+      "job_description": "At Virtua Health, we exist for one reason – to better serve you. That means being here for you in all the moments that matter, striving each day to connect you to the care you need. Whether that's wellness and prevention, experienced specialists, life-changing care, or something in-between – we are your partner in health devoted to building a healthier community.  If you live or work in South Jersey, exceptional care is all around. Our medical and surgical experts are among the best in the country. We assembled more than 14,000 colleagues, including over 2,850 skilled and compassionate doctors, physician assistants, and nurse practitioners equipped with the latest technologies, treatments, and techniques to provide exceptional care close to home. A Magnet-recognized health system ranked by U.S. News and World Report, we've received multiple awards for quality, safety, and outstanding work environment.In addition to five hospitals, seven emergency departments, seven urgent care centers, and more than 280 other locations, we're committed to the well-being of the community. That means bringing life-changing resources and health services directly into our communities through our Eat Well food access program, telehealth, home health, rehabilitation, mobile screenings, paramedic programs, and convenient online scheduling. We're also affiliated with Penn Medicine for cancer and neurosciences, and the Children's Hospital of Philadelphia for pediatrics.Location:Lippincott - 301 Lippincott DriveRemote Type:On-SiteEmployment Type:EmployeeEmployment Classification:Per DiemTime Type:Part timeWork Shift:1st Shift (United States of America)Total Weekly Hours:0Additional Locations:Job Information:Location: 301 LippincottHours/Week: 20 hours/weekJob Responsibilities:Clinical Transformation- Analyzes, designs, and documents current state and future state workflows that streamline process and minimize or eliminate points of failure for system users.System optimization- Work with operations leadership to optimize the clinical and operational work environment and provide ongoing support in all clinical systems employed by their customers.Analytics/Process Improvement- Identify, analyze, explain, and use data to illustrate barriers to care and inform operational decision making through relevant data collected via the electronic health record or other related systems.Strategic Partnerships/Governance- Acts as an IT liaison to customers for migration to a fully digital environmentEducation: Currently enrolled or recent graduate of a Nursing, Allied Health, Information Technology, Computer Science or related field.Summary:The intern's primary responsibility is to gain practical experience related to the operations of a health system.Through this formative experience, the intern can gain insights that can influence an intern's chosen career path.In return, Virtua draws upon the unique talents and interests of the intern to assist in projects and/or operations related to the intern's interest and needs of the administrative sponsor.Position Responsibilities:• Intern will take direction from an administrative sponsor on duties to perform during the duration of the internship. Duties must be commensurate with the interns experience and level of understanding.• Intern will complete all assigned tasks in a timely manner while exhibiting the Virtua STAR qualities.• Intern must convey a positive attitude and be self-motivated.• Intern will shadow a Virtua employee according to the direction of the administrative sponsor.• Intern must complete and present a final report as directed by the administrate sponsor prior to the completion of the internship.Position Qualifications Required / Experience Required:Intern must provide a resume and statement of objective/learning goals prior to the start of the internship.Required Education:Interns can be currently matriculating high school, undergraduate graduate students or recent (less than one year) graduates.Hourly Rate: $18.69 - $26.01\nThe actual salary/rate will vary based on applicant’s experience as well as internal equity and alignment with market data.Virtua offers a comprehensive package of benefits for full-time and part-time colleagues, including, but not limited to: medical/prescription, dental and vision insurance; health and dependent care flexible spending accounts; 403(b) (401(k) subject to collective bargaining agreement); paid time off, paid sick leave as provided under state and local paid sick leave laws, short-term disability and optional long-term disability, colleague and dependent life insurance and supplemental life and AD&D insurance; tuition assistance, and an employee assistance program that includes free counseling sessions. Eligibility for benefits is governed by the applicable plan documents and policies.For more benefits information click here."
     }
   ],
   "metadata": {
-    "totalJobs": 437,
+    "totalJobs": 444,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-31T17:57:03.956Z",
+      "date": "2026-01-31T18:08:08.458Z",
       "archived": 0
     }
   }
