@@ -533,6 +533,14 @@ client.once('ready', async () => {
       const routingInfo = getJobChannelDetails(job, CHANNEL_CONFIG);
       const channelId = routingInfo.channelId;
 
+      // DEBUG: Log routing details for each job
+      console.log(`🔍 [BOT DEBUG] Routing job: "${job.job_title}"`, {
+        category: routingInfo.category,
+        channelId: channelId || 'EMPTY',
+        matchType: routingInfo.matchType,
+        channelConfigKeys: Object.keys(CHANNEL_CONFIG)
+      });
+
       if (!channelId || channelId.trim() === '') {
         console.warn(`⚠️ No channel configured for job: ${job.job_title} - skipping`);
         continue;
