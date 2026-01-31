@@ -433,7 +433,7 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
   // PRIORITY 4 (LOWEST): Default Fallback to TECH
   // (76% of jobs are tech, safest default)
   // ============================================================================
-  return {
+  const result = {
     channelId: CHANNEL_CONFIG.tech,
     category: 'tech',
     matchedKeyword: null,
@@ -441,6 +441,14 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
     priority: 'LOWEST',
     source: 'default'
   };
+  // DEBUG: Log fallback routing
+  console.log('🔍 [ROUTER DEBUG] Default fallback to tech:', {
+    jobTitle: title,
+    channelId: result.channelId || 'EMPTY',
+    channelConfigKeys: Object.keys(CHANNEL_CONFIG),
+    hasTech: !!CHANNEL_CONFIG.tech
+  });
+  return result;
 }
 
 /**
