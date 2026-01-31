@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-31T00:19:17.744Z",
+  "generated": "2026-01-31T00:52:53.998Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T00:19:17.744Z",
-  "period_end": "2026-01-31T00:19:17.744Z",
+  "period_start": "2026-01-24T00:52:53.998Z",
+  "period_end": "2026-01-31T00:52:53.998Z",
   "summary": {
     "total_jobs_posted": 2,
     "unique_jobs": 1,
@@ -13,47 +13,47 @@
     "channels_active": 2
   },
   "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
       "count": 1,
       "jobs": [
-        "virtru-software-developer-intern-platform-web-washington"
+        "cisco-software-engineer-1-intern-san-jose"
       ],
       "recent_jobs": [
         {
-          "id": "virtru-software-developer-intern-platform-web-washington",
-          "title": "Software Developer Intern - Platform Web",
-          "company": "Virtru",
-          "posted_at": "2026-01-31T00:19:09.270Z"
+          "id": "cisco-software-engineer-1-intern-san-jose",
+          "title": "Software Engineer 1 - Intern",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T00:52:42.606Z"
         }
       ]
     },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
       "count": 1,
       "jobs": [
-        "virtru-software-developer-intern-platform-web-washington"
+        "cisco-software-engineer-1-intern-san-jose"
       ],
       "recent_jobs": [
         {
-          "id": "virtru-software-developer-intern-platform-web-washington",
-          "title": "Software Developer Intern - Platform Web",
-          "company": "Virtru",
-          "posted_at": "2026-01-31T00:19:11.050Z"
+          "id": "cisco-software-engineer-1-intern-san-jose",
+          "title": "Software Engineer 1 - Intern",
+          "company": "Cisco",
+          "posted_at": "2026-01-31T00:52:47.296Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "virtru-software-developer-intern-platform-web-washington",
-      "company": "Virtru",
-      "title": "Software Developer Intern - Platform Web",
+      "job_id": "cisco-software-engineer-1-intern-san-jose",
+      "company": "Cisco",
+      "title": "Software Engineer 1 - Intern",
       "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
+        "📊・data-science-internships",
+        "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-01-31T00:19:09.270Z"
+      "posted_at": "2026-01-31T00:52:42.606Z"
     }
   ],
   "failures": [],
@@ -67,70 +67,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.984Z"
+        "timestamp": "2026-01-31T00:52:42.112Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.985Z"
+        "timestamp": "2026-01-31T00:52:42.113Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.985Z"
+        "timestamp": "2026-01-31T00:52:42.113Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.985Z"
+        "timestamp": "2026-01-31T00:52:42.113Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.985Z"
+        "timestamp": "2026-01-31T00:52:42.113Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.986Z"
+        "timestamp": "2026-01-31T00:52:42.114Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.986Z"
+        "timestamp": "2026-01-31T00:52:42.114Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.986Z"
+        "timestamp": "2026-01-31T00:52:42.114Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.986Z"
+        "timestamp": "2026-01-31T00:52:42.114Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T00:19:08.987Z"
+        "timestamp": "2026-01-31T00:52:42.115Z"
       }
     ]
   }
