@@ -1,8 +1,8 @@
 {
-  "generated": "2026-01-31T16:44:14.398Z",
+  "generated": "2026-01-31T16:57:30.394Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T16:44:14.398Z",
-  "period_end": "2026-01-31T16:44:14.398Z",
+  "period_start": "2026-01-24T16:57:30.394Z",
+  "period_end": "2026-01-31T16:57:30.394Z",
   "summary": {
     "total_jobs_posted": 0,
     "unique_jobs": 0,
@@ -25,70 +25,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.203Z"
+        "timestamp": "2026-01-31T16:57:28.199Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.203Z"
+        "timestamp": "2026-01-31T16:57:28.199Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.203Z"
+        "timestamp": "2026-01-31T16:57:28.200Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.203Z"
+        "timestamp": "2026-01-31T16:57:28.200Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.204Z"
+        "timestamp": "2026-01-31T16:57:28.200Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.204Z"
+        "timestamp": "2026-01-31T16:57:28.200Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.204Z"
+        "timestamp": "2026-01-31T16:57:28.200Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.204Z"
+        "timestamp": "2026-01-31T16:57:28.201Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.204Z"
+        "timestamp": "2026-01-31T16:57:28.201Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T16:44:12.205Z"
+        "timestamp": "2026-01-31T16:57:28.201Z"
       }
     ]
   }
