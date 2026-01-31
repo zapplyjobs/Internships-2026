@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-31T18:08:08.458Z",
+  "lastUpdated": "2026-01-31T18:26:35.090Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -8460,14 +8460,95 @@
       "job_city": "Mt Laurel Township",
       "job_state": "NJ",
       "job_description": "At Virtua Health, we exist for one reason – to better serve you. That means being here for you in all the moments that matter, striving each day to connect you to the care you need. Whether that's wellness and prevention, experienced specialists, life-changing care, or something in-between – we are your partner in health devoted to building a healthier community.  If you live or work in South Jersey, exceptional care is all around. Our medical and surgical experts are among the best in the country. We assembled more than 14,000 colleagues, including over 2,850 skilled and compassionate doctors, physician assistants, and nurse practitioners equipped with the latest technologies, treatments, and techniques to provide exceptional care close to home. A Magnet-recognized health system ranked by U.S. News and World Report, we've received multiple awards for quality, safety, and outstanding work environment.In addition to five hospitals, seven emergency departments, seven urgent care centers, and more than 280 other locations, we're committed to the well-being of the community. That means bringing life-changing resources and health services directly into our communities through our Eat Well food access program, telehealth, home health, rehabilitation, mobile screenings, paramedic programs, and convenient online scheduling. We're also affiliated with Penn Medicine for cancer and neurosciences, and the Children's Hospital of Philadelphia for pediatrics.Location:Lippincott - 301 Lippincott DriveRemote Type:On-SiteEmployment Type:EmployeeEmployment Classification:Per DiemTime Type:Part timeWork Shift:1st Shift (United States of America)Total Weekly Hours:0Additional Locations:Job Information:Location: 301 LippincottHours/Week: 20 hours/weekJob Responsibilities:Clinical Transformation- Analyzes, designs, and documents current state and future state workflows that streamline process and minimize or eliminate points of failure for system users.System optimization- Work with operations leadership to optimize the clinical and operational work environment and provide ongoing support in all clinical systems employed by their customers.Analytics/Process Improvement- Identify, analyze, explain, and use data to illustrate barriers to care and inform operational decision making through relevant data collected via the electronic health record or other related systems.Strategic Partnerships/Governance- Acts as an IT liaison to customers for migration to a fully digital environmentEducation: Currently enrolled or recent graduate of a Nursing, Allied Health, Information Technology, Computer Science or related field.Summary:The intern's primary responsibility is to gain practical experience related to the operations of a health system.Through this formative experience, the intern can gain insights that can influence an intern's chosen career path.In return, Virtua draws upon the unique talents and interests of the intern to assist in projects and/or operations related to the intern's interest and needs of the administrative sponsor.Position Responsibilities:• Intern will take direction from an administrative sponsor on duties to perform during the duration of the internship. Duties must be commensurate with the interns experience and level of understanding.• Intern will complete all assigned tasks in a timely manner while exhibiting the Virtua STAR qualities.• Intern must convey a positive attitude and be self-motivated.• Intern will shadow a Virtua employee according to the direction of the administrative sponsor.• Intern must complete and present a final report as directed by the administrate sponsor prior to the completion of the internship.Position Qualifications Required / Experience Required:Intern must provide a resume and statement of objective/learning goals prior to the start of the internship.Required Education:Interns can be currently matriculating high school, undergraduate graduate students or recent (less than one year) graduates.Hourly Rate: $18.69 - $26.01\nThe actual salary/rate will vary based on applicant’s experience as well as internal equity and alignment with market data.Virtua offers a comprehensive package of benefits for full-time and part-time colleagues, including, but not limited to: medical/prescription, dental and vision insurance; health and dependent care flexible spending accounts; 403(b) (401(k) subject to collective bargaining agreement); paid time off, paid sick leave as provided under state and local paid sick leave laws, short-term disability and optional long-term disability, colleague and dependent life insurance and supplemental life and AD&D insurance; tuition assistance, and an employee assistance program that includes free counseling sessions. Eligibility for benefits is governed by the applicable plan documents and policies.For more benefits information click here."
+    },
+    {
+      "id": "8be6d5953aa5ea14-2026-01-31-1",
+      "jobId": "8be6d5953aa5ea14",
+      "company": "Alo Yoga",
+      "title": "Engineering Intern - Retail Technology",
+      "postedToDiscord": "2026-01-31T18:26:15.270Z",
+      "sourceDate": "2026-01-31T02:32:35.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/aloyoga/jobs/5783155004",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467224476583329974",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:26:15.270Z",
+          "channelJobNumber": 95
+        },
+        "1464304161230295131": {
+          "messageId": "1467224484913090565",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:26:17.365Z",
+          "channelJobNumber": 25
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Ramon",
+      "job_state": "CA",
+      "job_description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.ALO brings together mindfulness, movement, and modern technology. Our retail experiences are thoughtfully designed, from studio to store to digital touchpoints, and powered by systems that must be as elegant as they are resilient. As an intern at ALO, you won’t be observing the sidelines. You’ll help build technology that directly shapes how guests experience the brand every day. Here, innovation is rooted in purpose, craftsmanship, and impact. OVERVIEW At ALO, retail is more than a transaction—it’s an experience grounded in intention, movement, and connection. As a Retail Engineering Summer Intern, you’ll help build the technology that powers seamless in-store and omni-channel experiences for both customers and store associates. This internship offers hands-on exposure to modern retail platforms, cloud-native systems, and data-driven decisioning, supporting capabilities such as Buy Online Pick In Store (BOPIS), Same Day Delivery (SDD), Ship-to-Store (STS), Ship-from-Store (SFS) and Point of Sale (POS) innovation. You’ll work alongside engineers, product managers, and retail operations leaders to deliver scalable solutions that directly impact how ALO shows up in physical and digital spaces. This role is ideal for graduate students and early-career engineers who are excited about applying strong technical fundamentals to real-world retail challenges at scale. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our San Ramon, CA office. RESPONSIBILITIES Develop and enhance microservices-based applications using Java and Python Build and deploy scalable, cloud-native solutions leveraging AWS services (Lambda, S3, DynamoDB, RDS, etc.) Support database design, optimization, and performance tuning using MySQL Collaborate with engineering and product teams to integrate systems that power omni-channel retail flows Contribute to POS feature enhancements that improve in-store associate efficiency and customer experience Participate in code reviews, debugging, and production issue troubleshooting Learn and contribute to CI/CD pipelines, API development, and cloud engineering best practices Create and maintain technical documentation; share learnings with the broader team REQUIRED QUALIFICATIONS Currently pursuing or recently completed a BS or MS in Computer Science, Software Engineering, or a related technical field Hands-on experience with Java and Python Foundational understanding of microservices architecture and RESTful APIs Familiarity with AWS cloud services and relational databases such as MySQL Strong problem-solving mindset with the ability to thrive in a fast-paced environment Clear communication skills and a collaborative, team-first approach PREFERRED QUALIFICATIONS Exposure to retail, eCommerce, or omni-channel systems Experience with cloud-native development, distributed systems, or event-driven architectures Interest in data-driven systems, analytics, or AI-enabled decisioning within retail workflows Prior internship, academic project, or hands-on experience building production-grade software WHAT YOU'LL LEARN / GROWTH OPPORTUNITIES How modern retail platforms support real-time inventory visibility, fulfillment, and store execution Practical experience building scalable, cloud-based services used across physical and digital channels Exposure to the intersection of engineering, retail operations, and customer experience design Best practices for working in agile teams, from concept through deployment Mentorship from experienced engineers and technology leaders in a high-growth environment The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE."
+    },
+    {
+      "id": "b1e6fb7fff47bbf5-2026-01-31-1",
+      "jobId": "b1e6fb7fff47bbf5",
+      "company": "Alo Yoga",
+      "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
+      "postedToDiscord": "2026-01-31T18:26:22.162Z",
+      "sourceDate": "2026-01-31T02:32:33.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/aloyoga/jobs/5781907004",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1467224506178474184",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:26:22.162Z",
+          "channelJobNumber": 43
+        },
+        "1464304161230295131": {
+          "messageId": "1467224513455460486",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:26:23.906Z",
+          "channelJobNumber": 26
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.OVERVIEW We are seeking a motivated and technically strong Computer Science Intern – Product Information Management (PIM) to join our Biz Tech Operations team. This internship offers a unique opportunity to design and build a foundational Product Information Management (PIM) capability that will serve as a single, trusted source of product data across ALO’s technology ecosystem. Today, product information is distributed across multiple systems—including NGC PLM, FDM4 ERP, FDM4 WMS, Shopify, and spreadsheets—resulting in duplicated integrations, inconsistent data, and manual workarounds. As an intern, you will help design and implement a centralized PIM solution built on ALO’s data lake (Amazon Redshift) and supporting data pipelines, enabling all downstream systems, services, and teams to reliably source product data from a single platform. This work will create a scalable foundation that can be expanded over time with additional product attributes, governance, and automation to support ALO’s continued growth and tech environment expansion. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our Beverly Hills HQ. RESPONSIBILITIES Partner with Tech, Business, and downstream application teams to help define the vision, scope, and requirements for a centralized Product Information Management (PIM) solution Design and implement a foundational PIM data model that consolidates product data from multiple enterprise systems, including: PLM ERP WMS Shopify Existing datasets in Amazon Redshift Build and enhance data pipelines into the data lake (Redshift) to ensure required product attributes are available, current, and reliable Develop SQL-based transformations and views that create canonical product records suitable for consumption by multiple systems and microservices Assist in defining data ownership, source-of-truth rules, and attribute-level lineage (e.g., which system owns which product attributes) Collaborate with Business Analysts and stakeholders to document product data requirements and translate business needs into technical solutions Create and maintain technical documentation, including: Product data models Source-to-target mappings Data flow diagrams Attribute definitions and dependencies Support downstream consumption of PIM data by helping define access patterns (e.g., database views, exports, APIs, or service interfaces) Validate data quality and consistency across systems, identifying gaps, conflicts, and opportunities for standardization Learn and apply best practices for data modeling, data engineering, and platform design in a real-world enterprise environment QUALIFICATIONS Currently pursuing a degree in Computer Science, Data Science, Information Systems, or a related technical field Strong working knowledge of SQL and relational databases Understanding of data modeling concepts, including entities, attributes, relationships, and normalization Experience with or exposure to ETL / ELT pipelines and data integration concepts Familiarity with one or more programming or scripting languages such as Python, Java, or C# is a plus Interest in enterprise systems, data platforms, and foundational architecture Strong problem-solving skills and comfort working with ambiguous and evolving requirements Ability to communicate technical concepts clearly to both technical and non-technical stakeholders A strong desire to build systems that will be used and extended by others over time NICE TO HAVE Exposure to Product Information Management (PIM), Master Data Management (MDM), or data governance concepts Familiarity with cloud data platforms (AWS, Azure) Experience integrating data from SaaS platforms (e.g., Shopify or PLM systems) Coursework or projects involving data architecture or enterprise systems The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE."
+    },
+    {
+      "id": "43e89b27109c579e-2026-01-31-1",
+      "jobId": "43e89b27109c579e",
+      "company": "Alo Yoga",
+      "title": "Digital Engineering Intern",
+      "postedToDiscord": "2026-01-31T18:26:28.801Z",
+      "sourceDate": "2026-01-31T02:32:29.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/aloyoga/jobs/5781938004",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467224533923659786",
+          "channelType": "category",
+          "postedAt": "2026-01-31T18:26:28.801Z",
+          "channelJobNumber": 72
+        },
+        "1464304161230295131": {
+          "messageId": "1467224541393719424",
+          "channelType": "location",
+          "postedAt": "2026-01-31T18:26:30.547Z",
+          "channelJobNumber": 27
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.OVERVIEW ALO's Digital Engineering team is looking for a highly motivated Graduate or PhD-level Intern with strong foundations in computer science and modern internet-scale systems. This role is designed for candidates who want hands-on experience building and scaling server-side systems, cloud-native services, and AI-assisted development workflows in a real-world, production environment. You will work closely with senior engineers on designing, developing, and optimizing distributed systems that power ALO's digital platforms. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our Beverly Hills HQ. RESPONSIBILITIES Design, develop, and test server-side components and APIs Assist in building and scaling distributed cloud-based systems Collaborate with senior engineers on architecture and implementation decisions Apply AI-assisted coding tools to improve productivity and code quality Write clean, maintainable, and well-documented code Participate in code reviews and technical discussions QUALIFICATIONS Master's degree in computer science, Software Engineering, or a related field OR PhD candidate in Computer Science or a closely related discipline Strong understanding of Internet fundamentals, including: HTTP/HTTPS RESTful APIs Web protocols and networking basics Solid experience with server-side programming Proficiency in at least one modern programming language, such as: Java (preferred) Python Go C++ Strong conceptual understanding of: Distributed systems Concurrency and scalability Fault tolerance and system reliability Working knowledge of cloud architecture, with emphasis on AWS, including services such as: EC2, S3, RDS/DynamoDB Lambda API Gateway IAM, VPC (conceptual understanding acceptable) Exposure to AI/ML-assisted development, including: Using AI tools for code generation, refactoring, or testing Understanding strengths and limitations of AI-generated code PREFERRED QUALIFICATIONS Hands-on experience building or deploying cloud-native applications Familiarity with: Microservices architecture Containerization (Docker, Kubernetes – a plus) Experience working with: Version control systems (Git) CI/CD pipelines Coursework or research in: Distributed computing Cloud systems Machine learning or applied AI Strong problem-solving skills and ability to reason about system design trade-offs WHAT YOU'LL GAIN Hands-on experience with production-scale systems Exposure to modern cloud architecture on AWS Practical application of AI/ML tools in software development Mentorship from experienced engineers in a fast-paced digital team Opportunity to make real impact on ALO’s digital platforms The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE."
     }
   ],
   "metadata": {
-    "totalJobs": 444,
+    "totalJobs": 447,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-31T18:08:08.458Z",
+      "date": "2026-01-31T18:26:35.090Z",
       "archived": 0
     }
   }
