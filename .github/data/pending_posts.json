@@ -4707,10 +4707,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-31T03:32:43.437Z",
     "enrichedAt": "2026-01-31T18:07:29.096Z",
-    "postedAt": null
+    "postedAt": "2026-01-31T18:26:35.079Z"
   },
   {
     "job": {
@@ -4728,10 +4728,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-31T03:32:43.437Z",
     "enrichedAt": "2026-01-31T18:07:29.096Z",
-    "postedAt": null
+    "postedAt": "2026-01-31T18:26:35.079Z"
   },
   {
     "job": {
@@ -4749,10 +4749,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-31T03:32:43.437Z",
     "enrichedAt": "2026-01-31T18:07:29.096Z",
-    "postedAt": null
+    "postedAt": "2026-01-31T18:26:35.079Z"
   },
   {
     "job": {

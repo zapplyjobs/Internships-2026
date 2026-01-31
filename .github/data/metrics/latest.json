@@ -1,218 +1,123 @@
 {
-  "generated": "2026-01-31T18:08:10.636Z",
+  "generated": "2026-01-31T18:26:37.280Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T18:08:10.636Z",
-  "period_end": "2026-01-31T18:08:10.636Z",
+  "period_start": "2026-01-24T18:26:37.280Z",
+  "period_end": "2026-01-31T18:26:37.280Z",
   "summary": {
-    "total_jobs_posted": 13,
-    "unique_jobs": 7,
-    "multi_channel_postings": 12,
-    "unique_multi_channel_jobs": 6,
+    "total_jobs_posted": 6,
+    "unique_jobs": 3,
+    "multi_channel_postings": 6,
+    "unique_multi_channel_jobs": 3,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 6
+    "channels_active": 4
   },
   "by_channel": {
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
       "count": 1,
       "jobs": [
-        "alo-yoga-engineering-intern-business-technology-operations-operations-data-visibility-culver-city"
+        "alo-yoga-engineering-intern-retail-technology-san-ramon"
       ],
       "recent_jobs": [
         {
-          "id": "alo-yoga-engineering-intern-business-technology-operations-operations-data-visibility-culver-city",
-          "title": "Engineering Intern - Business Technology Operations - Operations Data & Visibility",
+          "id": "alo-yoga-engineering-intern-retail-technology-san-ramon",
+          "title": "Engineering Intern - Retail Technology",
           "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:07:32.149Z"
+          "posted_at": "2026-01-31T18:26:15.299Z"
         }
       ]
     },
     "🌴・socal-internships": {
       "channel_id": "1464304161230295131",
-      "count": 4,
+      "count": 3,
       "jobs": [
-        "alo-yoga-engineering-intern-business-technology-operations-operations-data-visibility-culver-city",
-        "alo-yoga-digital-engineering-intern-san-ramon",
-        "paramount-machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf-burbank",
-        "alo-yoga-engineering-intern-enterprise-resource-planning-finance-systems-culver-city"
+        "alo-yoga-engineering-intern-retail-technology-san-ramon",
+        "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
+        "alo-yoga-digital-engineering-intern-culver-city"
       ],
       "recent_jobs": [
         {
-          "id": "alo-yoga-engineering-intern-business-technology-operations-operations-data-visibility-culver-city",
-          "title": "Engineering Intern - Business Technology Operations - Operations Data & Visibility",
+          "id": "alo-yoga-engineering-intern-retail-technology-san-ramon",
+          "title": "Engineering Intern - Retail Technology",
           "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:07:33.899Z"
+          "posted_at": "2026-01-31T18:26:17.388Z"
         },
         {
-          "id": "alo-yoga-digital-engineering-intern-san-ramon",
+          "id": "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
+          "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
+          "company": "Alo Yoga",
+          "posted_at": "2026-01-31T18:26:23.928Z"
+        },
+        {
+          "id": "alo-yoga-digital-engineering-intern-culver-city",
           "title": "Digital Engineering Intern",
           "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:07:40.553Z"
-        },
+          "posted_at": "2026-01-31T18:26:30.572Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 1,
+      "jobs": [
+        "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city"
+      ],
+      "recent_jobs": [
         {
-          "id": "paramount-machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf-burbank",
-          "title": "Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)",
-          "company": "Paramount",
-          "posted_at": "2026-01-31T18:07:49.068Z"
-        },
-        {
-          "id": "alo-yoga-engineering-intern-enterprise-resource-planning-finance-systems-culver-city",
-          "title": "Engineering Intern - Enterprise Resource Planning Finance Systems",
+          "id": "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
+          "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
           "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:07:59.206Z"
+          "posted_at": "2026-01-31T18:26:22.185Z"
         }
       ]
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 4,
+      "count": 1,
       "jobs": [
-        "alo-yoga-digital-engineering-intern-san-ramon",
-        "t-mobile-summer-2026-machine-learning-engineering-internship-dunwoody",
-        "paramount-machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf-burbank",
-        "radiant-digital-ai-intern-vienna"
+        "alo-yoga-digital-engineering-intern-culver-city"
       ],
       "recent_jobs": [
         {
-          "id": "alo-yoga-digital-engineering-intern-san-ramon",
+          "id": "alo-yoga-digital-engineering-intern-culver-city",
           "title": "Digital Engineering Intern",
           "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:07:38.787Z"
-        },
-        {
-          "id": "t-mobile-summer-2026-machine-learning-engineering-internship-dunwoody",
-          "title": "Summer 2026 Machine Learning Engineering Internship",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-31T18:07:42.309Z"
-        },
-        {
-          "id": "paramount-machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf-burbank",
-          "title": "Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)",
-          "company": "Paramount",
-          "posted_at": "2026-01-31T18:07:47.234Z"
-        },
-        {
-          "id": "radiant-digital-ai-intern-vienna",
-          "title": "AI Intern",
-          "company": "Radiant Digital",
-          "posted_at": "2026-01-31T18:07:50.949Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 2,
-      "jobs": [
-        "t-mobile-summer-2026-machine-learning-engineering-internship-dunwoody",
-        "radiant-digital-ai-intern-vienna"
-      ],
-      "recent_jobs": [
-        {
-          "id": "t-mobile-summer-2026-machine-learning-engineering-internship-dunwoody",
-          "title": "Summer 2026 Machine Learning Engineering Internship",
-          "company": "T-Mobile",
-          "posted_at": "2026-01-31T18:07:44.060Z"
-        },
-        {
-          "id": "radiant-digital-ai-intern-vienna",
-          "title": "AI Intern",
-          "company": "Radiant Digital",
-          "posted_at": "2026-01-31T18:07:52.652Z"
-        }
-      ]
-    },
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
-      "jobs": [
-        "alo-yoga-engineering-intern-enterprise-resource-planning-finance-systems-culver-city"
-      ],
-      "recent_jobs": [
-        {
-          "id": "alo-yoga-engineering-intern-enterprise-resource-planning-finance-systems-culver-city",
-          "title": "Engineering Intern - Enterprise Resource Planning Finance Systems",
-          "company": "Alo Yoga",
-          "posted_at": "2026-01-31T18:07:57.434Z"
-        }
-      ]
-    },
-    "🎯・other-industry-internships": {
-      "channel_id": "1464303419794784347",
-      "count": 1,
-      "jobs": [
-        "virtua-health-it-informatics-intern-mt-laurel-township"
-      ],
-      "recent_jobs": [
-        {
-          "id": "virtua-health-it-informatics-intern-mt-laurel-township",
-          "title": "IT Informatics Intern",
-          "company": "Virtua Health",
-          "posted_at": "2026-01-31T18:08:03.940Z"
+          "posted_at": "2026-01-31T18:26:28.825Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "alo-yoga-engineering-intern-business-technology-operations-operations-data-visibility-culver-city",
+      "job_id": "alo-yoga-engineering-intern-retail-technology-san-ramon",
       "company": "Alo Yoga",
-      "title": "Engineering Intern - Business Technology Operations - Operations Data & Visibility",
+      "title": "Engineering Intern - Retail Technology",
+      "channels": [
+        "💻・tech-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-01-31T18:26:15.299Z"
+    },
+    {
+      "job_id": "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city",
+      "company": "Alo Yoga",
+      "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
       "channels": [
         "📊・data-science-internships",
         "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-31T18:07:32.149Z"
+      "posted_at": "2026-01-31T18:26:22.185Z"
     },
     {
-      "job_id": "alo-yoga-digital-engineering-intern-san-ramon",
+      "job_id": "alo-yoga-digital-engineering-intern-culver-city",
       "company": "Alo Yoga",
       "title": "Digital Engineering Intern",
       "channels": [
         "🤖・ai-internships",
         "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-31T18:07:38.787Z"
-    },
-    {
-      "job_id": "t-mobile-summer-2026-machine-learning-engineering-internship-dunwoody",
-      "company": "T-Mobile",
-      "title": "Summer 2026 Machine Learning Engineering Internship",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-31T18:07:42.309Z"
-    },
-    {
-      "job_id": "paramount-machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf-burbank",
-      "company": "Paramount",
-      "title": "Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)",
-      "channels": [
-        "🤖・ai-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-31T18:07:47.234Z"
-    },
-    {
-      "job_id": "radiant-digital-ai-intern-vienna",
-      "company": "Radiant Digital",
-      "title": "AI Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-31T18:07:50.949Z"
-    },
-    {
-      "job_id": "alo-yoga-engineering-intern-enterprise-resource-planning-finance-systems-culver-city",
-      "company": "Alo Yoga",
-      "title": "Engineering Intern - Enterprise Resource Planning Finance Systems",
-      "channels": [
-        "💻・tech-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-01-31T18:07:57.434Z"
+      "posted_at": "2026-01-31T18:26:28.825Z"
     }
   ],
   "failures": [],
@@ -226,70 +131,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.866Z"
+        "timestamp": "2026-01-31T18:26:14.605Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.866Z"
+        "timestamp": "2026-01-31T18:26:14.605Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.866Z"
+        "timestamp": "2026-01-31T18:26:14.605Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.866Z"
+        "timestamp": "2026-01-31T18:26:14.606Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.867Z"
+        "timestamp": "2026-01-31T18:26:14.606Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.867Z"
+        "timestamp": "2026-01-31T18:26:14.606Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.867Z"
+        "timestamp": "2026-01-31T18:26:14.606Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.867Z"
+        "timestamp": "2026-01-31T18:26:14.606Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.867Z"
+        "timestamp": "2026-01-31T18:26:14.607Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T18:07:31.868Z"
+        "timestamp": "2026-01-31T18:26:14.607Z"
       }
     ]
   }
