@@ -4167,18 +4167,20 @@
       "employer_name": "Booz Allen",
       "job_city": "Atlanta",
       "job_state": "GA",
-      "job_description": "Join Booz Allen in this exciting opportunity.",
+      "job_description": "Data Engineer InternThe Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever before. As a data engineer, you know that organizing data can yield pivotal insights when it’s gathered from disparate sources. We need a data professional like you to help our clients find answers in their data to impact important missions in public health.As a data engineer at Booz Allen, you’ll use your skills to help build advanced technology solutions and implement data engineering activities on some of the most mission-driven projects in the industry. You’ll help develop and deploy the pipelines and platforms that organize and make disparate data meaningful. Here, you’ll learn from a multi-disciplinary team of analysts, data engineers, developers, and data consumers in a fast-paced, agile environment. You’ll grow your skills in analytical exploration and data examination while you support the assessment, design, building, and maintenance of scalable platforms for your clients. Work with us to use data for good.Join us. The world can’t wait.   You Have:   Knowledge of basic application development utilizing programming languages, including C++, Java, or Python Ability to create software for retrieving, parsing and processing structured and unstructured data Ability to develop scalable ETL or ELT workflows for reporting and analytics Ability to develop scripts and programs for converting various types of data into usable formats and support project team to scale, monitor and operate data platforms  Ability to obtain and maintain a Public Trust or Suitability/Fitness determination based on client requirementsScheduled to obtain a Bachelor's degree in Computer Science by May 2029Nice If You Have:   Experience with Agile engineering practices Experience with public cloud platforms, such as AWS, Microsoft Azure, or Google Cloud Experience with distributed data and computing tools, such as Spark, Databricks, Hadoop, Hive, AWS EMR, or Kafka  Experience with data warehousing, such as AWS Redshift, MySQL, or Snowflake Experience with UNIX or Linux, including basic commands and Shell scripting Knowledge of application development utilizing programming languages, including SQL or ScalaVetting:Applicants selected will be subject to a government investigation and may need to meet eligibility requirements of the U.S. government clientCompensationAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $48,000.00 to $98,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.Identity StatementAs part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.Work ModelOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.Commitment to Non-DiscriminationAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",
       "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer-Intern_R0232642",
       "job_posted_at_datetime_utc": "2026-01-30T23:16:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "booz-allen-data-engineer-intern-atlanta"
+      "id": "booz-allen-data-engineer-intern-atlanta",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-01-30T23:41:16.348Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-01-31T02:39:01.153Z",
+    "postedAt": "2026-01-31T02:39:11.367Z"
   },
   {
     "job": {
@@ -4483,6 +4485,85 @@
     },
     "status": "pending",
     "addedAt": "2026-01-31T01:34:52.605Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern-Web Developer",
+      "employer_name": "Sharp Electronics",
+      "job_city": "Mahwah",
+      "job_state": "NJ",
+      "job_description": "Join Sharp Electronics in this exciting opportunity.",
+      "job_apply_link": "https://careers-sharpusa.icims.com/jobs/8679/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-31T02:08:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "sharp-electronics-intern-web-developer-mahwah"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T02:38:56.695Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Murfreesboro",
+      "job_state": "Tennessee",
+      "job_description": "A company is looking for a Data Science Intern to work remotely in the Clinical and Population Health Analytics department.\n\nKey Responsibilities\n\nAssist in the development, implementation, and refinement of predictive models and machine learning algorithms\n\nClean, transform, and wrangle large-scale, heterogeneous datasets\n\nConduct exploratory data analysis (EDA) to identify trends, anomalies, and insights relevant to healthcare operations and clinical quality\n\nRequired Qualifications\n\nCurrently enrolled in a Bachelor's, Master's, or Ph.D. program in a quantitative field such as Data Science, Computer Science, or related discipline\n\nStrong foundational knowledge of statistical analysis, probability, and machine learning concepts\n\nProficiency in at least one major programming language for data analysis (e.g., Python or R)\n\nExperience with common data science libraries (e.g., Pandas, NumPy, Scikit-learn)\n\nFamiliarity with SQL and relational databases",
+      "job_apply_link": "https://www.talent.com/view?id=f1d371bf43d7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-data-science-intern-murfreesboro"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T02:38:56.695Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 - Learning Data Science Intern (Master's)",
+      "employer_name": "SAS",
+      "job_city": "Burnsville",
+      "job_state": "North Carolina",
+      "job_description": "SAS is a leader in data and AI, inspiring customers to transform data into intelligence. The Learning Data Science Intern will engage in meaningful work, focusing on using data to enhance learner engagement with SAS Education resources through experiments and analysis.\n\nResponsibilities\n• Participate in the design, execution and review of data experiments\n• Write or modify code or data queries to support usage analysis\n• Create or maintain visualizations and reports that communicate findings\n• Interface with business stakeholders to understand their needs and/or convey results\n\nSkills\n• Currently pursuing a Master's Degree\n• Targeted majors: Data Science, Computer Science, Mathematics or Statistics\n• Programming experience: SAS, SQL and/or Python\n• You're curious, passionate, authentic, and accountable. These are our values and influence everything we do\n• Strong communication skills – both written and verbal\n• Leadership abilities. Your past experiences demonstrate you'll take initiative and go above and beyond the call of duty\n• You're interested in the future of Analytics and embrace technology\n• Data experiment design\n• GIT-based code repositories such as GitHub, GitLab, etc\n• SAS Programming (Data Step, Macro, SQL), Data Visualization\n• Technical Support applications such as JIRA, ServiceNow, etc\n• Report Visualization applications such as SAS Visual Analytics, Tableau, Power BI, etc\n\nBenefits\n• Free SAS programming training and certification.\n• Flexible work is the norm.\n• Enjoy hackathons, social events and other opportunities to connect + engage.\n• Your well-being matters, and that’s why we support all dimensions of your well-being by offering programs that reduce stress and distractions to help you stay healthy and productive.\n• This includes an on-site and remote Work/Life Center staffed by master’s level social workers and an Employee Assistance Program.\n\nCompany Overview\n• SAS provides advanced business analytics and business intelligent software and services to enable companies to optimize their operations. It was founded in 1976, and is headquartered in Cary, North Carolina, USA, with a workforce of 10001+ employees. Its website is http://www.sas.com.",
+      "job_apply_link": "https://jobright.ai/jobs/info/697c0f6d1136d179eeefb469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "sas-summer-2026-learning-data-science-intern-master-s-burnsville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T02:38:56.695Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Geospatial Data Scientist Intern Networking Event with AECOM – Raleigh",
+      "employer_name": "AECOM",
+      "job_city": "",
+      "job_state": "West Virginia",
+      "job_description": "AECOM is hosting an exclusive invitation-only hiring event in Raleigh on January 28-29 2026 . This is a great opportunity to learn and connect with AECOM for career opportunities starting Spring / Summer 2026.\n\nThe event kicks off on Wednesday evening with a networking mixer from 6-8 pm where you can hear from AECOM staff about various projects career paths and the company itself. Youll also have the chance to meet other students recent graduates and AECOM professionals from across our business lines.\n\nOn Thursday interviews will take place at our Raleigh office. This is a fantastic opportunity to learn about and connect with AECOM for early career opportunities.\n\nAECOM is actively seeking a creative motivated and highly talented Geospatial Data Scientist Intern in the Baltimore Maryland office. The appropriately qualified applicant will demonstrate knowledge commensurate with upper-level student learnedness in Geographic Information Systems and Data Science. This position will provide support for engineering and planning projects focused on water / wastewater utilities surface transportation aviation and water resources.\n\nThis position is expected to begin May 2026.\n\nThe responsibilities of this position include but are not limited to :\n• Produce high quality cartographically sound maps graphics and figures.\n• Create manage edit and maintain various types of GIS data including spatial databases.\n• Collect and manage field and survey data using mobile GPS equipment.\n• Transfer data to / from GPS devices and post-process using differential correction.\n• Perform QA / QC review of GIS data and compile metadata.\n• Digitize scan and georeference maps engineering drawings and imagery.\n• Automate mapping and geoprocessing tasks using Esri Model Builder and Python.\n• Perform other duties as assigned.\n\nQualifications :\n\nMinimum Requirements :\n• Candidates must be currently enrolled in a university program pursuing a Bachelors Degree or higher in GIS Data Science Environmental Science or a related field with the intent to continue after the internship unless graduating.\n• Candidates must have completed two years of study in their program.\n• Valid U.S. Drivers License required to visit project sites clients and other AECOM offices. As a condition of employment selected candidate must pass a Motor Vehicle Records review.\n\nPreferred Qualifications :\n• Experience working with desktop GIS software packages including Esris ArcGIS suite including ArcGIS Pro ArcGIS Online and mobile applications.\n• Experience creating managing editing and manipulating spatial data in various formats\n• Experience working with spatial and non-spatial databases.\n• Ability to work in both office and field settings.\n• Ability and willingness to multi-task and work on many projects simultaneously in a team environment.\n• Excellent verbal and written communication skills.\n\nAdditional Information :\n• Sponsorship for US employment authorization is not available now or in the future for this position.\n• Relocation assistance is not available for this position.\n\nAbout AECOM\n\nAECOM is proud to offer comprehensive benefits to meet the diverse needs of our employees. Depending on your employment status AECOM benefits may include medical dental vision life AD&D disability benefits paid time off leaves of absences voluntary benefits perks flexible work options well-being resources employee assistance program business travel insurance service recognition awards retirement savings plan and employee stock purchase plan.\n\nAECOM is the global infrastructure leader committed to delivering a better world. As a trusted professional services firm powered by deep technical abilities we solve our clients complex challenges in water environment energy transportation and buildings. Our teams partner with public- and private-sector clients to create innovative sustainable and resilient solutions throughout the project lifecycle from advisory planning design and engineering to program and construction management. AECOM is a Fortune 500 firm that had revenue of $16.1 billion in fiscal year 2024. Learn more at .\n\nWhat makes AECOM a great place to work\n\nYou will be part of a global team that champions your growth and career ambitions. Work on groundbreaking projects - both in your local community and on a global scale - that are transforming our industry and shaping the future. With cutting-edge technology and a network of experts youll have the resources to make a real impact. Our award-winning training and development programs are designed to expand your technical expertise and leadership skills helping you build the career youve always envisioned. Here youll find a welcoming workplace built on respect collaboration and communitywhere you have the freedom to grow in a world of opportunity.\n\nAs an Equal Opportunity Employer we believe in your potential and are here to help you achieve it. All your information will be kept confidential according to EEO guidelines.\n\nRemote Work : No\n\nEmployment Type : Part-time\n\nKey Skills\n\nCampaigns,Abinitio,AutoCAD 3D,Hardware & Networking,Customer Support,Arabic\n\nExperience : years\n\nVacancy : 1",
+      "job_apply_link": "https://www.talent.com/view?id=91f6260a4814&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-22T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "aecom-geospatial-data-scientist-intern-networking-event-with-aecom-raleigh-"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T02:38:56.695Z",
     "enrichedAt": null,
     "postedAt": null
   }
