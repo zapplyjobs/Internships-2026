@@ -1,0 +1,24 @@
+{
+  "url": "https://boards.greenhouse.io/aloyoga/jobs/5781938004",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.OVERVIEW ALO's Digital Engineering team is looking for a highly motivated Graduate or PhD-level Intern with strong foundations in computer science and modern internet-scale systems. This role is designed for candidates who want hands-on experience building and scaling server-side systems, cloud-native services, and AI-assisted development workflows in a real-world, production environment. You will work closely with senior engineers on designing, developing, and optimizing distributed systems that power ALO's digital platforms. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our Beverly Hills HQ. RESPONSIBILITIES Design, develop, and test server-side components and APIs Assist in building and scaling distributed cloud-based systems Collaborate with senior engineers on architecture and implementation decisions Apply AI-assisted coding tools to improve productivity and code quality Write clean, maintainable, and well-documented code Participate in code reviews and technical discussions QUALIFICATIONS Master's degree in computer science, Software Engineering, or a related field OR PhD candidate in Computer Science or a closely related discipline Strong understanding of Internet fundamentals, including: HTTP/HTTPS RESTful APIs Web protocols and networking basics Solid experience with server-side programming Proficiency in at least one modern programming language, such as: Java (preferred) Python Go C++ Strong conceptual understanding of: Distributed systems Concurrency and scalability Fault tolerance and system reliability Working knowledge of cloud architecture, with emphasis on AWS, including services such as: EC2, S3, RDS/DynamoDB Lambda API Gateway IAM, VPC (conceptual understanding acceptable) Exposure to AI/ML-assisted development, including: Using AI tools for code generation, refactoring, or testing Understanding strengths and limitations of AI-generated code PREFERRED QUALIFICATIONS Hands-on experience building or deploying cloud-native applications Familiarity with: Microservices architecture Containerization (Docker, Kubernetes – a plus) Experience working with: Version control systems (Git) CI/CD pipelines Coursework or research in: Distributed computing Cloud systems Machine learning or applied AI Strong problem-solving skills and ability to reason about system design trade-offs WHAT YOU'LL GAIN Hands-on experience with production-scale systems Exposure to modern cloud architecture on AWS Practical application of AI/ML tools in software development Mentorship from experienced engineers in a fast-paced digital team Opportunity to make real impact on ALO’s digital platforms The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE.",
+    "requirements": [
+      "Master's degree in computer science, Software Engineering, or a related field OR PhD candidate in Computer Science or a closely related discipline",
+      "Solid experience with server-side programming",
+      "Working knowledge of cloud architecture, with emphasis on AWS, including services such as:\n\nEC2, S3, RDS/DynamoDB\nLambda\nAPI Gateway\nIAM, VPC (conceptual understanding acceptable)",
+      "Hands-on experience building or deploying cloud-native applications",
+      "Experience working with:\n\nVersion control systems (Git)\nCI/CD pipelines",
+      "Hands-on experience with production-scale systems",
+      "Mentorship from experienced engineers in a fast-paced digital team"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/aloyoga/jobs/5781938004",
+      "fetchedAt": "2026-01-31T18:07:19.787Z"
+    }
+  },
+  "cachedAt": 1769882839787
+}
