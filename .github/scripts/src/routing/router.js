@@ -366,39 +366,40 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
       regex: /\b(marketing|growth|seo|sem|content marketing|brand|campaign|digital marketing|social media|copywriter|creative director)\b/,
       keywords: ['marketing', 'growth', 'seo', 'sem', 'content marketing', 'brand', 'campaign', 'digital marketing', 'social media', 'copywriter', 'creative director']
     },
+    // CONSOLIDATED (2026-01-23): finance, healthcare, product, supply-chain, project-management, hr → 'other'
     {
-      category: 'finance',
-      channelId: CHANNEL_CONFIG.finance,
+      category: 'other',
+      channelId: CHANNEL_CONFIG.other,
       regex: /\b(finance|accounting|financial analyst|controller|treasury|audit|tax|bookkeep|cfo|actuarial|investment|banker)\b/,
       keywords: ['finance', 'accounting', 'financial analyst', 'controller', 'treasury', 'audit', 'tax', 'bookkeep', 'cfo', 'actuarial', 'investment', 'banker']
     },
     {
-      category: 'healthcare',
-      channelId: CHANNEL_CONFIG.healthcare,
+      category: 'other',
+      channelId: CHANNEL_CONFIG.other,
       regex: /\b(healthcare|medical|clinical|health|nurse|doctor|physician|therapist|pharmaceutical|biotech|hospital|patient care)\b/,
       keywords: ['healthcare', 'medical', 'clinical', 'health', 'nurse', 'doctor', 'physician', 'therapist', 'pharmaceutical', 'biotech', 'hospital', 'patient care']
     },
     {
-      category: 'product',
-      channelId: CHANNEL_CONFIG.product,
+      category: 'other',
+      channelId: CHANNEL_CONFIG.other,
       regex: /\b(product manager|product owner|product marketing|(\bpm\b)|product lead|product strategy|product analyst)\b/,
       keywords: ['product manager', 'product owner', 'product marketing', 'pm', 'product lead', 'product strategy', 'product analyst']
     },
     {
-      category: 'supply-chain',
-      channelId: CHANNEL_CONFIG['supply-chain'],
+      category: 'other',
+      channelId: CHANNEL_CONFIG.other,
       regex: /\b(supply chain|logistics|(?<!people )operations manager|procurement|inventory|warehouse|distribution|sourcing|fulfillment|shipping)\b/,
       keywords: ['supply chain', 'logistics', 'operations manager', 'procurement', 'inventory', 'warehouse', 'distribution', 'sourcing', 'fulfillment', 'shipping']
     },
     {
-      category: 'project-management',
-      channelId: CHANNEL_CONFIG['project-management'],
+      category: 'other',
+      channelId: CHANNEL_CONFIG.other,
       regex: /\b(project manager|program manager|scrum master|agile coach|pmo|project coordinator|delivery manager)\b/,
       keywords: ['project manager', 'program manager', 'scrum master', 'agile coach', 'pmo', 'project coordinator', 'delivery manager']
     },
     {
-      category: 'hr',
-      channelId: CHANNEL_CONFIG.hr,
+      category: 'other',
+      channelId: CHANNEL_CONFIG.other,
       regex: /\b(human resources|(\bhr\b)|recruiter|talent acquisition|people operations|compensation|benefits|hiring manager|recruitment|workforce)\b/,
       keywords: ['human resources', 'hr', 'recruiter', 'talent acquisition', 'people operations', 'compensation', 'benefits', 'hiring manager', 'recruitment', 'workforce']
     }
@@ -433,7 +434,7 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
   // PRIORITY 4 (LOWEST): Default Fallback to TECH
   // (76% of jobs are tech, safest default)
   // ============================================================================
-  const result = {
+  return {
     channelId: CHANNEL_CONFIG.tech,
     category: 'tech',
     matchedKeyword: null,
@@ -441,14 +442,6 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
     priority: 'LOWEST',
     source: 'default'
   };
-  // DEBUG: Log fallback routing
-  console.log('🔍 [ROUTER DEBUG] Default fallback to tech:', {
-    jobTitle: title,
-    channelId: result.channelId || 'EMPTY',
-    channelConfigKeys: Object.keys(CHANNEL_CONFIG),
-    hasTech: !!CHANNEL_CONFIG.tech
-  });
-  return result;
 }
 
 /**
