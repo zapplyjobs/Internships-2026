@@ -1,122 +1,153 @@
 {
-  "generated": "2026-01-31T17:53:36.223Z",
+  "generated": "2026-01-31T17:57:06.139Z",
   "period": "last_7_days",
-  "period_start": "2026-01-24T17:53:36.223Z",
-  "period_end": "2026-01-31T17:53:36.223Z",
+  "period_start": "2026-01-24T17:57:06.139Z",
+  "period_end": "2026-01-31T17:57:06.139Z",
   "summary": {
-    "total_jobs_posted": 19,
+    "total_jobs_posted": 18,
     "unique_jobs": 10,
-    "multi_channel_postings": 18,
-    "unique_multi_channel_jobs": 9,
+    "multi_channel_postings": 16,
+    "unique_multi_channel_jobs": 8,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 6
+    "channels_active": 7
   },
   "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 6,
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 2,
       "jobs": [
-        "worthington-enterprises-treasury-analytics-intern-columbus",
-        "intel-data-platform-engineer-intern-folsom",
-        "bio-techne-marketing-analytics-intern-minneapolis",
-        "etsy-software-engineering-intern-brooklyn",
-        "caci-computer-science-computer-engineering-intern-aberdeen",
-        "hewlett-packard-enterprise-performance-marketing-analytics-intern-spring"
+        "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-morrisville",
+        "checkr-engineering-intern-denver"
       ],
       "recent_jobs": [
         {
-          "id": "worthington-enterprises-treasury-analytics-intern-columbus",
-          "title": "Treasury Analytics Intern",
-          "company": "Worthington Enterprises",
-          "posted_at": "2026-01-31T17:52:50.925Z"
+          "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-morrisville",
+          "title": "AI Developer for Supply Chain Optimization & Data Analytics Intern",
+          "company": "ABB",
+          "posted_at": "2026-01-31T17:56:20.055Z"
         },
         {
-          "id": "intel-data-platform-engineer-intern-folsom",
-          "title": "Data Platform Engineer Intern",
-          "company": "Intel",
-          "posted_at": "2026-01-31T17:52:54.501Z"
-        },
-        {
-          "id": "bio-techne-marketing-analytics-intern-minneapolis",
-          "title": "Marketing Analytics Intern",
-          "company": "Bio-Techne",
-          "posted_at": "2026-01-31T17:52:58.135Z"
-        },
-        {
-          "id": "etsy-software-engineering-intern-brooklyn",
-          "title": "Software Engineering Intern",
-          "company": "Etsy",
-          "posted_at": "2026-01-31T17:53:01.944Z"
-        },
-        {
-          "id": "caci-computer-science-computer-engineering-intern-aberdeen",
-          "title": "Computer Science/Computer Engineering Intern",
-          "company": "CACI",
-          "posted_at": "2026-01-31T17:53:05.733Z"
-        },
-        {
-          "id": "hewlett-packard-enterprise-performance-marketing-analytics-intern-spring",
-          "title": "Performance Marketing & Analytics Intern",
-          "company": "Hewlett Packard Enterprise",
-          "posted_at": "2026-01-31T17:53:09.185Z"
+          "id": "checkr-engineering-intern-denver",
+          "title": "Engineering Intern",
+          "company": "Checkr",
+          "posted_at": "2026-01-31T17:56:23.461Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 7,
+      "count": 5,
       "jobs": [
-        "worthington-enterprises-treasury-analytics-intern-columbus",
-        "bio-techne-marketing-analytics-intern-minneapolis",
-        "caci-computer-science-computer-engineering-intern-aberdeen",
-        "hewlett-packard-enterprise-performance-marketing-analytics-intern-spring",
-        "nokia-ai-ml-intern-dallas",
-        "caci-supply-chain-data-analyst-intern-summer-2026-reston",
-        "intel-darc-data-and-reporting-student-intern-hillsboro"
+        "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-morrisville",
+        "cahoot-web-developer-software-engineering-intern-",
+        "t-mobile-summer-2026-associate-software-engineer-internship-philadelphia",
+        "virtualvocations-data-science-intern-murfreesboro",
+        "sas-summer-2026-learning-data-science-intern-master-s-burnsville"
       ],
       "recent_jobs": [
         {
-          "id": "worthington-enterprises-treasury-analytics-intern-columbus",
-          "title": "Treasury Analytics Intern",
-          "company": "Worthington Enterprises",
-          "posted_at": "2026-01-31T17:52:52.788Z"
+          "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-morrisville",
+          "title": "AI Developer for Supply Chain Optimization & Data Analytics Intern",
+          "company": "ABB",
+          "posted_at": "2026-01-31T17:56:21.748Z"
         },
         {
-          "id": "bio-techne-marketing-analytics-intern-minneapolis",
-          "title": "Marketing Analytics Intern",
-          "company": "Bio-Techne",
-          "posted_at": "2026-01-31T17:52:59.917Z"
+          "id": "cahoot-web-developer-software-engineering-intern-",
+          "title": "Web Developer Software Engineering Intern",
+          "company": "Cahoot",
+          "posted_at": "2026-01-31T17:56:32.127Z"
         },
         {
-          "id": "caci-computer-science-computer-engineering-intern-aberdeen",
-          "title": "Computer Science/Computer Engineering Intern",
-          "company": "CACI",
-          "posted_at": "2026-01-31T17:53:07.449Z"
+          "id": "t-mobile-summer-2026-associate-software-engineer-internship-philadelphia",
+          "title": "Summer 2026 Associate Software Engineer Internship",
+          "company": "T-Mobile",
+          "posted_at": "2026-01-31T17:56:39.211Z"
         },
         {
-          "id": "hewlett-packard-enterprise-performance-marketing-analytics-intern-spring",
-          "title": "Performance Marketing & Analytics Intern",
-          "company": "Hewlett Packard Enterprise",
-          "posted_at": "2026-01-31T17:53:11.150Z"
+          "id": "virtualvocations-data-science-intern-murfreesboro",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-01-31T17:56:54.366Z"
         },
         {
-          "id": "nokia-ai-ml-intern-dallas",
-          "title": "AI/ML Intern",
-          "company": "Nokia",
-          "posted_at": "2026-01-31T17:53:17.702Z"
+          "id": "sas-summer-2026-learning-data-science-intern-master-s-burnsville",
+          "title": "Summer 2026 - Learning Data Science Intern (Master's)",
+          "company": "SAS",
+          "posted_at": "2026-01-31T17:56:57.724Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 2,
+      "jobs": [
+        "checkr-engineering-intern-denver",
+        "applied-materials-software-engineer-intern-santa-clara"
+      ],
+      "recent_jobs": [
+        {
+          "id": "checkr-engineering-intern-denver",
+          "title": "Engineering Intern",
+          "company": "Checkr",
+          "posted_at": "2026-01-31T17:56:25.606Z"
         },
         {
-          "id": "caci-supply-chain-data-analyst-intern-summer-2026-reston",
-          "title": "Supply Chain Data Analyst Intern - Summer 2026",
-          "company": "CACI",
-          "posted_at": "2026-01-31T17:53:21.180Z"
+          "id": "applied-materials-software-engineer-intern-santa-clara",
+          "title": "Software Engineer Intern",
+          "company": "Applied Materials",
+          "posted_at": "2026-01-31T17:56:35.629Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 4,
+      "jobs": [
+        "cahoot-web-developer-software-engineering-intern-",
+        "applied-materials-software-engineer-intern-santa-clara",
+        "t-mobile-summer-2026-associate-software-engineer-internship-philadelphia",
+        "sharp-electronics-intern-web-developer-mahwah"
+      ],
+      "recent_jobs": [
+        {
+          "id": "cahoot-web-developer-software-engineering-intern-",
+          "title": "Web Developer Software Engineering Intern",
+          "company": "Cahoot",
+          "posted_at": "2026-01-31T17:56:30.388Z"
         },
         {
-          "id": "intel-darc-data-and-reporting-student-intern-hillsboro",
-          "title": "DARC Data and Reporting Student/Intern",
-          "company": "Intel",
-          "posted_at": "2026-01-31T17:53:29.524Z"
+          "id": "applied-materials-software-engineer-intern-santa-clara",
+          "title": "Software Engineer Intern",
+          "company": "Applied Materials",
+          "posted_at": "2026-01-31T17:56:33.822Z"
+        },
+        {
+          "id": "t-mobile-summer-2026-associate-software-engineer-internship-philadelphia",
+          "title": "Summer 2026 Associate Software Engineer Internship",
+          "company": "T-Mobile",
+          "posted_at": "2026-01-31T17:56:37.437Z"
+        },
+        {
+          "id": "sharp-electronics-intern-web-developer-mahwah",
+          "title": "Intern-Web Developer",
+          "company": "Sharp Electronics",
+          "posted_at": "2026-01-31T17:56:40.911Z"
+        }
+      ]
+    },
+    "🎯・other-industry-internships": {
+      "channel_id": "1464303419794784347",
+      "count": 1,
+      "jobs": [
+        "blizzard-entertainment-localization-intern-santa-monica"
+      ],
+      "recent_jobs": [
+        {
+          "id": "blizzard-entertainment-localization-intern-santa-monica",
+          "title": "Localization Intern",
+          "company": "Blizzard Entertainment",
+          "posted_at": "2026-01-31T17:56:46.154Z"
         }
       ]
     },
@@ -124,167 +155,127 @@
       "channel_id": "1464304161230295131",
       "count": 1,
       "jobs": [
-        "intel-data-platform-engineer-intern-folsom"
+        "blizzard-entertainment-localization-intern-santa-monica"
       ],
       "recent_jobs": [
         {
-          "id": "intel-data-platform-engineer-intern-folsom",
-          "title": "Data Platform Engineer Intern",
-          "company": "Intel",
-          "posted_at": "2026-01-31T17:52:56.205Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 1,
-      "jobs": [
-        "etsy-software-engineering-intern-brooklyn"
-      ],
-      "recent_jobs": [
-        {
-          "id": "etsy-software-engineering-intern-brooklyn",
-          "title": "Software Engineering Intern",
-          "company": "Etsy",
-          "posted_at": "2026-01-31T17:53:03.697Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 2,
-      "jobs": [
-        "nokia-ai-ml-intern-dallas",
-        "caci-supply-chain-data-analyst-intern-summer-2026-reston"
-      ],
-      "recent_jobs": [
-        {
-          "id": "nokia-ai-ml-intern-dallas",
-          "title": "AI/ML Intern",
-          "company": "Nokia",
-          "posted_at": "2026-01-31T17:53:15.848Z"
-        },
-        {
-          "id": "caci-supply-chain-data-analyst-intern-summer-2026-reston",
-          "title": "Supply Chain Data Analyst Intern - Summer 2026",
-          "company": "CACI",
-          "posted_at": "2026-01-31T17:53:19.449Z"
+          "id": "blizzard-entertainment-localization-intern-santa-monica",
+          "title": "Localization Intern",
+          "company": "Blizzard Entertainment",
+          "posted_at": "2026-01-31T17:56:47.936Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 2,
+      "count": 3,
       "jobs": [
-        "genmab-programming-intern-princeton",
-        "intel-darc-data-and-reporting-student-intern-hillsboro"
+        "virtualvocations-data-science-intern-murfreesboro",
+        "sas-summer-2026-learning-data-science-intern-master-s-burnsville",
+        "aecom-geospatial-data-scientist-intern-networking-event-with-aecom-raleigh-"
       ],
       "recent_jobs": [
         {
-          "id": "genmab-programming-intern-princeton",
-          "title": "Programming Intern",
-          "company": "Genmab",
-          "posted_at": "2026-01-31T17:53:26.056Z"
+          "id": "virtualvocations-data-science-intern-murfreesboro",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-01-31T17:56:52.690Z"
         },
         {
-          "id": "intel-darc-data-and-reporting-student-intern-hillsboro",
-          "title": "DARC Data and Reporting Student/Intern",
-          "company": "Intel",
-          "posted_at": "2026-01-31T17:53:27.791Z"
+          "id": "sas-summer-2026-learning-data-science-intern-master-s-burnsville",
+          "title": "Summer 2026 - Learning Data Science Intern (Master's)",
+          "company": "SAS",
+          "posted_at": "2026-01-31T17:56:56.044Z"
+        },
+        {
+          "id": "aecom-geospatial-data-scientist-intern-networking-event-with-aecom-raleigh-",
+          "title": "Geospatial Data Scientist Intern Networking Event with AECOM – Raleigh",
+          "company": "AECOM",
+          "posted_at": "2026-01-31T17:56:59.438Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "worthington-enterprises-treasury-analytics-intern-columbus",
-      "company": "Worthington Enterprises",
-      "title": "Treasury Analytics Intern",
+      "job_id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-morrisville",
+      "company": "ABB",
+      "title": "AI Developer for Supply Chain Optimization & Data Analytics Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:56:20.055Z"
+    },
+    {
+      "job_id": "checkr-engineering-intern-denver",
+      "company": "Checkr",
+      "title": "Engineering Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-31T17:56:23.461Z"
+    },
+    {
+      "job_id": "cahoot-web-developer-software-engineering-intern-",
+      "company": "Cahoot",
+      "title": "Web Developer Software Engineering Intern",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-31T17:52:50.925Z"
+      "posted_at": "2026-01-31T17:56:30.388Z"
     },
     {
-      "job_id": "intel-data-platform-engineer-intern-folsom",
-      "company": "Intel",
-      "title": "Data Platform Engineer Intern",
+      "job_id": "applied-materials-software-engineer-intern-santa-clara",
+      "company": "Applied Materials",
+      "title": "Software Engineer Intern",
       "channels": [
         "💻・tech-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-01-31T17:56:33.822Z"
+    },
+    {
+      "job_id": "t-mobile-summer-2026-associate-software-engineer-internship-philadelphia",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Associate Software Engineer Internship",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:56:37.437Z"
+    },
+    {
+      "job_id": "blizzard-entertainment-localization-intern-santa-monica",
+      "company": "Blizzard Entertainment",
+      "title": "Localization Intern",
+      "channels": [
+        "🎯・other-industry-internships",
         "🌴・socal-internships"
       ],
-      "posted_at": "2026-01-31T17:52:54.501Z"
+      "posted_at": "2026-01-31T17:56:46.154Z"
     },
     {
-      "job_id": "bio-techne-marketing-analytics-intern-minneapolis",
-      "company": "Bio-Techne",
-      "title": "Marketing Analytics Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-31T17:52:58.135Z"
-    },
-    {
-      "job_id": "etsy-software-engineering-intern-brooklyn",
-      "company": "Etsy",
-      "title": "Software Engineering Intern",
-      "channels": [
-        "💻・tech-internships",
-        "🗽・new-york-internships"
-      ],
-      "posted_at": "2026-01-31T17:53:01.944Z"
-    },
-    {
-      "job_id": "caci-computer-science-computer-engineering-intern-aberdeen",
-      "company": "CACI",
-      "title": "Computer Science/Computer Engineering Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-31T17:53:05.733Z"
-    },
-    {
-      "job_id": "hewlett-packard-enterprise-performance-marketing-analytics-intern-spring",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Performance Marketing & Analytics Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-31T17:53:09.185Z"
-    },
-    {
-      "job_id": "nokia-ai-ml-intern-dallas",
-      "company": "Nokia",
-      "title": "AI/ML Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-31T17:53:15.848Z"
-    },
-    {
-      "job_id": "caci-supply-chain-data-analyst-intern-summer-2026-reston",
-      "company": "CACI",
-      "title": "Supply Chain Data Analyst Intern - Summer 2026",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-01-31T17:53:19.449Z"
-    },
-    {
-      "job_id": "intel-darc-data-and-reporting-student-intern-hillsboro",
-      "company": "Intel",
-      "title": "DARC Data and Reporting Student/Intern",
+      "job_id": "virtualvocations-data-science-intern-murfreesboro",
+      "company": "VirtualVocations",
+      "title": "Data Science Intern",
       "channels": [
         "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-01-31T17:53:27.791Z"
+      "posted_at": "2026-01-31T17:56:52.690Z"
+    },
+    {
+      "job_id": "sas-summer-2026-learning-data-science-intern-master-s-burnsville",
+      "company": "SAS",
+      "title": "Summer 2026 - Learning Data Science Intern (Master's)",
+      "channels": [
+        "📊・data-science-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-01-31T17:56:56.044Z"
     }
   ],
   "failures": [],
@@ -298,70 +289,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.155Z"
+        "timestamp": "2026-01-31T17:56:19.617Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.156Z"
+        "timestamp": "2026-01-31T17:56:19.618Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.156Z"
+        "timestamp": "2026-01-31T17:56:19.618Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.157Z"
+        "timestamp": "2026-01-31T17:56:19.618Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.157Z"
+        "timestamp": "2026-01-31T17:56:19.619Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.157Z"
+        "timestamp": "2026-01-31T17:56:19.619Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.157Z"
+        "timestamp": "2026-01-31T17:56:19.619Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.157Z"
+        "timestamp": "2026-01-31T17:56:19.619Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.157Z"
+        "timestamp": "2026-01-31T17:56:19.619Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-01-31T17:52:49.158Z"
+        "timestamp": "2026-01-31T17:56:19.620Z"
       }
     ]
   }
