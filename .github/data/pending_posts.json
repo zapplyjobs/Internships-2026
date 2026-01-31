@@ -4188,17 +4188,19 @@
       "employer_name": "Paccar",
       "job_city": "Lewisville",
       "job_state": "TX",
-      "job_description": "Join Paccar in this exciting opportunity.",
+      "job_description": "Global PACCAR Electronics is seeking highly motivated students to join our Summer 2026 Internship Program as a Diagnostic Systems Intern. Job Summary As a Diagnostic Systems Intern, you will analyze large data sets from vehicle remote diagnostics to uncover insights that improve product performance, reliability, and customer uptime. You will collaborate with cross‑functional and international teams to develop user-friendly analysis tools and reporting interfaces. Your work will support data‑driven decision-making and enhance the customer experience. We’re looking for interns who are eager to learn, adaptable, technically curious, and comfortable communicating in collaborative, fast‑paced engineering environments. What to Expect Schedule: Full-time (40 hours/week), in person Duration: Minimum 12 weeks Location: Lewisville, TX Start Dates: May 18, 2026, or June 22, 2026 Visa Sponsorship: Not available for this role (H‑1B, TN, OPT, etc.) About PACCAR PACCAR, Inc. is a Fortune 500 company established in 1905 and is recognized as a global leader in the commercial vehicle, financial, and customer service fields. PACCAR is a global technology leader in the design, manufacture, and customer support of high-quality light-, medium- and heavy-duty trucks under its internationally recognized brands Kenworth, Peterbilt and DAF nameplates. PACCAR designs and manufactures advanced diesel engines and provides customized financial services, information technology and truck parts related to its principal business. About Global PACCAR Electronics Global PACCAR Electronics organization, which serves Kenworth, Peterbilt, and DAF, is a rapidly expanding organization that is transforming the way control systems and software are developed for commercial vehicle applications. This includes developing the latest vehicle controls, display technology, and autonomous truck solutions that exceed customer expectations. You will collaborate with an international, cross-functional team focused on driving superior technical solutions. Successful applicants will demonstrate individual creativity in addressing challenges and opportunities while working within a supportive team to develop industry-leading solutions for the medium- and heavy-duty truck industry. Your next career move is waiting at Paccar to see whether you want to design transportation technology for tomorrow, support the staff functions of a dynamic, international leader, or build our excellent products and services. Join the PACCAR team today! About Global PACCAR Electronics GPE organization, which serves Kenworth, Peterbilt, and DAF transforming the way control systems and software are developed for commercial vehicle applications. This includes developing the latest vehicle controls, display technology, and autonomous truck solutions that exceed customer expectations. You will collaborate with an international, cross-functional team focused on driving superior technical solutions. Job Responsibilities Analyze large-scale vehicle diagnostic and telematics data sets. Develop, refine, and recommend improvements to data analysis methodologies Create dashboards, reports, and visualizations to communicate findings. Present insights and technical recommendations to engineering leadership and cross‑functional teams. Qualifications Third or fourth year of bachelor’s degree completed (graduation date 2026 – 2027) in one of the following STEM disciplines: Data Analytics, Engineering (Mechatronics, Electrical, Software, Computer, Mechanical), Computer Science, or related discipline. Strong analytical thinking, problem-solving skills, and engineering judgment. Excellent written and verbal communication skills. Demonstrated ability to work both independently and collaboratively. Strong initiative, follow‑through, and adaptabilityProficiency with office productivity tools (e.g., Word, Excel, presentations). Ability to learn new technologies quickly and creatively solve technical issues. Commitment to high standards of quality, reliability, and continuous improvement. Desired Attributes Experience with SQL for querying and optimizing databases. Familiarity with Tableau, Power BI, or similar visualization tools. Paccar Benefits The pay range for this position is $25.00 - $30.00/hour (pay varies by undergraduate and graduate degree) SIP 401k with up to a 5% company match Paid Holidays (work-location scheduled) Sick Leave (WA only) Health, Dental, and Vision insurance Flexible Spending Account (FSA) / Health Savings Account (HSA) Life and Accidental Death and Dismemberment insurance EAP services include wellness plans, estate planning, financial counseling, and more Additional Job Board Information PACCAR promotes equal employment opportunities by implementing policies and practices that ensure employees and applicants are not discriminated against because of their race, color, religious creed, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, mental or physical disability, medical condition, genetic information, military or veteran status or other legally protected status. This applies to recruitment, selection, placement, promotion, termination, rates of pay, and other conditions of employment.",
       "job_apply_link": "https://jobs.paccar.com/job/Lewisville-Diagnostic-Systems-Intern-TX-75067/1289105601/?ats=successfactors",
       "job_posted_at_datetime_utc": "2026-01-30T23:14:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "paccar-diagnostic-systems-intern-lewisville"
+      "id": "paccar-diagnostic-systems-intern-lewisville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-30T23:41:16.348Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-31T03:32:44.459Z",
     "postedAt": null
   },
   {
@@ -4564,6 +4566,199 @@
     },
     "status": "pending",
     "addedAt": "2026-01-31T02:38:56.695Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "Checkr",
+      "job_city": "Denver",
+      "job_state": "CO",
+      "job_description": "Join Checkr in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/checkr/jobs/7575425",
+      "job_posted_at_datetime_utc": "2026-01-31T02:33:47.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "checkr-engineering-intern-denver"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern - Business Technology Operations - Operations Data & Visibility",
+      "employer_name": "Alo Yoga",
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "Join Alo Yoga in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/aloyoga/jobs/5781932004",
+      "job_posted_at_datetime_utc": "2026-01-31T02:32:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "alo-yoga-engineering-intern-business-technology-operations-operations-data-visibility-culver-city"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Digital Engineering Intern",
+      "employer_name": "Alo Yoga",
+      "job_city": "San Ramon",
+      "job_state": "CA",
+      "job_description": "Join Alo Yoga in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/aloyoga/jobs/5783146004",
+      "job_posted_at_datetime_utc": "2026-01-31T02:32:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "alo-yoga-digital-engineering-intern-san-ramon"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern - Enterprise Resource Planning Finance Systems",
+      "employer_name": "Alo Yoga",
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "Join Alo Yoga in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/aloyoga/jobs/5781860004",
+      "job_posted_at_datetime_utc": "2026-01-31T02:32:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "alo-yoga-engineering-intern-enterprise-resource-planning-finance-systems-culver-city"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern - Retail Technology",
+      "employer_name": "Alo Yoga",
+      "job_city": "San Ramon",
+      "job_state": "CA",
+      "job_description": "Join Alo Yoga in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/aloyoga/jobs/5783155004",
+      "job_posted_at_datetime_utc": "2026-01-31T02:32:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "alo-yoga-engineering-intern-retail-technology-san-ramon"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern - Business Technology Operations - Foundational PIM",
+      "employer_name": "Alo Yoga",
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "Join Alo Yoga in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/aloyoga/jobs/5781907004",
+      "job_posted_at_datetime_utc": "2026-01-31T02:32:33.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "alo-yoga-engineering-intern-business-technology-operations-foundational-pim-culver-city"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Digital Engineering Intern",
+      "employer_name": "Alo Yoga",
+      "job_city": "Culver City",
+      "job_state": "CA",
+      "job_description": "Join Alo Yoga in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/aloyoga/jobs/5781938004",
+      "job_posted_at_datetime_utc": "2026-01-31T02:32:29.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_source": "simplifyjobs",
+      "job_posted_at": "1h",
+      "id": "alo-yoga-digital-engineering-intern-culver-city"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 Machine Learning Engineering Internship",
+      "employer_name": "T-Mobile",
+      "job_city": "Dunwoody",
+      "job_state": "Georgia",
+      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!\n\nGet hands-on experience, training—and a leg up on a bright future.\n\nLearn. Achieve. Build a Career.\n\nT-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!\n\nThis is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. You'll contribute your creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hands-on projects and the chance to create an immediate impact.\n\nWhat It's Like :\n\nOur team builds AI solutions that improve customer experience and help resolve customer issues efficiently at scale. We focus on AI observability by developing tools and frameworks to monitor, evaluate, and improve machine learning and LLM-based systems. Our scope includes model evaluation (Evals), performance monitoring, and data-driven insights to ensure AI solutions are reliable, trustworthy, and production-ready. By enabling visibility into AI behavior, we help accelerate innovation while delivering smarter and more dependable customer-facing experiences across T-Mobile.\n\nWhat You'll Do :\n\nThis role will focus on ML engineering projects, building scalable training and inference pipelines, APIs, and service integrations. The work includes designing and running model evaluations (Evals), including offline and online testing, to assess model quality, accuracy, and performance. The role will also contribute to MLOps and reliability efforts by implementing model versioning, CI / CD workflows, and drift detection for production systems. Additionally, the scope includes translating research ideas and early prototypes into production-ready machine learning solutions, accelerating experimentation and deployment across the team.\n\nKey Responsibilities :\n\nBuild and maintain scalable ML training and inference pipelines, APIs, and service integrations.\n\nDevelop and optimize model serving and inference workflows, focusing on performance, latency, and scalability.\n\nImplement MLOps best practices, including model versioning, CI / CD workflows, and drift detection.\n\nConvert research ideas and prototypes into production-ready machine learning systems.\n\nWhat It Takes :\n\nExperience building or experimenting with real-world ML systems, not just models\n\nExposure to LLMs or applied AI tools (prompting, RAG, fine-tuning)\n\nParticipation in research, hackathons, or open-source ML projects\n• At least 18 years of age\n• Legally authorized to work in the United States\n• Must be actively enrolled in a Bachelors or Graduate degree program\n• Employees of T-Mobile or Metro by T-Mobile are ineligible for Internships\n• Employer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education.\n\nRelocation assistance may be provided to program participants who reside more than 50 miles from the internship location.\n\nIntern wages range from $20 / hour to $40 / hour. The successful candidate’s actual pay will be based on experience / location.\n\nNever stop growing!\n\nAs part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!\n\nT-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nTalent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing -mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
+      "job_apply_link": "https://www.talent.com/view?id=d6127412b9dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "t-mobile-summer-2026-machine-learning-engineering-internship-dunwoody"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)",
+      "employer_name": "Paramount",
+      "job_city": "Burbank",
+      "job_state": "California",
+      "job_description": "Paramount is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. They are seeking a Machine Learning Engineering Intern to support their Applied Intelligence Group, focusing on improving user experience through scalable machine learning solutions and collaboration with various teams.\n\nResponsibilities\n• Design and develop highly scalable and reliable machine learning solutions to improve user experience on a specific product feature\n• Design and testing a modeling solution or integration\n• Participate in design and code reviews\n\nSkills\n• Internships are available to students who will be Seniors or Master's students in the fall of 2026\n• You must be available to intern full-time (5 days a week/36-40 hours a week) for 10 weeks total starting in June\n• Interns will be required to work fully on-site for the duration of the program\n• Applicants must be currently authorized to work in the United States on a full‑time basis\n• Employment eligibility to work with Paramount in the United States is required as the company does not engage in sponsorship for internships\n• Current undergrad or master's student working to obtaining their degree in Software Engineering or Machine Learning Engineering or Applied Math at a university in the United States\n• Experience working with Python, Tensorflow, PyTorch, SQL and API work\n\nBenefits\n• Speaker series with industry experts\n• Unique networking opportunities & social events\n• Complimentary Paramount+ subscription during your internship\n• Workshops on crafting your resume, nailing interviews and career strategy\n• 1:1 mentorship, volunteer opportunities, on-the-job learning and so much more!\n\nCompany Overview\n• Paramount is a leading media and entertainment company that creates premium content and experiences for audiences worldwide. It is a sub-organization of Paramount Pictures. It was founded in 1914, and is headquartered in New York, New York, USA, with a workforce of 10001+ employees. Its website is https://www.paramount.com.",
+      "job_apply_link": "https://jobright.ai/jobs/info/694b4c284b53a1551f951238?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-14T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "paramount-machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf-burbank"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Intern",
+      "employer_name": "Radiant Digital",
+      "job_city": "Vienna",
+      "job_state": "Virginia",
+      "job_description": "Radiant Digital is seeking an AI Intern to assist in various data-driven projects. The role involves data analysis, supporting the development and testing of machine learning models, and collaborating with team members.\n\nResponsibilities\n• Assist in data analysis, data cleaning, and feature engineering\n• Support development and testing of machine learning and AI models\n• Work with structured and unstructured datasets\n• Assist in model evaluation, visualization, and reporting\n• Collaborate with team members on data-driven projects\n\nSkills\n• Bachelor's degree (ongoing or completed) in Computer Science, Data Science, or related field\n• Basic knowledge of Python, statistics, and machine learning concepts\n• Familiarity with data analysis libraries (Pandas, NumPy, scikit-learn)\n• Strong analytical and problem-solving skills\n\nCompany Overview\n• Radiant Digital is supports multiple health focused agencies including Department of Health and Human Services. It was founded in 1997, and is headquartered in Vienna, Virginia, USA, with a workforce of 201-500 employees. Its website is https://www.radiant.digital/.\n\nCompany H1B Sponsorship\n• Radiant Digital has a track record of offering H1B sponsorships, with 6 in 2025, 5 in 2024, 10 in 2023, 2 in 2022, 10 in 2021, 21 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/697a9c4e8dbbf73badc7d85c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-29T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "radiant-digital-ai-intern-vienna"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-31T03:32:43.437Z",
     "enrichedAt": null,
     "postedAt": null
   }
