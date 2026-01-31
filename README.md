@@ -93,7 +93,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2007170) | 6h |
+| Software Engineer 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2007170) | 7h |
 | Software Engineer Security & Automation 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000460) | 1w |
 
 #### 🖥️ **Hewlett Packard Enterprise** (2 positions)
@@ -189,12 +189,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1576 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1574 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1576 roles
+- **📁 Total Positions**: 1574 roles
 - **🏢 Companies**: 226 companies  
 - **⭐ FAANG+ Opportunities**: 80 positions
 
