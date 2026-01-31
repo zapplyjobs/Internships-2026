@@ -30,11 +30,9 @@ function generateTags(job) {
   const description = (job.job_description || '').toLowerCase();
   const company = job.employer_name;
 
-  // Skip experience level tags entirely - they're redundant in role-specific channels
-  // (Internships channel = all internships, New-Grad channel = all new-grad, etc.)
+  // Skip experience level tags - redundant in role-specific channels
 
   // Location tags - ONLY tag as Remote if location field explicitly says remote
-  // Don't check description/title as they may mention "remote" in other contexts
   if (job.job_city && job.job_city.toLowerCase().includes('remote')) {
     tags.push('Remote');
   }
@@ -53,7 +51,7 @@ function generateTags(job) {
     tags.push(majorCities[cityKey]);
   }
 
-  // Company tier tags
+  // Company tier tags (one max)
   if (companies.faang_plus.some(c => c.name === company)) {
     tags.push('FAANG');
   } else if (companies.unicorn_startups.some(c => c.name === company)) {
@@ -64,44 +62,73 @@ function generateTags(job) {
     tags.push('Gaming');
   }
 
-  // Technology/skill tags (limit to most relevant - check title first, then description)
-  const techStack = {
-    // High-priority keywords (title match preferred)
-    'machine learning': 'ML', 'ai': 'AI', 'data science': 'DataScience',
-    'ios': 'iOS', 'android': 'Android', 'mobile': 'Mobile',
-    'frontend': 'Frontend', 'backend': 'Backend', 'fullstack': 'FullStack',
-    'devops': 'DevOps', 'security': 'Security', 'blockchain': 'Blockchain',
-    // Cloud platforms (only if in title or primary description)
-    'aws': 'AWS', 'azure': 'Azure', 'gcp': 'GCP'
-  };
+  // Comprehensive technology/skill/role tags (title match for accuracy)
+  const tagPatterns = [
+    // AI/ML/Data
+    { keywords: ['machine learning engineer', 'ml engineer', 'machine learning'], tag: 'MLEngineer' },
+    { keywords: ['data scientist', 'data science', 'data analyst'], tag: 'DataScience' },
+    { keywords: ['data engineer', 'etl', 'data pipeline'], tag: 'DataEngineer' },
+    { keywords: ['ai engineer', 'artificial intelligence', 'ai researcher', 'llm', 'generative ai'], tag: 'AI' },
+    { keywords: ['analytics engineer', 'business intelligence', 'bi analyst'], tag: 'Analytics' },
 
-  // Only match tags from title (more accurate than description)
-  for (const [keyword, tag] of Object.entries(techStack)) {
-    if (title.includes(keyword)) {
-      tags.push(tag);
+    // Engineering roles
+    { keywords: ['software engineer', 'software developer', 'swe', 'software development'], tag: 'SWE' },
+    { keywords: ['frontend engineer', 'front-end', 'front end', 'web developer'], tag: 'Frontend' },
+    { keywords: ['backend engineer', 'back-end', 'back end', 'server-side'], tag: 'Backend' },
+    { keywords: ['full stack', 'fullstack', 'full-stack'], tag: 'FullStack' },
+    { keywords: ['mobile engineer', 'mobile developer'], tag: 'Mobile' },
+    { keywords: ['ios engineer', 'ios developer'], tag: 'iOS' },
+    { keywords: ['android engineer', 'android developer'], tag: 'Android' },
+    { keywords: ['devops engineer', 'sre', 'site reliability', 'infrastructure'], tag: 'DevOps' },
+    { keywords: ['cloud engineer', 'platform engineer', 'kubernetes'], tag: 'Cloud' },
+    { keywords: ['security engineer', 'application security', 'cybersecurity'], tag: 'Security' },
+    { keywords: ['qa engineer', 'quality assurance', 'test engineer'], tag: 'QA' },
+
+    // Web/Technologies
+    { keywords: ['react', 'angular', 'vue', 'typescript'], tag: 'WebDev' },
+    { keywords: ['node.js', 'nodejs', 'backend', 'api'], tag: 'Backend' },
+    { keywords: ['python', 'java', 'golang', 'rust'], tag: 'Backend' },
+
+    // Product/Design
+    { keywords: ['product manager', 'pm ', 'product owner'], tag: 'Product' },
+    { keywords: ['technical product manager', 'tpm'], tag: 'TPM' },
+    { keywords: ['ux designer', 'ui designer', 'product designer', 'ux researcher'], tag: 'Design' },
+    { keywords: ['graphic designer', 'visual designer'], tag: 'VisualDesign' },
+
+    // Other roles
+    { keywords: ['salesforce', 'account executive', 'sdr', 'bdr', 'sales'], tag: 'Sales' },
+    { keywords: ['marketing manager', 'growth marketing', 'digital marketing'], tag: 'Marketing' },
+    { keywords: ['finance analyst', 'financial analyst', 'accounting'], tag: 'Finance' },
+    { keywords: ['supply chain', 'logistics', 'operations'], tag: 'Ops' },
+    { keywords: ['hr', 'human resources', 'recruiter', 'talent'], tag: 'HR' },
+
+    // Cloud platforms
+    { keywords: ['aws', 'amazon web services'], tag: 'AWS' },
+    { keywords: ['azure', 'microsoft azure'], tag: 'Azure' },
+    { keywords: ['gcp', 'google cloud'], tag: 'GCP' },
+  ];
+
+  // Match tags from title only (most accurate)
+  const addedTags = new Set();
+  for (const pattern of tagPatterns) {
+    if (addedTags.has(pattern.tag)) continue; // Skip if tag already added
+
+    for (const keyword of pattern.keywords) {
+      if (title.includes(keyword)) {
+        tags.push(pattern.tag);
+        addedTags.add(pattern.tag);
+        break;
+      }
     }
   }
 
-  // Limit to max 5 tags total to avoid clutter
-  if (tags.length > 5) {
-    tags.length = 5;
+  // Remove duplicates and limit to 8 tags
+  const uniqueTags = [...new Set(tags)];
+  if (uniqueTags.length > 8) {
+    uniqueTags.length = 8;
   }
 
-  // Role category tags (only if not already added via tech stack)
-  if (!tags.includes('DataScience') && (title.includes('data scientist') || title.includes('analyst'))) {
-    tags.push('DataScience');
-  }
-  if (!tags.includes('ML') && (title.includes('machine learning') || title.includes('ml engineer'))) {
-    tags.push('ML');
-  }
-  if (title.includes('product manager') || title.includes('pm ')) {
-    tags.push('ProductManager');
-  }
-  if (title.includes('designer') || title.includes('ux') || title.includes('ui')) {
-    tags.push('Design');
-  }
-
-  return [...new Set(tags)]; // Remove duplicates
+  return uniqueTags;
 }
 
 /**
