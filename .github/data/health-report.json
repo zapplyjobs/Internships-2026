@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-01-28T23:57:33.322Z",
+  "totalJobs": 5,
+  "postedJobs": 5,
+  "unpostedJobs": 0,
+  "postingRate": "100.00",
+  "jobsWithDiscordPosts": 5,
+  "jobsWithZeroChannels": 0,
+  "jobsWithLegacyPost": 0,
+  "jobsNeverProcessed": 0,
+  "channelDistribution": {
+    "1464303178286760059": 3,
+    "1464303312626122855": 1,
+    "1464303204178067620": 1
+  },
+  "companiesAffected": {},
+  "unpostedJobsSample": []
+}
