@@ -158,8 +158,26 @@ class PostedJobsManagerV2 {
 
     if (hasActiveInstance) {
       // Already posted recently - duplicate
-      console.log(`⏭️  Skipping duplicate: ${jobId} (posted within ${this.activeWindowDays} days)`);
+      console.log(`⏭️ Skipping duplicate: ${jobId} (posted within ${this.activeWindowDays} days)`);
       return true;
+    }
+
+    // Check if job was posted before - use archived sourceDate for age checking
+    // This prevents "refreshed" jobs (companies updating old postings) from being perpetually reposted
+    const existingInstances = instances.sort((a, b) =>
+      new Date(a.sourceDate || a.postedToDiscord) - new Date(b.sourceDate || b.postedToDiscord)
+    );
+
+    if (existingInstances.length > 0) {
+      const originalInstance = existingInstances[0];
+      const originalDate = new Date(originalInstance.sourceDate || originalInstance.postedToDiscord);
+      const daysSinceOriginalPost = (Date.now() - originalDate.getTime()) / (1000 * 60 * 60 * 24);
+
+      // Reject jobs that are too old from their ORIGINAL posting, regardless of "refreshes"
+      if (daysSinceOriginalPost > 7) {
+        console.log(`⏭️  Skipping old job: ${jobId} (original posting ${Math.floor(daysSinceOriginalPost)} days ago, max is 7)`);
+        return true;
+      }
     }
 
     // All instances are archived (>7 days old)
