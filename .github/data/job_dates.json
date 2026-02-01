@@ -35794,5 +35794,71 @@
     "job_title": "Amazon Data Science Internship-PAID",
     "company": "Amazon.com, Inc.",
     "first_seen": "2026-02-01T02:56:10.828Z"
+  },
+  "california-life-company-intern,-machine-learning-for-molecule-design-(ms-/-phd)-south-san-francisco": {
+    "assigned_date": "2026-02-01T03:04:54.579Z",
+    "job_title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
+    "company": "California Life Company",
+    "first_seen": "2026-02-01T03:04:54.579Z"
+  },
+  "meta-intern---research-scientist,-ai-research-in-speech-&-audio-(phd)-new-york": {
+    "assigned_date": "2026-02-01T03:04:54.579Z",
+    "job_title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
+    "company": "META",
+    "first_seen": "2026-02-01T03:04:54.579Z"
+  },
+  "general-motors-2026-summer-intern-–-ai/ml-intern---autonomous-vehicle-engineering-(phd)-san-francisco": {
+    "assigned_date": "2026-02-01T03:04:54.579Z",
+    "job_title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
+    "company": "General Motors",
+    "first_seen": "2026-02-01T03:04:54.579Z"
+  },
+  "virtualvocations-ai-video-content-creator-intern-tacoma": {
+    "assigned_date": "2026-02-01T03:04:54.580Z",
+    "job_title": "AI Video Content Creator Intern",
+    "company": "VirtualVocations",
+    "first_seen": "2026-02-01T03:04:54.580Z"
+  },
+  "nokia-automation---ai/ml-intern-dallas": {
+    "assigned_date": "2026-02-01T03:04:54.580Z",
+    "job_title": "Automation - AI/ML Intern",
+    "company": "Nokia",
+    "first_seen": "2026-02-01T03:04:54.580Z"
+  },
+  "frontier-technology-inc-ai-/-ml-engineering-internship-golden": {
+    "assigned_date": "2026-02-01T03:04:54.580Z",
+    "job_title": "AI / ML Engineering Internship",
+    "company": "FRONTIER TECHNOLOGY INC",
+    "first_seen": "2026-02-01T03:04:54.580Z"
+  },
+  "the-pennsylvania-state-university-ai-/-ml-research-and-development-intern-state-college": {
+    "assigned_date": "2026-02-01T03:04:54.581Z",
+    "job_title": "AI / ML Research and Development Intern",
+    "company": "The Pennsylvania State University",
+    "first_seen": "2026-02-01T03:04:54.581Z"
+  },
+  "amazon-web-services-(aws)-2026-annapurna-labs-at-aws-internships-(us)---machine-learning-systems-&-silicon-innovation-seattle": {
+    "assigned_date": "2026-02-01T03:04:54.581Z",
+    "job_title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+    "company": "Amazon Web Services (AWS)",
+    "first_seen": "2026-02-01T03:04:54.581Z"
+  },
+  "simons-foundation-database-and-automated-testing-intern-(for-high-performance-computing-and-machine-learning-benchmarks)-new-york": {
+    "assigned_date": "2026-02-01T03:04:54.581Z",
+    "job_title": "Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)",
+    "company": "Simons Foundation",
+    "first_seen": "2026-02-01T03:04:54.581Z"
+  },
+  "familiar-machines-&-magic-artificial-intelligence-intern---perception-for-robotics-woburn": {
+    "assigned_date": "2026-02-01T03:04:54.581Z",
+    "job_title": "Artificial Intelligence Intern - Perception for Robotics",
+    "company": "Familiar Machines & Magic",
+    "first_seen": "2026-02-01T03:04:54.581Z"
+  },
+  "amd-2026-undergraduate-machine-learning-/-artificial-intelligence-engineering-co-op-/-intern-longmont": {
+    "assigned_date": "2026-02-01T03:04:54.582Z",
+    "job_title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern",
+    "company": "AMD",
+    "first_seen": "2026-02-01T03:04:54.582Z"
   }
 }
