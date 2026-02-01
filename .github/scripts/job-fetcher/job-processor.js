@@ -6,7 +6,6 @@ const {
     ALL_COMPANIES,
     COMPANY_BY_NAME,
     generateJobId,
-    generateJobFingerprint,
     migrateOldJobId,
     normalizeCompanyName,
     getCompanyEmoji,
@@ -26,54 +25,77 @@ const { convertDateToRelative } = require('../../../jobboard/src/backend/output/
 const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/services/descriptionFetchers');
 
 // Deduplication logger
-const DeduplicationLogger = require('../deduplication-logger');
+const { DeduplicationLogger } = require('@zapply/job-board-shared');
 
-// Analytics archive for long-term data retention
-const { archiveJobs } = require('../src/data/analytics-archive');
+// Internship filter (Bug #4 fix - 2026-01-26)
+const { filterInternships } = require('./internship-filter');
 
-// Configuration - JSearch API (uses environment variable for security)
-const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
-const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
+// Configuration - LEGACY CODE (JSearch now in jsearch-source.js)
+// NOTE: This hardcoded API key is DEPRECATED and should NOT be used
+// JSearch integration has been moved to jsearch-source.js with proper security
+// See: .github/scripts/job-fetcher/jsearch-source.js
 
-// Job search queries - much more comprehensive
+// Job search queries - internship-specific (LEGACY - not actively used)
 const SEARCH_QUERIES = [
-    // Core engineering roles
-    'software engineer',
-    'software developer', 
-    'full stack developer',
-    'frontend developer',
-    'backend developer',
-    'mobile developer',
-    'ios developer',
-    'android developer',
-    
-    // Specialized tech roles
-    'machine learning engineer',
-    'data scientist', 
-    'data engineer',
-    'devops engineer',
-    'cloud engineer',
-    'security engineer',
-    'site reliability engineer',
-    'platform engineer',
-    
+    // Core engineering internships
+    'software engineer intern',
+    'software engineering internship',
+    'software developer intern',
+    'software development internship',
+
+    // Full-stack
+    'full stack intern',
+    'fullstack engineer intern',
+
+    // Frontend/Backend
+    'frontend engineer intern',
+    'frontend developer intern',
+    'backend engineer intern',
+    'backend developer intern',
+
+    // Mobile
+    'mobile developer intern',
+    'ios developer intern',
+    'android developer intern',
+
+    // Data & ML
+    'machine learning intern',
+    'ML engineer intern',
+    'data scientist intern',
+    'data science internship',
+    'data engineer intern',
+    'data analyst intern',
+
+    // DevOps & Infrastructure
+    'devops engineer intern',
+    'cloud engineer intern',
+    'site reliability engineer intern',
+    'platform engineer intern',
+
+    // Security
+    'security engineer intern',
+    'cybersecurity intern',
+
     // Product & Design
-    'product manager',
-    'product designer',
-    'ux designer',
-    'ui designer',
-    
-    // New grad specific
+    'product manager intern',
+    'product designer intern',
+    'ux designer intern',
+    'ui designer intern',
+
+    // QA & Testing
+    'QA engineer intern',
+    'test automation intern',
+
+    // Entry-level (internship adjacent)
     'new grad software engineer',
-    'entry level developer',
+    'entry level software engineer',
     'junior developer',
     'graduate software engineer',
-    
-    // High-value roles
-    'staff engineer',
-    'senior software engineer',
-    'principal engineer',
-    'engineering manager'
+
+    // Alternative terms
+    'summer intern software',
+    'co-op software engineer',
+    'coop engineer'
 ];
 
 /**
@@ -193,6 +215,44 @@ function fillJobDates(jobs, jobDatesStore) {
     return processedJobs;
 }
 
+/**
+ * Validates that a job is an internship (safety layer)
+ */
+function isValidInternship(job, logRejections = false) {
+    if (!job || !job.job_title) return false;
+
+    const title = (job.job_title || '').toLowerCase();
+    const description = (job.job_description || '').toLowerCase();
+
+    // Must have internship keywords
+    const internshipKeywords = [
+        'intern', 'internship', 'co-op', 'coop', 'co op',
+        'summer program', 'student program', 'new grad',
+        'entry level', 'junior developer', 'graduate software'
+    ];
+
+    const hasInternKeyword = internshipKeywords.some(kw =>
+        title.includes(kw) || description.substring(0, 500).includes(kw)
+    );
+
+    // Must NOT have senior keywords
+    const excludedKeywords = [
+        'senior', 'staff', 'principal', 'lead', 'manager',
+        'director', 'vp', 'vice president', 'head of', 'chief',
+        '3+ years', '4+ years', '5+ years'
+    ];
+
+    const hasExcluded = excludedKeywords.some(kw => title.includes(kw));
+
+    const isValid = hasInternKeyword && !hasExcluded;
+
+    if (!isValid && logRejections) {
+        console.log(`❌ REJECTED: "${job.job_title}" (${job.employer_name})`);
+    }
+
+    return isValid;
+}
+
 // Enhanced API search with better error handling
 async function searchJobs(query, location = '') {
     try {
@@ -202,8 +262,8 @@ async function searchJobs(query, location = '') {
         url.searchParams.append('page', '1');
         url.searchParams.append('num_pages', '1');
         url.searchParams.append('date_posted', 'month');
-        url.searchParams.append('employment_types', 'FULLTIME');
-        url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
+        url.searchParams.append('employment_types', 'INTERNSHIP,INTERN');
+        url.searchParams.append('job_requirements', 'no_experience,under_3_years_experience');
         
         const response = await fetch(url, {
             method: 'GET',
@@ -220,8 +280,17 @@ async function searchJobs(query, location = '') {
         
         const data = await response.json();
         const jobs = data.data || [];
-        console.log(`Query "${query}" returned ${jobs.length} jobs`);
-        return jobs;
+        console.log(`Query "${query}" returned ${jobs.length} jobs from API`);
+
+        // Apply validation
+        const validJobs = jobs.filter(job => isValidInternship(job, false));
+        const rejected = jobs.length - validJobs.length;
+
+        if (rejected > 0) {
+            console.log(`   ⚠️ Filtered out ${rejected} non-internship jobs`);
+        }
+
+        return validJobs;
     } catch (error) {
         console.error(`Error searching for "${query}":`, error.message);
         return [];
@@ -371,88 +440,43 @@ function writeNewJobsJson(jobs) {
 // Update seen jobs store with atomic writes to prevent corruption
 function updateSeenJobsStore(jobs, seenIds) {
     const dataDir = path.join(process.cwd(), '.github', 'data');
-
+    
     try {
+        // Ensure data folder exists
         if (!fs.existsSync(dataDir)) {
             fs.mkdirSync(dataDir, { recursive: true });
         }
-
-        // Load existing data with timestamps
+        
+        // Mark new jobs as seen
+        jobs.forEach(job => seenIds.add(job.id));
+        
+        // Convert Set to sorted array for consistency
+        let seenJobsArray = [...seenIds].sort();
+        
+        // Cleanup: Remove entries older than 30 days to prevent infinite growth
+        // This is safe because we only track jobs from the last week anyway
+        const maxEntries = 10000; // Reasonable upper limit
+        if (seenJobsArray.length > maxEntries) {
+            seenJobsArray = seenJobsArray.slice(-maxEntries); // Keep most recent entries
+            console.log(`🧹 Trimmed seen_jobs.json to ${maxEntries} most recent entries`);
+        }
+        
+        // Atomic write: write to temp file then rename
         const seenPath = path.join(dataDir, 'seen_jobs.json');
-        let seenWithTimestamps = {};
-
-        try {
-            if (fs.existsSync(seenPath)) {
-                const existing = JSON.parse(fs.readFileSync(seenPath, 'utf8'));
-
-                // Handle both formats
-                if (Array.isArray(existing)) {
-                    // Legacy: convert array to object
-                    const now = new Date().toISOString();
-                    existing.forEach(id => {
-                        seenWithTimestamps[id] = now;
-                    });
-                } else {
-                    seenWithTimestamps = existing;
-                }
-            }
-        } catch (loadError) {
-            console.error('⚠️ Error loading existing seen_jobs.json:', loadError.message);
-        }
-
-        // Add new jobs with current timestamp AND fingerprint
-        const now = new Date().toISOString();
-        jobs.forEach(job => {
-            seenWithTimestamps[job.id] = {
-                timestamp: now,
-                fingerprint: generateJobFingerprint(job)
-            };
-        });
-
-        // Expire entries older than 7 days
-        const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
-        const validEntries = {};
-        let expiredCount = 0;
-
-        Object.entries(seenWithTimestamps).forEach(([id, data]) => {
-            // Handle both old format (string timestamp) and new format (object with timestamp + fingerprint)
-            const timestamp = typeof data === 'object' ? data.timestamp : data;
-            const seenDate = new Date(timestamp).getTime();
-
-            if (seenDate >= sevenDaysAgo) {
-                validEntries[id] = data; // Keep original format (old or new)
-            } else {
-                expiredCount++;
-            }
-        });
-
-        if (expiredCount > 0) {
-            console.log(`🧹 Removed ${expiredCount} expired entries (>7 days old)`);
-        }
-
-        // Safety limit: keep only most recent 10,000 if we exceed
-        let finalEntries = validEntries;
-        if (Object.keys(validEntries).length > 10000) {
-            console.log(`⚠️ Exceeded 10,000 entries (${Object.keys(validEntries).length}), trimming to most recent 10,000`);
-
-            // Sort by timestamp (most recent first) and take top 10,000
-            const sorted = Object.entries(validEntries)
-                .sort((a, b) => new Date(b[1]) - new Date(a[1]))
-                .slice(0, 10000);
-
-            finalEntries = Object.fromEntries(sorted);
-        }
-
-        // Atomic write
         const tempPath = path.join(dataDir, 'seen_jobs.tmp.json');
-        fs.writeFileSync(tempPath, JSON.stringify(finalEntries, null, 2), 'utf8');
+        
+        // Write to temporary file
+        fs.writeFileSync(tempPath, JSON.stringify(seenJobsArray, null, 2), 'utf8');
+        
+        // Atomic rename - this prevents corruption if process is killed mid-write
         fs.renameSync(tempPath, seenPath);
-
-        console.log(`✅ Updated seen_jobs.json: added ${jobs.length} new, ${Object.keys(finalEntries).length} total active`);
-
+        
+        console.log(`✅ Updated seen_jobs.json with ${jobs.length} new entries (total: ${seenJobsArray.length})`);
+        
     } catch (error) {
         console.error('❌ Error updating seen jobs store:', error.message);
-
+        
+        // Clean up temp file if it exists
         const tempPath = path.join(dataDir, 'seen_jobs.tmp.json');
         if (fs.existsSync(tempPath)) {
             try {
@@ -461,8 +485,8 @@ function updateSeenJobsStore(jobs, seenIds) {
                 console.error('⚠️ Could not clean up temp file:', cleanupError.message);
             }
         }
-
-        throw error;
+        
+        throw error; // Re-throw to stop execution
     }
 }
 
@@ -565,29 +589,14 @@ function savePendingQueue(queue) {
 /**
  * Enhanced cleanup: Remove posted jobs and deduplicate queue
  * @param {Array} queue - Pending posts queue
- * @param {Object} postedStore - { ids: Set, fingerprints: Set } of already posted jobs
+ * @param {Set} postedIds - Set of job IDs already posted to Discord
  * @returns {Array} Cleaned and deduplicated queue
  */
-function cleanupPostedFromQueue(queue, postedStore) {
+function cleanupPostedFromQueue(queue, postedIds) {
     const beforeCount = queue.length;
 
-    // Step 1: Remove jobs already posted to Discord (by ID OR fingerprint)
-    const notPosted = queue.filter(item => {
-        const jobId = item.job.id;
-        const fingerprint = generateJobFingerprint(item.job);
-
-        // Skip if job ID is already posted
-        if (postedStore.ids.has(jobId)) {
-            return false;
-        }
-
-        // Skip if fingerprint is already posted (catches title variations)
-        if (postedStore.fingerprints.has(fingerprint)) {
-            return false;
-        }
-
-        return true;
-    });
+    // Step 1: Remove jobs already posted to Discord
+    const notPosted = queue.filter(item => !postedIds.has(item.job.id));
     const removedPosted = beforeCount - notPosted.length;
 
     // Step 2: Deduplicate by job ID (keep first occurrence, FIFO)
@@ -615,102 +624,61 @@ function cleanupPostedFromQueue(queue, postedStore) {
 function loadSeenJobsStore() {
     const dataDir = path.join(process.cwd(), '.github', 'data');
     const seenPath = path.join(dataDir, 'seen_jobs.json');
-
+    
     try {
         if (!fs.existsSync(seenPath)) {
             console.log('ℹ️ No existing seen_jobs.json found - starting fresh');
-            return { seenIds: new Set(), seenFingerprints: new Set() };
+            return new Set();
         }
-
+        
         const fileContent = fs.readFileSync(seenPath, 'utf8');
         if (!fileContent.trim()) {
             console.log('⚠️ Empty seen_jobs.json file - starting fresh');
-            return { seenIds: new Set(), seenFingerprints: new Set() };
+            return new Set();
         }
-
-        const seenData = JSON.parse(fileContent);
-
-        // Handle both old format (array) and new format (object with timestamps)
-        let seenJobs;
-        if (Array.isArray(seenData)) {
-            // Legacy format: convert to new format (assume all are current)
-            console.log('⚠️ Converting legacy seen_jobs.json format to timestamped format');
-            seenJobs = {};
-            const now = new Date().toISOString();
-            seenData.forEach(id => {
-                if (typeof id === 'string' && id.trim().length > 0) {
-                    seenJobs[id] = now;
-                }
-            });
-        } else {
-            seenJobs = seenData;
+        
+        const seenJobs = JSON.parse(fileContent);
+        if (!Array.isArray(seenJobs)) {
+            console.log('⚠️ Invalid seen_jobs.json format - expected array, starting fresh');
+            return new Set();
         }
-
-        // Expire entries older than 7 days
-        const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
-        const validSeenJobs = {};
-        let expiredCount = 0;
-
-        Object.entries(seenJobs).forEach(([id, timestamp]) => {
-            const seenDate = new Date(timestamp).getTime();
-            if (seenDate >= sevenDaysAgo) {
-                validSeenJobs[id] = timestamp;
-            } else {
-                expiredCount++;
-            }
-        });
-
-        if (expiredCount > 0) {
-            console.log(`🧹 Expired ${expiredCount} old entries from seen_jobs.json (>7 days)`);
+        
+        // Filter out invalid entries (non-strings or empty strings)
+        const validSeenJobs = seenJobs.filter(id => typeof id === 'string' && id.trim().length > 0);
+        
+        if (validSeenJobs.length !== seenJobs.length) {
+            console.log(`⚠️ Filtered ${seenJobs.length - validSeenJobs.length} invalid entries from seen_jobs.json`);
         }
-
-        console.log(`✅ Loaded ${Object.keys(validSeenJobs).length} recently seen jobs`);
-
-        // Build fingerprint set from stored data (if available)
-        const seenIds = new Set();
-        const seenFingerprints = new Set();
-
-        Object.entries(validSeenJobs).forEach(([id, data]) => {
-            seenIds.add(id);
-
-            // Handle both old format (string timestamp) and new format (object with fingerprint)
-            if (typeof data === 'object' && data.fingerprint) {
-                seenFingerprints.add(data.fingerprint);
-            }
-            // Old format (string timestamp) - fingerprint will be empty, that's okay
-        });
-
-        console.log(`📌 Loaded ${seenIds.size} job IDs and ${seenFingerprints.size} fingerprints`);
-
+        
+        console.log(`✅ Loaded ${validSeenJobs.length} previously seen jobs`);
+        
         // Migration check: if all IDs are in old format, we need to regenerate them
         // Old format contains commas and multiple dashes, new format doesn't
-        const jobIds = Array.from(seenIds);
-        const hasOldFormatIds = jobIds.some(id => id.includes(',') || id.includes('---'));
-
-        if (hasOldFormatIds && jobIds.length > 0) {
+        const hasOldFormatIds = validSeenJobs.some(id => id.includes(',') || id.includes('---'));
+        
+        if (hasOldFormatIds && validSeenJobs.length > 0) {
             console.log('⚠️ Detected old job ID format - migrating to new standardized format');
-
+            
             // Migrate old IDs to new format to minimize re-posting
-            const migratedIds = new Set();
-            jobIds.forEach(oldId => {
-                const newId = (oldId.includes(',') || oldId.includes('---'))
-                    ? migrateOldJobId(oldId)
-                    : oldId;
-                migratedIds.add(newId);
+            const migratedIds = validSeenJobs.map(oldId => {
+                if (oldId.includes(',') || oldId.includes('---')) {
+                    return migrateOldJobId(oldId);
+                }
+                return oldId; // Already in new format
             });
-
-            console.log(`📝 Migrated ${jobIds.length} old IDs to ${migratedIds.size} new format IDs`);
-
-            return { seenIds: migratedIds, seenFingerprints };
+            
+            const uniqueMigratedIds = [...new Set(migratedIds)];
+            console.log(`📝 Migrated ${validSeenJobs.length} old IDs to ${uniqueMigratedIds.length} new format IDs`);
+            
+            return new Set(uniqueMigratedIds);
         }
-
-        // Return both Sets for deduplication
-        return { seenIds, seenFingerprints };
-
+        
+        return new Set(validSeenJobs);
+        
     } catch (error) {
         console.error('❌ Error loading seen_jobs.json:', error.message);
         console.log('ℹ️ Creating backup and starting fresh');
-
+        
         // Create backup of corrupted file
         try {
             const backupPath = path.join(dataDir, `seen_jobs_backup_${Date.now()}.json`);
@@ -719,8 +687,8 @@ function loadSeenJobsStore() {
         } catch (backupError) {
             console.error('⚠️ Could not create backup:', backupError.message);
         }
-
-        return { seenIds: new Set(), seenFingerprints: new Set() };
+        
+        return new Set();
     }
 }
 
@@ -732,54 +700,47 @@ function loadPostedJobsStore() {
     try {
         if (!fs.existsSync(postedPath)) {
             console.log('ℹ️ No existing posted_jobs.json found - starting fresh');
-            return { ids: new Set(), fingerprints: new Set() };
+            return new Set();
         }
 
         const fileContent = fs.readFileSync(postedPath, 'utf8');
         if (!fileContent.trim()) {
             console.log('⚠️ Empty posted_jobs.json file - starting fresh');
-            return { ids: new Set(), fingerprints: new Set() };
+            return new Set();
         }
 
         const postedData = JSON.parse(fileContent);
 
         // Handle V2 format (current): {version: 2, jobs: [...], lastUpdated: "...", metadata: {}}
         if (postedData.version === 2 && Array.isArray(postedData.jobs)) {
-            const ids = postedData.jobs
+            const validPostedJobs = postedData.jobs
                 .map(job => job.jobId || job.id)
                 .filter(id => typeof id === 'string' && id.trim().length > 0);
 
-            // Extract fingerprints for duplicate detection (handles title variations)
-            const fingerprints = postedData.jobs
-                .map(job => {
-                    if (job.job_fingerprint) return job.job_fingerprint;
-                    // Generate fingerprint on-the-fly for jobs without it
-                    if (job.title || job.job_title) {
-                        return generateJobFingerprint(job);
-                    }
-                    return null;
-                })
-                .filter(fp => fp && typeof fp === 'string' && fp.trim().length > 0);
-
-            console.log(`✅ Loaded ${ids.size} previously posted jobs (V2 format) with ${fingerprints.size} fingerprints for deduplication`);
-            return { ids: new Set(ids), fingerprints: new Set(fingerprints) };
+            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V2 format)`);
+            return new Set(validPostedJobs);
         }
 
         // Handle V1 format (backwards compatibility): [...]
         if (Array.isArray(postedData)) {
             const validPostedJobs = postedData.filter(id => typeof id === 'string' && id.trim().length > 0);
-            console.log(`⚠️ Converting legacy posted_jobs.json format (V1)`);
-            return { ids: new Set(validPostedJobs), fingerprints: new Set() };
+
+            if (validPostedJobs.length !== postedData.length) {
+                console.log(`⚠️ Filtered ${postedData.length - validPostedJobs.length} invalid entries from posted_jobs.json`);
+            }
+
+            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V1 format)`);
+            return new Set(validPostedJobs);
         }
 
         console.log('⚠️ Invalid posted_jobs.json format - starting fresh');
-        return { ids: new Set(), fingerprints: new Set() };
+        return new Set();
 
     } catch (error) {
         console.error('❌ Error loading posted_jobs.json:', error.message);
         console.log('ℹ️ Starting with empty posted jobs set');
 
-        return { ids: new Set(), fingerprints: new Set() };
+        return new Set();
     }
 }
 
@@ -794,17 +755,31 @@ async function processJobs() {
         // Load posted jobs for accurate deduplication
         // Use posted_jobs.json (what we've successfully posted to Discord)
         // instead of seen_jobs.json (what we've fetched from APIs)
-        const postedStore = loadPostedJobsStore(); // Returns { ids: Set, fingerprints: Set }
-        const { seenIds, seenFingerprints } = loadSeenJobsStore(); // Returns {seenIds: Set, seenFingerprints: Set}
+        const postedIds = loadPostedJobsStore();
+        const seenIds = loadSeenJobsStore(); // Keep for backwards compatibility
 
         // Load job dates store
         const jobDatesStore = loadJobDatesStore();
 
         // Fetch jobs from external data source
         const allJobs = await fetchAllJobs();
-        
+
+        // Filter to ONLY internships (Bug #4 fix - 2026-01-26)
+        // SimplifyJobs and other sources return ALL job levels, not just internships
+        const { filtered: internshipJobs, removed: nonInternshipJobs } = filterInternships(allJobs);
+
+        if (nonInternshipJobs.length > 0) {
+            console.log(`\n⚠️  Filtered out ${nonInternshipJobs.length} non-internship jobs:`);
+            nonInternshipJobs.forEach(job => {
+                console.log(`   ⏭️  [NOT INTERNSHIP] ${job.company} - ${job.title}`);
+            });
+            console.log('');
+        }
+
+        console.log(`✅ ${internshipJobs.length} internship jobs passed filter (${allJobs.length} total fetched)`);
+
         // Fill null dates and convert to relative format
-        const jobsWithDates = fillJobDates(allJobs, jobDatesStore);
+        const jobsWithDates = fillJobDates(internshipJobs, jobDatesStore);
         
         // Add unique IDs for deduplication using standardized generation
         jobsWithDates.forEach(job => {
@@ -854,49 +829,27 @@ async function processJobs() {
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
         let queue = loadPendingQueue();
-        queue = cleanupPostedFromQueue(queue, postedStore);
+        queue = cleanupPostedFromQueue(queue, postedIds);
 
-        // Create sets of job IDs and fingerprints already in queue to prevent duplicate additions
+        // Create set of job IDs already in queue to prevent duplicate additions
         const queueIds = new Set(queue.map(item => item.job.id));
-        const queueFingerprints = new Set(queue.map(item => generateJobFingerprint(item.job)));
 
         // STEP 2: Filter for truly NEW jobs (deduplication against BOTH seen_jobs.json AND queue)
         // This ensures we don't add the same job to queue multiple times
         // Log EVERY deduplication check for debugging
         const freshJobs = currentJobs.filter(job => {
-            // Layer 1: URL-based ID check (existing)
-            const isInSeenById = seenIds.has(job.id);
-            const isInQueueById = queueIds.has(job.id);
+            const isInSeen = seenIds.has(job.id);
+            const isInQueue = queueIds.has(job.id);
+            const isDuplicate = isInSeen || isInQueue;
 
-            // Layer 2: Content fingerprint check (NEW - catches duplicates with different IDs)
-            const jobFingerprint = generateJobFingerprint(job);
-            const isInSeenByFingerprint = seenFingerprints.has(jobFingerprint);
-            const isInQueueByFingerprint = queueFingerprints.has(jobFingerprint);
-
-            // Combined duplicate check
-            const isDuplicate = isInSeenById || isInQueueById ||
-                               isInSeenByFingerprint || isInQueueByFingerprint;
-
-            // Determine match method and reason for logging
-            const matchMethod = isInSeenById || isInQueueById ? 'id' :
-                               isInSeenByFingerprint || isInQueueByFingerprint ? 'fingerprint' : null;
-            const reason = (isInSeenById || isInSeenByFingerprint) ? 'seen_jobs' :
-                          (isInQueueById || isInQueueByFingerprint) ? 'pending_queue' : null;
-
-            // Log this check with enhanced metadata
-            dedupLogger.logCheck(job, job.id, isDuplicate, null, reason, matchMethod, jobFingerprint);
+            // Log this check
+            const reason = isInSeen ? 'seen_jobs' : (isInQueue ? 'pending_queue' : null);
+            dedupLogger.logCheck(job, job.id, isDuplicate, null, reason);
 
             return !isDuplicate;
         });
 
-        console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 1 week old), ${freshJobs.length} new (not seen AND not in queue)`);
-
-        // Archive ALL current jobs for analytics (separate from deduplication)
-        try {
-            archiveJobs(currentJobs);
-        } catch (archiveError) {
-            console.error('⚠️ Analytics archive failed (non-critical):', archiveError.message);
-        }
+        console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 14 days old), ${freshJobs.length} new (not seen AND not in queue)`);
 
         // STEP 3: Mark ALL new jobs as seen immediately (fixes Edge Case 1)
         // This prevents re-fetching them in next run, even if we don't process them all this run
@@ -923,7 +876,7 @@ async function processJobs() {
         }
 
         // STEP 5: Select batch from queue (FIFO - oldest first)
-        const BATCH_SIZE = 50; // Process max 50 jobs per run (increased from 20 to handle higher throughput)
+        const BATCH_SIZE = 20; // Process max 20 jobs per run (increased from 10 - queue bloat fixed)
         const pendingItems = queue.filter(item => item.status === 'pending' || item.status === 'enriched');
         const batch = pendingItems.slice(0, BATCH_SIZE);
 
@@ -1019,14 +972,6 @@ async function processJobs() {
 
             fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2), 'utf8');
             console.log(`📊 Job fetch summary saved: ${summaryPath}`);
-
-            // Collect pipeline metrics
-            const { collectPipelineMetrics } = require('../src/monitoring/metrics-collector');
-            collectPipelineMetrics({
-                current_jobs: summary.current_jobs,
-                fresh_jobs: summary.fresh_jobs,
-                duplicate_jobs: summary.duplicates_filtered
-            });
         } catch (error) {
             console.error('⚠️ Error saving job fetch summary:', error.message);
         }
