@@ -96,3 +96,4 @@ G/
 # Prevent internal analysis documents from being committed
 *ANALYSIS*.md
 *ARCHITECTURE*.md
+images/
