@@ -111,7 +111,7 @@ async function searchJSearchInternships() {
         const url = new URL(JSEARCH_BASE_URL);
         url.searchParams.append('query', `${query} United States`);
         url.searchParams.append('page', '1');
-        url.searchParams.append('num_pages', '1');
+        url.searchParams.append('num_pages', '10');  // Max pages for ~100 jobs per request
         url.searchParams.append('date_posted', 'month');
         url.searchParams.append('employment_types', 'FULLTIME,INTERN');
         url.searchParams.append('job_requirements', 'no_experience,under_3_years_experience');
