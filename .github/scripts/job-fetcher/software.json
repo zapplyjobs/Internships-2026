@@ -1,51 +1,51 @@
 {
   "faang_plus": {
-    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple"],
+    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple", "TikTok", "The Walt Disney Company"],
     "emoji": "⭐",
     "title": "FAANG+"
   },
   "top_tech": {
-    "companies": ["Marvel Technology", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce", "IBM"],
+    "companies": ["Marvel Technology", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce", "IBM", "Samsung", "SK hynix", "Sandisk", "KLA", "Cadence Design Systems", "Keysight Technologies", "Marvell", "SAS"],
     "emoji": "🏢",
     "title": "Top Tech"
   },
   "enterprise": {
-    "companies": ["Cisco", "Hewlett Packard Enterprise", "Dell", "Broadcom", "Verizon", "Workday"],
+    "companies": ["Cisco", "Hewlett Packard Enterprise", "Dell", "Broadcom", "Verizon", "Workday", "Nokia", "Visa", "Fidelity Investments", "JPMorgan Chase", "Bank of Montreal", "Jones Lang LaSalle (JLL)", "AECOM", "PMG", "Clayton"],
     "emoji": "💻",
     "title": "Enterprise Software"
   },
   "startups": {
-    "companies": ["BAE Systems", "Guidehouse", "General Dynamics"],
+    "companies": ["BAE Systems", "Guidehouse", "General Dynamics", "Alo Yoga", "Field AI", "Airspace Intelligence", "Oura", "Yes Energy", "Kairos Power"],
     "emoji": "🚀",
     "title": "Startups & Growth"
   },
   "consumer": {
-    "companies": ["RIVIAN"],
+    "companies": ["RIVIAN", "T-Mobile", "General Motors", "Nissan Global"],
     "emoji": "🛒",
     "title": "Consumer & E-Commerce"
   },
   "fintech": {
-    "companies": ["JPMorgan Chase"],
+    "companies": ["Visa", "Fidelity Investments", "JPMorgan Chase", "The Federal Reserve System"],
     "emoji": "💰",
     "title": "Financial & Fintech"
   },
   "defense": {
-    "companies": ["Waymo"],
+    "companies": ["Waymo", "RTX", "Booz Allen", "CACI", "General Dynamics Mission Systems", "Expedition Technology", "The Boeing Company", "Paccar"],
     "emoji": "🛡️",
     "title": "Defense & Aerospace"
   },
   "healthcare": {
-    "companies": ["Illumina", "10x Genomics"],
+    "companies": ["Illumina", "10x Genomics", "Genentech", "Roche", "Kaiser Permanente"],
     "emoji": "🏥",
     "title": "Healthcare & Life Sciences"
   },
   "manufacturing": {
-    "companies": ["Applied Materials", "Arm", "Micron Technology", "ABB", "Infineon Technologies", "Texas Instruments", "Siemens", "Analog Devices", "Honeywell", "Magna International"],
+    "companies": ["Applied Materials", "Arm", "Micron Technology", "ABB", "Infineon Technologies", "Texas Instruments", "Siemens", "Analog Devices", "Honeywell", "Magna International", "Jabil", "Robert Bosch Venture Capital", "CAE", "RSM", "Tri-State Generation and Transmission Association", "Clearway Energy", "PennState University"],
     "emoji": "🏭",
     "title": "Manufacturing & Industrial"
   },
   "analytics": {
-    "companies": [],
+    "companies": ["SAS"],
     "emoji": "📊",
     "title": "Analytics & EdTech"
   }
