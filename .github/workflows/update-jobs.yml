@@ -60,8 +60,8 @@ jobs:
       run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
-        # JSearch API integration (optional, disabled by default)
-        ENABLE_JSEARCH: ${{ secrets.ENABLE_JSEARCH || 'false' }}
+        # JSearch API integration (enabled for Internships)
+        ENABLE_JSEARCH: ${{ secrets.ENABLE_JSEARCH || 'true' }}
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY || 'YOUR_KEY_HERE' }}
         # Database retention window (14 days to catch slow-updating sources)
         ACTIVE_WINDOW_DAYS: 14
