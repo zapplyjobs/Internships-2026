@@ -195,7 +195,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1566 roles
-- **🏢 Companies**: 226 companies  
+- **🏢 Companies**: 224 companies  
 - **⭐ FAANG+ Opportunities**: 77 positions
 
 ### ⭐ **FAANG+** (75 positions)
