@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-01T00:22:29.517Z",
+  "lastUpdated": "2026-02-01T01:03:25.607Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -8568,14 +8568,41 @@
       "job_city": "Menlo Park",
       "job_state": "California",
       "job_description": "<p>Robinhood is on a mission to democratize finance for all and is seeking talented Android Engineers to join their team. The role involves collaborating with the design team, contributing to new features, and shaping the future of the Android platform.</p><br><p>Responsibilities</p><ul><li>Collaborate with our award-winning design team throughout the full product lifecycle</li><li>Contribute to new features and play a role in building products that will change how America views finance</li><li>Help shape the future of our Android platform</li><li>Explore and build innovative Android UI/UX</li></ul><br><p>Skills</p><ul><li>Currently enrolled in a full-time, degree-seeking program with an expected graduation date in Winter 2026/Spring 2027</li><li>A solid foundation in software engineering</li><li>An interest in front-end work, specifically visually driven product design and shaping user experience</li><li>Familiarity with Android components and experience building or contributing to at least one Android app</li><li>Experience building, maintaining, or contributing to open-source projects</li><li>Familiarity with Kotlin, RxJava 2, Dagger 2, and other libraries in our tech stack</li><li>A self-starter mentality and a proactive approach</li></ul><br><p>Benefits</p><ul><li>Market competitive compensation structure</li><li>Quarterly lifestyle wallet for personal wellness, learning and development, and more!</li><li>Time away including company holidays, paid time off, and sick time!</li><li>Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits</li></ul><br><p>Company Overview</p><li>Robinhood is a stock brokerage that allows customers to buy and sell stocks, options, ETFs, and cryptocurrencies with zero commission. It was founded in 2013, and is headquartered in Menlo Park, California, USA, with a workforce of 1001-5000 employees. Its website is https://www.robinhood.com.</li><br>"
+    },
+    {
+      "id": "b4b3e7d4c06dbd57-2026-02-01-1",
+      "jobId": "b4b3e7d4c06dbd57",
+      "company": "SAS",
+      "title": "Summer 2026 - Full Stack Software Developer Intern (Health and Life Science)",
+      "postedToDiscord": "2026-02-01T01:03:19.292Z",
+      "sourceDate": "2026-01-29T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/697ac8e88dbbf73badc8182b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467324402269163681",
+          "channelType": "category",
+          "postedAt": "2026-02-01T01:03:19.292Z",
+          "channelJobNumber": 73
+        },
+        "1464304182923362324": {
+          "messageId": "1467324409919569962",
+          "channelType": "location",
+          "postedAt": "2026-02-01T01:03:21.066Z",
+          "channelJobNumber": 99
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Burnsville",
+      "job_state": "North Carolina",
+      "job_description": "<p>SAS is a leader in data and AI, inspiring customers worldwide to transform data into intelligence. They are seeking a Full Stack Software Developer Intern to join their Health and Life Science team, responsible for developing advanced analytics products and solutions that impact clinical research and patient outcomes.</p><br><p>Responsibilities</p><ul><li>Developing Generative AI applications using Python, Docker, Kubernetes, and Agentic AI frameworks</li><li>Building full-stack solutions, including React-based user interfaces and backend APIs developed in Golang or Java</li><li>Writing complex SQL and working closely with cross-functional SAS teams to deliver multi-team, enterprise-scale projects</li><li>Continuously learning and adopting the latest technological advancements, and applying those insights to enhance day-to-day development work</li></ul><br><p>Skills</p><ul><li>Degree Type: Bachelor</li><li>Targeted majors: Computer Science OR Artificial Intelligence</li><li>You're a college student enrolled in an accredited program, not graduating prior to December 2026</li><li>Full Stack Development, Generative AI – RAG, and Machine Learning skills</li><li>Python, React, Docker, Java, SQL, PLSQL, Agentic AI Development using Azure/Google agentic development frameworks</li><li>You're curious, passionate, authentic, and accountable. These are our values and influence everything we do</li><li>Strong communication skills – both written and verbal</li><li>Leadership abilities. Your past experiences demonstrate you'll take initiative and go above and beyond the call of duty</li><li>You're interested in the future of Analytics and embrace technology</li><li>GO, Java, React, Python</li><li>Demonstrates strong communication, excels in collaborating across multiple teams, and consistently shows a proactive, go-getter mindset</li></ul><br><p>Benefits</p><ul><li>Free SAS programming training and certification.</li><li>Flexible work is the norm.</li><li>Hackathons, social events and other opportunities to connect + engage.</li><li>Programs that reduce stress and distractions to help you stay healthy and productive.</li><li>An on-site and remote Work/Life Center staffed by master’s level social workers and an Employee Assistance Program.</li></ul><br><p>Company Overview</p><li>SAS provides advanced business analytics and business intelligent software and services to enable companies to optimize their operations. It was founded in 1976, and is headquartered in Cary, North Carolina, USA, with a workforce of 10001+ employees. Its website is http://www.sas.com.</li><br>"
     }
   ],
   "metadata": {
-    "totalJobs": 448,
+    "totalJobs": 449,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-01T00:22:29.517Z",
+      "date": "2026-02-01T01:03:25.607Z",
       "archived": 0
     }
   }
