@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/6932610ba0dde7020e2e6511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>Annapurna Labs, a part of Amazon Web Services (AWS), is at the forefront of AI innovation, designing custom silicon and software systems that power advanced AI infrastructure. They are seeking interns for their 2026 program to work on impactful projects in ML systems, silicon innovation, and infrastructure development.</p><br><p>Responsibilities</p><ul><li>Work on projects that directly impact millions of AWS customers worldwide, tackling real technical challenges that push the boundaries of what's possible in AI acceleration</li><li>Architect next-generation AI chips that process billions of parameters</li><li>Build distributed systems that scale across thousands of accelerators</li><li>Create compiler optimizations that make ML training blazingly fast</li><li>Participate in daily team stand-ups to share updates on your project</li><li>Collaborate with your mentor to debug issues and brainstorm solutions</li><li>Contribute to systems that will impact millions of AWS customers</li></ul><br><p>Skills</p><ul><li>Work 40 hours/week minimum and commit to 12 week internship maximum</li><li>Currently pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or related technical field</li><li>Must be enrolled in a full-time degree program at time of application and returning to school after the internship</li><li>Programming experience in C, C++, Python, or similar languages</li><li>Experience in two or more of the following areas: 1. Systems programming or low-level software development 2. Compiler design or optimization 3. Machine learning frameworks (PyTorch, JAX, TensorFlow) 4. Distributed systems or parallel computing 5. Performance analysis and optimization 6. Hardware design (RTL, Verilog, FPGA development)</li><li>Previous internship, research, or project experience in hardware/software co-design, ML systems, or computer architecture</li><li>Contributions to open-source projects or research publications</li><li>Completed or currently enrolled in coursework covering machine learning, parallel computing, computer architecture and/or compiler construction</li></ul><br><p>Benefits</p><ul><li>EAP</li><li>Mental Health Support</li><li>Medical Advice Line</li><li>401(k) matching</li></ul><br><p>Company Overview</p><li>Launched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. It was founded in 2002, and is headquartered in Seattle, Washington, USA, with a workforce of 10001+ employees. Its website is http://aws.amazon.com.</li><br><p>Company H1B Sponsorship</p><li>Amazon Web Services (AWS) has a track record of offering H1B sponsorships, with 22803 in 2025, 21175 in 2024, 19057 in 2023, 24088 in 2022, 12233 in 2021, 14881 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/6932610ba0dde7020e2e6511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-01T04:11:36.354Z"
+    }
+  },
+  "cachedAt": 1769919096354
+}

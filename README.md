@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-21-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-11-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-19-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 11+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 21+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 9+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 19+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -60,7 +60,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-### ⭐ **FAANG+** (6 positions)
+### ⭐ **FAANG+** (5 positions)
 
 #### 🟦 **Microsoft** (5 positions)
 
@@ -69,22 +69,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Software Engineer: Co-Op Intern Opportunities | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556746673) | 1d |
 | Research Intern - Applied Sciences Group | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748770) | 3d |
 | Research Intern - Firmware Security | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748757) | 3d |
-| Research Intern - AI Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 4d |
-| Research Intern - AI Inference Software & Systems | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748209) | 4d |
+| Research Intern - AI Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 5d |
+| Research Intern - AI Inference Software & Systems | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748209) | 5d |
 
-#### 🔵 **Meta** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Intern - Research Scientist, AI Research in Speech & Audio (PhD) | New York, New York | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=562a48b28442&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-### 🏢 **Top Tech** (4 positions)
+### 🏢 **Top Tech** (3 positions)
 
 #### 🎮 **NVIDIA** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Technical Program Management Intern - Deep Learning Software - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564) | 4d |
+| Technical Program Management Intern - Deep Learning Software - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Management-Intern--Deep-Learning-Software---Summer-2026_JR2009564) | 5d |
 
 #### 🔷 **Intel** (2 positions)
 
@@ -92,12 +86,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |------|----------|-------|-----------|-----|
 | Data Platform Engineer Intern | Folsom, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Data-Platforms-Engineering-Intern_JR0279842) | 1d |
 | DARC Data and Reporting Student/Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/DARC-Data-and-Reporting-Student-Intern_JR0280027) | 1d |
-
-#### 🔶 **AMD** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| 2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern | Longmont, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=af8e5e181958&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 ### 💻 **Enterprise Software** (4 positions)
 
@@ -136,7 +124,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern ETD Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259) | 4d |
+| Intern ETD Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259) | 5d |
 | Intern – IT MFG | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122) | 1w |
 | Intern – Smart Manufacturing and AI Data Science | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing-and-AI-Data-Science_JR88885) | 1w |
 
@@ -207,7 +195,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1566 roles
-- **🏢 Companies**: 240 companies  
+- **🏢 Companies**: 226 companies  
 - **⭐ FAANG+ Opportunities**: 77 positions
 
 ### ⭐ **FAANG+** (75 positions)
@@ -482,7 +470,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 21 current opportunities from 11 top companies.**
+**🎯 19 current opportunities from 9 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

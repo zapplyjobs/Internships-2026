@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/6933985df131d96e48464b9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>Simons Foundation is seeking an intern for their Scientific Computing Core to provide continuous benchmarking of cluster resources. The role involves creating automated tests, managing NoSQL databases, and detecting performance issues in high performance computing environments.</p><br><p>Responsibilities</p><ul><li>Create scripts that will run automated tests based on the existing benchmarks</li><li>Upload the results to the existing NoSQL database interface</li><li>Write code on the server-side to detect out-of-distribution results and send alerts to the clusters administrators</li><li>Perform any other duties or tasks as assigned or required</li></ul><br><p>Skills</p><ul><li>Currently enrolled B.S. or M.S. in computer science, engineering or related technical discipline</li><li>Experience with Unix (Linux or equivalent)</li><li>Experience with scripting languages like Python</li><li>Databases: NoSQL</li><li>Must enjoy working in a vigorous research-driven environment</li><li>Desire to document code and process, deliberative decision-making</li><li>Strong oral and written communication</li><li>Excellent collaborative and interpersonal skills</li><li>Resume or CV</li><li>Cover letter indicating your interest in the position</li></ul><br><p>Benefits</p><ul><li>Applicable travel assistance to New York City</li><li>A supported temporary housing option while in New York City</li></ul><br><p>Company Overview</p><li>Simons Foundation is a private foundation funding research in mathematics and the basic sciences. It was founded in 1994, and is headquartered in New York, New York, USA, with a workforce of 201-500 employees. Its website is https://www.simonsfoundation.org.</li><br><p>Company H1B Sponsorship</p><li>Simons Foundation has a track record of offering H1B sponsorships, with 38 in 2025, 30 in 2024, 34 in 2023, 27 in 2022, 16 in 2021, 18 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/6933985df131d96e48464b9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-01T04:11:37.758Z"
+    }
+  },
+  "cachedAt": 1769919097758
+}
