@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-01T03:05:55.201Z",
+  "lastUpdated": "2026-02-01T04:12:26.123Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -9021,14 +9021,251 @@
       "job_city": "New York",
       "job_state": "New York",
       "job_description": "Apply for Intern - Research Scientist, AI Research in Speech & Audio (PhD) in New York. META is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "56299911f4887cdf-2026-02-01-1",
+      "jobId": "56299911f4887cdf",
+      "company": "VirtualVocations",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-02-01T04:11:47.964Z",
+      "sourceDate": "2026-01-30T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=39dd1c1cfdbe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303266866135232": {
+          "messageId": "1467371834474369187",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:11:47.964Z",
+          "channelJobNumber": 48
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Omaha",
+      "job_state": "Nebraska",
+      "job_description": "Apply for Data Science Intern in Omaha. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "4ebe3253a14649ef-2026-02-01-1",
+      "jobId": "4ebe3253a14649ef",
+      "company": "FRONTIER TECHNOLOGY INC",
+      "title": "AI / ML Engineering Internship",
+      "postedToDiscord": "2026-02-01T04:11:52.801Z",
+      "sourceDate": "2026-01-23T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=bd6ea2785954&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467371854866939954",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:11:52.801Z",
+          "channelJobNumber": 103
+        },
+        "1464304182923362324": {
+          "messageId": "1467371862588915825",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:11:54.578Z",
+          "channelJobNumber": 108
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Golden",
+      "job_state": "Colorado",
+      "job_description": "Apply for AI/ML Engineering Internship (internship) in Golden. FRONTIER TECHNOLOGY INC is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "861721ef503296d1-2026-02-01-1",
+      "jobId": "861721ef503296d1",
+      "company": "The Pennsylvania State University",
+      "title": "AI / ML Research and Development Intern",
+      "postedToDiscord": "2026-02-01T04:11:56.282Z",
+      "sourceDate": "2026-01-21T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=3c1e4bac4268&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467371869689876533",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:11:56.282Z",
+          "channelJobNumber": 104
+        },
+        "1464304182923362324": {
+          "messageId": "1467371876903944304",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:11:57.989Z",
+          "channelJobNumber": 109
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "State College",
+      "job_state": "Pennsylvania",
+      "job_description": "Apply for AI/ML Research and Development Intern (parttime) in State College. The Pennsylvania State University is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "8c278cafb838fcaa-2026-02-01-1",
+      "jobId": "8c278cafb838fcaa",
+      "company": "VirtualVocations",
+      "title": "AI Video Content Creator Intern",
+      "postedToDiscord": "2026-02-01T04:11:59.668Z",
+      "sourceDate": "2026-01-27T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=925cb35ce027&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467371883975544996",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:11:59.668Z",
+          "channelJobNumber": 105
+        },
+        "1464304146072207390": {
+          "messageId": "1467371891156058224",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:12:01.414Z",
+          "channelJobNumber": 17
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Tacoma",
+      "job_state": "Washington",
+      "job_description": "Apply for AI Video Content Creator Intern in Tacoma. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "9efad1b6e236c9b6-2026-02-01-1",
+      "jobId": "9efad1b6e236c9b6",
+      "company": "Amazon Web Services (AWS)",
+      "title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+      "postedToDiscord": "2026-02-01T04:12:06.172Z",
+      "sourceDate": "2026-01-17T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/6932610ba0dde7020e2e6511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467371910978601154",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:12:06.172Z",
+          "channelJobNumber": 80
+        },
+        "1464304146072207390": {
+          "messageId": "1467371918024773789",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:12:07.840Z",
+          "channelJobNumber": 18
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Seattle",
+      "job_state": "Washington",
+      "job_description": "<p>Annapurna Labs, a part of Amazon Web Services (AWS), is at the forefront of AI innovation, designing custom silicon and software systems that power advanced AI infrastructure. They are seeking interns for their 2026 program to work on impactful projects in ML systems, silicon innovation, and infrastructure development.</p><br><p>Responsibilities</p><ul><li>Work on projects that directly impact millions of AWS customers worldwide, tackling real technical challenges that push the boundaries of what's possible in AI acceleration</li><li>Architect next-generation AI chips that process billions of parameters</li><li>Build distributed systems that scale across thousands of accelerators</li><li>Create compiler optimizations that make ML training blazingly fast</li><li>Participate in daily team stand-ups to share updates on your project</li><li>Collaborate with your mentor to debug issues and brainstorm solutions</li><li>Contribute to systems that will impact millions of AWS customers</li></ul><br><p>Skills</p><ul><li>Work 40 hours/week minimum and commit to 12 week internship maximum</li><li>Currently pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or related technical field</li><li>Must be enrolled in a full-time degree program at time of application and returning to school after the internship</li><li>Programming experience in C, C++, Python, or similar languages</li><li>Experience in two or more of the following areas: 1. Systems programming or low-level software development 2. Compiler design or optimization 3. Machine learning frameworks (PyTorch, JAX, TensorFlow) 4. Distributed systems or parallel computing 5. Performance analysis and optimization 6. Hardware design (RTL, Verilog, FPGA development)</li><li>Previous internship, research, or project experience in hardware/software co-design, ML systems, or computer architecture</li><li>Contributions to open-source projects or research publications</li><li>Completed or currently enrolled in coursework covering machine learning, parallel computing, computer architecture and/or compiler construction</li></ul><br><p>Benefits</p><ul><li>EAP</li><li>Mental Health Support</li><li>Medical Advice Line</li><li>401(k) matching</li></ul><br><p>Company Overview</p><li>Launched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. It was founded in 2002, and is headquartered in Seattle, Washington, USA, with a workforce of 10001+ employees. Its website is http://aws.amazon.com.</li><br><p>Company H1B Sponsorship</p><li>Amazon Web Services (AWS) has a track record of offering H1B sponsorships, with 22803 in 2025, 21175 in 2024, 19057 in 2023, 24088 in 2022, 12233 in 2021, 14881 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "e9b8b30ee48bb467-2026-02-01-1",
+      "jobId": "e9b8b30ee48bb467",
+      "company": "Simons Foundation",
+      "title": "Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)",
+      "postedToDiscord": "2026-02-01T04:12:09.590Z",
+      "sourceDate": "2026-01-17T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/6933985df131d96e48464b9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467371925386035385",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:12:09.590Z",
+          "channelJobNumber": 81
+        },
+        "1464303539101634634": {
+          "messageId": "1467371932596047893",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:12:11.273Z",
+          "channelJobNumber": 18
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_description": "<p>Simons Foundation is seeking an intern for their Scientific Computing Core to provide continuous benchmarking of cluster resources. The role involves creating automated tests, managing NoSQL databases, and detecting performance issues in high performance computing environments.</p><br><p>Responsibilities</p><ul><li>Create scripts that will run automated tests based on the existing benchmarks</li><li>Upload the results to the existing NoSQL database interface</li><li>Write code on the server-side to detect out-of-distribution results and send alerts to the clusters administrators</li><li>Perform any other duties or tasks as assigned or required</li></ul><br><p>Skills</p><ul><li>Currently enrolled B.S. or M.S. in computer science, engineering or related technical discipline</li><li>Experience with Unix (Linux or equivalent)</li><li>Experience with scripting languages like Python</li><li>Databases: NoSQL</li><li>Must enjoy working in a vigorous research-driven environment</li><li>Desire to document code and process, deliberative decision-making</li><li>Strong oral and written communication</li><li>Excellent collaborative and interpersonal skills</li><li>Resume or CV</li><li>Cover letter indicating your interest in the position</li></ul><br><p>Benefits</p><ul><li>Applicable travel assistance to New York City</li><li>A supported temporary housing option while in New York City</li></ul><br><p>Company Overview</p><li>Simons Foundation is a private foundation funding research in mathematics and the basic sciences. It was founded in 1994, and is headquartered in New York, New York, USA, with a workforce of 201-500 employees. Its website is https://www.simonsfoundation.org.</li><br><p>Company H1B Sponsorship</p><li>Simons Foundation has a track record of offering H1B sponsorships, with 38 in 2025, 30 in 2024, 34 in 2023, 27 in 2022, 16 in 2021, 18 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "f3bca55f570927ea-2026-02-01-1",
+      "jobId": "f3bca55f570927ea",
+      "company": "Baylor College of Medicine",
+      "title": "Intern / Aide - Machine Learning (Part-time)",
+      "postedToDiscord": "2026-02-01T04:12:12.968Z",
+      "sourceDate": "2026-01-27T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=b18bcac46f42&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467371939386359900",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:12:12.968Z",
+          "channelJobNumber": 82
+        },
+        "1464304182923362324": {
+          "messageId": "1467371946810408991",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:12:14.667Z",
+          "channelJobNumber": 110
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Houston",
+      "job_state": "Texas",
+      "job_description": "Apply for Intern/Aide - Machine Learning (Part-time) (parttime) in Houston. Baylor College of Medicine is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "f2ed25e3cc264c39-2026-02-01-1",
+      "jobId": "f2ed25e3cc264c39",
+      "company": "AMD",
+      "title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern",
+      "postedToDiscord": "2026-02-01T04:12:16.413Z",
+      "sourceDate": "2026-01-09T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=af8e5e181958&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467371953990930473",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:12:16.413Z",
+          "channelJobNumber": 83
+        },
+        "1464304182923362324": {
+          "messageId": "1467371961238687846",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:12:18.090Z",
+          "channelJobNumber": 111
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Longmont",
+      "job_state": "Colorado",
+      "job_description": "Apply for 2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op/Intern in Longmont. AMD is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "98b7ae2529b342a1-2026-02-01-1",
+      "jobId": "98b7ae2529b342a1",
+      "company": "Familiar Machines & Magic",
+      "title": "Artificial Intelligence Intern - Perception for Robotics",
+      "postedToDiscord": "2026-02-01T04:12:19.849Z",
+      "sourceDate": "2026-01-15T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/6967f578639b452fb57d82dd?utm_source=1014&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1467371968117608481",
+          "channelType": "category",
+          "postedAt": "2026-02-01T04:12:19.849Z",
+          "channelJobNumber": 84
+        },
+        "1464304182923362324": {
+          "messageId": "1467371975625281791",
+          "channelType": "location",
+          "postedAt": "2026-02-01T04:12:21.585Z",
+          "channelJobNumber": 112
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Woburn",
+      "job_state": "Massachusetts",
+      "job_description": "Artificial Intelligence Intern - Perception for Robotics jobs in United StatesOverviewCompanyThis job has closed.APPLY to similar jobsFamiliar Machines & Magic · 2 weeks agoArtificial Intelligence Intern - Perception for RoboticsWoburn, MAInternshipOnsiteInternFamiliar Machines and Magic, Inc. is a Massachusetts-based company focused on using robotics and AI to create artificial life. They are seeking a highly motivated AI Intern to develop and implement perception models that run reliably on robots, contributing directly to their product and research direction.Information Technology & ServicesH1B Sponsor LikelyResponsibilitiesBuild and deploy multimodal perception systems using deep learning and traditional computer vision / signal processing methodsTrain and evaluate models on real datasets and support integration onto robot hardwareImprove model performance, robustness, and runtime efficiencyIterate quickly with strong engineering practices (clean code, reproducible experiments)Work closely with roboticists, software engineers, and designers to turn cutting-edge research into a robust, production-ready perception pipelineQualificationDeep LearningPythonC++Perception ModelsRoboticsCommunicatorCollaborative TeammateCuriousProactiveHands-on MindsetRequiredCurrently pursuing a Master's or Ph.D. in Robotics, Computer Science, Machine Learning, or a related technical fieldAuthorized to work in the US (citizen or already has visa/work authorization)Able to start ASAP (by February)Prior experience developing perception models (e.g., implemented/applied on a robot and/or real dataset)Strong deep learning backgroundStrong programming skills in Python and C++Hands-on mindset: you enjoy building, debugging, and making things work end-to-endComfortable with rapid iteration in a fast-paced environmentPreferredPrior experience in HRI, robotics, or embodied AIPrior research experience, with publications or submissions in top venues (e.g., ICML, NeurIPS, ICRA, IROS, HRI, RSS, CVPR, CHI)Familiarity with low-resource / compute-constrained systemsFamiliarity with VLMs and LLMsCompanyFamiliar Machines & MagicFamiliar Machines & Magic is creating artificial life to build a more caring world.Boston, Massachusetts, US11-50 employeeshttps://www.familiarmachines.com/H1B SponsorshipFamiliar Machines & Magic has a track record of offering H1B sponsorships. Please note that this does not guarantee sponsorship for this specific role. Below presents additional info for your reference. (Data Powered by US Department of Labor)Distribution of Different Job Fields Receiving SponsorshipRepresents job field similar to this jobTrends of Total Sponsorships2025 (1)FundingCurrent StageEarly StageCompany data provided by crunchbaseBoost Your Interview ChancesImprove Resume Match ScoreFREE?Your ScoreTop ApplicantsMust-Have Skills for This RoleDeep LearningPythonC++Perception ModelsRoboticsOptimize my ResumeGet Referral Via linkedIn FREE3× Higher Response via Email OutreachLLinda L.Technical RecruiterDraft Message to ConnectApply Faster with Autofill PluginFREEApply With Autofill"
     }
   ],
   "metadata": {
-    "totalJobs": 465,
+    "totalJobs": 474,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-01T03:05:55.201Z",
+      "date": "2026-02-01T04:12:26.123Z",
       "archived": 0
     }
   }

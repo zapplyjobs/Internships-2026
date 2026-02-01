@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-01T03:05:57.391Z",
+  "generated": "2026-02-01T04:12:28.311Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T03:05:57.391Z",
-  "period_end": "2026-02-01T03:05:57.391Z",
+  "period_start": "2026-01-25T04:12:28.311Z",
+  "period_end": "2026-02-01T04:12:28.311Z",
   "summary": {
     "total_jobs_posted": 17,
     "unique_jobs": 9,
@@ -10,152 +10,21 @@
     "unique_multi_channel_jobs": 8,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 7
+    "channels_active": 6
   },
   "by_channel": {
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 2,
-      "jobs": [
-        "virtualvocations-data-science-intern-dayton",
-        "amazon-com-amazon-data-science-internship-paid-seattle"
-      ],
-      "recent_jobs": [
-        {
-          "id": "virtualvocations-data-science-intern-dayton",
-          "title": "Data Science Intern",
-          "company": "VirtualVocations",
-          "posted_at": "2026-02-01T03:05:15.106Z"
-        },
-        {
-          "id": "amazon-com-amazon-data-science-internship-paid-seattle",
-          "title": "Amazon Data Science Internship-PAID",
-          "company": "Amazon.com, Inc.",
-          "posted_at": "2026-02-01T03:05:18.611Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 3,
-      "jobs": [
-        "virtualvocations-data-science-intern-dayton",
-        "nokia-automation-ai-ml-intern-dallas",
-        "virtualvocations-data-analytics-intern-peoria"
-      ],
-      "recent_jobs": [
-        {
-          "id": "virtualvocations-data-science-intern-dayton",
-          "title": "Data Science Intern",
-          "company": "VirtualVocations",
-          "posted_at": "2026-02-01T03:05:16.863Z"
-        },
-        {
-          "id": "nokia-automation-ai-ml-intern-dallas",
-          "title": "Automation - AI/ML Intern",
-          "company": "Nokia",
-          "posted_at": "2026-02-01T03:05:38.633Z"
-        },
-        {
-          "id": "virtualvocations-data-analytics-intern-peoria",
-          "title": "Data Analytics Intern",
-          "company": "VirtualVocations",
-          "posted_at": "2026-02-01T03:05:46.950Z"
-        }
-      ]
-    },
-    "🌲・pacific-northwest-internships": {
-      "channel_id": "1464304146072207390",
       "count": 1,
       "jobs": [
-        "amazon-com-amazon-data-science-internship-paid-seattle"
+        "virtualvocations-data-science-intern-omaha"
       ],
       "recent_jobs": [
         {
-          "id": "amazon-com-amazon-data-science-internship-paid-seattle",
-          "title": "Amazon Data Science Internship-PAID",
-          "company": "Amazon.com, Inc.",
-          "posted_at": "2026-02-01T03:05:20.368Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 4,
-      "jobs": [
-        "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
-        "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
-        "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
-        "nokia-automation-ai-ml-intern-dallas"
-      ],
-      "recent_jobs": [
-        {
-          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
-          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
-          "company": "IBM",
-          "posted_at": "2026-02-01T03:05:25.150Z"
-        },
-        {
-          "id": "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
-          "title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
-          "company": "California Life Company",
-          "posted_at": "2026-02-01T03:05:28.753Z"
-        },
-        {
-          "id": "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
-          "title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
-          "company": "General Motors",
-          "posted_at": "2026-02-01T03:05:32.353Z"
-        },
-        {
-          "id": "nokia-automation-ai-ml-intern-dallas",
-          "title": "Automation - AI/ML Intern",
-          "company": "Nokia",
-          "posted_at": "2026-02-01T03:05:35.781Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 2,
-      "jobs": [
-        "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
-        "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york"
-      ],
-      "recent_jobs": [
-        {
-          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
-          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
-          "company": "IBM",
-          "posted_at": "2026-02-01T03:05:26.933Z"
-        },
-        {
-          "id": "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york",
-          "title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
-          "company": "META",
-          "posted_at": "2026-02-01T03:05:50.683Z"
-        }
-      ]
-    },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
-      "count": 2,
-      "jobs": [
-        "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
-        "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco"
-      ],
-      "recent_jobs": [
-        {
-          "id": "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
-          "title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
-          "company": "California Life Company",
-          "posted_at": "2026-02-01T03:05:30.576Z"
-        },
-        {
-          "id": "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
-          "title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
-          "company": "General Motors",
-          "posted_at": "2026-02-01T03:05:34.064Z"
+          "id": "virtualvocations-data-science-intern-omaha",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-01T04:11:47.994Z"
         }
       ]
     },
@@ -163,112 +32,235 @@
       "channel_id": "1464303178286760059",
       "count": 3,
       "jobs": [
-        "ipinfo-research-intern-boise",
-        "virtualvocations-data-analytics-intern-peoria",
-        "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york"
+        "frontier-technology-ai-ml-engineering-internship-golden",
+        "the-pennsylvania-state-university-ai-ml-research-and-development-intern-state-college",
+        "virtualvocations-ai-video-content-creator-intern-tacoma"
       ],
       "recent_jobs": [
         {
-          "id": "ipinfo-research-intern-boise",
-          "title": "Research Intern",
-          "company": "IPinfo",
-          "posted_at": "2026-02-01T03:05:43.370Z"
+          "id": "frontier-technology-ai-ml-engineering-internship-golden",
+          "title": "AI / ML Engineering Internship",
+          "company": "FRONTIER TECHNOLOGY INC",
+          "posted_at": "2026-02-01T04:11:52.825Z"
         },
         {
-          "id": "virtualvocations-data-analytics-intern-peoria",
-          "title": "Data Analytics Intern",
+          "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-state-college",
+          "title": "AI / ML Research and Development Intern",
+          "company": "The Pennsylvania State University",
+          "posted_at": "2026-02-01T04:11:56.305Z"
+        },
+        {
+          "id": "virtualvocations-ai-video-content-creator-intern-tacoma",
+          "title": "AI Video Content Creator Intern",
           "company": "VirtualVocations",
-          "posted_at": "2026-02-01T03:05:45.108Z"
+          "posted_at": "2026-02-01T04:11:59.689Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 5,
+      "jobs": [
+        "frontier-technology-ai-ml-engineering-internship-golden",
+        "the-pennsylvania-state-university-ai-ml-research-and-development-intern-state-college",
+        "baylor-college-of-medicine-intern-aide-machine-learning-part-time-houston",
+        "amd-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-longmont",
+        "familiar-machines-magic-artificial-intelligence-intern-perception-for-robotics-woburn"
+      ],
+      "recent_jobs": [
+        {
+          "id": "frontier-technology-ai-ml-engineering-internship-golden",
+          "title": "AI / ML Engineering Internship",
+          "company": "FRONTIER TECHNOLOGY INC",
+          "posted_at": "2026-02-01T04:11:54.609Z"
         },
         {
-          "id": "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york",
-          "title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
-          "company": "META",
-          "posted_at": "2026-02-01T03:05:48.815Z"
+          "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-state-college",
+          "title": "AI / ML Research and Development Intern",
+          "company": "The Pennsylvania State University",
+          "posted_at": "2026-02-01T04:11:58.013Z"
+        },
+        {
+          "id": "baylor-college-of-medicine-intern-aide-machine-learning-part-time-houston",
+          "title": "Intern / Aide - Machine Learning (Part-time)",
+          "company": "Baylor College of Medicine",
+          "posted_at": "2026-02-01T04:12:14.689Z"
+        },
+        {
+          "id": "amd-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-longmont",
+          "title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern",
+          "company": "AMD",
+          "posted_at": "2026-02-01T04:12:18.111Z"
+        },
+        {
+          "id": "familiar-machines-magic-artificial-intelligence-intern-perception-for-robotics-woburn",
+          "title": "Artificial Intelligence Intern - Perception for Robotics",
+          "company": "Familiar Machines & Magic",
+          "posted_at": "2026-02-01T04:12:21.606Z"
+        }
+      ]
+    },
+    "🌲・pacific-northwest-internships": {
+      "channel_id": "1464304146072207390",
+      "count": 2,
+      "jobs": [
+        "virtualvocations-ai-video-content-creator-intern-tacoma",
+        "amazon-web-services-aws-2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation-seattle"
+      ],
+      "recent_jobs": [
+        {
+          "id": "virtualvocations-ai-video-content-creator-intern-tacoma",
+          "title": "AI Video Content Creator Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-01T04:12:01.438Z"
+        },
+        {
+          "id": "amazon-web-services-aws-2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation-seattle",
+          "title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+          "company": "Amazon Web Services (AWS)",
+          "posted_at": "2026-02-01T04:12:07.864Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 5,
+      "jobs": [
+        "amazon-web-services-aws-2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation-seattle",
+        "simons-foundation-database-and-automated-testing-intern-for-high-performance-computing-and-machine-learning-benchmarks-new-york",
+        "baylor-college-of-medicine-intern-aide-machine-learning-part-time-houston",
+        "amd-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-longmont",
+        "familiar-machines-magic-artificial-intelligence-intern-perception-for-robotics-woburn"
+      ],
+      "recent_jobs": [
+        {
+          "id": "amazon-web-services-aws-2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation-seattle",
+          "title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+          "company": "Amazon Web Services (AWS)",
+          "posted_at": "2026-02-01T04:12:06.196Z"
+        },
+        {
+          "id": "simons-foundation-database-and-automated-testing-intern-for-high-performance-computing-and-machine-learning-benchmarks-new-york",
+          "title": "Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)",
+          "company": "Simons Foundation",
+          "posted_at": "2026-02-01T04:12:09.614Z"
+        },
+        {
+          "id": "baylor-college-of-medicine-intern-aide-machine-learning-part-time-houston",
+          "title": "Intern / Aide - Machine Learning (Part-time)",
+          "company": "Baylor College of Medicine",
+          "posted_at": "2026-02-01T04:12:12.992Z"
+        },
+        {
+          "id": "amd-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-longmont",
+          "title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern",
+          "company": "AMD",
+          "posted_at": "2026-02-01T04:12:16.437Z"
+        },
+        {
+          "id": "familiar-machines-magic-artificial-intelligence-intern-perception-for-robotics-woburn",
+          "title": "Artificial Intelligence Intern - Perception for Robotics",
+          "company": "Familiar Machines & Magic",
+          "posted_at": "2026-02-01T04:12:19.871Z"
+        }
+      ]
+    },
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 1,
+      "jobs": [
+        "simons-foundation-database-and-automated-testing-intern-for-high-performance-computing-and-machine-learning-benchmarks-new-york"
+      ],
+      "recent_jobs": [
+        {
+          "id": "simons-foundation-database-and-automated-testing-intern-for-high-performance-computing-and-machine-learning-benchmarks-new-york",
+          "title": "Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)",
+          "company": "Simons Foundation",
+          "posted_at": "2026-02-01T04:12:11.294Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "virtualvocations-data-science-intern-dayton",
-      "company": "VirtualVocations",
-      "title": "Data Science Intern",
+      "job_id": "frontier-technology-ai-ml-engineering-internship-golden",
+      "company": "FRONTIER TECHNOLOGY INC",
+      "title": "AI / ML Engineering Internship",
       "channels": [
-        "📊・data-science-internships",
+        "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-01T03:05:15.106Z"
+      "posted_at": "2026-02-01T04:11:52.825Z"
     },
     {
-      "job_id": "amazon-com-amazon-data-science-internship-paid-seattle",
-      "company": "Amazon.com, Inc.",
-      "title": "Amazon Data Science Internship-PAID",
+      "job_id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-state-college",
+      "company": "The Pennsylvania State University",
+      "title": "AI / ML Research and Development Intern",
       "channels": [
-        "📊・data-science-internships",
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T04:11:56.305Z"
+    },
+    {
+      "job_id": "virtualvocations-ai-video-content-creator-intern-tacoma",
+      "company": "VirtualVocations",
+      "title": "AI Video Content Creator Intern",
+      "channels": [
+        "💻・tech-internships",
         "🌲・pacific-northwest-internships"
       ],
-      "posted_at": "2026-02-01T03:05:18.611Z"
+      "posted_at": "2026-02-01T04:11:59.689Z"
     },
     {
-      "job_id": "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
-      "company": "IBM",
-      "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
+      "job_id": "amazon-web-services-aws-2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation-seattle",
+      "company": "Amazon Web Services (AWS)",
+      "title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+      "channels": [
+        "🤖・ai-internships",
+        "🌲・pacific-northwest-internships"
+      ],
+      "posted_at": "2026-02-01T04:12:06.196Z"
+    },
+    {
+      "job_id": "simons-foundation-database-and-automated-testing-intern-for-high-performance-computing-and-machine-learning-benchmarks-new-york",
+      "company": "Simons Foundation",
+      "title": "Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)",
       "channels": [
         "🤖・ai-internships",
         "🗽・new-york-internships"
       ],
-      "posted_at": "2026-02-01T03:05:25.150Z"
+      "posted_at": "2026-02-01T04:12:09.614Z"
     },
     {
-      "job_id": "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
-      "company": "California Life Company",
-      "title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
-      "channels": [
-        "🤖・ai-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-02-01T03:05:28.753Z"
-    },
-    {
-      "job_id": "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
-      "company": "General Motors",
-      "title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
-      "channels": [
-        "🤖・ai-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-02-01T03:05:32.353Z"
-    },
-    {
-      "job_id": "nokia-automation-ai-ml-intern-dallas",
-      "company": "Nokia",
-      "title": "Automation - AI/ML Intern",
+      "job_id": "baylor-college-of-medicine-intern-aide-machine-learning-part-time-houston",
+      "company": "Baylor College of Medicine",
+      "title": "Intern / Aide - Machine Learning (Part-time)",
       "channels": [
         "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-01T03:05:35.781Z"
+      "posted_at": "2026-02-01T04:12:12.992Z"
     },
     {
-      "job_id": "virtualvocations-data-analytics-intern-peoria",
-      "company": "VirtualVocations",
-      "title": "Data Analytics Intern",
+      "job_id": "amd-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-longmont",
+      "company": "AMD",
+      "title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern",
       "channels": [
-        "💻・tech-internships",
+        "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-01T03:05:45.108Z"
+      "posted_at": "2026-02-01T04:12:16.437Z"
     },
     {
-      "job_id": "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york",
-      "company": "META",
-      "title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
+      "job_id": "familiar-machines-magic-artificial-intelligence-intern-perception-for-robotics-woburn",
+      "company": "Familiar Machines & Magic",
+      "title": "Artificial Intelligence Intern - Perception for Robotics",
       "channels": [
-        "💻・tech-internships",
-        "🗽・new-york-internships"
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-01T03:05:48.815Z"
+      "posted_at": "2026-02-01T04:12:19.871Z"
     }
   ],
   "failures": [],
@@ -282,70 +274,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.693Z"
+        "timestamp": "2026-02-01T04:11:46.065Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.693Z"
+        "timestamp": "2026-02-01T04:11:46.065Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.693Z"
+        "timestamp": "2026-02-01T04:11:46.065Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.694Z"
+        "timestamp": "2026-02-01T04:11:46.066Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.694Z"
+        "timestamp": "2026-02-01T04:11:46.066Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.694Z"
+        "timestamp": "2026-02-01T04:11:46.066Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.694Z"
+        "timestamp": "2026-02-01T04:11:46.066Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.694Z"
+        "timestamp": "2026-02-01T04:11:46.066Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.695Z"
+        "timestamp": "2026-02-01T04:11:46.067Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T03:05:14.695Z"
+        "timestamp": "2026-02-01T04:11:46.067Z"
       }
     ]
   }
