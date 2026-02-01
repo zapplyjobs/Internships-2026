@@ -13,15 +13,14 @@ const {
 
 // Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
 function filterJobsByAge(allJobs) {
-  const oneWeekAgo = new Date();
-  oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
-
   const currentJobs = [];
   const archivedJobs = [];
 
   allJobs.forEach((job) => {
-    const jobDate = new Date(job.job_posted_at);
-    if (jobDate >= oneWeekAgo) {
+    // Use the same logic as isJobOlderThanWeek to handle relative dates ("1d", "2w", etc.)
+    const isOld = isJobOlderThanWeek(job.job_posted_at);
+
+    if (!isOld) {
       currentJobs.push(job);
     } else {
       archivedJobs.push(job);
@@ -30,6 +29,31 @@ function filterJobsByAge(allJobs) {
 
   console.log(`📅 Filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
   return { currentJobs, archivedJobs };
+}
+
+// Helper function to check if job is older than 7 days
+// Handles relative date formats like "1d", "2w", "1mo" and absolute dates
+function isJobOlderThanWeek(dateString) {
+  if (!dateString) return false;
+
+  // Check if the date is in relative format (e.g., '1d', '2w', '1mo')
+  const relativeMatch = dateString.match(/^(\d+)([hdwmo])$/i);
+  if (relativeMatch) {
+    const value = parseInt(relativeMatch[1]);
+    const unit = relativeMatch[2].toLowerCase();
+
+    if (unit === 'd' && value >= 14) return true;
+    if (unit === 'w' && value >= 2) return true;
+    if (unit === 'mo') return true;
+    return false;
+  }
+
+  // Fallback to absolute date comparison
+  const oneWeekAgo = new Date();
+  oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+  const jobDate = new Date(dateString);
+
+  return jobDate < oneWeekAgo;
 }
 
 // Filter out senior positions - only keep Entry-Level and Mid-Level
