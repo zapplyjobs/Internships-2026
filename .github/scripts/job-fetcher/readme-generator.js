@@ -8,24 +8,27 @@ const {
   getExperienceLevel,
   getJobCategory,
   formatLocation,
-  isJobOlderThanWeek,
 } = require("./utils");
 // Import or load the JSON configuration
 
-// Filter jobs by age - jobs posted within last 14 days are "current", older ones are "archived"
+// Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
 function filterJobsByAge(allJobs) {
+  const oneWeekAgo = new Date();
+  oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+
   const currentJobs = [];
   const archivedJobs = [];
 
   allJobs.forEach((job) => {
-    if (isJobOlderThanWeek(job.job_posted_at)) {
-      archivedJobs.push(job);
-    } else {
+    const jobDate = new Date(job.job_posted_at);
+    if (jobDate >= oneWeekAgo) {
       currentJobs.push(job);
+    } else {
+      archivedJobs.push(job);
     }
   });
 
-  console.log(`📅 Filtered: ${displayedJobCount} current (≤14 days), ${archivedJobs.length} archived (>14 days)`);
+  console.log(`📅 Filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
   return { currentJobs, archivedJobs };
 }
 
@@ -210,6 +213,118 @@ if (jobs.length === 0) {
       Object.keys(jobsByCompany).length
     } companies processed`
   );
+
+  // Process uncategorized companies (not in software.json)
+  const categorizedCompanies = new Set();
+  Object.values(companyCategory).forEach(category => {
+    category.companies.forEach(company => categorizedCompanies.add(company));
+  });
+
+  const uncategorizedCompanies = Object.keys(jobsByCompany).filter(
+    company => !categorizedCompanies.has(company)
+  );
+
+  if (uncategorizedCompanies.length > 0) {
+    const totalUncategorizedJobs = uncategorizedCompanies.reduce(
+      (sum, company) => sum + jobsByCompany[company].length, 0
+    );
+
+    console.log(`\n📝 DEBUG: Processing UNCATEGORIZED companies: ${uncategorizedCompanies.length} companies with ${totalUncategorizedJobs} jobs`);
+
+    output += `### 🏢 **Other Companies** (${totalUncategorizedJobs} positions)\n\n`;
+
+    // Handle large uncategorized companies (>10 jobs) separately
+    const bigUncategorized = uncategorizedCompanies.filter(
+      company => jobsByCompany[company].length > 10
+    );
+
+    bigUncategorized.forEach((companyName) => {
+      const companyJobs = jobsByCompany[companyName];
+      const emoji = getCompanyEmoji(companyName);
+
+      if (companyJobs.length > 15) {
+        output += `<details>\n`;
+        output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
+      } else {
+        output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+      }
+
+      output += `| Role | Location | Level | Apply Now | Age |\n`;
+      output += `|------|----------|-------|-----------|-----|\n`;
+
+      companyJobs.forEach((job) => {
+        const role = job.job_title;
+        const location = formatLocation(job.job_city, job.job_state);
+        const posted = job.job_posted_at;
+        const level = getExperienceLevel(job.job_title, job.job_description);
+        const levelBadge = {
+          "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
+          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
+          "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+        }[level] || level;
+        const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
+        let statusIndicator = "";
+        const description = (job.job_description || "").toLowerCase();
+        if (description.includes("no sponsorship") || description.includes("us citizen")) {
+          statusIndicator = " 🇺🇸";
+        }
+        if (description.includes("remote")) {
+          statusIndicator += " 🏠";
+        }
+
+        output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) | ${posted} |\n`;
+      });
+
+      if (companyJobs.length > 15) {
+        output += `\n</details>\n\n`;
+      } else {
+        output += "\n";
+      }
+    });
+
+    // Combine small uncategorized companies into one table
+    const smallUncategorized = uncategorizedCompanies.filter(
+      company => jobsByCompany[company].length <= 10
+    );
+
+    if (smallUncategorized.length > 0) {
+      output += `| Company | Role | Location | Level | Apply Now | Age |\n`;
+      output += `|---------|------|----------|-------|-----------|-----|\n`;
+
+      smallUncategorized.forEach((companyName) => {
+        const companyJobs = jobsByCompany[companyName];
+        const emoji = getCompanyEmoji(companyName);
+
+        companyJobs.forEach((job) => {
+          const role = job.job_title;
+          const location = formatLocation(job.job_city, job.job_state);
+          const posted = job.job_posted_at;
+          const level = getExperienceLevel(job.job_title, job.job_description);
+          const levelBadge = {
+            "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
+            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
+            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+          }[level] || level;
+          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
+          let statusIndicator = "";
+          const description = (job.job_description || "").toLowerCase();
+          if (description.includes("no sponsorship") || description.includes("us citizen")) {
+            statusIndicator = " 🇺🇸";
+          }
+          if (description.includes("remote")) {
+            statusIndicator += " 🏠";
+          }
+
+          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) | ${posted} |\n`;
+        });
+      });
+
+      output += "\n";
+    }
+  }
+
   return output;
 }
 
