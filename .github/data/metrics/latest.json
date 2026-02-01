@@ -1,24 +1,313 @@
 {
-  "generated": "2026-02-01T01:56:15.284Z",
+  "generated": "2026-02-01T02:57:19.311Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T01:56:15.284Z",
-  "period_end": "2026-02-01T01:56:15.284Z",
+  "period_start": "2026-01-25T02:57:19.311Z",
+  "period_end": "2026-02-01T02:57:19.311Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 14,
+    "unique_jobs": 7,
+    "multi_channel_postings": 14,
+    "unique_multi_channel_jobs": 7,
     "failed_postings": 0,
-    "filtered_jobs": 0,
-    "channels_active": 0
+    "filtered_jobs": 10,
+    "channels_active": 6
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 2,
+      "jobs": [
+        "womentech-network-intern-data-analyst-concord",
+        "virtualvocations-data-science-intern-alexandria"
+      ],
+      "recent_jobs": [
+        {
+          "id": "womentech-network-intern-data-analyst-concord",
+          "title": "Intern, Data Analyst",
+          "company": "WomenTech Network",
+          "posted_at": "2026-02-01T02:56:43.160Z"
+        },
+        {
+          "id": "virtualvocations-data-science-intern-alexandria",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-01T02:56:47.230Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 1,
+      "jobs": [
+        "womentech-network-intern-data-analyst-concord"
+      ],
+      "recent_jobs": [
+        {
+          "id": "womentech-network-intern-data-analyst-concord",
+          "title": "Intern, Data Analyst",
+          "company": "WomenTech Network",
+          "posted_at": "2026-02-01T02:56:45.332Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 5,
+      "jobs": [
+        "virtualvocations-data-science-intern-alexandria",
+        "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
+        "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
+        "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
+        "qtc-management-agentic-ai-data-science-internship-"
+      ],
+      "recent_jobs": [
+        {
+          "id": "virtualvocations-data-science-intern-alexandria",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-01T02:56:48.934Z"
+        },
+        {
+          "id": "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
+          "title": "2026 Undergraduate Summer Internship – Enterprise Analytics",
+          "company": "DFW International Airport",
+          "posted_at": "2026-02-01T02:56:55.567Z"
+        },
+        {
+          "id": "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
+          "title": "NNSS Undergraduate Science Internship-PAID",
+          "company": "U.S. Department of Energy - NNSA Nevada National Security Site",
+          "posted_at": "2026-02-01T02:56:59.001Z"
+        },
+        {
+          "id": "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
+          "title": "Business Data and Analytics Intern",
+          "company": "Pine Tree",
+          "posted_at": "2026-02-01T02:57:02.530Z"
+        },
+        {
+          "id": "qtc-management-agentic-ai-data-science-internship-",
+          "title": "Agentic AI & Data Science Internship",
+          "company": "QTC Management, inc",
+          "posted_at": "2026-02-01T02:57:09.097Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 3,
+      "jobs": [
+        "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
+        "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
+        "pine-tree-business-data-and-analytics-intern-oakbrook-terrace"
+      ],
+      "recent_jobs": [
+        {
+          "id": "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
+          "title": "2026 Undergraduate Summer Internship – Enterprise Analytics",
+          "company": "DFW International Airport",
+          "posted_at": "2026-02-01T02:56:53.826Z"
+        },
+        {
+          "id": "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
+          "title": "NNSS Undergraduate Science Internship-PAID",
+          "company": "U.S. Department of Energy - NNSA Nevada National Security Site",
+          "posted_at": "2026-02-01T02:56:57.278Z"
+        },
+        {
+          "id": "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
+          "title": "Business Data and Analytics Intern",
+          "company": "Pine Tree",
+          "posted_at": "2026-02-01T02:57:00.781Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 2,
+      "jobs": [
+        "qtc-management-agentic-ai-data-science-internship-",
+        "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago"
+      ],
+      "recent_jobs": [
+        {
+          "id": "qtc-management-agentic-ai-data-science-internship-",
+          "title": "Agentic AI & Data Science Internship",
+          "company": "QTC Management, inc",
+          "posted_at": "2026-02-01T02:57:07.317Z"
+        },
+        {
+          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago",
+          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
+          "company": "IBM",
+          "posted_at": "2026-02-01T02:57:10.823Z"
+        }
+      ]
+    },
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 1,
+      "jobs": [
+        "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago"
+      ],
+      "recent_jobs": [
+        {
+          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago",
+          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
+          "company": "IBM",
+          "posted_at": "2026-02-01T02:57:12.608Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "womentech-network-intern-data-analyst-concord",
+      "company": "WomenTech Network",
+      "title": "Intern, Data Analyst",
+      "channels": [
+        "📊・data-science-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-02-01T02:56:43.160Z"
+    },
+    {
+      "job_id": "virtualvocations-data-science-intern-alexandria",
+      "company": "VirtualVocations",
+      "title": "Data Science Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T02:56:47.230Z"
+    },
+    {
+      "job_id": "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
+      "company": "DFW International Airport",
+      "title": "2026 Undergraduate Summer Internship – Enterprise Analytics",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T02:56:53.826Z"
+    },
+    {
+      "job_id": "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
+      "company": "U.S. Department of Energy - NNSA Nevada National Security Site",
+      "title": "NNSS Undergraduate Science Internship-PAID",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T02:56:57.278Z"
+    },
+    {
+      "job_id": "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
+      "company": "Pine Tree",
+      "title": "Business Data and Analytics Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T02:57:00.781Z"
+    },
+    {
+      "job_id": "qtc-management-agentic-ai-data-science-internship-",
+      "company": "QTC Management, inc",
+      "title": "Agentic AI & Data Science Internship",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T02:57:07.317Z"
+    },
+    {
+      "job_id": "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago",
+      "company": "IBM",
+      "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
+      "channels": [
+        "🤖・ai-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-02-01T02:57:10.823Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
     "already_posted": [],
     "invalid_data": [],
-    "other": []
+    "other": [
+      {
+        "job_id": "bread-financial-intern-speech-intelligence-analyst-columbus",
+        "title": "Intern – Speech Intelligence Analyst",
+        "company": "Bread Financial",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.789Z"
+      },
+      {
+        "job_id": "bread-financial-intern-intelligent-automation-columbus",
+        "title": "Intern – Intelligent Automation",
+        "company": "Bread Financial",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.790Z"
+      },
+      {
+        "job_id": "nelnet-intern-pathway-lincoln",
+        "title": "Intern Pathway",
+        "company": "Nelnet",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.790Z"
+      },
+      {
+        "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
+        "title": "Corporate Intern - Digital and Analytics",
+        "company": "Caterpillar Inc.",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.791Z"
+      },
+      {
+        "job_id": "sparksoft-intern-columbia",
+        "title": "Intern",
+        "company": "Sparksoft",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.791Z"
+      },
+      {
+        "job_id": "rheem-product-engineering-intern-huntsville",
+        "title": "Product Engineering Intern",
+        "company": "Rheem",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.791Z"
+      },
+      {
+        "job_id": "adtheorant-data-science-intern-remote-in-usa",
+        "title": "Data Science Intern",
+        "company": "Adtheorant",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.791Z"
+      },
+      {
+        "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
+        "title": "Intern Data Science and Artificial Intelligence",
+        "company": "LabCorp",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.791Z"
+      },
+      {
+        "job_id": "crowdstrike-software-engineer-intern-redmond",
+        "title": "Software Engineer Intern",
+        "company": "Crowdstrike",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.792Z"
+      },
+      {
+        "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
+        "title": "Software Engineer, Intern Summer 2026, Ashburn",
+        "company": "Visa",
+        "reason": "already_posted",
+        "timestamp": "2026-02-01T02:56:42.792Z"
+      }
+    ]
   }
 }
