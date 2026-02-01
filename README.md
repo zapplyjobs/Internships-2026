@@ -60,10 +60,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-<details>
-
-<summary><strong>⭐ **FAANG+** (16 positions)</strong> - Click to expand</summary>
-
+### ⭐ **FAANG+** (16 positions)
 
 #### 🟦 **Microsoft** (5 positions)
 
@@ -96,13 +93,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | WDI Software Developer Intern - Summer 2026 | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/WDI-Software-Developer-Intern--Summer-2026_10135513-1) | 2d |
 | WDW Analytical & Strategic Planning Intern | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Fall-2026_10139790) | 6d |
 
-
-</details>
-
-<details>
-
-<summary><strong>🏢 **Top Tech** (24 positions)</strong> - Click to expand</summary>
-
+### 🏢 **Top Tech** (24 positions)
 
 #### 🎮 **NVIDIA** (1 position)
 
@@ -178,13 +169,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | AI Developer Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40586/job?mobile=true&needsRedirect=false) | 3d |
 | Learning Data Science Master's Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40778/job?mobile=true&needsRedirect=false) | 3d |
 
-
-</details>
-
-<details>
-
-<summary><strong>💻 **Enterprise Software** (21 positions)</strong> - Click to expand</summary>
-
+### 💻 **Enterprise Software** (21 positions)
 
 #### 🌐 **Cisco** (2 positions)
 
@@ -252,13 +237,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Software Engineer Intern | Maryville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Associate-Professional--Intern_JR127100) | 1w |
 | Associate Professional – Intern | Maryville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Associate-Professional--Intern_JR127102) | 1w |
 
-
-</details>
-
-<details>
-
-<summary><strong>🚀 **Startups & Growth** (14 positions)</strong> - Click to expand</summary>
-
+### 🚀 **Startups & Growth** (14 positions)
 
 #### 🏢 **Alo Yoga** (6 positions)
 
@@ -299,13 +278,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Materials Computational Scientist Intern | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763259004) | 2d |
 | KP-SAM Code Development Engineering Intern - Summer 2026 | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763261004) | 4d |
 
-
-</details>
-
-<details>
-
-<summary><strong>🛒 **Consumer & E-Commerce** (13 positions)</strong> - Click to expand</summary>
-
+### 🛒 **Consumer & E-Commerce** (13 positions)
 
 #### 🏢 **T-Mobile** (8 positions)
 
@@ -335,13 +308,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Machine Learning Research Intern - Perception - Silicon Valley','CA','Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern--Perception---Silicon-Valley--CA---Summer-2026_R00201320) | 2d |
 | Machine Learning Research Intern - Prediction and Planning | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern--Prediction-and-Planning---Silicon-Valley--CA---Summer-2026_R00201322) | 2d |
 
-
-</details>
-
-<details>
-
-<summary><strong>💰 **Financial & Fintech** (8 positions)</strong> - Click to expand</summary>
-
+### 💰 **Financial & Fintech** (8 positions)
 
 #### 🏢 **Fidelity Investments** (4 positions)
 
@@ -361,13 +328,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Intern - Multiple Teams | Kansas City, MO | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Software-Engineer---TechEdge-Program---Summer-2026_R-0000031167-1) | 1w |
 | Intern – CFI - Consumer Finance Institute - Evergreen Requisition | Philadelphia, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Intern--CFI--Consumer-Finance-Institute-_R-0000023233-1) | 1w |
 
-
-</details>
-
-<details>
-
-<summary><strong>🛡️ **Defense & Aerospace** (18 positions)</strong> - Click to expand</summary>
-
+### 🛡️ **Defense & Aerospace** (18 positions)
 
 #### 🚗 **Waymo** (1 position)
 
@@ -427,13 +388,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Diagnostic Systems Intern | Lewisville, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.paccar.com/job/Lewisville-Diagnostic-Systems-Intern-TX-75067/1289105601/?ats=successfactors) | 1d |
 | Data Engineering Intern | Columbus, MS | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.paccar.com/job/Columbus-Data-Engineering-Intern-Fall-2026-MS-39701/1285882001/?ats=successfactors) | 1w |
 
-
-</details>
-
-<details>
-
-<summary><strong>🏥 **Healthcare & Life Sciences** (10 positions)</strong> - Click to expand</summary>
-
+### 🏥 **Healthcare & Life Sciences** (10 positions)
 
 #### 🏢 **Genentech** (5 positions)
 
@@ -455,13 +410,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Member Communications Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404316) | 1w |
 | Claims Data Bachelor Intern | Oakland, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1403919) | 1w |
 
-
-</details>
-
-<details>
-
-<summary><strong>🏭 **Manufacturing & Industrial** (18 positions)</strong> - Click to expand</summary>
-
+### 🏭 **Manufacturing & Industrial** (18 positions)
 
 #### ⚗️ **Applied Materials** (2 positions)
 
@@ -521,13 +470,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Conservation GIS Intern | State College, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Conservation-GIS-Intern_REQ_0000075060-1) | 1w |
 | AI/ML Research and Development Intern | State College, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000064471-1) | 1w |
 
-
-</details>
-
-<details>
-
-<summary><strong>📊 **Analytics & EdTech** (3 positions)</strong> - Click to expand</summary>
-
+### 📊 **Analytics & EdTech** (3 positions)
 
 #### 🏢 **SAS** (3 positions)
 
@@ -540,9 +483,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 
 ---
-
-
-</details>
 
 ## More Resources
 
