@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-31T18:26:35.090Z",
+  "lastUpdated": "2026-02-01T00:22:29.517Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -8541,14 +8541,41 @@
       "job_city": "Culver City",
       "job_state": "CA",
       "job_description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.OVERVIEW ALO's Digital Engineering team is looking for a highly motivated Graduate or PhD-level Intern with strong foundations in computer science and modern internet-scale systems. This role is designed for candidates who want hands-on experience building and scaling server-side systems, cloud-native services, and AI-assisted development workflows in a real-world, production environment. You will work closely with senior engineers on designing, developing, and optimizing distributed systems that power ALO's digital platforms. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our Beverly Hills HQ. RESPONSIBILITIES Design, develop, and test server-side components and APIs Assist in building and scaling distributed cloud-based systems Collaborate with senior engineers on architecture and implementation decisions Apply AI-assisted coding tools to improve productivity and code quality Write clean, maintainable, and well-documented code Participate in code reviews and technical discussions QUALIFICATIONS Master's degree in computer science, Software Engineering, or a related field OR PhD candidate in Computer Science or a closely related discipline Strong understanding of Internet fundamentals, including: HTTP/HTTPS RESTful APIs Web protocols and networking basics Solid experience with server-side programming Proficiency in at least one modern programming language, such as: Java (preferred) Python Go C++ Strong conceptual understanding of: Distributed systems Concurrency and scalability Fault tolerance and system reliability Working knowledge of cloud architecture, with emphasis on AWS, including services such as: EC2, S3, RDS/DynamoDB Lambda API Gateway IAM, VPC (conceptual understanding acceptable) Exposure to AI/ML-assisted development, including: Using AI tools for code generation, refactoring, or testing Understanding strengths and limitations of AI-generated code PREFERRED QUALIFICATIONS Hands-on experience building or deploying cloud-native applications Familiarity with: Microservices architecture Containerization (Docker, Kubernetes – a plus) Experience working with: Version control systems (Git) CI/CD pipelines Coursework or research in: Distributed computing Cloud systems Machine learning or applied AI Strong problem-solving skills and ability to reason about system design trade-offs WHAT YOU'LL GAIN Hands-on experience with production-scale systems Exposure to modern cloud architecture on AWS Practical application of AI/ML tools in software development Mentorship from experienced engineers in a fast-paced digital team Opportunity to make real impact on ALO’s digital platforms The base pay range for this position is $45/hr-$50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE."
+    },
+    {
+      "id": "be844bc2dbe87c76-2026-02-01-1",
+      "jobId": "be844bc2dbe87c76",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern, Android (Summer 2026)",
+      "postedToDiscord": "2026-02-01T00:22:23.150Z",
+      "sourceDate": "2026-01-30T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/68d1a27bcece431f8b58648c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467314100332662786",
+          "channelType": "category",
+          "postedAt": "2026-02-01T00:22:23.150Z",
+          "channelJobNumber": 96
+        },
+        "1464303497242742875": {
+          "messageId": "1467314108297773383",
+          "channelType": "location",
+          "postedAt": "2026-02-01T00:22:24.977Z",
+          "channelJobNumber": 46
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Menlo Park",
+      "job_state": "California",
+      "job_description": "<p>Robinhood is on a mission to democratize finance for all and is seeking talented Android Engineers to join their team. The role involves collaborating with the design team, contributing to new features, and shaping the future of the Android platform.</p><br><p>Responsibilities</p><ul><li>Collaborate with our award-winning design team throughout the full product lifecycle</li><li>Contribute to new features and play a role in building products that will change how America views finance</li><li>Help shape the future of our Android platform</li><li>Explore and build innovative Android UI/UX</li></ul><br><p>Skills</p><ul><li>Currently enrolled in a full-time, degree-seeking program with an expected graduation date in Winter 2026/Spring 2027</li><li>A solid foundation in software engineering</li><li>An interest in front-end work, specifically visually driven product design and shaping user experience</li><li>Familiarity with Android components and experience building or contributing to at least one Android app</li><li>Experience building, maintaining, or contributing to open-source projects</li><li>Familiarity with Kotlin, RxJava 2, Dagger 2, and other libraries in our tech stack</li><li>A self-starter mentality and a proactive approach</li></ul><br><p>Benefits</p><ul><li>Market competitive compensation structure</li><li>Quarterly lifestyle wallet for personal wellness, learning and development, and more!</li><li>Time away including company holidays, paid time off, and sick time!</li><li>Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits</li></ul><br><p>Company Overview</p><li>Robinhood is a stock brokerage that allows customers to buy and sell stocks, options, ETFs, and cryptocurrencies with zero commission. It was founded in 2013, and is headquartered in Menlo Park, California, USA, with a workforce of 1001-5000 employees. Its website is https://www.robinhood.com.</li><br>"
     }
   ],
   "metadata": {
-    "totalJobs": 447,
+    "totalJobs": 448,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-31T18:26:35.090Z",
+      "date": "2026-02-01T00:22:29.517Z",
       "archived": 0
     }
   }

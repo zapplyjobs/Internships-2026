@@ -4840,5 +4840,27 @@
     "addedAt": "2026-01-31T12:47:54.498Z",
     "enrichedAt": "2026-01-31T18:07:29.096Z",
     "postedAt": "2026-01-31T18:08:08.449Z"
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern, Android (Summer 2026)",
+      "employer_name": "Robinhood",
+      "job_city": "Menlo Park",
+      "job_state": "California",
+      "job_description": "<p>Robinhood is on a mission to democratize finance for all and is seeking talented Android Engineers to join their team. The role involves collaborating with the design team, contributing to new features, and shaping the future of the Android platform.</p><br><p>Responsibilities</p><ul><li>Collaborate with our award-winning design team throughout the full product lifecycle</li><li>Contribute to new features and play a role in building products that will change how America views finance</li><li>Help shape the future of our Android platform</li><li>Explore and build innovative Android UI/UX</li></ul><br><p>Skills</p><ul><li>Currently enrolled in a full-time, degree-seeking program with an expected graduation date in Winter 2026/Spring 2027</li><li>A solid foundation in software engineering</li><li>An interest in front-end work, specifically visually driven product design and shaping user experience</li><li>Familiarity with Android components and experience building or contributing to at least one Android app</li><li>Experience building, maintaining, or contributing to open-source projects</li><li>Familiarity with Kotlin, RxJava 2, Dagger 2, and other libraries in our tech stack</li><li>A self-starter mentality and a proactive approach</li></ul><br><p>Benefits</p><ul><li>Market competitive compensation structure</li><li>Quarterly lifestyle wallet for personal wellness, learning and development, and more!</li><li>Time away including company holidays, paid time off, and sick time!</li><li>Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits</li></ul><br><p>Company Overview</p><li>Robinhood is a stock brokerage that allows customers to buy and sell stocks, options, ETFs, and cryptocurrencies with zero commission. It was founded in 2013, and is headquartered in Menlo Park, California, USA, with a workforce of 1001-5000 employees. Its website is https://www.robinhood.com.</li><br>",
+      "job_apply_link": "https://jobright.ai/jobs/info/68d1a27bcece431f8b58648c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "robinhood-software-engineering-intern-android-summer-2026-menlo-park",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-02-01T00:22:19.493Z",
+    "enrichedAt": "2026-02-01T00:22:20.147Z",
+    "postedAt": "2026-02-01T00:22:29.508Z"
   }
 ]
