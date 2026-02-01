@@ -4946,10 +4946,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-01T02:56:10.888Z",
     "enrichedAt": "2026-02-01T02:56:39.496Z",
-    "postedAt": null
+    "postedAt": "2026-02-01T03:05:55.191Z"
   },
   {
     "job": {
@@ -5056,10 +5056,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-01T02:56:10.888Z",
     "enrichedAt": "2026-02-01T02:56:39.496Z",
-    "postedAt": null
+    "postedAt": "2026-02-01T03:05:55.191Z"
   },
   {
     "job": {
@@ -5111,19 +5111,21 @@
       "employer_name": "IPinfo",
       "job_city": "Boise",
       "job_state": "Idaho",
-      "job_description": "Research Internship At IPinfo\n\nIPinfo is a leading provider of IP address data, including geolocation, VPN and residential proxy detection, mobile carrier data and over 20 other context tags. Our API handles over 120 billion requests a month, and we also license our data for use in many products and services you might have used. We're a fast growing bootstrapped business with a global team of around 60 people, and offer data products including IP geolocation, IP to company, carrier detection, and VPN detection. Our customers include Cloudflare, T-Mobile, SpaceX, DemandBase, Clearbit, and many more. We also sponsor academic conferences such as ACM IMC and ACM CoNEXT to connect with fellow researchers.\n\nWe have an ambitious team, spread all over the globe. We sync up on a monthly all-hands Zoom call, and most teams do a call together every 1-2 weeks. Everything else happens asynchronously, via Slack, GitHub, Linear, and Notion. That means you can pick the hours that work best for you, to allow you to be at your most productive.\n\nDuring the research internship you will work within the research team to extract deep knowledge from our data, collaborate with fellow researchers on academic research papers, and discuss ideas at academic Internet measurement conferences.\n\nTo thrive in this environment you'll need to have high levels of autonomy and ownership. You have to be resourceful and able to work effectively in a remote setup.\n\nResponsibilities\n\nWe collect more than 75TB of Internet data every week, including BGP, DNS, ping and traceroute data from more than 1200 servers around the world. Our research team is at the forefront of analyzing and evaluating this data to ensure it finds its way into our products - IP geolocation, VPN detection, our IP tags and more.\n\nDuring the research internship you will be working on a well-defined research / data analysis project which allows you to collaborate with the research and data teams at IPinfo. The goal of the internship is to gather novel insights, gain new knowledge in data analysis, processing, and Internet measurements, and present your results within the group. During your internship at IPinfo you will be a full member of the research team. Towards the end of your internship you will be evaluating the results and assess possible publication venues (academic conferences, journals, published report,). Check out https : / / ipinfo.io / research to find example research projects at IPinfo.\n\nSkills and Experience\n• Currently pursuing a PhD in computer science, data science, statistics, or a related field\n• Proficiency in programming languages such as Python or Go; data analysis using SQL, pandas, or R\n• Excellent analytical skills with the ability to collect, organize, analyze, and disseminate information with attention to detail and accuracy\n• Experience with data visualization tools and techniques\n• Strong communication skills and the ability to translate data into actionable insights\n• Commitment to continuous learning and improvement - curious, flexible, believing it can be done better\n• Optionally publication track record in networking or security conferences (e.g., ACM IMC, ACM SIGCOMM, ACM CoNEXT) or journals (e.g., ACM SIGCOMM CCR, IEEE / ACM Transactions on Networking)\n\nWhat We Offer\n• Summer 2026 internship between May and October 2026 (minimum duration : 3 months)\n• Opportunity to make measurable impact and operate with autonomy\n• 100% remote team and work environment\n• Flexible working hours\n• Paid internship\n• Interesting and challenging work\n\nThe application deadline for the 2026 summer research internship is January 31, 2026. Earlier applications are preferred.",
+      "job_description": "Apply for Research Intern in Boise. IPinfo is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_apply_link": "https://www.talent.com/view?id=8446eb4f1a07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-29T00:00:00.000Z",
       "job_employment_type": "Full-time",
       "job_source": "jsearch",
       "job_publisher": "Talent.com",
       "job_posted_at": "1h",
-      "id": "ipinfo-research-intern-boise"
+      "id": "ipinfo-research-intern-boise",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-02-01T02:56:10.888Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-02-01T03:05:10.366Z",
+    "postedAt": "2026-02-01T03:05:55.191Z"
   },
   {
     "job": {
@@ -5131,19 +5133,21 @@
       "employer_name": "VirtualVocations",
       "job_city": "Peoria",
       "job_state": "Arizona",
-      "job_description": "A company is looking for a Data Analytics Intern.\n\nKey Responsibilities\n\nAssist in collecting, organizing, and analyzing data from multiple sources\n\nSupport the development of reports, dashboards, and data visualizations\n\nWork with team members to identify data quality issues and help perform data validation\n\nRequired Qualifications\n\nBasic understanding of data analytics fundamentals, such as data types and metrics\n\nHands-on experience with Excel, including functions and pivot tables\n\nStrong interest and passion for data, analytics, and technology\n\nCurrently pursuing a degree in Data Analytics, Information Systems, Computer Science, or Mathematics\n\nWillingness to learn in a collaborative environment",
+      "job_description": "Apply for Data Analytics Intern in Peoria. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_apply_link": "https://www.talent.com/view?id=69c3079dc1ed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-26T00:00:00.000Z",
       "job_employment_type": "Full-time",
       "job_source": "jsearch",
       "job_publisher": "Talent.com",
       "job_posted_at": "1h",
-      "id": "virtualvocations-data-analytics-intern-peoria"
+      "id": "virtualvocations-data-analytics-intern-peoria",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2026-02-01T02:56:10.888Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2026-02-01T03:05:10.366Z",
+    "postedAt": "2026-02-01T03:05:55.191Z"
   },
   {
     "job": {
@@ -5158,10 +5162,260 @@
       "job_source": "jsearch",
       "job_publisher": "Fastweb",
       "job_posted_at": "1h",
-      "id": "amazon-com-amazon-data-science-internship-paid-seattle"
+      "id": "amazon-com-amazon-data-science-internship-paid-seattle",
+      "description_platform": "generic",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2026-02-01T02:56:10.888Z",
+    "enrichedAt": "2026-02-01T03:05:10.366Z",
+    "postedAt": "2026-02-01T03:05:55.191Z"
+  },
+  {
+    "job": {
+      "job_title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
+      "employer_name": "California Life Company",
+      "job_city": "South San Francisco",
+      "job_state": "California",
+      "job_description": "Apply for Intern, Machine Learning for Molecule Design (MS/PhD) in South San Francisco. California Life Company is hiring now. Discover your next career opportunity today on Talent.com.",
+      "job_apply_link": "https://www.talent.com/view?id=44357ad1862a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-31T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": "2026-02-01T03:05:10.366Z",
+    "postedAt": "2026-02-01T03:05:55.191Z"
+  },
+  {
+    "job": {
+      "job_title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
+      "employer_name": "META",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_description": "Apply for Intern - Research Scientist, AI Research in Speech & Audio (PhD) in New York. META is hiring now. Discover your next career opportunity today on Talent.com.",
+      "job_apply_link": "https://www.talent.com/view?id=562a48b28442&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": "2026-02-01T03:05:10.366Z",
+    "postedAt": "2026-02-01T03:05:55.191Z"
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
+      "employer_name": "General Motors",
+      "job_city": "San Francisco",
+      "job_state": "California",
+      "job_description": "<p>General Motors is dedicated to advancing the state-of-the-art in AI for autonomous vehicles. As an AI/ML Research Intern, you’ll work on cutting-edge projects developing algorithms and models that shape the future of self-driving technology, collaborating with leading researchers and engineers.</p><br><p>Responsibilities</p><ul><li>Lead research and prototyping of advanced machine learning methods, such as foundation models, vision-language architectures, diffusion models, image/video generation, self-supervised learning, imitation learning, and reinforcement learning</li><li>Prototype ML models that improve perception, prediction, or decision-making for autonomous driving</li><li>Collaborate with cross-functional teams, including perception, robotics, and systems engineering</li><li>Participate in technical discussions, share insights, and work towards publishing results</li></ul><br><p>Skills</p><ul><li>Currently pursuing or in the process of obtaining a Ph.D. in Machine Learning, Artificial Intelligence, Computer Science, or a related technical field</li><li>Solid understanding of modern machine learning techniques, especially deep learning architectures (e.g., transformers, generative models, multimodal learning)</li><li>Proficiency in Python and ML frameworks such as PyTorch or TensorFlow</li><li>Research experience in AI/ML, demonstrated through coursework, academic projects, or publications</li><li>Strong problem-solving skills and a collaborative mindset</li><li>Strong communication and presentation skills</li><li>Experience working and communicating cross functionally in a team environment</li><li>Able to work fulltime, 40 hours per week</li><li>Familiarity with autonomous vehicles or advanced driver assistance systems (ADAS)</li><li>Experience working with large-scale datasets and training ML models in high-performance computing environments</li><li>Intent to return to degree program after the completion of the internship/co-op</li><li>Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading workshops or conferences such as NeurIPS, CVPR, ICML, ICLR, AAAI, ECCV, RSS, ICRA, CoRL, or similar</li><li>Demonstrated experience and self-driven motivation in solving analytical problems using quantitative approaches</li><li>Experience building systems based on machine learning, reinforcement learning and/or deep learning methods</li></ul><br><p>Benefits</p><ul><li>Paid US GM Holidays</li><li>GM Family First Vehicle Discount Program</li><li>Result-based potential for growth within GM</li><li>Intern events to network with company leaders and peers</li></ul><br><p>Company Overview</p><li>General Motors is an automotive company that designs, produces, markets, and distributes vehicles and vehicle parts. It was founded in 1908, and is headquartered in Detroit, Michigan, USA, with a workforce of 10001+ employees. Its website is https://www.gm.com.</li><br><p>Company H1B Sponsorship</p><li>General Motors has a track record of offering H1B sponsorships, with 787 in 2025, 740 in 2024, 450 in 2023, 795 in 2022, 748 in 2021, 452 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
+      "job_apply_link": "https://jobright.ai/jobs/info/695e0a0f32718e2b8ddbff8a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": "2026-02-01T03:05:10.366Z",
+    "postedAt": "2026-02-01T03:05:55.191Z"
+  },
+  {
+    "job": {
+      "job_title": "Automation - AI/ML Intern",
+      "employer_name": "Nokia",
+      "job_city": "Dallas",
+      "job_state": "Texas",
+      "job_description": "<p>Nokia is a global leader in connectivity for the AI era, advancing connectivity to secure a brighter world. The Automation & AI/ML Intern will assist in developing automation tools and applying machine learning techniques to enhance service delivery and solve business challenges.</p><br><p>Responsibilities</p><ul><li>Assist in developing automation tools and software prototypes to enhance service delivery</li><li>Apply machine learning techniques to solve defined business challenges</li><li>Collaborate with experts to design innovative solutions for network planning and optimization</li><li>Explore new technologies using online learning platforms and internal resources</li><li>Document project outcomes and key technical learnings</li></ul><br><p>Skills</p><ul><li>Currently pursuing a Bachelor's degree or Diploma in Computer Science, Electronics, Electrical Engineering, or a related field at an accredited school in the U.S</li><li>Familiarity with Python programming and basic software development practices</li><li>Knowledge of React, TypeScript, and JavaScript</li><li>Interest in machine learning, cloud technologies, and working with databases</li><li>Strong communication skills, curiosity, and a collaborative mindset</li><li>Exposure to LTE/5G telecommunications technology</li><li>Experience applying AI or automation to real-world challenges</li><li>Passion for innovation and continuous learning</li></ul><br><p>Benefits</p><ul><li>Flexible and hybrid working schemes to balance study, work, and life</li><li>Professional development events and networking opportunities</li><li>Well-being programs, including Personal Support Service 24/7 - a confidential support channel open to all Nokia employees and their families in challenging situations</li><li>Opportunities to join Nokia Employee Resource Groups (NERGs) and build connections across the organization</li><li>Employee Growth Solutions, mentorship programs, and coaching support for your career development</li><li>A learning environment that fosters both personal growth and professional development – for your role and beyond</li></ul><br><p>Company Overview</p><li>Nokia manufactures mobile devices, network infrastructure, and location-based technology for businesses. It is a sub-organization of Enscryb. It was founded in 1865, and is headquartered in Espoo, Southern Finland, FIN, with a workforce of 10001+ employees. Its website is http://www.nokia.com.</li><br>",
+      "job_apply_link": "https://jobright.ai/jobs/info/6972e0b61d55d64a2053438c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "nokia-automation-ai-ml-intern-dallas",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": "2026-02-01T03:05:10.366Z",
+    "postedAt": "2026-02-01T03:05:55.191Z"
+  },
+  {
+    "job": {
+      "job_title": "AI / ML Engineering Internship",
+      "employer_name": "FRONTIER TECHNOLOGY INC",
+      "job_city": "Golden",
+      "job_state": "Colorado",
+      "job_description": "Overview\n\nFrontier Technology Inc. (FTI) is seeking motivated AI / ML Interns to join our team. This internship offers hands-on experience working on impactful projects in Artificial Intelligence, Machine Learning, MLOps, and advanced analytics that support mission-critical solutions for the Department of Defense (DoD).\n\nThis role provides a unique opportunity for you to work closely with FTI’s Chief Technology Officer (CTO) and his AI technologist, gaining mentorship and direction from senior technical leaders while collaborating with experienced engineers in a dynamic environment.\n\nAt FTI, our culture is built around the 4C’s : Core Values, Commitment, Compassion, and Charity. We show our passion for our employees and customers while demonstrating love for our neighbors and communities.\n\nResponsibilities\n• Assist in the design, development, and deployment of AI / ML models and analytics solutions.\n• Support data preparation, feature engineering, and model training using modern ML frameworks.\n• Contribute to MLOps workflows, including testing, validation, and automation for model deployment.\n• Collaborate with engineers to integrate AI / ML capabilities into software systems and applications.\n\nEducation / Qualifications\n\nBaseline Qualifications :\n• . citizenship required.\n• You are flexible and agile, and love working under pressure and enjoy breaking the box.\n• You are comfortable without structure.\n• You love to code.\n• Sophomore or Junior with a graduation date later than Spring 2026.\n• Actively pursuing a bachelor’s degree in computer science or software engineering.\n• Strong programming skills in Python (additional languages such as Java or C++ are a plus).\n• Basic understanding of AI / ML concepts and willingness to learn advanced techniques.\n• Strong communication and collaboration skills, a passion for coding, and an eagerness to take on new challenges.\n\nAcademic Courses or Previous Intern Work :\n• You have taken an Artificial Intelligence course that has introduced you to classic AI search, reasoning, basic neural methods, and probabilistic reasoning.\n• You have taken an Introduction to Data Science course that has been able to provide you exposure into data acquisition, cleansing, manipulation, and machine learning toolkits using Python and SQL , with hands-on data work.\n• You have taken a course or had a previous internship that has provided you exposure into data pipelines, feature extraction, model evaluation, visualization, and ethical considerations using real datasets and Python toolkits.\n• You have taken a course or had a previous internship that has provided you exposure to AI / ML frameworks (TensorFlow, PyTorch, Scikit-learn).\n\nWhy This Internship is Unique :\n• Direct Access to Senior Leadership : Work closely with FTI’s CTO and our AI Technologist who will provide both mentorship and guidance.\n• Impactful, Mission-Focused Work : Contribute to projects that support national defense and make a real-world difference.\n• Hands-On Experience with Emerging Tech : Gain practical skills in AI, ML, and advanced analytics; technologies in high demand across industries.\n\nThis position pays $26.48 / hr in Colorado. FTI has a location-based compensation structure; there may be a different rate for interns in other states.\n\nFTI is an equal opportunity employer - Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or any other characteristic protected by state or federal law.",
+      "job_apply_link": "https://www.talent.com/view?id=bd6ea2785954&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "frontier-technology-ai-ml-engineering-internship-golden"
     },
     "status": "pending",
-    "addedAt": "2026-02-01T02:56:10.888Z",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI / ML Research and Development Intern",
+      "employer_name": "The Pennsylvania State University",
+      "job_city": "State College",
+      "job_state": "Pennsylvania",
+      "job_description": "APPLICATION INSTRUCTIONS :\n\nCURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please to complete the. Please do not apply here, apply internally through Workday.\n\nCURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please to complete the Please do not apply here, apply internally through Workday.\n\nIf you are NOT a current employee or student, please click “Apply” and complete .\n\nApproval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see .\n\nJOB DESCRIPTION AND POSITION REQUIREMENTS\n\nWe are seekingseveral undergraduate students with artificial intelligence / machine learning (AI / ML) experience to join Visualization and Decision Support Division of the Applied Research Laboratory (ARL) at Penn State. looking to support our mission to discover, demonstrate, transition, and educate. Interns will have the opportunity to work on cutting-edge AI technologies, participate in a Kaggle-style competition, and develop solutions to problems in computer vision and geospatial understanding.\n\nStudents selected will serve as active, hands-on, contributing members of the research staff at ARL. As part of this position, the candidate may :\n• Work within an agile development environment with other developers, scrum master, and product owners to scope, develop, and deliver quality software solutions.\n• Contribute to the research and development of unique algorithmic solutions for a wide array of sponsor requirements, with a focus on machine learning and artificial intelligence.\n• Contribute to the development, testing, and transition of front and back-end software applications to various IT environments.\n• Support machine learning model development using tools and technologies such as : PyTorch, Pandas, PostgreSQL, AWS, Docker and similar technologies.\n• Collaborate with cross-functional teams to integrate machine learning models into existing systems and develop new ones to meet specific project needs.\n\nStudents studying Computer Science, Electrical Engineering or Mathematics are encouraged to apply.\n\nExperience in machine learning is preferred.\n\nSuccessful candidates will work up to hours / week during the fall and spring semesters and hours / week over the summer. This is a paid internship located at either State College, PA or Reston, VA. Relocation and housing are not provided.\n\nCandidates selected may be subject to a government security investigation. You must be a U.S. citizen to apply. Employment with the Applied Research Laboratory will require successful completion of a pre-employment drug screen.\n\nFOR FURTHER INFORMATION on ARL, visit our web site at\n\nBACKGROUND CHECKS / CLEARANCES\n\nEmployment with the University will require successful completion of background check(s) in accordance with University policies.All positions at ARL require candidates to possess the ability to obtain a government security clearance; you will be notified during the interview process if this position is subject to a government background investigation. You must be a U.S. citizen to apply. Employment with the ARL will require successful completion of a pre-employment drug screen.\n\nCAMPUS SECURITY CRIME STATISTICS\n\nPursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 8, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review .\n\nEEO IS THE LAW\n\nPenn State is an equal opportunity employer and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 3.",
+      "job_apply_link": "https://www.talent.com/view?id=3c1e4bac4268&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "the-pennsylvania-state-university-ai-ml-research-and-development-intern-state-college"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+      "employer_name": "Amazon Web Services (AWS)",
+      "job_city": "Seattle",
+      "job_state": "Washington",
+      "job_description": "Annapurna Labs, a part of Amazon Web Services (AWS), is at the forefront of AI innovation, designing custom silicon and software systems that power advanced AI infrastructure. They are seeking interns for their 2026 program to work on impactful projects in ML systems, silicon innovation, and infrastructure development.\n\nResponsibilities\n• Work on projects that directly impact millions of AWS customers worldwide, tackling real technical challenges that push the boundaries of what's possible in AI acceleration\n• Architect next-generation AI chips that process billions of parameters\n• Build distributed systems that scale across thousands of accelerators\n• Create compiler optimizations that make ML training blazingly fast\n• Participate in daily team stand-ups to share updates on your project\n• Collaborate with your mentor to debug issues and brainstorm solutions\n• Contribute to systems that will impact millions of AWS customers\n\nSkills\n• Work 40 hours/week minimum and commit to 12 week internship maximum\n• Currently pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or related technical field\n• Must be enrolled in a full-time degree program at time of application and returning to school after the internship\n• Programming experience in C, C++, Python, or similar languages\n• Experience in two or more of the following areas: 1. Systems programming or low-level software development 2. Compiler design or optimization 3. Machine learning frameworks (PyTorch, JAX, TensorFlow) 4. Distributed systems or parallel computing 5. Performance analysis and optimization 6. Hardware design (RTL, Verilog, FPGA development)\n• Previous internship, research, or project experience in hardware/software co-design, ML systems, or computer architecture\n• Contributions to open-source projects or research publications\n• Completed or currently enrolled in coursework covering machine learning, parallel computing, computer architecture and/or compiler construction\n\nBenefits\n• EAP\n• Mental Health Support\n• Medical Advice Line\n• 401(k) matching\n\nCompany Overview\n• Launched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. It was founded in 2002, and is headquartered in Seattle, Washington, USA, with a workforce of 10001+ employees. Its website is http://aws.amazon.com.\n\nCompany H1B Sponsorship\n• Amazon Web Services (AWS) has a track record of offering H1B sponsorships, with 22803 in 2025, 21175 in 2024, 19057 in 2023, 24088 in 2022, 12233 in 2021, 14881 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/6932610ba0dde7020e2e6511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-17T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "amazon-web-services-aws-2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation-seattle"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)",
+      "employer_name": "Simons Foundation",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_description": "Simons Foundation is seeking an intern for their Scientific Computing Core to provide continuous benchmarking of cluster resources. The role involves creating automated tests, managing NoSQL databases, and detecting performance issues in high performance computing environments.\n\nResponsibilities\n• Create scripts that will run automated tests based on the existing benchmarks\n• Upload the results to the existing NoSQL database interface\n• Write code on the server-side to detect out-of-distribution results and send alerts to the clusters administrators\n• Perform any other duties or tasks as assigned or required\n\nSkills\n• Currently enrolled B.S. or M.S. in computer science, engineering or related technical discipline\n• Experience with Unix (Linux or equivalent)\n• Experience with scripting languages like Python\n• Databases: NoSQL\n• Must enjoy working in a vigorous research-driven environment\n• Desire to document code and process, deliberative decision-making\n• Strong oral and written communication\n• Excellent collaborative and interpersonal skills\n• Resume or CV\n• Cover letter indicating your interest in the position\n\nBenefits\n• Applicable travel assistance to New York City\n• A supported temporary housing option while in New York City\n\nCompany Overview\n• Simons Foundation is a private foundation funding research in mathematics and the basic sciences. It was founded in 1994, and is headquartered in New York, New York, USA, with a workforce of 201-500 employees. Its website is https://www.simonsfoundation.org.\n\nCompany H1B Sponsorship\n• Simons Foundation has a track record of offering H1B sponsorships, with 38 in 2025, 30 in 2024, 34 in 2023, 27 in 2022, 16 in 2021, 18 in 2020. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/6933985df131d96e48464b9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-17T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "simons-foundation-database-and-automated-testing-intern-for-high-performance-computing-and-machine-learning-benchmarks-new-york"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Video Content Creator Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Tacoma",
+      "job_state": "Washington",
+      "job_description": "A company is looking for an AI Video Content Creator intern.\n\nKey Responsibilities\n\nRecord scripted instructional videos on foundational AI skills\n\nCollaborate with the Curriculum team to ensure video content aligns with educational goals\n\nUtilize provided recording equipment to produce high-quality video content\n\nRequired Qualifications\n\nCurrently enrolled in a U.S. college / university\n\nComfortable presenting on camera and using a teleprompter\n\nAbility to explain complex topics in an engaging manner\n\nCreativity and ability to work independently\n\nDeadline-driven with the ability to meet project timelines",
+      "job_apply_link": "https://www.talent.com/view?id=925cb35ce027&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-ai-video-content-creator-intern-tacoma"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern / Aide - Machine Learning (Part-time)",
+      "employer_name": "Baylor College of Medicine",
+      "job_city": "Houston",
+      "job_state": "Texas",
+      "job_description": "Job Description\n\nJob Title :\n\nIntern / Aide - Machine Learning (Part-time)\n\nDivision :\n\nIntegrative Physiology\n\nWork Arrangement : Onsite only\n\nLocation : Houston, TX\n\nSalary Range : $ - $ per hour\n\nFLSA Status : Nonexempt\n\nWork Schedule : Flexible\n\nSummary\n\nThe intern will receive training on machine learning algorithms, implementing them, and fitting them on the datasets in our cluster computers. Overall, the position will offer great exposure to genomic data and advanced machine learning. This position is part‑time at 10 hours per week and is not benefits‑eligible.\n\nJob Purpose\n\nProvides temporary administrative or laboratory support to a department while gaining practical work experience.\n\nJob Duties\n• Identifies the specific datasets and machine learning algorithms, the intern will implement the algorithms in Python / R and fit them on the datasets in our cluster computers.\n• Performs other job-related duties as assigned.\n\nMinimum Qualifications\n\nMust be enrolled in high school or be a high school graduate (or equivalent secondary education) or enrolled in an institution of higher education.\n\nWork Authorization Requirement :\n\nThis position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States at the time of application and throughout the duration of employment.\n\nBaylor College of Medicine is an Equal Opportunity / Affirmative Action / Equal Access Employer.\n\nRequisition ID : 24227",
+      "job_apply_link": "https://www.talent.com/view?id=b18bcac46f42&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "3d",
+      "id": "baylor-college-of-medicine-intern-aide-machine-learning-part-time-houston"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern",
+      "employer_name": "AMD",
+      "job_city": "Longmont",
+      "job_state": "Colorado",
+      "job_description": "WHAT YOU DO AT AMD CHANGES EVERYTHING\n\nAt AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you'll discover the real differentiator is our culture. We push the limits of innovation to solve the world's most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond. Together, we advance your career.\n\nAs an AMD AI / ML Intern or Co-op, you'll be placed at the epicenter of the AI ecosystem, working alongside experts and industry pioneers. You'll do important work, learn new skills, expand your network, and gain real-world experience on projects that impact millions of end-users worldwide. Whether you're an undergrad or a PhD student, your contributions matter—and your experience here will be a launchpad for what comes next.\n\nJOB DETAILS :\n\nLocation : Austin, TX; Boxborough, MA; Fort Collins, CO; Longmont, CO; Fishkill, NY; or Rochester, NY\n\nOnsite / Hybrid : This role requires the student to work full time (40 hours a week), in either a hybrid or onsite work structure throughout the duration of the co-op / intern term\n\nDuration :\n\nSummer / Fall Co-op : May 18, 2026 - December 11, 2026 or June 22, 2026 - December 11, 2026\n\nSummer Internship : May 18, 2026 - August 7, 2026 or June 22, 2026 – September 11, 2026\n\nFall Internship : September 14, 2026 – December 11, 2026\n\nWHAT YOU WILL BE DOING :\n\nWe are seeking a highly motivated Machine Learning (ML) / Artificial Intelligence (AI) intern to join our team and participate in research and development of next-generation product differentiation features with extraordinary ML / AI engineers. In this role –\n• We will help you learn innovative new technologies in Machine Learning | AI | High Performance Compute\n• We will train you to analyze and implement changes to algorithms to improve AI performance and user experiences\n• We may assign you to one or more of the following project work -\n\nWork on machine learning techniques to build applications for source code analysis and Image Corruption Detection\n• Research, development, and deployment in machine learning-based and computer vision products on AMD's current and future products\n• Fixing and addressing problems with deployed AI to improve user experience\n• Support AI software teams with roadmap planning, collateral development, and customer engagements\n\nWHO WE ARE LOOKING FOR :\n• You are currently enrolled in a US based University in a bachelor's degree program majoring in computer science, computer engineering, data science / analytics, or a related field\n\nIf you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage you to apply –\n• Machine learning, data science, computer vision, statistics, and mathematics\n• Programming in Python, C / C++\n• Relational (SQL) and no-SQL databases\n• Machine learning algorithms and frameworks\n• Deep learning / AI framework like Pytorch, Tensorflow, Caffe.\n• Familiarity with cloud (e.g., AWS, GCP, Azure)\n\nNote : By submitting your application, you are indicating your interest in AMD intern positions. We are recruiting for multiple positions, and if your experience aligns with any of our intern opportunities, a recruiter will contact you.\n\nThis role is not eligible for visa sponsorship.\n\nBenefits offered are described : AMD benefits at a glance.\n\nAMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and / or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants' needs under the respective laws throughout all stages of the recruitment and selection process.\n\nAMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD's “Responsible AI Policy” is available here.\n\nThis posting is for an existing vacancy.",
+      "job_apply_link": "https://www.talent.com/view?id=af8e5e181958&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-09T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Talent.com",
+      "job_posted_at": "1h",
+      "id": "amd-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-longmont"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-01T03:04:54.644Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Artificial Intelligence Intern - Perception for Robotics",
+      "employer_name": "Familiar Machines & Magic",
+      "job_city": "Woburn",
+      "job_state": "Massachusetts",
+      "job_description": "Familiar Machines and Magic, Inc. is a Massachusetts-based company focused on using robotics and AI to create artificial life. They are seeking a highly motivated AI Intern to develop and implement perception models that run reliably on robots, contributing directly to their product and research direction.\n\nResponsibilities\n• Build and deploy multimodal perception systems using deep learning and traditional computer vision / signal processing methods\n• Train and evaluate models on real datasets and support integration onto robot hardware\n• Improve model performance, robustness, and runtime efficiency\n• Iterate quickly with strong engineering practices (clean code, reproducible experiments)\n• Work closely with roboticists, software engineers, and designers to turn cutting-edge research into a robust, production-ready perception pipeline\n\nSkills\n• Currently pursuing a Master's or Ph.D. in Robotics, Computer Science, Machine Learning, or a related technical field\n• Authorized to work in the US (citizen or already has visa/work authorization)\n• Able to start ASAP (by February)\n• Prior experience developing perception models (e.g., implemented/applied on a robot and/or real dataset)\n• Strong deep learning background\n• Strong programming skills in Python and C++\n• Hands-on mindset: you enjoy building, debugging, and making things work end-to-end\n• Comfortable with rapid iteration in a fast-paced environment\n• Prior experience in HRI, robotics, or embodied AI\n• Prior research experience, with publications or submissions in top venues (e.g., ICML, NeurIPS, ICRA, IROS, HRI, RSS, CVPR, CHI)\n• Familiarity with low-resource / compute-constrained systems\n• Familiarity with VLMs and LLMs\n\nCompany Overview\n• Familiar Machines & Magic is creating artificial life to build a more caring world. It was founded in undefined, and is headquartered in Boston, Massachusetts, US, with a workforce of 11-50 employees. Its website is https://www.familiarmachines.com/.\n\nCompany H1B Sponsorship\n• Familiar Machines & Magic has a track record of offering H1B sponsorships, with 1 in 2025. Please note that this does not guarantee sponsorship for this specific role.",
+      "job_apply_link": "https://jobright.ai/jobs/info/6967f578639b452fb57d82dd?utm_source=1014&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "Jobright",
+      "job_posted_at": "1h",
+      "id": "familiar-machines-magic-artificial-intelligence-intern-perception-for-robotics-woburn"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-01T03:04:54.644Z",
     "enrichedAt": null,
     "postedAt": null
   }

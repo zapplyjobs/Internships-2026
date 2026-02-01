@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=69c3079dc1ed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Data Analytics Intern in Peoria. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=69c3079dc1ed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-01T03:04:56.581Z"
+    }
+  },
+  "cachedAt": 1769915096582
+}

@@ -1,95 +1,161 @@
 {
-  "generated": "2026-02-01T02:57:19.311Z",
+  "generated": "2026-02-01T03:05:57.391Z",
   "period": "last_7_days",
-  "period_start": "2026-01-25T02:57:19.311Z",
-  "period_end": "2026-02-01T02:57:19.311Z",
+  "period_start": "2026-01-25T03:05:57.391Z",
+  "period_end": "2026-02-01T03:05:57.391Z",
   "summary": {
-    "total_jobs_posted": 14,
-    "unique_jobs": 7,
-    "multi_channel_postings": 14,
-    "unique_multi_channel_jobs": 7,
+    "total_jobs_posted": 17,
+    "unique_jobs": 9,
+    "multi_channel_postings": 16,
+    "unique_multi_channel_jobs": 8,
     "failed_postings": 0,
     "filtered_jobs": 10,
-    "channels_active": 6
+    "channels_active": 7
   },
   "by_channel": {
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
       "count": 2,
       "jobs": [
-        "womentech-network-intern-data-analyst-concord",
-        "virtualvocations-data-science-intern-alexandria"
+        "virtualvocations-data-science-intern-dayton",
+        "amazon-com-amazon-data-science-internship-paid-seattle"
       ],
       "recent_jobs": [
         {
-          "id": "womentech-network-intern-data-analyst-concord",
-          "title": "Intern, Data Analyst",
-          "company": "WomenTech Network",
-          "posted_at": "2026-02-01T02:56:43.160Z"
-        },
-        {
-          "id": "virtualvocations-data-science-intern-alexandria",
+          "id": "virtualvocations-data-science-intern-dayton",
           "title": "Data Science Intern",
           "company": "VirtualVocations",
-          "posted_at": "2026-02-01T02:56:47.230Z"
-        }
-      ]
-    },
-    "🌉・bay-area-internships": {
-      "channel_id": "1464303497242742875",
-      "count": 1,
-      "jobs": [
-        "womentech-network-intern-data-analyst-concord"
-      ],
-      "recent_jobs": [
+          "posted_at": "2026-02-01T03:05:15.106Z"
+        },
         {
-          "id": "womentech-network-intern-data-analyst-concord",
-          "title": "Intern, Data Analyst",
-          "company": "WomenTech Network",
-          "posted_at": "2026-02-01T02:56:45.332Z"
+          "id": "amazon-com-amazon-data-science-internship-paid-seattle",
+          "title": "Amazon Data Science Internship-PAID",
+          "company": "Amazon.com, Inc.",
+          "posted_at": "2026-02-01T03:05:18.611Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 5,
+      "count": 3,
       "jobs": [
-        "virtualvocations-data-science-intern-alexandria",
-        "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
-        "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
-        "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
-        "qtc-management-agentic-ai-data-science-internship-"
+        "virtualvocations-data-science-intern-dayton",
+        "nokia-automation-ai-ml-intern-dallas",
+        "virtualvocations-data-analytics-intern-peoria"
       ],
       "recent_jobs": [
         {
-          "id": "virtualvocations-data-science-intern-alexandria",
+          "id": "virtualvocations-data-science-intern-dayton",
           "title": "Data Science Intern",
           "company": "VirtualVocations",
-          "posted_at": "2026-02-01T02:56:48.934Z"
+          "posted_at": "2026-02-01T03:05:16.863Z"
         },
         {
-          "id": "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
-          "title": "2026 Undergraduate Summer Internship – Enterprise Analytics",
-          "company": "DFW International Airport",
-          "posted_at": "2026-02-01T02:56:55.567Z"
+          "id": "nokia-automation-ai-ml-intern-dallas",
+          "title": "Automation - AI/ML Intern",
+          "company": "Nokia",
+          "posted_at": "2026-02-01T03:05:38.633Z"
         },
         {
-          "id": "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
-          "title": "NNSS Undergraduate Science Internship-PAID",
-          "company": "U.S. Department of Energy - NNSA Nevada National Security Site",
-          "posted_at": "2026-02-01T02:56:59.001Z"
+          "id": "virtualvocations-data-analytics-intern-peoria",
+          "title": "Data Analytics Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-01T03:05:46.950Z"
+        }
+      ]
+    },
+    "🌲・pacific-northwest-internships": {
+      "channel_id": "1464304146072207390",
+      "count": 1,
+      "jobs": [
+        "amazon-com-amazon-data-science-internship-paid-seattle"
+      ],
+      "recent_jobs": [
+        {
+          "id": "amazon-com-amazon-data-science-internship-paid-seattle",
+          "title": "Amazon Data Science Internship-PAID",
+          "company": "Amazon.com, Inc.",
+          "posted_at": "2026-02-01T03:05:20.368Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 4,
+      "jobs": [
+        "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
+        "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
+        "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
+        "nokia-automation-ai-ml-intern-dallas"
+      ],
+      "recent_jobs": [
+        {
+          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
+          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
+          "company": "IBM",
+          "posted_at": "2026-02-01T03:05:25.150Z"
         },
         {
-          "id": "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
-          "title": "Business Data and Analytics Intern",
-          "company": "Pine Tree",
-          "posted_at": "2026-02-01T02:57:02.530Z"
+          "id": "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
+          "title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
+          "company": "California Life Company",
+          "posted_at": "2026-02-01T03:05:28.753Z"
         },
         {
-          "id": "qtc-management-agentic-ai-data-science-internship-",
-          "title": "Agentic AI & Data Science Internship",
-          "company": "QTC Management, inc",
-          "posted_at": "2026-02-01T02:57:09.097Z"
+          "id": "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
+          "title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
+          "company": "General Motors",
+          "posted_at": "2026-02-01T03:05:32.353Z"
+        },
+        {
+          "id": "nokia-automation-ai-ml-intern-dallas",
+          "title": "Automation - AI/ML Intern",
+          "company": "Nokia",
+          "posted_at": "2026-02-01T03:05:35.781Z"
+        }
+      ]
+    },
+    "🗽・new-york-internships": {
+      "channel_id": "1464303539101634634",
+      "count": 2,
+      "jobs": [
+        "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
+        "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york"
+      ],
+      "recent_jobs": [
+        {
+          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
+          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
+          "company": "IBM",
+          "posted_at": "2026-02-01T03:05:26.933Z"
+        },
+        {
+          "id": "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york",
+          "title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
+          "company": "META",
+          "posted_at": "2026-02-01T03:05:50.683Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 2,
+      "jobs": [
+        "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
+        "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco"
+      ],
+      "recent_jobs": [
+        {
+          "id": "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
+          "title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
+          "company": "California Life Company",
+          "posted_at": "2026-02-01T03:05:30.576Z"
+        },
+        {
+          "id": "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
+          "title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
+          "company": "General Motors",
+          "posted_at": "2026-02-01T03:05:34.064Z"
         }
       ]
     },
@@ -97,139 +163,112 @@
       "channel_id": "1464303178286760059",
       "count": 3,
       "jobs": [
-        "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
-        "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
-        "pine-tree-business-data-and-analytics-intern-oakbrook-terrace"
+        "ipinfo-research-intern-boise",
+        "virtualvocations-data-analytics-intern-peoria",
+        "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york"
       ],
       "recent_jobs": [
         {
-          "id": "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
-          "title": "2026 Undergraduate Summer Internship – Enterprise Analytics",
-          "company": "DFW International Airport",
-          "posted_at": "2026-02-01T02:56:53.826Z"
+          "id": "ipinfo-research-intern-boise",
+          "title": "Research Intern",
+          "company": "IPinfo",
+          "posted_at": "2026-02-01T03:05:43.370Z"
         },
         {
-          "id": "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
-          "title": "NNSS Undergraduate Science Internship-PAID",
-          "company": "U.S. Department of Energy - NNSA Nevada National Security Site",
-          "posted_at": "2026-02-01T02:56:57.278Z"
+          "id": "virtualvocations-data-analytics-intern-peoria",
+          "title": "Data Analytics Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-01T03:05:45.108Z"
         },
         {
-          "id": "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
-          "title": "Business Data and Analytics Intern",
-          "company": "Pine Tree",
-          "posted_at": "2026-02-01T02:57:00.781Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 2,
-      "jobs": [
-        "qtc-management-agentic-ai-data-science-internship-",
-        "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago"
-      ],
-      "recent_jobs": [
-        {
-          "id": "qtc-management-agentic-ai-data-science-internship-",
-          "title": "Agentic AI & Data Science Internship",
-          "company": "QTC Management, inc",
-          "posted_at": "2026-02-01T02:57:07.317Z"
-        },
-        {
-          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago",
-          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
-          "company": "IBM",
-          "posted_at": "2026-02-01T02:57:10.823Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 1,
-      "jobs": [
-        "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago"
-      ],
-      "recent_jobs": [
-        {
-          "id": "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago",
-          "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
-          "company": "IBM",
-          "posted_at": "2026-02-01T02:57:12.608Z"
+          "id": "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york",
+          "title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
+          "company": "META",
+          "posted_at": "2026-02-01T03:05:48.815Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "womentech-network-intern-data-analyst-concord",
-      "company": "WomenTech Network",
-      "title": "Intern, Data Analyst",
-      "channels": [
-        "📊・data-science-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-02-01T02:56:43.160Z"
-    },
-    {
-      "job_id": "virtualvocations-data-science-intern-alexandria",
+      "job_id": "virtualvocations-data-science-intern-dayton",
       "company": "VirtualVocations",
       "title": "Data Science Intern",
       "channels": [
         "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-01T02:56:47.230Z"
+      "posted_at": "2026-02-01T03:05:15.106Z"
     },
     {
-      "job_id": "dfw-international-airport-2026-undergraduate-summer-internship-enterprise-analytics-",
-      "company": "DFW International Airport",
-      "title": "2026 Undergraduate Summer Internship – Enterprise Analytics",
+      "job_id": "amazon-com-amazon-data-science-internship-paid-seattle",
+      "company": "Amazon.com, Inc.",
+      "title": "Amazon Data Science Internship-PAID",
       "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
+        "📊・data-science-internships",
+        "🌲・pacific-northwest-internships"
       ],
-      "posted_at": "2026-02-01T02:56:53.826Z"
+      "posted_at": "2026-02-01T03:05:18.611Z"
     },
     {
-      "job_id": "u-s-department-of-energy-nnsa-nevada-national-security-site-nnss-undergraduate-science-internship-paid-north-las-vegas",
-      "company": "U.S. Department of Energy - NNSA Nevada National Security Site",
-      "title": "NNSS Undergraduate Science Internship-PAID",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-01T02:56:57.278Z"
-    },
-    {
-      "job_id": "pine-tree-business-data-and-analytics-intern-oakbrook-terrace",
-      "company": "Pine Tree",
-      "title": "Business Data and Analytics Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-01T02:57:00.781Z"
-    },
-    {
-      "job_id": "qtc-management-agentic-ai-data-science-internship-",
-      "company": "QTC Management, inc",
-      "title": "Agentic AI & Data Science Internship",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-01T02:57:07.317Z"
-    },
-    {
-      "job_id": "ibm-data-scientist-intern-2026-ai-analytics-automation-chicago",
+      "job_id": "ibm-data-scientist-intern-2026-ai-analytics-automation-phoenix",
       "company": "IBM",
       "title": "Data Scientist Intern 2026 - AI Analytics & Automation",
       "channels": [
         "🤖・ai-internships",
         "🗽・new-york-internships"
       ],
-      "posted_at": "2026-02-01T02:57:10.823Z"
+      "posted_at": "2026-02-01T03:05:25.150Z"
+    },
+    {
+      "job_id": "california-life-company-intern-machine-learning-for-molecule-design-ms-phd-south-san-francisco",
+      "company": "California Life Company",
+      "title": "Intern, Machine Learning for Molecule Design (MS / PhD)",
+      "channels": [
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-02-01T03:05:28.753Z"
+    },
+    {
+      "job_id": "general-motors-2026-summer-intern-ai-ml-intern-autonomous-vehicle-engineering-phd-san-francisco",
+      "company": "General Motors",
+      "title": "2026 Summer Intern – AI/ML Intern - Autonomous Vehicle Engineering (PhD)",
+      "channels": [
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-02-01T03:05:32.353Z"
+    },
+    {
+      "job_id": "nokia-automation-ai-ml-intern-dallas",
+      "company": "Nokia",
+      "title": "Automation - AI/ML Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T03:05:35.781Z"
+    },
+    {
+      "job_id": "virtualvocations-data-analytics-intern-peoria",
+      "company": "VirtualVocations",
+      "title": "Data Analytics Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-01T03:05:45.108Z"
+    },
+    {
+      "job_id": "meta-intern-research-scientist-ai-research-in-speech-audio-phd-new-york",
+      "company": "META",
+      "title": "Intern - Research Scientist, AI Research in Speech & Audio (PhD)",
+      "channels": [
+        "💻・tech-internships",
+        "🗽・new-york-internships"
+      ],
+      "posted_at": "2026-02-01T03:05:48.815Z"
     }
   ],
   "failures": [],
@@ -243,70 +282,70 @@
         "title": "Intern – Speech Intelligence Analyst",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.789Z"
+        "timestamp": "2026-02-01T03:05:14.693Z"
       },
       {
         "job_id": "bread-financial-intern-intelligent-automation-columbus",
         "title": "Intern – Intelligent Automation",
         "company": "Bread Financial",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.790Z"
+        "timestamp": "2026-02-01T03:05:14.693Z"
       },
       {
         "job_id": "nelnet-intern-pathway-lincoln",
         "title": "Intern Pathway",
         "company": "Nelnet",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.790Z"
+        "timestamp": "2026-02-01T03:05:14.693Z"
       },
       {
         "job_id": "caterpillar-corporate-intern-digital-and-analytics-peoria",
         "title": "Corporate Intern - Digital and Analytics",
         "company": "Caterpillar Inc.",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.791Z"
+        "timestamp": "2026-02-01T03:05:14.694Z"
       },
       {
         "job_id": "sparksoft-intern-columbia",
         "title": "Intern",
         "company": "Sparksoft",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.791Z"
+        "timestamp": "2026-02-01T03:05:14.694Z"
       },
       {
         "job_id": "rheem-product-engineering-intern-huntsville",
         "title": "Product Engineering Intern",
         "company": "Rheem",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.791Z"
+        "timestamp": "2026-02-01T03:05:14.694Z"
       },
       {
         "job_id": "adtheorant-data-science-intern-remote-in-usa",
         "title": "Data Science Intern",
         "company": "Adtheorant",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.791Z"
+        "timestamp": "2026-02-01T03:05:14.694Z"
       },
       {
         "job_id": "labcorp-intern-data-science-and-artificial-intelligence-durham",
         "title": "Intern Data Science and Artificial Intelligence",
         "company": "LabCorp",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.791Z"
+        "timestamp": "2026-02-01T03:05:14.694Z"
       },
       {
         "job_id": "crowdstrike-software-engineer-intern-redmond",
         "title": "Software Engineer Intern",
         "company": "Crowdstrike",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.792Z"
+        "timestamp": "2026-02-01T03:05:14.695Z"
       },
       {
         "job_id": "visa-software-engineer-intern-summer-2026-ashburn-",
         "title": "Software Engineer, Intern Summer 2026, Ashburn",
         "company": "Visa",
         "reason": "already_posted",
-        "timestamp": "2026-02-01T02:56:42.792Z"
+        "timestamp": "2026-02-01T03:05:14.695Z"
       }
     ]
   }
