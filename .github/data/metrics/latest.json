@@ -1,19 +1,117 @@
 {
-  "generated": "2026-02-02T12:22:28.288Z",
+  "generated": "2026-02-02T12:49:25.419Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T12:22:28.288Z",
-  "period_end": "2026-02-02T12:22:28.288Z",
+  "period_start": "2026-01-26T12:49:25.419Z",
+  "period_end": "2026-02-02T12:49:25.419Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 6,
+    "unique_jobs": 3,
+    "multi_channel_postings": 6,
+    "unique_multi_channel_jobs": 3,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 0
+    "channels_active": 3
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 2,
+      "jobs": [
+        "the-walt-disney-company-abc-research-insights-analytics-intern-burbank",
+        "the-walt-disney-company-content-brand-insights-social-media-analytics-intern-summer-fall-2026-burbank"
+      ],
+      "recent_jobs": [
+        {
+          "id": "the-walt-disney-company-abc-research-insights-analytics-intern-burbank",
+          "title": "ABC Research Insights & Analytics Intern",
+          "company": "The Walt Disney Company",
+          "posted_at": "2026-02-02T12:49:05.974Z"
+        },
+        {
+          "id": "the-walt-disney-company-content-brand-insights-social-media-analytics-intern-summer-fall-2026-burbank",
+          "title": "Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026",
+          "company": "The Walt Disney Company",
+          "posted_at": "2026-02-02T12:49:10.014Z"
+        }
+      ]
+    },
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 3,
+      "jobs": [
+        "the-walt-disney-company-abc-research-insights-analytics-intern-burbank",
+        "the-walt-disney-company-content-brand-insights-social-media-analytics-intern-summer-fall-2026-burbank",
+        "the-walt-disney-company-wdi-figure-programming-intern-orlando"
+      ],
+      "recent_jobs": [
+        {
+          "id": "the-walt-disney-company-abc-research-insights-analytics-intern-burbank",
+          "title": "ABC Research Insights & Analytics Intern",
+          "company": "The Walt Disney Company",
+          "posted_at": "2026-02-02T12:49:08.231Z"
+        },
+        {
+          "id": "the-walt-disney-company-content-brand-insights-social-media-analytics-intern-summer-fall-2026-burbank",
+          "title": "Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026",
+          "company": "The Walt Disney Company",
+          "posted_at": "2026-02-02T12:49:11.878Z"
+        },
+        {
+          "id": "the-walt-disney-company-wdi-figure-programming-intern-orlando",
+          "title": "WDI Figure Programming Intern",
+          "company": "The Walt Disney Company",
+          "posted_at": "2026-02-02T12:49:18.707Z"
+        }
+      ]
+    },
+    "🎯・other-industry-internships": {
+      "channel_id": "1464303419794784347",
+      "count": 1,
+      "jobs": [
+        "the-walt-disney-company-wdi-figure-programming-intern-orlando"
+      ],
+      "recent_jobs": [
+        {
+          "id": "the-walt-disney-company-wdi-figure-programming-intern-orlando",
+          "title": "WDI Figure Programming Intern",
+          "company": "The Walt Disney Company",
+          "posted_at": "2026-02-02T12:49:16.835Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "the-walt-disney-company-abc-research-insights-analytics-intern-burbank",
+      "company": "The Walt Disney Company",
+      "title": "ABC Research Insights & Analytics Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-02-02T12:49:05.974Z"
+    },
+    {
+      "job_id": "the-walt-disney-company-content-brand-insights-social-media-analytics-intern-summer-fall-2026-burbank",
+      "company": "The Walt Disney Company",
+      "title": "Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026",
+      "channels": [
+        "📊・data-science-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-02-02T12:49:10.014Z"
+    },
+    {
+      "job_id": "the-walt-disney-company-wdi-figure-programming-intern-orlando",
+      "company": "The Walt Disney Company",
+      "title": "WDI Figure Programming Intern",
+      "channels": [
+        "🎯・other-industry-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-02-02T12:49:16.835Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
