@@ -50,6 +50,7 @@ async function fetchAPIJobs(company) {
 
 /**
  * Fetch jobs from external aggregator service
+ * NOTE: Deprecated - Internships repo now uses JSearch API as primary source
  * @returns {Promise<Array>} Array of job objects
  */
 async function fetchExternalJobsData() {
@@ -57,7 +58,7 @@ async function fetchExternalJobsData() {
 
   if (!dataSourceUrl) {
     const errorMsg = '❌ CRITICAL: PRIMARY_DATA_SOURCE_URL environment variable is not set!\n' +
-                     '   → Set JOB_PROCESSOR_URL secret in repository settings\n' +
+                     '   → Configure data source URL via repository secrets\n' +
                      '   → Workflow will fail without this secret';
     console.error(errorMsg);
     throw new Error('PRIMARY_DATA_SOURCE_URL is required but not configured');
