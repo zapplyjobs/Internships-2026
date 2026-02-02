@@ -1,7 +1,7 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2026-02-02T02:09:49.612Z",
-  "totalPosts": 8239,
+  "lastUpdated": "2026-02-02T02:28:13.232Z",
+  "totalPosts": 8258,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
@@ -120,8 +120,8 @@
     },
     "1464303266866135232": {
       "name": "📊・data-science-internships",
-      "posts": 128,
-      "lastPost": "2026-02-02T02:09:37.286Z"
+      "posts": 130,
+      "lastPost": "2026-02-02T02:27:35.884Z"
     },
     "1464303522177614001": {
       "name": "🏠・remote-usa-internships",
@@ -130,13 +130,13 @@
     },
     "1464303204178067620": {
       "name": "🤖・ai-internships",
-      "posts": 232,
-      "lastPost": "2026-02-02T02:09:47.700Z"
+      "posts": 235,
+      "lastPost": "2026-02-02T02:28:05.047Z"
     },
     "1464303178286760059": {
       "name": "💻・tech-internships",
-      "posts": 443,
-      "lastPost": "2026-02-02T01:36:58.083Z"
+      "posts": 447,
+      "lastPost": "2026-02-02T02:27:51.197Z"
     },
     "1464303312626122855": {
       "name": "📣・marketing-internships",
@@ -150,18 +150,18 @@
     },
     "1464304182923362324": {
       "name": "📍・other-usa-internships",
-      "posts": 265,
-      "lastPost": "2026-02-02T02:09:39.078Z"
+      "posts": 271,
+      "lastPost": "2026-02-02T02:28:13.232Z"
     },
     "1464303497242742875": {
       "name": "🌉・bay-area-internships",
-      "posts": 116,
-      "lastPost": "2026-02-02T02:09:49.612Z"
+      "posts": 118,
+      "lastPost": "2026-02-02T02:28:06.765Z"
     },
     "1464304161230295131": {
       "name": "🌴・socal-internships",
-      "posts": 31,
-      "lastPost": "2026-02-02T02:09:45.714Z"
+      "posts": 32,
+      "lastPost": "2026-02-02T02:27:37.577Z"
     },
     "1464303539101634634": {
       "name": "🗽・new-york-internships",
@@ -175,8 +175,8 @@
     },
     "1464303419794784347": {
       "name": "🎯・other-industry-internships",
-      "posts": 13,
-      "lastPost": "2026-02-02T00:57:35.931Z"
+      "posts": 14,
+      "lastPost": "2026-02-02T02:28:11.510Z"
     }
   }
 }
