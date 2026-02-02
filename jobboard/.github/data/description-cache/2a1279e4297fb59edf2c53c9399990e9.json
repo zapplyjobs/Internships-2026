@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=388f5edc447d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for EE/CE/RF Engineering Intern, Summer 2026 in Nashua. Disability Solutions is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=388f5edc447d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-02T00:20:40.507Z"
+    }
+  },
+  "cachedAt": 1769991640507
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=471a5dbca0aa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Software Engineer Intern, Robotics in Campbell. Imperative Care is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=471a5dbca0aa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-02T00:20:54.481Z"
+    }
+  },
+  "cachedAt": 1769991654481
+}

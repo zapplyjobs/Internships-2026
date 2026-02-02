@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/692f0a81ef4b48533d1425b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>Amazon Web Services (AWS) is seeking Software Development Engineer interns to solve real customer problems through innovative technology. Interns will work on scalable services in a collaborative environment, owning the entire lifecycle of their code and seeing their work's impact on millions of customers worldwide.</p><br><p>Responsibilities</p><ul><li>Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward</li><li>Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment</li><li>Participate in code reviews and contribute to technical documentation</li><li>Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective</li><li>Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies</li><li>Write clean, maintainable code following best practices and design patterns</li><li>Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues</li></ul><br><p>Skills</p><ul><li>Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, or related fields at time of application</li><li>Knowledge of programming languages such as C/C++, Python, Java or Perl</li><li>Knowledge of computer science fundamentals such as object-oriented design, operating systems, algorithms, data structures, and complexity analysis</li><li>Experience from a technical internship</li><li>Experience with distributed, multi-tiered systems, algorithms, and relational databases</li><li>Experience in optimization mathematics such as linear programming and nonlinear optimization</li><li>Ability to effectively articulate technical challenges and solutions</li><li>Adept at handling ambiguous or undefined problems as well as ability to think abstractly</li></ul><br><p>Benefits</p><ul><li>Competitive monthly salary</li><li>Relocation support</li><li>Access to a range of employee benefits</li></ul><br><p>Company Overview</p><li>Launched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. It was founded in 2002, and is headquartered in Seattle, Washington, USA, with a workforce of 10001+ employees. Its website is http://aws.amazon.com.</li><br><p>Company H1B Sponsorship</p><li>Amazon Web Services (AWS) has a track record of offering H1B sponsorships, with 22803 in 2025, 21175 in 2024, 19057 in 2023, 24088 in 2022, 12233 in 2021, 14881 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/692f0a81ef4b48533d1425b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-02T00:20:58.565Z"
+    }
+  },
+  "cachedAt": 1769991658566
+}
