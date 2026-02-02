@@ -1,19 +1,93 @@
 {
-  "generated": "2026-02-02T15:17:04.819Z",
+  "generated": "2026-02-02T15:46:46.258Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T15:17:04.819Z",
-  "period_end": "2026-02-02T15:17:04.819Z",
+  "period_start": "2026-01-26T15:46:46.258Z",
+  "period_end": "2026-02-02T15:46:46.258Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 4,
+    "unique_jobs": 2,
+    "multi_channel_postings": 4,
+    "unique_multi_channel_jobs": 2,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 0
+    "channels_active": 3
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 1,
+      "jobs": [
+        "w-r-berkley-business-and-data-analyst-intern-farmington"
+      ],
+      "recent_jobs": [
+        {
+          "id": "w-r-berkley-business-and-data-analyst-intern-farmington",
+          "title": "Business and Data Analyst Intern",
+          "company": "W.R. Berkley",
+          "posted_at": "2026-02-02T15:46:31.365Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 2,
+      "jobs": [
+        "w-r-berkley-business-and-data-analyst-intern-farmington",
+        "sas-ai-society-intern-morrisville"
+      ],
+      "recent_jobs": [
+        {
+          "id": "w-r-berkley-business-and-data-analyst-intern-farmington",
+          "title": "Business and Data Analyst Intern",
+          "company": "W.R. Berkley",
+          "posted_at": "2026-02-02T15:46:33.124Z"
+        },
+        {
+          "id": "sas-ai-society-intern-morrisville",
+          "title": "AI & Society Intern",
+          "company": "SAS",
+          "posted_at": "2026-02-02T15:46:39.556Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 1,
+      "jobs": [
+        "sas-ai-society-intern-morrisville"
+      ],
+      "recent_jobs": [
+        {
+          "id": "sas-ai-society-intern-morrisville",
+          "title": "AI & Society Intern",
+          "company": "SAS",
+          "posted_at": "2026-02-02T15:46:37.884Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "w-r-berkley-business-and-data-analyst-intern-farmington",
+      "company": "W.R. Berkley",
+      "title": "Business and Data Analyst Intern",
+      "channels": [
+        "📊・data-science-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T15:46:31.365Z"
+    },
+    {
+      "job_id": "sas-ai-society-intern-morrisville",
+      "company": "SAS",
+      "title": "AI & Society Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T15:46:37.884Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
