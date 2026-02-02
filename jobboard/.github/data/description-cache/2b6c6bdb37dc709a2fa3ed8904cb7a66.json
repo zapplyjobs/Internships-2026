@@ -1,0 +1,23 @@
+{
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2026_R57810-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Company Overview​At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Department OverviewDevices Android Application Development Team is responsible for architecting, designing Android applications for use by Public Safety customers.Job DescriptionResponsibilities will range from requirements gathering, architecture, design, development, testing, deploying, maintaining, and enhancing Android mobile applications.Desired skills but not required:Kotlin software experienceFamiliarity with wide range of Android Framework components such as Bluetooth, Sensors, Widgets, Services, etc.Familiarity with Android security features and mechanismsFamiliarity with RESTful APIs to connect applications to back-end servicesKnowledge of Git, Object oriented development, Agile software development methodologiesDemonstrated experience in mobile application software development on Android (Android Studio, and Android frameworks)Basic RequirementsCurrently pursuing a Bachelor's or Master's degree in Computer Science or a technical discipline is required.Must have a graduation date on or after December 2025.Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students).Travel RequirementsNoneRelocation ProvidedNonePosition TypeInternEEO StatementMotorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic. We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.",
+    "requirements": [
+      "Desired skills but not required:Kotlin software experienceFamiliarity with wide range of Android Framework components such as Bluetooth, Sensors, Widgets, Services, etc.Familiarity with Android security features and mechanismsFamiliarity with RESTful APIs to connect applications to back-end servicesKnowledge of Git, Object oriented development, Agile software development methodologiesDemonstrated experience in mobile application software development on Android (Android Studio, and Android frameworks)",
+      "Currently pursuing a Bachelor's or Master's degree in Computer Science or a technical discipline is required.",
+      "Must have a graduation date on or after December 2025."
+    ],
+    "responsibilities": [
+      "Knowledge of Git, Object oriented development, Agile software development methodologies",
+      "Demonstrated experience in mobile application software development on Android (Android Studio, and Android frameworks)"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2026_R57810-1",
+      "fetchedAt": "2026-02-02T02:26:46.133Z"
+    }
+  },
+  "cachedAt": 1769999206133
+}
