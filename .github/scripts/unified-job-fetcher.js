@@ -1,12 +1,12 @@
 /**
  * Unified Job Fetcher - Internships ONLY
  *
- * IMPORTANT: This repo uses JSearch API as PRIMARY source
- * SimplifyJobs has been DISABLED (deprecated, migrated to Summer2026)
+ * IMPORTANT: This repo uses JSearch API as PRIMARY data source
  * ATS platforms (Greenhouse/Lever/Ashby) return ALL jobs including senior roles
+ * We use internship-specific API queries to filter for relevant roles
  *
  * Sources:
- * 1. JSearch API (PRIMARY - 6 requests/day limit)
+ * 1. JSearch API (PRIMARY - configured via JSEARCH_API_KEY secret)
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
@@ -76,13 +76,9 @@ async function fetchAllJobs() {
     throw new Error('JSearch is primary source - cannot continue without it');
   }
 
-  // === Part 2.5: SimplifyJobs DISABLED ===
-  console.log('\n⏭️ SimplifyJobs DISABLED (deprecated Summer2025, using JSearch instead)');
-
   // === Part 3: ATS platforms DISABLED for Internships ===
   // NOTE: Greenhouse/Lever/Ashby APIs return ALL jobs (including senior positions)
-  // They do NOT filter to internships only - that's why we only use SimplifyJobs
-  // which specifically aggregates internship postings
+  // They do NOT filter to internships only - we use targeted API queries instead
   console.log('\n⏭️ Skipping ATS platforms (returns all jobs, not internships-only)...');
 
   // === Part 4: Filter to US-only jobs ===
