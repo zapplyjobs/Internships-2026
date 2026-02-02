@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-02T00:21:41.684Z",
+  "lastUpdated": "2026-02-02T00:57:42.191Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -9543,14 +9543,284 @@
       "job_city": "Albany",
       "job_state": "New York",
       "job_description": "<p>IBM Research is dedicated to technology and its societal role, seeking to innovate in computing. In this role, you will apply software engineering and computational skills to advanced chip architecture and design while analyzing complex problems.</p><br><p>Responsibilities</p><ul><li>Investigate the feasibility of applying software engineering and computational skills towards state-of-the-art chip architecture, design, fabrication and advanced chip packaging</li><li>Analyze complex problems and apply creative solutions</li></ul><br><p>Skills</p><ul><li>Computer Science</li><li>Information Technology</li><li>Data Science</li><li>Physics</li><li>Chemistry</li><li>Material Science</li><li>Mechanical Engineering</li><li>Bachelor's Degree</li><li>Prior programming, computational or data analysis experience through projects or coursework</li></ul><br><p>Company Overview</p><li>IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services. It was founded in 1911, and is headquartered in Armonk, New York, USA, with a workforce of 10001+ employees. Its website is http://www.ibm.com.</li><br><p>Company H1B Sponsorship</p><li>IBM has a track record of offering H1B sponsorships, with 3032 in 2025, 3301 in 2024, 2160 in 2023, 1809 in 2022, 1157 in 2021, 2669 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "55908e11cbc7dec3-2026-02-02-1",
+      "jobId": "55908e11cbc7dec3",
+      "company": "Nirvana Consulting Company",
+      "title": "AI Product Builder Internship",
+      "postedToDiscord": "2026-02-02T00:57:00.865Z",
+      "sourceDate": "2026-01-26T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=46273ae35662&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685202657546272",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:00.865Z",
+          "channelJobNumber": 116
+        },
+        "1464304182923362324": {
+          "messageId": "1467685210652020857",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:02.573Z",
+          "channelJobNumber": 120
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_description": "Apply for AI Product Builder Internship (internship) in Chicago. Nirvana Consulting Company is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "ebe34abbf3d1f294-2026-02-02-1",
+      "jobId": "ebe34abbf3d1f294",
+      "company": "VirtualVocations",
+      "title": "Data Analytics Intern",
+      "postedToDiscord": "2026-02-02T00:57:04.582Z",
+      "sourceDate": "2026-01-26T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=4e7efd0f5729&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685218084323545",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:04.582Z",
+          "channelJobNumber": 117
+        },
+        "1464304161230295131": {
+          "messageId": "1467685226036854888",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:06.338Z",
+          "channelJobNumber": 28
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Moreno Valley",
+      "job_state": "California",
+      "job_description": "Apply for Data Analytics Intern in Moreno Valley. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "893a541cc50b7788-2026-02-02-1",
+      "jobId": "893a541cc50b7788",
+      "company": "Imperative Care",
+      "title": "Software Engineer Intern, Robotics",
+      "postedToDiscord": "2026-02-02T00:57:08.102Z",
+      "sourceDate": "2026-01-26T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=471a5dbca0aa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685233661968425",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:08.102Z",
+          "channelJobNumber": 118
+        },
+        "1464304182923362324": {
+          "messageId": "1467685240909729988",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:09.787Z",
+          "channelJobNumber": 121
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Campbell",
+      "job_state": "Ohio",
+      "job_description": "Apply for Software Engineer Intern, Robotics in Campbell. Imperative Care is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "c2b8be3b69800485-2026-02-02-1",
+      "jobId": "c2b8be3b69800485",
+      "company": "IBM",
+      "title": "Intern 2026: Quantum Primitives Software Developer",
+      "postedToDiscord": "2026-02-02T00:57:11.698Z",
+      "sourceDate": "2026-01-22T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/69713d9a51f7264771837297?utm_campaign=1079&utm_source=git&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685248199295038",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:11.698Z",
+          "channelJobNumber": 119
+        },
+        "1464303539101634634": {
+          "messageId": "1467685255610761249",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:13.406Z",
+          "channelJobNumber": 20
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Cambridge",
+      "job_state": "Massachusetts",
+      "job_description": "Intern 2026: Quantum Primitives Software Developer jobs in United StatesOverviewCompanyThis job has closed.APPLY to similar jobsIBM · 1 week agoIntern 2026: Quantum Primitives Software DeveloperCambridge, MAInternshipOnsiteInternIBM Research is focused on technology and its societal impact, and they are seeking a Software Engineer intern to implement capabilities in Quantum Computing. The intern will design and enhance software components, collaborating with the team to deliver new features while receiving mentorship from experienced professionals.Business DevelopmentBusiness Information SystemsCRMData ManagementFoundational AISoftwareGrowth OpportunitiesH1B Sponsor LikelyResponsibilitiesDesigning and implementing enhancements to software components that are part of our production stackCollaborating with the team to deliver new featuresQualificationPythonQuantum ComputingGitQuantum InformationQiskitRustAPI interactionProblem-solvingRequiredSoftware development: proficiency with Python and object-oriented programmingVersion control: experience with Git or a similar version control systemQuantum Computing: experience running jobs in Quantum HardwareProblem-solving: the ability to solve problems independently, Independent problem-solving skillsQuantum Information: familiarity with basic Quantum Information concepts (circuits, states, gates)PreferredQuantum Information: Familiarity with modern Quantum Error mitigation methodsQuantum Software: Experience using QiskitSoftware development: familiarity with multiple programming languages (Rust), experience with API interaction (REST/RPC)CompanyIBMGlassdoor4.1IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.Founded in 1911Armonk, New York, USA10001+ employeeshttp://www.ibm.comH1B SponsorshipIBM has a track record of offering H1B sponsorships. Please note that this does not guarantee sponsorship for this specific role. Below presents additional info for your reference. (Data Powered by US Department of Labor)Distribution of Different Job Fields Receiving SponsorshipRepresents job field similar to this jobTrends of Total Sponsorships2025 (3032)2024 (3301)2023 (2160)2022 (1809)2021 (1157)2020 (2669)FundingCurrent StagePublic CompanyTotal Fundingunknown2011-01-14IPOLeadership TeamAlain BénichouChief Executive Officer, IBM Greater China GroupAlex YangCTO and Chief ArchitectRecent NewsMedCity NewsFive Collaboration Trends That Shaped Healthcare AI in 20252026-01-25Indianweb2.comAndhra Pradesh to Host South Asia’s Most Powerful Quantum Computer by July 20262026-01-24TNGlobalAlibaba Cloud accelerates global AI partner ecosystem with new incentives, investments2026-01-23Company data provided by crunchbaseBoost Your Interview ChancesImprove Resume Match ScoreFREE?Your ScoreTop ApplicantsMust-Have Skills for This RolePythonQuantum ComputingGitQuantum InformationQiskitOptimize my ResumeGet Referral Via linkedIn FREE3× Higher Response via Email OutreachMMatt T.Cognitive Software EngineerMMira Y.Software Development ManagerDraft Message to ConnectApply Faster with Autofill PluginFREEApply With Autofill"
+    },
+    {
+      "id": "502b0effecd7192b-2026-02-02-1",
+      "jobId": "502b0effecd7192b",
+      "company": "Rocket Lab",
+      "title": "Software Intern Summer 2026",
+      "postedToDiscord": "2026-02-02T00:57:15.255Z",
+      "sourceDate": "2026-01-22T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/6971d1b5b707bf728a4b5dff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685263525412884",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:15.255Z",
+          "channelJobNumber": 120
+        },
+        "1464304161230295131": {
+          "messageId": "1467685271117107334",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:17.136Z",
+          "channelJobNumber": 29
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Littleton",
+      "job_state": "Colorado",
+      "job_description": "<p>Rocket Lab is an end-to-end space company focused on delivering launch services and spacecraft design. As a Software Intern, you will support the Flight Software Team in developing software engineering products that enhance the speed and reliability of spacecraft software development, simulation, configuration, and testing.</p><br><p>Responsibilities</p><ul><li>As an intern, you will work closely with your mentor and other employees within the department to apply your knowledge and grow your skills both technically and professionally</li><li>Work with a fast-paced group of professionals to apply engineering and industry concepts to solve real challenges</li><li>Attend frequent 1:1’s with mentors and supervisors to facilitate success and learning while providing progress updates</li><li>Enjoy tech talks and network with other interns and employees through social and professional events</li></ul><br><p>Skills</p><ul><li>Must be enrolled in a bachelor's, master's or doctorate degree program in Computer science, computer engineering, or software engineering and have at least one semester of school remaining post internship</li><li>GPA of 3.0 or above</li><li>3+ months of applied engineering experience (internship, laboratory, and personal/team project experience is applicable)</li><li>Able to work full-time, on-site for a minimum of 12 consecutive weeks beginning May or June 2026</li><li>GPA of 3.5 or above</li><li>6+ months of applied engineering experience (internship, laboratory, and personal/team project experience is applicable)</li><li>Python experience</li><li>C, C++, experience</li><li>Git experience</li></ul><br><p>Benefits</p><ul><li>Company stock</li><li>Cash incentives</li><li>Discounted stock through Rocket Lab’s Employee Stock Purchase Program</li><li>Medical, dental, and vision insurance coverage</li><li>401(k) retirement plan options</li><li>Paid vacation</li><li>Holidays, and sick leave</li><li>Paid parental leave</li><li>Other discounts and perks</li></ul><br><p>Company Overview</p><li>Rocket Lab is an aerospace company that provides launch services, spacecraft design, and manufacturing of satellite components. It was founded in 2006, and is headquartered in Long Beach, California, USA, with a workforce of 1001-5000 employees. Its website is https://rocketlabcorp.com.</li><br>"
+    },
+    {
+      "id": "1d4d62c6e1055123-2026-02-02-1",
+      "jobId": "1d4d62c6e1055123",
+      "company": "Amazon Web Services (AWS)",
+      "title": "2026 Software Dev Engineer Intern - Germany",
+      "postedToDiscord": "2026-02-02T00:57:18.889Z",
+      "sourceDate": "2026-01-15T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/692f0a81ef4b48533d1425b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685278830559336",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:18.889Z",
+          "channelJobNumber": 121
+        },
+        "1464304146072207390": {
+          "messageId": "1467685286212276275",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:20.640Z",
+          "channelJobNumber": 20
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Dresden",
+      "job_state": "Tennessee",
+      "job_description": "<p>Amazon Web Services (AWS) is seeking Software Development Engineer interns to solve real customer problems through innovative technology. Interns will work on scalable services in a collaborative environment, owning the entire lifecycle of their code and seeing their work's impact on millions of customers worldwide.</p><br><p>Responsibilities</p><ul><li>Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward</li><li>Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment</li><li>Participate in code reviews and contribute to technical documentation</li><li>Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective</li><li>Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies</li><li>Write clean, maintainable code following best practices and design patterns</li><li>Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues</li></ul><br><p>Skills</p><ul><li>Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, or related fields at time of application</li><li>Knowledge of programming languages such as C/C++, Python, Java or Perl</li><li>Knowledge of computer science fundamentals such as object-oriented design, operating systems, algorithms, data structures, and complexity analysis</li><li>Experience from a technical internship</li><li>Experience with distributed, multi-tiered systems, algorithms, and relational databases</li><li>Experience in optimization mathematics such as linear programming and nonlinear optimization</li><li>Ability to effectively articulate technical challenges and solutions</li><li>Adept at handling ambiguous or undefined problems as well as ability to think abstractly</li></ul><br><p>Benefits</p><ul><li>Competitive monthly salary</li><li>Relocation support</li><li>Access to a range of employee benefits</li></ul><br><p>Company Overview</p><li>Launched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. It was founded in 2002, and is headquartered in Seattle, Washington, USA, with a workforce of 10001+ employees. Its website is http://aws.amazon.com.</li><br><p>Company H1B Sponsorship</p><li>Amazon Web Services (AWS) has a track record of offering H1B sponsorships, with 22803 in 2025, 21175 in 2024, 19057 in 2023, 24088 in 2022, 12233 in 2021, 14881 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "714b8bab24ad4038-2026-02-02-1",
+      "jobId": "714b8bab24ad4038",
+      "company": "Quindar",
+      "title": "Software Engineering Intern - Spring 2026",
+      "postedToDiscord": "2026-02-02T00:57:22.328Z",
+      "sourceDate": "2026-01-09T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/69607f85a1bbea1d9a7b507e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685293510496429",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:22.328Z",
+          "channelJobNumber": 122
+        },
+        "1464304182923362324": {
+          "messageId": "1467685300615774219",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:24.108Z",
+          "channelJobNumber": 122
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Arvada",
+      "job_state": "Colorado",
+      "job_description": "<p>Quindar builds modern, cloud-native satellite mission operations software, aiming to operate satellites like servers. They are seeking a Software Engineering Intern to help build and automate software tests and simulations to ensure the reliability of their mission operations platform.</p><br><p>Responsibilities</p><ul><li>Build automated tests and representative satellite operations simulations under guidance from senior engineers</li><li>Contribute to test suites that verify critical platform behavior</li><li>Help debug issues discovered in tests or in deployed systems</li><li>Document findings and collaborate with engineers on fixes</li><li>Understand how key parts of the platform behave (e.g., task execution, APIs, distributed services)</li><li>Translate that understanding into effective test scenarios</li><li>Help maintain and improve test automation infrastructure</li><li>Work with CI/CD tools to ensure short and long-running tests run reliably and provide clear feedback to developers</li><li>Partner with backend engineers, product managers, and peers to learn requirements, validate functionality, and align on quality goals</li></ul><br><p>Skills</p><ul><li>Experience with Python and Typescript (in coursework, projects, or personal work)</li><li>Familiarity with automated or end-to-end testing tools (e.g., Playwright, Cypress)</li><li>Basic understanding of Git and version control workflows</li><li>Exposure to APIs, services, or cloud concepts</li><li>Curious and detail-oriented—enjoys digging into how things work</li><li>Strong communicator; able to explain issues and ask good questions</li><li>Self-starter mindset; comfortable taking on tasks and learning independently</li><li>Enjoys collaboration across technical teams</li><li>Currently pursuing a degree in Computer Science, Aerospace Engineering, or a related field</li><li>Academic or personal experience with software testing, backend systems, automation, or quality assurance</li><li>Interest in distributed systems, cloud software, or mission-critical platforms</li><li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. 1157, or (iv) Asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State</li></ul><br><p>Benefits</p><ul><li>Strong emphasis on company culture and team wellbeing</li></ul><br><p>Company Overview</p><li>Quindar offers a one-stop shop in the cloud for spacecraft analysis and operations. It was founded in 2022, and is headquartered in Washington, District of Columbia, USA, with a workforce of 11-50 employees. Its website is https://www.quindar.space/.</li><br>"
+    },
+    {
+      "id": "6cf84ef543d4e496-2026-02-02-1",
+      "jobId": "6cf84ef543d4e496",
+      "company": "Advanced Micro Devices, Inc",
+      "title": "2026 Undergrad Firmware Engineering Intern / Co-op",
+      "postedToDiscord": "2026-02-02T00:57:25.899Z",
+      "sourceDate": "2026-01-06T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=420b599169da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685308190556273",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:25.899Z",
+          "channelJobNumber": 123
+        },
+        "1464304182923362324": {
+          "messageId": "1467685315572662482",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:27.596Z",
+          "channelJobNumber": 123
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Longmont",
+      "job_state": "Colorado",
+      "job_description": "Apply for 2026 Undergrad Firmware Engineering Intern/Co-op in Longmont. Advanced Micro Devices, Inc is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "d5c717a2b5c38e39-2026-02-02-1",
+      "jobId": "d5c717a2b5c38e39",
+      "company": "CCC Intelligent Solutions",
+      "title": "Software Engineer Intern - Parts Summer 2026",
+      "postedToDiscord": "2026-02-02T00:57:29.321Z",
+      "sourceDate": "2026-01-27T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/6978018efdeb8243a27b01b7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467685322589737143",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:29.321Z",
+          "channelJobNumber": 124
+        },
+        "1464304182923362324": {
+          "messageId": "1467685329992552518",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:31.083Z",
+          "channelJobNumber": 124
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": null,
+      "job_state": "Illinois",
+      "job_description": "<p>CCC Intelligent Solutions is a leading cloud platform for the multi-trillion-dollar insurance economy, creating intelligent experiences for various stakeholders. They are seeking a Software Engineer Intern to contribute to real-world application development, working on Java and Python applications, and collaborating with experienced engineers.</p><br><p>Responsibilities</p><ul><li>Develop and enhance features in existing Java and Python applications</li><li>Write clean, maintainable, and efficient code following best practices</li><li>Participate in code reviews, technical discussions, and design sessions</li><li>Assist in troubleshooting, debugging, and resolving application issues</li><li>Work collaboratively with cross-functional teams (engineering, QA, product)</li><li>Contribute to documentation and ensure smooth integration of changes</li></ul><br><p>Skills</p><ul><li>Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field</li><li>Strong understanding of Object-Oriented Programming (OOP) concepts</li><li>Solid foundation in Data Structures and Algorithms</li><li>Very good knowledge of HTTP/REST APIs and how client‑server communication works</li><li>Good understanding of Database Management Systems (DBMS) such as MySQL, PostgreSQL, or similar</li><li>Experience with developing UI with VueJS or similar technology</li><li>Good analytical and problem‑solving skills</li><li>Strong communication skills and the ability to work in a team environment</li><li>Exposure to Software Development Life Cycle (SDLC) processes</li><li>Experience with version control systems (Git preferred)</li><li>Basic understanding of CI/CD pipelines and DevOps concepts</li><li>Exposure to cloud platforms such as Azure, AWS, or GCP</li><li>Interest or experience in AI/ML technologies</li><li>Familiarity with Agile methodologies</li></ul><br><p>Benefits</p><ul><li>401K Match</li><li>Paid time off</li><li>Annual Incentive Plan Performance Bonus</li><li>Comprehensive health insurance</li><li>Adoption Assistance</li><li>Tuition Reimbursement</li><li>Wellness Programs</li><li>Stock Purchase Plan options</li><li>Employee Resource Groups</li></ul><br><p>Company Overview</p><li>CCC Intelligent Solutions is a SaaS platform that offers digital and data services for the insurance and automotive industries. It was founded in 1980, and is headquartered in Chicago, Illinois, USA, with a workforce of 1001-5000 employees. Its website is http://www.cccis.com.</li><br><p>Company H1B Sponsorship</p><li>CCC Intelligent Solutions has a track record of offering H1B sponsorships, with 69 in 2025, 48 in 2024, 71 in 2023, 79 in 2022, 30 in 2021. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "6ab16226e04550dc-2026-02-02-1",
+      "jobId": "6ab16226e04550dc",
+      "company": "HDR",
+      "title": "Mechanical Engineering Intern - Summer 2026",
+      "postedToDiscord": "2026-02-02T00:57:35.931Z",
+      "sourceDate": "2026-01-25T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/68e6b6cbae2b894b1d71cf86?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303419794784347": {
+          "messageId": "1467685350221807779",
+          "channelType": "category",
+          "postedAt": "2026-02-02T00:57:35.931Z",
+          "channelJobNumber": 13
+        },
+        "1464304182923362324": {
+          "messageId": "1467685357330890977",
+          "channelType": "location",
+          "postedAt": "2026-02-02T00:57:37.661Z",
+          "channelJobNumber": 125
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Columbia",
+      "job_state": "South Carolina",
+      "job_description": "<p>HDR is a company that values employee engagement and inclusion, and they are seeking a Mechanical Engineering Intern to support their Building Engineering Services Business Group. In this role, the intern will gain real-world experience on projects, connect with recent graduates and company leaders, and apply standard engineering techniques under supervision.</p><br><p>Responsibilities</p><ul><li>Gain real-world experience on exciting projects</li><li>Connect with recent college graduates and our company leaders through mentoring and young professionals programs</li><li>Apply standard engineering techniques and procedures</li><li>Perform assignments under the direct supervision of a professional or Project Manager</li><li>Perform other duties as needed</li></ul><br><p>Skills</p><ul><li>Currently enrolled in an undergraduate or graduate Engineering program</li><li>Attention to detail</li><li>Possess strong problem-solving and communication skills</li><li>Basic Microsoft Office skills</li><li>An attitude and commitment to being an active participant of our employee-owned culture is a must</li><li>Prefer 2 years completed toward degree with 3.0+ GPA</li><li>Demonstrated knowledge of software packages related to field of study/industry</li><li>Local candidates preferred</li></ul><br><p>Company Overview</p><li>HDR is an employee-owned design firm specializing in engineering, architecture, environmental and construction services. We’re ranked No. It was founded in 1917, and is headquartered in Omaha, Nebraska, USA, with a workforce of 10001+ employees. Its website is http://www.hdrinc.com.</li><br><p>Company H1B Sponsorship</p><li>HDR has a track record of offering H1B sponsorships, with 3 in 2025, 4 in 2024, 6 in 2023, 3 in 2022, 5 in 2021, 8 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
     }
   ],
   "metadata": {
-    "totalJobs": 485,
+    "totalJobs": 495,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-02T00:21:41.684Z",
+      "date": "2026-02-02T00:57:42.191Z",
       "archived": 0
     }
   }
