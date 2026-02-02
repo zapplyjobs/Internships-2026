@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-02T02:49:42.721Z",
+  "generated": "2026-02-02T03:41:10.406Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T02:49:42.721Z",
-  "period_end": "2026-02-02T02:49:42.721Z",
+  "period_start": "2026-01-26T03:41:10.406Z",
+  "period_end": "2026-02-02T03:41:10.406Z",
   "summary": {
     "total_jobs_posted": 4,
     "unique_jobs": 2,
@@ -13,79 +13,79 @@
     "channels_active": 3
   },
   "by_channel": {
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 1,
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 2,
       "jobs": [
-        "virtualvocations-data-science-intern-san-angelo"
+        "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
+        "ge-vernova-energy-optimization-software-intern-bellevue"
       ],
       "recent_jobs": [
         {
-          "id": "virtualvocations-data-science-intern-san-angelo",
-          "title": "Data Science Intern",
-          "company": "VirtualVocations",
-          "posted_at": "2026-02-02T02:49:27.805Z"
+          "id": "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
+          "title": "Software Developer Intern",
+          "company": "General Dynamics Information Technology",
+          "posted_at": "2026-02-02T03:40:58.149Z"
+        },
+        {
+          "id": "ge-vernova-energy-optimization-software-intern-bellevue",
+          "title": "Energy Optimization Software Intern",
+          "company": "GE Vernova",
+          "posted_at": "2026-02-02T03:41:01.835Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "virtualvocations-data-science-intern-san-angelo",
-        "altom-transport-software-development-intern-chicago"
+        "general-dynamics-information-technology-software-developer-intern-annapolis-junction"
       ],
       "recent_jobs": [
         {
-          "id": "virtualvocations-data-science-intern-san-angelo",
-          "title": "Data Science Intern",
-          "company": "VirtualVocations",
-          "posted_at": "2026-02-02T02:49:29.500Z"
-        },
-        {
-          "id": "altom-transport-software-development-intern-chicago",
-          "title": "Software Development Intern",
-          "company": "Altom Transport",
-          "posted_at": "2026-02-02T02:49:36.028Z"
+          "id": "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
+          "title": "Software Developer Intern",
+          "company": "General Dynamics Information Technology",
+          "posted_at": "2026-02-02T03:40:59.978Z"
         }
       ]
     },
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
+    "🌲・pacific-northwest-internships": {
+      "channel_id": "1464304146072207390",
       "count": 1,
       "jobs": [
-        "altom-transport-software-development-intern-chicago"
+        "ge-vernova-energy-optimization-software-intern-bellevue"
       ],
       "recent_jobs": [
         {
-          "id": "altom-transport-software-development-intern-chicago",
-          "title": "Software Development Intern",
-          "company": "Altom Transport",
-          "posted_at": "2026-02-02T02:49:34.304Z"
+          "id": "ge-vernova-energy-optimization-software-intern-bellevue",
+          "title": "Energy Optimization Software Intern",
+          "company": "GE Vernova",
+          "posted_at": "2026-02-02T03:41:03.707Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "virtualvocations-data-science-intern-san-angelo",
-      "company": "VirtualVocations",
-      "title": "Data Science Intern",
+      "job_id": "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
+      "company": "General Dynamics Information Technology",
+      "title": "Software Developer Intern",
       "channels": [
-        "📊・data-science-internships",
+        "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T02:49:27.805Z"
+      "posted_at": "2026-02-02T03:40:58.149Z"
     },
     {
-      "job_id": "altom-transport-software-development-intern-chicago",
-      "company": "Altom Transport",
-      "title": "Software Development Intern",
+      "job_id": "ge-vernova-energy-optimization-software-intern-bellevue",
+      "company": "GE Vernova",
+      "title": "Energy Optimization Software Intern",
       "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
+        "🤖・ai-internships",
+        "🌲・pacific-northwest-internships"
       ],
-      "posted_at": "2026-02-02T02:49:34.304Z"
+      "posted_at": "2026-02-02T03:41:01.835Z"
     }
   ],
   "failures": [],
