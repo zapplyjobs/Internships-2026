@@ -91,9 +91,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Content Research Insights & Analytics Intern | Burbank, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Summer-Fall-2026_10138487-1) | 1h |
-| ABC Research Insights & Analytics Intern | Burbank, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/ABC-Research--Insights---Analytics-Intern--Summer-Fall-2026_10138490-1) | 1h |
-| Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026 | Burbank, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content---Brand-Insights-Social-Media-Analytics-Intern--Summer-Fall-2026_10138493) | 1h |
-| WDI Figure Programming Intern | Orlando, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Figure-Programming-Intern--Summer-Fall-2026_10131865) | 1h |
+| ABC Research Insights & Analytics Intern | Burbank, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/ABC-Research--Insights---Analytics-Intern--Summer-Fall-2026_10138490-1) | 2h |
+| Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026 | Burbank, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content---Brand-Insights-Social-Media-Analytics-Intern--Summer-Fall-2026_10138493) | 2h |
+| WDI Figure Programming Intern | Orlando, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Figure-Programming-Intern--Summer-Fall-2026_10131865) | 2h |
 | WDI Software Developer Intern - Summer 2026 | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/WDI-Software-Developer-Intern--Summer-2026_10135513-1) | 3d |
 | WDW Analytical & Strategic Planning Intern | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Fall-2026_10139790-1) | 1w |
 
@@ -125,9 +125,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – AI/HPC System with Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096696008) | 6d |
-| Intern LLM Serving System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096734008) | 6d |
 | Intern – Gnn - Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008) | 6d |
+| Intern LLM Serving System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096734008) | 6d |
+| Intern – AI/HPC System with Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096696008) | 6d |
 | Intern Processing-in-Memory | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5078298008) | 1w |
 
 #### 🏢 **Sandisk** (3 positions)
@@ -206,7 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern Data Science and Optimization | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Science-and-Optimization_2018173) | 2d |
+| Intern Data Science and Optimization | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Science-and-Optimization_2018173) | 3d |
 | 2026 Leap Technology Program – Intern Conversion Application - DE | Westlake, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Leap-Technology-Program---Intern-Conversion-Application---DE_2114338) | 3d |
 | 2026 Leap Technology Program – Intern Conversion Application - SWE | Westlake, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Leap-Technology-Program---Intern-Conversion-Application---SWE_2114310) | 3d |
 | Intern Data Strategy | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Strategy_2118550) | 3d |
@@ -330,7 +330,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern Data Science and Optimization | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Science-and-Optimization_2018173) | 2d |
+| Intern Data Science and Optimization | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Science-and-Optimization_2018173) | 3d |
 | 2026 Leap Technology Program – Intern Conversion Application - DE | Westlake, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Leap-Technology-Program---Intern-Conversion-Application---DE_2114338) | 3d |
 | 2026 Leap Technology Program – Intern Conversion Application - SWE | Westlake, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Leap-Technology-Program---Intern-Conversion-Application---SWE_2114310) | 3d |
 | Intern Data Strategy | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Strategy_2118550) | 3d |
@@ -358,7 +358,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – Software Development Intern | Tewksbury, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Intern---Software-Development-Intern---Onsite--MA-_01820700) | 6h |
+| Intern – Software Development Intern | Tewksbury, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Intern---Software-Development-Intern---Onsite--MA-_01820700) | 7h |
 | Software Engineering Intern | Anaheim, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2026---Onsite-_01820474) | 3w |
 
 #### 🏢 **Booz Allen** (4 positions)
@@ -564,13 +564,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1557 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1555 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1557 roles
-- **🏢 Companies**: 208 companies  
+- **📁 Total Positions**: 1555 roles
+- **🏢 Companies**: 207 companies  
 - **⭐ FAANG+ Opportunities**: 77 positions
 
 <details>
@@ -875,7 +875,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 </details>
 
 <details>
-<summary><h3>💻 <strong>Enterprise Software</strong> (35 positions)</h3></summary>
+<summary><h3>💻 <strong>Enterprise Software</strong> (34 positions)</h3></summary>
 
 #### 🌐 **Cisco** (6 positions)
 
@@ -928,12 +928,11 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 </details>
 
-#### 🏢 **Jones Lang LaSalle (JLL)** (2 positions)
+#### 🏢 **Jones Lang LaSalle (JLL)** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Technology and Business Intelligence Intern | Charlotte, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Technology-and-Business-Intelligence-Summer-2026-Internship---Charlotte--NC_REQ478660-1) | 2w |
-| Business Intelligence Intern - Chicago | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Intelligence-Summer-2026-Internship---Chicago_REQ478977) | 2w |
 
 </details>
 
