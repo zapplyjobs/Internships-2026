@@ -28,7 +28,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        ref: ${{ github.ref }}  # Use the branch that triggered the workflow
+        ref: ${{ github.ref_name }}  # Use the branch that triggered the workflow
       
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -132,12 +132,12 @@ jobs:
         DISCORD_MARKETING_CHANNEL_ID: ${{ secrets.DISCORD_MARKETING_CHANNEL_ID }}
         DISCORD_OTHER_CHANNEL_ID: ${{ secrets.DISCORD_OTHER_CHANNEL_ID }}
         # Location channels (6 consolidated channels - 2026-01-23)
-        DISCORD_BAY_AREA_INT_CHANNEL_ID: ${{ secrets.DISCORD_BAY_AREA_INT_CHANNEL_ID }}
-        DISCORD_REMOTE_USA_INT_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_INT_CHANNEL_ID }}
-        DISCORD_NY_INT_CHANNEL_ID: ${{ secrets.DISCORD_NY_INT_CHANNEL_ID }}
-        DISCORD_PNW_INT_CHANNEL_ID: ${{ secrets.DISCORD_PNW_INT_CHANNEL_ID }}
-        DISCORD_SOCAL_INT_CHANNEL_ID: ${{ secrets.DISCORD_SOCAL_INT_CHANNEL_ID }}
-        DISCORD_OTHER_USA_INT_CHANNEL_ID: ${{ secrets.DISCORD_OTHER_USA_INT_CHANNEL_ID }}
+        DISCORD_BAY_AREA_CHANNEL_ID: ${{ secrets.DISCORD_BAY_AREA_CHANNEL_ID }}
+        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
+        DISCORD_NY_CHANNEL_ID: ${{ secrets.DISCORD_NY_CHANNEL_ID }}
+        DISCORD_PNW_CHANNEL_ID: ${{ secrets.DISCORD_PNW_CHANNEL_ID }}
+        DISCORD_SOCAL_CHANNEL_ID: ${{ secrets.DISCORD_SOCAL_CHANNEL_ID }}
+        DISCORD_OTHER_USA_CHANNEL_ID: ${{ secrets.DISCORD_OTHER_USA_CHANNEL_ID }}
 
     - name: 🔍 AFTER bot - Hash posted_jobs.json
       id: after-hash
@@ -296,8 +296,8 @@ jobs:
       if: always() && steps.verify-changed-files.outputs.changed == 'true'
       run: |
           echo "📥 Pulling latest changes with rebase (ours strategy) to avoid conflicts..."
-           git fetch origin main
-           git rebase origin/main --strategy-option=ours || git merge -X ours origin/main --no-edit
+           git fetch origin ${{ github.ref_name }}
+           git rebase origin/${{ github.ref_name }} --strategy-option=ours || git merge -X ours origin/${{ github.ref_name }} --no-edit
            echo "✅ Pull completed successfully!"
 
 
@@ -307,12 +307,12 @@ jobs:
         echo "🚀 Pushing changes with retry logic..."
         for i in 1 2 3; do
           echo "Push attempt $i of 3..."
-          if git push origin main; then
+          if git push origin ${{ github.ref_name }}; then
             echo "✅ Successfully pushed changes!"
             break
           else
             echo "⚠️ Push failed — pulling latest changes before retry..."
-            git pull origin main --rebase --autostash || git pull origin main --no-edit
+            git pull origin ${{ github.ref_name }} --rebase --autostash || git pull origin ${{ github.ref_name }} --no-edit
             sleep 5
           fi
         done
