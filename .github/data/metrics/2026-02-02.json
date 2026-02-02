@@ -1,61 +1,19 @@
 {
-  "generated": "2026-02-02T08:14:25.657Z",
+  "generated": "2026-02-02T08:31:09.280Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T08:14:25.657Z",
-  "period_end": "2026-02-02T08:14:25.657Z",
+  "period_start": "2026-01-26T08:31:09.280Z",
+  "period_end": "2026-02-02T08:31:09.280Z",
   "summary": {
-    "total_jobs_posted": 2,
-    "unique_jobs": 1,
-    "multi_channel_postings": 2,
-    "unique_multi_channel_jobs": 1,
+    "total_jobs_posted": 0,
+    "unique_jobs": 0,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 2
+    "channels_active": 0
   },
-  "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
-      "jobs": [
-        "rtx-intern-software-development-intern-tewksbury"
-      ],
-      "recent_jobs": [
-        {
-          "id": "rtx-intern-software-development-intern-tewksbury",
-          "title": "Intern – Software Development Intern",
-          "company": "RTX",
-          "posted_at": "2026-02-02T08:14:17.214Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 1,
-      "jobs": [
-        "rtx-intern-software-development-intern-tewksbury"
-      ],
-      "recent_jobs": [
-        {
-          "id": "rtx-intern-software-development-intern-tewksbury",
-          "title": "Intern – Software Development Intern",
-          "company": "RTX",
-          "posted_at": "2026-02-02T08:14:18.952Z"
-        }
-      ]
-    }
-  },
-  "multi_channel_routing": [
-    {
-      "job_id": "rtx-intern-software-development-intern-tewksbury",
-      "company": "RTX",
-      "title": "Intern – Software Development Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T08:14:17.214Z"
-    }
-  ],
+  "by_channel": {},
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [],
