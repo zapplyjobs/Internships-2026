@@ -1,227 +1,298 @@
 {
-  "generated": "2026-02-02T02:09:56.324Z",
+  "generated": "2026-02-02T02:28:19.951Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T02:09:56.324Z",
-  "period_end": "2026-02-02T02:09:56.324Z",
+  "period_start": "2026-01-26T02:28:19.951Z",
+  "period_end": "2026-02-02T02:28:19.951Z",
   "summary": {
-    "total_jobs_posted": 14,
-    "unique_jobs": 7,
-    "multi_channel_postings": 14,
-    "unique_multi_channel_jobs": 7,
+    "total_jobs_posted": 19,
+    "unique_jobs": 10,
+    "multi_channel_postings": 18,
+    "unique_multi_channel_jobs": 9,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 5
+    "channels_active": 7
   },
   "by_channel": {
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 5,
+      "count": 2,
       "jobs": [
-        "cardinal-health-data-and-analytics-internship-",
-        "virtualvocations-data-science-intern-tucson",
-        "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
-        "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
-        "lenovo-marketing-analytics-intern-summer-2026-"
+        "virtualvocations-data-science-intern-new-orleans",
+        "asml-intern-san-diego"
       ],
       "recent_jobs": [
         {
-          "id": "cardinal-health-data-and-analytics-internship-",
-          "title": "Data and Analytics Internship",
-          "company": "Cardinal Health",
-          "posted_at": "2026-02-02T02:09:22.966Z"
-        },
-        {
-          "id": "virtualvocations-data-science-intern-tucson",
+          "id": "virtualvocations-data-science-intern-new-orleans",
           "title": "Data Science Intern",
           "company": "VirtualVocations",
-          "posted_at": "2026-02-02T02:09:26.608Z"
+          "posted_at": "2026-02-02T02:27:32.341Z"
         },
         {
-          "id": "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
-          "title": "Information Technology & Data Analytics Intern – Summer 2026",
-          "company": "Henkel",
-          "posted_at": "2026-02-02T02:09:30.312Z"
-        },
-        {
-          "id": "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
-          "title": "Live Nation Marketing and Data Science Intern",
-          "company": "Live Nation",
-          "posted_at": "2026-02-02T02:09:33.689Z"
-        },
-        {
-          "id": "lenovo-marketing-analytics-intern-summer-2026-",
-          "title": "Marketing Analytics Intern Summer 2026",
-          "company": "Lenovo",
-          "posted_at": "2026-02-02T02:09:37.314Z"
+          "id": "asml-intern-san-diego",
+          "title": "Intern",
+          "company": "ASML",
+          "posted_at": "2026-02-02T02:27:35.907Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 4,
+      "count": 6,
       "jobs": [
-        "cardinal-health-data-and-analytics-internship-",
-        "virtualvocations-data-science-intern-tucson",
-        "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
-        "lenovo-marketing-analytics-intern-summer-2026-"
+        "virtualvocations-data-science-intern-new-orleans",
+        "microchip-technology-intern-engineering-data-engineering-chandler",
+        "motorola-android-applications-developer-intern-chicago",
+        "altom-transport-software-development-intern-markham",
+        "abbvie-statistics-intern-phd-waukegan",
+        "at-t-at-t-labs-intern-advanced-degrees-austin"
       ],
       "recent_jobs": [
         {
-          "id": "cardinal-health-data-and-analytics-internship-",
-          "title": "Data and Analytics Internship",
-          "company": "Cardinal Health",
-          "posted_at": "2026-02-02T02:09:24.864Z"
-        },
-        {
-          "id": "virtualvocations-data-science-intern-tucson",
+          "id": "virtualvocations-data-science-intern-new-orleans",
           "title": "Data Science Intern",
           "company": "VirtualVocations",
-          "posted_at": "2026-02-02T02:09:28.402Z"
+          "posted_at": "2026-02-02T02:27:34.122Z"
         },
         {
-          "id": "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
-          "title": "Information Technology & Data Analytics Intern – Summer 2026",
-          "company": "Henkel",
-          "posted_at": "2026-02-02T02:09:32.016Z"
+          "id": "microchip-technology-intern-engineering-data-engineering-chandler",
+          "title": "Intern-Engineering - Data Engineering",
+          "company": "Microchip Technology",
+          "posted_at": "2026-02-02T02:27:44.253Z"
         },
         {
-          "id": "lenovo-marketing-analytics-intern-summer-2026-",
-          "title": "Marketing Analytics Intern Summer 2026",
-          "company": "Lenovo",
-          "posted_at": "2026-02-02T02:09:39.107Z"
+          "id": "motorola-android-applications-developer-intern-chicago",
+          "title": "Android Applications Developer Intern",
+          "company": "Motorola",
+          "posted_at": "2026-02-02T02:27:47.772Z"
+        },
+        {
+          "id": "altom-transport-software-development-intern-markham",
+          "title": "Software Development Intern",
+          "company": "Altom Transport",
+          "posted_at": "2026-02-02T02:27:53.080Z"
+        },
+        {
+          "id": "abbvie-statistics-intern-phd-waukegan",
+          "title": "Statistics Intern - PhD",
+          "company": "AbbVie",
+          "posted_at": "2026-02-02T02:28:03.268Z"
+        },
+        {
+          "id": "at-t-at-t-labs-intern-advanced-degrees-austin",
+          "title": "AT&T Labs Intern - Advanced Degrees",
+          "company": "AT&T",
+          "posted_at": "2026-02-02T02:28:13.254Z"
         }
       ]
     },
     "🌴・socal-internships": {
       "channel_id": "1464304161230295131",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
-        "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles"
+        "asml-intern-san-diego"
       ],
       "recent_jobs": [
         {
-          "id": "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
-          "title": "Live Nation Marketing and Data Science Intern",
-          "company": "Live Nation",
-          "posted_at": "2026-02-02T02:09:35.516Z"
+          "id": "asml-intern-san-diego",
+          "title": "Intern",
+          "company": "ASML",
+          "posted_at": "2026-02-02T02:27:37.600Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 4,
+      "jobs": [
+        "microchip-technology-intern-engineering-data-engineering-chandler",
+        "motorola-android-applications-developer-intern-chicago",
+        "national-information-solutions-cooperative-nisc-software-development-intern-bismarck",
+        "altom-transport-software-development-intern-markham"
+      ],
+      "recent_jobs": [
+        {
+          "id": "microchip-technology-intern-engineering-data-engineering-chandler",
+          "title": "Intern-Engineering - Data Engineering",
+          "company": "Microchip Technology",
+          "posted_at": "2026-02-02T02:27:42.499Z"
         },
         {
-          "id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
-          "title": "Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI",
-          "company": "Farmers Insurance",
-          "posted_at": "2026-02-02T02:09:45.742Z"
+          "id": "motorola-android-applications-developer-intern-chicago",
+          "title": "Android Applications Developer Intern",
+          "company": "Motorola",
+          "posted_at": "2026-02-02T02:27:46.060Z"
+        },
+        {
+          "id": "national-information-solutions-cooperative-nisc-software-development-intern-bismarck",
+          "title": "Software Development Intern",
+          "company": "National Information Solutions Cooperative (NISC)",
+          "posted_at": "2026-02-02T02:27:49.492Z"
+        },
+        {
+          "id": "altom-transport-software-development-intern-markham",
+          "title": "Software Development Intern",
+          "company": "Altom Transport",
+          "posted_at": "2026-02-02T02:27:51.222Z"
         }
       ]
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 2,
+      "count": 3,
       "jobs": [
-        "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
-        "moloco-data-science-intern-redwood-city"
+        "genentech-2026-summer-intern-san-bruno",
+        "abbvie-statistics-intern-phd-waukegan",
+        "genentech-intern-multiple-teams-san-bruno"
       ],
       "recent_jobs": [
         {
-          "id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
-          "title": "Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI",
-          "company": "Farmers Insurance",
-          "posted_at": "2026-02-02T02:09:44.057Z"
+          "id": "genentech-2026-summer-intern-san-bruno",
+          "title": "2026 Summer Intern",
+          "company": "Genentech",
+          "posted_at": "2026-02-02T02:27:57.802Z"
         },
         {
-          "id": "moloco-data-science-intern-redwood-city",
-          "title": "Data Science Intern",
-          "company": "Moloco",
-          "posted_at": "2026-02-02T02:09:47.731Z"
+          "id": "abbvie-statistics-intern-phd-waukegan",
+          "title": "Statistics Intern - PhD",
+          "company": "AbbVie",
+          "posted_at": "2026-02-02T02:28:01.534Z"
+        },
+        {
+          "id": "genentech-intern-multiple-teams-san-bruno",
+          "title": "Intern - Multiple Teams",
+          "company": "Genentech",
+          "posted_at": "2026-02-02T02:28:05.072Z"
         }
       ]
     },
     "🌉・bay-area-internships": {
       "channel_id": "1464303497242742875",
-      "count": 1,
+      "count": 2,
       "jobs": [
-        "moloco-data-science-intern-redwood-city"
+        "genentech-2026-summer-intern-san-bruno",
+        "genentech-intern-multiple-teams-san-bruno"
       ],
       "recent_jobs": [
         {
-          "id": "moloco-data-science-intern-redwood-city",
-          "title": "Data Science Intern",
-          "company": "Moloco",
-          "posted_at": "2026-02-02T02:09:49.636Z"
+          "id": "genentech-2026-summer-intern-san-bruno",
+          "title": "2026 Summer Intern",
+          "company": "Genentech",
+          "posted_at": "2026-02-02T02:27:59.553Z"
+        },
+        {
+          "id": "genentech-intern-multiple-teams-san-bruno",
+          "title": "Intern - Multiple Teams",
+          "company": "Genentech",
+          "posted_at": "2026-02-02T02:28:06.787Z"
+        }
+      ]
+    },
+    "🎯・other-industry-internships": {
+      "channel_id": "1464303419794784347",
+      "count": 1,
+      "jobs": [
+        "at-t-at-t-labs-intern-advanced-degrees-austin"
+      ],
+      "recent_jobs": [
+        {
+          "id": "at-t-at-t-labs-intern-advanced-degrees-austin",
+          "title": "AT&T Labs Intern - Advanced Degrees",
+          "company": "AT&T",
+          "posted_at": "2026-02-02T02:28:11.532Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "cardinal-health-data-and-analytics-internship-",
-      "company": "Cardinal Health",
-      "title": "Data and Analytics Internship",
-      "channels": [
-        "📊・data-science-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T02:09:22.966Z"
-    },
-    {
-      "job_id": "virtualvocations-data-science-intern-tucson",
+      "job_id": "virtualvocations-data-science-intern-new-orleans",
       "company": "VirtualVocations",
       "title": "Data Science Intern",
       "channels": [
         "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T02:09:26.608Z"
+      "posted_at": "2026-02-02T02:27:32.341Z"
     },
     {
-      "job_id": "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
-      "company": "Henkel",
-      "title": "Information Technology & Data Analytics Intern – Summer 2026",
-      "channels": [
-        "📊・data-science-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T02:09:30.312Z"
-    },
-    {
-      "job_id": "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
-      "company": "Live Nation",
-      "title": "Live Nation Marketing and Data Science Intern",
+      "job_id": "asml-intern-san-diego",
+      "company": "ASML",
+      "title": "Intern",
       "channels": [
         "📊・data-science-internships",
         "🌴・socal-internships"
       ],
-      "posted_at": "2026-02-02T02:09:33.689Z"
+      "posted_at": "2026-02-02T02:27:35.907Z"
     },
     {
-      "job_id": "lenovo-marketing-analytics-intern-summer-2026-",
-      "company": "Lenovo",
-      "title": "Marketing Analytics Intern Summer 2026",
+      "job_id": "microchip-technology-intern-engineering-data-engineering-chandler",
+      "company": "Microchip Technology",
+      "title": "Intern-Engineering - Data Engineering",
       "channels": [
-        "📊・data-science-internships",
+        "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T02:09:37.314Z"
+      "posted_at": "2026-02-02T02:27:42.499Z"
     },
     {
-      "job_id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
-      "company": "Farmers Insurance",
-      "title": "Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI",
+      "job_id": "motorola-android-applications-developer-intern-chicago",
+      "company": "Motorola",
+      "title": "Android Applications Developer Intern",
       "channels": [
-        "🤖・ai-internships",
-        "🌴・socal-internships"
+        "💻・tech-internships",
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T02:09:44.057Z"
+      "posted_at": "2026-02-02T02:27:46.060Z"
     },
     {
-      "job_id": "moloco-data-science-intern-redwood-city",
-      "company": "Moloco",
-      "title": "Data Science Intern",
+      "job_id": "altom-transport-software-development-intern-markham",
+      "company": "Altom Transport",
+      "title": "Software Development Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T02:27:51.222Z"
+    },
+    {
+      "job_id": "genentech-2026-summer-intern-san-bruno",
+      "company": "Genentech",
+      "title": "2026 Summer Intern",
       "channels": [
         "🤖・ai-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-02-02T02:09:47.731Z"
+      "posted_at": "2026-02-02T02:27:57.802Z"
+    },
+    {
+      "job_id": "abbvie-statistics-intern-phd-waukegan",
+      "company": "AbbVie",
+      "title": "Statistics Intern - PhD",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T02:28:01.534Z"
+    },
+    {
+      "job_id": "genentech-intern-multiple-teams-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Multiple Teams",
+      "channels": [
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-02-02T02:28:05.072Z"
+    },
+    {
+      "job_id": "at-t-at-t-labs-intern-advanced-degrees-austin",
+      "company": "AT&T",
+      "title": "AT&T Labs Intern - Advanced Degrees",
+      "channels": [
+        "🎯・other-industry-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T02:28:11.532Z"
     }
   ],
   "failures": [],
