@@ -1,102 +1,66 @@
 {
-  "generated": "2026-02-02T02:28:19.951Z",
+  "generated": "2026-02-02T02:40:26.096Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T02:28:19.951Z",
-  "period_end": "2026-02-02T02:28:19.951Z",
+  "period_start": "2026-01-26T02:40:26.096Z",
+  "period_end": "2026-02-02T02:40:26.096Z",
   "summary": {
-    "total_jobs_posted": 19,
-    "unique_jobs": 10,
-    "multi_channel_postings": 18,
-    "unique_multi_channel_jobs": 9,
+    "total_jobs_posted": 12,
+    "unique_jobs": 6,
+    "multi_channel_postings": 12,
+    "unique_multi_channel_jobs": 6,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 7
+    "channels_active": 6
   },
   "by_channel": {
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "virtualvocations-data-science-intern-new-orleans",
-        "asml-intern-san-diego"
+        "virtualvocations-data-science-intern-hialeah"
       ],
       "recent_jobs": [
         {
-          "id": "virtualvocations-data-science-intern-new-orleans",
+          "id": "virtualvocations-data-science-intern-hialeah",
           "title": "Data Science Intern",
           "company": "VirtualVocations",
-          "posted_at": "2026-02-02T02:27:32.341Z"
-        },
-        {
-          "id": "asml-intern-san-diego",
-          "title": "Intern",
-          "company": "ASML",
-          "posted_at": "2026-02-02T02:27:35.907Z"
+          "posted_at": "2026-02-02T02:39:53.675Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 6,
+      "count": 4,
       "jobs": [
-        "virtualvocations-data-science-intern-new-orleans",
-        "microchip-technology-intern-engineering-data-engineering-chandler",
-        "motorola-android-applications-developer-intern-chicago",
-        "altom-transport-software-development-intern-markham",
-        "abbvie-statistics-intern-phd-waukegan",
-        "at-t-at-t-labs-intern-advanced-degrees-austin"
+        "virtualvocations-data-science-intern-hialeah",
+        "altom-transport-software-development-intern-houston",
+        "uline-web-production-intern-waukegan",
+        "motorola-data-scientist-intern-chicago"
       ],
       "recent_jobs": [
         {
-          "id": "virtualvocations-data-science-intern-new-orleans",
+          "id": "virtualvocations-data-science-intern-hialeah",
           "title": "Data Science Intern",
           "company": "VirtualVocations",
-          "posted_at": "2026-02-02T02:27:34.122Z"
+          "posted_at": "2026-02-02T02:39:55.422Z"
         },
         {
-          "id": "microchip-technology-intern-engineering-data-engineering-chandler",
-          "title": "Intern-Engineering - Data Engineering",
-          "company": "Microchip Technology",
-          "posted_at": "2026-02-02T02:27:44.253Z"
-        },
-        {
-          "id": "motorola-android-applications-developer-intern-chicago",
-          "title": "Android Applications Developer Intern",
-          "company": "Motorola",
-          "posted_at": "2026-02-02T02:27:47.772Z"
-        },
-        {
-          "id": "altom-transport-software-development-intern-markham",
+          "id": "altom-transport-software-development-intern-houston",
           "title": "Software Development Intern",
           "company": "Altom Transport",
-          "posted_at": "2026-02-02T02:27:53.080Z"
+          "posted_at": "2026-02-02T02:40:02.359Z"
         },
         {
-          "id": "abbvie-statistics-intern-phd-waukegan",
-          "title": "Statistics Intern - PhD",
-          "company": "AbbVie",
-          "posted_at": "2026-02-02T02:28:03.268Z"
+          "id": "uline-web-production-intern-waukegan",
+          "title": "Web Production Intern",
+          "company": "Uline",
+          "posted_at": "2026-02-02T02:40:05.802Z"
         },
         {
-          "id": "at-t-at-t-labs-intern-advanced-degrees-austin",
-          "title": "AT&T Labs Intern - Advanced Degrees",
-          "company": "AT&T",
-          "posted_at": "2026-02-02T02:28:13.254Z"
-        }
-      ]
-    },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
-      "count": 1,
-      "jobs": [
-        "asml-intern-san-diego"
-      ],
-      "recent_jobs": [
-        {
-          "id": "asml-intern-san-diego",
-          "title": "Intern",
-          "company": "ASML",
-          "posted_at": "2026-02-02T02:27:37.600Z"
+          "id": "motorola-data-scientist-intern-chicago",
+          "title": "Data Scientist Intern",
+          "company": "Motorola",
+          "posted_at": "2026-02-02T02:40:19.395Z"
         }
       ]
     },
@@ -104,195 +68,144 @@
       "channel_id": "1464303178286760059",
       "count": 4,
       "jobs": [
-        "microchip-technology-intern-engineering-data-engineering-chandler",
-        "motorola-android-applications-developer-intern-chicago",
-        "national-information-solutions-cooperative-nisc-software-development-intern-bismarck",
-        "altom-transport-software-development-intern-markham"
+        "altom-transport-software-development-intern-houston",
+        "uline-web-production-intern-waukegan",
+        "marvell-product-engineer-intern-master-s-degree-santa-clara",
+        "rtx-software-engineering-intern-anaheim"
       ],
       "recent_jobs": [
         {
-          "id": "microchip-technology-intern-engineering-data-engineering-chandler",
-          "title": "Intern-Engineering - Data Engineering",
-          "company": "Microchip Technology",
-          "posted_at": "2026-02-02T02:27:42.499Z"
-        },
-        {
-          "id": "motorola-android-applications-developer-intern-chicago",
-          "title": "Android Applications Developer Intern",
-          "company": "Motorola",
-          "posted_at": "2026-02-02T02:27:46.060Z"
-        },
-        {
-          "id": "national-information-solutions-cooperative-nisc-software-development-intern-bismarck",
-          "title": "Software Development Intern",
-          "company": "National Information Solutions Cooperative (NISC)",
-          "posted_at": "2026-02-02T02:27:49.492Z"
-        },
-        {
-          "id": "altom-transport-software-development-intern-markham",
+          "id": "altom-transport-software-development-intern-houston",
           "title": "Software Development Intern",
           "company": "Altom Transport",
-          "posted_at": "2026-02-02T02:27:51.222Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 3,
-      "jobs": [
-        "genentech-2026-summer-intern-san-bruno",
-        "abbvie-statistics-intern-phd-waukegan",
-        "genentech-intern-multiple-teams-san-bruno"
-      ],
-      "recent_jobs": [
-        {
-          "id": "genentech-2026-summer-intern-san-bruno",
-          "title": "2026 Summer Intern",
-          "company": "Genentech",
-          "posted_at": "2026-02-02T02:27:57.802Z"
+          "posted_at": "2026-02-02T02:40:00.189Z"
         },
         {
-          "id": "abbvie-statistics-intern-phd-waukegan",
-          "title": "Statistics Intern - PhD",
-          "company": "AbbVie",
-          "posted_at": "2026-02-02T02:28:01.534Z"
+          "id": "uline-web-production-intern-waukegan",
+          "title": "Web Production Intern",
+          "company": "Uline",
+          "posted_at": "2026-02-02T02:40:04.104Z"
         },
         {
-          "id": "genentech-intern-multiple-teams-san-bruno",
-          "title": "Intern - Multiple Teams",
-          "company": "Genentech",
-          "posted_at": "2026-02-02T02:28:05.072Z"
+          "id": "marvell-product-engineer-intern-master-s-degree-santa-clara",
+          "title": "Product Engineer Intern - Master's Degree",
+          "company": "Marvell",
+          "posted_at": "2026-02-02T02:40:07.695Z"
+        },
+        {
+          "id": "rtx-software-engineering-intern-anaheim",
+          "title": "Software Engineering Intern",
+          "company": "RTX",
+          "posted_at": "2026-02-02T02:40:11.240Z"
         }
       ]
     },
     "🌉・bay-area-internships": {
       "channel_id": "1464303497242742875",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "genentech-2026-summer-intern-san-bruno",
-        "genentech-intern-multiple-teams-san-bruno"
+        "marvell-product-engineer-intern-master-s-degree-santa-clara"
       ],
       "recent_jobs": [
         {
-          "id": "genentech-2026-summer-intern-san-bruno",
-          "title": "2026 Summer Intern",
-          "company": "Genentech",
-          "posted_at": "2026-02-02T02:27:59.553Z"
-        },
-        {
-          "id": "genentech-intern-multiple-teams-san-bruno",
-          "title": "Intern - Multiple Teams",
-          "company": "Genentech",
-          "posted_at": "2026-02-02T02:28:06.787Z"
+          "id": "marvell-product-engineer-intern-master-s-degree-santa-clara",
+          "title": "Product Engineer Intern - Master's Degree",
+          "company": "Marvell",
+          "posted_at": "2026-02-02T02:40:09.435Z"
         }
       ]
     },
-    "🎯・other-industry-internships": {
-      "channel_id": "1464303419794784347",
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
       "count": 1,
       "jobs": [
-        "at-t-at-t-labs-intern-advanced-degrees-austin"
+        "rtx-software-engineering-intern-anaheim"
       ],
       "recent_jobs": [
         {
-          "id": "at-t-at-t-labs-intern-advanced-degrees-austin",
-          "title": "AT&T Labs Intern - Advanced Degrees",
-          "company": "AT&T",
-          "posted_at": "2026-02-02T02:28:11.532Z"
+          "id": "rtx-software-engineering-intern-anaheim",
+          "title": "Software Engineering Intern",
+          "company": "RTX",
+          "posted_at": "2026-02-02T02:40:12.985Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "motorola-data-scientist-intern-chicago"
+      ],
+      "recent_jobs": [
+        {
+          "id": "motorola-data-scientist-intern-chicago",
+          "title": "Data Scientist Intern",
+          "company": "Motorola",
+          "posted_at": "2026-02-02T02:40:17.695Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "virtualvocations-data-science-intern-new-orleans",
+      "job_id": "virtualvocations-data-science-intern-hialeah",
       "company": "VirtualVocations",
       "title": "Data Science Intern",
       "channels": [
         "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T02:27:32.341Z"
+      "posted_at": "2026-02-02T02:39:53.675Z"
     },
     {
-      "job_id": "asml-intern-san-diego",
-      "company": "ASML",
-      "title": "Intern",
-      "channels": [
-        "📊・data-science-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-02-02T02:27:35.907Z"
-    },
-    {
-      "job_id": "microchip-technology-intern-engineering-data-engineering-chandler",
-      "company": "Microchip Technology",
-      "title": "Intern-Engineering - Data Engineering",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T02:27:42.499Z"
-    },
-    {
-      "job_id": "motorola-android-applications-developer-intern-chicago",
-      "company": "Motorola",
-      "title": "Android Applications Developer Intern",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T02:27:46.060Z"
-    },
-    {
-      "job_id": "altom-transport-software-development-intern-markham",
+      "job_id": "altom-transport-software-development-intern-houston",
       "company": "Altom Transport",
       "title": "Software Development Intern",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T02:27:51.222Z"
+      "posted_at": "2026-02-02T02:40:00.189Z"
     },
     {
-      "job_id": "genentech-2026-summer-intern-san-bruno",
-      "company": "Genentech",
-      "title": "2026 Summer Intern",
+      "job_id": "uline-web-production-intern-waukegan",
+      "company": "Uline",
+      "title": "Web Production Intern",
       "channels": [
-        "🤖・ai-internships",
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T02:40:04.104Z"
+    },
+    {
+      "job_id": "marvell-product-engineer-intern-master-s-degree-santa-clara",
+      "company": "Marvell",
+      "title": "Product Engineer Intern - Master's Degree",
+      "channels": [
+        "💻・tech-internships",
         "🌉・bay-area-internships"
       ],
-      "posted_at": "2026-02-02T02:27:57.802Z"
+      "posted_at": "2026-02-02T02:40:07.695Z"
     },
     {
-      "job_id": "abbvie-statistics-intern-phd-waukegan",
-      "company": "AbbVie",
-      "title": "Statistics Intern - PhD",
+      "job_id": "rtx-software-engineering-intern-anaheim",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "channels": [
+        "💻・tech-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-02-02T02:40:11.240Z"
+    },
+    {
+      "job_id": "motorola-data-scientist-intern-chicago",
+      "company": "Motorola",
+      "title": "Data Scientist Intern",
       "channels": [
         "🤖・ai-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T02:28:01.534Z"
-    },
-    {
-      "job_id": "genentech-intern-multiple-teams-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - Multiple Teams",
-      "channels": [
-        "🤖・ai-internships",
-        "🌉・bay-area-internships"
-      ],
-      "posted_at": "2026-02-02T02:28:05.072Z"
-    },
-    {
-      "job_id": "at-t-at-t-labs-intern-advanced-degrees-austin",
-      "company": "AT&T",
-      "title": "AT&T Labs Intern - Advanced Degrees",
-      "channels": [
-        "🎯・other-industry-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T02:28:11.532Z"
+      "posted_at": "2026-02-02T02:40:17.695Z"
     }
   ],
   "failures": [],
