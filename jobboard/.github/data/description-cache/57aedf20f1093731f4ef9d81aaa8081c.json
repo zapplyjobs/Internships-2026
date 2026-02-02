@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=57cad9762dfc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Intern (Developer) GT Connected Systems and Infrastructure in Seattle. Expeditors is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=57cad9762dfc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-02T00:20:39.212Z"
+    }
+  },
+  "cachedAt": 1769991639212
+}
