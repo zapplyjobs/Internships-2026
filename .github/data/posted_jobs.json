@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-02T00:57:42.191Z",
+  "lastUpdated": "2026-02-02T01:37:04.378Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -9813,14 +9813,143 @@
       "job_city": "Columbia",
       "job_state": "South Carolina",
       "job_description": "<p>HDR is a company that values employee engagement and inclusion, and they are seeking a Mechanical Engineering Intern to support their Building Engineering Services Business Group. In this role, the intern will gain real-world experience on projects, connect with recent graduates and company leaders, and apply standard engineering techniques under supervision.</p><br><p>Responsibilities</p><ul><li>Gain real-world experience on exciting projects</li><li>Connect with recent college graduates and our company leaders through mentoring and young professionals programs</li><li>Apply standard engineering techniques and procedures</li><li>Perform assignments under the direct supervision of a professional or Project Manager</li><li>Perform other duties as needed</li></ul><br><p>Skills</p><ul><li>Currently enrolled in an undergraduate or graduate Engineering program</li><li>Attention to detail</li><li>Possess strong problem-solving and communication skills</li><li>Basic Microsoft Office skills</li><li>An attitude and commitment to being an active participant of our employee-owned culture is a must</li><li>Prefer 2 years completed toward degree with 3.0+ GPA</li><li>Demonstrated knowledge of software packages related to field of study/industry</li><li>Local candidates preferred</li></ul><br><p>Company Overview</p><li>HDR is an employee-owned design firm specializing in engineering, architecture, environmental and construction services. We’re ranked No. It was founded in 1917, and is headquartered in Omaha, Nebraska, USA, with a workforce of 10001+ employees. Its website is http://www.hdrinc.com.</li><br><p>Company H1B Sponsorship</p><li>HDR has a track record of offering H1B sponsorships, with 3 in 2025, 4 in 2024, 6 in 2023, 3 in 2022, 5 in 2021, 8 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "46b851e1ed2d8f37-2026-02-02-1",
+      "jobId": "46b851e1ed2d8f37",
+      "company": "Copeland",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-02-02T01:36:43.317Z",
+      "sourceDate": "2026-02-01T23:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=d6c31b5f7f0a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467695195213791337",
+          "channelType": "category",
+          "postedAt": "2026-02-02T01:36:43.317Z",
+          "channelJobNumber": 125
+        },
+        "1464304182923362324": {
+          "messageId": "1467695203182841917",
+          "channelType": "location",
+          "postedAt": "2026-02-02T01:36:45.156Z",
+          "channelJobNumber": 126
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Eden Prairie",
+      "job_state": "Minnesota",
+      "job_description": "Apply for Software Engineering Intern in Eden Prairie. Copeland is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "c4ca401ba3d483ed-2026-02-02-1",
+      "jobId": "c4ca401ba3d483ed",
+      "company": "Vanderlande Industries B.V.",
+      "title": "R&D Intern",
+      "postedToDiscord": "2026-02-02T01:36:47.314Z",
+      "sourceDate": "2026-02-01T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=3593cadbe8dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467695211110072478",
+          "channelType": "category",
+          "postedAt": "2026-02-02T01:36:47.314Z",
+          "channelJobNumber": 126
+        },
+        "1464304182923362324": {
+          "messageId": "1467695220198998026",
+          "channelType": "location",
+          "postedAt": "2026-02-02T01:36:49.468Z",
+          "channelJobNumber": 127
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Marietta",
+      "job_state": "Georgia",
+      "job_description": "Apply for R&D Intern in Marietta. Vanderlande Industries B.V. is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "2d425bc9df25c1cc-2026-02-02-1",
+      "jobId": "2d425bc9df25c1cc",
+      "company": "Schneider Electric",
+      "title": "Web Development Intern",
+      "postedToDiscord": "2026-02-02T01:36:52.707Z",
+      "sourceDate": "2026-01-28T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=ba4b530202f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467695229015560482",
+          "channelType": "category",
+          "postedAt": "2026-02-02T01:36:52.707Z",
+          "channelJobNumber": 127
+        },
+        "1464304182923362324": {
+          "messageId": "1467695242684797110",
+          "channelType": "location",
+          "postedAt": "2026-02-02T01:36:54.484Z",
+          "channelJobNumber": 128
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Colorado Springs",
+      "job_state": "Colorado",
+      "job_description": "Apply for Web Development Intern in Colorado Springs. Schneider Electric is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "a64d68af1a35d2c1-2026-02-02-1",
+      "jobId": "a64d68af1a35d2c1",
+      "company": "Amentum",
+      "title": "Hardware / Software Systems Integration Intern",
+      "postedToDiscord": "2026-02-02T01:36:56.327Z",
+      "sourceDate": "2026-01-27T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=2437248b6310&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467695250276614368",
+          "channelType": "category",
+          "postedAt": "2026-02-02T01:36:56.327Z",
+          "channelJobNumber": 128
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Huntsville",
+      "job_state": "Alabama",
+      "job_description": "Apply for Hardware/Software Systems Integration Intern (parttime) in Huntsville. Amentum is hiring now. Discover your next career opportunity today on Talent.com."
+    },
+    {
+      "id": "c82a57e6680c539b-2026-02-02-1",
+      "jobId": "c82a57e6680c539b",
+      "company": "Imperative Care",
+      "title": "Systems Engineer Intern",
+      "postedToDiscord": "2026-02-02T01:36:58.083Z",
+      "sourceDate": "2026-01-26T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=45b0807a84ec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1467695257864114366",
+          "channelType": "category",
+          "postedAt": "2026-02-02T01:36:58.083Z",
+          "channelJobNumber": 129
+        },
+        "1464304182923362324": {
+          "messageId": "1467695265237565603",
+          "channelType": "location",
+          "postedAt": "2026-02-02T01:36:59.849Z",
+          "channelJobNumber": 129
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Campbell",
+      "job_state": "Ohio",
+      "job_description": "Apply for Systems Engineer Intern in Campbell. Imperative Care is hiring now. Discover your next career opportunity today on Talent.com."
     }
   ],
   "metadata": {
-    "totalJobs": 495,
+    "totalJobs": 500,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-02T00:57:42.191Z",
+      "date": "2026-02-02T01:37:04.378Z",
       "archived": 0
     }
   }

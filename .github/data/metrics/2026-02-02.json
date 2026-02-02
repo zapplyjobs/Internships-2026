@@ -1,307 +1,138 @@
 {
-  "generated": "2026-02-02T00:57:44.376Z",
+  "generated": "2026-02-02T01:37:06.568Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T00:57:44.376Z",
-  "period_end": "2026-02-02T00:57:44.376Z",
+  "period_start": "2026-01-26T01:37:06.568Z",
+  "period_end": "2026-02-02T01:37:06.568Z",
   "summary": {
-    "total_jobs_posted": 20,
-    "unique_jobs": 10,
-    "multi_channel_postings": 20,
-    "unique_multi_channel_jobs": 10,
+    "total_jobs_posted": 9,
+    "unique_jobs": 5,
+    "multi_channel_postings": 8,
+    "unique_multi_channel_jobs": 4,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 6
+    "channels_active": 2
   },
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 9,
+      "count": 5,
       "jobs": [
-        "nirvana-consulting-company-ai-product-builder-internship-chicago",
-        "virtualvocations-data-analytics-intern-moreno-valley",
-        "imperative-care-software-engineer-intern-robotics-campbell",
-        "ibm-intern-2026-quantum-primitives-software-developer-cambridge",
-        "rocket-lab-software-intern-summer-2026-littleton",
-        "amazon-web-services-aws-2026-software-dev-engineer-intern-germany-dresden",
-        "quindar-software-engineering-intern-spring-2026-arvada",
-        "advanced-micro-devices-2026-undergrad-firmware-engineering-intern-co-op-longmont",
-        "ccc-intelligent-software-engineer-intern-parts-summer-2026-"
+        "copeland-software-engineering-intern-eden-prairie",
+        "vanderlande-industries-b-v-r-d-intern-marietta",
+        "schneider-electric-web-development-intern-colorado-springs",
+        "amentum-hardware-software-systems-integration-intern-huntsville",
+        "imperative-care-systems-engineer-intern-campbell"
       ],
       "recent_jobs": [
         {
-          "id": "nirvana-consulting-company-ai-product-builder-internship-chicago",
-          "title": "AI Product Builder Internship",
-          "company": "Nirvana Consulting Company",
-          "posted_at": "2026-02-02T00:57:00.898Z"
+          "id": "copeland-software-engineering-intern-eden-prairie",
+          "title": "Software Engineering Intern",
+          "company": "Copeland",
+          "posted_at": "2026-02-02T01:36:43.348Z"
         },
         {
-          "id": "virtualvocations-data-analytics-intern-moreno-valley",
-          "title": "Data Analytics Intern",
-          "company": "VirtualVocations",
-          "posted_at": "2026-02-02T00:57:04.604Z"
+          "id": "vanderlande-industries-b-v-r-d-intern-marietta",
+          "title": "R&D Intern",
+          "company": "Vanderlande Industries B.V.",
+          "posted_at": "2026-02-02T01:36:47.336Z"
         },
         {
-          "id": "imperative-care-software-engineer-intern-robotics-campbell",
-          "title": "Software Engineer Intern, Robotics",
+          "id": "schneider-electric-web-development-intern-colorado-springs",
+          "title": "Web Development Intern",
+          "company": "Schneider Electric",
+          "posted_at": "2026-02-02T01:36:52.731Z"
+        },
+        {
+          "id": "amentum-hardware-software-systems-integration-intern-huntsville",
+          "title": "Hardware / Software Systems Integration Intern",
+          "company": "Amentum",
+          "posted_at": "2026-02-02T01:36:56.348Z"
+        },
+        {
+          "id": "imperative-care-systems-engineer-intern-campbell",
+          "title": "Systems Engineer Intern",
           "company": "Imperative Care",
-          "posted_at": "2026-02-02T00:57:08.123Z"
-        },
-        {
-          "id": "ibm-intern-2026-quantum-primitives-software-developer-cambridge",
-          "title": "Intern 2026: Quantum Primitives Software Developer",
-          "company": "IBM",
-          "posted_at": "2026-02-02T00:57:11.723Z"
-        },
-        {
-          "id": "rocket-lab-software-intern-summer-2026-littleton",
-          "title": "Software Intern Summer 2026",
-          "company": "Rocket Lab",
-          "posted_at": "2026-02-02T00:57:15.277Z"
-        },
-        {
-          "id": "amazon-web-services-aws-2026-software-dev-engineer-intern-germany-dresden",
-          "title": "2026 Software Dev Engineer Intern - Germany",
-          "company": "Amazon Web Services (AWS)",
-          "posted_at": "2026-02-02T00:57:18.911Z"
-        },
-        {
-          "id": "quindar-software-engineering-intern-spring-2026-arvada",
-          "title": "Software Engineering Intern - Spring 2026",
-          "company": "Quindar",
-          "posted_at": "2026-02-02T00:57:22.351Z"
-        },
-        {
-          "id": "advanced-micro-devices-2026-undergrad-firmware-engineering-intern-co-op-longmont",
-          "title": "2026 Undergrad Firmware Engineering Intern / Co-op",
-          "company": "Advanced Micro Devices, Inc",
-          "posted_at": "2026-02-02T00:57:25.923Z"
-        },
-        {
-          "id": "ccc-intelligent-software-engineer-intern-parts-summer-2026-",
-          "title": "Software Engineer Intern - Parts Summer 2026",
-          "company": "CCC Intelligent Solutions",
-          "posted_at": "2026-02-02T00:57:29.346Z"
+          "posted_at": "2026-02-02T01:36:58.109Z"
         }
       ]
     },
     "📍・other-usa-internships": {
       "channel_id": "1464304182923362324",
-      "count": 6,
+      "count": 4,
       "jobs": [
-        "nirvana-consulting-company-ai-product-builder-internship-chicago",
-        "imperative-care-software-engineer-intern-robotics-campbell",
-        "quindar-software-engineering-intern-spring-2026-arvada",
-        "advanced-micro-devices-2026-undergrad-firmware-engineering-intern-co-op-longmont",
-        "ccc-intelligent-software-engineer-intern-parts-summer-2026-",
-        "hdr-mechanical-engineering-intern-summer-2026-columbia"
+        "copeland-software-engineering-intern-eden-prairie",
+        "vanderlande-industries-b-v-r-d-intern-marietta",
+        "schneider-electric-web-development-intern-colorado-springs",
+        "imperative-care-systems-engineer-intern-campbell"
       ],
       "recent_jobs": [
         {
-          "id": "nirvana-consulting-company-ai-product-builder-internship-chicago",
-          "title": "AI Product Builder Internship",
-          "company": "Nirvana Consulting Company",
-          "posted_at": "2026-02-02T00:57:02.594Z"
+          "id": "copeland-software-engineering-intern-eden-prairie",
+          "title": "Software Engineering Intern",
+          "company": "Copeland",
+          "posted_at": "2026-02-02T01:36:45.177Z"
         },
         {
-          "id": "imperative-care-software-engineer-intern-robotics-campbell",
-          "title": "Software Engineer Intern, Robotics",
+          "id": "vanderlande-industries-b-v-r-d-intern-marietta",
+          "title": "R&D Intern",
+          "company": "Vanderlande Industries B.V.",
+          "posted_at": "2026-02-02T01:36:49.495Z"
+        },
+        {
+          "id": "schneider-electric-web-development-intern-colorado-springs",
+          "title": "Web Development Intern",
+          "company": "Schneider Electric",
+          "posted_at": "2026-02-02T01:36:54.510Z"
+        },
+        {
+          "id": "imperative-care-systems-engineer-intern-campbell",
+          "title": "Systems Engineer Intern",
           "company": "Imperative Care",
-          "posted_at": "2026-02-02T00:57:09.809Z"
-        },
-        {
-          "id": "quindar-software-engineering-intern-spring-2026-arvada",
-          "title": "Software Engineering Intern - Spring 2026",
-          "company": "Quindar",
-          "posted_at": "2026-02-02T00:57:24.132Z"
-        },
-        {
-          "id": "advanced-micro-devices-2026-undergrad-firmware-engineering-intern-co-op-longmont",
-          "title": "2026 Undergrad Firmware Engineering Intern / Co-op",
-          "company": "Advanced Micro Devices, Inc",
-          "posted_at": "2026-02-02T00:57:27.622Z"
-        },
-        {
-          "id": "ccc-intelligent-software-engineer-intern-parts-summer-2026-",
-          "title": "Software Engineer Intern - Parts Summer 2026",
-          "company": "CCC Intelligent Solutions",
-          "posted_at": "2026-02-02T00:57:31.107Z"
-        },
-        {
-          "id": "hdr-mechanical-engineering-intern-summer-2026-columbia",
-          "title": "Mechanical Engineering Intern - Summer 2026",
-          "company": "HDR",
-          "posted_at": "2026-02-02T00:57:37.684Z"
-        }
-      ]
-    },
-    "🌴・socal-internships": {
-      "channel_id": "1464304161230295131",
-      "count": 2,
-      "jobs": [
-        "virtualvocations-data-analytics-intern-moreno-valley",
-        "rocket-lab-software-intern-summer-2026-littleton"
-      ],
-      "recent_jobs": [
-        {
-          "id": "virtualvocations-data-analytics-intern-moreno-valley",
-          "title": "Data Analytics Intern",
-          "company": "VirtualVocations",
-          "posted_at": "2026-02-02T00:57:06.362Z"
-        },
-        {
-          "id": "rocket-lab-software-intern-summer-2026-littleton",
-          "title": "Software Intern Summer 2026",
-          "company": "Rocket Lab",
-          "posted_at": "2026-02-02T00:57:17.157Z"
-        }
-      ]
-    },
-    "🗽・new-york-internships": {
-      "channel_id": "1464303539101634634",
-      "count": 1,
-      "jobs": [
-        "ibm-intern-2026-quantum-primitives-software-developer-cambridge"
-      ],
-      "recent_jobs": [
-        {
-          "id": "ibm-intern-2026-quantum-primitives-software-developer-cambridge",
-          "title": "Intern 2026: Quantum Primitives Software Developer",
-          "company": "IBM",
-          "posted_at": "2026-02-02T00:57:13.428Z"
-        }
-      ]
-    },
-    "🌲・pacific-northwest-internships": {
-      "channel_id": "1464304146072207390",
-      "count": 1,
-      "jobs": [
-        "amazon-web-services-aws-2026-software-dev-engineer-intern-germany-dresden"
-      ],
-      "recent_jobs": [
-        {
-          "id": "amazon-web-services-aws-2026-software-dev-engineer-intern-germany-dresden",
-          "title": "2026 Software Dev Engineer Intern - Germany",
-          "company": "Amazon Web Services (AWS)",
-          "posted_at": "2026-02-02T00:57:20.670Z"
-        }
-      ]
-    },
-    "🎯・other-industry-internships": {
-      "channel_id": "1464303419794784347",
-      "count": 1,
-      "jobs": [
-        "hdr-mechanical-engineering-intern-summer-2026-columbia"
-      ],
-      "recent_jobs": [
-        {
-          "id": "hdr-mechanical-engineering-intern-summer-2026-columbia",
-          "title": "Mechanical Engineering Intern - Summer 2026",
-          "company": "HDR",
-          "posted_at": "2026-02-02T00:57:35.955Z"
+          "posted_at": "2026-02-02T01:36:59.872Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "nirvana-consulting-company-ai-product-builder-internship-chicago",
-      "company": "Nirvana Consulting Company",
-      "title": "AI Product Builder Internship",
+      "job_id": "copeland-software-engineering-intern-eden-prairie",
+      "company": "Copeland",
+      "title": "Software Engineering Intern",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T00:57:00.898Z"
+      "posted_at": "2026-02-02T01:36:43.348Z"
     },
     {
-      "job_id": "virtualvocations-data-analytics-intern-moreno-valley",
-      "company": "VirtualVocations",
-      "title": "Data Analytics Intern",
+      "job_id": "vanderlande-industries-b-v-r-d-intern-marietta",
+      "company": "Vanderlande Industries B.V.",
+      "title": "R&D Intern",
       "channels": [
         "💻・tech-internships",
-        "🌴・socal-internships"
+        "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T00:57:04.604Z"
+      "posted_at": "2026-02-02T01:36:47.336Z"
     },
     {
-      "job_id": "imperative-care-software-engineer-intern-robotics-campbell",
+      "job_id": "schneider-electric-web-development-intern-colorado-springs",
+      "company": "Schneider Electric",
+      "title": "Web Development Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T01:36:52.731Z"
+    },
+    {
+      "job_id": "imperative-care-systems-engineer-intern-campbell",
       "company": "Imperative Care",
-      "title": "Software Engineer Intern, Robotics",
+      "title": "Systems Engineer Intern",
       "channels": [
         "💻・tech-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T00:57:08.123Z"
-    },
-    {
-      "job_id": "ibm-intern-2026-quantum-primitives-software-developer-cambridge",
-      "company": "IBM",
-      "title": "Intern 2026: Quantum Primitives Software Developer",
-      "channels": [
-        "💻・tech-internships",
-        "🗽・new-york-internships"
-      ],
-      "posted_at": "2026-02-02T00:57:11.723Z"
-    },
-    {
-      "job_id": "rocket-lab-software-intern-summer-2026-littleton",
-      "company": "Rocket Lab",
-      "title": "Software Intern Summer 2026",
-      "channels": [
-        "💻・tech-internships",
-        "🌴・socal-internships"
-      ],
-      "posted_at": "2026-02-02T00:57:15.277Z"
-    },
-    {
-      "job_id": "amazon-web-services-aws-2026-software-dev-engineer-intern-germany-dresden",
-      "company": "Amazon Web Services (AWS)",
-      "title": "2026 Software Dev Engineer Intern - Germany",
-      "channels": [
-        "💻・tech-internships",
-        "🌲・pacific-northwest-internships"
-      ],
-      "posted_at": "2026-02-02T00:57:18.911Z"
-    },
-    {
-      "job_id": "quindar-software-engineering-intern-spring-2026-arvada",
-      "company": "Quindar",
-      "title": "Software Engineering Intern - Spring 2026",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T00:57:22.351Z"
-    },
-    {
-      "job_id": "advanced-micro-devices-2026-undergrad-firmware-engineering-intern-co-op-longmont",
-      "company": "Advanced Micro Devices, Inc",
-      "title": "2026 Undergrad Firmware Engineering Intern / Co-op",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T00:57:25.923Z"
-    },
-    {
-      "job_id": "ccc-intelligent-software-engineer-intern-parts-summer-2026-",
-      "company": "CCC Intelligent Solutions",
-      "title": "Software Engineer Intern - Parts Summer 2026",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T00:57:29.346Z"
-    },
-    {
-      "job_id": "hdr-mechanical-engineering-intern-summer-2026-columbia",
-      "company": "HDR",
-      "title": "Mechanical Engineering Intern - Summer 2026",
-      "channels": [
-        "🎯・other-industry-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T00:57:35.955Z"
+      "posted_at": "2026-02-02T01:36:58.109Z"
     }
   ],
   "failures": [],
