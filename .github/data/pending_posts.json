@@ -3,28 +3,6 @@
     "job": {
       "job_title": "Data Science Intern",
       "employer_name": "VirtualVocations",
-      "job_city": "New Orleans",
-      "job_state": "Louisiana",
-      "job_description": "Apply for Data Science Intern in New Orleans. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
-      "job_apply_link": "https://www.talent.com/view?id=e86067210dea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
-      "job_employment_type": "Full-time",
-      "job_source": "jsearch",
-      "job_publisher": "Talent.com",
-      "job_posted_at": "1h",
-      "id": "virtualvocations-data-science-intern-new-orleans",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:08:52.106Z",
-    "enrichedAt": "2026-02-02T02:09:19.277Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "VirtualVocations",
       "job_city": "Hialeah",
       "job_state": "Florida",
       "job_description": "Apply for Data Science Intern in Hialeah. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
@@ -38,10 +16,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-02T02:08:52.106Z",
     "enrichedAt": "2026-02-02T02:09:19.277Z",
-    "postedAt": null
+    "postedAt": "2026-02-02T02:40:23.898Z"
   },
   {
     "job": {
@@ -67,153 +45,6 @@
   },
   {
     "job": {
-      "job_title": "Intern-Engineering - Data Engineering",
-      "employer_name": "Microchip Technology",
-      "job_city": "Chandler",
-      "job_state": "AZ",
-      "job_description": "Are you looking for a unique opportunity to be a part of something great? Want to join a 17,000-member team that works on the technology that powers the world around us? Looking for an atmosphere of trust, empowerment, respect, diversity, and communication? How about an opportunity to own a piece of a multi-billion dollar (with a B!) global organization? We offer all that and more at Microchip Technology Inc. People come to work at Microchip because we help design the technology that runs the world. They stay because our culture supports their growth and stability. They are challenged and driven by an incredible array of products and solutions with unlimited career potential. Microchip’s nationally-recognized Leadership Passage Programs support career growth where we proudly enroll over a thousand people annually. We take pride in our commitment to employee development, values-based decision making, and strong sense of community, driven by our Vision, Mission, and 11 Guiding Values; we affectionately refer to it as the Aggregate System and it’s won us countless awards for diversity and workplace excellence. Our company is built by dedicated team players who love to challenge the status quo; we did not achieve record revenue and over 30 years of quarterly profitability without a great team dedicated to empowering innovation. People like you. Visit our careers page to see what exciting opportunities and company perks await! Job Description: Helping with migrating legacy ETL to modern data platform Working with Analytics team leaders on refining requirements Developing data transformation logic with Data Build Tool Developing test scripts with SQL Supporting system administration tasks such as automating and monitoring processes Requirements/Qualifications: Require experience with SQL query language Require knowledge with relational database concepts (e.g. Oracle, SqlServer, Postgres, MySql) Some basic knowledge with Linux Experience with Visual Studio Code Some basic programming knowledge (e.g. Python, C#) Good to know WSL Informatica ETL Proficient in MS Word, Excel, and PowerPoint (MS Access Database is a plus) Basic understanding of Software Development Life Cycle Capable of taking initiatives and self-driven towards completing given tasks Strong Analytical skills Work well in a team environment Eager to learn and have an inquisitive mind Must currently be pursuing Bachelor’s or Master’s degree in Computer Science or related field from an accredited college or university. Must be able to obtain authorization to work in the U.S. Travel Time: 0% - 25% Physical Attributes: Hearing, Seeing, Talking, Works Alone, Works Around Others Physical Requirements: 80% sitting, 10% standing, 10% walking, 100% inside Pay Range: Find information about all our benefits at the link below: Benefits of working at Microchip The hourly pay range for this position, which could be performed in the US, is $19-$28 an hour.* *Range is dependent on numerous factors including job location, skills and experience. Microchip Technology Inc is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. For more information on applicable equal employment regulations, please refer to the Know Your Rights: Workplace Discrimination is Illegal Poster. To all recruitment agencies: Microchip Technology Inc. does not accept unsolicited agency resumes. Please do not forward resumes to our recruiting team or other Microchip employees. Microchip is not responsible for any fees related to unsolicited resumes. At Microchip, employees are our greatest strength. As one of the top performing semiconductor companies in the world, we are led by a set of guiding values and a mission to empower innovation to enhance the human experience. We work tirelessly to create a company culture that highlights how important every employee is to our mission. Microchip Recruitment Privacy Notice Recruitment Scam Alert Microchip will never: Request banking or payment information during the application or interview process. Ask candidates to register or pay for a training class as part of the application or interview process. Ask candidates to receive or ship packages or goods as part of the recruitment process. Use email address not ending with \"@microchip.com\". Use instant messaging to communicate. Be wary of generic emails or vague job details. If something feels suspicious, stop communicating immediately. To report potential scams, contact us at HR.Compliance@microchip.com.",
-      "job_apply_link": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Engineering-_R2176-25",
-      "job_posted_at_datetime_utc": "2026-01-30T23:22:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "microchip-technology-intern-engineering-data-engineering-chandler",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "Android Applications Developer Intern",
-      "employer_name": "Motorola",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Company Overview​At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Department OverviewDevices Android Application Development Team is responsible for architecting, designing Android applications for use by Public Safety customers.Job DescriptionResponsibilities will range from requirements gathering, architecture, design, development, testing, deploying, maintaining, and enhancing Android mobile applications.Desired skills but not required:Kotlin software experienceFamiliarity with wide range of Android Framework components such as Bluetooth, Sensors, Widgets, Services, etc.Familiarity with Android security features and mechanismsFamiliarity with RESTful APIs to connect applications to back-end servicesKnowledge of Git, Object oriented development, Agile software development methodologiesDemonstrated experience in mobile application software development on Android (Android Studio, and Android frameworks)Basic RequirementsCurrently pursuing a Bachelor's or Master's degree in Computer Science or a technical discipline is required.Must have a graduation date on or after December 2025.Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students).Travel RequirementsNoneRelocation ProvidedNonePosition TypeInternEEO StatementMotorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic. We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.",
-      "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2026_R57810-1",
-      "job_posted_at_datetime_utc": "2026-01-30T07:35:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "motorola-android-applications-developer-intern-chicago",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 Summer Intern",
-      "employer_name": "Genentech",
-      "job_city": "San Bruno",
-      "job_state": "CA",
-      "job_description": "2026 Summer Intern - Machine Learning for Small-Molecule Drug Discovery Department SummaryWe seek a highly motivated research intern to join the Small-Molecule Machine Learning for Drug Discovery Team at Prescient Design, within Genentech Research and Early Development (gRED). As a successful candidate, you will develop and apply novel machine learning methods to molecular design with the ultimate goal of advancing drug discovery. Our team fosters a collaborative approach that stimulates innovative thinking and the potential for creative breakthroughs at the forefront of ML research.This internship position is located in South San Francisco, on site. The OpportunityDevelop and apply machine learning methods that learn from internal Genentech small molecule data.Collaborate closely on machine learning projects for drug discovery with machine learning scientists, research engineers, computational biologists, chemists, and biologists.Develop and execute a research agenda focused on machine learning for drug discovery.Design, implement, and evaluate machine learning models.Clearly report and present research developments and findings, both verbally and in writing (publishing in top-tier ML venues). Program HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internship.Program start dates are in May/June (Summer)A stipend, based on location, will be provided to help alleviate costs associated with the internship.Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You Are Required Education You meet one of the following criteria:Must be pursuing a PhD (enrolled student).Requires Majors: Computer science, chemistry, or a related field.​ Required Skills: Basic chemistry & cheminformatics knowledge.Machine learning expertise.Fluent in Python and experience with modern Python deep learning frameworks.Interest in drug discovery, chemical property prediction, and applying methods from machine learning academia to real-world problems. Preferred Knowledge, Skills, and QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Strong research interest in drug optimization and discovery, chemical properties prediction.Demonstrated computational research experience, as evidenced by publications, public code repositories, or equivalent.Experience with one or more cheminformatics or drug discovery toolkits (e.g. OpenEye, Schrodinger, RDKit, OpenBabel).Experience working with large chemical and biological datasets, including graph, sequence, and structure-based data.Relocation benefits are not available for this job posting. The expected salary for this position based on the primary location of  California is $50.00 per hour.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
-      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Machine-Learning-for-Small-Molecule-Drug-Discovery_202601-102265",
-      "job_posted_at_datetime_utc": "2026-01-29T23:37:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "genentech-2026-summer-intern-san-bruno",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Intern",
-      "employer_name": "National Information Solutions Cooperative (NISC)",
-      "job_city": "Bismarck",
-      "job_state": "ND",
-      "job_description": "NISC develops and implements enterprise-level and customer-facing software solutions for over 960+ utilities and broadbands across North America. Our mission is to deliver technology solutions and services that are Member-focused, quality driven and valued priced. We exist to serve our Members and help them serve their communities through our innovative software products, services and outstanding customer support. NISC has been ranked in ComputerWorld’s Best Places to Work for 20+ years, and we are looking for qualified individuals to join our team. This position reports to a Software Engineering Team Lead and will collaborate with other software developers. May work with support staff assigned to design business requirements and with quality assurance personnel. This position is responsible for software development and assisting with the maintenance of NISC’s Utility, Broadband, Financials, Operations software and/or AppSuite mobile applications. To Learn more about NISC's internships, click HERE. **Current applications submitted will be under consideration for Summer 2026 (May - August)** Work Schedule: Hybrid from the following office location: Mandan, ND Requirement: Minimum of working 3 days per week out of an office location and ability to work up to all 5 days a week from an office location. Essential Functions: Performs basic research, design and development of software systems. Researches, analyzes, and resolves basic software maintenance. Assists in the enhancement and/or maintenance of application programs in the business areas listed above within our Application Development Division. Follows all established software development methodologies and procedures. Performs quality testing as it relates to both unit and system integration dependent on the tasks assigned. Reviews and prioritizes assigned change requests. Ensures that all information is appropriately entered and utilized in Confluence and/or the iVUE Support tool. Desired Job Experience: Strong customer orientation. Familiarity with Object Oriented Concepts & Languages (Java and it's frameworks, preferred). Familiarity with Javascript and it's frameworks (newer Angular versions or Typescript preferred). Familiarity with HTLML/CSS/SCSS and enterprise design patterns. Familiarity with relational and non relational databases (e.g. Postgres, Oracle, MongoDB, Cassandra) Familiarity with Linux and Microsoft Windows. Familiarity with cloud technologies (preferably AWS) Strong problem solving skills and attention to detail. Strong verbal and written, interpersonal, and communication skills. Ability to work independently, as well as in a team environment. Ability to effectively adapt to change. Ability to interact in a positive manner with internal and external contacts. Ability to maintain the highest level of professionalism, ethical behavior, and confidentiality. Commitment to NISC's Statement of Shared Values. NISC’s Shared Values & Competencies: We’re a cooperative, which means we’re owned by the Members we serve. It also means that our focus is on taking care of our Members and our employees, rather than having a big bottom line. Quality service and innovative technology starts with happy and dedicated employees. Join our team and learn for yourself what sets NISC apart. Integrity – We are committed to doing the right thing – always. Relationships – We are committed to building and preserving lasting relationships. Innovation – We promote the spirit of creativity and champion new ideas. Teamwork – We exemplify the cooperative spirit by working together. Empowerment – We believe individuals have the power to make a difference. Personal Development – We believe the free exchange of knowledge and information is absolutely necessary to the success of each individual and the organization. Desired Education and/or Certification(s): ​​High School diploma or equivalency required Pursuing Bachelor’s Degree in a computer science related field Minimum Physical Requirements: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the essential functions of this position, employees must be able to see and communicate. Employees are regularly required to maintain a stationary position, move, and operate computer keyboards or office equipment. Disclaimer: Management may modify this job description by assigning or reassigning duties and responsibilities at any time.",
-      "job_apply_link": "https://job-boards.greenhouse.io/testnisc/jobs/7574565",
-      "job_posted_at_datetime_utc": "2026-01-29T23:25:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "national-information-solutions-cooperative-nisc-software-development-intern-bismarck",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "Statistics Intern - PhD",
-      "employer_name": "AbbVie",
-      "job_city": "Waukegan",
-      "job_state": "IL",
-      "job_description": "2026 Statistics Intern (PhD)InternSalary Min: 58656Campus Program: AbbVie Intern ProgramSalary Max: 100500Class Cycle: 2026Workday Global Grade: 12Campus Sub Function: Clinical Sciences (DSS)Travel: Yes, 5% of the Time Compensation: USD58656 - USD100500 - yearlyCompany DescriptionAbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas – immunology, oncology, neuroscience, and eye care – and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on X, Facebook, Instagram, YouTube, LinkedIn and Tik Tok.Job DescriptionEnvision spending your summer working with energetic colleagues and inspirational leaders, all while gaining world-class experience in one of the most dynamic organizations in the pharmaceutical industry. This is a reality for AbbVie Interns. The Statistical Sciences (Stats) organization is part of AbbVie’s Data & Statistical Sciences (DSS) organization and plays a vital role in supporting the company's strategic goals by providing data-driven insights and solutions. The department is responsible for conducting advanced statistical analyses, designing experiments, developing predictive models, and delivering data-driven insights to inform business decisions. The team works collaboratively with other departments across clinical development, regulatory affairs, and global medical affairs to provide statistical expertise and analytical support for various projects and initiatives across all phases of clinical development. The Stats organization is composed of highly skilled statisticians, data scientists, and analysts who are pioneers in generating and leveraging scientific evidence to provide new treatments that make remarkable impact for our patients. The team is committed to continuous learning and development, staying up to date with the latest statistical methods and tools. As a Stats intern, you will gain knowledge about the pharmaceutical industry, conduct research on one or more statistical topics, and support other projects as needed. Potential statistical topics include but are not limited to: Deep learning Historical data borrowing Missing data imputation Survival analysis Biomedical signal processing At the conclusion of the internship assignment, interns will present project/assignment results and learnings to department leadership and the broader Stats organization. Stats interns will be located at one of our main campuses across the US: North Chicago headquarters office, Bay Area office, or Florham Park, NJ office. Please note that the specific project you support will dictate which location you will be assigned to. As such, we require flexibility around location. QualificationsMinimum Qualifications Currently enrolled in university, pursuing a PhD in statistics, biostatistics, bioinformatics, biomedical engineering, data science, or other closely related field Must be enrolled in university for at least one semester following the internship Must have completed at least two full years of PhD study prior to the start of the internship Track record of accomplishment Preferred Qualifications Expected graduation date between December 2026 – June 2027 Additional InformationApplicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​Benefits and Amenities:​Competitive pay​Relocation support for eligible students​Select wellness benefits and paid holiday / sick time ​The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the timeof this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, andwe may ultimately pay more or less than the posted range. This range may be modified in the future.​Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus,commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolutediscretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. AbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community. Equal Opportunity Employer/Veterans/Disabled. US & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.htmlUS & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:https://www.abbvie.com/join-us/reasonable-accommodations.htmlI'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990011422476",
-      "job_posted_at_datetime_utc": "2026-01-29T23:15:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "abbvie-statistics-intern-phd-waukegan",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Multiple Teams",
-      "employer_name": "Genentech",
-      "job_city": "San Bruno",
-      "job_state": "CA",
-      "job_description": "2026 Summer Intern - Product Development Data Science & Analytics Digital Endpoints and Patients Centered Solutions, Medical Imaging (Oncology focus)Department Summary We leverage complex datasets and external technologies, enabling advanced imaging applications that generate actionable insights at scale. Our mission is to unlock the full potential of data, to accelerate innovative healthcare solutions for patients and society. We aim to accelerate R&D and improve patient outcomes by developing innovative tools that enable faster, more accurate detection and monitoring of complex diseases. This internship position is located in South San Francisco, on-site. The OpportunityAI research: Suggesting and implementing new methodologies in machine learning and deep learning for algorithm development to enable scientific reverse translation.Deep learning algorithm development: Develop, refactor, and evaluate deep learning models in an HPC/cloud computing environment with multi-modal data including clinical data and medical images.Conduct rigorous validation of algorithms using standard metrics to ensure robust performance on clinical data.Explore efficiencies in data flow from raw to analysis-ready datasets. Program HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internship.Program start dates are in May/June 2026.A stipend, based on location, will be provided to help alleviate costs associated with the internship.Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Professional & personal development curriculum throughout the program, including networking opportunities, workshops, and panel discussions. Who You Are (Required) Required Education: You meet one of the following criteria:Must be pursuing a Master's Degree (enrolled student).Must have attained a Master's Degree.Must be pursuing a PhD (enrolled student). Required majors: Computer Science, Biomedical Engineering, Data Science, Biotechnology or related fields.Required skills:Experience with generative models, foundation models applied to images/videos, stochastic systems, and/or Reinforcement Learning.Strong engineering and statistical skills, particularly in designing and optimizing large-scale machine learning systems (e.g., PyTorch, Tensorflow).Stay goal-oriented instead of method-oriented. Preferred QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Passion for learning and curious about drug development in the pharmaceutical biotechnology industry.Experience with software development workflow including versioning and code collaboration.Experienced problem solver capable of seeking help when needed.Familiarity with clinical data and medical images is a plus.Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of California is $50.00 hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
-      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Science---Analytics-Digital-Endpoints-and-Patients-Centered-Solutions--Medical-Imaging--Oncology-focus-_202601-101742",
-      "job_posted_at_datetime_utc": "2026-01-28T23:23:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "genentech-intern-multiple-teams-san-bruno",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Intern",
-      "employer_name": "Altom Transport",
-      "job_city": "Markham",
-      "job_state": "IL",
-      "job_description": "Duration: Summer 2026 (Flexible start and end dates) Hours: 40 hours per week (depending on availability) Paid InternshipAbout Us:Altom Transport is a premier petrochemical and hazardous materials carrier committed to safety, innovation, and operationa...",
-      "job_apply_link": "https://apply.workable.com/altom-transport/j/054317C274/apply",
-      "job_posted_at_datetime_utc": "2026-01-27T23:10:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "altom-transport-software-development-intern-markham",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
       "job_title": "Software Development Intern",
       "employer_name": "Altom Transport",
       "job_city": "Houston",
@@ -228,10 +59,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-02T02:26:40.471Z",
     "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": null
+    "postedAt": "2026-02-02T02:40:23.898Z"
   },
   {
     "job": {
@@ -256,48 +87,6 @@
   },
   {
     "job": {
-      "job_title": "Intern",
-      "employer_name": "ASML",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "IntroductionASML US, LP brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, and more energy-efficient microchips. We design, develop, integrate, market, and service these advanced machines, which enable our customers—the world’s leading chipmakers—to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Wilton, CT, Chandler, AZ, San Jose, CA and San Diego, CA.As a Data Engineer at ASML, you will play a critical role in developing the data pipeline for the laser machine data and driving the technical details of the projects that would ultimately drive customer satisfaction.Your AssignmentDevelop data pipeline solutions to contribute towards feature and roadmap.Demonstrate systematic problem-solving to resolve problems and standardize solutions.Interact with cross-functional teams to contribute to system design changes and improving system performances.Work towards adoption of best industry practices in code health, testing, and maintainability.Contribute to automated continuous data integration pipeline to build, test, and release.Collaborate with business users on business requirements to meet the business goals.Collaborate with Data Architects and IT team members on Project GoalsEducation and ExperienceMust be pursuing a degree in Computer Science, Computer Engineering, Information System, or other related fields.Knowledge or experience using Databricks, SQL Server or other Database Technology.Familiar with Cloud Technologies (Azure)Knowledge of programming languages (Python, Java, SQL)Proven work as a data engineer or work on project of similar roleSkills & Competencies.Strong customer focus and commitment to customer satisfaction through prioritization, quality, efficiency and professionalism.Ability to complete assignments with attention to detail and high degree of accuracy.Proven ability to perform effectively in a demanding environment with changing workloads.Result driven-demonstrate ownership and accountability.Demonstrate open, clear, concise and professional communication.Ability to establish and maintain cooperative working relationships with co-workers and customer.Decompose complex problems and derive business requirements to propose feasible solution.Ability to refactor code such that legacy and new systems can co-exists.Great numerical and analytical skillsDemonstrate importance of documentationThe current base annual salary range for this role is currently $18.00  -  $57.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
-      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---CDO-Data---Visualization---Cloud---AI-Engineer_J-00329573",
-      "job_posted_at_datetime_utc": "2026-01-26T23:36:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "asml-intern-san-diego",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
-      "job_title": "AT&T Labs Intern - Advanced Degrees",
-      "employer_name": "AT&T",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Job Description:This position requires office presence of a minimum of 5 days per week and is only located in the location(s) posted. No relocation is offered.  Join AT&T and help shape the future of communications and technology that connect the world. We value innovators who seek to explore the unknown and challenge the status quo. Bring your bold ideas and fearless spirit to redefine connectivity and transform how people share stories and experiences. At AT&T, you won’t just imagine the future—you’ll build it.The AT&T LABS internship is a 10-week immersive summer program designed for students interested in technology, innovation, and hands-on learning. Participants will work on real-world projects, collaborate with experienced professionals, and gain exposure to leading-edge technologies.What will you do:Learning and Development: Gaining practical technical experience and applying theoretical knowledge from their studies.Assisting with Projects: Assisting with ongoing technical related projects, offering support to full-time employees.Administrative Tasks: Handling administrative duties such as data entry, filing, and scheduling meetings.Research and Analysis: Conducting research, compiling data, and analyzing information relevant to the company’s projects or goals.Creating Reports and Presentations: Preparing reports, presentations, and other documentation to communicate findings or project updates.What you’ll bring:Integrity that serves as your true north moral compass.Mastery in communication, both speaking and writing clearly and effectively.Strong leadership skills, comfortable leading teams at all levels.A proactive mindset, always ready and eager to tackle challenges.A results-oriented approach, driven to achieve goals.A curious mind, continuously learning and fascinated by innovation.What you’ll need: Pursuing a PhD degree in STEM* field (Science, Technology, Engineering, or Math).Availability to begin full time internship by June 8, 2026.Ability to work on-site at least 5 days per week at the specified office locations.Intern – Salary Varies and Negotiable - Full-Time TemporaryLABS Interns earn between $78,690 - $103,133 yearly. Not to mention all the other amazing rewards that working at AT&T offers. Individual starting pay within this range may depend on geography, experience, expertise, and education/training.Joining our team comes with amazing perks and benefits:Medical/Dental/Vision coverage401(k) plan · Paid Time off and holidays (with up to 4 days of paid time off during internship and company-designated holidays.)Disability Benefits (short term and long term)Employee Assistance Programs (EAP)Extensive employee wellnessSupplemental benefit programs: critical illness/accident hospital indemnity/group legalA paid Community Day and can participate in company-sponsored volunteering events.Ready to join our team? Apply today!Applicants must be authorized to work in the United States on a full-time basis without the need for employer sponsorship now or in the future.  AT&T will consider for employment: qualified applicants in a manner consistent with the requirements of federal, state, & local laws.  Weekly Hours:40Time Type:RegularLocation:Middletown, New JerseyIt is the policy of AT&T to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, AT&T will provide reasonable accommodations for qualified individuals with disabilities. AT&T is a fair chance employer and does not initiate a background check until an offer is made.",
-      "job_apply_link": "https://att.wd1.myworkdayjobs.com/ATTCollege/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-89564-1",
-      "job_posted_at_datetime_utc": "2026-01-26T23:21:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1mo",
-      "id": "at-t-at-t-labs-intern-advanced-degrees-austin",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-02T02:26:40.471Z",
-    "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": "2026-02-02T02:28:17.760Z"
-  },
-  {
-    "job": {
       "job_title": "Data Scientist Intern",
       "employer_name": "Motorola",
       "job_city": "Chicago",
@@ -312,10 +101,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-02T02:26:40.471Z",
     "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": null
+    "postedAt": "2026-02-02T02:40:23.898Z"
   },
   {
     "job": {
@@ -333,10 +122,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-02T02:26:40.471Z",
     "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": null
+    "postedAt": "2026-02-02T02:40:23.898Z"
   },
   {
     "job": {
@@ -354,10 +143,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-02T02:26:40.471Z",
     "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": null
+    "postedAt": "2026-02-02T02:40:23.898Z"
   },
   {
     "job": {
@@ -375,9 +164,9 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-02T02:26:40.471Z",
     "enrichedAt": "2026-02-02T02:27:29.379Z",
-    "postedAt": null
+    "postedAt": "2026-02-02T02:40:23.898Z"
   }
 ]
