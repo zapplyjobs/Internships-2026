@@ -3,7 +3,7 @@
  *
  * Validates that jobs are actually internships, not full-time/senior positions
  *
- * Bug #4 Fix (2026-01-26): SimplifyJobs returns ALL job levels, not just internships
+ * Bug #4 Fix (2026-01-26): Data sources return mixed job levels, filtering required
  * User reminder: "AVOID: Never add ATS to Internships-2026 - ATS APIs return ALL jobs"
  *
  * Created: 2026-01-26
