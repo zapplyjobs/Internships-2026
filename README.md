@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-137-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-136-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 49+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 137+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 49+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 136+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -91,7 +91,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | WDI Software Developer Intern - Summer 2026 | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/WDI-Software-Developer-Intern--Summer-2026_10135513-1) | 3d |
-| WDW Analytical & Strategic Planning Intern | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Fall-2026_10139790) | 6d |
+| WDW Analytical & Strategic Planning Intern | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Fall-2026_10139790-1) | 6d |
 
 </details>
 
@@ -344,7 +344,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🛡️ <strong>Defense & Aerospace</strong> (18 positions)</h3></summary>
+<summary><h3>🛡️ <strong>Defense & Aerospace</strong> (17 positions)</h3></summary>
 
 #### 🚗 **Waymo** (1 position)
 
@@ -352,11 +352,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |------|----------|-------|-----------|-----|
 | Intern - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7565624) | 5d |
 
-#### 🏢 **RTX** (2 positions)
+#### 🏢 **RTX** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineering Intern - Software Engineer | Annapolis, MD | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/XMLNAME-2026-Raytheon-Intern---Software-Engineer--Onsite-_01820140) | 3d |
 | Software Engineering Intern | Anaheim, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2026---Onsite-_01820474) | 3w |
 
 #### 🏢 **Booz Allen** (4 positions)
@@ -564,12 +563,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1561 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1557 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1561 roles
+- **📁 Total Positions**: 1557 roles
 - **🏢 Companies**: 208 companies  
 - **⭐ FAANG+ Opportunities**: 77 positions
 
@@ -1018,7 +1017,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 </details>
 
 <details>
-<summary><h3>🛡️ <strong>Defense & Aerospace</strong> (44 positions)</h3></summary>
+<summary><h3>🛡️ <strong>Defense & Aerospace</strong> (43 positions)</h3></summary>
 
 #### 🚗 **Waymo** (11 positions)
 
@@ -1043,12 +1042,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 2026 Intern - Data Management Analyst | Tucson, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Data-Management-Analyst---Onsite_01816048) | 2w |
 | Summer 2026: Network Research Intern - Onsite | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026--Network-Research-Intern--Onsite-_01803759) | 2w |
 | Software Engineering Intern | Cedar Rapids, IA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507) | 1mo |
-
-#### 🏢 **Booz Allen** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Data Scientist Intern | Honolulu, HI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Data-Scientist-Intern_R0225534) | 1mo |
 
 #### 🏢 **CACI** (5 positions)
 
@@ -1208,7 +1201,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 137 current opportunities from 49 top companies.**
+**🎯 136 current opportunities from 49 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
