@@ -1,93 +1,19 @@
 {
-  "generated": "2026-02-02T03:41:10.406Z",
+  "generated": "2026-02-02T04:33:51.165Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T03:41:10.406Z",
-  "period_end": "2026-02-02T03:41:10.406Z",
+  "period_start": "2026-01-26T04:33:51.165Z",
+  "period_end": "2026-02-02T04:33:51.165Z",
   "summary": {
-    "total_jobs_posted": 4,
-    "unique_jobs": 2,
-    "multi_channel_postings": 4,
-    "unique_multi_channel_jobs": 2,
+    "total_jobs_posted": 0,
+    "unique_jobs": 0,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 3
+    "channels_active": 0
   },
-  "by_channel": {
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 2,
-      "jobs": [
-        "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
-        "ge-vernova-energy-optimization-software-intern-bellevue"
-      ],
-      "recent_jobs": [
-        {
-          "id": "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
-          "title": "Software Developer Intern",
-          "company": "General Dynamics Information Technology",
-          "posted_at": "2026-02-02T03:40:58.149Z"
-        },
-        {
-          "id": "ge-vernova-energy-optimization-software-intern-bellevue",
-          "title": "Energy Optimization Software Intern",
-          "company": "GE Vernova",
-          "posted_at": "2026-02-02T03:41:01.835Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 1,
-      "jobs": [
-        "general-dynamics-information-technology-software-developer-intern-annapolis-junction"
-      ],
-      "recent_jobs": [
-        {
-          "id": "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
-          "title": "Software Developer Intern",
-          "company": "General Dynamics Information Technology",
-          "posted_at": "2026-02-02T03:40:59.978Z"
-        }
-      ]
-    },
-    "🌲・pacific-northwest-internships": {
-      "channel_id": "1464304146072207390",
-      "count": 1,
-      "jobs": [
-        "ge-vernova-energy-optimization-software-intern-bellevue"
-      ],
-      "recent_jobs": [
-        {
-          "id": "ge-vernova-energy-optimization-software-intern-bellevue",
-          "title": "Energy Optimization Software Intern",
-          "company": "GE Vernova",
-          "posted_at": "2026-02-02T03:41:03.707Z"
-        }
-      ]
-    }
-  },
-  "multi_channel_routing": [
-    {
-      "job_id": "general-dynamics-information-technology-software-developer-intern-annapolis-junction",
-      "company": "General Dynamics Information Technology",
-      "title": "Software Developer Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T03:40:58.149Z"
-    },
-    {
-      "job_id": "ge-vernova-energy-optimization-software-intern-bellevue",
-      "company": "GE Vernova",
-      "title": "Energy Optimization Software Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "🌲・pacific-northwest-internships"
-      ],
-      "posted_at": "2026-02-02T03:41:01.835Z"
-    }
-  ],
+  "by_channel": {},
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [],
