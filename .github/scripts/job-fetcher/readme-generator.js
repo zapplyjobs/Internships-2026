@@ -168,7 +168,9 @@ if (jobs.length === 0) {
 
       // Use singular/plural based on job count
       const positionText = totalJobs === 1 ? "position" : "positions";
-      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} ${positionText})\n\n`;
+      // Start collapsible category section
+      output += `<details>\n`;
+      output += `<summary><h3>${categoryData.emoji} <strong>${categoryData.title}</strong> (${totalJobs} ${positionText})</h3></summary>\n\n`;
 
       // Handle ALL companies with their own sections (regardless of job count)
       companiesWithJobs.forEach((companyName) => {
@@ -229,6 +231,9 @@ if (jobs.length === 0) {
           output += "\n";
         }
       });
+
+      // End collapsible category section
+      output += `</details>\n\n`;
     }
   });
 
@@ -255,7 +260,9 @@ if (jobs.length === 0) {
 
     console.log(`\n📝 DEBUG: Processing UNCATEGORIZED companies: ${uncategorizedCompanies.length} companies with ${totalUncategorizedJobs} jobs`);
 
-    output += `### 🏢 **Other Companies** (${totalUncategorizedJobs} positions)\n\n`;
+    // Start collapsible "Other Companies" section
+    output += `<details>\n`;
+    output += `<summary><h3>🏢 <strong>Other Companies</strong> (${totalUncategorizedJobs} positions)</h3></summary>\n\n`;
 
     // Handle large uncategorized companies (>10 jobs) separately
     const bigUncategorized = uncategorizedCompanies.filter(
@@ -347,6 +354,9 @@ if (jobs.length === 0) {
 
       output += "\n";
     }
+
+    // End collapsible "Other Companies" section
+    output += `</details>\n\n`;
   }
 
   return output;
