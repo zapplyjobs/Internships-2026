@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-135-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-138-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 49+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 135+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 49+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 138+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>⭐ <strong>FAANG+</strong> (15 positions)</h3></summary>
+<summary><h3>⭐ <strong>FAANG+</strong> (18 positions)</h3></summary>
 
 #### 🟦 **Microsoft** (5 positions)
 
@@ -86,10 +86,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Data Science Intern - Advertisement Team - 2026 Summer | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7598068289244809525) | 1w |
 | Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7592001144580262197) | 1w |
 
-#### 🏢 **The Walt Disney Company** (2 positions)
+#### 🏢 **The Walt Disney Company** (5 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| ABC Research Insights & Analytics Intern | Burbank, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/ABC-Research--Insights---Analytics-Intern--Summer-Fall-2026_10138490-1) | 1h |
+| Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026 | Burbank, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content---Brand-Insights-Social-Media-Analytics-Intern--Summer-Fall-2026_10138493) | 1h |
+| WDI Figure Programming Intern | Orlando, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Figure-Programming-Intern--Summer-Fall-2026_10131865) | 1h |
 | WDI Software Developer Intern - Summer 2026 | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/WDI-Software-Developer-Intern--Summer-2026_10135513-1) | 3d |
 | WDW Analytical & Strategic Planning Intern | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Fall-2026_10139790-1) | 1w |
 
@@ -121,9 +124,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – Gnn - Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008) | 6d |
-| Intern LLM Serving System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096734008) | 6d |
 | Intern – AI/HPC System with Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096696008) | 6d |
+| Intern LLM Serving System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096734008) | 6d |
+| Intern – Gnn - Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008) | 6d |
 | Intern Processing-in-Memory | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5078298008) | 1w |
 
 #### 🏢 **Sandisk** (3 positions)
@@ -413,9 +416,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Intern - Data & Digital Catalysts | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Data---Digital-Catalysts_202601-102115) | 3d |
-| 2026 Summer Intern - Product Development Data Sciences | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences--Digital-Endpoints-and-Patient-Centered-Solutions_202601-101745) | 4d |
 | 2026 Summer Intern | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Machine-Learning-for-Small-Molecule-Drug-Discovery_202601-102265) | 1mo |
 | Intern - Multiple Teams | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Science---Analytics-Digital-Endpoints-and-Patients-Centered-Solutions--Medical-Imaging--Oncology-focus-_202601-101742) | 1mo |
+| 2026 Summer Intern - Product Development Data Sciences | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences--Digital-Endpoints-and-Patient-Centered-Solutions_202601-101745) | 4d |
 | 2026 Summer Intern - Product Development Data Science | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Science_202601-101287-1) | 6d |
 | Intern - Product Development Data Sciences | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences_202601-101259) | 1w |
 | Intern - AIBT/Trail | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AIBT-TRAIL_202601-101276) | 1w |
@@ -1199,7 +1202,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 135 current opportunities from 49 top companies.**
+**🎯 138 current opportunities from 49 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
