@@ -81,12 +81,6 @@ function saveUsageTracking(data) {
  * Search JSearch API for internships
  */
 async function searchJSearchInternships() {
-    // Check if API key is configured
-    if (JSEARCH_API_KEY === 'YOUR_KEY_HERE') {
-        console.log('⏸️ JSearch API key not configured (placeholder detected)');
-        return [];
-    }
-
     // Load usage tracking
     const usage = loadUsageTracking();
 
