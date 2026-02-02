@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-138-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-139-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-50-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 49+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 138+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 50+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 139+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -67,7 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Engineer: Co-Op Intern Opportunities | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556746673) | 2d |
-| Research Intern - Applied Sciences Group | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748770) | 3d |
+| Research Intern - Applied Sciences Group | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748770) | 4d |
 | Research Intern - Firmware Security | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748757) | 4d |
 | Research Intern - AI Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 5d |
 | Research Intern - AI Inference Software & Systems | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556748209) | 5d |
@@ -77,10 +77,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Platform-Product Solutions and Operations Intern - Ads Interface and Platform - 2026 Summer BS/MS | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7600292878967785781) | 3d |
-| Machine Learning Engineer Intern - Search Ads - 2026 Summer (removed) BS/MS | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7600250402370586933) | 3d |
-| Security Software Engineer Project Intern - Product Security - 2026 Start | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7600535181632457013) | 3d |
-| Data Scientist Intern - Vod Data - 2026 Summer | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7593125551477950725) | 4d |
-| Software Engineer Intern - Ads Interface Platform | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7473334964256393479) | 5d |
+| Machine Learning Engineer Intern - Search Ads - 2026 Summer (removed) BS/MS | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7600250402370586933) | 4d |
+| Security Software Engineer Project Intern - Product Security - 2026 Start | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7600535181632457013) | 4d |
+| Data Scientist Intern - Vod Data - 2026 Summer | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7593125551477950725) | 5d |
+| Software Engineer Intern - Ads Interface Platform | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7473334964256393479) | 6d |
 | Software Engineer Intern - Commerce Ads - 2026 Summer | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7595346355196954933) | 1w |
 | Data Science Intern - Advertisement Team - 2026 Summer | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7598068289244809525) | 1w |
 | Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7592001144580262197) | 1w |
@@ -90,10 +90,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| WDI Software Developer Intern - Summer 2026 | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/WDI-Software-Developer-Intern--Summer-2026_10135513-1) | 2d |
+| WDI Software Developer Intern - Summer 2026 | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/WDI-Software-Developer-Intern--Summer-2026_10135513-1) | 3d |
 | WDW Analytical & Strategic Planning Intern | Celebration, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Analytical---Strategic-Planning-Intern--Fall-2026_10139790) | 6d |
 
-### 🏢 **Top Tech** (24 positions)
+### 🏢 **Top Tech** (25 positions)
 
 #### 🎮 **NVIDIA** (1 position)
 
@@ -105,8 +105,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Platform Engineer Intern | Folsom, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Data-Platforms-Engineering-Intern_JR0279842) | 1d |
-| DARC Data and Reporting Student/Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/DARC-Data-and-Reporting-Student-Intern_JR0280027) | 1d |
+| Data Platform Engineer Intern | Folsom, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Data-Platforms-Engineering-Intern_JR0279842) | 2d |
+| DARC Data and Reporting Student/Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/DARC-Data-and-Reporting-Student-Intern_JR0280027) | 2d |
+
+#### 🔵 **IBM** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Intern 2026: Quantum Primitives Software Developer | Cambridge, Massachusetts | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69713d9a51f7264771837297?utm_campaign=1079&utm_source=git&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 #### 🏢 **Samsung** (1 position)
 
@@ -118,24 +124,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – Gnn - Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008) | 5d |
 | Intern – AI/HPC System with Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096696008) | 5d |
 | Intern LLM Serving System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096734008) | 5d |
+| Intern – Gnn - Advanced Memory System Research | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5096725008) | 6d |
 | Intern Processing-in-Memory | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/skhynixamerica/jobs/5078298008) | 1w |
 
 #### 🏢 **Sandisk** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Failure Analysis Engineering Intern - Gen AI focus - Masters | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000105920835) | 4d |
-| PhD Intern - Advanced Memory Technology - AI/ML Focus | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000105931382) | 4d |
+| Failure Analysis Engineering Intern - Gen AI focus - Masters | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000105920835) | 5d |
+| PhD Intern - Advanced Memory Technology - AI/ML Focus | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000105931382) | 5d |
 | Intern - Software Development Engineer - Masters | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000104527305) | 1w |
 
 #### 🏢 **KLA** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Full Stack Software Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Full-Stack-Software-Intern_2633729) | 4d |
+| Full Stack Software Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Full-Stack-Software-Intern_2633729) | 5d |
 | Applications Engineering Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Engineering--Intern_2532274) | 1w |
 | Algorithms/Machine Learning Engineering Intern - Multi-Modalities | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Systems-Engineering-Intern_2532243) | 1w |
 
@@ -143,8 +149,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern-Backend Developer | Santa Fe, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern-Backend-Developer_R52938) | 3d |
-| Software Intern | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Intern_R52911-1) | 4d |
+| Intern-Backend Developer | Santa Fe, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern-Backend-Developer_R52938) | 4d |
+| Software Intern | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Intern_R52911-1) | 5d |
 | Intern Scientific Developer | Santa Fe, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-1) | 1w |
 | Intern – Scientific Developer - Affinity | Santa Fe, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/OpenEye_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-3) | 1w |
 
@@ -152,7 +158,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| R&D Software Engineering Intern | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.keysight.com/jobs/51418?lang=en-us&icims=1) | 4d |
+| R&D Software Engineering Intern | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.keysight.com/jobs/51418?lang=en-us&icims=1) | 5d |
 | R&D Software Engineer Intern - Quantum Computing | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.keysight.com/jobs/51341?lang=en-us&icims=1) | 1w |
 
 #### 💾 **Marvell** (1 position)
@@ -165,9 +171,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Full Stack Software Developer Intern - Health and Life Science | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40704/job?mobile=true&needsRedirect=false) | 3d |
-| AI Developer Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40586/job?mobile=true&needsRedirect=false) | 3d |
-| Learning Data Science Master's Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40778/job?mobile=true&needsRedirect=false) | 3d |
+| Full Stack Software Developer Intern - Health and Life Science | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40704/job?mobile=true&needsRedirect=false) | 4d |
+| AI Developer Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40586/job?mobile=true&needsRedirect=false) | 4d |
+| Learning Data Science Master's Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40778/job?mobile=true&needsRedirect=false) | 4d |
 
 ### 💻 **Enterprise Software** (21 positions)
 
@@ -182,7 +188,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Performance Marketing & Analytics Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Performance-Marketing---Analytics-Intern_1202317) | 1d |
+| Performance Marketing & Analytics Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Performance-Marketing---Analytics-Intern_1202317) | 2d |
 | Research Associate Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Research-Associate-Intern_1201946) | 4d |
 
 #### 🏢 **Nokia** (3 positions)
@@ -206,8 +212,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analyst – Co-op/Intern - Anti Money Laundering | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Analyst--Anti-Money-Laundering--Summer-2026--Co-op-Internship----10-Weeks_R260003434) | 2d |
-| Data Analyst – Co-op/Internship - Anti Money Laundering - Summer 2026 | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Data-Analyst--Anti-Money-Laundering--Summer-2026--Co-op-Internship----10-Weeks_R260003434-1) | 2d |
+| Data Analyst – Co-op/Intern - Anti Money Laundering | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Analyst--Anti-Money-Laundering--Summer-2026--Co-op-Internship----10-Weeks_R260003434) | 3d |
+| Data Analyst – Co-op/Internship - Anti Money Laundering - Summer 2026 | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Data-Analyst--Anti-Money-Laundering--Summer-2026--Co-op-Internship----10-Weeks_R260003434-1) | 3d |
 | Software Developer Intern | San Ramon, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Summer-2026--Internship----10-weeks_R260002319-1) | 1w |
 | Software Developer – Internship - Summer 2026 - Weeks | Naperville, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Naperville-IL-USA/Software-Developer--Summer-2026--Internship----10-weeks_R260002068-1) | 1w |
 
@@ -254,7 +260,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Research Scientist Intern - Embodied AI | Irvine, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/field-ai/1beb8a30-5f4e-4c6a-9499-037ce2a32dd4/apply) | 4d |
+| Research Scientist Intern - Embodied AI | Irvine, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/field-ai/1beb8a30-5f4e-4c6a-9499-037ce2a32dd4/apply) | 5d |
 | Field Application Engineer  Intern - Part-time | Rancho Santa Margarita, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/field-ai/89a5f74d-35ca-41e1-8b59-40cbfe9290e5/apply) | 1w |
 
 #### 🏢 **Airspace Intelligence** (2 positions)
@@ -274,9 +280,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Nuclear Safety Analysis Engineer Intern | Albuquerque, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5764688004) | 2d |
-| Materials Computational Scientist Intern | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763259004) | 2d |
-| KP-SAM Code Development Engineering Intern - Summer 2026 | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763261004) | 4d |
+| Nuclear Safety Analysis Engineer Intern | Albuquerque, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5764688004) | 3d |
+| Materials Computational Scientist Intern | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763259004) | 3d |
+| KP-SAM Code Development Engineering Intern - Summer 2026 | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763261004) | 5d |
 
 ### 🛒 **Consumer & E-Commerce** (13 positions)
 
@@ -290,23 +296,23 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | AI Engineering Intern | Bellevue, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/XMLNAME-2026-Summer-AI-Engineering-Intern_REQ342523) | 2d |
 | Software Engineer Intern | Bellevue, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Software-Engineering-Intern_REQ343611) | 2d |
 | Summer 2026 Software Engineering Internship | Overland Park, KS | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ343685) | 2d |
-| Summer 2026 Software Engineering Intern | Frisco, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Intern_REQ342907) | 4d |
-| Software Engineer Intern | Frisco, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Intern_REQ343217) | 4d |
+| Summer 2026 Software Engineering Intern | Frisco, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Intern_REQ342907) | 5d |
+| Software Engineer Intern | Frisco, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-Intern_REQ343217) | 5d |
 
 #### 🏢 **General Motors** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern - GM Energy | Warren, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---GM-Energy_JR-202601937) | 3d |
+| Intern - GM Energy | Warren, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---GM-Energy_JR-202601937) | 4d |
 | 2026 Summer Intern - Machine Learning Engineer - AI Kernels | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--AI-Kernels--PhD---_JR-202601404) | 1w |
 
 #### 🏢 **Nissan Global** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Autonomous Systems Intern - Silicon Valley - CA | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Systems-Intern---Silicon-Valley--CA---Summer-2026_R00201325) | 2d |
-| Machine Learning Research Intern - Perception - Silicon Valley','CA','Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern--Perception---Silicon-Valley--CA---Summer-2026_R00201320) | 2d |
-| Machine Learning Research Intern - Prediction and Planning | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern--Prediction-and-Planning---Silicon-Valley--CA---Summer-2026_R00201322) | 2d |
+| Autonomous Systems Intern - Silicon Valley - CA | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Systems-Intern---Silicon-Valley--CA---Summer-2026_R00201325) | 3d |
+| Machine Learning Research Intern - Perception - Silicon Valley','CA','Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern--Perception---Silicon-Valley--CA---Summer-2026_R00201320) | 3d |
+| Machine Learning Research Intern - Prediction and Planning | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern--Prediction-and-Planning---Silicon-Valley--CA---Summer-2026_R00201322) | 3d |
 
 ### 💰 **Financial & Fintech** (8 positions)
 
@@ -334,7 +340,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7565624) | 4d |
+| Intern - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7565624) | 5d |
 
 #### 🏢 **RTX** (1 position)
 
@@ -347,7 +353,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Data Engineer Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer-Intern_R0232642) | 2d |
-| University – 2026 Summer Games Software Developer Intern | Honolulu, HI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356-1) | 5d |
+| University – 2026 Summer Games Software Developer Intern | Honolulu, HI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356-1) | 6d |
 | University – Games Systems Engineering Intern | Honolulu, HI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Systems-Engineering-Intern_R0225531-1) | 1w |
 | University – 2026 Summer Games Data Scientist Intern | Honolulu, HI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Data-Scientist-Intern_R0225534-1) | 1w |
 
@@ -355,10 +361,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Computer Science/Computer Engineering Intern | Aberdeen, MD | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Computer-Science-Computer-Engineering-Intern---Summer-2026_321656) | 1d |
-| Supply Chain Data Analyst Intern - Summer 2026 | Reston, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Reston/Supply-Chain-Data-Analyst-Intern---Summer-2026_321644) | 1d |
+| Computer Science/Computer Engineering Intern | Aberdeen, MD | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Computer-Science-Computer-Engineering-Intern---Summer-2026_321656) | 2d |
+| Supply Chain Data Analyst Intern - Summer 2026 | Reston, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Reston/Supply-Chain-Data-Analyst-Intern---Summer-2026_321644) | 2d |
 | AI Prompt Engineer Intern | Ashburn, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer-Intern_321469) | 2d |
-| Software Development Intern | Chantilly, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Software-Development-Intern---Summer-2026_317363) | 3d |
+| Software Development Intern | Chantilly, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Software-Development-Intern---Summer-2026_317363) | 4d |
 
 #### 🏢 **General Dynamics Mission Systems** (2 positions)
 
@@ -404,7 +410,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Developer Bachelor's Intern | Lake Oswego, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404942) | 4d |
+| Developer Bachelor's Intern | Lake Oswego, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404942) | 5d |
 | Application Engineer Bachelor Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405215) | 5d |
 | Process Improvement Master's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404990) | 5d |
 | Member Communications Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404316) | 1w |
@@ -431,13 +437,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| AI Developer for Supply Chain Optimization & Data Analytics Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Developer-for-Supply-Chain-Optimization---Data-Analytics-Intern--Summer-2026_JR00020645) | 1d |
+| AI Developer for Supply Chain Optimization & Data Analytics Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Developer-for-Supply-Chain-Optimization---Data-Analytics-Intern--Summer-2026_JR00020645) | 2d |
 
 #### 🏢 **Jabil** (4 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| AI / Computer Vision Intern | Lexington, KY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Lexington-KY/AI---Computer-Vision-Intern_J2437762) | 3d |
+| AI / Computer Vision Intern | Lexington, KY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Lexington-KY/AI---Computer-Vision-Intern_J2437762) | 4d |
 | Data Engineer Intern | Tampa, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineer-Intern_J2436717) | 1w |
 | Data Science Engineering Intern | St. Petersburg, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Science-Engineering-Intern_J2437470) | 1w |
 | Finance Data Engineering Intern | St. Petersburg, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance-Data-Engineering-Intern_J2437313) | 1w |
@@ -476,9 +482,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Full Stack Software Developer Intern - Health and Life Science | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40704/job?mobile=true&needsRedirect=false) | 3d |
-| AI Developer Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40586/job?mobile=true&needsRedirect=false) | 3d |
-| Learning Data Science Master's Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40778/job?mobile=true&needsRedirect=false) | 3d |
+| Full Stack Software Developer Intern - Health and Life Science | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40704/job?mobile=true&needsRedirect=false) | 4d |
+| AI Developer Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40586/job?mobile=true&needsRedirect=false) | 4d |
+| Learning Data Science Master's Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40778/job?mobile=true&needsRedirect=false) | 4d |
 
 
 
@@ -541,7 +547,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1549 roles
-- **🏢 Companies**: 221 companies  
+- **🏢 Companies**: 242 companies  
 - **⭐ FAANG+ Opportunities**: 77 positions
 
 ### ⭐ **FAANG+** (152 positions)
@@ -778,13 +784,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Application Engineer Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Application-Engineer-Intern_2532180-1) | 1mo |
 | AI/ML Engineering Intern - Model Evaluation - Scalability & Agentic AI | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-ML-Engineering-Intern---Model-Evaluation--Scalability---Agentic-AI_2532902) | 1mo |
 | AI Scientist Intern | Ann Arbor, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Scientist-Intern_2532581-2) | 1mo |
+| Software Intern - GPU Optimization | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern--GPU-optimization-_2532399-2) | 3w |
 | Supply Chain Data Science Intern | Ann Arbor, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Supply-Chain-Data-Science-Intern_2532571-1) | 1mo |
 | Advanced Algorithm Intern | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Advanced-Algorithm-Intern_2532229) | 1mo |
 | Data Lineage Intern | Ann Arbor, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Data-Lineage-Summer-Intern_2532576-1) | 1mo |
 | AI & Process Automation Intern | Ann Arbor, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515-1) | 1mo |
 | AI & Workflow Automation Intern | Ann Arbor, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI---Workflow-Automation-Intern_2532413-1) | 1mo |
 | Applications Development Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Intern_2532279-1) | 1mo |
-| Software Intern - GPU Optimization | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern--GPU-optimization-_2532399-2) | 3w |
 | Software Engineer (AI/ML) Intern | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241-1) | 1mo |
 | Software Engineering Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2532385-2) | 1mo |
 | Applications Engineer Intern | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Engineering--Intern_2532274-1) | 1mo |
@@ -1149,7 +1155,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 138 current opportunities from 49 top companies.**
+**🎯 139 current opportunities from 50 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -1157,6 +1163,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** February 1, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 2, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>

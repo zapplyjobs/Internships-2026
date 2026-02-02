@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/69607f85a1bbea1d9a7b507e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>Quindar builds modern, cloud-native satellite mission operations software, aiming to operate satellites like servers. They are seeking a Software Engineering Intern to help build and automate software tests and simulations to ensure the reliability of their mission operations platform.</p><br><p>Responsibilities</p><ul><li>Build automated tests and representative satellite operations simulations under guidance from senior engineers</li><li>Contribute to test suites that verify critical platform behavior</li><li>Help debug issues discovered in tests or in deployed systems</li><li>Document findings and collaborate with engineers on fixes</li><li>Understand how key parts of the platform behave (e.g., task execution, APIs, distributed services)</li><li>Translate that understanding into effective test scenarios</li><li>Help maintain and improve test automation infrastructure</li><li>Work with CI/CD tools to ensure short and long-running tests run reliably and provide clear feedback to developers</li><li>Partner with backend engineers, product managers, and peers to learn requirements, validate functionality, and align on quality goals</li></ul><br><p>Skills</p><ul><li>Experience with Python and Typescript (in coursework, projects, or personal work)</li><li>Familiarity with automated or end-to-end testing tools (e.g., Playwright, Cypress)</li><li>Basic understanding of Git and version control workflows</li><li>Exposure to APIs, services, or cloud concepts</li><li>Curious and detail-oriented—enjoys digging into how things work</li><li>Strong communicator; able to explain issues and ask good questions</li><li>Self-starter mindset; comfortable taking on tasks and learning independently</li><li>Enjoys collaboration across technical teams</li><li>Currently pursuing a degree in Computer Science, Aerospace Engineering, or a related field</li><li>Academic or personal experience with software testing, backend systems, automation, or quality assurance</li><li>Interest in distributed systems, cloud software, or mission-critical platforms</li><li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. 1157, or (iv) Asylee under 8 U.S.C. 1158, or be eligible to obtain the required authorizations from the U.S. Department of State</li></ul><br><p>Benefits</p><ul><li>Strong emphasis on company culture and team wellbeing</li></ul><br><p>Company Overview</p><li>Quindar offers a one-stop shop in the cloud for spacecraft analysis and operations. It was founded in 2022, and is headquartered in Washington, District of Columbia, USA, with a workforce of 11-50 employees. Its website is https://www.quindar.space/.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/69607f85a1bbea1d9a7b507e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-02T00:20:59.884Z"
+    }
+  },
+  "cachedAt": 1769991659884
+}
