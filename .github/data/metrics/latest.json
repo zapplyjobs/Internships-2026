@@ -1,19 +1,125 @@
 {
-  "generated": "2026-02-02T07:24:53.261Z",
+  "generated": "2026-02-02T07:49:17.118Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T07:24:53.261Z",
-  "period_end": "2026-02-02T07:24:53.261Z",
+  "period_start": "2026-01-26T07:49:17.118Z",
+  "period_end": "2026-02-02T07:49:17.118Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
-    "multi_channel_postings": 0,
-    "unique_multi_channel_jobs": 0,
+    "total_jobs_posted": 6,
+    "unique_jobs": 3,
+    "multi_channel_postings": 6,
+    "unique_multi_channel_jobs": 3,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 0
+    "channels_active": 4
   },
-  "by_channel": {},
-  "multi_channel_routing": [],
+  "by_channel": {
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 1,
+      "jobs": [
+        "graco-ai-engineer-intern-minneapolis"
+      ],
+      "recent_jobs": [
+        {
+          "id": "graco-ai-engineer-intern-minneapolis",
+          "title": "AI Engineer Intern",
+          "company": "Graco",
+          "posted_at": "2026-02-02T07:48:55.531Z"
+        }
+      ]
+    },
+    "📍・other-usa-internships": {
+      "channel_id": "1464304182923362324",
+      "count": 3,
+      "jobs": [
+        "graco-ai-engineer-intern-minneapolis",
+        "warner-bros-research-analytics-intern-atlanta",
+        "warner-bros-sports-analytics-internships-atl-summer-2026-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "graco-ai-engineer-intern-minneapolis",
+          "title": "AI Engineer Intern",
+          "company": "Graco",
+          "posted_at": "2026-02-02T07:48:57.330Z"
+        },
+        {
+          "id": "warner-bros-research-analytics-intern-atlanta",
+          "title": "Research & Analytics Intern",
+          "company": "Warner Bros.",
+          "posted_at": "2026-02-02T07:49:03.897Z"
+        },
+        {
+          "id": "warner-bros-sports-analytics-internships-atl-summer-2026-atlanta",
+          "title": "Sports Analytics Internships: ATL - Summer 2026",
+          "company": "Warner Bros.",
+          "posted_at": "2026-02-02T07:49:10.416Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 1,
+      "jobs": [
+        "warner-bros-research-analytics-intern-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "warner-bros-research-analytics-intern-atlanta",
+          "title": "Research & Analytics Intern",
+          "company": "Warner Bros.",
+          "posted_at": "2026-02-02T07:49:02.100Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 1,
+      "jobs": [
+        "warner-bros-sports-analytics-internships-atl-summer-2026-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "warner-bros-sports-analytics-internships-atl-summer-2026-atlanta",
+          "title": "Sports Analytics Internships: ATL - Summer 2026",
+          "company": "Warner Bros.",
+          "posted_at": "2026-02-02T07:49:08.653Z"
+        }
+      ]
+    }
+  },
+  "multi_channel_routing": [
+    {
+      "job_id": "graco-ai-engineer-intern-minneapolis",
+      "company": "Graco",
+      "title": "AI Engineer Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T07:48:55.531Z"
+    },
+    {
+      "job_id": "warner-bros-research-analytics-intern-atlanta",
+      "company": "Warner Bros.",
+      "title": "Research & Analytics Intern",
+      "channels": [
+        "💻・tech-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T07:49:02.100Z"
+    },
+    {
+      "job_id": "warner-bros-sports-analytics-internships-atl-summer-2026-atlanta",
+      "company": "Warner Bros.",
+      "title": "Sports Analytics Internships: ATL - Summer 2026",
+      "channels": [
+        "📊・data-science-internships",
+        "📍・other-usa-internships"
+      ],
+      "posted_at": "2026-02-02T07:49:08.653Z"
+    }
+  ],
   "failures": [],
   "filtered": {
     "blacklisted": [],
