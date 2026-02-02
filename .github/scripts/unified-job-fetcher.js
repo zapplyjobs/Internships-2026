@@ -1,16 +1,16 @@
 /**
  * Unified Job Fetcher - Internships ONLY
  *
- * IMPORTANT: This repo uses SimplifyJobs ONLY
+ * IMPORTANT: This repo uses JSearch API as PRIMARY source
+ * SimplifyJobs has been DISABLED (deprecated, migrated to Summer2026)
  * ATS platforms (Greenhouse/Lever/Ashby) return ALL jobs including senior roles
- * We need internship-specific aggregators, not general job boards
  *
  * Sources:
- * 1. SimplifyJobs (internship aggregator)
+ * 1. JSearch API (PRIMARY - 6 requests/day limit)
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
-const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
+const { fetchAPIJobs } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 
 /**
@@ -63,32 +63,21 @@ async function fetchAllJobs() {
     console.log(`   No API companies configured (using aggregator only)`);
   }
 
-  // === Part 2: Fetch from primary data source ===
-  console.log('\n📡 Fetching from primary data source...');
+  // === Part 2: PRIMARY JSearch API ===
+  console.log('\n📡 Fetching from JSearch API (PRIMARY source)...');
 
   try {
-    const externalJobs = await fetchExternalJobsData();
-    allJobs.push(...externalJobs);
-    console.log(`📊 After primary source: ${allJobs.length} jobs total`);
+    const { searchJSearchInternships } = require('./job-fetcher/jsearch-source');
+    const jsearchJobs = await searchJSearchInternships();
+    allJobs.push(...jsearchJobs);
+    console.log(`📊 After JSearch: ${allJobs.length} jobs total`);
   } catch (error) {
-    console.error(`❌ Primary data source failed:`, error.message);
+    console.error('❌ JSearch API failed:', error.message);
+    throw new Error('JSearch is primary source - cannot continue without it');
   }
 
-  // === Part 2.5: OPTIONAL JSearch API (experimental) ===
-  if (process.env.ENABLE_JSEARCH === 'true') {
-    console.log('\n📡 Fetching from JSearch API...');
-    try {
-      const { searchJSearchInternships } = require('./job-fetcher/jsearch-source');
-      const jsearchJobs = await searchJSearchInternships();
-      allJobs.push(...jsearchJobs);
-      console.log(`📊 After JSearch: ${allJobs.length} jobs total`);
-    } catch (error) {
-      console.error('⚠️ JSearch failed (non-critical):', error.message);
-      // Continue with SimplifyJobs only - graceful degradation
-    }
-  } else {
-    console.log('\n⏭️ Skipping JSearch API (ENABLE_JSEARCH not enabled)');
-  }
+  // === Part 2.5: SimplifyJobs DISABLED ===
+  console.log('\n⏭️ SimplifyJobs DISABLED (deprecated Summer2025, using JSearch instead)');
 
   // === Part 3: ATS platforms DISABLED for Internships ===
   // NOTE: Greenhouse/Lever/Ashby APIs return ALL jobs (including senior positions)
