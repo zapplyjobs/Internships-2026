@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=4bbe43a25cdd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Data Science Intern in Hialeah. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=4bbe43a25cdd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-02T02:09:05.436Z"
+    }
+  },
+  "cachedAt": 1769998145436
+}

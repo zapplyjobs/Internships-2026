@@ -1,58 +1,58 @@
 {
-  "generated": "2026-02-02T01:37:06.568Z",
+  "generated": "2026-02-02T02:09:56.324Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T01:37:06.568Z",
-  "period_end": "2026-02-02T01:37:06.568Z",
+  "period_start": "2026-01-26T02:09:56.324Z",
+  "period_end": "2026-02-02T02:09:56.324Z",
   "summary": {
-    "total_jobs_posted": 9,
-    "unique_jobs": 5,
-    "multi_channel_postings": 8,
-    "unique_multi_channel_jobs": 4,
+    "total_jobs_posted": 14,
+    "unique_jobs": 7,
+    "multi_channel_postings": 14,
+    "unique_multi_channel_jobs": 7,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 2
+    "channels_active": 5
   },
   "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
       "count": 5,
       "jobs": [
-        "copeland-software-engineering-intern-eden-prairie",
-        "vanderlande-industries-b-v-r-d-intern-marietta",
-        "schneider-electric-web-development-intern-colorado-springs",
-        "amentum-hardware-software-systems-integration-intern-huntsville",
-        "imperative-care-systems-engineer-intern-campbell"
+        "cardinal-health-data-and-analytics-internship-",
+        "virtualvocations-data-science-intern-tucson",
+        "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
+        "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
+        "lenovo-marketing-analytics-intern-summer-2026-"
       ],
       "recent_jobs": [
         {
-          "id": "copeland-software-engineering-intern-eden-prairie",
-          "title": "Software Engineering Intern",
-          "company": "Copeland",
-          "posted_at": "2026-02-02T01:36:43.348Z"
+          "id": "cardinal-health-data-and-analytics-internship-",
+          "title": "Data and Analytics Internship",
+          "company": "Cardinal Health",
+          "posted_at": "2026-02-02T02:09:22.966Z"
         },
         {
-          "id": "vanderlande-industries-b-v-r-d-intern-marietta",
-          "title": "R&D Intern",
-          "company": "Vanderlande Industries B.V.",
-          "posted_at": "2026-02-02T01:36:47.336Z"
+          "id": "virtualvocations-data-science-intern-tucson",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-02T02:09:26.608Z"
         },
         {
-          "id": "schneider-electric-web-development-intern-colorado-springs",
-          "title": "Web Development Intern",
-          "company": "Schneider Electric",
-          "posted_at": "2026-02-02T01:36:52.731Z"
+          "id": "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
+          "title": "Information Technology & Data Analytics Intern – Summer 2026",
+          "company": "Henkel",
+          "posted_at": "2026-02-02T02:09:30.312Z"
         },
         {
-          "id": "amentum-hardware-software-systems-integration-intern-huntsville",
-          "title": "Hardware / Software Systems Integration Intern",
-          "company": "Amentum",
-          "posted_at": "2026-02-02T01:36:56.348Z"
+          "id": "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
+          "title": "Live Nation Marketing and Data Science Intern",
+          "company": "Live Nation",
+          "posted_at": "2026-02-02T02:09:33.689Z"
         },
         {
-          "id": "imperative-care-systems-engineer-intern-campbell",
-          "title": "Systems Engineer Intern",
-          "company": "Imperative Care",
-          "posted_at": "2026-02-02T01:36:58.109Z"
+          "id": "lenovo-marketing-analytics-intern-summer-2026-",
+          "title": "Marketing Analytics Intern Summer 2026",
+          "company": "Lenovo",
+          "posted_at": "2026-02-02T02:09:37.314Z"
         }
       ]
     },
@@ -60,79 +60,168 @@
       "channel_id": "1464304182923362324",
       "count": 4,
       "jobs": [
-        "copeland-software-engineering-intern-eden-prairie",
-        "vanderlande-industries-b-v-r-d-intern-marietta",
-        "schneider-electric-web-development-intern-colorado-springs",
-        "imperative-care-systems-engineer-intern-campbell"
+        "cardinal-health-data-and-analytics-internship-",
+        "virtualvocations-data-science-intern-tucson",
+        "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
+        "lenovo-marketing-analytics-intern-summer-2026-"
       ],
       "recent_jobs": [
         {
-          "id": "copeland-software-engineering-intern-eden-prairie",
-          "title": "Software Engineering Intern",
-          "company": "Copeland",
-          "posted_at": "2026-02-02T01:36:45.177Z"
+          "id": "cardinal-health-data-and-analytics-internship-",
+          "title": "Data and Analytics Internship",
+          "company": "Cardinal Health",
+          "posted_at": "2026-02-02T02:09:24.864Z"
         },
         {
-          "id": "vanderlande-industries-b-v-r-d-intern-marietta",
-          "title": "R&D Intern",
-          "company": "Vanderlande Industries B.V.",
-          "posted_at": "2026-02-02T01:36:49.495Z"
+          "id": "virtualvocations-data-science-intern-tucson",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-02T02:09:28.402Z"
         },
         {
-          "id": "schneider-electric-web-development-intern-colorado-springs",
-          "title": "Web Development Intern",
-          "company": "Schneider Electric",
-          "posted_at": "2026-02-02T01:36:54.510Z"
+          "id": "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
+          "title": "Information Technology & Data Analytics Intern – Summer 2026",
+          "company": "Henkel",
+          "posted_at": "2026-02-02T02:09:32.016Z"
         },
         {
-          "id": "imperative-care-systems-engineer-intern-campbell",
-          "title": "Systems Engineer Intern",
-          "company": "Imperative Care",
-          "posted_at": "2026-02-02T01:36:59.872Z"
+          "id": "lenovo-marketing-analytics-intern-summer-2026-",
+          "title": "Marketing Analytics Intern Summer 2026",
+          "company": "Lenovo",
+          "posted_at": "2026-02-02T02:09:39.107Z"
+        }
+      ]
+    },
+    "🌴・socal-internships": {
+      "channel_id": "1464304161230295131",
+      "count": 2,
+      "jobs": [
+        "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
+        "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles"
+      ],
+      "recent_jobs": [
+        {
+          "id": "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
+          "title": "Live Nation Marketing and Data Science Intern",
+          "company": "Live Nation",
+          "posted_at": "2026-02-02T02:09:35.516Z"
+        },
+        {
+          "id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
+          "title": "Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI",
+          "company": "Farmers Insurance",
+          "posted_at": "2026-02-02T02:09:45.742Z"
+        }
+      ]
+    },
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 2,
+      "jobs": [
+        "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
+        "moloco-data-science-intern-redwood-city"
+      ],
+      "recent_jobs": [
+        {
+          "id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
+          "title": "Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI",
+          "company": "Farmers Insurance",
+          "posted_at": "2026-02-02T02:09:44.057Z"
+        },
+        {
+          "id": "moloco-data-science-intern-redwood-city",
+          "title": "Data Science Intern",
+          "company": "Moloco",
+          "posted_at": "2026-02-02T02:09:47.731Z"
+        }
+      ]
+    },
+    "🌉・bay-area-internships": {
+      "channel_id": "1464303497242742875",
+      "count": 1,
+      "jobs": [
+        "moloco-data-science-intern-redwood-city"
+      ],
+      "recent_jobs": [
+        {
+          "id": "moloco-data-science-intern-redwood-city",
+          "title": "Data Science Intern",
+          "company": "Moloco",
+          "posted_at": "2026-02-02T02:09:49.636Z"
         }
       ]
     }
   },
   "multi_channel_routing": [
     {
-      "job_id": "copeland-software-engineering-intern-eden-prairie",
-      "company": "Copeland",
-      "title": "Software Engineering Intern",
+      "job_id": "cardinal-health-data-and-analytics-internship-",
+      "company": "Cardinal Health",
+      "title": "Data and Analytics Internship",
       "channels": [
-        "💻・tech-internships",
+        "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T01:36:43.348Z"
+      "posted_at": "2026-02-02T02:09:22.966Z"
     },
     {
-      "job_id": "vanderlande-industries-b-v-r-d-intern-marietta",
-      "company": "Vanderlande Industries B.V.",
-      "title": "R&D Intern",
+      "job_id": "virtualvocations-data-science-intern-tucson",
+      "company": "VirtualVocations",
+      "title": "Data Science Intern",
       "channels": [
-        "💻・tech-internships",
+        "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T01:36:47.336Z"
+      "posted_at": "2026-02-02T02:09:26.608Z"
     },
     {
-      "job_id": "schneider-electric-web-development-intern-colorado-springs",
-      "company": "Schneider Electric",
-      "title": "Web Development Intern",
+      "job_id": "henkel-information-technology-data-analytics-intern-summer-2026-stamford",
+      "company": "Henkel",
+      "title": "Information Technology & Data Analytics Intern – Summer 2026",
       "channels": [
-        "💻・tech-internships",
+        "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T01:36:52.731Z"
+      "posted_at": "2026-02-02T02:09:30.312Z"
     },
     {
-      "job_id": "imperative-care-systems-engineer-intern-campbell",
-      "company": "Imperative Care",
-      "title": "Systems Engineer Intern",
+      "job_id": "live-nation-live-nation-marketing-and-data-science-intern-beverly-hills",
+      "company": "Live Nation",
+      "title": "Live Nation Marketing and Data Science Intern",
       "channels": [
-        "💻・tech-internships",
+        "📊・data-science-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-02-02T02:09:33.689Z"
+    },
+    {
+      "job_id": "lenovo-marketing-analytics-intern-summer-2026-",
+      "company": "Lenovo",
+      "title": "Marketing Analytics Intern Summer 2026",
+      "channels": [
+        "📊・data-science-internships",
         "📍・other-usa-internships"
       ],
-      "posted_at": "2026-02-02T01:36:58.109Z"
+      "posted_at": "2026-02-02T02:09:37.314Z"
+    },
+    {
+      "job_id": "farmers-insurance-data-scientist-summer-internship-woodland-hills-ca-hartford-ct-caledonia-mi-warwick-ri-los-angeles",
+      "company": "Farmers Insurance",
+      "title": "Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI",
+      "channels": [
+        "🤖・ai-internships",
+        "🌴・socal-internships"
+      ],
+      "posted_at": "2026-02-02T02:09:44.057Z"
+    },
+    {
+      "job_id": "moloco-data-science-intern-redwood-city",
+      "company": "Moloco",
+      "title": "Data Science Intern",
+      "channels": [
+        "🤖・ai-internships",
+        "🌉・bay-area-internships"
+      ],
+      "posted_at": "2026-02-02T02:09:47.731Z"
     }
   ],
   "failures": [],
