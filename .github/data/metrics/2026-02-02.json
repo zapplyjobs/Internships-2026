@@ -1,133 +1,19 @@
 {
-  "generated": "2026-02-02T16:02:15.713Z",
+  "generated": "2026-02-02T16:18:22.120Z",
   "period": "last_7_days",
-  "period_start": "2026-01-26T16:02:15.713Z",
-  "period_end": "2026-02-02T16:02:15.713Z",
+  "period_start": "2026-01-26T16:18:22.120Z",
+  "period_end": "2026-02-02T16:18:22.120Z",
   "summary": {
-    "total_jobs_posted": 6,
-    "unique_jobs": 3,
-    "multi_channel_postings": 6,
-    "unique_multi_channel_jobs": 3,
+    "total_jobs_posted": 0,
+    "unique_jobs": 0,
+    "multi_channel_postings": 0,
+    "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 5
+    "channels_active": 0
   },
-  "by_channel": {
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 1,
-      "jobs": [
-        "atkinsr-alis-nuclear-engineering-intern-summer-2026-oak-ridge"
-      ],
-      "recent_jobs": [
-        {
-          "id": "atkinsr-alis-nuclear-engineering-intern-summer-2026-oak-ridge",
-          "title": "Nuclear Engineering Intern - Summer 2026",
-          "company": "AtkinsRéalis",
-          "posted_at": "2026-02-02T16:01:54.035Z"
-        }
-      ]
-    },
-    "📍・other-usa-internships": {
-      "channel_id": "1464304182923362324",
-      "count": 2,
-      "jobs": [
-        "atkinsr-alis-nuclear-engineering-intern-summer-2026-oak-ridge",
-        "sarepta-machine-learning-scientist-oligo-research-intern-bedford"
-      ],
-      "recent_jobs": [
-        {
-          "id": "atkinsr-alis-nuclear-engineering-intern-summer-2026-oak-ridge",
-          "title": "Nuclear Engineering Intern - Summer 2026",
-          "company": "AtkinsRéalis",
-          "posted_at": "2026-02-02T16:01:55.870Z"
-        },
-        {
-          "id": "sarepta-machine-learning-scientist-oligo-research-intern-bedford",
-          "title": "Machine Learning Scientist – Oligo Research Intern",
-          "company": "Sarepta",
-          "posted_at": "2026-02-02T16:02:09.000Z"
-        }
-      ]
-    },
-    "📊・data-science-internships": {
-      "channel_id": "1464303266866135232",
-      "count": 1,
-      "jobs": [
-        "gametime-full-stack-engineering-intern-remote-in-usa"
-      ],
-      "recent_jobs": [
-        {
-          "id": "gametime-full-stack-engineering-intern-remote-in-usa",
-          "title": "Full Stack Engineering Intern",
-          "company": "Gametime",
-          "posted_at": "2026-02-02T16:02:00.617Z"
-        }
-      ]
-    },
-    "🏠・remote-usa-internships": {
-      "channel_id": "1464303522177614001",
-      "count": 1,
-      "jobs": [
-        "gametime-full-stack-engineering-intern-remote-in-usa"
-      ],
-      "recent_jobs": [
-        {
-          "id": "gametime-full-stack-engineering-intern-remote-in-usa",
-          "title": "Full Stack Engineering Intern",
-          "company": "Gametime",
-          "posted_at": "2026-02-02T16:02:02.495Z"
-        }
-      ]
-    },
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 1,
-      "jobs": [
-        "sarepta-machine-learning-scientist-oligo-research-intern-bedford"
-      ],
-      "recent_jobs": [
-        {
-          "id": "sarepta-machine-learning-scientist-oligo-research-intern-bedford",
-          "title": "Machine Learning Scientist – Oligo Research Intern",
-          "company": "Sarepta",
-          "posted_at": "2026-02-02T16:02:07.288Z"
-        }
-      ]
-    }
-  },
-  "multi_channel_routing": [
-    {
-      "job_id": "atkinsr-alis-nuclear-engineering-intern-summer-2026-oak-ridge",
-      "company": "AtkinsRéalis",
-      "title": "Nuclear Engineering Intern - Summer 2026",
-      "channels": [
-        "💻・tech-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T16:01:54.035Z"
-    },
-    {
-      "job_id": "gametime-full-stack-engineering-intern-remote-in-usa",
-      "company": "Gametime",
-      "title": "Full Stack Engineering Intern",
-      "channels": [
-        "📊・data-science-internships",
-        "🏠・remote-usa-internships"
-      ],
-      "posted_at": "2026-02-02T16:02:00.617Z"
-    },
-    {
-      "job_id": "sarepta-machine-learning-scientist-oligo-research-intern-bedford",
-      "company": "Sarepta",
-      "title": "Machine Learning Scientist – Oligo Research Intern",
-      "channels": [
-        "🤖・ai-internships",
-        "📍・other-usa-internships"
-      ],
-      "posted_at": "2026-02-02T16:02:07.288Z"
-    }
-  ],
+  "by_channel": {},
+  "multi_channel_routing": [],
   "failures": [],
   "filtered": {
     "blacklisted": [],
