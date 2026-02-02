@@ -800,7 +800,7 @@ async function processJobs() {
         const allJobs = await fetchAllJobs();
 
         // Filter to ONLY internships (Bug #4 fix - 2026-01-26)
-        // SimplifyJobs and other sources return ALL job levels, not just internships
+        // Data sources return mixed job levels, filtering required
         const { filtered: internshipJobs, removed: nonInternshipJobs } = filterInternships(allJobs);
 
         if (nonInternshipJobs.length > 0) {
