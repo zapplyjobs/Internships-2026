@@ -36064,5 +36064,17 @@
     "job_title": "Data Science Intern",
     "company": "Moloco",
     "first_seen": "2026-02-02T02:08:52.048Z"
+  },
+  "general-dynamics-information-technology-software-developer-intern-annapolis-junction": {
+    "assigned_date": "2026-02-02T03:40:47.088Z",
+    "job_title": "Software Developer Intern",
+    "company": "General Dynamics Information Technology",
+    "first_seen": "2026-02-02T03:40:47.088Z"
+  },
+  "ge-vernova-energy-optimization-software-intern-bellevue": {
+    "assigned_date": "2026-02-02T03:40:47.089Z",
+    "job_title": "Energy Optimization Software Intern",
+    "company": "GE Vernova",
+    "first_seen": "2026-02-02T03:40:47.089Z"
   }
 }
