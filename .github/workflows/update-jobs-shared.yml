@@ -25,12 +25,16 @@ jobs:
         ref: ${{ github.ref_name }}
         fetch-depth: 0
 
-    - name: Update shared data submodule
+    - name: Update shared data
       run: |
-        echo "📥 Updating shared data..."
-        cd .github/shared-data
-        git fetch origin main
-        git reset --hard origin/main
+        echo "📥 Updating shared data from jobs-data-2026..."
+        if [ -d ".github/shared-data" ]; then
+          cd .github/shared-data
+          git fetch origin main
+          git reset --hard origin/main
+        else
+          git clone https://github.com/zapplyjobs/jobs-data-2026.git .github/shared-data
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
