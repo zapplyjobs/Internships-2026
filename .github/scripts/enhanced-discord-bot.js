@@ -276,13 +276,10 @@ client.once('ready', async () => {
       });
     }
 
-    // Also check legacy single channel if set
-    if (LEGACY_CHANNEL_ID) {
-      const legacyChannel = await client.channels.fetch(LEGACY_CHANNEL_ID).catch(() => null);
-      if (!legacyChannel) {
-        requiredChannels.add('legacy-channel-id');
-      }
-    }
+    // Legacy single channel support DISABLED (2026-02-03)
+    // Using multi-channel mode with industry + location channels only
+    // LEGACY_CHANNEL_ID check removed to prevent validation errors
+    // NOTE: If DISCORD_CHANNEL_ID env var is set, it will be ignored
 
     const accessible = [];
     const missing = [];
