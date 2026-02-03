@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-03T00:56:50.626Z",
+  "lastUpdated": "2026-02-03T01:36:14.519Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -11106,14 +11106,35 @@
       "job_city": "Westerville",
       "job_state": "Ohio",
       "job_description": "<p>Worthington Enterprises is a leading company recognized as one of the Top Workplaces in Columbus. They are seeking a New Product Development Engineering Intern for Summer 2026 to gain hands-on experience in product development and innovation within the Building Products Innovation Team.</p><br><p>Responsibilities</p><ul><li>Perform hands-on mechanical experiments in a laboratory environment</li><li>Perform reviews of scientific or industry literature</li><li>Research and report back on developments in strategic technology areas, manufacturing techniques, and potential vendors</li><li>Reverse engineer competitive products, patents, and technology</li><li>Plan & develop new test methods or procedures with safety in mind</li><li>Collect test data, analyze test results, create written test reports</li><li>Coordinate product testing with external testing firms or laboratories when a specific test requires outside help</li><li>Participate in new product design reviews and brainstorming sessions</li><li>Design test fixtures, specimens, or prototypes using SolidWorks 2023 (2D drawings, 3D parts, & 3D assemblies)</li><li>Participate in consumer insight activities with customers, end users, or industry experts</li></ul><br><p>Skills</p><ul><li>Current junior or senior working towards a B.S. in Mechanical Engineering (or related field)</li><li>Must be able to lift 50lbs</li><li>Must have reliable transportation; Mid-workday travel between laboratory location & corporate office location is required (3 miles), once daily maximum</li><li>Prior experience performing research of available literature</li><li>Mechanical inclination and interest in hands-on problem solving, prototyping, and testing</li><li>Prior experience safely using hand tools required</li><li>Minimum of 3.0 GPA</li><li>Able to communicate complex technical concepts to non-technical audiences</li><li>Capable of handling multiple assignments at once</li><li>Able and interested in independent problem solving with moderate direction</li><li>2D & 3D CAD software experience (SolidWorks preferred)</li><li>Prior engineering intern/coop experience required</li><li>2D & 3D CAD software experience (SolidWorks preferred)</li></ul><br><p>Company Overview</p><li>Worthington Enterprises designs and manufactures building products and offers sustainable energy solutions. It was founded in 1955, and is headquartered in Columbus, Ohio, USA, with a workforce of 5001-10000 employees. Its website is https://www.worthingtonenterprises.com/.</li><br><p>Company H1B Sponsorship</p><li>Worthington Enterprises has a track record of offering H1B sponsorships, with 2 in 2025, 2 in 2024. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "e43fc7e3e6773e64-2026-02-03-1",
+      "jobId": "e43fc7e3e6773e64",
+      "company": "Amazon",
+      "title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
+      "postedToDiscord": "2026-02-03T01:36:09.980Z",
+      "sourceDate": "2026-01-30T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/697b8a400b88cc7d64224d5d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1468057443299885299",
+          "channelType": "category",
+          "postedAt": "2026-02-03T01:36:09.980Z",
+          "channelJobNumber": 95
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Sunnyvale",
+      "job_state": "California",
+      "job_description": "<p>Amazon is a leading technology company focused on customer obsession and innovation. They are seeking Software Development Engineer interns to solve real customer problems through innovative technology while working on scalable services in a collaborative team environment.</p><br><p>Responsibilities</p><ul><li>Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward</li><li>Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment</li><li>Participate in code reviews and contribute to technical documentation</li><li>Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective</li><li>Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies</li><li>Write clean, maintainable code following best practices and design patterns</li><li>Work in an agile environment practicing CI/CD principles while participating in operational responsibilities</li><li>Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues</li></ul><br><p>Skills</p><ul><li>Are 18 years of age or older</li><li>Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript</li><li>Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles</li><li>Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields</li><li>Able to work 40 hours/week and commit to a 12-week internship</li><li>Expected conferral date between October 2026 – September 2029</li><li>Experience from previous technical internship(s) or demonstrated project experience</li><li>Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems</li><li>Demonstrated ability to learn and adapt to new technologies quickly</li><li>Basic understanding of software development lifecycle (SDLC)</li><li>Strong problem-solving and analytical skills</li><li>Excellent written and verbal communication skills</li></ul><br><p>Benefits</p><ul><li>EAP</li><li>Mental Health Support</li><li>Medical Advice Line</li><li>401(k) matching</li></ul><br><p>Company Overview</p><li>Amazon is a tech firm with a focus on e-commerce, cloud computing, digital streaming, and artificial intelligence. It was founded in 1994, and is headquartered in Seattle, Washington, USA, with a workforce of 10001+ employees. Its website is https://amazon.com.</li><br>"
     }
   ],
   "metadata": {
-    "totalJobs": 544,
+    "totalJobs": 545,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-03T00:56:50.626Z",
+      "date": "2026-02-03T01:36:14.519Z",
       "archived": 0
     }
   }
