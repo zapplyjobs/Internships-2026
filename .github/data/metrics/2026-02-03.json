@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-03T00:21:34.204Z",
+  "generated": "2026-02-03T00:56:52.817Z",
   "period": "last_7_days",
-  "period_start": "2026-01-27T00:21:34.204Z",
-  "period_end": "2026-02-03T00:21:34.204Z",
+  "period_start": "2026-01-27T00:56:52.817Z",
+  "period_end": "2026-02-03T00:56:52.817Z",
   "summary": {
-    "total_jobs_posted": 2,
-    "unique_jobs": 2,
+    "total_jobs_posted": 1,
+    "unique_jobs": 1,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,23 +15,16 @@
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 2,
+      "count": 1,
       "jobs": [
-        "lmi-consulting-software-development-intern-fiu-students-mclean",
-        "disney-experiences-site-systems-reliability-intern-summer-2026-orlando"
+        "worthington-enterprises-new-product-development-engineering-intern-summer-westerville"
       ],
       "recent_jobs": [
         {
-          "id": "lmi-consulting-software-development-intern-fiu-students-mclean",
-          "title": "Software Development Intern (FIU Students)",
-          "company": "LMI Consulting, LLC",
-          "posted_at": "2026-02-03T00:21:25.759Z"
-        },
-        {
-          "id": "disney-experiences-site-systems-reliability-intern-summer-2026-orlando",
-          "title": "Site / Systems Reliability Intern, Summer 2026",
-          "company": "Disney Experiences",
-          "posted_at": "2026-02-03T00:21:27.509Z"
+          "id": "worthington-enterprises-new-product-development-engineering-intern-summer-westerville",
+          "title": "New Product Development Engineering Intern (Summer)",
+          "company": "Worthington Enterprises",
+          "posted_at": "2026-02-03T00:56:46.121Z"
         }
       ]
     }
