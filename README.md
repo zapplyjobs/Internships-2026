@@ -115,14 +115,31 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 4 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 3 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 4 roles
-- **🏢 Companies**: 14 companies  
+- **📁 Total Positions**: 3 roles
+- **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Opportunities**: 0 positions
+
+<details>
+<summary><h3>🏢 <strong>Top Tech</strong> (2 positions)</h3></summary>
+
+#### 🔶 **AMD** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| 2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op / Intern | Longmont, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=af8e5e181958&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 2d |
+
+#### 🔵 **IBM** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Research AI Engineer, Intern: 2026 | Cambridge, Massachusetts | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69336a2ca0dde7020e2edb02?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
 
 
 
