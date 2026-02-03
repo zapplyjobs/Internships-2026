@@ -1,30 +1,74 @@
 {
-  "generated": "2026-02-03T01:36:16.712Z",
+  "generated": "2026-02-03T02:39:43.896Z",
   "period": "last_7_days",
-  "period_start": "2026-01-27T01:36:16.712Z",
-  "period_end": "2026-02-03T01:36:16.712Z",
+  "period_start": "2026-01-27T02:39:43.896Z",
+  "period_end": "2026-02-03T02:39:43.896Z",
   "summary": {
-    "total_jobs_posted": 1,
-    "unique_jobs": 1,
+    "total_jobs_posted": 5,
+    "unique_jobs": 5,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 1
+    "channels_active": 3
   },
   "by_channel": {
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 3,
+      "jobs": [
+        "american-honda-motor-co-data-management-and-analysis-co-op-intern-summer-2026-marysville",
+        "ipinfo-research-intern-position-des-moines",
+        "virtualvocations-data-analytics-intern-abilene"
+      ],
+      "recent_jobs": [
+        {
+          "id": "american-honda-motor-co-data-management-and-analysis-co-op-intern-summer-2026-marysville",
+          "title": "Data Management and Analysis Co-op/Intern- Summer 2026",
+          "company": "American Honda Motor Co., Inc.",
+          "posted_at": "2026-02-03T02:39:24.139Z"
+        },
+        {
+          "id": "ipinfo-research-intern-position-des-moines",
+          "title": "Research Intern Position",
+          "company": "IPinfo",
+          "posted_at": "2026-02-03T02:39:25.896Z"
+        },
+        {
+          "id": "virtualvocations-data-analytics-intern-abilene",
+          "title": "Data Analytics Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-03T02:39:27.622Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 1,
+      "jobs": [
+        "virtualvocations-data-science-intern-beaumont"
+      ],
+      "recent_jobs": [
+        {
+          "id": "virtualvocations-data-science-intern-beaumont",
+          "title": "Data Science Intern",
+          "company": "VirtualVocations",
+          "posted_at": "2026-02-03T02:39:32.355Z"
+        }
+      ]
+    },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
       "count": 1,
       "jobs": [
-        "amazon-software-development-engineer-internship-amazon-leo-summer-2026-us-sunnyvale"
+        "plymouth-rock-assurance-data-science-intern-woodbridge-township"
       ],
       "recent_jobs": [
         {
-          "id": "amazon-software-development-engineer-internship-amazon-leo-summer-2026-us-sunnyvale",
-          "title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
-          "company": "Amazon",
-          "posted_at": "2026-02-03T01:36:10.014Z"
+          "id": "plymouth-rock-assurance-data-science-intern-woodbridge-township",
+          "title": "Data Science Intern",
+          "company": "Plymouth Rock Assurance",
+          "posted_at": "2026-02-03T02:39:37.196Z"
         }
       ]
     }

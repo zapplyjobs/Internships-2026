@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=19bfb9322866&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Research Intern Position in Des Moines. IPinfo is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=19bfb9322866&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-03T02:39:18.575Z"
+    }
+  },
+  "cachedAt": 1770086358575
+}
