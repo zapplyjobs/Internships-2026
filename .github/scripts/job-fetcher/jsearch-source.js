@@ -107,8 +107,8 @@ async function searchJSearchInternships() {
         url.searchParams.append('page', '1');
         url.searchParams.append('num_pages', '10');  // Max pages for ~100 jobs per request
         url.searchParams.append('date_posted', 'month');
-        url.searchParams.append('employment_types', 'FULLTIME,INTERN');
-        url.searchParams.append('job_requirements', 'no_experience,under_3_years_experience');
+        url.searchParams.append('employment_types', 'INTERN');  // INTERN only, not FULLTIME
+        url.searchParams.append('job_requirements', 'no_experience');
 
         const response = await fetch(url.toString(), {
             method: 'GET',
