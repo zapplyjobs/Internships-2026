@@ -1,55 +1,18 @@
 {
-  "generated": "2026-02-03T03:39:27.896Z",
+  "generated": "2026-02-03T04:26:38.799Z",
   "period": "last_7_days",
-  "period_start": "2026-01-27T03:39:27.896Z",
-  "period_end": "2026-02-03T03:39:27.896Z",
+  "period_start": "2026-01-27T04:26:38.799Z",
+  "period_end": "2026-02-03T04:26:38.799Z",
   "summary": {
-    "total_jobs_posted": 4,
-    "unique_jobs": 4,
+    "total_jobs_posted": 0,
+    "unique_jobs": 0,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 1
+    "channels_active": 0
   },
-  "by_channel": {
-    "🤖・ai-internships": {
-      "channel_id": "1464303204178067620",
-      "count": 4,
-      "jobs": [
-        "nissan-machine-learning-research-intern-perception-silicon-valley-ca-summer-2026-",
-        "tarsus-pharmaceuticals-intern-clinical-data-analysis-machine-learning-orange",
-        "bytedance-research-scientist-intern-applied-machine-learning-enterprise-2026-summer-bs-ms-san-jose",
-        "meta-phd-research-intern-in-ai-systems-and-machine-learning-bellevue"
-      ],
-      "recent_jobs": [
-        {
-          "id": "nissan-machine-learning-research-intern-perception-silicon-valley-ca-summer-2026-",
-          "title": "Machine Learning Research Intern, Perception Silicon Valley, CA Summer 2026",
-          "company": "Nissan",
-          "posted_at": "2026-02-03T03:39:15.862Z"
-        },
-        {
-          "id": "tarsus-pharmaceuticals-intern-clinical-data-analysis-machine-learning-orange",
-          "title": "Intern, Clinical Data Analysis (Machine Learning)",
-          "company": "Tarsus Pharmaceuticals, Inc.",
-          "posted_at": "2026-02-03T03:39:17.660Z"
-        },
-        {
-          "id": "bytedance-research-scientist-intern-applied-machine-learning-enterprise-2026-summer-bs-ms-san-jose",
-          "title": "Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)",
-          "company": "ByteDance",
-          "posted_at": "2026-02-03T03:39:19.429Z"
-        },
-        {
-          "id": "meta-phd-research-intern-in-ai-systems-and-machine-learning-bellevue",
-          "title": "PhD Research Intern in AI Systems and Machine Learning",
-          "company": "META",
-          "posted_at": "2026-02-03T03:39:21.191Z"
-        }
-      ]
-    }
-  },
+  "by_channel": {},
   "multi_channel_routing": [],
   "failures": [],
   "filtered": {
