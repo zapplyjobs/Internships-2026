@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-03T02:39:41.702Z",
+  "lastUpdated": "2026-02-03T03:39:25.694Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -11232,14 +11232,98 @@
       "job_city": "Woodbridge Township",
       "job_state": "New Jersey",
       "job_description": "<p>Plymouth Rock Assurance is a company that manages a significant portfolio of personal and commercial insurance. They are seeking a Data Science Intern to work on analytical and data engineering projects that drive business impact across various domains.</p><br><p>Responsibilities</p><ul><li>Support the design, construction, and optimization of robust data pipelines to enable machine learning and analytical modeling</li><li>Contribute to the design and implementation of data and ML workflows using orchestration tools such as Dagster, Airflow, or similar frameworks</li><li>Help implement data quality checks, validation routines, and monitoring for automated data workflows</li><li>Assist in organizing and managing internal GitHub repositories to standardize ML project structures and best practices</li><li>Collaborate with data scientists and engineers to automate the ingestion, transformation, and delivery of data for model development</li><li>Contribute to initiatives migrating analytical processes into cloud-based data lake architectures and modern platforms such as AWS or Snowflake</li><li>Develop reusable and well-tested code to support analytical pipelines and internal tools using Python and SQL</li><li>Conduct data mining, cleansing, and preparation tasks to build high-quality analytical datasets</li><li>Participate in model development, including data profiling, model training, validation, and interpretation</li><li>Build and evaluate predictive models that enhance profitability through improved segmentation and estimation of insurance risk</li><li>Assist in studies evaluating new business models for customer segmentation, retention, and lifetime value</li><li>Collaborate with business leaders to translate insights into operational improvements and cost efficiencies</li></ul><br><p>Skills</p><ul><li>Currently pursuing or recently completed a Master's in Data Science, Computer Science, Statistics, Economics, or related field</li><li>Proficiency in Python (Pandas, NumPy, Scikit-learn, XGBoost, or PyTorch) and SQL</li><li>Understanding of data engineering concepts, ETL/ELT workflows, and machine learning deployment</li><li>Exposure to workflow orchestration tools (e.g., Airflow, Dagster, Prefect) and Git/GitHub for collaborative development</li><li>Experience with common modeling techniques (e.g., GLM, tree-based models, Bayesian statistics, NLP, deep learning) through coursework or projects</li><li>Strong analytical, communication, and problem-solving skills</li><li>A self-starter mindset, with attention to detail and enthusiasm for learning new technologies</li><li>Familiarity with Docker, CI/CD pipelines, and infrastructure-as-code tools such as Terraform preferred</li><li>Knowledge of AWS cloud services such as S3, Lambda, EC2, or SageMaker a plus</li></ul><br><p>Company Overview</p><li>If you’ve found your way to our LinkedIn page, you’re likely here for one of two reasons: You’re reviewing insurance companies or you’re browsing new career opportunities. It was founded in 2001, and is headquartered in Boston, Massachusetts, USA, with a workforce of 1001-5000 employees. Its website is https://www.plymouthrock.com.</li><br><p>Company H1B Sponsorship</p><li>Plymouth Rock Assurance has a track record of offering H1B sponsorships, with 11 in 2025, 12 in 2024, 6 in 2023, 7 in 2022, 5 in 2021, 12 in 2020. Please note that this does not guarantee sponsorship for this specific role.</li><br>"
+    },
+    {
+      "id": "9a5e3593b0ec6358-2026-02-03-1",
+      "jobId": "9a5e3593b0ec6358",
+      "company": "Nissan",
+      "title": "Machine Learning Research Intern, Perception Silicon Valley, CA Summer 2026",
+      "postedToDiscord": "2026-02-03T03:39:15.826Z",
+      "sourceDate": "2026-02-01T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=483e9bd31450&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1468088421976379525",
+          "channelType": "category",
+          "postedAt": "2026-02-03T03:39:15.826Z",
+          "channelJobNumber": 97
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": null,
+      "job_state": "California",
+      "job_description": "With a focus on Mobility Operational Excellence Value to our Customers and the Electrification of vehicles you can expect to be part of something exciting at Nissan. We exemplify ingenuity in everything we do from the sleek design of our vehicles to the unique opportunities we offer around the globe. Our people are what drive the business forward and we are looking for researchers who want to challenge themselves test their skills develop their talents and discover their full potential.\n\nWere currently looking for a Research Intern in Perception to join our team in May 2026. As perception researcher you will work with appropriate training datasets select and train advanced networks for road user detection and / or road structure estimation and will evaluate your work both offline in simulation and online in real-world testing. As a member of the Autonomous Systems team you will get to research and develop perception algorithms that scale from simple scenes to complex intersections thereby ensuring predictable safe and human-like autonomous vehicle behavior.\n\nThink youve got the internal drive to support the production of great vehicles and join a winning team Apply for this position and start the process to kick your career into high gear.\n\nDuring the course of your internship you will have the chance to :\n\nDevelop state-of-the-art perception and / or road structure estimation algorithms\n\nBe responsible for testing your algorithms in simulation and real-world vehicles\n\nEngage with other Autonomous Systems researchers\n\nIn order to qualify for this role you must :\n\nCurrently be pursuing a Masters or PhD degree in Mechanical Electrical or Software Engineering Computer Science Applied Mathematics or a related field\n\nGPA of 3.0 or above\n\nStrong C or python coding ability\n\nStrong organization ability with keen attention to detail\n\nBe self-motivated and willing to challenge yourself to develop your talents and skillsets\n\nStrong communication skills both written and oral\n\nWelcome to an open lane of possibility. We know you have the capability to change the world and we want you to help us change the future of automotive. Drive your career forward and join the company leading the technology and business evolution of the automotive industry by applying today.\n\nNissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with Nissan policies and in compliance with federal state and local laws including the California Fair Chance Act and the Los Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.\n\nIt is Nissans policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race gender military status disability or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.\n\nNISSAN FOR EVERYONE\n\nPeople are our most valuable assets and diversity and inclusion are the key to maximizing the power of each individual member of our team. When everyone belongs the power of NISSAN is undeniable. Our Corporate Diversity Initiative aims to improve business results by ensuring that our workplace and core businesses meet the unique needs of our employees and customer base.\n\nNissan is committed to creating a culture where everyone belongs and employees customers and partners feel respected valued and heard. We have over 10 Business Synergy Teams (BSTs) across the U.S. and Canada that connect employees with shared characteristics or interests build allies and foster a company culture where all employees feel supported and included.\n\nNissan also values inclusion in all areas of our business as we strive to mirror the diversity of our customer base and the communities where we do business. We are committed to procuring innovative goods and services retailing our products and communicating from a diverse perspective which will help us continue to offer our customers competitively designed market-driven products.\n\nJoin us as we carry our commitment to diversity and inclusion into the future.\n\nSanta Clara California United States of America\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nMicrosoft Office,Public Relations,Google Docs,Data Collection,MailChimp,Microsoft Word,Dermal Fillers,Microsoft Powerpoint,Research Experience,Microsoft Excel,Adobe Photoshop,Writing Skills\n\nEmployment Type : Full-Time\n\nExperience : years\n\nVacancy : 1"
+    },
+    {
+      "id": "9f9fafd140465133-2026-02-03-1",
+      "jobId": "9f9fafd140465133",
+      "company": "Tarsus Pharmaceuticals, Inc.",
+      "title": "Intern, Clinical Data Analysis (Machine Learning)",
+      "postedToDiscord": "2026-02-03T03:39:17.630Z",
+      "sourceDate": "2026-01-29T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/697a7e26f6fc293b0a2c50e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1468088429953810503",
+          "channelType": "category",
+          "postedAt": "2026-02-03T03:39:17.630Z",
+          "channelJobNumber": 98
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Orange",
+      "job_state": "California",
+      "job_description": "<p>Tarsus Pharmaceuticals, Inc. is focused on eyecare clinical research projects, and they are seeking a Clinical Development Intern. This role involves supporting the clinical development team, contributing to study protocol design, and engaging in various clinical development activities with a focus on image-processing and machine learning for ophthalmic images.</p><br><p>Responsibilities</p><ul><li>Contribute to clinical development activities by developing image-processing machine learning models and pipelines for ophthalmic images, including feature extraction, segmentation, and automated grading using clinical scales</li><li>Using quantitative tools for image analysis (e.g. imageJ)</li><li>Employing Python and quantitative tools (e.g. ImageJ) to automate analysis tasks, increasing throughput, reproducibility, and consistency of imaging data</li><li>Assist with data review, perform data analysis, and prepare summaries, visualizations, instructional materials, and clinical study reports of computational findings</li><li>Conduct research on scientific topics, regulatory information, and/or competitive intelligence while collaborating with Clinical Trial Study Managers to assist with clinical operations projects</li><li>Interact with Clinical Trial Study Manager/Clinical Research Associate to gain exposure to the collaborative development process associated with executing a clinical trial</li><li>Take on clinical development and operations projects as needed to assist the team</li></ul><br><p>Skills</p><ul><li>Currently pursuing a graduate degree in Computer Science, System Design Engineering, Data Science, Electrical/Computer Engineering, Applied Mathematics, or related fields</li><li>Strong programming skills in Python, MATLAB, or similar languages</li><li>Experience with image processing and analysis libraries/tools (e.g. PyTorch, TensorFlow, Keras, OpenCV (cv2), NumPy, Matplotlib, Pandas)</li><li>Strong organizational, and communication skills</li><li>Strong analytical thinking, prioritization, attention to detail, and problem-solving skills</li><li>A willingness to try new things and voice thoughts, considerations, and concerns</li><li>Comfortable working both independently and collaboratively</li><li>Proficient on basic Microsoft suite computer programs such as Microsoft Excel, Word, and PowerPoint</li><li>Basic statistical knowledge</li></ul><br><p>Benefits</p><ul><li>Snacks and drinks</li><li>Occasional catered meals</li><li>Hybrid work environment</li><li>Lunch and learns</li><li>Development opportunities</li><li>Offsite volunteering</li><li>Company-wide social events</li></ul><br><p>Company Overview</p><li>Tarsus (NASDAQ:TARS) is a biopharmaceutical company that applies proven science and new technology to revolutionize treatment for patients, starting with eye care. It was founded in 2017, and is headquartered in Irvine, California, USA, with a workforce of 201-500 employees. Its website is https://www.tarsusrx.com.</li><br>"
+    },
+    {
+      "id": "5a86cf371394996a-2026-02-03-1",
+      "jobId": "5a86cf371394996a",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)",
+      "postedToDiscord": "2026-02-03T03:39:19.401Z",
+      "sourceDate": "2026-01-29T00:00:00.000Z",
+      "sourceUrl": "https://jobright.ai/jobs/info/69087d83bcccf20de59d04c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1468088437549695124",
+          "channelType": "category",
+          "postedAt": "2026-02-03T03:39:19.401Z",
+          "channelJobNumber": 99
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Jose",
+      "job_state": "California",
+      "job_description": "<p>ByteDance is a company that inspires creativity and enriches life through innovative products. They are seeking a Research Scientist Intern to join their Applied Machine Learning Enterprise team, where the intern will help develop and maintain a big model service platform that offers Model-as-a-Service solutions.</p><br><p>Responsibilities</p><ul><li>Building a next-generation big model as a service platform to serve hundreds of LLMs based applications</li><li>To develop and maintain the big model as a service platform, including offline training/finetuning, online inference, model management, and resource orchestration, etc</li><li>To manage a huge number of GPU resources and provide computing power efficiently</li></ul><br><p>Skills</p><ul><li>Currently pursuing a Bachelors or Masters in Computer Science or related technical field</li><li>Proficient in deep learning frameworks such as PyTorch or TensorFlow</li><li>Experience with software development in at least one of the following programming languages: C++, Python, Go</li><li>Good sense of teamwork and communication skills, practical experience in relevant business scenarios is preferred</li><li>Strong software programming capabilities, exhibits good code design and coding style</li><li>Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment</li><li>Experience in NLP and LLM technologies</li><li>Experience or research in Alignment for Large language models</li><li>Experience in ModelOps, for example large model management, finetuning workflow management, etc</li><li>Contribution to top-tier conference papers, including NeurIPS, ICML, ICLR, CVPR, ICCV, ACL, KDD, etc. is a big plus</li></ul><br><p>Benefits</p><ul><li>Day one access to health insurance</li><li>Life insurance</li><li>Wellbeing benefits</li><li>10 paid holidays per year</li><li>Paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year)</li><li>Housing allowance</li></ul><br><p>Company Overview</p><li>ByteDance is a technology company that develops content creation platforms and services. It was founded in 2012, and is headquartered in Beijing, Beijing, CHN, with a workforce of 10001+ employees. Its website is http://bytedance.com.</li><br>"
+    },
+    {
+      "id": "e9c34c34414bb141-2026-02-03-1",
+      "jobId": "e9c34c34414bb141",
+      "company": "META",
+      "title": "PhD Research Intern in AI Systems and Machine Learning",
+      "postedToDiscord": "2026-02-03T03:39:21.163Z",
+      "sourceDate": "2026-01-28T00:00:00.000Z",
+      "sourceUrl": "https://www.talent.com/view?id=6281b8df0cae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1468088444570964148",
+          "channelType": "category",
+          "postedAt": "2026-02-03T03:39:21.163Z",
+          "channelJobNumber": 100
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Bellevue",
+      "job_state": "Washington",
+      "job_description": "Apply for PhD Research Intern in AI Systems and Machine Learning in Bellevue. META is hiring now. Discover your next career opportunity today on Talent.com."
     }
   ],
   "metadata": {
-    "totalJobs": 550,
+    "totalJobs": 554,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-03T02:39:41.702Z",
+      "date": "2026-02-03T03:39:25.694Z",
       "archived": 0
     }
   }
