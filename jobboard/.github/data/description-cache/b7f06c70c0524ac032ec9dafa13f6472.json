@@ -1,0 +1,17 @@
+{
+  "url": "https://jobright.ai/jobs/info/69087d83bcccf20de59d04c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p>ByteDance is a company that inspires creativity and enriches life through innovative products. They are seeking a Research Scientist Intern to join their Applied Machine Learning Enterprise team, where the intern will help develop and maintain a big model service platform that offers Model-as-a-Service solutions.</p><br><p>Responsibilities</p><ul><li>Building a next-generation big model as a service platform to serve hundreds of LLMs based applications</li><li>To develop and maintain the big model as a service platform, including offline training/finetuning, online inference, model management, and resource orchestration, etc</li><li>To manage a huge number of GPU resources and provide computing power efficiently</li></ul><br><p>Skills</p><ul><li>Currently pursuing a Bachelors or Masters in Computer Science or related technical field</li><li>Proficient in deep learning frameworks such as PyTorch or TensorFlow</li><li>Experience with software development in at least one of the following programming languages: C++, Python, Go</li><li>Good sense of teamwork and communication skills, practical experience in relevant business scenarios is preferred</li><li>Strong software programming capabilities, exhibits good code design and coding style</li><li>Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment</li><li>Experience in NLP and LLM technologies</li><li>Experience or research in Alignment for Large language models</li><li>Experience in ModelOps, for example large model management, finetuning workflow management, etc</li><li>Contribution to top-tier conference papers, including NeurIPS, ICML, ICLR, CVPR, ICCV, ACL, KDD, etc. is a big plus</li></ul><br><p>Benefits</p><ul><li>Day one access to health insurance</li><li>Life insurance</li><li>Wellbeing benefits</li><li>10 paid holidays per year</li><li>Paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year)</li><li>Housing allowance</li></ul><br><p>Company Overview</p><li>ByteDance is a technology company that develops content creation platforms and services. It was founded in 2012, and is headquartered in Beijing, Beijing, CHN, with a workforce of 10001+ employees. Its website is http://bytedance.com.</li><br>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobright.ai/jobs/info/69087d83bcccf20de59d04c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-03T03:39:10.916Z"
+    }
+  },
+  "cachedAt": 1770089950916
+}
