@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=d67697aba1dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Data Analytics Intern in Abilene. VirtualVocations is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=d67697aba1dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-03T02:39:19.769Z"
+    }
+  },
+  "cachedAt": 1770086359769
+}
