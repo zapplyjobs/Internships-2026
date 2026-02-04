@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T06:19:22.788Z",
+  "generated": "2026-02-04T06:49:27.994Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T06:19:22.788Z",
-  "period_end": "2026-02-04T06:19:22.788Z",
+  "period_start": "2026-01-28T06:49:27.994Z",
+  "period_end": "2026-02-04T06:49:27.994Z",
   "summary": {
-    "total_jobs_posted": 50,
-    "unique_jobs": 50,
+    "total_jobs_posted": 60,
+    "unique_jobs": 60,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 23,
+      "count": 29,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -39,45 +39,15 @@
         "kla-ai-software-engineering-intern-milpitas",
         "samsung-machine-learning-intern-plano",
         "quantum-workplace-insights-analyst-intern-omaha",
-        "zoom-gen-ai-research-intern-zoom-genai-r-d-team-seattle"
+        "zoom-gen-ai-research-intern-zoom-genai-r-d-team-seattle",
+        "zoom-ai-infrastructure-intern-seattle",
+        "zoom-ai-engineering-intern-ai-agent-seattle",
+        "zoom-research-intern-quality-safety-ai-safety-seattle",
+        "zoom-enterprise-graph-retrieval-intern-seattle",
+        "zoom-ai-ml-intern-agentic-retrieval-enterprise-rag-seattle",
+        "respec-student-engineering-intern-data-science-rapid-city"
       ],
       "recent_jobs": [
-        {
-          "id": "bio-techne-software-developer-intern-san-jose",
-          "title": "Software Developer Intern",
-          "company": "Bio-Techne",
-          "posted_at": "2026-02-04T05:29:16.333Z"
-        },
-        {
-          "id": "aspentech-software-developer-intern-digital-grid-management-wayzata",
-          "title": "Software Developer Intern - Digital Grid Management",
-          "company": "AspenTech",
-          "posted_at": "2026-02-04T05:51:15.249Z"
-        },
-        {
-          "id": "relay-generative-ai-creative-intern-r-d-raleigh",
-          "title": "Generative AI Creative Intern - R&D",
-          "company": "Relay",
-          "posted_at": "2026-02-04T05:51:16.947Z"
-        },
-        {
-          "id": "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-summer-2026-schenectady",
-          "title": "GE Vernova Time-Series Foundation Models Research Intern - Summer 2026",
-          "company": "GE Vernova",
-          "posted_at": "2026-02-04T05:51:18.730Z"
-        },
-        {
-          "id": "wex-intern-data-science-portland",
-          "title": "Intern – Data Science",
-          "company": "Wex",
-          "posted_at": "2026-02-04T05:51:20.443Z"
-        },
-        {
-          "id": "leidos-performance-management-ai-ml-intern-remote-in-usa",
-          "title": "Performance Management AI/ML Intern",
-          "company": "Leidos",
-          "posted_at": "2026-02-04T05:51:22.112Z"
-        },
         {
           "id": "kla-ai-software-engineering-intern-milpitas",
           "title": "AI Software Engineering Intern",
@@ -101,12 +71,48 @@
           "title": "Gen AI Research Intern - Zoom GenAI R&D Team",
           "company": "Zoom",
           "posted_at": "2026-02-04T06:19:00.864Z"
+        },
+        {
+          "id": "zoom-ai-infrastructure-intern-seattle",
+          "title": "AI Infrastructure Intern",
+          "company": "Zoom",
+          "posted_at": "2026-02-04T06:48:59.348Z"
+        },
+        {
+          "id": "zoom-ai-engineering-intern-ai-agent-seattle",
+          "title": "AI Engineering Intern - AI Agent",
+          "company": "Zoom",
+          "posted_at": "2026-02-04T06:49:01.086Z"
+        },
+        {
+          "id": "zoom-research-intern-quality-safety-ai-safety-seattle",
+          "title": "Research Intern - Quality & Safety - AI Safety",
+          "company": "Zoom",
+          "posted_at": "2026-02-04T06:49:02.760Z"
+        },
+        {
+          "id": "zoom-enterprise-graph-retrieval-intern-seattle",
+          "title": "Enterprise Graph Retrieval Intern",
+          "company": "Zoom",
+          "posted_at": "2026-02-04T06:49:04.457Z"
+        },
+        {
+          "id": "zoom-ai-ml-intern-agentic-retrieval-enterprise-rag-seattle",
+          "title": "AI/ML Intern - Agentic Retrieval & Enterprise RAG",
+          "company": "Zoom",
+          "posted_at": "2026-02-04T06:49:06.159Z"
+        },
+        {
+          "id": "respec-student-engineering-intern-data-science-rapid-city",
+          "title": "Student Engineering Intern - Data Science",
+          "company": "RESPEC",
+          "posted_at": "2026-02-04T06:49:07.895Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 11,
+      "count": 12,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -118,15 +124,10 @@
         "roche-2026-summer-intern-finance-insights-and-data-analyst-tucson-tucson",
         "alo-yoga-data-analyst-intern-culver-city",
         "samsung-data-analyst-process-improvement-internship-plano",
-        "samsung-data-analyst-intern-orange"
+        "samsung-data-analyst-intern-orange",
+        "tiktok-data-science-intern-advertisement-team-2026-start-phd-san-jose"
       ],
       "recent_jobs": [
-        {
-          "id": "alo-yoga-data-engineer-intern-san-ramon",
-          "title": "Data Engineer Intern",
-          "company": "Alo Yoga",
-          "posted_at": "2026-02-04T04:40:01.700Z"
-        },
         {
           "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
           "title": "2026 Summer Intern - Finance Insights and Data Analyst - Pleasanton",
@@ -180,12 +181,18 @@
           "title": "Data Analyst Intern",
           "company": "Samsung",
           "posted_at": "2026-02-04T06:19:07.675Z"
+        },
+        {
+          "id": "tiktok-data-science-intern-advertisement-team-2026-start-phd-san-jose",
+          "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
+          "company": "TikTok",
+          "posted_at": "2026-02-04T06:49:21.278Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 14,
+      "count": 17,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -200,27 +207,12 @@
         "motorola-global-customer-data-management-intern-chicago",
         "berkshire-grey-robot-learning-r-d-intern-bedford",
         "kaiser-permanente-data-reporting-master-s-intern-pasadena",
-        "kaiser-permanente-data-analytics-intern-multiple-teams-pasadena"
+        "kaiser-permanente-data-analytics-intern-multiple-teams-pasadena",
+        "vanderlande-industries-controls-support-engineer-intern-marietta",
+        "vanderlande-industries-software-engineer-intern-marietta",
+        "emerson-electric-software-engineering-intern-austin"
       ],
       "recent_jobs": [
-        {
-          "id": "thyssenkrupp-data-analytics-intern-southfield",
-          "title": "Data Analytics Intern",
-          "company": "thyssenkrupp",
-          "posted_at": "2026-02-04T05:29:21.090Z"
-        },
-        {
-          "id": "national-renewable-energy-laboratory-software-engineering-intern-golden",
-          "title": "Software Engineering Intern",
-          "company": "National Renewable Energy Laboratory",
-          "posted_at": "2026-02-04T05:29:22.838Z"
-        },
-        {
-          "id": "greystar-worldwide-data-engineering-intern-master-s-level-houston",
-          "title": "Data Engineering Intern - Master's Level",
-          "company": "Greystar Worldwide",
-          "posted_at": "2026-02-04T05:29:24.542Z"
-        },
         {
           "id": "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata",
           "title": "Project Engineering Intern - Digital Grid Management - Summer 2026",
@@ -262,6 +254,24 @@
           "title": "Data Analytics Intern - Multiple Teams",
           "company": "Kaiser Permanente",
           "posted_at": "2026-02-04T06:19:16.092Z"
+        },
+        {
+          "id": "vanderlande-industries-controls-support-engineer-intern-marietta",
+          "title": "Controls Support Engineer – Intern",
+          "company": "Vanderlande Industries",
+          "posted_at": "2026-02-04T06:49:12.642Z"
+        },
+        {
+          "id": "vanderlande-industries-software-engineer-intern-marietta",
+          "title": "Software Engineer Intern",
+          "company": "Vanderlande Industries",
+          "posted_at": "2026-02-04T06:49:14.455Z"
+        },
+        {
+          "id": "emerson-electric-software-engineering-intern-austin",
+          "title": "Software Engineering Intern",
+          "company": "Emerson Electric",
+          "posted_at": "2026-02-04T06:49:16.164Z"
         }
       ]
     },
