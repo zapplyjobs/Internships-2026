@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T09:17:33.751Z",
+  "generated": "2026-02-04T09:34:54.453Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T09:17:33.751Z",
-  "period_end": "2026-02-04T09:17:33.751Z",
+  "period_start": "2026-01-28T09:34:54.453Z",
+  "period_end": "2026-02-04T09:34:54.453Z",
   "summary": {
-    "total_jobs_posted": 119,
-    "unique_jobs": 119,
+    "total_jobs_posted": 128,
+    "unique_jobs": 128,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 45,
+      "count": 48,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -61,27 +61,12 @@
         "merck-future-talent-program-generative-ai-research-intern-natural-language-processing-cambridge",
         "apptronik-perception-software-intern-humanoid-robotics-austin",
         "kla-computer-vision-machine-learning-intern-milpitas",
-        "genentech-2026-summer-intern-regev-lab-feedback-driven-ai-systems-san-bruno"
+        "genentech-2026-summer-intern-regev-lab-feedback-driven-ai-systems-san-bruno",
+        "onsemi-summer-2026-ai-engineer-intern-scottsdale",
+        "xpo-data-science-intern-boston",
+        "abbvie-statistics-intern-phd-livingston"
       ],
       "recent_jobs": [
-        {
-          "id": "crowdstrike-data-science-intern-remote-in-usa",
-          "title": "Data Science Intern",
-          "company": "Crowdstrike",
-          "posted_at": "2026-02-04T08:13:58.113Z"
-        },
-        {
-          "id": "harman-international-intern-data-visualization-experiential-research-and-development-novi",
-          "title": "Intern - Data Visualization - Experiential Research and Development",
-          "company": "HARMAN International",
-          "posted_at": "2026-02-04T08:14:00.374Z"
-        },
-        {
-          "id": "t-mobile-context-engineer-ai-chatbot-intern-bellevue",
-          "title": "Context Engineer – AI Chatbot Intern",
-          "company": "T-Mobile",
-          "posted_at": "2026-02-04T08:29:56.888Z"
-        },
         {
           "id": "bio-techne-ai-engineering-intern-minneapolis",
           "title": "AI Engineering Intern",
@@ -123,6 +108,24 @@
           "title": "2026 Summer Intern - Regev Lab - Feedback Driven AI Systems",
           "company": "Genentech",
           "posted_at": "2026-02-04T09:17:12.203Z"
+        },
+        {
+          "id": "onsemi-summer-2026-ai-engineer-intern-scottsdale",
+          "title": "Summer 2026 – AI Engineer Intern",
+          "company": "onsemi",
+          "posted_at": "2026-02-04T09:34:44.199Z"
+        },
+        {
+          "id": "xpo-data-science-intern-boston",
+          "title": "Data Science Intern",
+          "company": "XPO",
+          "posted_at": "2026-02-04T09:34:46.040Z"
+        },
+        {
+          "id": "abbvie-statistics-intern-phd-livingston",
+          "title": "Statistics Intern - PhD",
+          "company": "AbbVie",
+          "posted_at": "2026-02-04T09:34:47.739Z"
         }
       ]
     },
@@ -225,7 +228,7 @@
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 34,
+      "count": 40,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -260,45 +263,15 @@
         "mks-instruments-software-engineer-intern-beaverton",
         "warner-bros-wb-games-netherrealm-software-engineering-intern-co-op-chicago",
         "wsp-geologist-geophysicist-intern-geologist-geophysicist-redmond",
-        "oracle-ada-intern-nashville"
+        "oracle-ada-intern-nashville",
+        "mitek-marketing-analytics-intern-chesterfield",
+        "onsemi-summer-2026-data-analytics-and-business-systems-intern-scottsdale",
+        "bernhard-business-analytics-intern-the-woodlands",
+        "shawmut-design-and-construction-intern-coop-software-development-boston",
+        "veolia-intern-manufacturing-software-engineer-boulder",
+        "guidestone-intern-software-development-dallas"
       ],
       "recent_jobs": [
-        {
-          "id": "microsoft-research-intern-agentic-programming-redmond",
-          "title": "Research Intern - Agentic Programming",
-          "company": "Microsoft",
-          "posted_at": "2026-02-04T08:29:30.834Z"
-        },
-        {
-          "id": "national-renewable-energy-laboratory-undergraduate-graduate-intern-year-round-transportation-research-software-engineering-golden",
-          "title": "Undergraduate/Graduate – Intern - Year-Round - Transportation Research Software Engineering",
-          "company": "National Renewable Energy Laboratory",
-          "posted_at": "2026-02-04T08:29:32.600Z"
-        },
-        {
-          "id": "rtx-intern-software-engineer-intern-aurora",
-          "title": "Intern – Software Engineer Intern",
-          "company": "RTX",
-          "posted_at": "2026-02-04T08:29:34.337Z"
-        },
-        {
-          "id": "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo",
-          "title": "IOS Engineering Intern - Native Streaming Clients Team 2026",
-          "company": "Verkada",
-          "posted_at": "2026-02-04T08:51:23.313Z"
-        },
-        {
-          "id": "teledyne-nhrc-software-engineering-intern-huntsville",
-          "title": "NHRC Software Engineering Intern",
-          "company": "Teledyne",
-          "posted_at": "2026-02-04T08:51:25.081Z"
-        },
-        {
-          "id": "avathon-full-stack-engineering-intern-pleasanton",
-          "title": "Full Stack Engineering Intern",
-          "company": "Avathon",
-          "posted_at": "2026-02-04T08:51:26.927Z"
-        },
         {
           "id": "mks-instruments-software-engineer-intern-beaverton",
           "title": "Software Engineer Intern",
@@ -322,6 +295,42 @@
           "title": "Ada Intern",
           "company": "Oracle",
           "posted_at": "2026-02-04T09:17:27.029Z"
+        },
+        {
+          "id": "mitek-marketing-analytics-intern-chesterfield",
+          "title": "Marketing Analytics Intern",
+          "company": "MiTek",
+          "posted_at": "2026-02-04T09:34:30.616Z"
+        },
+        {
+          "id": "onsemi-summer-2026-data-analytics-and-business-systems-intern-scottsdale",
+          "title": "Summer 2026 – Data Analytics and Business Systems Intern",
+          "company": "onsemi",
+          "posted_at": "2026-02-04T09:34:32.279Z"
+        },
+        {
+          "id": "bernhard-business-analytics-intern-the-woodlands",
+          "title": "Business Analytics Intern",
+          "company": "Bernhard",
+          "posted_at": "2026-02-04T09:34:34.026Z"
+        },
+        {
+          "id": "shawmut-design-and-construction-intern-coop-software-development-boston",
+          "title": "Intern/Coop-Software Development",
+          "company": "Shawmut Design and Construction",
+          "posted_at": "2026-02-04T09:34:35.763Z"
+        },
+        {
+          "id": "veolia-intern-manufacturing-software-engineer-boulder",
+          "title": "Intern Manufacturing Software Engineer",
+          "company": "Veolia",
+          "posted_at": "2026-02-04T09:34:37.440Z"
+        },
+        {
+          "id": "guidestone-intern-software-development-dallas",
+          "title": "Intern - Software Development",
+          "company": "GuideStone",
+          "posted_at": "2026-02-04T09:34:39.148Z"
         }
       ]
     },
