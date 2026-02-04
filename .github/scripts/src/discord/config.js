@@ -6,6 +6,20 @@
  * - Changed FORUM → TEXT channels (fixes 1K thread limit)
  * - Consolidated 7 low-volume channels → 'other'
  * - Board type: INTERNSHIPS
+ *
+ * Channel IDs (TEXT channels with -internships suffix):
+ * - tech-internships: 1464303178286760059
+ * - ai-internships: 1464304182923362324
+ * - data-science-internships: 1464303204178067620
+ * - sales-internships: 1464303497242742875
+ * - marketing-internships: 1464304161230295131
+ * - other-internships: 1464303266866135232
+ * - bay-area-internships: 1464303236772270122
+ * - remote-usa-internships: 1464303419794784347
+ * - new-york-internships: 1464304146072207390
+ * - pacific-northwest-internships: 1464303539101634634
+ * - southern-california-internships: 1464303312626122855
+ * - other-usa-internships: 1464303522177614001
  */
 
 const { BOARD_TYPES, generateLegacyConfig } = require('../board-types');
