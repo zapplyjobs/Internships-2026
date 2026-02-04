@@ -1,27 +1,6 @@
 [
   {
     "job": {
-      "job_title": "Research Intern - AI for Nursing",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science or a related STEM field. Two years of experience with Python and data science In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. One year experience with Healthcare AI projects",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556750525",
-      "job_posted_at_datetime_utc": "2026-02-03T02:12:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-for-nursing-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
       "job_title": "Research Intern - Agentic Programming",
       "employer_name": "Microsoft",
       "job_city": "Redmond",
@@ -36,199 +15,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Energy & Materials Intern - Generative Models and Reinforcement Learning",
-      "employer_name": "Toyota Research Institute",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Energy & Materials Intern - Generative Models and Reinforcement LearningLos Altos, CAEnergy & Materials – Internships - Summer 2026 /Intern /HybridApply for this jobAt Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.The TeamThe long-term vision of TRI’s Accelerated Materials Design and Discovery (AMDD) program is to accelerate the development of truly emissions-free mobility. Realizing this vision will require the discovery of new materials and devices for batteries, fuel cells, and more. Our aim at TRI is to merge cutting-edge computational materials modeling, experimental data, artificial intelligence, and automation to significantly accelerate materials research. Our focus is on developing tools and capabilities to enable this acceleration. We collaborate closely with a dozen universities and national labs and colleagues across global Toyota. AMDD seeks to develop and translate the newest technologies into practice, both within Toyota and the open research community more broadly.The InternshipThis project aims to develop models and policies to aid the discovery of new materials and material representations. The project may include developing models and policies based on materials science-relevant action spaces to discover new materials, synthesis routes, and interpretable heuristics. In addition to model and policy development, the project may also include the development of pipelines for relevant dataset generation. This is a Summer 2026 paid 12-week internship opportunity. Please note that this internship will be an in-office role.QualificationsCurrently enrolled in a doctoral program in computer science, materials science, engineering, applied mathematics, physics, chemistry, or a related field. Experience or familiarity with diffusion models and diffusion policies.Experience or familiarity with reinforcement learning.Experience with high-performance computing and high-throughput data pipelines.Please add a link to Google Scholar to include a full list of publications when submitting your CV for this position.The pay range for this position at commencement of employment is expected to be between $45 and $65/hour for California-based roles. Base pay offered will depend on multiple individualized factors, including, but not limited to, business or organizational needs, market location, job-related knowledge, skills, and experience. TRI offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional details regarding these benefit plans will be provided if an employee receives an offer of employment.Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal information.TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records for employment. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/tri/839dce5a-db02-4e44-b016-0080c4292855/apply",
-      "job_posted_at_datetime_utc": "2026-02-03T02:05:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "toyota-research-institute-energy-materials-intern-generative-models-and-reinforcement-learning-mountain-view",
-      "description_platform": "lever",
-      "description_success": true
-    },
     "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Engineer Intern/Co-op",
-      "employer_name": "Bose",
-      "job_city": "Framingham",
-      "job_state": "MA",
-      "job_description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.   Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job DescriptionTHE PROGRAMWe're looking for students to join our Co-Op Program who are obsessively curious about 'what's next'. You'll get hands on experience with our products and learn from the best of the best in the business. You will immerse yourself into Bose for 6 months and get the opportunity to grow the skills your learned in the classroom with hands on work experience. By the time you end your time with us, you will have been given the opportunity to truly make a real impact in the future of Bose and your career!Opportunities don't stop at your day-to-day work. While you're getting an in depth look at your area of expertise, we'll expose you to other areas of the company. Our Co-Ops are given the opportunity to connect with senior leadership across the business to understand different perspectives at Bose. You'll network with other Co-Ops and colleagues to grow your network for the future! Fall Co-op: Candidates must be available to work full-time (40 hours per week) in a hybrid, in-office format from July 13 through December 18, 2026. No relocation assistance is available.Being currently authorized to work in the U.S. is a precondition of employment for this position.THE ROLEThe Bose Data Engineering team is responsible for design, development and enhancement of Bose Data Platforms (Analytics & Customer Data Platforms) in leading and supporting Advanced Analytics. This team is highly impactful and a key enabler of Bose Digital journey by playing a central role in the Data driven transformation.What you will be working on?As a junior Data Engineer, you will work closely with internal customers to build and design data pipelines, spanning from data acquisition to data pipelines ML model deployment and monitoring. Being part of an agile delivery team, you will design, develop, deploy, and support data pipelines, applying best practices and implementing necessary integrations with our Data Platform ecosystem. This role requires a passion for operations, AWS Serverless solutions, Python, and SQL coding. Under the supervision of a Senior Data Engineer, some of your responsibilities will include: · Continuing the full life cycle management of data pipelines: designing, developing, and providing production support for data pipelines that support customer experiences on connected devices, web applications, and mobile applications. · Staying up to date on relevant technologies, participating in user groups, understanding trends, and identifying opportunities to ensure the adoption of the best techniques and tools. For instance, we are currently utilizing Snowflake, databricks, and AWS Serverless technologies. · Collaborating with AWS Cloud Architects to optimize and evaluate scalable, serverless solutions, becoming the Subject Matter Expert (SME) for AWS solutions. · Working in multi-functional agile teams to continuously experiment, iterate, and deliver on new data product objectives. Candidates should have a bachelors in Computer Science and working towards mastersAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.‎ Bose is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. The EEOC’s “Know Your Rights: Workplace discrimination is illegal” Poster is available here: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf. Bose is committed to providing reasonable accommodations to individuals with disabilities. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to applicant_disability_accommodationrequest@bose.com. Please include \"Application Accommodation Request\" in the subject of the email.‎ Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.",
-      "job_apply_link": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R28594-1",
-      "job_posted_at_datetime_utc": "2026-02-02T23:55:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "bose-data-engineer-intern-co-op-framingham",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analytics Engineer Intern/Co-op",
-      "employer_name": "Bose",
-      "job_city": "Framingham",
-      "job_state": "MA",
-      "job_description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.   Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job DescriptionAbout the Role:We are looking for a Data Analytics Engineering Co-op to join our Data and Analytics Center of Excellence (D&A CoE). This role provides an exciting opportunity to gain hands-on experience in the data and analytics engineering work that drives a multi-billion dollar business like Bose. You will work alongside experienced professionals to develop and support data-driven solutions that enhance business strategies and improve customer experiences.As a Data Analytics Engineering Co-op, you will assist in transforming raw, diverse datasets into meaningful insights.  This includes data pipeline development and modeling work that supports business analysts as well as data scientists who are creating AI solutions.  Applications include marketing, engineering, product development, supply chain, and finance. You will work with a modern technology stack, including AWS and Snowflake, and write code using engineering best practices. This role is ideal for someone who is eager to learn, detail-oriented, and passionate about leveraging data to drive decision-making. Quality data models are the foundation of what we do in the D&A CoE, from executive level reporting to AI models that optimize our business. Key Responsibilities:Assist in the development and maintenance of business-critical data pipelines, typically built in SQL and PythonSupport the design and implementation of logical and physical data models to enhance data accessibility.Conduct data wrangling and preprocessing to clean and structure datasets for analysis.Help build and maintain semantic layers to enable dashboard development and data science work.Contribute to new tools and techniques that make data analytics engineering more efficient and effective.Work with cross-functional teams to understand business requirements and translate them into data solutions.Assist in creating dashboards and reports that provide actionable insights for business teams.Learn and apply best practices for data governance, security, and quality assurance.MUST BE:Fully available July 13- December 2026Currently enrolled in universityWilling to relocate on your own to Framingham, MAAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.‎ Bose is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. The EEOC’s “Know Your Rights: Workplace discrimination is illegal” Poster is available here: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf. Bose is committed to providing reasonable accommodations to individuals with disabilities. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to applicant_disability_accommodationrequest@bose.com. Please include \"Application Accommodation Request\" in the subject of the email.‎ Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.",
-      "job_apply_link": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R28605",
-      "job_posted_at_datetime_utc": "2026-02-02T23:55:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "bose-data-analytics-engineer-intern-co-op-framingham",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Governance Business Systems Analyst Intern",
-      "employer_name": "Jabil",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "At Jabil we strive to make ANYTHING POSSIBLE and EVERYTHING BETTER. We are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, manufacturing, and supply chain solutions. With over 50 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver both scalable and customized solutions. Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe. At Jabil, we are committed to empowering data-driven decisions across the organization. Our Data & Analytics team works at the forefront of building scalable data solutions and fostering a data culture. Join us and contribute to shaping the future of data governance and management in a dynamic and collaborative environment.As part of the Data Governance Enablement team, this role is responsible for the configuration of the business glossary and technical metadata in the Informatica Data Governance and Catalog platform. This role may also partner with business stakeholders and technical teams to enable enterprise data governance and metadata management, and data quality. This position enables the organization to have data assets that are discoverable, well-defined, trusted, and aligned with organizational governance standards.Key Responsibilities:Assist in configuring and maintaining business glossary terms, domains, relationships and associations within the Informatica Data Governance and Catalog platformAssist in configuring data catalog sources from various data source systems and schemas, including but not limited to, SAP, SQL Server, AWS S3, Snowflake, Power BI, etc.Partner with technical teams to ensure metadata filters and system account privileges are configured accordingly, and validation of metadata.Assist in the configuration and maintaining of data lineage between data systems or data layers in informatica Participate in requirements gathering sessions and help translate business needs into Informatica configurations.Participate as a liaison between business stakeholders and technical teams to ensure business glossaries and technical metadata are properly associated and documented.Support testing and validation of metadata changes, enhancements, and platform updates.Learn and apply best practices for data governance, metadata management, and data quality implementations.Qualifications:Required:Currently pursuing a degree in Data Science, Information Systems, Business Administration, or a related field.Strong communication and interpersonal skills, with the ability to translate technical concepts for diverse audiences.Interest in data governance, change management, and/or cross-functional collaboration.Proficiency with Microsoft Office Suite (Word, PowerPoint, Excel) or Google Workspace.Highly organized with strong attention to detail.Preferred:Familiarity with data governance tools, frameworks, or methodologies.Experience in project management or stakeholder engagement.Basic understanding of data analytics or data management principles.What You’ll Gain:Hands-on experience with data governance and management in a corporate setting.Exposure to cross-functional collaboration and global stakeholder management..Mentorship from experienced data professionals.A chance to make a meaningful impact on how data is governed and utilized at Jabil.The hourly pay range for this role is $16.00 - $32.00. Job-related, non-discriminatory factors used to determine the actual offered rate include qualifications and experience, geographic location, education, external market data, and consideration of internal equity. The anticipated close date of this job requisition is: April 27, 2026.As part of the total rewards package, Jabil offers benefits to enhance your health, wealth, and resilient self. These include medical, dental, and vision insurance plans; paid time off accruing at a rate of 3.07 hours during your first year of employment; 4 weeks of paid parental leave; in 2026, 11 company-paid holidays (9 fixed holidays and 2 optional floating holidays), subject to change yearly; 401(k) retirement plan; and employee stock purchase plan. BE AWARE OF FRAUD: When applying for a job at Jabil you will be contacted via correspondence through our official job portal with a jabil.com e-mail address; direct phone call from a member of the Jabil team; or direct e-mail with a jabil.com e-mail address. Jabil does not request payments for interviews or at any other point during the hiring process. Jabil will not ask for your personal identifying information such as a social security number, birth certificate, financial institution, driver’s license number or passport information over the phone or via e-mail. If you believe you are a victim of identity theft, contact the Federal Bureau of Investigations internet crime hotline (www.ic3.gov), the Federal Trade Commission identity theft hotline (www.identitytheft.gov) and/or your local police department. Any scam job listings should be reported to whatever website it was posted in.Jabil, including its subsidiaries, is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, age, disability, genetic information, veteran status, or any other characteristic protected by law. Accessibility Accommodation  If you are a qualified individual with a disability, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access Jabil.com/Careers site as a result of your disability. You can request a reasonable accommodation by sending an e-mail to Always_Accessible@Jabil.com or calling 727-803-7988 with the nature of your request and contact information. Please do not direct any other general employment related questions to this e-mail or phone number. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to. #whereyoubelong #AWorldofPossibilities #EarlyCareer",
-      "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Governance-Business-Systems-Analyst-Intern_J2437910",
-      "job_posted_at_datetime_utc": "2026-02-02T23:52:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "jabil-data-governance-business-systems-analyst-intern-remote-in-usa",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "Crowdstrike",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Our University Recruiting program is dedicated to attracting and cultivating the future leaders of this industry. This program offers paid positions for students and recent grads, designed to provide exposure to work that makes an impact while being supported through a structured experience with seasoned professionals. Ready to join a mission that matters? The future of cybersecurity starts with you.About the Role:CrowdStrike’s CTO Labs team works at the exciting intersection of Artificial Intelligence and Machine Learning, Big Data, and Security. We’re excited to renew our internship program this summer. You will have the opportunity to apply your computational, coding, mathematical and scientific research skills to solve cutting problems from a wide array of areas such as: New frontiers in Cybersecurity, Threat Detection and Prevention, and End-to-End Automation. We are a multidisciplinary team, and you’ll have the chance to broaden your horizons by working jointly with a team of Big Data, Machine Learning, and Security domain experts on hard and impactful problems.Location & Work Arrangement:FULLY REMOTE: This role is fully remote and requires no travel. Your work location is the city/town/province you will be working from remotely. For our 12-week internship program, interns are allowed to work remotely from an alternative location for up to 2 weeks. Interns are also invited to work out of the CrowdStrike office located closest to their remote location.Time Commitment: Interns are expected to work 40 hours per week, Monday through Friday, during standard business hours.Start & End Dates:Cohort 1: Wednesday, May 20 - Friday, August 7, 2026 (11 ½ Weeks)Cohort 2: Monday, June 1 - Friday, August 21, 2026 (12 Weeks)Cohort 3: Monday, June 15 - Friday, September 4, 2026 (12 Weeks)What You’ll Do:Work directly with Sr. Data Scientists, helping to create and automate predictive machine learning modelsHone your ability to balance detail-oriented research with goal-oriented business objectivesImplement and experiment with new algorithms and methodologies to help improve our machine learning modelsAutomate an visualize analyses, results and processes in our machine learning pipelineWhat You’ll Need:Candidate is a PhD-level computer science, data science student or related field, graduating between December 2026 - August 2027Analytically minded with completed coursework in linear algebra and data science or an equivalent knowledge of applied mathematicsExperienced in writing python code to pre-process and analyze data to generate actionable insightsHands on in your approach to understanding data and learning about new fieldsThirsty for knowledge and do not hesitate to step outside of your comfort zone to learn new technologies, algorithms and conceptsComfortable with working in a Linux environmentBonus points for coursework or previous experience in computer security.#LI-Remote#LI-AL2What You Can Expect:Market leader in compensation and equity awardsPaid holidays (including birthday holidays) and 401k matching (where applicable)Professional development opportunities including workshops, tech talks, and Executive Speaker SeriesAssigned mentors from across the company for continuous support and feedbackParticipation in companywide initiatives including FalconFIT, Wellness Programs, and Employee Assistance ProgramEmployee Networks, geographic neighborhood groups, and volunteer opportunities to build connectionsVibrant office culture with world class amenitiesOwnership of impactful projects that move the company forwardGreat Place to Work Certified™ across the globeCrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements.If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.Find out more about your rights as an applicant.CrowdStrike participates in the E-Verify program.Notice of E-Verify ParticipationRight to WorkCrowdStrike, Inc. is committed to fair and equitable compensation practices. The hourly rate for this position for all U.S. candidates is $38 - $45Expected Close Date of Job Posting is:03-30-2026",
-      "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Science-Intern---Summer-2026--Remote-_R26761",
-      "job_posted_at_datetime_utc": "2026-02-02T23:51:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "crowdstrike-data-science-intern-remote-in-usa",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern Sales Technology Data Analyst",
-      "employer_name": "Blue Cross and Blue Shield of Minnesota",
-      "job_city": "Eagan",
-      "job_state": "MN",
-      "job_description": "About Blue Cross and Blue Shield of MinnesotaAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. We are looking for dedicated and motivated individuals who share our vision of transforming healthcare. As a Blue Cross associate, you are joining a culture that is built on values of succeeding together, finding a better way, and doing the right thing. If you are ready to make a difference, join us.Program DurationOur internship program runs approximately 40 hours per week, from June 1st through mid-August.The Impact You Will HaveBlue Cross and Blue Shield of MN is looking for an Intern with Data Analytics experience to join our Sales Technology team! The Intern - Sales Technology Data Analytics will support the team responsible for managing and enhancing the organization’s sales technology ecosystem. This role will contribute to the analysis and optimization of multiple sales platforms and portals. The intern will use their data analytics skills to evaluate system performance, identify improvement opportunities, and translate data into actionable insights that help drive sales technology strategy. Working closely with team members, the intern will assist with reporting, platform assessments, and ongoing technology initiatives that support sales operations and user experience.Your ResponsibilitiesPerform data cleanup across three disconnected systems, ensuring accuracy and alignment of shared data fields.Organize and analyze data using strong Excel skills, including advanced functions, pivot tables, and complex spreadsheet management.Collaborate with the Sales team to gain broader exposure across Sales and Sales Technology functions.Follow a structured project plan outlining data sources, cleanup workflows, and validation steps.Work with subject matter experts (SMEs) to analyze datasets, verify data accuracy, and identify discrepancies.Update records directly in designated databases when appropriate or route required changes to authorized teams based on security privileges.Partner with fellow interns to coordinate tasks and collectively complete data cleanup deliverables.Gain exposure to various data types, systems, and tools used within the Sales Technology ecosystem.Observe how the Sales Technology team collaborates with cross‑functional partners across the organization.Support additional project work and ad‑hoc tasks as assigned.RequirementsTo be considered for this internship, candidates must meet the following minimum requirements:Must be enrolled in an educational program for the duration of the internship.Completed at least one year (2 semesters or credits equivalent) by the start of the internship.Undergraduate degree in Data Science or Data Analytics.Professional demeanor, positive attitude, and a customer service orientation Willingness to take initiative and learn new concepts and technical skills Ability to work in a hybrid environment, including being on-site at least 2 days per week. Perks of Interning at Blue CrossReal project impactDive into meaningful projects that matter. Your contributions will shape our success, and you’ll see the tangible results of your work. ​ Enterprise-wide networkConnect with individuals across the organization. Develop relationships, learn from diverse perspectives, and expand your professional network. ​ Continuous learning Every day is a chance to learn. On-the-job experiences will sharpen your skills, accelerate your growth, and drive your career forward.  Additional benefits includePlanned personal and professional development events On-site café with breakfast, lunch, and grab-and-go options Free parking Business-casual attire On-site fitness center Hybrid environment Role DesignationHybridAnchored in ConnectionOur hybrid approach is designed to balance flexibility with meaningful in-person connection and collaboration. We come together in the office two days each week – most teams designate at least one anchor day to ensure team interaction. These in-person moments foster relationships, creativity, and alignment. The rest of the week you are empowered to work remote.Compensation and Benefits$0.00 - $0.00 - $0.00Pay is based on several factors which vary based on position, including skills, ability, and knowledge the selected individual is bringing to the specific job.We offer a comprehensive benefits package which may include:Medical, dental, and vision insuranceLife insurance401kPaid Time Off (PTO)Volunteer Paid Time Off (VPTO)And moreTo discover more about what we have to offer, please review our benefits page.Equal Employment Opportunity StatementAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. Blue Cross of Minnesota is an Equal Opportunity Employer and maintains an Affirmative Action plan, as required by Minnesota law applicable to state contractors. All qualified applications will receive consideration for employment without regard to, and will not be discriminated against based on any legally protected characteristic.Individuals with a disability who need a reasonable accommodation in order to apply, please contact us at: talent.acquisition@bluecrossmn.com.Blue Cross® and Blue Shield® of Minnesota and Blue Plus® are nonprofit independent licensees of the Blue Cross and Blue Shield Association.",
-      "job_apply_link": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Intern---Sales-Technology-Data-Analyst_R0006194",
-      "job_posted_at_datetime_utc": "2026-02-02T23:48:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern Enterprise Data Analyst",
-      "employer_name": "Blue Cross and Blue Shield of Minnesota",
-      "job_city": "Eagan",
-      "job_state": "MN",
-      "job_description": "About Blue Cross and Blue Shield of MinnesotaAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. We are looking for dedicated and motivated individuals who share our vision of transforming healthcare. As a Blue Cross associate, you are joining a culture that is built on values of succeeding together, finding a better way, and doing the right thing. If you are ready to make a difference, join us.Program Duration  Our internship program runs approximately 40 hours per week, from June 1st through mid-August. This role is based in Eagan, MN and requires at least 2 days per week on-site.    The Impact You Will Have  Blue Cross Blue Shield of Minnesota is hiring a BI Analytics Intern for Summer 2026. In this role, you will apply knowledge of mathematics, statistics, and reporting to operations data. You will generate and report data used for day‑to‑day operations and support various teams including Operations, Government Programs, Finance, and Provider Relations. This internship offers a unique opportunity to gain hands‑on experience in BI Analytics while working on real‑world projects that directly impact our business and members.    Your Responsibilities  Develop plans, analyze data, and report results to a senior analyst to support informed decision‑making.  Assist in designing and building strategic, actionable insights using visual analytics tools.  Prepare reports and analysis to identify and interpret trends or patterns in complex data sets.  Support the development of reporting programs using various reporting and analytic tools, integrating multiple data sources.  Collaborate with team members on using data in new and innovative ways.    Required Skills and Experiences  To be considered for this internship, you must meet the following minimum requirements:  Must be enrolled in an educational program for the duration of the internship.  Completed at least one year (2 semesters or credits equivalent) by the start of the internship.  Currently enrolled in a bachelor's program in Mathematics, Statistics, Computer Science, Data Science, or a related field.  Professional demeanor, positive attitude, and strong customer service orientation.  Willingness to take initiative and learn new concepts and technical skills.  Ability to work in a hybrid environment, including being on‑site at least 2 days per week.   Preferred Skills and Experiences  Coursework in Modeling/Data Visualization, Financial Analytics, or Marketing Analytics.  Experience with Databricks, PowerBI, SSRS, SSMS, SSIS, or SQL queries.  Strong interest in Data Analytics.  Proficiency in MS Office (Word, Excel, PowerPoint).  Strong problem‑solving and organizational skills.  Ability to manage multiple tasks effectively.  Ability to build relationships and interact with all levels of the organization.  Excellent written and verbal communication skills, including presenting technical information.    Perks of Interning at Blue Cross   Real project impact  Dive into meaningful work that matters. Your contributions will directly influence organizational success, and you’ll see the real-world results of your efforts.  Enterprise-wide network  Connect with individuals across the organization, build relationships, and expand your professional network while learning from a wide range of perspectives.  Continuous learning  Sharpen your skills through on‑the‑job experiences that accelerate your growth and career development.   Additional Benefits  Planned personal and professional development events  On‑site café with breakfast, lunch, and grab‑and‑go items  Free parking  Business‑casual attire  On‑site fitness center  Hybrid work environment Role DesignationHybridAnchored in ConnectionOur hybrid approach is designed to balance flexibility with meaningful in-person connection and collaboration. We come together in the office two days each week – most teams designate at least one anchor day to ensure team interaction. These in-person moments foster relationships, creativity, and alignment. The rest of the week you are empowered to work remote.Compensation and Benefits$25.00 - $26.25 - $27.50 HourlyPay is based on several factors which vary based on position, including skills, ability, and knowledge the selected individual is bringing to the specific job.We offer a comprehensive benefits package which may include:Medical, dental, and vision insuranceLife insurance401kPaid Time Off (PTO)Volunteer Paid Time Off (VPTO)And moreTo discover more about what we have to offer, please review our benefits page.Equal Employment Opportunity StatementAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. Blue Cross of Minnesota is an Equal Opportunity Employer and maintains an Affirmative Action plan, as required by Minnesota law applicable to state contractors. All qualified applications will receive consideration for employment without regard to, and will not be discriminated against based on any legally protected characteristic.Individuals with a disability who need a reasonable accommodation in order to apply, please contact us at: talent.acquisition@bluecrossmn.com.Blue Cross® and Blue Shield® of Minnesota and Blue Plus® are nonprofit independent licensees of the Blue Cross and Blue Shield Association.",
-      "job_apply_link": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Intern---Enterprise-Data-Analyst_R0006056",
-      "job_posted_at_datetime_utc": "2026-02-02T23:48:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.114Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Data Visualization - Experiential Research and Development",
-      "employer_name": "HARMAN International",
-      "job_city": "Novi",
-      "job_state": "MI",
-      "job_description": "A Career at HARMANAs a technology leader that is rapidly on the move, HARMAN is filled with people who are focused on making life better. Innovation, inclusivity and teamwork are a part of our DNA. When you add that to the challenges we take on and solve together, you’ll discover that at HARMAN you can grow, make a difference and be proud of the work you do every day.Introduction: A Career at HARMAN AutomotiveWe’re a global, multi-disciplinary team that’s putting the innovative power of technology to work and transforming tomorrow. At HARMAN Automotive, we give you the keys to fast-track your career.Engineer audio systems and integrated technology platforms that augment the driving experienceCombine ingenuity, in-depth research, and a spirit of collaboration with design and engineering excellenceAdvance in-vehicle infotainment, safety, efficiency, and enjoymentAbout the RoleThe Experiential R&D Department is seeking an intern for the responsibility of assisting the data analysis and reporting of automotive audio evaluation results on sound quality and technology features. We conduct controlled listening tests to measure the sound quality of Harman’s automotive audio systems and other technologies.  The resulting data is utilized to establish performance targets and assist Engineering & Product Development with system optimization. What You Will DoAssist with the analysis and creation of Experiential R&D reports and data requests Provide support for testing, data entry, and database maintenance Support global data needs by developing dashboards for common requests Integrate objective data with subjective feedback to mine for insights Support ML/AI development activities and feature development Work alongside teammates in Germany, Japan, India and China toward a common goal and maintain a global database. What You Need to Be SuccessfulMust have taken courses in or closely related to Management Information Systems (MIS), Data Science, Computer Science/Engineering, Object-Oriented Programming, Mobile App Development, Information Visualization, Database Development, Advanced Mathematics, and/or Statistics. Must have strong oral and written communication skills and be able to confidently interact with and present information to senior leaders and executives Must work collaboratively with strong interpersonal and relationship-building skills Experience with Microsoft Office (Excel, Word, PowerPoint) Experience with Python, Machine Learning, Big Data Structures Results orientated mindset Bonus Points if You Have Demonstrated experience leading projects to completion Interest in the audio or automotive industry Experience with Qlik, Snowflake, AWS, S3, Databricks, Matillion. Network Programming & Socket Proficiency in TCP/UDP socket programming, WebSockets, or similar network communication protocols. Programming Languages & Frameworks Proficiency in one or more high-level languages (e.g., C++, C#, Java, Python, Go, Rust) used for networked applications. What Makes You EligibleMust be currently enrolled in a realted Bachelor's Degree program or higher at an accredited institution having completed your Sophomore year or later, taking at least one class in the semester/quarter before participation in the internship program, and returning to school for at least one semester upon completion of the internship programMust have a cumulative 3.0 GPABe willing to work in an office in Novi, Michigan.Able to provide your own housing and transportation to/from work.Must possess unrestricted work authorization.Successfully complete a background investigation and drug screen as a condition of employmentMust provide full work availability from May 18, 2026 through August 7, 2026 and be able to work 40 hours per weekWhat We Offer Flexible work environment, allowing for hybrid work for positions/tasks that can be performed outside a HARMAN locationAccess to employee discounts on world-class Harman and Samsung products (JBL, HARMAN Kardon, AKG, etc.)Extensive training opportunities through our own HARMAN UniversityAccess to HARMAN Campus Fitness Center and CafeteriaAn inclusive and diverse work environment that fosters and encourages professional and personal developmentPay TransparencyFreshman: $21.00Sophomore: $23.00Junior: $25.00Senior: $27.00  Master: $32.00 Doct: $38.00Dependent on the internship offered, pay is based on factors, including without limitation, the applicant's level of education and business need.BenefitsHARMAN is interested in your health and wellbeing and offers benefits designed to support your wellbeing. Benefits and perks may vary depending on the nature of your relationship with HARMAN, and may include paid sick leave and medical benefits.HARMAN is proud to be an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
-      "job_apply_link": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/US_Novi_30001-Cabot-Drive/Summer-Intern---Data-Visualization--Experiential-R-D_R-51415-2026",
-      "job_posted_at_datetime_utc": "2026-02-02T23:48:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "harman-international-intern-data-visualization-experiential-research-and-development-novi",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T07:48:17.115Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
-  },
-  {
-    "job": {
-      "job_title": "Research & Development Intern",
-      "employer_name": "Nasdaq",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "About Our Internship Program Nasdaq’s Internship Program is a 10-week summer experience designed to give students real exposure to how global markets and technology come together. Our interns work on meaningful projects alongside Nasdaq teams, gaining hands-on skills that make an impact on the business. We believe the best way to learn is by doing — that’s why you’ll be paired with a mentor, connected with senior leaders, and included in professional development sessions. You’ll also join a diverse global intern community, sharing experiences and building networks that last beyond the program. Our goal is to provide a supportive, engaging, and fun environment where your work feels valued and your growth comes first. Check out our Nasdaq Internship Program page to learn more and hear directly from past interns about their journeys.At Nasdaq, you’ll have the chance to start your career in an environment where learning, teamwork, and innovation come first. In this role, you’ll support the Product R&D team and gain hands-on experience with technical tools such as SQL, Python, and Databricks, partner with a mentor, network with senior colleagues, and take on real-world projects that will directly impact your team’s priorities and initiatives. You don’t need to know everything on day one — we’ll help you build the skills, confidence, and network to grow your career. What You’ll Do •   Support Product R&D team with day-to-day tasks and contribute to ongoing initiatives.•   Collaborate with teammates across different functions and regions.•   Bring your ideas and curiosity to problem-solving and project work.•   Develop your technical and professional skills through training and mentorship. What You’ll Bring•   Currently pursuing a degree in business or technical field, e.g., finance, economics, computer science, etc... (Both preferred)•   Eagerness to learn, ask questions, and take on new challenges.•   Ability to work well with others and contribute to a team environment.•   Focus/Curiosity around Ai capabilities•   Good communication and organizational skills.Nice-To-Have•   Internship or project experience related to Finance or Technology•   Curiosity about technology, finance, and global markets, particularly around institutional investing markets•   Involvement in student organizations, volunteering, or leadership roles.•   Experience or interest in SQL, Python, R, PowerBI, Databricks or similar toolsets. This position will be located in Atlanta and offers the opportunity for a hybrid work environment at least 3 days a week in-office, subject to change, providing flexibility and accessibility for qualified candidates.Come as You AreNasdaq is an equal opportunity employer. We positively encourage applications from suitably qualified and eligible candidates regardless of age, color, disability, national origin, ancestry, race, religion, gender, sexual orientation, gender identity and/or expression, veteran status, genetic information, or any other status protected by applicable law.We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.",
-      "job_apply_link": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Atlanta---Georgia/Research---Development-Intern---2026-Summer-Internship_R0025018",
-      "job_posted_at_datetime_utc": "2026-02-02T23:48:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "nasdaq-research-development-intern-atlanta",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": "2026-02-04T08:14:09.690Z"
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -246,10 +36,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -267,10 +57,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -288,10 +78,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -309,10 +99,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -330,10 +120,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -351,10 +141,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -372,10 +162,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -393,10 +183,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -414,10 +204,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T08:13:39.325Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T08:30:03.065Z"
   },
   {
     "job": {
@@ -425,17 +215,19 @@
       "employer_name": "AVEVA",
       "job_city": "Lake Forest",
       "job_state": "CA",
-      "job_description": "Join AVEVA in this exciting opportunity.",
+      "job_description": "AVEVA is a global leader in industrial software. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals and minerals – safely, efficiently and more sustainably.We’re the first software business in the world to have our sustainability targets validated by the SBTi, and we’ve been recognized for the transparency and ambition of our commitment to diversity, equity, and inclusion. We’ve also recently been named as one of the world’s most innovative companies.If you’re a curious and collaborative person who wants to make a big impact through technology, then we want to hear from you! Find out more at AVEVA Careers.For more information about our privacy policy and how to manage cookies, visit our Privacy Policy. Job Title: Services InternLocation: Lake Forest, CAEmployment Type: Full-time Intern (Summer)Duration: Minimum 12 weeks May 18th through August 7th    June 22nd through September 11th Work Type: Hybrid (3 days a week in office) Work Authorization: This application is intended for candidates that are eligible for full-time work authorization in the United States upon completing their education.    Please be prepared to answer the following in your application:     Do you now, or will you in the future, require sponsorship for employment visa status (e.g. H-1B, F1, CPT, OPT visa status, etc.) to work legally in the United States?    Benefits: Competitive pay.   Mentorship: You will be assigned a technical mentor to guide you during your internship.   Continuous Learning: In-office training in defensive programming, debugging, and more.Learning Series: You will learn more about AVEVA from meeting with our Executive Team and Business Unit Leadership Team members.  Stipend for expenses for duration of internship.    Key Responsibilities: Collaborate with our Delivery team on the AVEVA operations software platform, contributing to its development and deployment across various sectors. Shadow experts gain insights into solution design, testing, and implementation of our industrial solutions. Explore innovative ways to market our products, expand to new regions, and contribute to strategy development and performance enhancements. Team Dynamics: Work alongside the Delivery team, a group passionate about creating next-generation solutions that revolutionize real-time operational monitoring and enhance production efficiency and safety. Be part of a team that's shaping a sustainable future with environmentally impactful software. What You Will Do: Be a part of the client-facing Delivery Services team assisting in the selection of AVEVA software and its usage after it has been released.  Assist in designing, deploying and testing software applications, under the guidance of subject matter experts. Assist in establishing global standards for data architecture that all customers can apply to help ensure the goals of the end user are met or exceeded at full scale. Engage in projects that could range from market analysis to technological innovation. Your contributions could include strategic development, solution redesign, or performance optimization. Personal Development: The internship is tailored to your strengths and career aspirations, paired with mentorship from inspiring leaders in the field. We’re looking for:  Students currently enrolled in a full-time BS, MS, or PhD program Concentration in Artificial Intelligence or Cyber Security majors or a relevant STEM field A minimum GPA of 3.0 Knowledge, Skills, and Preferred Requirements: Communication Skills: Excellent verbal and written communication abilities. Capable of articulating technical concepts to a non-technical audience. The intern in this role should be interested in the experience of knowing how software solves problems in industry more than how software is built.  Problem-Solving Skills: Ability to tackle complex issues with a logical and analytical approach.   Analytical Abilities: Proficiency in analyzing data and making data-driven decisions. Experience with data analysis tools and methodologies is beneficial.  Collaboration and Teamwork: Proven ability to work effectively in a team environment. Experience in collaborative projects is desirable.  Adaptability: Flexibility to adapt to new challenges and changes in a dynamic work environment.  Learning Agility: Eagerness to learn new technologies and concepts quickly and apply them effectively.  Attention to Detail: Meticulous attention to detail in all aspects of work.   Desired Behaviors:  Strong self-motivation and independent thinking.  Persistence and determination to succeed.  An innovative mindset with a proactive “can-do” attitude.  Additional Skills: Programming and scripting skills Familiarity with Microsoft technology stack is a plus Foundational understanding of Python, JavaScript, C#, or CSS Familiarity with Saas, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), or other cloud platforms Experience with SQL, data analytics, and data modeling with an emphasis on interpreting operational data from oil & gas systems. Basic understanding of REST APIs and web services, particularly for integrating simulation tools and industrial data sources. Exposure to DevOps tools (e.g., Git, Docker, Jenkins) Basic knowledge of industrial automation systems or SCADA platforms is a plus, especially for monitoring pipeline operations and thermodynamic processes. Ability to work with Agile methodologies and tools like JIRA or Confluence Find out more: https://www.aveva.com/en/about/careers/Salary Range:$52,500.00 - $87,500.00This pay range represents the minimum and maximum compensation that the position offers, and final compensation can vary within the range depending on work location, job experience, skills, and relevant educational attainment and/or training. AVEVA requires all successful applicants to undergo and pass a comprehensive background check and drug screen before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third-party personal data may involve additional background check criteria. All drug screens are in accordance with federal laws and regulations. AVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify AVEVA at recruitingaccommodations@aveva.com. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.  Come and join AVEVA to create the transformative technology that enables our customers to engineer a better world.",
       "job_apply_link": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Services-Intern_R011921",
       "job_posted_at_datetime_utc": "2026-02-02T23:42:26.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "aveva-services-intern-lake-forest"
+      "id": "aveva-services-intern-lake-forest",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -444,17 +236,19 @@
       "employer_name": "Thermo Fisher Scientific",
       "job_city": "Morrisville",
       "job_state": "NC",
-      "job_description": "Join Thermo Fisher Scientific in this exciting opportunity.",
+      "job_description": "Work ScheduleStandard (Mon-Fri)Environmental ConditionsOfficeJob DescriptionWhen you’re part of the team at Thermo Fisher Scientific, you’ll do important work, like helping customers in finding cures for cancer, protecting the environment or making sure our food is safe. Your work will have real-world impact, and you’ll be supported in achieving your career goals. Our staff members are committed to making a difference in our organization, for our client partners and the patients we serve. We seek individuals with proven competencies and strong character to help lead our organization now and into the future.Our interns receive professional mentorship and leadership development opportunities to support future career growth with us. Whether you're looking to transition into one of our Leadership Development Programs or pursue a full-time position post-graduation, our team is here to support your next step!How will you make an impact?Our interns are matched to projects based on their abilities and current business needs. All projects will have significant strategic and/or operating importance to the business to which they are assigned.Summer projects may include the following responsibilities:Assist in building and maintaining datasets using SQL and Power Query.Contribute to Senior Leadership-level Power BI dashboards and visual enhancements under guidance from senior analysts.Participate in dashboard testing, DAX fundamentals, and model optimization efforts.Support development or refinement of PowerApps used for data capture and workflow streamlining.Assist in creating or modifying Power Automate flows that reduce manual work and improve process efficiency.Start Date & Location: This role will begin on May 11, 2026 for a duration of 10-12 weeks (dependent upon student's academic calendar).The incoming intern has the option of either working from our Morrisville, NC office or our Waltham, MA office.Compensation: Our Undergraduate internships offer an hourly rate between $18.50 - $28.75 dependent upon the role type and location you are supporting (aligned to respective cost-of-living guidelines).How will you get here?Undergraduate student completing a Bachelor’s degree in Data Science or Engineering graduating between December 2026 - June 2027.Previous related internships totaling 1+ years experience required. 0 years of work experience required.Consistent track record of results demonstrating integrity, innovation, involvement, and intensity.Energized through championing change, driven in getting results, and savvy in navigating ambiguity.Excellent interpersonal communication skills with a high degree of emotional intelligence.If this sounds like you, we'd love to hear from you!To qualify, applicants must be legally authorized to work in the United States and should not require sponsorship (current or future) for employment visa status. Thermo Fisher does not offer employment in this position to holders of F-1, J-1, H-1, OPT, and CPT Visas for the purpose of obtaining practical experience.",
       "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Data-Analyst-Intern_R-01341180",
       "job_posted_at_datetime_utc": "2026-02-02T23:38:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "thermo-fisher-scientific-data-analyst-intern-morrisville"
+      "id": "thermo-fisher-scientific-data-analyst-intern-morrisville",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -463,17 +257,19 @@
       "employer_name": "C.H. Guenther",
       "job_city": "San Antonio",
       "job_state": "TX",
-      "job_description": "Join C.H. Guenther in this exciting opportunity.",
+      "job_description": "The AI Agents & Automation Intern will support initiatives that explore and enable the use of artificial intelligence and automation to improve internal workflows and information access. This role focuses on assisting with prototype development, documentation, and governance support for AI-enabled solutions rather than owning production systems. The internship provides hands-on experience with applied AI concepts, process automation, and responsible AI practices within an enterprise environment.Shape This intern will be an active participant in the C.H. Guenther Internship Program cohort, receiving mentorship, professional development, and networking opportunities. C.H. Guenther is dedicated to delivering an enriching internship experience that goes beyond hands-on work to support long-term professional growth. The intern program will run from June 8 to August 14, 2026Duties and Responsibilities: Support the development and refinement of AI-enabled workflow prototypes that assist with internal information access and task automation. Assist with content organization and documentation to support AI-enabled knowledge retrieval and usability. Contribute to AI governance and responsible use efforts, including documentation, standards, and review materials. Support testing, validation, and iteration of AI-enabled tools to improve usability and reliability. Assist with high-level usage analysis and documentation to help inform improvement opportunities. Collaborate with IT and business partners to ensure AI-enabled solutions align with security, compliance, and usability expectations. Help create training, guidance, and handoff materials to support adoption and responsible use of AI tools. Document learnings, recommendations, and outcomes to support scalable and repeatable AI enablement practices.  Education: Junior or Senior currently pursuing a degree in Computer Science, Information Technology, Data Science, or a related field.  Experience, Knowledge, Skills, and Abilities: Foundational experience with AI-enabled tools, automation platforms, or chatbot technologies, with exposure to generative AI or agent-based systems required. Familiarity with workflow automation and low-code platforms (e.g., Microsoft Power Platform or similar tools). Working knowledge of programming or scripting languages (such as Python, JavaScript, or equivalent) used for automation or data workflows. Ability to analyze data and system outputs to identify patterns, risks, and improvement opportunities. Strong written and verbal communication skills, with the ability to document work and explain technical concepts to non-technical audiences. Demonstrated ability to collaborate effectively across technical and business teams. Interest in applying AI and automation to business process improvement, workforce enablement, or organizational efficiency.  Working Conditions and Physical Effort: Typical work in an office environment. Prolonged periods of sitting at a desk and working on a computer. Must be able to lift up and carry 15 pounds at times.  Expectations: Will demonstrate, promote, and exemplify the Company’s Core Values in Integrity & Respect, Empowerment, Accountability, Collaboration, and Agility.  Candidates relocating from a distance of more than 50 miles will be eligible for a housing stipend. At C.H. Guenther, we value transparency in compensation. By providing the salary range for this role, we aim to promote fairness and help candidates make informed choices about their career. The salary range for this role is: $17.58 - $27.33Actual compensation may vary based on job-related knowledge, skills, and experience, as well as geographic location.C.H. Guenther & Son will never offer or pay a wage or salary that is not compliant with applicable local, state, or federal pay laws, including minimum salary thresholds.We also offer a variety of benefits, including health and disability insurance, retirement savings options, flexible spending accounts, employee assistance programs, educational assistance, parental leave, paid time off, and company-paid holidays.​For additional information about our company, go to www.chg.com.C.H. Guenther & Son and its subsidiaries are E-Verify participating employers.Click here for more information regarding E-verify. All offers of employment are contingent upon successful completion of the pre-employment screening process which includes a drug screen and review of criminal background and other records as required.AA/EEO/Drug-Free Employer",
       "job_apply_link": "https://chg.wd5.myworkdayjobs.com/US_External_Career_Site/job/San-Antonio-TX-CH-Guenther/AI-Agents---Automation-Intern_R818642",
       "job_posted_at_datetime_utc": "2026-02-02T23:36:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "c-h-guenther-ai-agents-automation-intern-san-antonio"
+      "id": "c-h-guenther-ai-agents-automation-intern-san-antonio",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -482,17 +278,19 @@
       "employer_name": "Verkada",
       "job_city": "San Mateo",
       "job_state": "CA",
-      "job_description": "Join Verkada in this exciting opportunity.",
+      "job_description": "Who We Are Verkada is transforming how organizations protect their people and places with an integrated, AI-powered platform. A leader in cloud physical security, Verkada helps organizations strengthen safety and efficiency through one connected software platform that includes solutions for video security, access control, air quality sensors, alarms, intercoms, and visitor management.Over 30,000 organizations worldwide, including more than 100 companies in the Fortune 500, trust Verkada as their physical security layer for easier management, intelligent control, and scalable deployments. Founded in 2016, Verkada has expanded rapidly with 15 offices and 2,200+ full-time employees.About the Role Come join one of the fastest growing startups in Silicon Valley! Verkada is looking for an iOS Engineering intern to join our team for an exciting and challenging internship. As part of the iOS Engineering team, you will collaborate cross functionally to support the entire iOS application lifecycle, for both existing and new applications, enabling our best-in-class security systems. What You'll Do Support the entire mobile application lifecycle (concept, design, test, and release) in a fast paced environment for both existing and new mobile applications. Work in partnership with cross-functional teams to elaborate, design, and implement new features. Work in iterative sprints to design, develop, and test solutions. Build automation and tests to streamline development. What You Bring Ability to work at HQ in Summer 2026 or Fall 2026 Actively pursuing a degree in Computer Science (or similar degree plan). Proficient understanding Swift and iOS SDK. Experience writing multi-threaded, asynchronous code. Experience working with backend server APIs. Solid UI development and unit testing skills.Solid understanding of fundamental Computer Science concepts. Excellent interpersonal skills and ability to work well alongside engineers of all levels. US Intern Employee Benefits At Verkada, we’re committed to supporting the health, well-being, and personal growth of our interns. Our comprehensive benefits and perks are designed to promote a balanced and rewarding internship experience. Highlights include: After 90 days of active employment, interns are eligible for medical, dental, and vision insurance. We cover 100% of employee premiums under at least one medical plan and 80% of dependent premiums Time off to rest and recharge through personal sick time and volunteer time off to support causes you care about Healthy lunches, snacks, and coffee provided daily Pay Disclosure At Verkada, we want to attract and retain the best employees, and compensate them in a way that appropriately and fairly values their individual contribution to the company. With that in mind, we carefully consider a number of factors to determine the appropriate starting pay for an employee, including their primary work location and an assessment of a candidate’s skills and experience, as well as market demands and internal parity. This estimate can vary based on the factors described above, so the actual starting base pay may be above or below this range. Base pay is also just one component of Verkada’s total rewards package. A Verkada employee may be eligible for additional forms of compensation, depending on their role, including sales incentives, discretionary bonuses, and/or equity in the company in the form of Restricted Stock Units (RSUs).Estimated Hourly Pay Range$55 - $65 USDVerkada Is An Equal Opportunity Employer As an equal opportunity employer, Verkada is committed to providing employment opportunities to all individuals. All applicants for positions at Verkada will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law. Your application will be handled in accordance with our Candidate Privacy Policy.",
       "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5038878007",
       "job_posted_at_datetime_utc": "2026-02-02T23:35:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo"
+      "id": "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -501,17 +299,19 @@
       "employer_name": "Teledyne",
       "job_city": "Huntsville",
       "job_state": "AL",
-      "job_description": "Join Teledyne in this exciting opportunity.",
+      "job_description": "Be visionaryTeledyne Technologies Incorporated provides enabling technologies for industrial growth markets that require advanced technology and high reliability. These markets include aerospace and defense, factory automation, air and water quality environmental monitoring, electronics design and development, oceanographic research, deepwater oil and gas exploration and production, medical imaging and pharmaceutical research.​We are looking for individuals who thrive on making an impact and want the excitement of being on a team that wins.  Job Description  COMPANY OVERVIEW:Teledyne Brown Engineering (TBE), Inc. is an industry leader in engineered systems and advanced manufacturing. The company provides full-spectrum systems engineering, integration, manufacturing, and lifecycle sustainment solutions to the marine, aviation, aerospace, defense, energy, and environment markets. TBE has expertise in systems integration, technology development, hardware design, prototype development, system test and evaluation, advanced manufacturing, performance-based logistics solutions, and operations and maintenance.POSITION DESCRIPTION:Position Summary:TBE is seeking a Software Engineer Intern that will contribute to the design and development of the next generation of medical planning tools for NHRC. This internship is scheduled for a duration of approximately 3 months in the summer of 2026. Start and end dates are negotiable based on Spring and Fall school schedules. This position requires the candidate to work onsite in Huntsville, AL. The candidate is expected to provide their own housing during this internship.Position Responsibilities:DevelopmentImplement simple front-end or back-end features.Support browser compatibility testing and basic debugging under supervision.Fix minor bugs identified by the team.Team CollaborationParticipate in team meetings, sprint planning, and code reviews to learn about the software development lifecycle.Communicate progress clearly to mentors or team leaders.Learning & Continuous ImprovementShadow experienced software engineers to understand best practices in modular design, code reuse, and maintainability.Learn new technologies, tools, and workflows (e.g., .NET, Visual Studio, Azure DevOps).Take on small research or prototyping tasks to explore new features or technologies.QUALIFICATIONS:Education and Experience:Requires current enrollment in an accredited college or university with completion of at least two years toward a degree in Software Engineering, Computer Science, or a related field.Preferred Technical Skills:Strong foundation in an object-oriented programming language (C#, C++, Java, etc.)Basic knowledge of the following:Object‑oriented programming (classes, interfaces, encapsulation, inheritance).Data structures and algorithms (arrays, lists, stacks/queues, hash maps).Software design principles (modularity, separation of concerns).Any prior exposure to our technology stack is considered a plus; however, it is not a requirement for this position.C#.NET desktop development (WinForms, WPF).NET web development (Blazor, ASP.NET)Preferred Soft Skills:Clear Communication: Able to explain technical concepts in written and verbal form to diverse audiences and contribute meaningfully to team discussions. Asks questions in a timely manner when required to complete tasks.Collaborative Mindset: Works well in cross-functional teams and values shared success.Problem-Solving Orientation: Proactively identifies and resolves UI/UX challenges and performance issues.Adaptability: Comfortable with changing requirements and learning new technologies.Time Management: Effectively prioritizes tasks and meets deadlines.Citizenship Requirements:Due to classified work at the facility and related access restrictions, successful applicants must be U.S. citizens.#TBE  Teledyne and all of our employees are committed to conducting business with the highest ethical standards. We require all employees to comply with all applicable laws, regulations, rules and regulatory orders. Our reputation for honesty, integrity and high ethics is as important to us as our reputation for making innovative sensing solutions.Teledyne is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age, or any other characteristic or non-merit based factor made unlawful by federal, state, or local laws. ​",
       "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship_REQ32989",
       "job_posted_at_datetime_utc": "2026-02-02T23:33:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "teledyne-nhrc-software-engineering-intern-huntsville"
+      "id": "teledyne-nhrc-software-engineering-intern-huntsville",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -520,17 +320,19 @@
       "employer_name": "Avathon",
       "job_city": "Pleasanton",
       "job_state": "CA",
-      "job_description": "Join Avathon in this exciting opportunity.",
+      "job_description": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
       "job_apply_link": "https://avathon.com/company/careers-job-listing/?gh_jid=4655249005",
       "job_posted_at_datetime_utc": "2026-02-02T23:32:37.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "avathon-full-stack-engineering-intern-pleasanton"
+      "id": "avathon-full-stack-engineering-intern-pleasanton",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -539,17 +341,19 @@
       "employer_name": "Avathon",
       "job_city": "Pleasanton",
       "job_state": "CA",
-      "job_description": "Join Avathon in this exciting opportunity.",
+      "job_description": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
       "job_apply_link": "https://avathon.com/company/careers-job-listing/?gh_jid=4655247005",
       "job_posted_at_datetime_utc": "2026-02-02T23:32:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "avathon-data-scientist-intern-pleasanton"
+      "id": "avathon-data-scientist-intern-pleasanton",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -558,17 +362,19 @@
       "employer_name": "Wex",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Wex in this exciting opportunity.",
+      "job_description": "WEX Inc. is a global commerce platform that has been simplifying the way businesses operate for over 40 years. Our purpose is simple: to reduce administrative burdens, streamline payments, and manage mobility.With a team of over 7,200 professionals across 16 countries. Our specialties are employee benefits, business payments, and fleet/mobility solutions. We support more than 20 million SaaS accounts, 8 million Health Savings Accounts, and 19+ million vehicles worldwide. We're a growing company with a history of innovation and a focus on our customers, making this a great place to grow your career.The WEX Summer Internship Program: Learn, Lead, and Make an ImpactOur 13-week paid internship program, running from late May to mid-August, is a chance for you to gain real-world experience and develop your skills. Recruiting begins in January and continues through March at our various locations across the U.S.You won't just be a bystander; you'll work on impactful projects and contribute to WEX’s mission. We provide mentorship, professional development, and weekly learning experiences to help you build confidence and leadership skills. High-performing interns may even get the chance to lead their own initiatives.We offer remote, hybrid, and onsite options for flexibility, and our goal is to bring top interns back full-time or offer them extended roles during the school year. Imagine starting your career with a company that’s building what's next. Your future starts here.About the team/role:As a Fraud Data Analytics Intern, you will join the Fraud Analytics team for the summer, where you will have the opportunity to work alongside experienced data analysts learning how to blend complex data, do detailed data analysis, and create actionable dashboards. We are looking for an undergraduate level student who is passionate about data, excited to learn more about the FinTech industry, and interested in learning more about fraud analytics. How You’ll Make an ImpactData Support & Insight Generation:Identify Trends: Help connect business problems with data by performing guided analysis on fraud detection.Support Analysis: Assist in root cause analysis for specific fraud events to help the team improve coverage and efficiency.Blend Complex Data: Learn how to interact with different types of data structures and blend them together accurately and efficientlyReporting & Dashboarding:Maintain Visibility: Help update and maintain dashboards that track key metrics like fraud loss performance.Monitor Trends: Observe system KPIs and flag performance shifts to senior team members.Documentation: Assist in documenting data definitions and reporting logic to ensure team-wide consistency.Experience You’ll BringEducation:Currently pursuing a Bachelor’s degree in a quantitative field (e.g., Data Science, Economics, Computer Science, Statistics, or Data Analytics). Skills & Attributes:Foundational Tech Skills: Basic to intermediate knowledge of SQL and Python.Data Visualization: Familiarity with tools like Tableau, Power BI, Looker, or Excel.Analytical Mindset: A natural curiosity for \"solving the puzzle\" and a strong attention to detail.Collaboration: A desire to work in a fast-paced team environment and the ability to take direction and feedback constructively.Interest in Fraud: An interest in fraud typologies (Account Takeover, synthetic identity, etc.) and risk management is a plus.The base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the \"About Us\" section.Pay Range: $20.00 - $25.00",
       "job_apply_link": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Fraud-Data-Analyst_R20380",
       "job_posted_at_datetime_utc": "2026-02-02T23:32:33.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "wex-intern-fraud-data-analyst-remote-in-usa"
+      "id": "wex-intern-fraud-data-analyst-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -577,17 +383,19 @@
       "employer_name": "MKS Instruments",
       "job_city": "Beaverton",
       "job_state": "OR",
-      "job_description": "Join MKS Instruments in this exciting opportunity.",
+      "job_description": "A Day in Your Life at MKS:As a Software Engineer at MKS Instruments, Systems Business Unit, you will partner with the Engineering team to develop full stack, distributed software applications and services. In this role, you will report to the Manager, Data Services Development Team.You Will Make an Impact By:Developing gRPC, REST APIs and Worker Services using .NET Core / C#Develop relational and document data storage schemasDevelop browser-based software applications using JavaScript, HTML, CSSWrite mocked unit tests, Integration tests and End to End testsCreate automated pipelines that build, test, package and deploy softwareWrite software documentationTravel Requirements: Travel is not required for this role.Skills You Bring:Experience with Object Oriented ProgrammingExperience with C, C++, C#, JavaScript, Golang, PythonExperience with HTML & CSSExperience with Unit and Integration Testing conceptsPreferred Skills:.NET CoreC#SQLPhysical Demands and Working Conditions:Ability to work at a computer for extended periods of timeAbility to work in a hybrid work model (home / office)Compensation and Benefits:Hourly Pay Range: $27.00 per hour. This range is a good faith estimate of the expected salary range for this position, based on a wide range of factors including qualifications, experience and training, operational and business needs and other considerations permitted by law. At MKS, it is not typical for an individual to be hired at or near the top of the range for the role.    Benefits: MKS offers a benefits package for interns/co-ops working at least 20 hours per week, including 11 paid holidays, sick time, and 15 paid vacation days accrued on a biweekly basis. MKS is an equal opportunity employer, including disability, veteran status and all categories protected by law. Please review our EOE statements for additional details.#LI-DNIGlobally, our policy is to recruit individuals from wide and diverse backgrounds. However, certain positions require access to controlled goods and technologies subject to the International Traffic in Arms Regulations (ITAR) or Export Administration Regulations (EAR). Applicants for these positions may need to be “U.S. persons.” “U.S. persons” are generally defined as U.S. citizens, noncitizen nationals, lawful permanent residents (or, green card holders), individuals granted asylum, and individuals admitted as refugees.MKS Inc. and its affiliates and subsidiaries (“MKS”) is an affirmative action and equal opportunity employer: diverse candidates are encouraged to apply. We win as a team and are committed to recruiting and hiring qualified applicants regardless of race, color, national origin, sex (including pregnancy and pregnancy-related conditions), religion, age, ancestry, physical or mental disability or handicap, marital status, membership in the uniformed services, veteran status, sexual orientation, gender identity or expression, genetic information, or any other category protected by applicable law. Hiring decisions are based on merit, qualifications and business needs. We conduct background checks and drug screens, in accordance with applicable law and company policies.  MKS is generally only hiring candidates who reside in states where we are registered to do business.MKS is committed to working with and providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation during the application or interview process due to a disability, please contact us at: accommodationsatMKS@mksinst.com .If applying for a specific job, please include the requisition number (ex: RXXXX), the title and location of the role",
       "job_apply_link": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2026-Spring-Software-Engineering-MECOP-Intern_R14517",
       "job_posted_at_datetime_utc": "2026-02-02T23:30:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "mks-instruments-software-engineer-intern-beaverton"
+      "id": "mks-instruments-software-engineer-intern-beaverton",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {
@@ -596,17 +404,19 @@
       "employer_name": "MKS Instruments",
       "job_city": "Beaverton",
       "job_state": "OR",
-      "job_description": "Join MKS Instruments in this exciting opportunity.",
+      "job_description": "A Day in Your Life at MKS:As a Computer Science Intern at MKS, you will partner with the Systems Quality & Reliability group to develop software applications to improve our processes.  In this role, you will report to the Senior Director of Quality.Internship Program Overview: 6-month intern assignment within a functional area of MKS Inc. that provides students a comprehensive and engaging experience from before your program starts to after the program ends.Meaningful work and project assignments.Networking opportunities with peers and executives.Exposure to different divisions of the business.Understanding of MKS Instruments’ commitment to culture & belonging.You Will Make an Impact By:Develop and Implement Automated Log Parsing Solutions: Design and build Python-based applications or scripts to intelligently parse complex system log files, automatically extracting, filtering, and structuring critical performance parameters from system reliability life tests. Identify trends or anomalies.  Enhance Existing Applications and SharePoint Sites: Update and improve current internal applications and the failure reporting SharePoint sites by implementing new features, optimizing performance, and enhancing user experience to better support quality team collaboration.Develop Interactive Dashboards and Reports: Design and create compelling Power BI reports and dashboards that effectively visualize quality data trends.  Develop Smartsheet Solutions: Design and implement Smartsheet layouts, creating templates to effectively capture and organize action items for various projects or teams.  Leverage Smartsheet's automation capabilities (e.g., automated alerts, update requests, approval workflows) to streamline the action item tracking process, reduce manual effort, and improve communication efficiency.Assist in System Software Development and Testing: Work alongside experienced engineers to write, debug, and test code for new features, bug fixes, or internal tools. This could involve contributing to various stages of the software development lifecycle.Create and Maintain Documentation: Develop and update technical documentation, user manuals, design documents, or code comments, to ensure clarity and maintainability for the development team.Skills You Bring:Accepted into MECOP programCompleted 2 years toward Computer Science BS DegreePreferred Skills: Software EngineeringData SciencePhysical Demands & Working Conditions:Perform activities such as sitting, standing, or typing for extended periods of timeRegularly requires good manual dexterity and coordinationMust be able to communicate information and ideas so others will understandMust be able to exchange accurate informationThe ability to observe documents and details at close range (within a few feet of the observer)Operates in a professional office environmentConstantly operates a computer and other office productivity machineryNoise level in the work environment is usually average Compensation and Benefits:Hourly Pay Range: $27.00 per hour. This range is a good faith estimate of the expected salary range for this position, based on a wide range of factors including qualifications, experience and training, operational and business needs and other considerations permitted by law. At MKS, it is not typical for an individual to be hired at or near the top of the range for the role.    Benefits: MKS offers a benefits package for interns/co-ops working at least 20 hours per week, including 11 paid holidays, sick time, and 15 paid vacation days accrued on a biweekly basis. MKS is an equal opportunity employer, including disability, veteran status and all categories protected by law. Please review our EOE statements for additional details.#LI-DNIGlobally, our policy is to recruit individuals from wide and diverse backgrounds. However, certain positions require access to controlled goods and technologies subject to the International Traffic in Arms Regulations (ITAR) or Export Administration Regulations (EAR). Applicants for these positions may need to be “U.S. persons.” “U.S. persons” are generally defined as U.S. citizens, noncitizen nationals, lawful permanent residents (or, green card holders), individuals granted asylum, and individuals admitted as refugees.MKS Inc. and its affiliates and subsidiaries (“MKS”) is an affirmative action and equal opportunity employer: diverse candidates are encouraged to apply. We win as a team and are committed to recruiting and hiring qualified applicants regardless of race, color, national origin, sex (including pregnancy and pregnancy-related conditions), religion, age, ancestry, physical or mental disability or handicap, marital status, membership in the uniformed services, veteran status, sexual orientation, gender identity or expression, genetic information, or any other category protected by applicable law. Hiring decisions are based on merit, qualifications and business needs. We conduct background checks and drug screens, in accordance with applicable law and company policies.  MKS is generally only hiring candidates who reside in states where we are registered to do business.MKS is committed to working with and providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation during the application or interview process due to a disability, please contact us at: accommodationsatMKS@mksinst.com .If applying for a specific job, please include the requisition number (ex: RXXXX), the title and location of the role",
       "job_apply_link": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2026-Spring-Summer-Computer-Science-MECOP-Intern_R14487",
       "job_posted_at_datetime_utc": "2026-02-02T23:30:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "mks-instruments-computer-science-mecop-intern-beaverton"
+      "id": "mks-instruments-computer-science-mecop-intern-beaverton",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T08:29:27.817Z",
     "postedAt": null
   },
   {

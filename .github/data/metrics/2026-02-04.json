@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T08:14:11.901Z",
+  "generated": "2026-02-04T08:30:05.318Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T08:14:11.901Z",
-  "period_end": "2026-02-04T08:14:11.901Z",
+  "period_start": "2026-01-28T08:30:05.318Z",
+  "period_end": "2026-02-04T08:30:05.318Z",
   "summary": {
-    "total_jobs_posted": 90,
-    "unique_jobs": 90,
+    "total_jobs_posted": 100,
+    "unique_jobs": 100,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 37,
+      "count": 39,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -53,21 +53,11 @@
         "leidos-human-centered-ai-intern-remote-in-usa",
         "toyota-research-institute-energy-materials-intern-generative-models-and-reinforcement-learning-mountain-view",
         "crowdstrike-data-science-intern-remote-in-usa",
-        "harman-international-intern-data-visualization-experiential-research-and-development-novi"
+        "harman-international-intern-data-visualization-experiential-research-and-development-novi",
+        "t-mobile-context-engineer-ai-chatbot-intern-bellevue",
+        "bio-techne-ai-engineering-intern-minneapolis"
       ],
       "recent_jobs": [
-        {
-          "id": "zoom-ai-ml-intern-agentic-retrieval-enterprise-rag-seattle",
-          "title": "AI/ML Intern - Agentic Retrieval & Enterprise RAG",
-          "company": "Zoom",
-          "posted_at": "2026-02-04T06:49:06.159Z"
-        },
-        {
-          "id": "respec-student-engineering-intern-data-science-rapid-city",
-          "title": "Student Engineering Intern - Data Science",
-          "company": "RESPEC",
-          "posted_at": "2026-02-04T06:49:07.895Z"
-        },
         {
           "id": "anomali-software-engineer-intern-san-carlos",
           "title": "Software Engineer Intern",
@@ -115,12 +105,24 @@
           "title": "Intern - Data Visualization - Experiential Research and Development",
           "company": "HARMAN International",
           "posted_at": "2026-02-04T08:14:00.374Z"
+        },
+        {
+          "id": "t-mobile-context-engineer-ai-chatbot-intern-bellevue",
+          "title": "Context Engineer – AI Chatbot Intern",
+          "company": "T-Mobile",
+          "posted_at": "2026-02-04T08:29:56.888Z"
+        },
+        {
+          "id": "bio-techne-ai-engineering-intern-minneapolis",
+          "title": "AI Engineering Intern",
+          "company": "Bio-Techne",
+          "posted_at": "2026-02-04T08:29:58.559Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 22,
+      "count": 24,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -143,21 +145,11 @@
         "bose-data-analytics-engineer-intern-co-op-framingham",
         "jabil-data-governance-business-systems-analyst-intern-remote-in-usa",
         "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan",
-        "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan"
+        "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan",
+        "qts-energy-markets-data-analytics-intern-duluth",
+        "international-monetary-fund-fund-internship-program-change-management-and-data-management-internship-fip-corporate-services-and-facilities-department-washington"
       ],
       "recent_jobs": [
-        {
-          "id": "sharp-electronics-intern-solutions-and-services-ai-and-data-analytics-downers-grove",
-          "title": "Intern-Solutions and Services - AI and Data Analytics",
-          "company": "Sharp Electronics",
-          "posted_at": "2026-02-04T07:21:20.579Z"
-        },
-        {
-          "id": "the-walt-disney-company-content-brand-insights-intern-burbank",
-          "title": "Content & Brand Insights Intern",
-          "company": "The Walt Disney Company",
-          "posted_at": "2026-02-04T07:48:20.422Z"
-        },
         {
           "id": "caterpillar-intern-manufacturing-engineering-data-analysis-west-lafayette",
           "title": "Intern - Manufacturing Engineering - Data Analysis",
@@ -205,12 +197,24 @@
           "title": "Intern Enterprise Data Analyst",
           "company": "Blue Cross and Blue Shield of Minnesota",
           "posted_at": "2026-02-04T08:13:51.479Z"
+        },
+        {
+          "id": "qts-energy-markets-data-analytics-intern-duluth",
+          "title": "Energy Markets Data Analytics Intern",
+          "company": "QTS",
+          "posted_at": "2026-02-04T08:29:43.818Z"
+        },
+        {
+          "id": "international-monetary-fund-fund-internship-program-change-management-and-data-management-internship-fip-corporate-services-and-facilities-department-washington",
+          "title": "Fund Internship Program – Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department",
+          "company": "International Monetary Fund",
+          "posted_at": "2026-02-04T08:29:45.564Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 24,
+      "count": 27,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -235,27 +239,12 @@
         "rocket-companies-database-engineer-intern-detroit",
         "vanderlande-industries-supply-chain-data-analytics-intern-marietta",
         "general-dynamics-mission-software-engineer-intern-bloomington",
-        "kaiser-permanente-data-analytics-bachelor-intern-pleasanton"
+        "kaiser-permanente-data-analytics-bachelor-intern-pleasanton",
+        "microsoft-research-intern-agentic-programming-redmond",
+        "national-renewable-energy-laboratory-undergraduate-graduate-intern-year-round-transportation-research-software-engineering-golden",
+        "rtx-intern-software-engineer-intern-aurora"
       ],
       "recent_jobs": [
-        {
-          "id": "vanderlande-industries-controls-support-engineer-intern-marietta",
-          "title": "Controls Support Engineer – Intern",
-          "company": "Vanderlande Industries",
-          "posted_at": "2026-02-04T06:49:12.642Z"
-        },
-        {
-          "id": "vanderlande-industries-software-engineer-intern-marietta",
-          "title": "Software Engineer Intern",
-          "company": "Vanderlande Industries",
-          "posted_at": "2026-02-04T06:49:14.455Z"
-        },
-        {
-          "id": "emerson-electric-software-engineering-intern-austin",
-          "title": "Software Engineering Intern",
-          "company": "Emerson Electric",
-          "posted_at": "2026-02-04T06:49:16.164Z"
-        },
         {
           "id": "powell-r-d-software-engineering-intern-houston",
           "title": "R&D Software Engineering Intern",
@@ -297,19 +286,39 @@
           "title": "Data Analytics Bachelor Intern",
           "company": "Kaiser Permanente",
           "posted_at": "2026-02-04T07:48:32.389Z"
+        },
+        {
+          "id": "microsoft-research-intern-agentic-programming-redmond",
+          "title": "Research Intern - Agentic Programming",
+          "company": "Microsoft",
+          "posted_at": "2026-02-04T08:29:30.834Z"
+        },
+        {
+          "id": "national-renewable-energy-laboratory-undergraduate-graduate-intern-year-round-transportation-research-software-engineering-golden",
+          "title": "Undergraduate/Graduate – Intern - Year-Round - Transportation Research Software Engineering",
+          "company": "National Renewable Energy Laboratory",
+          "posted_at": "2026-02-04T08:29:32.600Z"
+        },
+        {
+          "id": "rtx-intern-software-engineer-intern-aurora",
+          "title": "Intern – Software Engineer Intern",
+          "company": "RTX",
+          "posted_at": "2026-02-04T08:29:34.337Z"
         }
       ]
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 6,
+      "count": 8,
       "jobs": [
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
         "rtx-2026-returning-intern-cambridge",
         "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
-        "intel-mecop-intern-hillsboro"
+        "intel-mecop-intern-hillsboro",
+        "sila-nanotechnologies-battery-simulation-computational-scientist-intern-alameda",
+        "aveva-services-intern-houston"
       ],
       "recent_jobs": [
         {
@@ -347,14 +356,27 @@
           "title": "Mecop Intern",
           "company": "Intel",
           "posted_at": "2026-02-04T07:48:45.855Z"
+        },
+        {
+          "id": "sila-nanotechnologies-battery-simulation-computational-scientist-intern-alameda",
+          "title": "Battery Simulation & Computational Scientist Intern",
+          "company": "Sila Nanotechnologies",
+          "posted_at": "2026-02-04T08:29:50.463Z"
+        },
+        {
+          "id": "aveva-services-intern-houston",
+          "title": "Services Intern",
+          "company": "AVEVA",
+          "posted_at": "2026-02-04T08:29:52.159Z"
         }
       ]
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 1,
+      "count": 2,
       "jobs": [
-        "nasdaq-research-development-intern-atlanta"
+        "nasdaq-research-development-intern-atlanta",
+        "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden"
       ],
       "recent_jobs": [
         {
@@ -362,6 +384,12 @@
           "title": "Research & Development Intern",
           "company": "Nasdaq",
           "posted_at": "2026-02-04T08:14:05.183Z"
+        },
+        {
+          "id": "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
+          "title": "Graduate Intern - Year-Round - Transportation Systems Analysis",
+          "company": "National Renewable Energy Laboratory",
+          "posted_at": "2026-02-04T08:29:39.085Z"
         }
       ]
     }
