@@ -30400,5 +30400,71 @@
     "job_title": "Software Engineer Intern [Backend, Rust]",
     "company": "N1",
     "first_seen": "2026-02-04T04:38:30.522Z"
+  },
+  "robert-bosch-venture-capital-llm-&-agentic-ai-r&d-intern-sunnyvale": {
+    "assigned_date": "2026-02-04T04:59:39.381Z",
+    "job_title": "LLM & Agentic AI R&D Intern",
+    "company": "Robert Bosch Venture Capital",
+    "first_seen": "2026-02-04T04:59:39.381Z"
+  },
+  "intuitive-surgical-business-systems-analyst-intern-sunnyvale": {
+    "assigned_date": "2026-02-04T04:59:39.381Z",
+    "job_title": "Business Systems Analyst Intern",
+    "company": "Intuitive Surgical",
+    "first_seen": "2026-02-04T04:59:39.381Z"
+  },
+  "abb-is-salesforce.com-agile-delivery-intern-summer-2026-morrisville": {
+    "assigned_date": "2026-02-04T04:59:39.381Z",
+    "job_title": "IS Salesforce.com Agile Delivery Intern-Summer 2026",
+    "company": "ABB",
+    "first_seen": "2026-02-04T04:59:39.381Z"
+  },
+  "delta-dental-intern---application-developer-east-lansing": {
+    "assigned_date": "2026-02-04T04:59:39.381Z",
+    "job_title": "Intern - Application Developer",
+    "company": "Delta Dental",
+    "first_seen": "2026-02-04T04:59:39.381Z"
+  },
+  "general-dynamics-mission-systems-sw-engineering-intern-brooklyn": {
+    "assigned_date": "2026-02-04T04:59:39.381Z",
+    "job_title": "SW Engineering Intern",
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2026-02-04T04:59:39.381Z"
+  },
+  "tenstorrent-ai-architecture-intern-boston": {
+    "assigned_date": "2026-02-04T04:59:39.381Z",
+    "job_title": "AI Architecture Intern",
+    "company": "Tenstorrent",
+    "first_seen": "2026-02-04T04:59:39.381Z"
+  },
+  "evolve-technology-quality-analytics-intern-waltham": {
+    "assigned_date": "2026-02-04T04:59:39.381Z",
+    "job_title": "Quality Analytics Intern",
+    "company": "Evolve Technology",
+    "first_seen": "2026-02-04T04:59:39.381Z"
+  },
+  "leidos-human-factors-research-intern-arlington": {
+    "assigned_date": "2026-02-04T04:59:39.382Z",
+    "job_title": "Human Factors Research Intern",
+    "company": "Leidos",
+    "first_seen": "2026-02-04T04:59:39.382Z"
+  },
+  "bytedance-student-researcher-intern---doubao-foundation-model-team','seed','2026-start','phd-san-jose": {
+    "assigned_date": "2026-02-04T04:59:39.382Z",
+    "job_title": "Student Researcher Intern - Doubao Foundation Model Team','Seed','2026 Start','PhD",
+    "company": "ByteDance",
+    "first_seen": "2026-02-04T04:59:39.382Z"
+  },
+  "hewlett-packard-enterprise-ai-customer-engagement-analyst-intern-andover": {
+    "assigned_date": "2026-02-04T04:59:39.387Z",
+    "job_title": "AI Customer Engagement Analyst Intern",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2026-02-04T04:59:39.387Z"
+  },
+  "w.w.-grainger-gtg-intern---applied-machine-learning-chicago": {
+    "assigned_date": "2026-02-04T04:59:39.387Z",
+    "job_title": "GTG Intern - Applied Machine Learning",
+    "company": "W.W. Grainger",
+    "first_seen": "2026-02-04T04:59:39.387Z"
   }
 }
