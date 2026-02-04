@@ -1,0 +1,26 @@
+{
+  "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Development_R1854",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Experience GuideStone!We are an innovative organization that invests in the spiritual, relational, financial, physical and professional development of our employees. We have a culture that values excellence, teamwork, humility, integrity, compassion and stewardship.What We Offer You!We offer employees a generous benefits package, flexible work schedules, the opportunity to be involved in community outreach and tuition reimbursement.The Summer Intern – Software Developer will report to and work within the Software Development department. The role includes training and hands-on experience as a full-stack professional software developer. As a full-stack developer, you will develop, enhance, maintain, and support our codebase of custom applications and interfaces to third-party vendor products. Work will be completed in both team and individual settings. Candidates must have permanent U.S. work authorization; we do not sponsor employment visas or accept students on a student visa. What you will do:Train as a full-stack professional software developer.  Your training will be a blend of videos, reading, researching, coding exercises, and completing an initial project.After training is completed, you will be assigned projects pulled from various Scrum Team’s backlogs. The work will primarily be web application development using Microsoft tools and frameworks deployed to Azure (Microsoft’s cloud).  You can expect to work in C#, Razor, JavaScript, HTML, CSS, MVC, WebForms, SQL, and Git.  The tools you will use are Visual Studio for application development, SQL Server Management Studio for SQL coding, and Azure Pipelines for CI/CD. Follow standards for each of the programming languages you use.Apply software patterns and best practices to write code and automated tests.Utilize Azure for CI/CD, searching code repositories, updating release variables, and researching issues.Submit Pull Requests (PR) for changes you make to code.  Your PRs will be reviewed for completeness, accuracy, and adherence to standards.Meet regularly with your manager to provide updates on your progress.Learn various parts of GuideStone’s business.Document learnings in markdown. What you will need:Candidates must have permanent U.S. work authorization; we do not sponsor employment visas or accept candidates on student visas (e.g., F-1, CPT, OPT).Must be a student in a Computer Science or Management of Information Systems (BS) degree program.Must be a current student throughout the duration of the intern program.Students in their senior year (expected graduation by August or December 2026) are preferred.Minimum GPA of 3.0 required.Completed at least one programming class or provided evidence of completed projects (multiple) in one programming language.Strong culture fit with GuideStone.Desire to continuously learn.Generally curious with an emphasis in technology and learning.Work well independently and within a team.Enthusiasm for working in Microsoft technologies.Enjoy problem solving.#LI-DNP",
+    "requirements": [
+      "Candidates must have permanent U.S. work authorization; we do not sponsor employment visas or accept candidates on student visas (e.g., F-1, CPT, OPT).",
+      "Must be a student in a Computer Science or Management of Information Systems (BS) degree program.",
+      "Students in their senior year (expected graduation by August or December 2026) are preferred.",
+      "Minimum GPA of 3.0 required."
+    ],
+    "responsibilities": [
+      "Train as a full-stack professional software developer.  Your training will be a blend of videos, reading, researching, coding exercises, and completing an initial project.",
+      "After training is completed, you will be assigned projects pulled from various Scrum Team’s backlogs.",
+      "The work will primarily be web application development using Microsoft tools and frameworks deployed to Azure (Microsoft’s cloud).  You can expect to work in C#, Razor, JavaScript, HTML, CSS, MVC, WebForms, SQL, and Git.  The tools you will use are Visual Studio for application development, SQL Server Management Studio for SQL coding, and Azure Pipelines for CI/CD.",
+      "Submit Pull Requests (PR) for changes you make to code.  Your PRs will be reviewed for completeness, accuracy, and adherence to standards."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Development_R1854",
+      "fetchedAt": "2026-02-04T09:16:58.394Z"
+    }
+  },
+  "cachedAt": 1770196618394
+}

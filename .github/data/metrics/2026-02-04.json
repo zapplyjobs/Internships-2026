@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T08:51:40.400Z",
+  "generated": "2026-02-04T09:17:33.751Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T08:51:40.400Z",
-  "period_end": "2026-02-04T08:51:40.400Z",
+  "period_start": "2026-01-28T09:17:33.751Z",
+  "period_end": "2026-02-04T09:17:33.751Z",
   "summary": {
-    "total_jobs_posted": 110,
-    "unique_jobs": 110,
+    "total_jobs_posted": 119,
+    "unique_jobs": 119,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 41,
+      "count": 45,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -57,33 +57,13 @@
         "t-mobile-context-engineer-ai-chatbot-intern-bellevue",
         "bio-techne-ai-engineering-intern-minneapolis",
         "aveva-services-intern-lake-forest",
-        "c-h-guenther-ai-agents-automation-intern-san-antonio"
+        "c-h-guenther-ai-agents-automation-intern-san-antonio",
+        "merck-future-talent-program-generative-ai-research-intern-natural-language-processing-cambridge",
+        "apptronik-perception-software-intern-humanoid-robotics-austin",
+        "kla-computer-vision-machine-learning-intern-milpitas",
+        "genentech-2026-summer-intern-regev-lab-feedback-driven-ai-systems-san-bruno"
       ],
       "recent_jobs": [
-        {
-          "id": "guidewire-cyber-risk-data-science-intern-san-mateo",
-          "title": "Cyber Risk Data Science Intern",
-          "company": "Guidewire",
-          "posted_at": "2026-02-04T07:48:37.223Z"
-        },
-        {
-          "id": "finastra-ai-engineer-intern-atlanta",
-          "title": "AI Engineer Intern",
-          "company": "Finastra",
-          "posted_at": "2026-02-04T07:48:39.170Z"
-        },
-        {
-          "id": "leidos-human-centered-ai-intern-remote-in-usa",
-          "title": "Human-Centered AI Intern",
-          "company": "Leidos",
-          "posted_at": "2026-02-04T07:48:40.982Z"
-        },
-        {
-          "id": "toyota-research-institute-energy-materials-intern-generative-models-and-reinforcement-learning-mountain-view",
-          "title": "Energy & Materials Intern - Generative Models and Reinforcement Learning",
-          "company": "Toyota Research Institute",
-          "posted_at": "2026-02-04T08:13:56.200Z"
-        },
         {
           "id": "crowdstrike-data-science-intern-remote-in-usa",
           "title": "Data Science Intern",
@@ -119,12 +99,36 @@
           "title": "AI Agents & Automation Intern",
           "company": "C.H. Guenther",
           "posted_at": "2026-02-04T08:51:09.929Z"
+        },
+        {
+          "id": "merck-future-talent-program-generative-ai-research-intern-natural-language-processing-cambridge",
+          "title": "Future Talent Program – Generative AI Research Intern - Natural Language Processing",
+          "company": "Merck",
+          "posted_at": "2026-02-04T09:17:06.898Z"
+        },
+        {
+          "id": "apptronik-perception-software-intern-humanoid-robotics-austin",
+          "title": "Perception Software Intern - Humanoid Robotics",
+          "company": "Apptronik",
+          "posted_at": "2026-02-04T09:17:08.674Z"
+        },
+        {
+          "id": "kla-computer-vision-machine-learning-intern-milpitas",
+          "title": "Computer Vision/Machine Learning Intern",
+          "company": "KLA",
+          "posted_at": "2026-02-04T09:17:10.482Z"
+        },
+        {
+          "id": "genentech-2026-summer-intern-regev-lab-feedback-driven-ai-systems-san-bruno",
+          "title": "2026 Summer Intern - Regev Lab - Feedback Driven AI Systems",
+          "company": "Genentech",
+          "posted_at": "2026-02-04T09:17:12.203Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 27,
+      "count": 29,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -152,21 +156,11 @@
         "international-monetary-fund-fund-internship-program-change-management-and-data-management-internship-fip-corporate-services-and-facilities-department-washington",
         "thermo-fisher-scientific-data-analyst-intern-morrisville",
         "avathon-data-scientist-intern-pleasanton",
-        "wex-intern-fraud-data-analyst-remote-in-usa"
+        "wex-intern-fraud-data-analyst-remote-in-usa",
+        "breeze-airways-data-analyst-intern-revenue-optimization-summer-2026-cottonwood-heights",
+        "four-hands-data-analytics-intern-austin"
       ],
       "recent_jobs": [
-        {
-          "id": "bose-data-engineer-intern-co-op-framingham",
-          "title": "Data Engineer Intern/Co-op",
-          "company": "Bose",
-          "posted_at": "2026-02-04T08:13:44.283Z"
-        },
-        {
-          "id": "bose-data-analytics-engineer-intern-co-op-framingham",
-          "title": "Data Analytics Engineer Intern/Co-op",
-          "company": "Bose",
-          "posted_at": "2026-02-04T08:13:46.062Z"
-        },
         {
           "id": "jabil-data-governance-business-systems-analyst-intern-remote-in-usa",
           "title": "Data Governance Business Systems Analyst Intern",
@@ -214,12 +208,24 @@
           "title": "Intern – Fraud Data Analyst",
           "company": "Wex",
           "posted_at": "2026-02-04T08:51:18.511Z"
+        },
+        {
+          "id": "breeze-airways-data-analyst-intern-revenue-optimization-summer-2026-cottonwood-heights",
+          "title": "Data Analyst Intern - Revenue Optimization - Summer 2026",
+          "company": "Breeze Airways",
+          "posted_at": "2026-02-04T09:17:17.117Z"
+        },
+        {
+          "id": "four-hands-data-analytics-intern-austin",
+          "title": "Data Analytics Intern",
+          "company": "Four Hands",
+          "posted_at": "2026-02-04T09:17:18.852Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 31,
+      "count": 34,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -251,27 +257,12 @@
         "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo",
         "teledyne-nhrc-software-engineering-intern-huntsville",
         "avathon-full-stack-engineering-intern-pleasanton",
-        "mks-instruments-software-engineer-intern-beaverton"
+        "mks-instruments-software-engineer-intern-beaverton",
+        "warner-bros-wb-games-netherrealm-software-engineering-intern-co-op-chicago",
+        "wsp-geologist-geophysicist-intern-geologist-geophysicist-redmond",
+        "oracle-ada-intern-nashville"
       ],
       "recent_jobs": [
-        {
-          "id": "vanderlande-industries-supply-chain-data-analytics-intern-marietta",
-          "title": "Supply Chain Data & Analytics Intern",
-          "company": "Vanderlande Industries",
-          "posted_at": "2026-02-04T07:48:28.840Z"
-        },
-        {
-          "id": "general-dynamics-mission-software-engineer-intern-bloomington",
-          "title": "Software Engineer Intern",
-          "company": "General Dynamics Mission Systems",
-          "posted_at": "2026-02-04T07:48:30.590Z"
-        },
-        {
-          "id": "kaiser-permanente-data-analytics-bachelor-intern-pleasanton",
-          "title": "Data Analytics Bachelor Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-02-04T07:48:32.389Z"
-        },
         {
           "id": "microsoft-research-intern-agentic-programming-redmond",
           "title": "Research Intern - Agentic Programming",
@@ -313,6 +304,24 @@
           "title": "Software Engineer Intern",
           "company": "MKS Instruments",
           "posted_at": "2026-02-04T08:51:28.780Z"
+        },
+        {
+          "id": "warner-bros-wb-games-netherrealm-software-engineering-intern-co-op-chicago",
+          "title": "WB Games NetherRealm Software Engineering Intern/Co-op",
+          "company": "Warner Bros.",
+          "posted_at": "2026-02-04T09:17:23.567Z"
+        },
+        {
+          "id": "wsp-geologist-geophysicist-intern-geologist-geophysicist-redmond",
+          "title": "Geologist Geophysicist Intern - Geologist / Geophysicist",
+          "company": "WSP",
+          "posted_at": "2026-02-04T09:17:25.273Z"
+        },
+        {
+          "id": "oracle-ada-intern-nashville",
+          "title": "Ada Intern",
+          "company": "Oracle",
+          "posted_at": "2026-02-04T09:17:27.029Z"
         }
       ]
     },
