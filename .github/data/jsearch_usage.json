@@ -1,14 +1,16 @@
 {
   "date": "2026-02-04",
-  "requests": 2,
-  "remaining": 4,
+  "requests": 3,
+  "remaining": 3,
   "queries_executed": [
+    "product manager intern",
     "product manager intern",
     "product manager intern"
   ],
   "metrics": {
     "jobs_per_query": {
       "product manager intern": [
+        0,
         0,
         0
       ]
