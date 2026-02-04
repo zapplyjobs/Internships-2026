@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-04T15:17:12.842Z",
+  "lastUpdated": "2026-02-04T15:48:12.918Z",
   "jobs": [
     {
       "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
@@ -14109,14 +14109,119 @@
       "job_city": "Leander",
       "job_state": "TX",
       "job_description": "Our vision is to transform how the world uses information to enrich life for all.Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.DescriptionThis internship project focuses on automating Micron’s Document E‑Copy Request process by leveraging Micron AI tools to eliminate manual intervention and enhance efficiency. You will work closely with document control teams and backend manufacturing stakeholders to understand existing workflows and transform them into an automated, scalable digital solution.Opportunities for full-time employment may be available based on performance and business needs.ScopeDuring the internship, you will:Gain a comprehensive understanding of backend manufacturing document control workflows and how controlled documents are managed across systems.Learn how Micron’s AI platforms and automation tools are used in real operations.Apply Micron AI capabilities to automate the E‑Copy request workflow, improving speed, accuracy, and compliance.Participate in discussions with engineering, quality, and IT teams to align requirements and build a deployable automation solution.DeliverableDevelop and deliver a fully functional automated E‑Copy document system, integrated with Micron AI tools and designed to reduce manual steps and streamline requests.RequirementsCurrently pursuing an undergraduate degree in Mechanical, Materials, Electrical, Electronics, or Computer Engineering, or a closely related discipline.Strong initiative, leadership traits, and a growth mindset; able to work independently with accountability.Ability to meet objectives within tight timelines using strong problem‑solving and prioritization skills.Excellent written and verbal communication skills, able to convey ideas clearly and influence stakeholders.Ability to collaborate effectively with diverse teams across functions; skilled in building alignment and relationships.Maintains a constructive, team‑oriented mindset even in challenging situations.Embraces continuous learning, adaptability, and openness to feedback.Structured thinker with a data‑driven approach to identifying root causes and developing sustainable solutions.High attention to detail, ensuring accuracy and compliance in documentation and reporting.Familiarity with AI and automation tools such as Python, Power Automate, Power Apps, Power BI, and Tableau.Knowledge of engineering and quality systems (e.g., FMEA, Change Management, MSA, Calibration) is advantageous.Demonstrates Micron’s core values: People, Innovation, Tenacity, Collaboration, and Customer Focus.About Micron Technology, Inc.We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.To learn more, please visit micron.com/careersAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.To request assistance with the application process and/or for reasonable accommodations, please contact hrsupport_sg@micron.comMicron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.AI alert: Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.   Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc."
+    },
+    {
+      "id": "664a85fbf7b6e13b-2026-02-04-1",
+      "jobId": "664a85fbf7b6e13b",
+      "company": "onsemi",
+      "title": "LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems",
+      "postedToDiscord": "2026-02-04T15:47:55.452Z",
+      "sourceDate": "2026-02-04T15:18:04.000Z",
+      "sourceUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970",
+      "discordPosts": {
+        "1464303204178067620": {
+          "messageId": "1468634183659421757",
+          "channelType": "category",
+          "postedAt": "2026-02-04T15:47:55.452Z",
+          "channelJobNumber": 150
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Fairview",
+      "job_state": "OR",
+      "job_description": "onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure. With a highly differentiated and innovative product portfolio, onsemi creates intelligent power and sensing technologies that solve the world’s most complex challenges and leads the way in creating a safer, cleaner, and smarter world. Here at onsemi we take great pride in our internship program and the efforts we take to provide students with hands-on industry experience. We provide competitive pay, medical benefits, various networking event opportunities, and flexible hours based on school schedule."
+    },
+    {
+      "id": "f9c450ad9b953234-2026-02-04-1",
+      "jobId": "f9c450ad9b953234",
+      "company": "onsemi",
+      "title": "Summer 2026 – Quality and Reliability Intern SAN JOSE",
+      "postedToDiscord": "2026-02-04T15:48:00.272Z",
+      "sourceDate": "2026-02-04T15:17:54.000Z",
+      "sourceUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503672",
+      "discordPosts": {
+        "1464303419794784347": {
+          "messageId": "1468634203930361900",
+          "channelType": "category",
+          "postedAt": "2026-02-04T15:48:00.272Z",
+          "channelJobNumber": 25
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure. With a highly differentiated and innovative product portfolio, onsemi creates intelligent power and sensing technologies that solve the world’s most complex challenges and leads the way in creating a safer, cleaner, and smarter world. Here at onsemi we take great pride in our internship program and the efforts we take to provide students with hands-on industry experience. We provide competitive pay, medical benefits, various networking event opportunities, and flexible hours based on school schedule."
+    },
+    {
+      "id": "3c025a29c659bb03-2026-02-04-1",
+      "jobId": "3c025a29c659bb03",
+      "company": "onsemi",
+      "title": "Quality and Reliability Intern",
+      "postedToDiscord": "2026-02-04T15:48:01.945Z",
+      "sourceDate": "2026-02-04T15:17:41.000Z",
+      "sourceUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503669",
+      "discordPosts": {
+        "1464303419794784347": {
+          "messageId": "1468634211312336980",
+          "channelType": "category",
+          "postedAt": "2026-02-04T15:48:01.945Z",
+          "channelJobNumber": 26
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "Allen",
+      "job_state": "TX",
+      "job_description": "onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure. With a highly differentiated and innovative product portfolio, onsemi creates intelligent power and sensing technologies that solve the world’s most complex challenges and leads the way in creating a safer, cleaner, and smarter world. Here at onsemi we take great pride in our internship program and the efforts we take to provide students with hands-on industry experience. We provide competitive pay, medical benefits, various networking event opportunities, and flexible hours based on school schedule."
+    },
+    {
+      "id": "70f70b5f05c83131-2026-02-04-1",
+      "jobId": "70f70b5f05c83131",
+      "company": "Oracle",
+      "title": "Software Development Intern - Global Licensing and Advisory Services",
+      "postedToDiscord": "2026-02-04T15:48:06.704Z",
+      "sourceDate": "2026-02-04T15:17:54.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325487",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1468634230811660523",
+          "channelType": "category",
+          "postedAt": "2026-02-04T15:48:06.704Z",
+          "channelJobNumber": 189
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "San Carlos",
+      "job_state": "CA",
+      "job_description": "We are seeking best-in-class interns with the expertise and passion for solving challenging unique problems under the GLAS Operations Software Development Team. You will have the opportunity to work on real projects from day one, gaining a breadth of real-world experience."
+    },
+    {
+      "id": "3dfca73c2a31028d-2026-02-04-1",
+      "jobId": "3dfca73c2a31028d",
+      "company": "Savannah River National Laboratory",
+      "title": "LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials",
+      "postedToDiscord": "2026-02-04T15:48:08.375Z",
+      "sourceDate": "2026-02-04T15:10:34.000Z",
+      "sourceUrl": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1934",
+      "discordPosts": {
+        "1464303178286760059": {
+          "messageId": "1468634238285905940",
+          "channelType": "category",
+          "postedAt": "2026-02-04T15:48:08.375Z",
+          "channelJobNumber": 190
+        }
+      },
+      "instanceNumber": 1,
+      "job_city": "North Augusta",
+      "job_state": "SC",
+      "job_description": "Nuclear Dose Modeling Intern The Global Security Directorate is seeking a talented and enthusiastic intern to contribute towards key projects supporting the Department of Energy’s national security mission. Experience a work environment that thrives on innovation, collaboration, and partnership. The ideal candidate will be working toward a bachelor’s degree with a focus in nuclear engineering, nuclear engineering technology, or a closely related field."
     }
   ],
   "metadata": {
-    "totalJobs": 687,
+    "totalJobs": 692,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-04T15:17:12.842Z",
+      "date": "2026-02-04T15:48:12.918Z",
       "archived": 0
     }
   }
