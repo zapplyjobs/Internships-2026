@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-148-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-46-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-8-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-147-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-45-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-8-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 46+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 148+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 45+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 147+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -429,7 +429,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏭 <strong>Manufacturing & Industrial</strong> (19 positions)</h3></summary>
+<summary><h3>🏭 <strong>Manufacturing & Industrial</strong> (18 positions)</h3></summary>
 
 #### ⚗️ **Applied Materials** (4 positions)
 
@@ -444,7 +444,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern-QMS Document Automation | Leander, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--QMS-Document-Automation_JR89681) | 5h |
+| Intern-QMS Document Automation | Leander, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--QMS-Document-Automation_JR89681) | 6h |
 | Intern ETD Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ETD-Software-Engineer_JR89259) | 1w |
 | Intern – IT MFG | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122) | 1w |
 | Intern – Smart Manufacturing and AI Data Science | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing-and-AI-Data-Science_JR88885) | 1w |
@@ -483,12 +483,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |------|----------|-------|-----------|-----|
 | IT Integration and Analytics Intern | Westminster, CO | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/548) | 1w |
 | Energy Management Intern | Westminster, CO | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/556) | 1w |
-
-#### 🏢 **PennState University** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Conservation GIS Intern | State College, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Conservation-GIS-Intern_REQ_0000075060-1) | 1w |
 
 </details>
 
@@ -558,13 +552,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1519 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1520 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1519 roles
-- **🏢 Companies**: 229 companies  
+- **📁 Total Positions**: 1520 roles
+- **🏢 Companies**: 228 companies  
 - **⭐ FAANG+ Opportunities**: 75 positions
 
 <details>
@@ -1140,7 +1134,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 </details>
 
 <details>
-<summary><h3>🏭 <strong>Manufacturing & Industrial</strong> (30 positions)</h3></summary>
+<summary><h3>🏭 <strong>Manufacturing & Industrial</strong> (31 positions)</h3></summary>
 
 #### ⚗️ **Applied Materials** (1 position)
 
@@ -1207,10 +1201,11 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |------|----------|-------|-----------|-----|
 | Advanced Analytics and Artificial Intelligence Intern - Summer 2026 | San Diego, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229) | 15h |
 
-#### 🏢 **PennState University** (5 positions)
+#### 🏢 **PennState University** (6 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Conservation GIS Intern | State College, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Conservation-GIS-Intern_REQ_0000075060-1) | 1w |
 | R&D Engineer Intern | State College, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000073527-1) | 15h |
 | Research and Development Engineer Intern - Applied Signals & System Integration Department | State College, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000072876-1) | 15h |
 | Part Time – Internship - Physics | Reading, PA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Physics---Internship_REQ_0000068406-1) | 15h |
@@ -1240,7 +1235,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 148 current opportunities from 46 top companies.**
+**🎯 147 current opportunities from 45 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
