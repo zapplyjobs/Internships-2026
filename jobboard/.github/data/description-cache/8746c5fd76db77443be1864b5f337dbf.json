@@ -1,0 +1,22 @@
+{
+  "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2026-Spring-Software-Engineering-MECOP-Intern_R14517",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "A Day in Your Life at MKS:As a Software Engineer at MKS Instruments, Systems Business Unit, you will partner with the Engineering team to develop full stack, distributed software applications and services. In this role, you will report to the Manager, Data Services Development Team.You Will Make an Impact By:Developing gRPC, REST APIs and Worker Services using .NET Core / C#Develop relational and document data storage schemasDevelop browser-based software applications using JavaScript, HTML, CSSWrite mocked unit tests, Integration tests and End to End testsCreate automated pipelines that build, test, package and deploy softwareWrite software documentationTravel Requirements: Travel is not required for this role.Skills You Bring:Experience with Object Oriented ProgrammingExperience with C, C++, C#, JavaScript, Golang, PythonExperience with HTML & CSSExperience with Unit and Integration Testing conceptsPreferred Skills:.NET CoreC#SQLPhysical Demands and Working Conditions:Ability to work at a computer for extended periods of timeAbility to work in a hybrid work model (home / office)Compensation and Benefits:Hourly Pay Range: $27.00 per hour. This range is a good faith estimate of the expected salary range for this position, based on a wide range of factors including qualifications, experience and training, operational and business needs and other considerations permitted by law. At MKS, it is not typical for an individual to be hired at or near the top of the range for the role.    Benefits: MKS offers a benefits package for interns/co-ops working at least 20 hours per week, including 11 paid holidays, sick time, and 15 paid vacation days accrued on a biweekly basis. MKS is an equal opportunity employer, including disability, veteran status and all categories protected by law. Please review our EOE statements for additional details.#LI-DNIGlobally, our policy is to recruit individuals from wide and diverse backgrounds. However, certain positions require access to controlled goods and technologies subject to the International Traffic in Arms Regulations (ITAR) or Export Administration Regulations (EAR). Applicants for these positions may need to be “U.S. persons.” “U.S. persons” are generally defined as U.S. citizens, noncitizen nationals, lawful permanent residents (or, green card holders), individuals granted asylum, and individuals admitted as refugees.MKS Inc. and its affiliates and subsidiaries (“MKS”) is an affirmative action and equal opportunity employer: diverse candidates are encouraged to apply. We win as a team and are committed to recruiting and hiring qualified applicants regardless of race, color, national origin, sex (including pregnancy and pregnancy-related conditions), religion, age, ancestry, physical or mental disability or handicap, marital status, membership in the uniformed services, veteran status, sexual orientation, gender identity or expression, genetic information, or any other category protected by applicable law. Hiring decisions are based on merit, qualifications and business needs. We conduct background checks and drug screens, in accordance with applicable law and company policies.  MKS is generally only hiring candidates who reside in states where we are registered to do business.MKS is committed to working with and providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation during the application or interview process due to a disability, please contact us at: accommodationsatMKS@mksinst.com .If applying for a specific job, please include the requisition number (ex: RXXXX), the title and location of the role",
+    "requirements": [
+      "Travel Requirements: Travel is not required for this role."
+    ],
+    "responsibilities": [
+      "Developing gRPC, REST APIs and Worker Services using .NET Core / C#",
+      "Develop relational and document data storage schemas",
+      "Develop browser-based software applications using JavaScript, HTML, CSS"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2026-Spring-Software-Engineering-MECOP-Intern_R14517",
+      "fetchedAt": "2026-02-04T08:29:24.161Z"
+    }
+  },
+  "cachedAt": 1770193764161
+}
