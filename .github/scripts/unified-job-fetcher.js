@@ -1,22 +1,17 @@
 /**
  * Unified Job Fetcher - Internships ONLY
  *
- * IMPORTANT: This repo now uses jobs-data-2026 central aggregator as PRIMARY data source
- * The aggregator fetches from JSearch API and distributes to all consumer repos
+ * IMPORTANT: This repo uses JSearch API as PRIMARY data source
+ * ATS platforms (Greenhouse/Lever/Ashby) return ALL jobs including senior roles
+ * We use internship-specific API queries to filter for relevant roles
  *
  * Sources:
- * 1. jobs-data-2026 shared-data (PRIMARY - filtered internships from JSearch)
- * 2. API-based companies (optional - for company-specific integrations)
+ * 1. JSearch API (PRIMARY - configured via JSEARCH_API_KEY secret)
  */
 
-const fs = require('fs');
-const path = require('path');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
-
-// Path to shared data (filtered internships from jobs-data-2026)
-const SHARED_DATA_PATH = path.join(process.cwd(), '.github', 'data', 'shared-jobs-filtered.jsonl');
 
 /**
  * Delay helper for rate limiting
@@ -25,63 +20,6 @@ const SHARED_DATA_PATH = path.join(process.cwd(), '.github', 'data', 'shared-job
  */
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-/**
- * Load jobs from shared data
- * @returns {Array} - Array of job objects
- */
-function loadSharedJobs() {
-  try {
-    if (!fs.existsSync(SHARED_DATA_PATH)) {
-      console.warn(`⚠️ Shared data file not found: ${SHARED_DATA_PATH}`);
-      return [];
-    }
-
-    const content = fs.readFileSync(SHARED_DATA_PATH, 'utf8');
-    const lines = content.trim().split('\n').filter(line => line);
-
-    const jobs = lines.map(line => {
-      try {
-        return JSON.parse(line);
-      } catch (error) {
-        console.warn(`⚠️ Failed to parse line: ${line.substring(0, 50)}...`);
-        return null;
-      }
-    }).filter(job => job !== null);
-
-    console.log(`📂 Loaded ${jobs.length} internship jobs from shared data`);
-    return jobs;
-
-  } catch (error) {
-    console.error(`❌ Error loading shared jobs:`, error.message);
-    return [];
-  }
-}
-
-/**
- * Convert shared job format to internal format
- * @param {Object} job - Shared job object
- * @returns {Object} - Internal job object
- */
-function convertSharedJobToInternal(job) {
-  return {
-    // Core fields (shared data format)
-    job_id: job.id,
-    job_title: job.title,
-    employer_name: job.company,
-    job_city: job.location,
-    job_is_remote: job.remote,
-    job_apply_link: job.url,
-    job_posted_at_datetime_utc: job.posted_at,
-    job_description: job.description || '',
-    job_employment_type: job.employment_types || [],
-    job_job_title: job.title,
-
-    // Source tracking
-    _source: 'shared-data',
-    _original_source: job.source,
-  };
 }
 
 /**
@@ -94,17 +32,9 @@ async function fetchAllJobs() {
 
   const allJobs = [];
 
-  // === Part 1: PRIMARY - Shared data from jobs-data-2026 ===
-  console.log('\n📡 Loading from shared-data (PRIMARY source)...');
-
-  const sharedJobs = loadSharedJobs();
-  const convertedJobs = sharedJobs.map(convertSharedJobToInternal);
-  allJobs.push(...convertedJobs);
-
-  console.log(`📊 After shared-data: ${allJobs.length} jobs total`);
-
-  // === Part 2: Fetch from API-based companies (optional) ===
-  // NOTE: Individual company APIs - for company-specific integrations
+  // === Part 1: Fetch from API-based companies ===
+  // NOTE: Individual company APIs disabled - all data now from aggregator
+  // This section kept for potential future use if needed
   console.log('\n📡 Checking API-based companies...');
 
   const companies = getCompanies();
@@ -130,10 +60,28 @@ async function fetchAllJobs() {
     }
     console.log(`\n📊 API companies total: ${allJobs.length} jobs`);
   } else {
-    console.log(`   No API companies configured`);
+    console.log(`   No API companies configured (using aggregator only)`);
   }
 
-  // === Part 3: Filter to US-only jobs ===
+  // === Part 2: PRIMARY JSearch API ===
+  console.log('\n📡 Fetching from JSearch API (PRIMARY source)...');
+
+  try {
+    const { searchJSearchInternships } = require('./job-fetcher/jsearch-source');
+    const jsearchJobs = await searchJSearchInternships();
+    allJobs.push(...jsearchJobs);
+    console.log(`📊 After JSearch: ${allJobs.length} jobs total`);
+  } catch (error) {
+    console.error('❌ JSearch API failed:', error.message);
+    throw new Error('JSearch is primary source - cannot continue without it');
+  }
+
+  // === Part 3: ATS platforms DISABLED for Internships ===
+  // NOTE: Greenhouse/Lever/Ashby APIs return ALL jobs (including senior positions)
+  // They do NOT filter to internships only - we use targeted API queries instead
+  console.log('\n⏭️ Skipping ATS platforms (returns all jobs, not internships-only)...');
+
+  // === Part 4: Filter to US-only jobs ===
   console.log('\n🇺🇸 Filtering to US-only jobs...');
 
   const removedJobs = [];
@@ -151,7 +99,7 @@ async function fetchAllJobs() {
   console.log(`   Kept: ${usJobs.length} US jobs`);
   console.log(`   Removed: ${removedJobs.length} non-US jobs`);
 
-  // === Part 4: Remove duplicates ===
+  // === Part 5: Remove duplicates ===
   console.log('\n🔄 Removing duplicates...');
 
   const uniqueJobs = usJobs.filter((job, index, self) => {
@@ -162,7 +110,7 @@ async function fetchAllJobs() {
   const duplicatesRemoved = usJobs.length - uniqueJobs.length;
   console.log(`   Duplicates removed: ${duplicatesRemoved}`);
 
-  // === Part 5: Sort by posting date ===
+  // === Part 6: Sort by posting date ===
   uniqueJobs.sort((a, b) => {
     const dateA = new Date(a.job_posted_at_datetime_utc || 0);
     const dateB = new Date(b.job_posted_at_datetime_utc || 0);
