@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-02-04T00:17:45.624Z",
+  "total_fetched": 0,
+  "current_jobs": 0,
+  "archived_jobs": 0,
+  "fresh_jobs": 0,
+  "duplicates_filtered": 0,
+  "queue_status": {
+    "total": 0,
+    "pending": 0,
+    "enriched": 0,
+    "posted": 0
+  }
+}
