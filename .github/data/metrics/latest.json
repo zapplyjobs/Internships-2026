@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T07:21:41.862Z",
+  "generated": "2026-02-04T07:48:52.568Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T07:21:41.862Z",
-  "period_end": "2026-02-04T07:21:41.862Z",
+  "period_start": "2026-01-28T07:48:52.568Z",
+  "period_end": "2026-02-04T07:48:52.568Z",
   "summary": {
-    "total_jobs_posted": 70,
-    "unique_jobs": 70,
+    "total_jobs_posted": 80,
+    "unique_jobs": 80,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 31,
+      "count": 34,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -47,27 +47,12 @@
         "zoom-ai-ml-intern-agentic-retrieval-enterprise-rag-seattle",
         "respec-student-engineering-intern-data-science-rapid-city",
         "anomali-software-engineer-intern-san-carlos",
-        "gulfstream-fall-2026-collegiate-intern-ief-stress-engineering-savannah"
+        "gulfstream-fall-2026-collegiate-intern-ief-stress-engineering-savannah",
+        "guidewire-cyber-risk-data-science-intern-san-mateo",
+        "finastra-ai-engineer-intern-atlanta",
+        "leidos-human-centered-ai-intern-remote-in-usa"
       ],
       "recent_jobs": [
-        {
-          "id": "quantum-workplace-insights-analyst-intern-omaha",
-          "title": "Insights Analyst Intern",
-          "company": "Quantum Workplace",
-          "posted_at": "2026-02-04T06:18:58.802Z"
-        },
-        {
-          "id": "zoom-gen-ai-research-intern-zoom-genai-r-d-team-seattle",
-          "title": "Gen AI Research Intern - Zoom GenAI R&D Team",
-          "company": "Zoom",
-          "posted_at": "2026-02-04T06:19:00.864Z"
-        },
-        {
-          "id": "zoom-ai-infrastructure-intern-seattle",
-          "title": "AI Infrastructure Intern",
-          "company": "Zoom",
-          "posted_at": "2026-02-04T06:48:59.348Z"
-        },
         {
           "id": "zoom-ai-engineering-intern-ai-agent-seattle",
           "title": "AI Engineering Intern - AI Agent",
@@ -109,12 +94,30 @@
           "title": "Fall 2026 – Collegiate Intern - Ief - Stress Engineering",
           "company": "Gulfstream",
           "posted_at": "2026-02-04T07:21:35.159Z"
+        },
+        {
+          "id": "guidewire-cyber-risk-data-science-intern-san-mateo",
+          "title": "Cyber Risk Data Science Intern",
+          "company": "Guidewire",
+          "posted_at": "2026-02-04T07:48:37.223Z"
+        },
+        {
+          "id": "finastra-ai-engineer-intern-atlanta",
+          "title": "AI Engineer Intern",
+          "company": "Finastra",
+          "posted_at": "2026-02-04T07:48:39.170Z"
+        },
+        {
+          "id": "leidos-human-centered-ai-intern-remote-in-usa",
+          "title": "Human-Centered AI Intern",
+          "company": "Leidos",
+          "posted_at": "2026-02-04T07:48:40.982Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 13,
+      "count": 16,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -128,27 +131,12 @@
         "samsung-data-analyst-process-improvement-internship-plano",
         "samsung-data-analyst-intern-orange",
         "tiktok-data-science-intern-advertisement-team-2026-start-phd-san-jose",
-        "sharp-electronics-intern-solutions-and-services-ai-and-data-analytics-downers-grove"
+        "sharp-electronics-intern-solutions-and-services-ai-and-data-analytics-downers-grove",
+        "the-walt-disney-company-content-brand-insights-intern-burbank",
+        "caterpillar-intern-manufacturing-engineering-data-analysis-west-lafayette",
+        "guidewire-business-intelligence-analytics-intern-san-mateo"
       ],
       "recent_jobs": [
-        {
-          "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-somerset-county",
-          "title": "2026 Summer Intern - Finance Insights and Data Analyst - Branchburg",
-          "company": "Roche",
-          "posted_at": "2026-02-04T05:00:26.844Z"
-        },
-        {
-          "id": "farmers-insurance-data-science-intern-hybrid-to-caledonia-mi-grand-rapids",
-          "title": "Data Science Intern-Hybrid to Caledonia - MI",
-          "company": "Farmers Insurance",
-          "posted_at": "2026-02-04T05:00:28.619Z"
-        },
-        {
-          "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-carlsbad-carlsbad",
-          "title": "2026 Summer Intern - Finance Insights and Data Analyst - Carlsbad",
-          "company": "Roche",
-          "posted_at": "2026-02-04T05:29:06.146Z"
-        },
         {
           "id": "intel-mecop-intern-wet-etch-data-science-hillsboro",
           "title": "Mecop Intern - Wet Etch - Data Science",
@@ -190,12 +178,30 @@
           "title": "Intern-Solutions and Services - AI and Data Analytics",
           "company": "Sharp Electronics",
           "posted_at": "2026-02-04T07:21:20.579Z"
+        },
+        {
+          "id": "the-walt-disney-company-content-brand-insights-intern-burbank",
+          "title": "Content & Brand Insights Intern",
+          "company": "The Walt Disney Company",
+          "posted_at": "2026-02-04T07:48:20.422Z"
+        },
+        {
+          "id": "caterpillar-intern-manufacturing-engineering-data-analysis-west-lafayette",
+          "title": "Intern - Manufacturing Engineering - Data Analysis",
+          "company": "Caterpillar Inc.",
+          "posted_at": "2026-02-04T07:48:22.191Z"
+        },
+        {
+          "id": "guidewire-business-intelligence-analytics-intern-san-mateo",
+          "title": "Business Intelligence Analytics Intern",
+          "company": "Guidewire",
+          "posted_at": "2026-02-04T07:48:23.997Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 21,
+      "count": 24,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -217,27 +223,12 @@
         "powell-r-d-software-engineering-intern-houston",
         "kaiser-permanente-application-development-bachelor-s-intern-pasadena",
         "werfen-software-engineering-intern-bedford",
-        "rocket-companies-database-engineer-intern-detroit"
+        "rocket-companies-database-engineer-intern-detroit",
+        "vanderlande-industries-supply-chain-data-analytics-intern-marietta",
+        "general-dynamics-mission-software-engineer-intern-bloomington",
+        "kaiser-permanente-data-analytics-bachelor-intern-pleasanton"
       ],
       "recent_jobs": [
-        {
-          "id": "berkshire-grey-robot-learning-r-d-intern-bedford",
-          "title": "Robot Learning R&D Intern",
-          "company": "Berkshire Grey",
-          "posted_at": "2026-02-04T06:19:12.518Z"
-        },
-        {
-          "id": "kaiser-permanente-data-reporting-master-s-intern-pasadena",
-          "title": "Data Reporting Master's Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-02-04T06:19:14.340Z"
-        },
-        {
-          "id": "kaiser-permanente-data-analytics-intern-multiple-teams-pasadena",
-          "title": "Data Analytics Intern - Multiple Teams",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-02-04T06:19:16.092Z"
-        },
         {
           "id": "vanderlande-industries-controls-support-engineer-intern-marietta",
           "title": "Controls Support Engineer – Intern",
@@ -279,18 +270,37 @@
           "title": "Database Engineer Intern",
           "company": "Rocket Companies",
           "posted_at": "2026-02-04T07:21:15.721Z"
+        },
+        {
+          "id": "vanderlande-industries-supply-chain-data-analytics-intern-marietta",
+          "title": "Supply Chain Data & Analytics Intern",
+          "company": "Vanderlande Industries",
+          "posted_at": "2026-02-04T07:48:28.840Z"
+        },
+        {
+          "id": "general-dynamics-mission-software-engineer-intern-bloomington",
+          "title": "Software Engineer Intern",
+          "company": "General Dynamics Mission Systems",
+          "posted_at": "2026-02-04T07:48:30.590Z"
+        },
+        {
+          "id": "kaiser-permanente-data-analytics-bachelor-intern-pleasanton",
+          "title": "Data Analytics Bachelor Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-02-04T07:48:32.389Z"
         }
       ]
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 5,
+      "count": 6,
       "jobs": [
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
         "rtx-2026-returning-intern-cambridge",
-        "momentive-summer-2026-r-d-intern-hardcoats-cohoes"
+        "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
+        "intel-mecop-intern-hillsboro"
       ],
       "recent_jobs": [
         {
@@ -322,6 +332,12 @@
           "title": "Summer 2026 R&D Intern - Hardcoats",
           "company": "Momentive",
           "posted_at": "2026-02-04T07:21:28.736Z"
+        },
+        {
+          "id": "intel-mecop-intern-hillsboro",
+          "title": "Mecop Intern",
+          "company": "Intel",
+          "posted_at": "2026-02-04T07:48:45.855Z"
         }
       ]
     }
