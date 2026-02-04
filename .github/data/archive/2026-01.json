@@ -20931,5 +20931,71 @@
     "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265543",
     "discordThreadId": "1463442251848880149",
     "instanceNumber": 1
+  },
+  {
+    "id": "bank-of-montreal-software-developer-intern-san-ramon-2026-01-21-1",
+    "jobId": "bank-of-montreal-software-developer-intern-san-ramon",
+    "company": "Bank of Montreal",
+    "title": "Software Developer Intern",
+    "postedToDiscord": "2026-01-21T21:03:45.039Z",
+    "sourceDate": "2026-01-21T20:45:54.000Z",
+    "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Summer-2026--Internship----10-weeks_R260002319-1",
+    "discordThreadId": "1463640219952611523",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bmo-software-developer-intern-san-ramon-2026-01-21-1",
+    "jobId": "bmo-software-developer-intern-san-ramon",
+    "company": "BMO ",
+    "title": "Software Developer Intern",
+    "postedToDiscord": "2026-01-21T21:03:48.685Z",
+    "sourceDate": "2026-01-21T20:37:27.000Z",
+    "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/San-Ramon-CA-USA/Software-Developer--Summer-2026--Internship----10-weeks_R260002319",
+    "discordThreadId": "1463640235618599033",
+    "instanceNumber": 1
+  },
+  {
+    "id": "waters-intern-software-development-engineering-tools-franklin-2026-01-21-1",
+    "jobId": "waters-intern-software-development-engineering-tools-franklin",
+    "company": "Waters Corporation",
+    "title": "Intern – Software Development - Engineering Tools",
+    "postedToDiscord": "2026-01-21T21:03:52.105Z",
+    "sourceDate": "2026-01-21T20:35:36.000Z",
+    "sourceUrl": "https://uscareers-waters.icims.com/jobs/25174/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1463640250307055617",
+    "instanceNumber": 1
+  },
+  {
+    "id": "keysight-r-d-software-engineer-intern-quantum-computing-cambridge-2026-01-21-1",
+    "jobId": "keysight-r-d-software-engineer-intern-quantum-computing-cambridge",
+    "company": "Keysight Technologies",
+    "title": "R&D Software Engineer Intern - Quantum Computing",
+    "postedToDiscord": "2026-01-21T21:03:55.751Z",
+    "sourceDate": "2026-01-21T20:35:11.000Z",
+    "sourceUrl": "https://jobs.keysight.com/jobs/51341?lang=en-us&icims=1",
+    "discordThreadId": "1463640265003630768",
+    "instanceNumber": 1
+  },
+  {
+    "id": "marvell-flow-ai-intern-master-s-degree-santa-clara-2026-01-21-1",
+    "jobId": "marvell-flow-ai-intern-master-s-degree-santa-clara",
+    "company": "Marvell",
+    "title": "Flow/AI Intern - Master's Degree",
+    "postedToDiscord": "2026-01-21T21:04:02.453Z",
+    "sourceDate": "2026-01-21T20:40:29.000Z",
+    "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Flow-AI-Intern---Master-s-Degree_2502403",
+    "discordThreadId": "1463640292971384887",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-conservation-gis-intern-state-college-2026-01-21-1",
+    "jobId": "pennstate-university-conservation-gis-intern-state-college",
+    "company": "PennState University",
+    "title": "Conservation GIS Intern",
+    "postedToDiscord": "2026-01-21T21:04:12.775Z",
+    "sourceDate": "2026-01-21T20:29:17.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Conservation-GIS-Intern_REQ_0000075060-1",
+    "discordThreadId": "1463640335535309104",
+    "instanceNumber": 1
   }
 ]
