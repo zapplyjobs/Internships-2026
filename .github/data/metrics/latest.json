@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T04:40:16.971Z",
+  "generated": "2026-02-04T05:00:55.365Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T04:40:16.971Z",
-  "period_end": "2026-02-04T04:40:16.971Z",
+  "period_start": "2026-01-28T05:00:55.365Z",
+  "period_end": "2026-02-04T05:00:55.365Z",
   "summary": {
-    "total_jobs_posted": 10,
-    "unique_jobs": 10,
+    "total_jobs_posted": 20,
+    "unique_jobs": 20,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,21 +15,21 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 5,
+      "count": 11,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
         "interdigital-ph-d-intern-6g-wireless-systems-ai-ml-plainview",
-        "interdigital-generative-ai-implementation-intern-conshohocken"
+        "interdigital-generative-ai-implementation-intern-conshohocken",
+        "interdigital-intern-ai-ml-applied-to-wireless-communications-mountain-view",
+        "interdigital-intern-deep-learning-for-image-and-video-processing-mountain-view",
+        "zoom-speech-scientist-intern-seattle",
+        "applied-materials-physicist-scientist-intern-santa-clara",
+        "applied-materials-physicist-scientist-intern-phd-santa-clara-ca-santa-clara",
+        "rocket-companies-data-analyst-intern-summer-2026-windsor-on-detroit"
       ],
       "recent_jobs": [
-        {
-          "id": "t-mobile-software-engineering-agentic-ai-internship-bellevue",
-          "title": "Software Engineering – Agentic AI Internship",
-          "company": "T-Mobile",
-          "posted_at": "2026-02-04T04:39:48.045Z"
-        },
         {
           "id": "mckesson-data-architect-intern-the-woodlands",
           "title": "Data Architect Intern",
@@ -53,16 +53,54 @@
           "title": "Generative AI Implementation Intern",
           "company": "Interdigital",
           "posted_at": "2026-02-04T04:39:55.096Z"
+        },
+        {
+          "id": "interdigital-intern-ai-ml-applied-to-wireless-communications-mountain-view",
+          "title": "Intern AI/ML applied to Wireless Communications",
+          "company": "Interdigital",
+          "posted_at": "2026-02-04T05:00:33.290Z"
+        },
+        {
+          "id": "interdigital-intern-deep-learning-for-image-and-video-processing-mountain-view",
+          "title": "Intern – Deep Learning for Image and Video Processing",
+          "company": "Interdigital",
+          "posted_at": "2026-02-04T05:00:35.121Z"
+        },
+        {
+          "id": "zoom-speech-scientist-intern-seattle",
+          "title": "Speech Scientist Intern",
+          "company": "Zoom",
+          "posted_at": "2026-02-04T05:00:36.793Z"
+        },
+        {
+          "id": "applied-materials-physicist-scientist-intern-santa-clara",
+          "title": "Physicist/Scientist Intern",
+          "company": "Applied Materials",
+          "posted_at": "2026-02-04T05:00:38.524Z"
+        },
+        {
+          "id": "applied-materials-physicist-scientist-intern-phd-santa-clara-ca-santa-clara",
+          "title": "Physicist/Scientist Intern - PhD - Santa Clara, CA",
+          "company": "Applied Materials",
+          "posted_at": "2026-02-04T05:00:40.305Z"
+        },
+        {
+          "id": "rocket-companies-data-analyst-intern-summer-2026-windsor-on-detroit",
+          "title": "Data Analyst Intern - Summer 2026 - Windsor','On",
+          "company": "Rocket Companies",
+          "posted_at": "2026-02-04T05:00:42.109Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 3,
+      "count": 5,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
-        "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton"
+        "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
+        "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-somerset-county",
+        "farmers-insurance-data-science-intern-hybrid-to-caledonia-mi-grand-rapids"
       ],
       "recent_jobs": [
         {
@@ -82,15 +120,29 @@
           "title": "2026 Summer Intern - Finance Insights and Data Analyst - Pleasanton",
           "company": "Roche",
           "posted_at": "2026-02-04T04:40:03.621Z"
+        },
+        {
+          "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-somerset-county",
+          "title": "2026 Summer Intern - Finance Insights and Data Analyst - Branchburg",
+          "company": "Roche",
+          "posted_at": "2026-02-04T05:00:26.844Z"
+        },
+        {
+          "id": "farmers-insurance-data-science-intern-hybrid-to-caledonia-mi-grand-rapids",
+          "title": "Data Science Intern-Hybrid to Caledonia - MI",
+          "company": "Farmers Insurance",
+          "posted_at": "2026-02-04T05:00:28.619Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 2,
+      "count": 4,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
-        "mitek-product-marketing-analytics-intern-chesterfield"
+        "mitek-product-marketing-analytics-intern-chesterfield",
+        "rr-donnelley-unix-linux-engineer-intern-warrenville",
+        "hewlett-packard-hp-college-intern-ai-business-applications-support-spring"
       ],
       "recent_jobs": [
         {
@@ -104,6 +156,18 @@
           "title": "Product Marketing Analytics Intern",
           "company": "MiTek",
           "posted_at": "2026-02-04T04:40:10.268Z"
+        },
+        {
+          "id": "rr-donnelley-unix-linux-engineer-intern-warrenville",
+          "title": "Unix/Linux Engineer Intern",
+          "company": "RR Donnelley",
+          "posted_at": "2026-02-04T05:00:46.812Z"
+        },
+        {
+          "id": "hewlett-packard-hp-college-intern-ai-business-applications-support-spring",
+          "title": "College Intern - AI Business Applications Support",
+          "company": "Hewlett Packard (HP)",
+          "posted_at": "2026-02-04T05:00:48.651Z"
         }
       ]
     }

@@ -1,0 +1,24 @@
+{
+  "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Developer-Intern_JR101471",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide.Pay Range:$17.60 - $24.20Pay Rate: $18 per hourAll internship positions are designed to give college students an opportunity to apply techniques learned in an academic setting while obtaining new skills. This is a paid internship offering full-time hours during the summer months. All interns are required to conclude the program by giving a formal presentation on their work. Please note that no relocation assistance or sponsorship is provided for the internship program at this time.Position Summary:Use your strong software engineering skills to expand the capability of our instrument and enterprise systems. You will collaborate with other software engineers and scientists in the development of analytical applications, enterprise business applications, working on design of graphical data presentations, algorithms, device communications, and complex data workflows. Key Responsibilities:Participate in all phases of the software development lifecycle: planning, design, coding, testing, and deployment using Agile methodologies.Design and implement efficient, reliable, testable, and maintainable code.Collaborate cross-functionally within organization to deliver high-impact solutions. Program Requirements:Must currently be a student enrolled at an accredited institution pursuing a Bachelor's degree in Computer Science or related technical field (e.g., Physics, Mathematics, Biomedical Engineering)Must at a minimum have completed sophomore year of collegeMust be able to work full-time during the duration of the internship programExperience Qualifications:Familiarity with C#, Java, Javascript, HTML, and CSSGood understanding of database management systemsFamiliarity with software development conceptsAbility to work both independently and collaborativelyWhy Join Bio-Techne:We offer competitive insurance benefits starting on day one: medical, dental, vision, life, short-term disability, long-term disability, pet, and legal and ID shield.We invest in our employees’ financial futures through 401k plans, an employee stock purchase plan (ESPP), Health Saving Account (HSA), Flexible Spending Account (FSA), and Dependent Care FSA.We empower our employees develop their careers through mentorship, promotional opportunities, training and development, tuition reimbursement, internship programs, and more.We offer employee resource groups, volunteer paid time off, employee events, and charity drives to build a culture of caring and belonging. We offer an accrued leave policy with paid holidays, paid time off, and paid parental leave.We foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table.Bio-Techne is an E-Verify Employer in the United States. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.To protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.",
+    "requirements": [
+      "Must currently be a student enrolled at an accredited institution pursuing a Bachelor's degree in Computer Science or related technical field (e.g., Physics, Mathematics, Biomedical Engineering)",
+      "Must at a minimum have completed sophomore year of college"
+    ],
+    "responsibilities": [
+      "Participate in all phases of the software development lifecycle: planning, design, coding, testing, and deployment using Agile methodologies.",
+      "Collaborate cross-functionally within organization to deliver high-impact solutions.",
+      "Familiarity with software development concepts",
+      "We empower our employees develop their careers through mentorship, promotional opportunities, training and development, tuition reimbursement, internship programs, and more."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Developer-Intern_JR101471",
+      "fetchedAt": "2026-02-04T05:00:19.728Z"
+    }
+  },
+  "cachedAt": 1770181219728
+}
