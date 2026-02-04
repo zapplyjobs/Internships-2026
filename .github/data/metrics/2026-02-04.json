@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T20:33:20.558Z",
+  "generated": "2026-02-04T20:50:12.612Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T20:33:20.558Z",
-  "period_end": "2026-02-04T20:33:20.558Z",
+  "period_start": "2026-01-28T20:50:12.612Z",
+  "period_end": "2026-02-04T20:50:12.612Z",
   "summary": {
-    "total_jobs_posted": 141,
-    "unique_jobs": 141,
+    "total_jobs_posted": 144,
+    "unique_jobs": 144,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 51,
+      "count": 52,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -67,15 +67,10 @@
         "abbvie-statistics-intern-phd-livingston",
         "micron-technology-intern-qms-document-automation-leander",
         "onsemi-llm-research-intern-physics-ai-powered-analysis-of-atomistic-systems-fairview",
-        "borgwarner-data-analytics-intern-auburn-hills"
+        "borgwarner-data-analytics-intern-auburn-hills",
+        "sas-summer-2026-full-stack-software-developer-intern-health-and-life-science-cary"
       ],
       "recent_jobs": [
-        {
-          "id": "merck-future-talent-program-generative-ai-research-intern-natural-language-processing-cambridge",
-          "title": "Future Talent Program – Generative AI Research Intern - Natural Language Processing",
-          "company": "Merck",
-          "posted_at": "2026-02-04T09:17:06.898Z"
-        },
         {
           "id": "apptronik-perception-software-intern-humanoid-robotics-austin",
           "title": "Perception Software Intern - Humanoid Robotics",
@@ -129,6 +124,12 @@
           "title": "Data Analytics Intern",
           "company": "BorgWarner",
           "posted_at": "2026-02-04T16:18:05.646Z"
+        },
+        {
+          "id": "sas-summer-2026-full-stack-software-developer-intern-health-and-life-science-cary",
+          "title": "Summer 2026 - Full Stack Software Developer Intern (Health and Life Science)",
+          "company": "SAS",
+          "posted_at": "2026-02-04T20:50:05.885Z"
         }
       ]
     },
@@ -233,7 +234,7 @@
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 43,
+      "count": 45,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -277,21 +278,11 @@
         "guidestone-intern-software-development-dallas",
         "oracle-software-development-intern-global-licensing-and-advisory-services-san-carlos",
         "savannah-river-national-laboratory-lse-technical-undergraduate-nuclear-dose-modeling-intern-nuclear-materials-north-augusta",
-        "johnson-johnson-supply-chain-and-data-management-intern-co-op-edison"
+        "johnson-johnson-supply-chain-and-data-management-intern-co-op-edison",
+        "heart-aerospace-software-engineering-intern-flight-software-torrance",
+        "leidos-embedded-design-engineering-intern-firmware-huntsville"
       ],
       "recent_jobs": [
-        {
-          "id": "oracle-ada-intern-nashville",
-          "title": "Ada Intern",
-          "company": "Oracle",
-          "posted_at": "2026-02-04T09:17:27.029Z"
-        },
-        {
-          "id": "mitek-marketing-analytics-intern-chesterfield",
-          "title": "Marketing Analytics Intern",
-          "company": "MiTek",
-          "posted_at": "2026-02-04T09:34:30.616Z"
-        },
         {
           "id": "onsemi-summer-2026-data-analytics-and-business-systems-intern-scottsdale",
           "title": "Summer 2026 – Data Analytics and Business Systems Intern",
@@ -339,6 +330,18 @@
           "title": "Supply Chain and Data Management Intern/Co-op",
           "company": "Johnson & Johnson",
           "posted_at": "2026-02-04T16:18:10.538Z"
+        },
+        {
+          "id": "heart-aerospace-software-engineering-intern-flight-software-torrance",
+          "title": "Software Engineering Intern – Flight Software",
+          "company": "Heart Aerospace",
+          "posted_at": "2026-02-04T20:49:59.263Z"
+        },
+        {
+          "id": "leidos-embedded-design-engineering-intern-firmware-huntsville",
+          "title": "Embedded Design Engineering Intern – Firmware",
+          "company": "Leidos",
+          "posted_at": "2026-02-04T20:50:01.085Z"
         }
       ]
     },
