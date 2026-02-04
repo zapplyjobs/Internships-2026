@@ -59,9 +59,13 @@ jobs:
     - name: Update job listings
       run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
-        PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
+        JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
         # Database retention window (14 days to catch slow-updating sources)
         ACTIVE_WINDOW_DAYS: 14
+        # Feature flag: Use tagged aggregator feed instead of direct JSearch API
+        # Set to 'true' to fetch from jobs-data-2026 tagged feed (Phase 2)
+        # Leave unset or 'false' to use direct JSearch API (Phase 1)
+        USE_AGGREGATOR: ${{ vars.USE_AGGREGATOR || 'false' }}
 
     - name: Display job-fetcher logs (always run)
       if: always()
