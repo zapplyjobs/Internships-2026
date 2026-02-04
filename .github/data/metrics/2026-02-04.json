@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-04T05:00:55.365Z",
+  "generated": "2026-02-04T05:29:37.861Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T05:00:55.365Z",
-  "period_end": "2026-02-04T05:00:55.365Z",
+  "period_start": "2026-01-28T05:29:37.861Z",
+  "period_end": "2026-02-04T05:29:37.861Z",
   "summary": {
-    "total_jobs_posted": 20,
-    "unique_jobs": 20,
+    "total_jobs_posted": 30,
+    "unique_jobs": 30,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 3
+    "channels_active": 4
   },
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 11,
+      "count": 14,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -27,27 +27,12 @@
         "zoom-speech-scientist-intern-seattle",
         "applied-materials-physicist-scientist-intern-santa-clara",
         "applied-materials-physicist-scientist-intern-phd-santa-clara-ca-santa-clara",
-        "rocket-companies-data-analyst-intern-summer-2026-windsor-on-detroit"
+        "rocket-companies-data-analyst-intern-summer-2026-windsor-on-detroit",
+        "johnson-johnson-intern-neuroscience-digital-health-remote-in-usa",
+        "jabil-supply-chain-data-analysis-intern-st-petersburg",
+        "bio-techne-software-developer-intern-san-jose"
       ],
       "recent_jobs": [
-        {
-          "id": "mckesson-data-architect-intern-the-woodlands",
-          "title": "Data Architect Intern",
-          "company": "McKesson",
-          "posted_at": "2026-02-04T04:39:49.793Z"
-        },
-        {
-          "id": "alo-yoga-data-intern-ai-culver-city",
-          "title": "Data Intern - AI",
-          "company": "Alo Yoga",
-          "posted_at": "2026-02-04T04:39:51.526Z"
-        },
-        {
-          "id": "interdigital-ph-d-intern-6g-wireless-systems-ai-ml-plainview",
-          "title": "Ph.D. Intern - 6G Wireless Systems - AI/ML",
-          "company": "Interdigital",
-          "posted_at": "2026-02-04T04:39:53.313Z"
-        },
         {
           "id": "interdigital-generative-ai-implementation-intern-conshohocken",
           "title": "Generative AI Implementation Intern",
@@ -89,18 +74,38 @@
           "title": "Data Analyst Intern - Summer 2026 - Windsor','On",
           "company": "Rocket Companies",
           "posted_at": "2026-02-04T05:00:42.109Z"
+        },
+        {
+          "id": "johnson-johnson-intern-neuroscience-digital-health-remote-in-usa",
+          "title": "Intern – Neuroscience & Digital Health",
+          "company": "Johnson & Johnson",
+          "posted_at": "2026-02-04T05:29:12.849Z"
+        },
+        {
+          "id": "jabil-supply-chain-data-analysis-intern-st-petersburg",
+          "title": "Supply Chain Data Analysis Intern",
+          "company": "Jabil",
+          "posted_at": "2026-02-04T05:29:14.583Z"
+        },
+        {
+          "id": "bio-techne-software-developer-intern-san-jose",
+          "title": "Software Developer Intern",
+          "company": "Bio-Techne",
+          "posted_at": "2026-02-04T05:29:16.333Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 5,
+      "count": 7,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-somerset-county",
-        "farmers-insurance-data-science-intern-hybrid-to-caledonia-mi-grand-rapids"
+        "farmers-insurance-data-science-intern-hybrid-to-caledonia-mi-grand-rapids",
+        "roche-2026-summer-intern-finance-insights-and-data-analyst-carlsbad-carlsbad",
+        "intel-mecop-intern-wet-etch-data-science-hillsboro"
       ],
       "recent_jobs": [
         {
@@ -132,17 +137,33 @@
           "title": "Data Science Intern-Hybrid to Caledonia - MI",
           "company": "Farmers Insurance",
           "posted_at": "2026-02-04T05:00:28.619Z"
+        },
+        {
+          "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-carlsbad-carlsbad",
+          "title": "2026 Summer Intern - Finance Insights and Data Analyst - Carlsbad",
+          "company": "Roche",
+          "posted_at": "2026-02-04T05:29:06.146Z"
+        },
+        {
+          "id": "intel-mecop-intern-wet-etch-data-science-hillsboro",
+          "title": "Mecop Intern - Wet Etch - Data Science",
+          "company": "Intel",
+          "posted_at": "2026-02-04T05:29:07.906Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 4,
+      "count": 8,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
         "rr-donnelley-unix-linux-engineer-intern-warrenville",
-        "hewlett-packard-hp-college-intern-ai-business-applications-support-spring"
+        "hewlett-packard-hp-college-intern-ai-business-applications-support-spring",
+        "thyssenkrupp-data-analytics-intern-southfield",
+        "national-renewable-energy-laboratory-software-engineering-intern-golden",
+        "greystar-worldwide-data-engineering-intern-master-s-level-houston",
+        "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata"
       ],
       "recent_jobs": [
         {
@@ -168,6 +189,45 @@
           "title": "College Intern - AI Business Applications Support",
           "company": "Hewlett Packard (HP)",
           "posted_at": "2026-02-04T05:00:48.651Z"
+        },
+        {
+          "id": "thyssenkrupp-data-analytics-intern-southfield",
+          "title": "Data Analytics Intern",
+          "company": "thyssenkrupp",
+          "posted_at": "2026-02-04T05:29:21.090Z"
+        },
+        {
+          "id": "national-renewable-energy-laboratory-software-engineering-intern-golden",
+          "title": "Software Engineering Intern",
+          "company": "National Renewable Energy Laboratory",
+          "posted_at": "2026-02-04T05:29:22.838Z"
+        },
+        {
+          "id": "greystar-worldwide-data-engineering-intern-master-s-level-houston",
+          "title": "Data Engineering Intern - Master's Level",
+          "company": "Greystar Worldwide",
+          "posted_at": "2026-02-04T05:29:24.542Z"
+        },
+        {
+          "id": "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata",
+          "title": "Project Engineering Intern - Digital Grid Management - Summer 2026",
+          "company": "AspenTech",
+          "posted_at": "2026-02-04T05:29:26.351Z"
+        }
+      ]
+    },
+    "🎯・other-industry-internships": {
+      "channel_id": "1464303419794784347",
+      "count": 1,
+      "jobs": [
+        "medical-informatics-engineering-development-intern-fort-wayne"
+      ],
+      "recent_jobs": [
+        {
+          "id": "medical-informatics-engineering-development-intern-fort-wayne",
+          "title": "Development Intern",
+          "company": "Medical Informatics Engineering",
+          "posted_at": "2026-02-04T05:29:31.148Z"
         }
       ]
     }

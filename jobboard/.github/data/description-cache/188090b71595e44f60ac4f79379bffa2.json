@@ -1,0 +1,24 @@
+{
+  "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2026_R8627-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "The driving force behind our success has always been the people of AspenTech. What drives us, is our aspiration, our desire and ambition to keep pushing the envelope, overcoming any hurdle, challenging the status quo to continually find a better way. You will experience these qualities of passion, pride and aspiration in many ways — from a rich set of career development programs to support of community service projects to social events that foster fun and relationship building across our global community.The RoleYou will spend the summer working on a project related to the focus of your designated team. At the end of the term, you will present your final project to senior leadership to demonstrate what you learned and how you helped the team meet a related goal of the department. Your work matters – every project completed by interns has been thoughtfully crafted by the team to give students an opportunity to apply their learnings in a real-world work environment. Summer Internship CohortYou will be assigned to team and project; in addition, you will be one of many summer interns which gives us a unique opportunity to further expand on your professional development while at AspenTech. Cohort members will have additional opportunities to share and learn from each other's internship experiences, network with Emerson & AspenTech Digital Grid Management (DGM) employees and learn about different areas within the business.In this three-month Summer Intern position, you will work on projects such as the following:Your ImpactDevelop rich client applications that allow our customers to visualize the power grid. These solutions leverage advanced tools like OpenGL and webGL to enable powerful 3D visualizations.Develop web applications enabling our customers to analyze outages, predict future conditions, and monitor complex systems. These applications leverage frameworks like Angular to power responsive web applications.Develop mobile applications for field crews and executives to monitor KPIs and respond to business demands.Develop 'Big Data' applications leveraging databases like Cassandra and mongoDB to drive business intelligence in the control center.Develop applications to predict load or renewable generation using the latest in machine learning.What You'll NeedCurrently enrolled for Bachelor's in Computer Engineering, Electrical Engineering, Computer Science or related technical field.Proficiency with one or more of the following languages:  C, C++, Java, Python, JavaScript, etc.Networking knowledge and protocols (TCP/IP, UDP, DNS, XMPP, HTTP, MSRP, XCAP, SOAP, REST, DNP, etc.).Familiar with platform independent tools and libraries.Knowledge of numerical methods and simulation of physical processes.Hourly Internship Pay Rate: $28.00 - $32.00Work AuthorizationAspenTech will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1(including those with OPT or CPT) , H-1, H-2, L-1, B, J or TN, or who need sponsorship for work authorization now or in the future, are not eligible for hire.",
+    "requirements": [
+      "recruitment information such as your application form and resume, references, qualifications and membership of any professional bodies and details of any pre-employment assessments;"
+    ],
+    "responsibilities": [
+      "Develop rich client applications that allow our customers to visualize the power grid. These solutions leverage advanced tools like OpenGL and webGL to enable powerful 3D visualizations.",
+      "Develop web applications enabling our customers to analyze outages, predict future conditions, and monitor complex systems. These applications leverage frameworks like Angular to power responsive web applications.",
+      "Develop mobile applications for field crews and executives to monitor KPIs and respond to business demands.",
+      "Develop 'Big Data' applications leveraging databases like Cassandra and mongoDB to drive business intelligence in the control center.",
+      "Develop applications to predict load or renewable generation using the latest in machine learning."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2026_R8627-1",
+      "fetchedAt": "2026-02-04T05:28:41.319Z"
+    }
+  },
+  "cachedAt": 1770182921319
+}
