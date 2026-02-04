@@ -1,216 +1,6 @@
 [
   {
     "job": {
-      "job_title": "R&D Software Engineering Intern",
-      "employer_name": "Powell",
-      "job_city": "Houston",
-      "job_state": "TX",
-      "job_description": "Powell’s 10-week paid internship program offers college students hands-on experience, professional training, and the opportunity to make an impact through a meaningful project aligned with your field of study. As a Research and Development Engineering Intern, you’ll focus on designing and optimizing indicators for high-speed mechanisms, gaining valuable skills in a dynamic, collaborative environment.",
-      "job_apply_link": "https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6812",
-      "job_posted_at_datetime_utc": "2026-02-03T23:14:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "powell-r-d-software-engineering-intern-houston",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Application Development Bachelor's Intern",
-      "employer_name": "Kaiser Permanente",
-      "job_city": "Pasadena",
-      "job_state": "CA",
-      "job_description": "Click the link provided to see the complete job description.",
-      "job_apply_link": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406364",
-      "job_posted_at_datetime_utc": "2026-02-03T23:14:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "kaiser-permanente-application-development-bachelor-s-intern-pasadena",
-      "description_platform": "taleo",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Werfen",
-      "job_city": "Bedford",
-      "job_state": "MA",
-      "job_description": "<h2>Introduction</h2> <p><strong>Werfen </strong></p> <p>&nbsp;</p> <p>Werfen is a growing, family-owned, innovative company founded in 1966 in Barcelona, Spain.&nbsp; We are a worldwide leader in specialized diagnostics in the areas of Hemostasis, Acute Care Diagnostics, Transfusion, Autoimmunity, and Transplant. Through our Original Equipment Manufacturing (OEM) business line, we research, develop, and manufacture customized assays and biomaterials. We operate directly in 30 countries, and in more than 100 territories through distributors. Our Headquarters and Technology Centers are located in the US and Europe, and our workforce is more than 7,000 strong.</p> <p>&nbsp;</p> <p>Our success comes from a specific focus in these rapidly evolving diagnostic areas, our commitment to customers, and our dedication to innovation and quality. We’re passionate about providing healthcare professionals the most valuable and complete solutions to improve hospital efficiency and enhance patient care.</p> <h2>Overview</h2> <p><strong>Overview:</strong></p> <p>&nbsp;</p> <p>The purpose of the internship is to provide meaningful professional hands-on experience to students with leadership potential and proven academic performance.&nbsp; Werfen hires students majoring in Engineering and Life Sciences fields into this internship program based on business need.&nbsp; Ideal candidates will combine technical and business knowledge with analytical strength and creative problem-solving abilities.&nbsp;</p> <h2>Responsibilities</h2> <p><strong>Position Description</strong></p> <ul> <li>To perform entry level work of a routine nature requiring application of standard techniques, procedures and criteria in carrying out a sequence of related tasks.</li> <li>The Intern will be involved in the day-to-day activities of the team included aiding other departments as they relate to department projects. We expect the intern to gain an in-depth knowledge of the product and its associated processes, particularly the process activities in-which they will be directly involved. The intern will have opportunities to assist in nearly all aspects of the workflow.</li> </ul> <p><strong>Key Attributes&nbsp;</strong></p> <ul> <li>Requires confidence in using Microsoft Word and Excel tools.</li> <li>Requires Enthusiasm, motivation, initiative and ability to work within an interactive and energetic workplace.</li> <li>Review process procedures, change orders, equipment specifications, validation plans, and reports.</li> <li>Performs research on technology, equipment and tooling to improve process quality, yield or cost. &nbsp;Generates proposals based on research.</li> <li>Assistance in creating, reviewing and maintaining department files. </li> <li>Performs experiments, analyzes and interprets numerical data from experiments.</li> <li>Summarizes findings by computer readouts, statistical summaries, graphs and other methods.</li> </ul> <h2>Qualifications</h2> <h2>Minimum Knowledge &amp; Experience Required for the Position:</h2> <ul> <li>Currently pursuing B.S. in Engineering, Finance, Business, Marketing with a minimum of 2 college semesters complete.</li> <li>Ability to multitask.</li> </ul> <p>&nbsp;</p> <p>The hourly range for this role is $22/hr to $30/hr. Individual compensation will ultimately depend on factors including relevant experience and grade level completed.</p> <h2>Closing</h2> <p>If you are interested in constantly learning and being challenged on a daily basis we encourage you to submit your resume or CV.&nbsp;</p> <p>&nbsp;</p> <p>Werfen is an Equal Opportunity employer and is committed to a diverse workplace. Werfen strictly prohibits unlawful discrimination, harassment or retaliation based upon an individual’s race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, mental/physical disability, medical condition, marital status, veteran status, or any other protected characteristic as defined by applicable state or federal law. If you have a disability and need an accommodation in relation to the online application process, please contact NAtalentacquisition@werfen.com for assistance.</p> <p>&nbsp;</p> <p>We operate directly in over 30 countries, and in more than 100 territories through distributors. Annual revenue is approximately $2 billion and more than 7,000 employees around the world comprise our Werfen team.</p> <p>&nbsp;</p> <p>www.werfen.com</p>",
-      "job_apply_link": "https://careers-werfen.icims.com/jobs/9804/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2026-02-03T23:13:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "werfen-software-engineering-intern-bedford",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern-Solutions and Services - AI and Data Analytics",
-      "employer_name": "Sharp Electronics",
-      "job_city": "Downers Grove",
-      "job_state": "IL",
-      "job_description": "<h2>Overview</h2> <p>The Solutions &amp; Services team at Sharp Electronics focuses on improving customer experience and operational efficiency across the post-purchase lifecycle. The team leverages data from Salesforce and SAP to understand support trends, product performance, and customer needs. As Sharp continues evolving toward a proactive, AI‑enabled service model, this internship plays a key role in accelerating innovation and supporting our service strategy.</p> <p>&nbsp;</p> <p>Sharp Electronics is seeking a motivated and analytical Summer 2026 College Intern to help transform our service data into predictive, AI-driven insights. This role will work with Salesforce service case data and SAP product performance data to develop early-warning indicators, predictive dashboards, and insights that support our service and sales teams.</p> <p>&nbsp;</p> <p>The ideal candidate has strong analytical skills, curiosity, technical aptitude, and the desire to make a measurable impact.</p> <h2>Responsibilities</h2> <li><strong> Data Collection &amp; Integration</strong></li> <ul> <li>Aggregate, clean, and organize post-purchase customer interaction data from Salesforce, including: <ul> <li>Support cases by create date</li> <li>Support cases by model type</li> <li>Average days to close</li> <li>Top 10 cases by product</li> <li>Top 10 cases by customer</li> <li>Top 10 cases closed by account</li> </ul></li> </ul> <ul> <li>Extract and normalize SAP data related to: <ul> <li>Failure rates</li> <li>Warranty claims</li> <li>Repairs by serial number, product, and customer/partner</li> </ul></li> </ul> <li><strong> AI‑Enhanced Insights</strong></li> <ul> <li>Utilize AI tools such as Salesforce Einstein, Power BI, and other existing platforms to generate predictive insights.</li> <li>Evaluate AI-driven recommendations for accuracy, relevance, and alignment with business needs.</li> <li>Support development of a more proactive service model by identifying opportunities for predictive alerts and automated insights.</li> </ul> <li><strong> Data Analysis &amp; Preparation</strong></li> <ul> <li>Conduct exploratory data analysis (EDA) to identify patterns, trends, and correlations between service cases and product failures.</li> <li>Develop integrated feature sets combining Salesforce and SAP datasets to support future predictive modeling efforts.</li> <li>Identify key indicators that signal emerging service risks.</li> </ul> <li><strong> Visualization &amp; Reporting</strong></li> <ul> <li>Build dashboards and visual analytics summarizing predictive insights for leadership and cross-functional teams.</li> <li>Highlight high-risk products, customers, or failure modes for proactive intervention.</li> <li>Translate complex analyses into clear, actionable summaries for business stakeholders.</li> </ul> <li><strong> Collaboration &amp; Documentation</strong></li> <ul> <li>Work closely with the Solutions &amp; Services team, including the Service Manager, to ensure insights align with strategic objectives.</li> <li>Document methodologies, data assumptions, analytical processes, and findings to support scalability and future use.</li> <li>Participate in team discussions around service strategy and customer experience enhancements.</li> </ul> <h2>Qualifications</h2> <ul> <li>Pursuing a Bachelor’s degree in Data Science, Business Analytics, Computer Science, Information Systems, Engineering, or a related field.</li> <li>Strong analytical and problem‑solving skills.</li> <li>Familiarity with data visualization tools (Power BI, Tableau, or similar).</li> <li>Comfort working with structured data and performing data cleaning.</li> <li>Ability to communicate insights clearly and concisely.</li> <li>Experience with Salesforce data structures or SAP environments preferred.</li> <li>Exposure to Python, R, or SQL preferred.</li> <li>Understanding of predictive modeling concepts preferred.</li> <li>Interest in customer experience, product reliability, or service operations preferred.</li> </ul> <p><strong>Summer Internship Details:</strong></p> <ul> <li><em>Compensation:</em> The hourly rate is $20/hr.</li> <li><em>Duration:</em> The internship program spans approximately 10 weeks, running from June 1st to August 14th, 2026.</li> <li><em>Work Arrangement:</em> This is a hybrid position, requiring interns to be in the office in four days a week (Monday to Thursday), with Fridays designated for remote work at the manager's discretion.&nbsp;</li> <li><em>Transportation:</em> Interns must have reliable transportation.</li> <li><em>Housing:</em> We do not provide housing or a housing stipend for interns.</li> <li><em>Work Visa:</em> Unfortunately, we do not offer work visa sponsorship for this role, including participation in Curricular Practical Training (CPT), Optional Practical Training (OPT), and F-1 Visa programs.</li> </ul> <p><strong>ABOUT US: Sharp Imaging and Information Company of America (SIICA)</strong></p> <p>Sharp Imaging and Information Company of America (SIICA) is a division of Sharp Electronics Corporation, the U.S. subsidiary of Japan's Sharp Corporation, a global technology company which has been named to Fortune magazine's World's Most Admired Company List. Sharp strives to help businesses achieve Simply Smarter work by helping companies manage workflow efficiently, create immersive and engaging environments, and increase productivity. SIICA offers a full suite of secure printer and copier solutions, professional and commercial visual displays and projectors, software management and productivity software and markets durable Dynabook laptops. As a total solutions provider, Sharp has a reputation for innovation, quality, reliability, and industry-leading customer support expertise.&nbsp;</p> <p>&nbsp;</p> <p>#li-cz1</p> <p>#siica</p>",
-      "job_apply_link": "https://careers-sharpusa.icims.com/jobs/8693/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2026-02-03T23:11:10.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "sharp-electronics-intern-solutions-and-services-ai-and-data-analytics-downers-grove",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Collegiate Associate Intern - IT",
-      "employer_name": "Gulfstream",
-      "job_city": "Savannah",
-      "job_state": "GA",
-      "job_description": "Fall 2026 - IT - Collegiate Associate Intern in GAC Savannah Unique Skills: Your Future Takes Flight at Gulfstream At Gulfstream, a proud division of General Dynamics, Collegiate Associates apply classroom learning to real-world challenges and gain valuable experience. You’ll work alongside skilled professionals in a culture built on integrity, pride, and excellence—preparing you for future success in the aerospace industry. Our corporate headquarters in Savannah, Georgia provides the ideal setting for your associate experience by combining professional opportunity with the charm of a historic coastal city. What You’ll Experience Real-world projects that make an impact Exposure to innovative practices Opportunities to build skills and professional connections Benefits Include Competitive pay Paid Time Off Housing stipend (if your permanent residence is more than 50 miles from Gulfstream) Medical coverage 401(k) match Collegiate networking event Principal Duties and Responsibilities: Codes and documents software programs in accordance with design specifications. Creates unit and integration test plans. Performs unit and integration testing. Participates in peer code reviews. Supports application deployment. Not specific to all roles but able to accommodate the best suited role of PM, Developer, BA analyst or QA Analyst in an agile project. Desired Skills: Good knowledge of information systems used to support manufacturing to include an understanding of integrated systems. Knowledge of IT system environments/platforms and development tools preferred. Ability to define problems, collect data, establish facts, draw valid conclusions and provide solutions. Ability to interpret a variety of technical information. Experience with manual and automated testing preferred. Concepts of risk management, issue tracking, change management and requirements gathering preferred. Experience working both independently and in a team-oriented, collaborative environment is essential. Excellent planning, time management and organization skills. Professional experience in quality assurance software testing as part of the development process preferred. Precise attention to detail required. Good consulting, client relations skills and customer service orientation. Excellent written and verbal communication skills including presentation expertise. Education requirements: Must be currently pursuing a Bachelor's degree or higher in information technology, information systems, math, computer science, or a related curriculum. 3.0 GPA or higher and must include extracurricular activities that demonstrate use of interpersonal, teamwork, and leadership skills. Employer Expectations: Demonstrates acceptance of responsibility; shows pride in work performed; demonstrates flexibility in acceptance of assignments and schedules; maintains professional behavior and appearance; exhibits dependability. Please note that this job description may remain active until March 27, 2026. Interviews may be conducted before or after this date. Education and Experience Requirements Position Purpose:Start your journey today by joining our team for a career-building experience that utilizes your skills within a world-class organization.Job Description Principle Duties and Responsibilities:Essential Functions: Perform other duties as assigned.Other Requirements: Must be enrolled as a full-time student at the time of application and actively pursuing a bachelor’s degree or higher. Cumulative GPA of 3.0 or higher (unrounded); must be listed on resume. Minimum duration: 12–14 weeks (summer); 14–16 weeks (spring and fall). Must work onsite; this is not a remote position. Must have reliable transportation. This job requires one to be able to read, write, speak, and understand the English language.Additional Information Requisition Number: 230871 Category: Other Percentage of Travel: Up to 25% Shift: First Employment Type: Full-time Number of Openings: 4 Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans Gulfstream does not provide work visa sponsorship for this position, unless the applicant is a currently sponsored Gulfstream employee. Legal Information | Site Utilities | Contacts | Sitemap Copyright © 2025 Gulfstream Aerospace Corporation. All Rights Reserved. A General Dynamics Company. Gulfstream Aerospace Corporation, a wholly-owned subsidiary of General Dynamics (NYSE: GD), designs, develops, manufactures, markets, services and supports the world's most technologically-advanced business jet aircraft",
-      "job_apply_link": "https://careers.gulfstream.com/job/Savannah-Fall-2026-IT-Collegiate-Associate-Intern-GA-31401/1361663500/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2026-02-03T23:09:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "gulfstream-collegiate-associate-intern-it-savannah",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Anomali",
-      "job_city": "San Carlos",
-      "job_state": "CA",
-      "job_description": "Software Engineer Internship 2026 (onsite Redwood City, CA)Redwood City, CAEngineering – Development /Part-time /On-siteApply for this jobSoftware Engineering Internship Opportunity at Anomali: Bridging Academic Study with Professional Experience.Duration: 12-14 weeks (Paid/On-site in Redwood City) - 2026Company Description Anomali is headquartered in Silicon Valley and is the Leading AI-Powered Security Operations Platform that is modernizing security operations. At the center of it is an omnipresent, intelligent, and multilingual Anomali Copilot that automates important tasks and empowers your team to deliver the requisite risk insights to management and the board in seconds. The Anomali Copilot navigates a proprietary cloud-native security data lake that consolidates legacy attempts at visibility and provides first-in-market speed, scale, and performance while reducing the cost of security analytics. Anomali combines ETL, SIEM, XDR, SOAR, and the largest repository of global intelligence in one efficient platform. Protect and drive your business with better productivity and talent retention. Do more with less. Be Different. Be the Anomali. Learn more at http://www.anomali.com.Job DescriptionOverview:Join us at Anomali for a distinctive internship program that spans 12 to 14 weeks. This paid, on-site internship is not just a job—it’s a journey. We offer a unique opportunity for personal and professional growth, ideal for students eager to apply academic learning in a dynamic professional environment.At Anomali, we specialize in Security Analytics, empowering organizations to detect and respond to threats more swiftly and effectively. We are seeking a highly technical and innovative backend engineer intern. If you have a passion for creating groundbreaking security products and thrive in a fast-paced, Agile development environment, we encourage you to apply.Qualifications Required Skills / Experience:o Majoring in Computer Science, Software Engineering, or Computer Engineering.o Proficiency in programming with Python, Java, C/C++, or other modern Object-Oriented Programming (OOP) languages used for scalable distributed system backend development.o Creative, Innovative and unlimited thinkers: Please include experience that highlights this. How will you help us be on the cutting edge tomorrow?o Prior participation in coding competitions (e.g., Codeforces, USACO Platinum, ICPC) is highly regarded.o Experience with relational databases (PostgreSQL, MySQL).o Familiarity with big data technologies such as Apache Spark is preferred.o Interest in GenAI is a bonus.o This is a hybrid opportunity at our Redwood City, CA office location. Relocation assistance or accommodations are not provided. Full remote is not an option. We value collaboration on-site.Equal Opportunities MonitoringWe are an Equal Opportunity Employer. It is our policy to ensure that all eligible persons have equal opportunity for employment and advancement on the basis of their ability, qualifications, and aptitude. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status at a protected veteran, or any other protected category under applicable federal, state, and local laws. If you are interested in applying for employment with Anomali and need special assistance or accommodation to apply for a posted position, contact our Recruiting team at recruiting@anomali.com.Part Time/Hourly: ~$25/hourWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/anomali/949aafac-cbf2-4798-a26a-7f67f096bdac/apply",
-      "job_posted_at_datetime_utc": "2026-02-03T23:08:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "anomali-software-engineer-intern-san-carlos",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Fall 2026 – Collegiate Intern - Ief - Stress Engineering",
-      "employer_name": "Gulfstream",
-      "job_city": "Savannah",
-      "job_state": "GA",
-      "job_description": "Fall 2026 - IEF - Stress Engineering - Collegiate Intern in GAC Savannah Unique Skills: Your Future Takes Flight at Gulfstream At Gulfstream, a proud division of General Dynamics, interns don’t just observe; they contribute from day one. As part of a world-class team building the most advanced business jets, you’ll take on meaningful work in your area of focus, whether engineering, manufacturing, business operations, or beyond, within a culture grounded in integrity, pride, and excellence. Our corporate headquarters in Savannah, Georgia provides the ideal setting for your intern experience by combining professional opportunity with the charm of a historic coastal city. What You’ll Experience Real-world projects that make an impact Exposure to innovative practices Opportunities to grow skills and professional connections Program Structure Juniors: Two rotations required Seniors & Graduate Students: One rotation required About the position The Gulfstream stress team is looking for a collegiate intern for this fall who will be carefully chosen to support our big data and digital thread initiative project. This project will introduce a comprehensive data management and visualization system, which will allow seamless, end-to-end data flow between connected databases. The end goal of the project is to develop, deploy, and maintain the big data system architecture and toolkit to manage and connect all engineering data systems in order to establish a single-source of truth connected chain of data from design and development through operations. This system will enable Structures to be fully prepared to handle the huge data demands that a Gnext program will undoubtedly require. The intern candidate selected will possess a myriad of skillsets. They will be an aerospace or mechanical engineering major, with a focus on structures. They should have an extensive background in data management with coursework or experience related to data science on their resume. They will have superior computer programing skills, including experience with Python, Visual Basic, SvelteKit, and other languages. And lastly, they will have worked in the past with AI systems and machine learning and be able to apply those concepts to big data engineering type problems. The student will join the team upon graduation and be focused on supporting the development and execution of the system in support of an upcoming Gnext project. Additional skills required are as follows: Foundational experience with CAD tools (SolidWorks, Siemens NX) through coursework or projects Basic understanding of 3D modeling concepts and comfort working with mechanical or digital designs Exposure to 3D rendering tools like Unity Pixyz, Blender, Babylon.js, or similar Project exposure to Finite Element Analysis (FEA) for structure analysis Familiarity with at least one programming language, preferably Python or JavaScript Basic understanding of version control systems such as Git Experience working with structured data formats such as JSON Understanding of the software development lifecycle, especially Agile/Scrum practices Strong problem‑solving ability, attention to detail, and willingness to learn Good communication skills and ability to collaborate in a team environment Benefits Include Competitive pay Paid Holiday Time Company-provided housing (if your permanent residence is more than 50 miles from Gulfstream) Medical coverage 401(k) match Collegiate networking events Please note that this job description may remain active until March 27, 2026. Interviews may be conducted before or after this date. Education and Experience Requirements Position Purpose:Start your journey today by joining our team for a career-building experience that utilizes your skills within a world-class organization.Job Description Principle Duties and Responsibilities:Essential Functions: Perform other duties as assigned.Other Requirements: Must be enrolled as a full-time student at the time of application and actively pursuing a bachelor’s degree or higher. Completion of sophomore year is required. prior to the internship start date. Cumulative GPA of 3.0 or higher (without rounding); must be listed on resume. Rotation Requirements: Juniors – 2 rotations; Seniors & Graduate Students – 1 rotation. Minimum duration: 12–14 weeks (summer); 14–16 weeks (spring and fall). Must be onsite; this is not a remote position. Must have reliable transportation. This job requires one to be able to read, write, speak, and understand the English language.Additional Information Requisition Number: 230699 Category: Other Percentage of Travel: Up to 25% Shift: First Employment Type: Collegiate Intern Number of Openings: 1 Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans Gulfstream does not provide work visa sponsorship for this position, unless the applicant is a currently sponsored Gulfstream employee. Legal Information | Site Utilities | Contacts | Sitemap Copyright © 2025 Gulfstream Aerospace Corporation. All Rights Reserved. A General Dynamics Company. Gulfstream Aerospace Corporation, a wholly-owned subsidiary of General Dynamics (NYSE: GD), designs, develops, manufactures, markets, services and supports the world's most technologically-advanced business jet aircraft",
-      "job_apply_link": "https://careers.gulfstream.com/job/Savannah-Fall-2026-IEF-Stress-Engineering-Collegiate-Intern-GA-31401/1361691100/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2026-02-03T23:08:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "gulfstream-fall-2026-collegiate-intern-ief-stress-engineering-savannah",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Database Engineer Intern",
-      "employer_name": "Rocket Companies",
-      "job_city": "Detroit",
-      "job_state": "MI",
-      "job_description": "As the Database Engineer Intern, you'll support the development and maintenance of database solutions that ensure reliable, high‑quality data across systems. This role provides hands‑on experience working with SQL Server, data integration, and database best practices while learning from experienced engineers. About the roleAssist with database design, data modeling, and query optimizationHelp write and maintain SQL queries, views, and stored proceduresSupport data integration and data quality efforts across systemsAssist with maintaining and enhancing database applicationsParticipate in code reviews and documentation effortsLearn and follow database security and best practicesAssist with automation and process improvement initiativesCollaborate with engineers and team members in an Agile/DevOps environmentAbout youMinimum QualificationsBasic understanding of relational databases and SQL through coursework or projects Preferred QualificationsExposure to Microsoft SQL ServerFamiliarity with SQL queries, views, or stored proceduresBasic understanding of data modeling or ETL conceptsExperience with Git/GitHub through coursework or projectsProficiency with Microsoft Office toolsWhat you’ll getOur team members fuel our strategy, innovation and growth, so we ensure the health and well-being of not just you, but your family, too! We go above and beyond to give you the support you need on an individual level and offer all sorts of ways to help you live your best life. We are proud to offer eligible team members perks and health benefits that will help you have peace of mind. Simply put: We’ve got your back. Check out our full list of Benefits and Perks.About usRocket is a Detroit-based company made up of businesses that provide simple, fast and trusted digital solutions for complex transactions. The name comes from our flagship business, now known as Rocket Mortgage®, which was founded in 1985. Today, we’re a publicly traded company involved in many different industries, including mortgages, fintech, real estate and more. We’re insistently different in how we look at the world and are committed to an inclusive workplace where every voice is heard. Apply today to join a team that offers career growth, amazing benefits and the chance to work with leading industry professionals.This job description is an outline of the primary responsibilities of this position and may be modified at the discretion of the company at any time.  Decisions related to employment are not based on race, color, religion, national origin, sex, physical or mental disability, sexual orientation, gender identity or expression, age, military or veteran status or any other characteristic protected by state or federal law.  The company provides reasonable accommodations to qualified individuals with disabilities in accordance with applicable state and federal laws.  Applicants requiring reasonable accommodations in completing the application and/or participating in the application process should contact a member of the Human Resources team, at Careers@Rocket.com.",
-      "job_apply_link": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Database-Engineer-Intern---Summer-2026_R-081632",
-      "job_posted_at_datetime_utc": "2026-02-03T23:08:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "rocket-companies-database-engineer-intern-detroit",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 Returning Intern",
-      "employer_name": "RTX",
-      "job_city": "Cambridge",
-      "job_state": "MA",
-      "job_description": "Date Posted:2026-02-03Country:United States of AmericaLocation:US-MA-CAMBRIDGE-BBN02 ~ 10 & 50 Moulton St ~ MOULTON B1Position Role Type:RemoteU.S. Citizen, U.S. Person, or Immigration Status Requirements: Must be authorized to work in the U.S. without the company’s immigration sponsorship now or in the future. The company will not offer immigration sponsorship for this position.​ The company will not seek an export authorization for this role.Security Clearance Type: None/Not RequiredSecurity Clearance Status: Not RequiredWho We Are At RTX BBN Technologies we invent new science by applying radical cross-disciplinary techniques to prototype systems in order to prove concept viability.What You Will Do & Learn We are seeking qualified and eager interns to become an integral part of this work. You'll work directly alongside technology leaders and world-class researchers, solving complex, real-world problems for critical customers.Qualifications You Must HaveRequires a High School Diploma or equivalent and student must be pursuing a bachelor’s or advanced degree in an applicable discipline (i.e. Computer Science, Computer Engineering, Electrical Engineering, or related field)U.S. Person (U.S. citizen, permanent resident, or granted refugee or asylee status) as defined here:  https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-120/subpart-C/section-120.62Remote: Employees who are working in Remote roles will work primarily offsite (from home). An employee may be expected to travel to the site location as needed. (*Position is remote; however, if you live within a reasonable commute of a Collins site with other colleagues you interact with, your manager will discuss whether there is a degree of onsite presence associated with this role.)As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.The salary range for this role is 37,000 USD - 82,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act. Privacy Policy and Terms:Click on this link to read the Policy and Terms",
-      "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN02--10--50-Moulton-St--MOULTON-B1/XMLNAME-2026-Returning-Intern_01821197",
-      "job_posted_at_datetime_utc": "2026-02-03T15:39:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "rtx-2026-returning-intern-cambridge",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
-      "job_title": "Summer 2026 R&D Intern - Hardcoats",
-      "employer_name": "Momentive",
-      "job_city": "Cohoes",
-      "job_state": "NY",
-      "job_description": "Job Title:Summer 2026 R&D Intern - HardcoatsSummary:As a Hardcoat R&D Intern, you will help develop advanced coatings for automotive and architectural applications. You’ll gain hands-on experience in formulation, synthesis, and testing of thermal and UV cure systems, while analyzing performance data and contributing to innovative solutions.Responsibilities Include:Coatings development for Functional Coatings TeamFormulation, synthesis, application and curing of coatingsDOEWet synthesis and formulation developmentThermal cure and UV cure systemsPrimary applications: Automotive and architectural glazingAnalytical testing of cured filmsIR, UVVIS, film build, formulated viscosity, mechanical testingData Analysis of cured coatingsDocument experimental procedures and resultsAnalyze data using statistical methods and assist in interpreting resultsReport out findings to group/greater intern groupQualifications:The following are required for the rolePursuing a Bachelor's degree in Chemistry, Chemical Engineering, or a Life Sciences discipline with concentration in Chemistry or Materials Science.Interest in hands-on work in a laboratory environmentProgram Qualifications:The candidate must be actively enrolled in an undergraduate or graduate program at the time of application and for at least one semester following the conclusion of the internship. The candidate is expected to be available 40 hours a week for a period of 10-12 weeks between the months of May and August.What We Offer:Base Pay Range: $22.00 - $26.00The base salary offered is determined by factors including but not limited to education, experience, skill sets, and geography. If you are interested in this position, we’d ask that you apply! #BePartoftheSolution At Momentive, we value your well-being and offer competitive total rewards and development programs. Our inclusive culture fosters a strong sense of belonging and provides diverse career opportunities to help you unleash your full potential. Together, through innovative problem-solving and collaboration, we strive to create sustainable solutions that make a meaningful impact. Join our Momentive team to open a bright future.Refer to the Hiring Process tab on our Careers page for a detailed description on the physical job requirements.About Us:Momentive is a premier global advanced materials company with a cutting-edge focus on silicones and specialty products. We deliver solutions designed to help propel our customer’s products forward—products that have a profound impact on all aspects of life, around the clock and from living rooms to outer space. With every innovation, Momentive creates a more sustainable future. Our vast product portfolio is made up of advanced silicones and specialty solutions that play an essential role in driving performance across a multitude of industries, including agriculture, automotive, aerospace, electronics, energy, healthcare, personal care, consumer products, building and construction, and more.   Momentive believes a diverse workforce empowers our people, strengthens our business, and contributes to a sustainable world. We are proud to be an equal opportunity employer.  Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any characteristic protected by law.   To be considered for this position candidates are required to submit an application for employment and be of legal working age as defined by local law. An offer may be conditioned upon the successful completion of pre-employment conditions, as applicable, and subject to applicable laws and regulations.    Note to third parties: Momentive is not seeking or accepting any unsolicited assistance from search and selection firms or employment agencies at this time.",
-      "job_apply_link": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2026-R-D-Intern---Hardcoats_R8655",
-      "job_posted_at_datetime_utc": "2026-02-03T15:35:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_source": "simplifyjobs",
-      "job_posted_at": "1h",
-      "id": "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": "2026-02-04T06:48:56.246Z",
-    "postedAt": "2026-02-04T07:21:39.664Z"
-  },
-  {
-    "job": {
       "job_title": "Content & Brand Insights Intern",
       "employer_name": "The Walt Disney Company",
       "job_city": "Burbank",
@@ -225,10 +15,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -246,10 +36,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -267,10 +57,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -288,10 +78,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -309,10 +99,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -330,10 +120,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -351,10 +141,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -372,10 +162,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -393,10 +183,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -414,10 +204,10 @@
       "description_platform": "taleo",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-04T04:38:30.574Z",
     "enrichedAt": "2026-02-04T07:21:07.675Z",
-    "postedAt": null
+    "postedAt": "2026-02-04T07:48:50.360Z"
   },
   {
     "job": {
@@ -425,17 +215,19 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science or a related STEM field. Two years of experience with Python and data science In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. One year experience with Healthcare AI projects",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556750525",
       "job_posted_at_datetime_utc": "2026-02-03T02:12:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-for-nursing-redmond"
+      "id": "microsoft-research-intern-ai-for-nursing-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -444,17 +236,19 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Accepted or currently enrolled in a PhD program or an equivalent research-oriented program in Computer Science or related STEM field. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Expertise in formal methods, including experience improving theorem provers and proof tools, or Expertise in programming languages, including experience in type systems, static and dynamic analysis tools, programming models, and runtimes, or Expertise in AI and software engineering, including experience building robust and secure agentic workflows and ML models for software engineering tasks",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556750506",
       "job_posted_at_datetime_utc": "2026-02-03T02:12:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-agentic-programming-redmond"
+      "id": "microsoft-research-intern-agentic-programming-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -463,17 +257,19 @@
       "employer_name": "Toyota Research Institute",
       "job_city": "Mountain View",
       "job_state": "CA",
-      "job_description": "Join Toyota Research Institute in this exciting opportunity.",
+      "job_description": "Energy & Materials Intern - Generative Models and Reinforcement LearningLos Altos, CAEnergy & Materials – Internships - Summer 2026 /Intern /HybridApply for this jobAt Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.The TeamThe long-term vision of TRI’s Accelerated Materials Design and Discovery (AMDD) program is to accelerate the development of truly emissions-free mobility. Realizing this vision will require the discovery of new materials and devices for batteries, fuel cells, and more. Our aim at TRI is to merge cutting-edge computational materials modeling, experimental data, artificial intelligence, and automation to significantly accelerate materials research. Our focus is on developing tools and capabilities to enable this acceleration. We collaborate closely with a dozen universities and national labs and colleagues across global Toyota. AMDD seeks to develop and translate the newest technologies into practice, both within Toyota and the open research community more broadly.The InternshipThis project aims to develop models and policies to aid the discovery of new materials and material representations. The project may include developing models and policies based on materials science-relevant action spaces to discover new materials, synthesis routes, and interpretable heuristics. In addition to model and policy development, the project may also include the development of pipelines for relevant dataset generation. This is a Summer 2026 paid 12-week internship opportunity. Please note that this internship will be an in-office role.QualificationsCurrently enrolled in a doctoral program in computer science, materials science, engineering, applied mathematics, physics, chemistry, or a related field. Experience or familiarity with diffusion models and diffusion policies.Experience or familiarity with reinforcement learning.Experience with high-performance computing and high-throughput data pipelines.Please add a link to Google Scholar to include a full list of publications when submitting your CV for this position.The pay range for this position at commencement of employment is expected to be between $45 and $65/hour for California-based roles. Base pay offered will depend on multiple individualized factors, including, but not limited to, business or organizational needs, market location, job-related knowledge, skills, and experience. TRI offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional details regarding these benefit plans will be provided if an employee receives an offer of employment.Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal information.TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records for employment. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/tri/839dce5a-db02-4e44-b016-0080c4292855/apply",
       "job_posted_at_datetime_utc": "2026-02-03T02:05:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "toyota-research-institute-energy-materials-intern-generative-models-and-reinforcement-learning-mountain-view"
+      "id": "toyota-research-institute-energy-materials-intern-generative-models-and-reinforcement-learning-mountain-view",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -482,17 +278,19 @@
       "employer_name": "Bose",
       "job_city": "Framingham",
       "job_state": "MA",
-      "job_description": "Join Bose in this exciting opportunity.",
+      "job_description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.   Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job DescriptionTHE PROGRAMWe're looking for students to join our Co-Op Program who are obsessively curious about 'what's next'. You'll get hands on experience with our products and learn from the best of the best in the business. You will immerse yourself into Bose for 6 months and get the opportunity to grow the skills your learned in the classroom with hands on work experience. By the time you end your time with us, you will have been given the opportunity to truly make a real impact in the future of Bose and your career!Opportunities don't stop at your day-to-day work. While you're getting an in depth look at your area of expertise, we'll expose you to other areas of the company. Our Co-Ops are given the opportunity to connect with senior leadership across the business to understand different perspectives at Bose. You'll network with other Co-Ops and colleagues to grow your network for the future! Fall Co-op: Candidates must be available to work full-time (40 hours per week) in a hybrid, in-office format from July 13 through December 18, 2026. No relocation assistance is available.Being currently authorized to work in the U.S. is a precondition of employment for this position.THE ROLEThe Bose Data Engineering team is responsible for design, development and enhancement of Bose Data Platforms (Analytics & Customer Data Platforms) in leading and supporting Advanced Analytics. This team is highly impactful and a key enabler of Bose Digital journey by playing a central role in the Data driven transformation.What you will be working on?As a junior Data Engineer, you will work closely with internal customers to build and design data pipelines, spanning from data acquisition to data pipelines ML model deployment and monitoring. Being part of an agile delivery team, you will design, develop, deploy, and support data pipelines, applying best practices and implementing necessary integrations with our Data Platform ecosystem. This role requires a passion for operations, AWS Serverless solutions, Python, and SQL coding. Under the supervision of a Senior Data Engineer, some of your responsibilities will include: · Continuing the full life cycle management of data pipelines: designing, developing, and providing production support for data pipelines that support customer experiences on connected devices, web applications, and mobile applications. · Staying up to date on relevant technologies, participating in user groups, understanding trends, and identifying opportunities to ensure the adoption of the best techniques and tools. For instance, we are currently utilizing Snowflake, databricks, and AWS Serverless technologies. · Collaborating with AWS Cloud Architects to optimize and evaluate scalable, serverless solutions, becoming the Subject Matter Expert (SME) for AWS solutions. · Working in multi-functional agile teams to continuously experiment, iterate, and deliver on new data product objectives. Candidates should have a bachelors in Computer Science and working towards mastersAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.‎ Bose is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. The EEOC’s “Know Your Rights: Workplace discrimination is illegal” Poster is available here: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf. Bose is committed to providing reasonable accommodations to individuals with disabilities. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to applicant_disability_accommodationrequest@bose.com. Please include \"Application Accommodation Request\" in the subject of the email.‎ Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.",
       "job_apply_link": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R28594-1",
       "job_posted_at_datetime_utc": "2026-02-02T23:55:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "bose-data-engineer-intern-co-op-framingham"
+      "id": "bose-data-engineer-intern-co-op-framingham",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -501,17 +299,19 @@
       "employer_name": "Bose",
       "job_city": "Framingham",
       "job_state": "MA",
-      "job_description": "Join Bose in this exciting opportunity.",
+      "job_description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.   Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job DescriptionAbout the Role:We are looking for a Data Analytics Engineering Co-op to join our Data and Analytics Center of Excellence (D&A CoE). This role provides an exciting opportunity to gain hands-on experience in the data and analytics engineering work that drives a multi-billion dollar business like Bose. You will work alongside experienced professionals to develop and support data-driven solutions that enhance business strategies and improve customer experiences.As a Data Analytics Engineering Co-op, you will assist in transforming raw, diverse datasets into meaningful insights.  This includes data pipeline development and modeling work that supports business analysts as well as data scientists who are creating AI solutions.  Applications include marketing, engineering, product development, supply chain, and finance. You will work with a modern technology stack, including AWS and Snowflake, and write code using engineering best practices. This role is ideal for someone who is eager to learn, detail-oriented, and passionate about leveraging data to drive decision-making. Quality data models are the foundation of what we do in the D&A CoE, from executive level reporting to AI models that optimize our business. Key Responsibilities:Assist in the development and maintenance of business-critical data pipelines, typically built in SQL and PythonSupport the design and implementation of logical and physical data models to enhance data accessibility.Conduct data wrangling and preprocessing to clean and structure datasets for analysis.Help build and maintain semantic layers to enable dashboard development and data science work.Contribute to new tools and techniques that make data analytics engineering more efficient and effective.Work with cross-functional teams to understand business requirements and translate them into data solutions.Assist in creating dashboards and reports that provide actionable insights for business teams.Learn and apply best practices for data governance, security, and quality assurance.MUST BE:Fully available July 13- December 2026Currently enrolled in universityWilling to relocate on your own to Framingham, MAAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour.The hiring range for other Bose work locations may vary.\n\nIn addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.‎ Bose is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. The EEOC’s “Know Your Rights: Workplace discrimination is illegal” Poster is available here: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf. Bose is committed to providing reasonable accommodations to individuals with disabilities. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to applicant_disability_accommodationrequest@bose.com. Please include \"Application Accommodation Request\" in the subject of the email.‎ Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.",
       "job_apply_link": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R28605",
       "job_posted_at_datetime_utc": "2026-02-02T23:55:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "bose-data-analytics-engineer-intern-co-op-framingham"
+      "id": "bose-data-analytics-engineer-intern-co-op-framingham",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -520,17 +320,19 @@
       "employer_name": "Jabil",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Jabil in this exciting opportunity.",
+      "job_description": "At Jabil we strive to make ANYTHING POSSIBLE and EVERYTHING BETTER. We are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, manufacturing, and supply chain solutions. With over 50 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver both scalable and customized solutions. Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe. At Jabil, we are committed to empowering data-driven decisions across the organization. Our Data & Analytics team works at the forefront of building scalable data solutions and fostering a data culture. Join us and contribute to shaping the future of data governance and management in a dynamic and collaborative environment.As part of the Data Governance Enablement team, this role is responsible for the configuration of the business glossary and technical metadata in the Informatica Data Governance and Catalog platform. This role may also partner with business stakeholders and technical teams to enable enterprise data governance and metadata management, and data quality. This position enables the organization to have data assets that are discoverable, well-defined, trusted, and aligned with organizational governance standards.Key Responsibilities:Assist in configuring and maintaining business glossary terms, domains, relationships and associations within the Informatica Data Governance and Catalog platformAssist in configuring data catalog sources from various data source systems and schemas, including but not limited to, SAP, SQL Server, AWS S3, Snowflake, Power BI, etc.Partner with technical teams to ensure metadata filters and system account privileges are configured accordingly, and validation of metadata.Assist in the configuration and maintaining of data lineage between data systems or data layers in informatica Participate in requirements gathering sessions and help translate business needs into Informatica configurations.Participate as a liaison between business stakeholders and technical teams to ensure business glossaries and technical metadata are properly associated and documented.Support testing and validation of metadata changes, enhancements, and platform updates.Learn and apply best practices for data governance, metadata management, and data quality implementations.Qualifications:Required:Currently pursuing a degree in Data Science, Information Systems, Business Administration, or a related field.Strong communication and interpersonal skills, with the ability to translate technical concepts for diverse audiences.Interest in data governance, change management, and/or cross-functional collaboration.Proficiency with Microsoft Office Suite (Word, PowerPoint, Excel) or Google Workspace.Highly organized with strong attention to detail.Preferred:Familiarity with data governance tools, frameworks, or methodologies.Experience in project management or stakeholder engagement.Basic understanding of data analytics or data management principles.What You’ll Gain:Hands-on experience with data governance and management in a corporate setting.Exposure to cross-functional collaboration and global stakeholder management..Mentorship from experienced data professionals.A chance to make a meaningful impact on how data is governed and utilized at Jabil.The hourly pay range for this role is $16.00 - $32.00. Job-related, non-discriminatory factors used to determine the actual offered rate include qualifications and experience, geographic location, education, external market data, and consideration of internal equity. The anticipated close date of this job requisition is: April 27, 2026.As part of the total rewards package, Jabil offers benefits to enhance your health, wealth, and resilient self. These include medical, dental, and vision insurance plans; paid time off accruing at a rate of 3.07 hours during your first year of employment; 4 weeks of paid parental leave; in 2026, 11 company-paid holidays (9 fixed holidays and 2 optional floating holidays), subject to change yearly; 401(k) retirement plan; and employee stock purchase plan. BE AWARE OF FRAUD: When applying for a job at Jabil you will be contacted via correspondence through our official job portal with a jabil.com e-mail address; direct phone call from a member of the Jabil team; or direct e-mail with a jabil.com e-mail address. Jabil does not request payments for interviews or at any other point during the hiring process. Jabil will not ask for your personal identifying information such as a social security number, birth certificate, financial institution, driver’s license number or passport information over the phone or via e-mail. If you believe you are a victim of identity theft, contact the Federal Bureau of Investigations internet crime hotline (www.ic3.gov), the Federal Trade Commission identity theft hotline (www.identitytheft.gov) and/or your local police department. Any scam job listings should be reported to whatever website it was posted in.Jabil, including its subsidiaries, is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, age, disability, genetic information, veteran status, or any other characteristic protected by law. Accessibility Accommodation  If you are a qualified individual with a disability, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access Jabil.com/Careers site as a result of your disability. You can request a reasonable accommodation by sending an e-mail to Always_Accessible@Jabil.com or calling 727-803-7988 with the nature of your request and contact information. Please do not direct any other general employment related questions to this e-mail or phone number. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to. #whereyoubelong #AWorldofPossibilities #EarlyCareer",
       "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Governance-Business-Systems-Analyst-Intern_J2437910",
       "job_posted_at_datetime_utc": "2026-02-02T23:52:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "jabil-data-governance-business-systems-analyst-intern-remote-in-usa"
+      "id": "jabil-data-governance-business-systems-analyst-intern-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -539,17 +341,19 @@
       "employer_name": "Crowdstrike",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Crowdstrike in this exciting opportunity.",
+      "job_description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Our University Recruiting program is dedicated to attracting and cultivating the future leaders of this industry. This program offers paid positions for students and recent grads, designed to provide exposure to work that makes an impact while being supported through a structured experience with seasoned professionals. Ready to join a mission that matters? The future of cybersecurity starts with you.About the Role:CrowdStrike’s CTO Labs team works at the exciting intersection of Artificial Intelligence and Machine Learning, Big Data, and Security. We’re excited to renew our internship program this summer. You will have the opportunity to apply your computational, coding, mathematical and scientific research skills to solve cutting problems from a wide array of areas such as: New frontiers in Cybersecurity, Threat Detection and Prevention, and End-to-End Automation. We are a multidisciplinary team, and you’ll have the chance to broaden your horizons by working jointly with a team of Big Data, Machine Learning, and Security domain experts on hard and impactful problems.Location & Work Arrangement:FULLY REMOTE: This role is fully remote and requires no travel. Your work location is the city/town/province you will be working from remotely. For our 12-week internship program, interns are allowed to work remotely from an alternative location for up to 2 weeks. Interns are also invited to work out of the CrowdStrike office located closest to their remote location.Time Commitment: Interns are expected to work 40 hours per week, Monday through Friday, during standard business hours.Start & End Dates:Cohort 1: Wednesday, May 20 - Friday, August 7, 2026 (11 ½ Weeks)Cohort 2: Monday, June 1 - Friday, August 21, 2026 (12 Weeks)Cohort 3: Monday, June 15 - Friday, September 4, 2026 (12 Weeks)What You’ll Do:Work directly with Sr. Data Scientists, helping to create and automate predictive machine learning modelsHone your ability to balance detail-oriented research with goal-oriented business objectivesImplement and experiment with new algorithms and methodologies to help improve our machine learning modelsAutomate an visualize analyses, results and processes in our machine learning pipelineWhat You’ll Need:Candidate is a PhD-level computer science, data science student or related field, graduating between December 2026 - August 2027Analytically minded with completed coursework in linear algebra and data science or an equivalent knowledge of applied mathematicsExperienced in writing python code to pre-process and analyze data to generate actionable insightsHands on in your approach to understanding data and learning about new fieldsThirsty for knowledge and do not hesitate to step outside of your comfort zone to learn new technologies, algorithms and conceptsComfortable with working in a Linux environmentBonus points for coursework or previous experience in computer security.#LI-Remote#LI-AL2What You Can Expect:Market leader in compensation and equity awardsPaid holidays (including birthday holidays) and 401k matching (where applicable)Professional development opportunities including workshops, tech talks, and Executive Speaker SeriesAssigned mentors from across the company for continuous support and feedbackParticipation in companywide initiatives including FalconFIT, Wellness Programs, and Employee Assistance ProgramEmployee Networks, geographic neighborhood groups, and volunteer opportunities to build connectionsVibrant office culture with world class amenitiesOwnership of impactful projects that move the company forwardGreat Place to Work Certified™ across the globeCrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements.If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.Find out more about your rights as an applicant.CrowdStrike participates in the E-Verify program.Notice of E-Verify ParticipationRight to WorkCrowdStrike, Inc. is committed to fair and equitable compensation practices. The hourly rate for this position for all U.S. candidates is $38 - $45Expected Close Date of Job Posting is:03-30-2026",
       "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Science-Intern---Summer-2026--Remote-_R26761",
       "job_posted_at_datetime_utc": "2026-02-02T23:51:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "crowdstrike-data-science-intern-remote-in-usa"
+      "id": "crowdstrike-data-science-intern-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -558,17 +362,19 @@
       "employer_name": "Blue Cross and Blue Shield of Minnesota",
       "job_city": "Eagan",
       "job_state": "MN",
-      "job_description": "Join Blue Cross and Blue Shield of Minnesota in this exciting opportunity.",
+      "job_description": "About Blue Cross and Blue Shield of MinnesotaAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. We are looking for dedicated and motivated individuals who share our vision of transforming healthcare. As a Blue Cross associate, you are joining a culture that is built on values of succeeding together, finding a better way, and doing the right thing. If you are ready to make a difference, join us.Program DurationOur internship program runs approximately 40 hours per week, from June 1st through mid-August.The Impact You Will HaveBlue Cross and Blue Shield of MN is looking for an Intern with Data Analytics experience to join our Sales Technology team! The Intern - Sales Technology Data Analytics will support the team responsible for managing and enhancing the organization’s sales technology ecosystem. This role will contribute to the analysis and optimization of multiple sales platforms and portals. The intern will use their data analytics skills to evaluate system performance, identify improvement opportunities, and translate data into actionable insights that help drive sales technology strategy. Working closely with team members, the intern will assist with reporting, platform assessments, and ongoing technology initiatives that support sales operations and user experience.Your ResponsibilitiesPerform data cleanup across three disconnected systems, ensuring accuracy and alignment of shared data fields.Organize and analyze data using strong Excel skills, including advanced functions, pivot tables, and complex spreadsheet management.Collaborate with the Sales team to gain broader exposure across Sales and Sales Technology functions.Follow a structured project plan outlining data sources, cleanup workflows, and validation steps.Work with subject matter experts (SMEs) to analyze datasets, verify data accuracy, and identify discrepancies.Update records directly in designated databases when appropriate or route required changes to authorized teams based on security privileges.Partner with fellow interns to coordinate tasks and collectively complete data cleanup deliverables.Gain exposure to various data types, systems, and tools used within the Sales Technology ecosystem.Observe how the Sales Technology team collaborates with cross‑functional partners across the organization.Support additional project work and ad‑hoc tasks as assigned.RequirementsTo be considered for this internship, candidates must meet the following minimum requirements:Must be enrolled in an educational program for the duration of the internship.Completed at least one year (2 semesters or credits equivalent) by the start of the internship.Undergraduate degree in Data Science or Data Analytics.Professional demeanor, positive attitude, and a customer service orientation Willingness to take initiative and learn new concepts and technical skills Ability to work in a hybrid environment, including being on-site at least 2 days per week. Perks of Interning at Blue CrossReal project impactDive into meaningful projects that matter. Your contributions will shape our success, and you’ll see the tangible results of your work. ​ Enterprise-wide networkConnect with individuals across the organization. Develop relationships, learn from diverse perspectives, and expand your professional network. ​ Continuous learning Every day is a chance to learn. On-the-job experiences will sharpen your skills, accelerate your growth, and drive your career forward.  Additional benefits includePlanned personal and professional development events On-site café with breakfast, lunch, and grab-and-go options Free parking Business-casual attire On-site fitness center Hybrid environment Role DesignationHybridAnchored in ConnectionOur hybrid approach is designed to balance flexibility with meaningful in-person connection and collaboration. We come together in the office two days each week – most teams designate at least one anchor day to ensure team interaction. These in-person moments foster relationships, creativity, and alignment. The rest of the week you are empowered to work remote.Compensation and Benefits$0.00 - $0.00 - $0.00Pay is based on several factors which vary based on position, including skills, ability, and knowledge the selected individual is bringing to the specific job.We offer a comprehensive benefits package which may include:Medical, dental, and vision insuranceLife insurance401kPaid Time Off (PTO)Volunteer Paid Time Off (VPTO)And moreTo discover more about what we have to offer, please review our benefits page.Equal Employment Opportunity StatementAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. Blue Cross of Minnesota is an Equal Opportunity Employer and maintains an Affirmative Action plan, as required by Minnesota law applicable to state contractors. All qualified applications will receive consideration for employment without regard to, and will not be discriminated against based on any legally protected characteristic.Individuals with a disability who need a reasonable accommodation in order to apply, please contact us at: talent.acquisition@bluecrossmn.com.Blue Cross® and Blue Shield® of Minnesota and Blue Plus® are nonprofit independent licensees of the Blue Cross and Blue Shield Association.",
       "job_apply_link": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Intern---Sales-Technology-Data-Analyst_R0006194",
       "job_posted_at_datetime_utc": "2026-02-02T23:48:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan"
+      "id": "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -577,17 +383,19 @@
       "employer_name": "Blue Cross and Blue Shield of Minnesota",
       "job_city": "Eagan",
       "job_state": "MN",
-      "job_description": "Join Blue Cross and Blue Shield of Minnesota in this exciting opportunity.",
+      "job_description": "About Blue Cross and Blue Shield of MinnesotaAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. We are looking for dedicated and motivated individuals who share our vision of transforming healthcare. As a Blue Cross associate, you are joining a culture that is built on values of succeeding together, finding a better way, and doing the right thing. If you are ready to make a difference, join us.Program Duration  Our internship program runs approximately 40 hours per week, from June 1st through mid-August. This role is based in Eagan, MN and requires at least 2 days per week on-site.    The Impact You Will Have  Blue Cross Blue Shield of Minnesota is hiring a BI Analytics Intern for Summer 2026. In this role, you will apply knowledge of mathematics, statistics, and reporting to operations data. You will generate and report data used for day‑to‑day operations and support various teams including Operations, Government Programs, Finance, and Provider Relations. This internship offers a unique opportunity to gain hands‑on experience in BI Analytics while working on real‑world projects that directly impact our business and members.    Your Responsibilities  Develop plans, analyze data, and report results to a senior analyst to support informed decision‑making.  Assist in designing and building strategic, actionable insights using visual analytics tools.  Prepare reports and analysis to identify and interpret trends or patterns in complex data sets.  Support the development of reporting programs using various reporting and analytic tools, integrating multiple data sources.  Collaborate with team members on using data in new and innovative ways.    Required Skills and Experiences  To be considered for this internship, you must meet the following minimum requirements:  Must be enrolled in an educational program for the duration of the internship.  Completed at least one year (2 semesters or credits equivalent) by the start of the internship.  Currently enrolled in a bachelor's program in Mathematics, Statistics, Computer Science, Data Science, or a related field.  Professional demeanor, positive attitude, and strong customer service orientation.  Willingness to take initiative and learn new concepts and technical skills.  Ability to work in a hybrid environment, including being on‑site at least 2 days per week.   Preferred Skills and Experiences  Coursework in Modeling/Data Visualization, Financial Analytics, or Marketing Analytics.  Experience with Databricks, PowerBI, SSRS, SSMS, SSIS, or SQL queries.  Strong interest in Data Analytics.  Proficiency in MS Office (Word, Excel, PowerPoint).  Strong problem‑solving and organizational skills.  Ability to manage multiple tasks effectively.  Ability to build relationships and interact with all levels of the organization.  Excellent written and verbal communication skills, including presenting technical information.    Perks of Interning at Blue Cross   Real project impact  Dive into meaningful work that matters. Your contributions will directly influence organizational success, and you’ll see the real-world results of your efforts.  Enterprise-wide network  Connect with individuals across the organization, build relationships, and expand your professional network while learning from a wide range of perspectives.  Continuous learning  Sharpen your skills through on‑the‑job experiences that accelerate your growth and career development.   Additional Benefits  Planned personal and professional development events  On‑site café with breakfast, lunch, and grab‑and‑go items  Free parking  Business‑casual attire  On‑site fitness center  Hybrid work environment Role DesignationHybridAnchored in ConnectionOur hybrid approach is designed to balance flexibility with meaningful in-person connection and collaboration. We come together in the office two days each week – most teams designate at least one anchor day to ensure team interaction. These in-person moments foster relationships, creativity, and alignment. The rest of the week you are empowered to work remote.Compensation and Benefits$25.00 - $26.25 - $27.50 HourlyPay is based on several factors which vary based on position, including skills, ability, and knowledge the selected individual is bringing to the specific job.We offer a comprehensive benefits package which may include:Medical, dental, and vision insuranceLife insurance401kPaid Time Off (PTO)Volunteer Paid Time Off (VPTO)And moreTo discover more about what we have to offer, please review our benefits page.Equal Employment Opportunity StatementAt Blue Cross and Blue Shield of Minnesota, we are committed to paving the way for everyone to achieve their healthiest life. Blue Cross of Minnesota is an Equal Opportunity Employer and maintains an Affirmative Action plan, as required by Minnesota law applicable to state contractors. All qualified applications will receive consideration for employment without regard to, and will not be discriminated against based on any legally protected characteristic.Individuals with a disability who need a reasonable accommodation in order to apply, please contact us at: talent.acquisition@bluecrossmn.com.Blue Cross® and Blue Shield® of Minnesota and Blue Plus® are nonprofit independent licensees of the Blue Cross and Blue Shield Association.",
       "job_apply_link": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Intern---Enterprise-Data-Analyst_R0006056",
       "job_posted_at_datetime_utc": "2026-02-02T23:48:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan"
+      "id": "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.114Z",
     "postedAt": null
   },
   {
@@ -596,17 +404,19 @@
       "employer_name": "HARMAN International",
       "job_city": "Novi",
       "job_state": "MI",
-      "job_description": "Join HARMAN International in this exciting opportunity.",
+      "job_description": "A Career at HARMANAs a technology leader that is rapidly on the move, HARMAN is filled with people who are focused on making life better. Innovation, inclusivity and teamwork are a part of our DNA. When you add that to the challenges we take on and solve together, you’ll discover that at HARMAN you can grow, make a difference and be proud of the work you do every day.Introduction: A Career at HARMAN AutomotiveWe’re a global, multi-disciplinary team that’s putting the innovative power of technology to work and transforming tomorrow. At HARMAN Automotive, we give you the keys to fast-track your career.Engineer audio systems and integrated technology platforms that augment the driving experienceCombine ingenuity, in-depth research, and a spirit of collaboration with design and engineering excellenceAdvance in-vehicle infotainment, safety, efficiency, and enjoymentAbout the RoleThe Experiential R&D Department is seeking an intern for the responsibility of assisting the data analysis and reporting of automotive audio evaluation results on sound quality and technology features. We conduct controlled listening tests to measure the sound quality of Harman’s automotive audio systems and other technologies.  The resulting data is utilized to establish performance targets and assist Engineering & Product Development with system optimization. What You Will DoAssist with the analysis and creation of Experiential R&D reports and data requests Provide support for testing, data entry, and database maintenance Support global data needs by developing dashboards for common requests Integrate objective data with subjective feedback to mine for insights Support ML/AI development activities and feature development Work alongside teammates in Germany, Japan, India and China toward a common goal and maintain a global database. What You Need to Be SuccessfulMust have taken courses in or closely related to Management Information Systems (MIS), Data Science, Computer Science/Engineering, Object-Oriented Programming, Mobile App Development, Information Visualization, Database Development, Advanced Mathematics, and/or Statistics. Must have strong oral and written communication skills and be able to confidently interact with and present information to senior leaders and executives Must work collaboratively with strong interpersonal and relationship-building skills Experience with Microsoft Office (Excel, Word, PowerPoint) Experience with Python, Machine Learning, Big Data Structures Results orientated mindset Bonus Points if You Have Demonstrated experience leading projects to completion Interest in the audio or automotive industry Experience with Qlik, Snowflake, AWS, S3, Databricks, Matillion. Network Programming & Socket Proficiency in TCP/UDP socket programming, WebSockets, or similar network communication protocols. Programming Languages & Frameworks Proficiency in one or more high-level languages (e.g., C++, C#, Java, Python, Go, Rust) used for networked applications. What Makes You EligibleMust be currently enrolled in a realted Bachelor's Degree program or higher at an accredited institution having completed your Sophomore year or later, taking at least one class in the semester/quarter before participation in the internship program, and returning to school for at least one semester upon completion of the internship programMust have a cumulative 3.0 GPABe willing to work in an office in Novi, Michigan.Able to provide your own housing and transportation to/from work.Must possess unrestricted work authorization.Successfully complete a background investigation and drug screen as a condition of employmentMust provide full work availability from May 18, 2026 through August 7, 2026 and be able to work 40 hours per weekWhat We Offer Flexible work environment, allowing for hybrid work for positions/tasks that can be performed outside a HARMAN locationAccess to employee discounts on world-class Harman and Samsung products (JBL, HARMAN Kardon, AKG, etc.)Extensive training opportunities through our own HARMAN UniversityAccess to HARMAN Campus Fitness Center and CafeteriaAn inclusive and diverse work environment that fosters and encourages professional and personal developmentPay TransparencyFreshman: $21.00Sophomore: $23.00Junior: $25.00Senior: $27.00  Master: $32.00 Doct: $38.00Dependent on the internship offered, pay is based on factors, including without limitation, the applicant's level of education and business need.BenefitsHARMAN is interested in your health and wellbeing and offers benefits designed to support your wellbeing. Benefits and perks may vary depending on the nature of your relationship with HARMAN, and may include paid sick leave and medical benefits.HARMAN is proud to be an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
       "job_apply_link": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/US_Novi_30001-Cabot-Drive/Summer-Intern---Data-Visualization--Experiential-R-D_R-51415-2026",
       "job_posted_at_datetime_utc": "2026-02-02T23:48:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_source": "simplifyjobs",
       "job_posted_at": "1h",
-      "id": "harman-international-intern-data-visualization-experiential-research-and-development-novi"
+      "id": "harman-international-intern-data-visualization-experiential-research-and-development-novi",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-04T04:38:30.574Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-04T07:48:17.115Z",
     "postedAt": null
   },
   {
