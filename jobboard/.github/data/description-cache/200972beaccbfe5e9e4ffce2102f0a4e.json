@@ -1,0 +1,17 @@
+{
+  "url": "https://avathon.com/company/careers-job-listing/?gh_jid=4655249005",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://avathon.com/company/careers-job-listing/?gh_jid=4655249005",
+      "fetchedAt": "2026-02-04T08:29:14.146Z"
+    }
+  },
+  "cachedAt": 1770193754146
+}
