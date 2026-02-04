@@ -1,0 +1,19 @@
+{
+  "url": "https://boards.greenhouse.io/aloyoga/jobs/5789977004",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "WHY JOIN ALO? Mindful movement. It’s at the core of why we do what we do at ALO—it’s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That’s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life.At ALO, we merge art, data, and mindfulness. You’ll be part of a team shaping how technology enhances well-being and creativity—using data not just to optimize, but to inspire. OVERVIEW This internship sits at the crossroads of retail operations, customer experience, and data engineering. The ALO internship programs starts June 8th and ends July 31st. Interns will be working 40 hours a week at our Beverly Hills HQ or our San Ramon, CA office. RESPONSIBILITIES Build and optimize data pipelines for retail, inventory, and customer data especially using AWS tool chain Integrate and clean data from multiple internal and third-party sources Support personalization, recommendation, and loyalty analytics initiatives Collaborate with Data Science and MarTech teams on customer intelligence projects Enhance data reliability and timeliness for dashboards and models REQUIRED QUALIFICATIONS BS or MS in Computer Science, Data Engineering, or related field Strong SQL and Python skills Experience with APIs, data ingestion, and transformation frameworks Familiarity with data warehouse concepts and performance tuning PREFERRED QUALIFICATIONS Experience with eCommerce or retail datasets Familiarity with customer segmentation or recommendation systems WHAT YOU'LL LEARN You’ll see how retail and digital ecosystems converge—and how well-designed data pipelines make that experience seamless. The base pay range for this position is $45/hr-50/hr which represents the current range for the non-exempt position. Please note that actual pay will vary based on factors including but not limited to location, experience, and performance. For CA residents, Job Applicant Privacy Policy HERE.",
+    "requirements": [
+      "Experience with APIs, data ingestion, and transformation frameworks",
+      "Experience with eCommerce or retail datasets"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/aloyoga/jobs/5789977004",
+      "fetchedAt": "2026-02-04T04:38:44.969Z"
+    }
+  },
+  "cachedAt": 1770179924969
+}

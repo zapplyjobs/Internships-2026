@@ -1,18 +1,113 @@
 {
-  "generated": "2026-02-04T04:33:51.992Z",
+  "generated": "2026-02-04T04:40:16.971Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T04:33:51.992Z",
-  "period_end": "2026-02-04T04:33:51.992Z",
+  "period_start": "2026-01-28T04:40:16.971Z",
+  "period_end": "2026-02-04T04:40:16.971Z",
   "summary": {
-    "total_jobs_posted": 0,
-    "unique_jobs": 0,
+    "total_jobs_posted": 10,
+    "unique_jobs": 10,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 0
+    "channels_active": 3
   },
-  "by_channel": {},
+  "by_channel": {
+    "🤖・ai-internships": {
+      "channel_id": "1464303204178067620",
+      "count": 5,
+      "jobs": [
+        "t-mobile-software-engineering-agentic-ai-internship-bellevue",
+        "mckesson-data-architect-intern-the-woodlands",
+        "alo-yoga-data-intern-ai-culver-city",
+        "interdigital-ph-d-intern-6g-wireless-systems-ai-ml-plainview",
+        "interdigital-generative-ai-implementation-intern-conshohocken"
+      ],
+      "recent_jobs": [
+        {
+          "id": "t-mobile-software-engineering-agentic-ai-internship-bellevue",
+          "title": "Software Engineering – Agentic AI Internship",
+          "company": "T-Mobile",
+          "posted_at": "2026-02-04T04:39:48.045Z"
+        },
+        {
+          "id": "mckesson-data-architect-intern-the-woodlands",
+          "title": "Data Architect Intern",
+          "company": "McKesson",
+          "posted_at": "2026-02-04T04:39:49.793Z"
+        },
+        {
+          "id": "alo-yoga-data-intern-ai-culver-city",
+          "title": "Data Intern - AI",
+          "company": "Alo Yoga",
+          "posted_at": "2026-02-04T04:39:51.526Z"
+        },
+        {
+          "id": "interdigital-ph-d-intern-6g-wireless-systems-ai-ml-plainview",
+          "title": "Ph.D. Intern - 6G Wireless Systems - AI/ML",
+          "company": "Interdigital",
+          "posted_at": "2026-02-04T04:39:53.313Z"
+        },
+        {
+          "id": "interdigital-generative-ai-implementation-intern-conshohocken",
+          "title": "Generative AI Implementation Intern",
+          "company": "Interdigital",
+          "posted_at": "2026-02-04T04:39:55.096Z"
+        }
+      ]
+    },
+    "📊・data-science-internships": {
+      "channel_id": "1464303266866135232",
+      "count": 3,
+      "jobs": [
+        "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
+        "alo-yoga-data-engineer-intern-san-ramon",
+        "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton"
+      ],
+      "recent_jobs": [
+        {
+          "id": "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
+          "title": "Data Analyst Intern - Growth Marketing",
+          "company": "Alo Yoga",
+          "posted_at": "2026-02-04T04:39:59.948Z"
+        },
+        {
+          "id": "alo-yoga-data-engineer-intern-san-ramon",
+          "title": "Data Engineer Intern",
+          "company": "Alo Yoga",
+          "posted_at": "2026-02-04T04:40:01.700Z"
+        },
+        {
+          "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
+          "title": "2026 Summer Intern - Finance Insights and Data Analyst - Pleasanton",
+          "company": "Roche",
+          "posted_at": "2026-02-04T04:40:03.621Z"
+        }
+      ]
+    },
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 2,
+      "jobs": [
+        "microsoft-research-intern-applied-speech-research-berkeley",
+        "mitek-product-marketing-analytics-intern-chesterfield"
+      ],
+      "recent_jobs": [
+        {
+          "id": "microsoft-research-intern-applied-speech-research-berkeley",
+          "title": "Research Intern - Applied Speech Research",
+          "company": "Microsoft",
+          "posted_at": "2026-02-04T04:40:08.401Z"
+        },
+        {
+          "id": "mitek-product-marketing-analytics-intern-chesterfield",
+          "title": "Product Marketing Analytics Intern",
+          "company": "MiTek",
+          "posted_at": "2026-02-04T04:40:10.268Z"
+        }
+      ]
+    }
+  },
   "multi_channel_routing": [],
   "failures": [],
   "filtered": {
