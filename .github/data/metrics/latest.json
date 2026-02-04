@@ -1,21 +1,21 @@
 {
-  "generated": "2026-02-04T07:48:52.568Z",
+  "generated": "2026-02-04T08:14:11.901Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T07:48:52.568Z",
-  "period_end": "2026-02-04T07:48:52.568Z",
+  "period_start": "2026-01-28T08:14:11.901Z",
+  "period_end": "2026-02-04T08:14:11.901Z",
   "summary": {
-    "total_jobs_posted": 80,
-    "unique_jobs": 80,
+    "total_jobs_posted": 90,
+    "unique_jobs": 90,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 4
+    "channels_active": 5
   },
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 34,
+      "count": 37,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -50,27 +50,12 @@
         "gulfstream-fall-2026-collegiate-intern-ief-stress-engineering-savannah",
         "guidewire-cyber-risk-data-science-intern-san-mateo",
         "finastra-ai-engineer-intern-atlanta",
-        "leidos-human-centered-ai-intern-remote-in-usa"
+        "leidos-human-centered-ai-intern-remote-in-usa",
+        "toyota-research-institute-energy-materials-intern-generative-models-and-reinforcement-learning-mountain-view",
+        "crowdstrike-data-science-intern-remote-in-usa",
+        "harman-international-intern-data-visualization-experiential-research-and-development-novi"
       ],
       "recent_jobs": [
-        {
-          "id": "zoom-ai-engineering-intern-ai-agent-seattle",
-          "title": "AI Engineering Intern - AI Agent",
-          "company": "Zoom",
-          "posted_at": "2026-02-04T06:49:01.086Z"
-        },
-        {
-          "id": "zoom-research-intern-quality-safety-ai-safety-seattle",
-          "title": "Research Intern - Quality & Safety - AI Safety",
-          "company": "Zoom",
-          "posted_at": "2026-02-04T06:49:02.760Z"
-        },
-        {
-          "id": "zoom-enterprise-graph-retrieval-intern-seattle",
-          "title": "Enterprise Graph Retrieval Intern",
-          "company": "Zoom",
-          "posted_at": "2026-02-04T06:49:04.457Z"
-        },
         {
           "id": "zoom-ai-ml-intern-agentic-retrieval-enterprise-rag-seattle",
           "title": "AI/ML Intern - Agentic Retrieval & Enterprise RAG",
@@ -112,12 +97,30 @@
           "title": "Human-Centered AI Intern",
           "company": "Leidos",
           "posted_at": "2026-02-04T07:48:40.982Z"
+        },
+        {
+          "id": "toyota-research-institute-energy-materials-intern-generative-models-and-reinforcement-learning-mountain-view",
+          "title": "Energy & Materials Intern - Generative Models and Reinforcement Learning",
+          "company": "Toyota Research Institute",
+          "posted_at": "2026-02-04T08:13:56.200Z"
+        },
+        {
+          "id": "crowdstrike-data-science-intern-remote-in-usa",
+          "title": "Data Science Intern",
+          "company": "Crowdstrike",
+          "posted_at": "2026-02-04T08:13:58.113Z"
+        },
+        {
+          "id": "harman-international-intern-data-visualization-experiential-research-and-development-novi",
+          "title": "Intern - Data Visualization - Experiential Research and Development",
+          "company": "HARMAN International",
+          "posted_at": "2026-02-04T08:14:00.374Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 16,
+      "count": 22,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -134,45 +137,15 @@
         "sharp-electronics-intern-solutions-and-services-ai-and-data-analytics-downers-grove",
         "the-walt-disney-company-content-brand-insights-intern-burbank",
         "caterpillar-intern-manufacturing-engineering-data-analysis-west-lafayette",
-        "guidewire-business-intelligence-analytics-intern-san-mateo"
+        "guidewire-business-intelligence-analytics-intern-san-mateo",
+        "microsoft-research-intern-ai-for-nursing-redmond",
+        "bose-data-engineer-intern-co-op-framingham",
+        "bose-data-analytics-engineer-intern-co-op-framingham",
+        "jabil-data-governance-business-systems-analyst-intern-remote-in-usa",
+        "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan",
+        "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan"
       ],
       "recent_jobs": [
-        {
-          "id": "intel-mecop-intern-wet-etch-data-science-hillsboro",
-          "title": "Mecop Intern - Wet Etch - Data Science",
-          "company": "Intel",
-          "posted_at": "2026-02-04T05:29:07.906Z"
-        },
-        {
-          "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-tucson-tucson",
-          "title": "2026 Summer Intern - Finance Insights and Data Analyst - Tucson",
-          "company": "Roche",
-          "posted_at": "2026-02-04T05:51:00.250Z"
-        },
-        {
-          "id": "alo-yoga-data-analyst-intern-culver-city",
-          "title": "Data Analyst Intern",
-          "company": "Alo Yoga",
-          "posted_at": "2026-02-04T05:51:01.921Z"
-        },
-        {
-          "id": "samsung-data-analyst-process-improvement-internship-plano",
-          "title": "Data Analyst & Process Improvement Internship",
-          "company": "Samsung",
-          "posted_at": "2026-02-04T06:19:05.840Z"
-        },
-        {
-          "id": "samsung-data-analyst-intern-orange",
-          "title": "Data Analyst Intern",
-          "company": "Samsung",
-          "posted_at": "2026-02-04T06:19:07.675Z"
-        },
-        {
-          "id": "tiktok-data-science-intern-advertisement-team-2026-start-phd-san-jose",
-          "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
-          "company": "TikTok",
-          "posted_at": "2026-02-04T06:49:21.278Z"
-        },
         {
           "id": "sharp-electronics-intern-solutions-and-services-ai-and-data-analytics-downers-grove",
           "title": "Intern-Solutions and Services - AI and Data Analytics",
@@ -196,6 +169,42 @@
           "title": "Business Intelligence Analytics Intern",
           "company": "Guidewire",
           "posted_at": "2026-02-04T07:48:23.997Z"
+        },
+        {
+          "id": "microsoft-research-intern-ai-for-nursing-redmond",
+          "title": "Research Intern - AI for Nursing",
+          "company": "Microsoft",
+          "posted_at": "2026-02-04T08:13:42.435Z"
+        },
+        {
+          "id": "bose-data-engineer-intern-co-op-framingham",
+          "title": "Data Engineer Intern/Co-op",
+          "company": "Bose",
+          "posted_at": "2026-02-04T08:13:44.283Z"
+        },
+        {
+          "id": "bose-data-analytics-engineer-intern-co-op-framingham",
+          "title": "Data Analytics Engineer Intern/Co-op",
+          "company": "Bose",
+          "posted_at": "2026-02-04T08:13:46.062Z"
+        },
+        {
+          "id": "jabil-data-governance-business-systems-analyst-intern-remote-in-usa",
+          "title": "Data Governance Business Systems Analyst Intern",
+          "company": "Jabil",
+          "posted_at": "2026-02-04T08:13:47.945Z"
+        },
+        {
+          "id": "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan",
+          "title": "Intern Sales Technology Data Analyst",
+          "company": "Blue Cross and Blue Shield of Minnesota",
+          "posted_at": "2026-02-04T08:13:49.704Z"
+        },
+        {
+          "id": "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan",
+          "title": "Intern Enterprise Data Analyst",
+          "company": "Blue Cross and Blue Shield of Minnesota",
+          "posted_at": "2026-02-04T08:13:51.479Z"
         }
       ]
     },
@@ -338,6 +347,21 @@
           "title": "Mecop Intern",
           "company": "Intel",
           "posted_at": "2026-02-04T07:48:45.855Z"
+        }
+      ]
+    },
+    "📣・marketing-internships": {
+      "channel_id": "1464303312626122855",
+      "count": 1,
+      "jobs": [
+        "nasdaq-research-development-intern-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "nasdaq-research-development-intern-atlanta",
+          "title": "Research & Development Intern",
+          "company": "Nasdaq",
+          "posted_at": "2026-02-04T08:14:05.183Z"
         }
       ]
     }
