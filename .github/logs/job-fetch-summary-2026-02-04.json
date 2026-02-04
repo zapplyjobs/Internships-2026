@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-02-04T16:17:57.679Z",
+  "timestamp": "2026-02-04T16:48:16.352Z",
   "total_fetched": 2388,
   "current_jobs": 439,
   "archived_jobs": 1530,
-  "fresh_jobs": 3,
-  "duplicates_filtered": 2385,
+  "fresh_jobs": 0,
+  "duplicates_filtered": 2388,
   "queue_status": {
-    "total": 4,
+    "total": 1,
     "pending": 0,
-    "enriched": 4,
+    "enriched": 1,
     "posted": 0
   }
 }
