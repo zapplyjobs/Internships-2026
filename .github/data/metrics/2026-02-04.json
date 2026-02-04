@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T05:51:28.833Z",
+  "generated": "2026-02-04T06:19:22.788Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T05:51:28.833Z",
-  "period_end": "2026-02-04T05:51:28.833Z",
+  "period_start": "2026-01-28T06:19:22.788Z",
+  "period_end": "2026-02-04T06:19:22.788Z",
   "summary": {
-    "total_jobs_posted": 40,
-    "unique_jobs": 40,
+    "total_jobs_posted": 50,
+    "unique_jobs": 50,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 19,
+      "count": 23,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -35,33 +35,13 @@
         "relay-generative-ai-creative-intern-r-d-raleigh",
         "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-summer-2026-schenectady",
         "wex-intern-data-science-portland",
-        "leidos-performance-management-ai-ml-intern-remote-in-usa"
+        "leidos-performance-management-ai-ml-intern-remote-in-usa",
+        "kla-ai-software-engineering-intern-milpitas",
+        "samsung-machine-learning-intern-plano",
+        "quantum-workplace-insights-analyst-intern-omaha",
+        "zoom-gen-ai-research-intern-zoom-genai-r-d-team-seattle"
       ],
       "recent_jobs": [
-        {
-          "id": "applied-materials-physicist-scientist-intern-phd-santa-clara-ca-santa-clara",
-          "title": "Physicist/Scientist Intern - PhD - Santa Clara, CA",
-          "company": "Applied Materials",
-          "posted_at": "2026-02-04T05:00:40.305Z"
-        },
-        {
-          "id": "rocket-companies-data-analyst-intern-summer-2026-windsor-on-detroit",
-          "title": "Data Analyst Intern - Summer 2026 - Windsor','On",
-          "company": "Rocket Companies",
-          "posted_at": "2026-02-04T05:00:42.109Z"
-        },
-        {
-          "id": "johnson-johnson-intern-neuroscience-digital-health-remote-in-usa",
-          "title": "Intern – Neuroscience & Digital Health",
-          "company": "Johnson & Johnson",
-          "posted_at": "2026-02-04T05:29:12.849Z"
-        },
-        {
-          "id": "jabil-supply-chain-data-analysis-intern-st-petersburg",
-          "title": "Supply Chain Data Analysis Intern",
-          "company": "Jabil",
-          "posted_at": "2026-02-04T05:29:14.583Z"
-        },
         {
           "id": "bio-techne-software-developer-intern-san-jose",
           "title": "Software Developer Intern",
@@ -97,12 +77,36 @@
           "title": "Performance Management AI/ML Intern",
           "company": "Leidos",
           "posted_at": "2026-02-04T05:51:22.112Z"
+        },
+        {
+          "id": "kla-ai-software-engineering-intern-milpitas",
+          "title": "AI Software Engineering Intern",
+          "company": "KLA",
+          "posted_at": "2026-02-04T06:18:55.307Z"
+        },
+        {
+          "id": "samsung-machine-learning-intern-plano",
+          "title": "Machine Learning Intern",
+          "company": "Samsung",
+          "posted_at": "2026-02-04T06:18:57.054Z"
+        },
+        {
+          "id": "quantum-workplace-insights-analyst-intern-omaha",
+          "title": "Insights Analyst Intern",
+          "company": "Quantum Workplace",
+          "posted_at": "2026-02-04T06:18:58.802Z"
+        },
+        {
+          "id": "zoom-gen-ai-research-intern-zoom-genai-r-d-team-seattle",
+          "title": "Gen AI Research Intern - Zoom GenAI R&D Team",
+          "company": "Zoom",
+          "posted_at": "2026-02-04T06:19:00.864Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 9,
+      "count": 11,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -112,15 +116,11 @@
         "roche-2026-summer-intern-finance-insights-and-data-analyst-carlsbad-carlsbad",
         "intel-mecop-intern-wet-etch-data-science-hillsboro",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-tucson-tucson",
-        "alo-yoga-data-analyst-intern-culver-city"
+        "alo-yoga-data-analyst-intern-culver-city",
+        "samsung-data-analyst-process-improvement-internship-plano",
+        "samsung-data-analyst-intern-orange"
       ],
       "recent_jobs": [
-        {
-          "id": "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
-          "title": "Data Analyst Intern - Growth Marketing",
-          "company": "Alo Yoga",
-          "posted_at": "2026-02-04T04:39:59.948Z"
-        },
         {
           "id": "alo-yoga-data-engineer-intern-san-ramon",
           "title": "Data Engineer Intern",
@@ -168,12 +168,24 @@
           "title": "Data Analyst Intern",
           "company": "Alo Yoga",
           "posted_at": "2026-02-04T05:51:01.921Z"
+        },
+        {
+          "id": "samsung-data-analyst-process-improvement-internship-plano",
+          "title": "Data Analyst & Process Improvement Internship",
+          "company": "Samsung",
+          "posted_at": "2026-02-04T06:19:05.840Z"
+        },
+        {
+          "id": "samsung-data-analyst-intern-orange",
+          "title": "Data Analyst Intern",
+          "company": "Samsung",
+          "posted_at": "2026-02-04T06:19:07.675Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 11,
+      "count": 14,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -185,27 +197,12 @@
         "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata",
         "bio-techne-software-developer-intern-wallingford",
         "empower-intern-software-engineer-greenwood-village",
-        "motorola-global-customer-data-management-intern-chicago"
+        "motorola-global-customer-data-management-intern-chicago",
+        "berkshire-grey-robot-learning-r-d-intern-bedford",
+        "kaiser-permanente-data-reporting-master-s-intern-pasadena",
+        "kaiser-permanente-data-analytics-intern-multiple-teams-pasadena"
       ],
       "recent_jobs": [
-        {
-          "id": "mitek-product-marketing-analytics-intern-chesterfield",
-          "title": "Product Marketing Analytics Intern",
-          "company": "MiTek",
-          "posted_at": "2026-02-04T04:40:10.268Z"
-        },
-        {
-          "id": "rr-donnelley-unix-linux-engineer-intern-warrenville",
-          "title": "Unix/Linux Engineer Intern",
-          "company": "RR Donnelley",
-          "posted_at": "2026-02-04T05:00:46.812Z"
-        },
-        {
-          "id": "hewlett-packard-hp-college-intern-ai-business-applications-support-spring",
-          "title": "College Intern - AI Business Applications Support",
-          "company": "Hewlett Packard (HP)",
-          "posted_at": "2026-02-04T05:00:48.651Z"
-        },
         {
           "id": "thyssenkrupp-data-analytics-intern-southfield",
           "title": "Data Analytics Intern",
@@ -247,14 +244,33 @@
           "title": "Global Customer Data Management Intern",
           "company": "Motorola",
           "posted_at": "2026-02-04T05:51:10.199Z"
+        },
+        {
+          "id": "berkshire-grey-robot-learning-r-d-intern-bedford",
+          "title": "Robot Learning R&D Intern",
+          "company": "Berkshire Grey",
+          "posted_at": "2026-02-04T06:19:12.518Z"
+        },
+        {
+          "id": "kaiser-permanente-data-reporting-master-s-intern-pasadena",
+          "title": "Data Reporting Master's Intern",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-02-04T06:19:14.340Z"
+        },
+        {
+          "id": "kaiser-permanente-data-analytics-intern-multiple-teams-pasadena",
+          "title": "Data Analytics Intern - Multiple Teams",
+          "company": "Kaiser Permanente",
+          "posted_at": "2026-02-04T06:19:16.092Z"
         }
       ]
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 1,
+      "count": 2,
       "jobs": [
-        "medical-informatics-engineering-development-intern-fort-wayne"
+        "medical-informatics-engineering-development-intern-fort-wayne",
+        "moog-intern-it-computer-science-manufacturing-operation-platform-boston"
       ],
       "recent_jobs": [
         {
@@ -262,6 +278,12 @@
           "title": "Development Intern",
           "company": "Medical Informatics Engineering",
           "posted_at": "2026-02-04T05:29:31.148Z"
+        },
+        {
+          "id": "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
+          "title": "Intern – IT Computer Science - Manufacturing Operation Platform",
+          "company": "Moog ",
+          "posted_at": "2026-02-04T06:18:50.465Z"
         }
       ]
     }
