@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T05:29:37.861Z",
+  "generated": "2026-02-04T05:51:28.833Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T05:29:37.861Z",
-  "period_end": "2026-02-04T05:29:37.861Z",
+  "period_start": "2026-01-28T05:51:28.833Z",
+  "period_end": "2026-02-04T05:51:28.833Z",
   "summary": {
-    "total_jobs_posted": 30,
-    "unique_jobs": 30,
+    "total_jobs_posted": 40,
+    "unique_jobs": 40,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 14,
+      "count": 19,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -30,39 +30,14 @@
         "rocket-companies-data-analyst-intern-summer-2026-windsor-on-detroit",
         "johnson-johnson-intern-neuroscience-digital-health-remote-in-usa",
         "jabil-supply-chain-data-analysis-intern-st-petersburg",
-        "bio-techne-software-developer-intern-san-jose"
+        "bio-techne-software-developer-intern-san-jose",
+        "aspentech-software-developer-intern-digital-grid-management-wayzata",
+        "relay-generative-ai-creative-intern-r-d-raleigh",
+        "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-summer-2026-schenectady",
+        "wex-intern-data-science-portland",
+        "leidos-performance-management-ai-ml-intern-remote-in-usa"
       ],
       "recent_jobs": [
-        {
-          "id": "interdigital-generative-ai-implementation-intern-conshohocken",
-          "title": "Generative AI Implementation Intern",
-          "company": "Interdigital",
-          "posted_at": "2026-02-04T04:39:55.096Z"
-        },
-        {
-          "id": "interdigital-intern-ai-ml-applied-to-wireless-communications-mountain-view",
-          "title": "Intern AI/ML applied to Wireless Communications",
-          "company": "Interdigital",
-          "posted_at": "2026-02-04T05:00:33.290Z"
-        },
-        {
-          "id": "interdigital-intern-deep-learning-for-image-and-video-processing-mountain-view",
-          "title": "Intern – Deep Learning for Image and Video Processing",
-          "company": "Interdigital",
-          "posted_at": "2026-02-04T05:00:35.121Z"
-        },
-        {
-          "id": "zoom-speech-scientist-intern-seattle",
-          "title": "Speech Scientist Intern",
-          "company": "Zoom",
-          "posted_at": "2026-02-04T05:00:36.793Z"
-        },
-        {
-          "id": "applied-materials-physicist-scientist-intern-santa-clara",
-          "title": "Physicist/Scientist Intern",
-          "company": "Applied Materials",
-          "posted_at": "2026-02-04T05:00:38.524Z"
-        },
         {
           "id": "applied-materials-physicist-scientist-intern-phd-santa-clara-ca-santa-clara",
           "title": "Physicist/Scientist Intern - PhD - Santa Clara, CA",
@@ -92,12 +67,42 @@
           "title": "Software Developer Intern",
           "company": "Bio-Techne",
           "posted_at": "2026-02-04T05:29:16.333Z"
+        },
+        {
+          "id": "aspentech-software-developer-intern-digital-grid-management-wayzata",
+          "title": "Software Developer Intern - Digital Grid Management",
+          "company": "AspenTech",
+          "posted_at": "2026-02-04T05:51:15.249Z"
+        },
+        {
+          "id": "relay-generative-ai-creative-intern-r-d-raleigh",
+          "title": "Generative AI Creative Intern - R&D",
+          "company": "Relay",
+          "posted_at": "2026-02-04T05:51:16.947Z"
+        },
+        {
+          "id": "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-summer-2026-schenectady",
+          "title": "GE Vernova Time-Series Foundation Models Research Intern - Summer 2026",
+          "company": "GE Vernova",
+          "posted_at": "2026-02-04T05:51:18.730Z"
+        },
+        {
+          "id": "wex-intern-data-science-portland",
+          "title": "Intern – Data Science",
+          "company": "Wex",
+          "posted_at": "2026-02-04T05:51:20.443Z"
+        },
+        {
+          "id": "leidos-performance-management-ai-ml-intern-remote-in-usa",
+          "title": "Performance Management AI/ML Intern",
+          "company": "Leidos",
+          "posted_at": "2026-02-04T05:51:22.112Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 7,
+      "count": 9,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -105,7 +110,9 @@
         "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-somerset-county",
         "farmers-insurance-data-science-intern-hybrid-to-caledonia-mi-grand-rapids",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-carlsbad-carlsbad",
-        "intel-mecop-intern-wet-etch-data-science-hillsboro"
+        "intel-mecop-intern-wet-etch-data-science-hillsboro",
+        "roche-2026-summer-intern-finance-insights-and-data-analyst-tucson-tucson",
+        "alo-yoga-data-analyst-intern-culver-city"
       ],
       "recent_jobs": [
         {
@@ -149,12 +156,24 @@
           "title": "Mecop Intern - Wet Etch - Data Science",
           "company": "Intel",
           "posted_at": "2026-02-04T05:29:07.906Z"
+        },
+        {
+          "id": "roche-2026-summer-intern-finance-insights-and-data-analyst-tucson-tucson",
+          "title": "2026 Summer Intern - Finance Insights and Data Analyst - Tucson",
+          "company": "Roche",
+          "posted_at": "2026-02-04T05:51:00.250Z"
+        },
+        {
+          "id": "alo-yoga-data-analyst-intern-culver-city",
+          "title": "Data Analyst Intern",
+          "company": "Alo Yoga",
+          "posted_at": "2026-02-04T05:51:01.921Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 8,
+      "count": 11,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -163,15 +182,12 @@
         "thyssenkrupp-data-analytics-intern-southfield",
         "national-renewable-energy-laboratory-software-engineering-intern-golden",
         "greystar-worldwide-data-engineering-intern-master-s-level-houston",
-        "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata"
+        "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata",
+        "bio-techne-software-developer-intern-wallingford",
+        "empower-intern-software-engineer-greenwood-village",
+        "motorola-global-customer-data-management-intern-chicago"
       ],
       "recent_jobs": [
-        {
-          "id": "microsoft-research-intern-applied-speech-research-berkeley",
-          "title": "Research Intern - Applied Speech Research",
-          "company": "Microsoft",
-          "posted_at": "2026-02-04T04:40:08.401Z"
-        },
         {
           "id": "mitek-product-marketing-analytics-intern-chesterfield",
           "title": "Product Marketing Analytics Intern",
@@ -213,6 +229,24 @@
           "title": "Project Engineering Intern - Digital Grid Management - Summer 2026",
           "company": "AspenTech",
           "posted_at": "2026-02-04T05:29:26.351Z"
+        },
+        {
+          "id": "bio-techne-software-developer-intern-wallingford",
+          "title": "Software Developer Intern",
+          "company": "Bio-Techne",
+          "posted_at": "2026-02-04T05:51:06.847Z"
+        },
+        {
+          "id": "empower-intern-software-engineer-greenwood-village",
+          "title": "Intern Software Engineer",
+          "company": "Empower",
+          "posted_at": "2026-02-04T05:51:08.539Z"
+        },
+        {
+          "id": "motorola-global-customer-data-management-intern-chicago",
+          "title": "Global Customer Data Management Intern",
+          "company": "Motorola",
+          "posted_at": "2026-02-04T05:51:10.199Z"
         }
       ]
     },
