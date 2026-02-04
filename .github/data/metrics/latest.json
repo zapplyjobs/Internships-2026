@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T08:30:05.318Z",
+  "generated": "2026-02-04T08:51:40.400Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T08:30:05.318Z",
-  "period_end": "2026-02-04T08:30:05.318Z",
+  "period_start": "2026-01-28T08:51:40.400Z",
+  "period_end": "2026-02-04T08:51:40.400Z",
   "summary": {
-    "total_jobs_posted": 100,
-    "unique_jobs": 100,
+    "total_jobs_posted": 110,
+    "unique_jobs": 110,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 39,
+      "count": 41,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -55,21 +55,11 @@
         "crowdstrike-data-science-intern-remote-in-usa",
         "harman-international-intern-data-visualization-experiential-research-and-development-novi",
         "t-mobile-context-engineer-ai-chatbot-intern-bellevue",
-        "bio-techne-ai-engineering-intern-minneapolis"
+        "bio-techne-ai-engineering-intern-minneapolis",
+        "aveva-services-intern-lake-forest",
+        "c-h-guenther-ai-agents-automation-intern-san-antonio"
       ],
       "recent_jobs": [
-        {
-          "id": "anomali-software-engineer-intern-san-carlos",
-          "title": "Software Engineer Intern",
-          "company": "Anomali",
-          "posted_at": "2026-02-04T07:21:33.441Z"
-        },
-        {
-          "id": "gulfstream-fall-2026-collegiate-intern-ief-stress-engineering-savannah",
-          "title": "Fall 2026 – Collegiate Intern - Ief - Stress Engineering",
-          "company": "Gulfstream",
-          "posted_at": "2026-02-04T07:21:35.159Z"
-        },
         {
           "id": "guidewire-cyber-risk-data-science-intern-san-mateo",
           "title": "Cyber Risk Data Science Intern",
@@ -117,12 +107,24 @@
           "title": "AI Engineering Intern",
           "company": "Bio-Techne",
           "posted_at": "2026-02-04T08:29:58.559Z"
+        },
+        {
+          "id": "aveva-services-intern-lake-forest",
+          "title": "Services Intern",
+          "company": "AVEVA",
+          "posted_at": "2026-02-04T08:51:08.179Z"
+        },
+        {
+          "id": "c-h-guenther-ai-agents-automation-intern-san-antonio",
+          "title": "AI Agents & Automation Intern",
+          "company": "C.H. Guenther",
+          "posted_at": "2026-02-04T08:51:09.929Z"
         }
       ]
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 24,
+      "count": 27,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -147,27 +149,12 @@
         "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan",
         "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan",
         "qts-energy-markets-data-analytics-intern-duluth",
-        "international-monetary-fund-fund-internship-program-change-management-and-data-management-internship-fip-corporate-services-and-facilities-department-washington"
+        "international-monetary-fund-fund-internship-program-change-management-and-data-management-internship-fip-corporate-services-and-facilities-department-washington",
+        "thermo-fisher-scientific-data-analyst-intern-morrisville",
+        "avathon-data-scientist-intern-pleasanton",
+        "wex-intern-fraud-data-analyst-remote-in-usa"
       ],
       "recent_jobs": [
-        {
-          "id": "caterpillar-intern-manufacturing-engineering-data-analysis-west-lafayette",
-          "title": "Intern - Manufacturing Engineering - Data Analysis",
-          "company": "Caterpillar Inc.",
-          "posted_at": "2026-02-04T07:48:22.191Z"
-        },
-        {
-          "id": "guidewire-business-intelligence-analytics-intern-san-mateo",
-          "title": "Business Intelligence Analytics Intern",
-          "company": "Guidewire",
-          "posted_at": "2026-02-04T07:48:23.997Z"
-        },
-        {
-          "id": "microsoft-research-intern-ai-for-nursing-redmond",
-          "title": "Research Intern - AI for Nursing",
-          "company": "Microsoft",
-          "posted_at": "2026-02-04T08:13:42.435Z"
-        },
         {
           "id": "bose-data-engineer-intern-co-op-framingham",
           "title": "Data Engineer Intern/Co-op",
@@ -209,12 +196,30 @@
           "title": "Fund Internship Program – Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department",
           "company": "International Monetary Fund",
           "posted_at": "2026-02-04T08:29:45.564Z"
+        },
+        {
+          "id": "thermo-fisher-scientific-data-analyst-intern-morrisville",
+          "title": "Data Analyst Intern",
+          "company": "Thermo Fisher Scientific",
+          "posted_at": "2026-02-04T08:51:14.909Z"
+        },
+        {
+          "id": "avathon-data-scientist-intern-pleasanton",
+          "title": "Data Scientist Intern",
+          "company": "Avathon",
+          "posted_at": "2026-02-04T08:51:16.788Z"
+        },
+        {
+          "id": "wex-intern-fraud-data-analyst-remote-in-usa",
+          "title": "Intern – Fraud Data Analyst",
+          "company": "Wex",
+          "posted_at": "2026-02-04T08:51:18.511Z"
         }
       ]
     },
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 27,
+      "count": 31,
       "jobs": [
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
@@ -242,33 +247,13 @@
         "kaiser-permanente-data-analytics-bachelor-intern-pleasanton",
         "microsoft-research-intern-agentic-programming-redmond",
         "national-renewable-energy-laboratory-undergraduate-graduate-intern-year-round-transportation-research-software-engineering-golden",
-        "rtx-intern-software-engineer-intern-aurora"
+        "rtx-intern-software-engineer-intern-aurora",
+        "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo",
+        "teledyne-nhrc-software-engineering-intern-huntsville",
+        "avathon-full-stack-engineering-intern-pleasanton",
+        "mks-instruments-software-engineer-intern-beaverton"
       ],
       "recent_jobs": [
-        {
-          "id": "powell-r-d-software-engineering-intern-houston",
-          "title": "R&D Software Engineering Intern",
-          "company": "Powell",
-          "posted_at": "2026-02-04T07:21:10.577Z"
-        },
-        {
-          "id": "kaiser-permanente-application-development-bachelor-s-intern-pasadena",
-          "title": "Application Development Bachelor's Intern",
-          "company": "Kaiser Permanente",
-          "posted_at": "2026-02-04T07:21:12.262Z"
-        },
-        {
-          "id": "werfen-software-engineering-intern-bedford",
-          "title": "Software Engineering Intern",
-          "company": "Werfen",
-          "posted_at": "2026-02-04T07:21:13.935Z"
-        },
-        {
-          "id": "rocket-companies-database-engineer-intern-detroit",
-          "title": "Database Engineer Intern",
-          "company": "Rocket Companies",
-          "posted_at": "2026-02-04T07:21:15.721Z"
-        },
         {
           "id": "vanderlande-industries-supply-chain-data-analytics-intern-marietta",
           "title": "Supply Chain Data & Analytics Intern",
@@ -304,12 +289,36 @@
           "title": "Intern – Software Engineer Intern",
           "company": "RTX",
           "posted_at": "2026-02-04T08:29:34.337Z"
+        },
+        {
+          "id": "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo",
+          "title": "IOS Engineering Intern - Native Streaming Clients Team 2026",
+          "company": "Verkada",
+          "posted_at": "2026-02-04T08:51:23.313Z"
+        },
+        {
+          "id": "teledyne-nhrc-software-engineering-intern-huntsville",
+          "title": "NHRC Software Engineering Intern",
+          "company": "Teledyne",
+          "posted_at": "2026-02-04T08:51:25.081Z"
+        },
+        {
+          "id": "avathon-full-stack-engineering-intern-pleasanton",
+          "title": "Full Stack Engineering Intern",
+          "company": "Avathon",
+          "posted_at": "2026-02-04T08:51:26.927Z"
+        },
+        {
+          "id": "mks-instruments-software-engineer-intern-beaverton",
+          "title": "Software Engineer Intern",
+          "company": "MKS Instruments",
+          "posted_at": "2026-02-04T08:51:28.780Z"
         }
       ]
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 8,
+      "count": 9,
       "jobs": [
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
@@ -318,7 +327,8 @@
         "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
         "intel-mecop-intern-hillsboro",
         "sila-nanotechnologies-battery-simulation-computational-scientist-intern-alameda",
-        "aveva-services-intern-houston"
+        "aveva-services-intern-houston",
+        "mks-instruments-computer-science-mecop-intern-beaverton"
       ],
       "recent_jobs": [
         {
@@ -368,6 +378,12 @@
           "title": "Services Intern",
           "company": "AVEVA",
           "posted_at": "2026-02-04T08:29:52.159Z"
+        },
+        {
+          "id": "mks-instruments-computer-science-mecop-intern-beaverton",
+          "title": "Computer Science MECOP Intern",
+          "company": "MKS Instruments",
+          "posted_at": "2026-02-04T08:51:33.665Z"
         }
       ]
     },
