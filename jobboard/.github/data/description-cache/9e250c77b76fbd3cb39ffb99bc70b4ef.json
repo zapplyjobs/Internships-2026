@@ -1,0 +1,27 @@
+{
+  "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Controls-Support-Engineer---Intern_JR35551",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Job TitleControls Support Engineer - InternJob DescriptionRole Summary:This internship provides hands-on experience contributing to internally developed automation tools used by controls project engineers.The intern will primarily support efforts to reduce technical debt by converting existing code into standardized, documented, and maintainable formats, while learning industrial controls concepts and internal engineering workflows.Under the guidance of experienced engineers, the intern will help improve code quality, structure, and consistency across internal tooling.Essential FunctionsLearn the electromechanical operation of material handling equipment and gain exposure to controls systems and interfaces.Gain familiarity with internal automation tools (e.g., ESoT, Generator Suite, ViGen, VIPER, VICTOR, Amazon Allen Bradley Code Generator, ACADE tool suite), including how they are used by engineering and project teams.Assist in refactoring and standardizing existing automation and controls tooling code to align with internal coding standards and best practices.Help convert legacy or prototype code into formalized, production-ready formats under guidance of senior engineers.Support documentation of tool functionality, assumptions, and usage for engineering teams.Perform basic testing and validation to ensure refactored code maintains expected behavior.Collaborate with controls, software engineers, and product owner to understand how internal tools support controls project workflows.Identify opportunities to improve code readability, structure, and maintainability.Learn how engineering teams prioritize and plan product and tooling development efforts.This role is not expected to independently own projects or make final technical decisions.Required Education and Experience:Currently pursuing a Bachelor’s degree in: Mechatronics Engineering, Electrical Engineering, Electromechanical Engineering Technology, Computer Engineering, Software Engineering or a related engineering disciplineCoursework, academic projects, internships, or co-op experience involving automation, controls, or software development is preferred.Experience with programming (C#, .NET, or similar) through courseworkTechnical Skills:C# / .NET application development (required)Python (required)Code refactoring and technical debt reduction techniques (required)Version control (Git) (required)Coding standards, documentation, and code reviews (required)Basic industrial automation and controls conceptsPrior coursework or projects in software engineeringInterest in industrial automation or mechatronics systemsExperience in AutoCAD is a plusPosition Type/Expected Hours of Work:This is a full-time internship position, Monday through Friday. Flexible start times are available between 7:00 a.m. and 9:00 a.m., with end times between 4:00 p.m. and 6:00 p.m., including a one-hour lunch break.Travel:No travel required.Supervisory Responsibility:This position has no supervisory responsibilities.Work Environment and Physical Demands:Office-based environment with extended periods working at a computerOccasional movement within the office to access equipmentOther Duties:This job description is not intended to be an exhaustive list of duties. Responsibilities may evolve as skills develop and project needs change.",
+    "requirements": [
+      "Currently pursuing a Bachelor’s degree in: Mechatronics Engineering, Electrical Engineering, Electromechanical Engineering Technology, Computer Engineering, Software Engineering or a related engineering discipline",
+      "C# / .NET application development (required)",
+      "Python (required)",
+      "Code refactoring and technical debt reduction techniques (required)",
+      "Version control (Git) (required)",
+      "Coding standards, documentation, and code reviews (required)"
+    ],
+    "responsibilities": [
+      "Collaborate with controls, software engineers, and product owner to understand how internal tools support controls project workflows.",
+      "Learn how engineering teams prioritize and plan product and tooling development efforts.This role is not expected to independently own projects or make final technical decisions.",
+      "Coursework, academic projects, internships, or co-op experience involving automation, controls, or software development is preferred."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Controls-Support-Engineer---Intern_JR35551",
+      "fetchedAt": "2026-02-04T06:18:34.586Z"
+    }
+  },
+  "cachedAt": 1770185914586
+}
