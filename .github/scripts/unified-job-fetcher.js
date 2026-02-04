@@ -1,16 +1,17 @@
 /**
  * Unified Job Fetcher - Internships ONLY
  *
- * IMPORTANT: This repo uses JSearch API as PRIMARY data source
+ * IMPORTANT: This repo uses SimplifyJobs ONLY
  * ATS platforms (Greenhouse/Lever/Ashby) return ALL jobs including senior roles
- * We use internship-specific API queries to filter for relevant roles
+ * We need internship-specific aggregators, not general job boards
  *
  * Sources:
- * 1. JSearch API (PRIMARY - configured via JSEARCH_API_KEY secret)
+ * 1. SimplifyJobs (internship aggregator) - PRIMARY
+ * 2. JSearch API - DISABLED for Internships
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
-const { fetchAPIJobs } = require('../../jobboard/src/backend/services/apiService.js');
+const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 
 /**
@@ -63,25 +64,30 @@ async function fetchAllJobs() {
     console.log(`   No API companies configured (using aggregator only)`);
   }
 
-  // === Part 2: PRIMARY JSearch API ===
-  console.log('\n📡 Fetching from JSearch API (PRIMARY source)...');
+  // === Part 2: Fetch from primary data source (SimplifyJobs) ===
+  console.log('\n📡 Fetching from primary data source (SimplifyJobs)...');
 
   try {
-    const { searchJSearchInternships } = require('./job-fetcher/jsearch-source');
-    const jsearchJobs = await searchJSearchInternships();
-    allJobs.push(...jsearchJobs);
-    console.log(`📊 After JSearch: ${allJobs.length} jobs total`);
+    const externalJobs = await fetchExternalJobsData();
+    allJobs.push(...externalJobs);
+    console.log(`📊 After primary source: ${allJobs.length} jobs total`);
   } catch (error) {
-    console.error('❌ JSearch API failed:', error.message);
-    throw new Error('JSearch is primary source - cannot continue without it');
+    console.error(`❌ Primary data source failed:`, error.message);
+    throw new Error('SimplifyJobs is primary source - cannot continue without it');
   }
 
-  // === Part 3: ATS platforms DISABLED for Internships ===
+  // === Part 3: JSearch DISABLED for Internships ===
+  // NOTE: JSearch used for New-Grad-Jobs-2026 only
+  // Internships-2026 uses SimplifyJobs aggregator instead
+  console.log('\n⏭️ Skipping JSearch API (disabled for Internships repo)...');
+
+  // === Part 4: ATS platforms DISABLED for Internships ===
   // NOTE: Greenhouse/Lever/Ashby APIs return ALL jobs (including senior positions)
-  // They do NOT filter to internships only - we use targeted API queries instead
+  // They do NOT filter to internships only - that's why we only use SimplifyJobs
+  // which specifically aggregates internship postings
   console.log('\n⏭️ Skipping ATS platforms (returns all jobs, not internships-only)...');
 
-  // === Part 4: Filter to US-only jobs ===
+  // === Part 5: Filter to US-only jobs ===
   console.log('\n🇺🇸 Filtering to US-only jobs...');
 
   const removedJobs = [];
@@ -99,7 +105,7 @@ async function fetchAllJobs() {
   console.log(`   Kept: ${usJobs.length} US jobs`);
   console.log(`   Removed: ${removedJobs.length} non-US jobs`);
 
-  // === Part 5: Remove duplicates ===
+  // === Part 6: Remove duplicates ===
   console.log('\n🔄 Removing duplicates...');
 
   const uniqueJobs = usJobs.filter((job, index, self) => {
@@ -110,7 +116,7 @@ async function fetchAllJobs() {
   const duplicatesRemoved = usJobs.length - uniqueJobs.length;
   console.log(`   Duplicates removed: ${duplicatesRemoved}`);
 
-  // === Part 6: Sort by posting date ===
+  // === Part 7: Sort by posting date ===
   uniqueJobs.sort((a, b) => {
     const dateA = new Date(a.job_posted_at_datetime_utc || 0);
     const dateB = new Date(b.job_posted_at_datetime_utc || 0);
