@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-04T22:42:37.506Z",
+  "lastUpdated": "2026-02-04T22:58:15.183Z",
   "jobs": [
-    {
-      "id": "rtx-intern-3d-model-advanced-visualization-intern-andover-2026-01-21-1",
-      "jobId": "rtx-intern-3d-model-advanced-visualization-intern-andover",
-      "company": "RTX",
-      "title": "Intern – 3D Model Advanced Visualization Intern",
-      "postedToDiscord": "2026-01-21T22:45:45.506Z",
-      "sourceDate": "2026-01-21T21:43:23.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Intern---3D-Model-Advanced-Visualization-Internship---Onsite--AZ-_01818516",
-      "discordThreadId": "1463665890926133340",
-      "instanceNumber": 1
-    },
-    {
-      "id": "inspire-medical-algorithm-development-intern-minneapolis-2026-01-21-1",
-      "jobId": "inspire-medical-algorithm-development-intern-minneapolis",
-      "company": "Inspire Medical Systems",
-      "title": "Algorithm Development Intern",
-      "postedToDiscord": "2026-01-21T22:45:49.057Z",
-      "sourceDate": "2026-01-21T20:59:44.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5076695008?gh_jid=5076695008",
-      "discordThreadId": "1463665906138742869",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sonoco-ai-analytics-intern-florence-2026-01-21-1",
-      "jobId": "sonoco-ai-analytics-intern-florence",
-      "company": "Sonoco",
-      "title": "AI & Analytics Intern",
-      "postedToDiscord": "2026-01-21T22:45:55.565Z",
-      "sourceDate": "2026-01-21T21:19:33.000Z",
-      "sourceUrl": "https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Hartsville-SC-USA/AI---Analytics-Intern_JR-155183",
-      "discordThreadId": "1463665934085652480",
-      "instanceNumber": 1
-    },
-    {
-      "id": "varda-space-finance-data-structures-analytics-internship-spring-2026-el-segundo-2026-01-21-1",
-      "jobId": "varda-space-finance-data-structures-analytics-internship-spring-2026-el-segundo",
-      "company": "Varda Space",
-      "title": "Finance Data Structures/ Analytics Internship - Spring 2026",
-      "postedToDiscord": "2026-01-21T22:45:58.909Z",
-      "sourceDate": "2026-01-21T21:11:51.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7598110003",
-      "discordThreadId": "1463665948316663985",
-      "instanceNumber": 1
-    },
-    {
-      "id": "github-applied-science-intern-remote-in-usa-2026-01-21-1",
-      "jobId": "github-applied-science-intern-remote-in-usa",
-      "company": "GitHub",
-      "title": "Applied Science Intern",
-      "postedToDiscord": "2026-01-21T22:46:02.235Z",
-      "sourceDate": "2026-01-21T20:38:08.000Z",
-      "sourceUrl": "https://githubinc.jibeapply.com/jobs/4958?lang=en-us&icims=1",
-      "discordThreadId": "1463665962300608613",
-      "instanceNumber": 1
-    },
-    {
-      "id": "johnson-controls-software-tools-engineering-intern-brown-deer-2026-01-21-1",
-      "jobId": "johnson-controls-software-tools-engineering-intern-brown-deer",
-      "company": "Johnson Controls",
-      "title": "Software Tools Engineering Intern",
-      "postedToDiscord": "2026-01-21T22:46:08.786Z",
-      "sourceDate": "2026-01-21T21:11:09.000Z",
-      "sourceUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Tools-Engineering-Intern_WD30258873",
-      "discordThreadId": "1463665988674261085",
-      "instanceNumber": 1
-    },
-    {
-      "id": "respec-cavern-engineering-intern-rapid-city-2026-01-21-1",
-      "jobId": "respec-cavern-engineering-intern-rapid-city",
-      "company": "RESPEC",
-      "title": "Cavern Engineering Intern",
-      "postedToDiscord": "2026-01-21T22:46:12.371Z",
-      "sourceDate": "2026-01-21T20:39:28.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/RESPECInc/744000104781885",
-      "discordThreadId": "1463666003648188578",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ssoe-software-developer-toledo-2026-01-21-1",
-      "jobId": "ssoe-software-developer-toledo",
-      "company": "SSOE Group",
-      "title": "Software Developer",
-      "postedToDiscord": "2026-01-21T22:46:15.735Z",
-      "sourceDate": "2026-01-21T20:38:29.000Z",
-      "sourceUrl": "https://careers-ssoe.icims.com/jobs/3478/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1463666018412003484",
-      "instanceNumber": 1
-    },
     {
       "id": "o-reilly-auto-parts-intern-pricing-data-springfield-2026-01-21-1",
       "jobId": "o-reilly-auto-parts-intern-pricing-data-springfield",
@@ -14244,12 +14156,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 689,
+    "totalJobs": 681,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-04T22:42:37.506Z",
-      "archived": 0
+      "date": "2026-02-04T22:58:15.183Z",
+      "archived": 8,
+      "monthsAffected": 1
     }
   }
 }
