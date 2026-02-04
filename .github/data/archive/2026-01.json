@@ -21217,5 +21217,27 @@
     "sourceUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Cloud-Developer-Intern_J2433954",
     "discordThreadId": "1463671381291040810",
     "instanceNumber": 1
+  },
+  {
+    "id": "samsung-machine-learning-engineer-san-jose-2026-01-21-1",
+    "jobId": "samsung-machine-learning-engineer-san-jose",
+    "company": "Samsung",
+    "title": "Machine Learning Engineer",
+    "postedToDiscord": "2026-01-21T23:18:35.202Z",
+    "sourceDate": "2026-01-21T20:59:52.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7599456003",
+    "discordThreadId": "1463674153088454839",
+    "instanceNumber": 1
+  },
+  {
+    "id": "general-dynamics-mission-engineer-software-engineer-san-jose-2026-01-21-1",
+    "jobId": "general-dynamics-mission-engineer-software-engineer-san-jose",
+    "company": "General Dynamics Mission Systems",
+    "title": "Engineer - Software Engineer",
+    "postedToDiscord": "2026-01-21T23:18:41.546Z",
+    "sourceDate": "2026-01-21T20:38:04.000Z",
+    "sourceUrl": "https://careers-gdms.icims.com/jobs/70233/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1463674180141584466",
+    "instanceNumber": 1
   }
 ]
