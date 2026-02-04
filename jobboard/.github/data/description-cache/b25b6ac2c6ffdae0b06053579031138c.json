@@ -1,0 +1,17 @@
+{
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325250",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Ada Developers Academy Cohort 24 intern requisition.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325250",
+      "fetchedAt": "2026-02-04T08:50:54.571Z"
+    }
+  },
+  "cachedAt": 1770195054571
+}
