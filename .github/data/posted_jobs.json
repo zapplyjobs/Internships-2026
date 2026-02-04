@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-04T23:42:17.440Z",
+  "lastUpdated": "2026-02-04T23:54:19.584Z",
   "jobs": [
     {
       "id": "micron-technology-intern-smart-manufacturing-and-ai-data-science-boise-2026-01-22-1",
@@ -13973,9 +13973,8 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-04T23:42:17.440Z",
-      "archived": 6,
-      "monthsAffected": 1
+      "date": "2026-02-04T23:54:19.584Z",
+      "archived": 0
     }
   }
 }
