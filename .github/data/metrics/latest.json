@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T11:30:16.354Z",
+  "generated": "2026-02-04T11:47:54.948Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T11:30:16.354Z",
-  "period_end": "2026-02-04T11:30:16.354Z",
+  "period_start": "2026-01-28T11:47:54.948Z",
+  "period_end": "2026-02-04T11:47:54.948Z",
   "summary": {
-    "total_jobs_posted": 131,
-    "unique_jobs": 131,
+    "total_jobs_posted": 132,
+    "unique_jobs": 132,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -409,10 +409,11 @@
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 2,
+      "count": 3,
       "jobs": [
         "nasdaq-research-development-intern-atlanta",
-        "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden"
+        "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
+        "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
       ],
       "recent_jobs": [
         {
@@ -426,6 +427,12 @@
           "title": "Graduate Intern - Year-Round - Transportation Systems Analysis",
           "company": "National Renewable Energy Laboratory",
           "posted_at": "2026-02-04T08:29:39.085Z"
+        },
+        {
+          "id": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin",
+          "title": "Internship – Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
+          "company": "City of Austin",
+          "posted_at": "2026-02-04T11:47:48.231Z"
         }
       ]
     },
