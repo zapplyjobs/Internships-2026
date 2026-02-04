@@ -1,16 +1,16 @@
 {
-  "generated": "2026-02-04T09:34:54.453Z",
+  "generated": "2026-02-04T10:03:29.191Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T09:34:54.453Z",
-  "period_end": "2026-02-04T09:34:54.453Z",
+  "period_start": "2026-01-28T10:03:29.191Z",
+  "period_end": "2026-02-04T10:03:29.191Z",
   "summary": {
-    "total_jobs_posted": 128,
-    "unique_jobs": 128,
+    "total_jobs_posted": 131,
+    "unique_jobs": 131,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
     "filtered_jobs": 0,
-    "channels_active": 5
+    "channels_active": 6
   },
   "by_channel": {
     "🤖・ai-internships": {
@@ -131,7 +131,7 @@
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 29,
+      "count": 31,
       "jobs": [
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
@@ -161,21 +161,11 @@
         "avathon-data-scientist-intern-pleasanton",
         "wex-intern-fraud-data-analyst-remote-in-usa",
         "breeze-airways-data-analyst-intern-revenue-optimization-summer-2026-cottonwood-heights",
-        "four-hands-data-analytics-intern-austin"
+        "four-hands-data-analytics-intern-austin",
+        "relay-data-analyst-intern-part-time-spring-semester-raleigh",
+        "s-p-global-data-engineer-intern-early-career-princeton"
       ],
       "recent_jobs": [
-        {
-          "id": "jabil-data-governance-business-systems-analyst-intern-remote-in-usa",
-          "title": "Data Governance Business Systems Analyst Intern",
-          "company": "Jabil",
-          "posted_at": "2026-02-04T08:13:47.945Z"
-        },
-        {
-          "id": "blue-cross-and-blue-shield-of-minnesota-intern-sales-technology-data-analyst-eagan",
-          "title": "Intern Sales Technology Data Analyst",
-          "company": "Blue Cross and Blue Shield of Minnesota",
-          "posted_at": "2026-02-04T08:13:49.704Z"
-        },
         {
           "id": "blue-cross-and-blue-shield-of-minnesota-intern-enterprise-data-analyst-eagan",
           "title": "Intern Enterprise Data Analyst",
@@ -223,6 +213,18 @@
           "title": "Data Analytics Intern",
           "company": "Four Hands",
           "posted_at": "2026-02-04T09:17:18.852Z"
+        },
+        {
+          "id": "relay-data-analyst-intern-part-time-spring-semester-raleigh",
+          "title": "Data Analyst Intern - Part time - Spring Semester",
+          "company": "Relay",
+          "posted_at": "2026-02-04T10:03:20.502Z"
+        },
+        {
+          "id": "s-p-global-data-engineer-intern-early-career-princeton",
+          "title": "Data Engineer Intern – Early Career",
+          "company": "S&P Global ",
+          "posted_at": "2026-02-04T10:03:22.476Z"
         }
       ]
     },
@@ -424,6 +426,21 @@
           "title": "Graduate Intern - Year-Round - Transportation Systems Analysis",
           "company": "National Renewable Energy Laboratory",
           "posted_at": "2026-02-04T08:29:39.085Z"
+        }
+      ]
+    },
+    "🤝・sales-internships": {
+      "channel_id": "1464303236772270122",
+      "count": 1,
+      "jobs": [
+        "invesco-intern-technology-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "invesco-intern-technology-atlanta",
+          "title": "Intern - Technology",
+          "company": "Invesco",
+          "posted_at": "2026-02-04T10:03:15.684Z"
         }
       ]
     }
