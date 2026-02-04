@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-04T13:55:11.522Z",
+  "generated": "2026-02-04T14:19:16.753Z",
   "period": "last_7_days",
-  "period_start": "2026-01-28T13:55:11.522Z",
-  "period_end": "2026-02-04T13:55:11.522Z",
+  "period_start": "2026-01-28T14:19:16.753Z",
+  "period_end": "2026-02-04T14:19:16.753Z",
   "summary": {
-    "total_jobs_posted": 132,
-    "unique_jobs": 132,
+    "total_jobs_posted": 133,
+    "unique_jobs": 133,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 48,
+      "count": 49,
       "jobs": [
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
@@ -64,15 +64,10 @@
         "genentech-2026-summer-intern-regev-lab-feedback-driven-ai-systems-san-bruno",
         "onsemi-summer-2026-ai-engineer-intern-scottsdale",
         "xpo-data-science-intern-boston",
-        "abbvie-statistics-intern-phd-livingston"
+        "abbvie-statistics-intern-phd-livingston",
+        "micron-technology-intern-qms-document-automation-leander"
       ],
       "recent_jobs": [
-        {
-          "id": "bio-techne-ai-engineering-intern-minneapolis",
-          "title": "AI Engineering Intern",
-          "company": "Bio-Techne",
-          "posted_at": "2026-02-04T08:29:58.559Z"
-        },
         {
           "id": "aveva-services-intern-lake-forest",
           "title": "Services Intern",
@@ -126,6 +121,12 @@
           "title": "Statistics Intern - PhD",
           "company": "AbbVie",
           "posted_at": "2026-02-04T09:34:47.739Z"
+        },
+        {
+          "id": "micron-technology-intern-qms-document-automation-leander",
+          "title": "Intern-QMS Document Automation",
+          "company": "Micron Technology",
+          "posted_at": "2026-02-04T14:19:10.038Z"
         }
       ]
     },
