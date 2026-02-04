@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-04T23:27:11.139Z",
+  "lastUpdated": "2026-02-04T23:42:17.440Z",
   "jobs": [
-    {
-      "id": "adobe-intern-phd-architecture-san-jose-2026-01-21-1",
-      "jobId": "adobe-intern-phd-architecture-san-jose",
-      "company": "Adobe",
-      "title": "Intern - PhD Architecture",
-      "postedToDiscord": "2026-01-21T23:32:14.850Z",
-      "sourceDate": "2026-01-21T23:19:31.000Z",
-      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---PhD-Architecture_R161662",
-      "discordThreadId": "1463677589133721634",
-      "instanceNumber": 1
-    },
-    {
-      "id": "expedition-technology-intern-in-machine-learning-and-digital-signal-processing-reston-2026-01-21-1",
-      "jobId": "expedition-technology-intern-in-machine-learning-and-digital-signal-processing-reston",
-      "company": "Expedition Technology",
-      "title": "Intern in Machine Learning and Digital Signal Processing",
-      "postedToDiscord": "2026-01-21T23:32:18.221Z",
-      "sourceDate": "2026-01-21T21:13:38.000Z",
-      "sourceUrl": "https://www.exptechinc.com/careers/?gh_jid=5029551007",
-      "discordThreadId": "1463677605223075935",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dark-wolf-uf-college-fair-internship-tampa-2026-01-21-1",
-      "jobId": "dark-wolf-uf-college-fair-internship-tampa",
-      "company": "Dark Wolf Solutions",
-      "title": "UF College Fair – Internship",
-      "postedToDiscord": "2026-01-21T23:32:21.787Z",
-      "sourceDate": "2026-01-21T21:09:07.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7597991003",
-      "discordThreadId": "1463677619659870358",
-      "instanceNumber": 1
-    },
-    {
-      "id": "astrazeneca-laboratory-automation-data-engineer-intern-gaithersburg-2026-01-21-1",
-      "jobId": "astrazeneca-laboratory-automation-data-engineer-intern-gaithersburg",
-      "company": "AstraZeneca",
-      "title": "Laboratory Automation Data Engineer Intern",
-      "postedToDiscord": "2026-01-21T23:32:28.288Z",
-      "sourceDate": "2026-01-21T21:08:32.000Z",
-      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Laboratory-Automation-Data-Engineer-Intern_R-244101",
-      "discordThreadId": "1463677647363248179",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paccar-data-engineering-intern-columbus-2026-01-21-1",
-      "jobId": "paccar-data-engineering-intern-columbus",
-      "company": "Paccar",
-      "title": "Data Engineering Intern",
-      "postedToDiscord": "2026-01-21T23:32:31.694Z",
-      "sourceDate": "2026-01-21T20:40:34.000Z",
-      "sourceUrl": "https://jobs.paccar.com/job/Columbus-Data-Engineering-Intern-Fall-2026-MS-39701/1285882001/?ats=successfactors",
-      "discordThreadId": "1463677661930066143",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tri-state-generation-and-transmission-association-it-integration-and-analytics-intern-westminster-2026-01-21-1",
-      "jobId": "tri-state-generation-and-transmission-association-it-integration-and-analytics-intern-westminster",
-      "company": "Tri-State Generation and Transmission Association",
-      "title": "IT Integration and Analytics Intern",
-      "postedToDiscord": "2026-01-21T23:32:35.265Z",
-      "sourceDate": "2026-01-21T20:40:04.000Z",
-      "sourceUrl": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/548",
-      "discordThreadId": "1463677676199084114",
-      "instanceNumber": 1
-    },
     {
       "id": "micron-technology-intern-smart-manufacturing-and-ai-data-science-boise-2026-01-22-1",
       "jobId": "micron-technology-intern-smart-manufacturing-and-ai-data-science-boise",
@@ -14035,12 +13969,12 @@
     }
   ],
   "metadata": {
-    "totalJobs": 670,
+    "totalJobs": 664,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-04T23:27:11.139Z",
-      "archived": 2,
+      "date": "2026-02-04T23:42:17.440Z",
+      "archived": 6,
       "monthsAffected": 1
     }
   }
