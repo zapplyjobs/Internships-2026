@@ -2870,5 +2870,40 @@
     "addedAt": "2026-02-05T20:15:21.655Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-delta-dental-of-missouri-mmidhjd3yjjbihwcaaaaaa==",
+      "job_title": "Data Science Intern",
+      "employer_name": "Delta Dental of Missouri",
+      "job_city": "St. Louis",
+      "job_state": "Missouri",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.linkedin.com/jobs/view/data-science-intern-at-delta-dental-of-missouri-4356893544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_description": "Join us as a Data Science Intern and work on real-world medical data science use cases with a strong focus on computer vision. In this full-time, six-month internship, you'll gain hands-on experience with tools like YOLOv8 and Azure while contributing to projects involving image preprocessing, model training, and evaluation. You'll collaborate with data scientists and clinical experts to help build and refine AI-driven imaging models. If you're passionate about Python, deep learning, and solving meaningful problems, we encourage you to explore this opportunity.\n\nPosition Summary\n\nThis individual will participate in a full-time internship program, working 35-40 hours per week for a period of approximately six months. The intern will engage in data science projects with a focus on computer vision. They will gain exposure to real-world medical data science use cases, utilize cutting-edge AI computer vision technologies such as Yolov8, and have an opportunity to work in a cloud-based Azure environment. Projects may include data preprocessing, model training, evaluation, deployment, data visualization, and other assigned tasks.\n\nEssential Functions And Job Responsibilities\n\nThe intern may be assigned a wide variety of tasks depending on department workload and priorities, as well as the individual’s strengths, skillset, and background. Tasks may vary from routine work to complex, multi-step projects. Specific responsibilities include:\n• Solving real-world dental imaging and X-ray analysis challenges using advanced computer vision and AI technologies\n• Owning and contributing to the full computer vision pipeline for dental X-ray analysis, including image extraction, preprocessing, normalization, and classification\n• Designing, training, evaluating, and deploying deep learning models for object detection, instance segmentation, and keypoint detection (e.g., YOLOv8-based models)\n• Performing tooth detection, segmentation, tooth number attribution, and anatomical landmark detection\n• Converting pixel-level model outputs into real-world clinical measurements (e.g., bone loss in millimeters)\n• Building scalable inference pipelines, model orchestration workflows, and visualization/QA tooling\n• Managing and supporting data labeling workflows, including defining label schemas, QA processes, and gold-standard datasets\n• Collaborating closely with dental subject matter experts, hygienists, and technical team members to ensure clinical relevance and project success\n• Visualizing data, model outputs, and results and presenting findings to technical and business stakeholders\n\nQualifications\n• Pursuing or completed bachelor’s degree from an accredited college required; degrees in computer science, data science, engineering, mathematics, or related fields preferred\n• Experience in Python and PyTorch or other modern deep learning frameworks\n• Strong experience with computer vision techniques, including image classification, instance segmentation, and keypoint/landmark detection\n• Hands-on experience with YOLOv8 for detection, segmentation, and/or keypoint modeling strongly preferred\n• Familiarity with data labeling tools and workflows (e.g., V7 or similar platforms) a strong plus\n• Experience translating model predictions into deterministic, rule-based or guideline-driven logic\n• Ability to independently own systems and projects end-to-end\n• Attention to detail, accuracy, and strong problem-solving skills. Strong verbal and written communication skills\n• Motivated with a strong interest in learning new skills and tasks\n• Ability to work independently and in a team environment\n• Ability to multi-task and work under tight deadlines\n• Proven subscription to the company’s core values of integrity, trust and respect, innovation, stewardship, excellence, and celebration\n\nWork Conditions\n\nGeneral office working conditions which may require sitting for extended periods of time\n\nPhysical Requirements\n\nThe physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n\nSpecific vision abilities require the ability to focus distant and near objects clearly. While performing the duties of this job, the employee is regularly required to sit, talk and hear. The employee is frequently required to use hands and arms to handle, feel and reach as well as operate a personal computer.\n\nDisclaimer\n\nThis job description is designed to provide a general overview of the requirements of the job and does not entail a comprehensive listing of activities, duties, or responsibilities that will be required. The organization reserves the right to modify this job description at any time; including assigning or reassigning job duties or eliminating the position at any time.\n\nEqual Opportunity Employer\n\nThis employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "general"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "delta-dental-of-missouri-data-science-intern-st-louis"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-05T21:24:59.896Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
