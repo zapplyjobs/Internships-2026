@@ -128,36 +128,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1 roles
-- **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Opportunities**: 0 positions
-
-<details>
-<summary><h3>🏢 <strong>Top Tech</strong> (1 position)</h3></summary>
-
-#### 🔵 **IBM** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Data Scientist Intern 2026 - AI Analytics & Automation | Dallas, Texas | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/data-scientist-intern-2026-ai-analytics-automation-at-ibm-4363864690?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-</details>
-
-
-
-</details>
-
----
-
-
 
 <div align="center">
 
