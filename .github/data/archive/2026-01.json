@@ -21866,5 +21866,38 @@
     "sourceUrl": "https://careers.cisco.com/global/en/job/2001127",
     "discordThreadId": "1463847631674544277",
     "instanceNumber": 1
+  },
+  {
+    "id": "apl-logistics-apprentice-intern-data-science-bi-wms-scottsdale-2026-01-22-1",
+    "jobId": "apl-logistics-apprentice-intern-data-science-bi-wms-scottsdale",
+    "company": "APL Logistics",
+    "title": "Apprentice/Intern - Data Science & BI - Wms",
+    "postedToDiscord": "2026-01-22T11:09:01.824Z",
+    "sourceDate": "2026-01-22T10:29:36.000Z",
+    "sourceUrl": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3761",
+    "discordThreadId": "1463852941873254467",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paccar-it-intern-software-engineering-gcs-tukwila-2026-01-22-1",
+    "jobId": "paccar-it-intern-software-engineering-gcs-tukwila",
+    "company": "Paccar",
+    "title": "IT Intern - Software Engineering-GCS",
+    "postedToDiscord": "2026-01-22T11:09:14.847Z",
+    "sourceDate": "2026-01-21T00:41:48.000Z",
+    "sourceUrl": "https://jobs.paccar.com/job/Renton-IT-Summer-2026-Intern-Software-Engineering-Internship-GCS-WA-98057/1285530201/?ats=successfactors",
+    "discordThreadId": "1463852996529098940",
+    "instanceNumber": 1
+  },
+  {
+    "id": "visa-apprentice-senior-support-software-engineer-2026-foster-city-ca-san-mateo-2026-01-22-1",
+    "jobId": "visa-apprentice-senior-support-software-engineer-2026-foster-city-ca-san-mateo",
+    "company": "Visa",
+    "title": "Apprentice – Senior Support Software Engineer-2026 - Foster City - CA",
+    "postedToDiscord": "2026-01-22T11:09:18.201Z",
+    "sourceDate": "2026-01-21T00:40:27.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000104522315",
+    "discordThreadId": "1463853011213353135",
+    "instanceNumber": 1
   }
 ]
