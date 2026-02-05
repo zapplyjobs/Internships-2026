@@ -2378,5 +2378,40 @@
     "addedAt": "2026-02-05T15:15:48.899Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-brinks-home--ko8q6z-lcu8dfoaaaaaaa==",
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Brinks Home",
+      "job_city": "Lake Dallas",
+      "job_state": "Texas",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://jobs.womenforhire.com/job/usa/lake-dallas-tx/software-engineer-intern-019678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-04T20:00:00.000Z",
+      "job_description": "Description\n\nBrinks Home™ is a leader in the smart security industry, protecting over one million people across the U.S., Canada, and Puerto Rico. Our platinum-grade protection is backed by award-winning customer service and expertly trained professionals.\n\nWe strive for the highest standards for our customers while fostering a positive work environment for our employees. We create a culture that fosters innovation, celebrates creativity, and encourages authenticity. Join us and be part of a collaborative team that is relentless in our pursuit of security for life.\n\nPosition Overview:\n\nWe are currently seeking two determined and dynamic Software Engineer Interns who embodies our core values: Service, Accountability, Customer Focus, Growth, and Integrity.\n\nAs a software engineering intern, you will join one of our agile teams and work on developing, testing, and deploying high-quality software applications using the latest technologies and best practices. You will collaborate with senior engineers, product managers, designers, and QA engineers to deliver features and functionalities that meet the needs and expectations of our clients and users. You will have the opportunity to learn from experienced mentors, participate in code reviews, attend workshops and seminars, and contribute to our internal knowledge base and documentation.\n\nEducational Opportunities:\n\nAs an intern, you will have the chance to learn from seasoned analysts and IT professionals. You'll also gain access to online courses and certifications to enhance your skills in data analysis, data visualization, and data engineering. Additionally, you'll attend team meetings, engage in brainstorming sessions, and connect with professionals from various departments. Your involvement will extend to contributing to impactful projects that make a difference within our organization.\n\nJob Location: Farmers Branch, TX (hybrid – some on-site office attendance required)\n\nKey Responsibilities:\n• Design, develop, and test software applications for various platforms, such as web, chat, IVR, mobile, desktop, or cloud.\n• Write clean, maintainable, and well-documented code following the coding standards and guidelines.\n• Debug and troubleshoot issues and bugs using various tools and techniques.\n• Perform unit testing, integration testing, and code coverage analysis to ensure the quality and performance of the software.\n• Collaborate with other team members and stakeholders using effective communication and feedback mechanisms.\n• Research and evaluate new technologies and frameworks that can improve the software development process and the user experience.\n• Document and present your work and progress to the team and the management.\n\nRequirements:\n• Pursuing a bachelor’s degree in computer science, software engineering, or a related field\n• Completed at least two years of college education with a minimum GPA of 3.0\n• Experience with object-oriented programming and data structures\n• Experience with GitHub or other version control systems\n• Familiarity with web development technologies, such as HTML, CSS, JavaScript, or C#\n• Familiarity with .NET framework or other web development frameworks\n• Ability to work independently and as part of a team\n• Ability to learn quickly and adapt to changing requirements\n• Strong problem-solving and analytical skills\n• Excellent written and verbal communication skills\n\nPreferred Qualifications:\n• Experience with Python and working with LLM models like GPT\n• Experience with developing mobile applications for iOS or Android platforms\n• Experience with cloud computing services, such as AWS, Azure, or Google Cloud\n• Experience with agile methodologies, such as Scrum or Kanban\n• Experience with testing tools and frameworks, such as Selenium, NUnit, or Jest\n• Experience with UI/UX design and prototyping tools, such as Figma, Sketch, or Adobe XD\n\nTo learn more about our company culture and career opportunities, please visit our LinkedIn and Career Page.\n\nBrinks Home provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.\n\n#equalopportunityemployer #veteranfriendly",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "brinks-home-software-engineer-intern-lake-dallas"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-05T16:06:07.963Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
