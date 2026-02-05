@@ -61,13 +61,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (3 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (7 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🏢 **Astrion** | Software Engineer Internship 🇺🇸 | Columbia, Maryland | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.astrion.us/careers-home/jobs/23016?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Sirius XM** | Summer Intern, Software Engineering - Innovation Group | Trenton, New Jersey | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.siriusxm.com/careers/jobs/17230?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Brinks Home** | Software Engineer Intern | Lake Dallas, Texas | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/lake-dallas-tx/software-engineer-intern-019678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Blue Cross and Blue Shield of Minnesota** | Intern - Enterprise Data Analyst 🏠 | Mendota Heights, Minnesota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/mendota-heights-mn/intern-enterprise-data-analyst-440217/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **UnitedHealthcare** | Nurse Intern 🏠 | Minnetonka, Minnesota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/5aa148a77da818126115d34183d18667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **beBeeHealthcare** | nursing internship program: healthcare settings | Charleston, West Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-wv-charleston-nursing-internship-program-healthcare-settings-bebeehealthcare?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Publicis Groupe Holdings B.V** | Intern, Data Science and Analytics | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.publicisgroupe.com/razorfish/jobs/136750?lang=en-us&previousLocale=en-US&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
 
@@ -121,6 +125,35 @@ Add new jobs to our listings keeping in mind the following:
 Our team reviews within 24-48 hours and approved jobs are added to the main list!
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
+
+
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+
+> Some positions may still be accepting applications or useful for planning.
+
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: 2 roles
+- **🏢 Companies**: 7 companies  
+- **⭐ FAANG+ Opportunities**: 0 positions
+
+<details>
+<summary><h3>🏢 <strong>Other Companies</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Jabil Circuit** | Data Science Engineering Intern | St. Petersburg, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.jabil.com/en/job/st-petersburg/data-science-engineering-intern/626/90834397600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Farmers Insurance** | Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI | Caledonia, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Farmers-Insurance/Job/Data-Scientist-Summer-Internship:-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI/-in-Caledonia,MI?jid=eae7d764573578b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+
+
+</details>
+
+---
 
 
 
