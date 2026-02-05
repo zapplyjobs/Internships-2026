@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-04T23:54:19.584Z",
+  "lastUpdated": "2026-02-05T00:19:30.726Z",
   "jobs": [
-    {
-      "id": "micron-technology-intern-smart-manufacturing-and-ai-data-science-boise-2026-01-22-1",
-      "jobId": "micron-technology-intern-smart-manufacturing-and-ai-data-science-boise",
-      "company": "Micron Technology",
-      "title": "Intern – Smart Manufacturing and AI Data Science",
-      "postedToDiscord": "2026-01-22T00:07:17.335Z",
-      "sourceDate": "2026-01-21T23:52:24.000Z",
-      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing-and-AI-Data-Science_JR88885",
-      "discordThreadId": "1463686401265631399",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ariensco-intern-data-scientist-denmark-2026-01-22-1",
-      "jobId": "ariensco-intern-data-scientist-denmark",
-      "company": "AriensCo",
-      "title": "Intern Data Scientist",
-      "postedToDiscord": "2026-01-22T00:07:20.838Z",
-      "sourceDate": "2026-01-21T23:43:14.000Z",
-      "sourceUrl": "https://arienscompany.wd5.myworkdayjobs.com/external/job/Ariens-BW-Office-Building-The-Foundry/Intern--Data-Scientist---Summer-2026_R-03895",
-      "discordThreadId": "1463686423944106050",
-      "instanceNumber": 1
-    },
-    {
-      "id": "oura-algorithm-scientist-intern-san-diego-2026-01-22-1",
-      "jobId": "oura-algorithm-scientist-intern-san-diego",
-      "company": "Oura",
-      "title": "Algorithm Scientist – Intern",
-      "postedToDiscord": "2026-01-22T00:07:24.450Z",
-      "sourceDate": "2026-01-21T23:31:57.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/oura/jobs/4109553009",
-      "discordThreadId": "1463686439010304030",
-      "instanceNumber": 1
-    },
-    {
-      "id": "flagship-pioneering-ai-research-scientist-intern-summer-2026-cambridge-2026-01-22-1",
-      "jobId": "flagship-pioneering-ai-research-scientist-intern-summer-2026-cambridge",
-      "company": "Flagship Pioneering",
-      "title": "AI Research Scientist Intern - Summer 2026",
-      "postedToDiscord": "2026-01-22T00:07:27.884Z",
-      "sourceDate": "2026-01-21T23:30:22.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8373309002",
-      "discordThreadId": "1463686453451161691",
-      "instanceNumber": 1
-    },
-    {
-      "id": "weatherford-summer-2026-ai-intern-houston-2026-01-22-1",
-      "jobId": "weatherford-summer-2026-ai-intern-houston",
-      "company": "Weatherford",
-      "title": "Summer 2026 AI Intern",
-      "postedToDiscord": "2026-01-22T00:07:31.691Z",
-      "sourceDate": "2026-01-21T20:44:59.000Z",
-      "sourceUrl": "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105239",
-      "discordThreadId": "1463686468244607056",
-      "instanceNumber": 1
-    },
-    {
-      "id": "roche-intern-rds-sequencing-network-sequencing-software-chapter-santa-clara-2026-01-22-1",
-      "jobId": "roche-intern-rds-sequencing-network-sequencing-software-chapter-santa-clara",
-      "company": "Roche",
-      "title": "Intern - RDS Sequencing Network - Sequencing Software Chapter",
-      "postedToDiscord": "2026-01-22T00:07:38.158Z",
-      "sourceDate": "2026-01-21T23:39:03.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2026-Summer-Intern---RDS-Sequencing-Network---Sequencing-Software-Chapter_202601-101130",
-      "discordThreadId": "1463686496836911381",
-      "instanceNumber": 1
-    },
-    {
-      "id": "slate-auto-intern-vehicle-integration-engineer-troy-2026-01-22-1",
-      "jobId": "slate-auto-intern-vehicle-integration-engineer-troy",
-      "company": "Slate Auto",
-      "title": "Intern – Vehicle Integration Engineer",
-      "postedToDiscord": "2026-01-22T00:07:41.669Z",
-      "sourceDate": "2026-01-21T23:35:28.000Z",
-      "sourceUrl": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Intern--Vehicle-Integration-Engineer_JR100144",
-      "discordThreadId": "1463686511290744836",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nrg-energy-salesforce-developer-intern-lehi-2026-01-22-1",
-      "jobId": "nrg-energy-salesforce-developer-intern-lehi",
-      "company": "NRG Energy",
-      "title": "Salesforce Developer Intern",
-      "postedToDiscord": "2026-01-22T00:07:45.683Z",
-      "sourceDate": "2026-01-21T23:19:26.000Z",
-      "sourceUrl": "https://careers.nrgenergy.com/SMARTHOMES/job/Salesforce-Developer-Intern-UT-84043/1358225200/?ats=successfactors",
-      "discordThreadId": "1463686526419603519",
-      "instanceNumber": 1
-    },
-    {
-      "id": "delta-dental-intern-application-development-east-lansing-2026-01-22-1",
-      "jobId": "delta-dental-intern-application-development-east-lansing",
-      "company": "Delta Dental",
-      "title": "Intern-Application Development",
-      "postedToDiscord": "2026-01-22T00:07:52.413Z",
-      "sourceDate": "2026-01-21T23:30:20.000Z",
-      "sourceUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101123",
-      "discordThreadId": "1463686555573944371",
-      "instanceNumber": 1
-    },
     {
       "id": "the-coca-cola-company-product-development-data-analytics-atlanta-2026-01-22-1",
       "jobId": "the-coca-cola-company-product-development-data-analytics-atlanta",
@@ -13969,12 +13870,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 664,
+    "totalJobs": 655,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-04T23:54:19.584Z",
-      "archived": 0
+      "date": "2026-02-05T00:19:30.726Z",
+      "archived": 9,
+      "monthsAffected": 1
     }
   }
 }
