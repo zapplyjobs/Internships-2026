@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T14:20:08.509Z",
+  "generated": "2026-02-05T14:37:19.963Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T14:20:08.509Z",
-  "period_end": "2026-02-05T14:20:08.509Z",
+  "period_start": "2026-01-29T14:37:19.963Z",
+  "period_end": "2026-02-05T14:37:19.963Z",
   "summary": {
-    "total_jobs_posted": 329,
-    "unique_jobs": 329,
+    "total_jobs_posted": 330,
+    "unique_jobs": 330,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -493,7 +493,7 @@
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 79,
+      "count": 80,
       "jobs": [
         "keurig-dr-pepper-summer-2026-intern-sales-operations-analyst-frisco",
         "genentech-2026-summer-intern-regev-lab-molecular-design-south-san-francisco",
@@ -522,6 +522,7 @@
         "disney-entertainment-television-data-scientist-intern-summer-fall-2026-new-york",
         "cisco-software-engineer-security-automation-i-intern-united-states-alpharetta",
         "cisco-software-engineer-security-automation-i-intern-united-states-hillsboro",
+        "cisco-software-engineer-security-automation-i-intern-united-states-boston",
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
