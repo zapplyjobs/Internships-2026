@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T03:37:12.978Z",
+  "generated": "2026-02-05T04:25:25.847Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T03:37:12.978Z",
-  "period_end": "2026-02-05T03:37:12.978Z",
+  "period_start": "2026-01-29T04:25:25.847Z",
+  "period_end": "2026-02-05T04:25:25.847Z",
   "summary": {
-    "total_jobs_posted": 144,
-    "unique_jobs": 144,
+    "total_jobs_posted": 153,
+    "unique_jobs": 153,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -13,10 +13,273 @@
     "channels_active": 6
   },
   "by_channel": {
+    "💻・tech-internships": {
+      "channel_id": "1464303178286760059",
+      "count": 46,
+      "jobs": [
+        "swift-api-platform-intern-hybrid-tysons",
+        "microsoft-research-intern-applied-speech-research-berkeley",
+        "mitek-product-marketing-analytics-intern-chesterfield",
+        "rr-donnelley-unix-linux-engineer-intern-warrenville",
+        "hewlett-packard-hp-college-intern-ai-business-applications-support-spring",
+        "thyssenkrupp-data-analytics-intern-southfield",
+        "national-renewable-energy-laboratory-software-engineering-intern-golden",
+        "greystar-worldwide-data-engineering-intern-master-s-level-houston",
+        "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata",
+        "bio-techne-software-developer-intern-wallingford",
+        "empower-intern-software-engineer-greenwood-village",
+        "motorola-global-customer-data-management-intern-chicago",
+        "berkshire-grey-robot-learning-r-d-intern-bedford",
+        "kaiser-permanente-data-reporting-master-s-intern-pasadena",
+        "kaiser-permanente-data-analytics-intern-multiple-teams-pasadena",
+        "vanderlande-industries-controls-support-engineer-intern-marietta",
+        "vanderlande-industries-software-engineer-intern-marietta",
+        "emerson-electric-software-engineering-intern-austin",
+        "powell-r-d-software-engineering-intern-houston",
+        "kaiser-permanente-application-development-bachelor-s-intern-pasadena",
+        "werfen-software-engineering-intern-bedford",
+        "rocket-companies-database-engineer-intern-detroit",
+        "vanderlande-industries-supply-chain-data-analytics-intern-marietta",
+        "general-dynamics-mission-software-engineer-intern-bloomington",
+        "kaiser-permanente-data-analytics-bachelor-intern-pleasanton",
+        "microsoft-research-intern-agentic-programming-redmond",
+        "national-renewable-energy-laboratory-undergraduate-graduate-intern-year-round-transportation-research-software-engineering-golden",
+        "rtx-intern-software-engineer-intern-aurora",
+        "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo",
+        "teledyne-nhrc-software-engineering-intern-huntsville",
+        "avathon-full-stack-engineering-intern-pleasanton",
+        "mks-instruments-software-engineer-intern-beaverton",
+        "warner-bros-wb-games-netherrealm-software-engineering-intern-co-op-chicago",
+        "wsp-geologist-geophysicist-intern-geologist-geophysicist-redmond",
+        "oracle-ada-intern-nashville",
+        "mitek-marketing-analytics-intern-chesterfield",
+        "onsemi-summer-2026-data-analytics-and-business-systems-intern-scottsdale",
+        "bernhard-business-analytics-intern-the-woodlands",
+        "shawmut-design-and-construction-intern-coop-software-development-boston",
+        "veolia-intern-manufacturing-software-engineer-boulder",
+        "guidestone-intern-software-development-dallas",
+        "oracle-software-development-intern-global-licensing-and-advisory-services-san-carlos",
+        "savannah-river-national-laboratory-lse-technical-undergraduate-nuclear-dose-modeling-intern-nuclear-materials-north-augusta",
+        "johnson-johnson-supply-chain-and-data-management-intern-co-op-edison",
+        "heart-aerospace-software-engineering-intern-flight-software-torrance",
+        "leidos-embedded-design-engineering-intern-firmware-huntsville"
+      ],
+      "recent_jobs": [
+        {
+          "id": "onsemi-summer-2026-data-analytics-and-business-systems-intern-scottsdale",
+          "title": "Summer 2026 – Data Analytics and Business Systems Intern",
+          "company": "onsemi",
+          "posted_at": "2026-02-04T09:34:32.279Z"
+        },
+        {
+          "id": "bernhard-business-analytics-intern-the-woodlands",
+          "title": "Business Analytics Intern",
+          "company": "Bernhard",
+          "posted_at": "2026-02-04T09:34:34.026Z"
+        },
+        {
+          "id": "shawmut-design-and-construction-intern-coop-software-development-boston",
+          "title": "Intern/Coop-Software Development",
+          "company": "Shawmut Design and Construction",
+          "posted_at": "2026-02-04T09:34:35.763Z"
+        },
+        {
+          "id": "veolia-intern-manufacturing-software-engineer-boulder",
+          "title": "Intern Manufacturing Software Engineer",
+          "company": "Veolia",
+          "posted_at": "2026-02-04T09:34:37.440Z"
+        },
+        {
+          "id": "guidestone-intern-software-development-dallas",
+          "title": "Intern - Software Development",
+          "company": "GuideStone",
+          "posted_at": "2026-02-04T09:34:39.148Z"
+        },
+        {
+          "id": "oracle-software-development-intern-global-licensing-and-advisory-services-san-carlos",
+          "title": "Software Development Intern - Global Licensing and Advisory Services",
+          "company": "Oracle",
+          "posted_at": "2026-02-04T15:48:06.736Z"
+        },
+        {
+          "id": "savannah-river-national-laboratory-lse-technical-undergraduate-nuclear-dose-modeling-intern-nuclear-materials-north-augusta",
+          "title": "LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials",
+          "company": "Savannah River National Laboratory",
+          "posted_at": "2026-02-04T15:48:08.411Z"
+        },
+        {
+          "id": "johnson-johnson-supply-chain-and-data-management-intern-co-op-edison",
+          "title": "Supply Chain and Data Management Intern/Co-op",
+          "company": "Johnson & Johnson",
+          "posted_at": "2026-02-04T16:18:10.538Z"
+        },
+        {
+          "id": "heart-aerospace-software-engineering-intern-flight-software-torrance",
+          "title": "Software Engineering Intern – Flight Software",
+          "company": "Heart Aerospace",
+          "posted_at": "2026-02-04T20:49:59.263Z"
+        },
+        {
+          "id": "leidos-embedded-design-engineering-intern-firmware-huntsville",
+          "title": "Embedded Design Engineering Intern – Firmware",
+          "company": "Leidos",
+          "posted_at": "2026-02-04T20:50:01.085Z"
+        }
+      ]
+    },
+    "🤝・sales-internships": {
+      "channel_id": "1464303236772270122",
+      "count": 3,
+      "jobs": [
+        "roku-sales-marketing-intern-new-york",
+        "mohawk-industries-r-d-intern-summer-2026-dalton-georgia-united-states-calhoun",
+        "invesco-intern-technology-atlanta"
+      ],
+      "recent_jobs": [
+        {
+          "id": "roku-sales-marketing-intern-new-york",
+          "title": "Sales Marketing Intern",
+          "company": "Roku",
+          "posted_at": "2026-02-05T04:24:53.438Z"
+        },
+        {
+          "id": "mohawk-industries-r-d-intern-summer-2026-dalton-georgia-united-states-calhoun",
+          "title": "R&D Intern - Summer 2026 (Dalton, Georgia, United States)",
+          "company": "Mohawk Industries",
+          "posted_at": "2026-02-05T04:24:55.159Z"
+        },
+        {
+          "id": "invesco-intern-technology-atlanta",
+          "title": "Intern - Technology",
+          "company": "Invesco",
+          "posted_at": "2026-02-04T10:03:15.684Z"
+        }
+      ]
+    },
+    "🎯・other-industry-internships": {
+      "channel_id": "1464303419794784347",
+      "count": 14,
+      "jobs": [
+        "webster-bank-summer-internship-legal-stamford",
+        "united-airlines-intern-global-supply-chain-and-mro-shops-summer-2026-arlington-heights",
+        "medical-informatics-engineering-development-intern-fort-wayne",
+        "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
+        "gulfstream-collegiate-associate-intern-it-savannah",
+        "rtx-2026-returning-intern-cambridge",
+        "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
+        "intel-mecop-intern-hillsboro",
+        "sila-nanotechnologies-battery-simulation-computational-scientist-intern-alameda",
+        "aveva-services-intern-houston",
+        "mks-instruments-computer-science-mecop-intern-beaverton",
+        "onsemi-summer-2026-quality-and-reliability-intern-san-jose-san-jose",
+        "onsemi-quality-and-reliability-intern-allen",
+        "western-alliance-business-operations-intern-co-op-computer-science-majors-dallas"
+      ],
+      "recent_jobs": [
+        {
+          "id": "gulfstream-collegiate-associate-intern-it-savannah",
+          "title": "Collegiate Associate Intern - IT",
+          "company": "Gulfstream",
+          "posted_at": "2026-02-04T07:21:25.254Z"
+        },
+        {
+          "id": "rtx-2026-returning-intern-cambridge",
+          "title": "2026 Returning Intern",
+          "company": "RTX",
+          "posted_at": "2026-02-04T07:21:26.910Z"
+        },
+        {
+          "id": "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
+          "title": "Summer 2026 R&D Intern - Hardcoats",
+          "company": "Momentive",
+          "posted_at": "2026-02-04T07:21:28.736Z"
+        },
+        {
+          "id": "intel-mecop-intern-hillsboro",
+          "title": "Mecop Intern",
+          "company": "Intel",
+          "posted_at": "2026-02-04T07:48:45.855Z"
+        },
+        {
+          "id": "sila-nanotechnologies-battery-simulation-computational-scientist-intern-alameda",
+          "title": "Battery Simulation & Computational Scientist Intern",
+          "company": "Sila Nanotechnologies",
+          "posted_at": "2026-02-04T08:29:50.463Z"
+        },
+        {
+          "id": "aveva-services-intern-houston",
+          "title": "Services Intern",
+          "company": "AVEVA",
+          "posted_at": "2026-02-04T08:29:52.159Z"
+        },
+        {
+          "id": "mks-instruments-computer-science-mecop-intern-beaverton",
+          "title": "Computer Science MECOP Intern",
+          "company": "MKS Instruments",
+          "posted_at": "2026-02-04T08:51:33.665Z"
+        },
+        {
+          "id": "onsemi-summer-2026-quality-and-reliability-intern-san-jose-san-jose",
+          "title": "Summer 2026 – Quality and Reliability Intern SAN JOSE",
+          "company": "onsemi",
+          "posted_at": "2026-02-04T15:48:00.306Z"
+        },
+        {
+          "id": "onsemi-quality-and-reliability-intern-allen",
+          "title": "Quality and Reliability Intern",
+          "company": "onsemi",
+          "posted_at": "2026-02-04T15:48:01.981Z"
+        },
+        {
+          "id": "western-alliance-business-operations-intern-co-op-computer-science-majors-dallas",
+          "title": "Business Operations Intern/Co-op - Computer Science Majors",
+          "company": "Western Alliance",
+          "posted_at": "2026-02-04T16:18:00.757Z"
+        }
+      ]
+    },
+    "📣・marketing-internships": {
+      "channel_id": "1464303312626122855",
+      "count": 4,
+      "jobs": [
+        "labcorp-intern-end-user-computing-burlington",
+        "nasdaq-research-development-intern-atlanta",
+        "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
+        "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
+      ],
+      "recent_jobs": [
+        {
+          "id": "labcorp-intern-end-user-computing-burlington",
+          "title": "Intern - End User Computing",
+          "company": "Labcorp",
+          "posted_at": "2026-02-05T04:25:07.923Z"
+        },
+        {
+          "id": "nasdaq-research-development-intern-atlanta",
+          "title": "Research & Development Intern",
+          "company": "Nasdaq",
+          "posted_at": "2026-02-04T08:14:05.183Z"
+        },
+        {
+          "id": "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
+          "title": "Graduate Intern - Year-Round - Transportation Systems Analysis",
+          "company": "National Renewable Energy Laboratory",
+          "posted_at": "2026-02-04T08:29:39.085Z"
+        },
+        {
+          "id": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin",
+          "title": "Internship – Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
+          "company": "City of Austin",
+          "posted_at": "2026-02-04T11:47:48.231Z"
+        }
+      ]
+    },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 52,
+      "count": 54,
       "jobs": [
+        "keurig-dr-pepper-summer-2026-intern-sales-operations-analyst-frisco",
+        "genentech-2026-summer-intern-regev-lab-molecular-design-south-san-francisco",
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
@@ -135,8 +398,9 @@
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 31,
+      "count": 32,
       "jobs": [
+        "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-branchburg",
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
@@ -229,243 +493,6 @@
           "title": "Data Engineer Intern – Early Career",
           "company": "S&P Global ",
           "posted_at": "2026-02-04T10:03:22.476Z"
-        }
-      ]
-    },
-    "💻・tech-internships": {
-      "channel_id": "1464303178286760059",
-      "count": 45,
-      "jobs": [
-        "microsoft-research-intern-applied-speech-research-berkeley",
-        "mitek-product-marketing-analytics-intern-chesterfield",
-        "rr-donnelley-unix-linux-engineer-intern-warrenville",
-        "hewlett-packard-hp-college-intern-ai-business-applications-support-spring",
-        "thyssenkrupp-data-analytics-intern-southfield",
-        "national-renewable-energy-laboratory-software-engineering-intern-golden",
-        "greystar-worldwide-data-engineering-intern-master-s-level-houston",
-        "aspentech-project-engineering-intern-digital-grid-management-summer-2026-wayzata",
-        "bio-techne-software-developer-intern-wallingford",
-        "empower-intern-software-engineer-greenwood-village",
-        "motorola-global-customer-data-management-intern-chicago",
-        "berkshire-grey-robot-learning-r-d-intern-bedford",
-        "kaiser-permanente-data-reporting-master-s-intern-pasadena",
-        "kaiser-permanente-data-analytics-intern-multiple-teams-pasadena",
-        "vanderlande-industries-controls-support-engineer-intern-marietta",
-        "vanderlande-industries-software-engineer-intern-marietta",
-        "emerson-electric-software-engineering-intern-austin",
-        "powell-r-d-software-engineering-intern-houston",
-        "kaiser-permanente-application-development-bachelor-s-intern-pasadena",
-        "werfen-software-engineering-intern-bedford",
-        "rocket-companies-database-engineer-intern-detroit",
-        "vanderlande-industries-supply-chain-data-analytics-intern-marietta",
-        "general-dynamics-mission-software-engineer-intern-bloomington",
-        "kaiser-permanente-data-analytics-bachelor-intern-pleasanton",
-        "microsoft-research-intern-agentic-programming-redmond",
-        "national-renewable-energy-laboratory-undergraduate-graduate-intern-year-round-transportation-research-software-engineering-golden",
-        "rtx-intern-software-engineer-intern-aurora",
-        "verkada-ios-engineering-intern-native-streaming-clients-team-2026-san-mateo",
-        "teledyne-nhrc-software-engineering-intern-huntsville",
-        "avathon-full-stack-engineering-intern-pleasanton",
-        "mks-instruments-software-engineer-intern-beaverton",
-        "warner-bros-wb-games-netherrealm-software-engineering-intern-co-op-chicago",
-        "wsp-geologist-geophysicist-intern-geologist-geophysicist-redmond",
-        "oracle-ada-intern-nashville",
-        "mitek-marketing-analytics-intern-chesterfield",
-        "onsemi-summer-2026-data-analytics-and-business-systems-intern-scottsdale",
-        "bernhard-business-analytics-intern-the-woodlands",
-        "shawmut-design-and-construction-intern-coop-software-development-boston",
-        "veolia-intern-manufacturing-software-engineer-boulder",
-        "guidestone-intern-software-development-dallas",
-        "oracle-software-development-intern-global-licensing-and-advisory-services-san-carlos",
-        "savannah-river-national-laboratory-lse-technical-undergraduate-nuclear-dose-modeling-intern-nuclear-materials-north-augusta",
-        "johnson-johnson-supply-chain-and-data-management-intern-co-op-edison",
-        "heart-aerospace-software-engineering-intern-flight-software-torrance",
-        "leidos-embedded-design-engineering-intern-firmware-huntsville"
-      ],
-      "recent_jobs": [
-        {
-          "id": "onsemi-summer-2026-data-analytics-and-business-systems-intern-scottsdale",
-          "title": "Summer 2026 – Data Analytics and Business Systems Intern",
-          "company": "onsemi",
-          "posted_at": "2026-02-04T09:34:32.279Z"
-        },
-        {
-          "id": "bernhard-business-analytics-intern-the-woodlands",
-          "title": "Business Analytics Intern",
-          "company": "Bernhard",
-          "posted_at": "2026-02-04T09:34:34.026Z"
-        },
-        {
-          "id": "shawmut-design-and-construction-intern-coop-software-development-boston",
-          "title": "Intern/Coop-Software Development",
-          "company": "Shawmut Design and Construction",
-          "posted_at": "2026-02-04T09:34:35.763Z"
-        },
-        {
-          "id": "veolia-intern-manufacturing-software-engineer-boulder",
-          "title": "Intern Manufacturing Software Engineer",
-          "company": "Veolia",
-          "posted_at": "2026-02-04T09:34:37.440Z"
-        },
-        {
-          "id": "guidestone-intern-software-development-dallas",
-          "title": "Intern - Software Development",
-          "company": "GuideStone",
-          "posted_at": "2026-02-04T09:34:39.148Z"
-        },
-        {
-          "id": "oracle-software-development-intern-global-licensing-and-advisory-services-san-carlos",
-          "title": "Software Development Intern - Global Licensing and Advisory Services",
-          "company": "Oracle",
-          "posted_at": "2026-02-04T15:48:06.736Z"
-        },
-        {
-          "id": "savannah-river-national-laboratory-lse-technical-undergraduate-nuclear-dose-modeling-intern-nuclear-materials-north-augusta",
-          "title": "LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials",
-          "company": "Savannah River National Laboratory",
-          "posted_at": "2026-02-04T15:48:08.411Z"
-        },
-        {
-          "id": "johnson-johnson-supply-chain-and-data-management-intern-co-op-edison",
-          "title": "Supply Chain and Data Management Intern/Co-op",
-          "company": "Johnson & Johnson",
-          "posted_at": "2026-02-04T16:18:10.538Z"
-        },
-        {
-          "id": "heart-aerospace-software-engineering-intern-flight-software-torrance",
-          "title": "Software Engineering Intern – Flight Software",
-          "company": "Heart Aerospace",
-          "posted_at": "2026-02-04T20:49:59.263Z"
-        },
-        {
-          "id": "leidos-embedded-design-engineering-intern-firmware-huntsville",
-          "title": "Embedded Design Engineering Intern – Firmware",
-          "company": "Leidos",
-          "posted_at": "2026-02-04T20:50:01.085Z"
-        }
-      ]
-    },
-    "🎯・other-industry-internships": {
-      "channel_id": "1464303419794784347",
-      "count": 12,
-      "jobs": [
-        "medical-informatics-engineering-development-intern-fort-wayne",
-        "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
-        "gulfstream-collegiate-associate-intern-it-savannah",
-        "rtx-2026-returning-intern-cambridge",
-        "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
-        "intel-mecop-intern-hillsboro",
-        "sila-nanotechnologies-battery-simulation-computational-scientist-intern-alameda",
-        "aveva-services-intern-houston",
-        "mks-instruments-computer-science-mecop-intern-beaverton",
-        "onsemi-summer-2026-quality-and-reliability-intern-san-jose-san-jose",
-        "onsemi-quality-and-reliability-intern-allen",
-        "western-alliance-business-operations-intern-co-op-computer-science-majors-dallas"
-      ],
-      "recent_jobs": [
-        {
-          "id": "gulfstream-collegiate-associate-intern-it-savannah",
-          "title": "Collegiate Associate Intern - IT",
-          "company": "Gulfstream",
-          "posted_at": "2026-02-04T07:21:25.254Z"
-        },
-        {
-          "id": "rtx-2026-returning-intern-cambridge",
-          "title": "2026 Returning Intern",
-          "company": "RTX",
-          "posted_at": "2026-02-04T07:21:26.910Z"
-        },
-        {
-          "id": "momentive-summer-2026-r-d-intern-hardcoats-cohoes",
-          "title": "Summer 2026 R&D Intern - Hardcoats",
-          "company": "Momentive",
-          "posted_at": "2026-02-04T07:21:28.736Z"
-        },
-        {
-          "id": "intel-mecop-intern-hillsboro",
-          "title": "Mecop Intern",
-          "company": "Intel",
-          "posted_at": "2026-02-04T07:48:45.855Z"
-        },
-        {
-          "id": "sila-nanotechnologies-battery-simulation-computational-scientist-intern-alameda",
-          "title": "Battery Simulation & Computational Scientist Intern",
-          "company": "Sila Nanotechnologies",
-          "posted_at": "2026-02-04T08:29:50.463Z"
-        },
-        {
-          "id": "aveva-services-intern-houston",
-          "title": "Services Intern",
-          "company": "AVEVA",
-          "posted_at": "2026-02-04T08:29:52.159Z"
-        },
-        {
-          "id": "mks-instruments-computer-science-mecop-intern-beaverton",
-          "title": "Computer Science MECOP Intern",
-          "company": "MKS Instruments",
-          "posted_at": "2026-02-04T08:51:33.665Z"
-        },
-        {
-          "id": "onsemi-summer-2026-quality-and-reliability-intern-san-jose-san-jose",
-          "title": "Summer 2026 – Quality and Reliability Intern SAN JOSE",
-          "company": "onsemi",
-          "posted_at": "2026-02-04T15:48:00.306Z"
-        },
-        {
-          "id": "onsemi-quality-and-reliability-intern-allen",
-          "title": "Quality and Reliability Intern",
-          "company": "onsemi",
-          "posted_at": "2026-02-04T15:48:01.981Z"
-        },
-        {
-          "id": "western-alliance-business-operations-intern-co-op-computer-science-majors-dallas",
-          "title": "Business Operations Intern/Co-op - Computer Science Majors",
-          "company": "Western Alliance",
-          "posted_at": "2026-02-04T16:18:00.757Z"
-        }
-      ]
-    },
-    "📣・marketing-internships": {
-      "channel_id": "1464303312626122855",
-      "count": 3,
-      "jobs": [
-        "nasdaq-research-development-intern-atlanta",
-        "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
-        "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
-      ],
-      "recent_jobs": [
-        {
-          "id": "nasdaq-research-development-intern-atlanta",
-          "title": "Research & Development Intern",
-          "company": "Nasdaq",
-          "posted_at": "2026-02-04T08:14:05.183Z"
-        },
-        {
-          "id": "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
-          "title": "Graduate Intern - Year-Round - Transportation Systems Analysis",
-          "company": "National Renewable Energy Laboratory",
-          "posted_at": "2026-02-04T08:29:39.085Z"
-        },
-        {
-          "id": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin",
-          "title": "Internship – Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
-          "company": "City of Austin",
-          "posted_at": "2026-02-04T11:47:48.231Z"
-        }
-      ]
-    },
-    "🤝・sales-internships": {
-      "channel_id": "1464303236772270122",
-      "count": 1,
-      "jobs": [
-        "invesco-intern-technology-atlanta"
-      ],
-      "recent_jobs": [
-        {
-          "id": "invesco-intern-technology-atlanta",
-          "title": "Intern - Technology",
-          "company": "Invesco",
-          "posted_at": "2026-02-04T10:03:15.684Z"
         }
       ]
     }
