@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-0-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-5-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 0+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 0+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 5+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -60,9 +60,42 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+<details>
+<summary><h3>💻 <strong>Enterprise Software</strong> (2 positions)</h3></summary>
+
+#### 🌐 **Cisco** (2 positions)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Project Specialist I (Intern) United States 🏠 | North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2000247EXTERNALENGLOBAL/Project-Specialist-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| Business Analyst (Intern) - United States 🏠 | Annapolis Junction, Maryland | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.localjobs.com/job/annapolis-junction-md-business-analyst-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+<details>
+<summary><h3>🛡️ <strong>Defense & Aerospace</strong> (1 position)</h3></summary>
+
+#### 🏢 **CACI** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Cyber Engineering Intern - Summer 2026 | Sterling, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.caci.com/global/en/job/CACIGLOBAL320883EXTERNALENGLOBAL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+<details>
+<summary><h3>🏥 <strong>Healthcare & Life Sciences</strong> (2 positions)</h3></summary>
+
+#### 🏢 **Genentech** (2 positions)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| 2026 Summer Intern - HIT Program Management Office (PMO) | Hillsboro, Oregon | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102340/2026-Summer-Intern-HIT-Program-Management-Office-PMO?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 2026 Summer Intern - Genentech Summer Program - Manufacturing | Oceanside, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-101129/2026-Summer-Intern-Genentech-Summer-Program-Manufacturing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+
 
 ---
 
@@ -114,10 +147,40 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 45 (7+ days old) - Click to Expand</h2></summary>
+
+> Some positions may still be accepting applications or useful for planning.
+
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: 45 roles
+- **🏢 Companies**: 79 companies  
+- **⭐ FAANG+ Opportunities**: 0 positions
+
+<details>
+<summary><h3>🏭 <strong>Manufacturing & Industrial</strong> (1 position)</h3></summary>
+
+#### 🔧 **Texas Instruments** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Product, Test or Validation Engineering Intern | Dallas, Texas | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.ti.com/de/sites/CX/job/25008853/?location=Dallas%25252C+TX%25252C+United+States&locationId=300000056282337&locationLevel=city&mode=location&radius=25&radiusUnit=MI&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
-**🎯 0 current opportunities from 0 top companies.**
+**🎯 5 current opportunities from 3 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
