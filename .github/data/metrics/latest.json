@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T12:48:39.099Z",
+  "generated": "2026-02-05T13:29:34.223Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T12:48:39.099Z",
-  "period_end": "2026-02-05T12:48:39.099Z",
+  "period_start": "2026-01-29T13:29:34.223Z",
+  "period_end": "2026-02-05T13:29:34.223Z",
   "summary": {
-    "total_jobs_posted": 321,
-    "unique_jobs": 321,
+    "total_jobs_posted": 325,
+    "unique_jobs": 325,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 102,
+      "count": 104,
       "jobs": [
         "swift-api-platform-intern-hybrid-tysons",
         "lockheed-martin-launch-systems-integration-systems-engineer-intern-sunnyvale",
@@ -74,6 +74,8 @@
         "great-river-technology-software-engineer-intern-albuquerque",
         "bae-software-engineering-intern-ii-summer-2026-nashua",
         "qorvo-software-engineer-intern-hillsboro",
+        "oracle-undergrad-software-engineer-intern-global-industries-jackson",
+        "cisco-software-engineer-security-automation-i-intern-united-states-north-carolina",
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
         "rr-donnelley-unix-linux-engineer-intern-warrenville",
@@ -489,7 +491,7 @@
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 76,
+      "count": 77,
       "jobs": [
         "keurig-dr-pepper-summer-2026-intern-sales-operations-analyst-frisco",
         "genentech-2026-summer-intern-regev-lab-molecular-design-south-san-francisco",
@@ -515,6 +517,7 @@
         "cisco-software-engineer-security-automation-i-intern-united-states-fulton",
         "amazon-com-services-robotics-software-development-engineer-intern-co-op-2026-seattle",
         "virtua-health-it-data-science-intern-wooster",
+        "disney-entertainment-television-data-scientist-intern-summer-fall-2026-new-york",
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
@@ -633,7 +636,7 @@
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 43,
+      "count": 44,
       "jobs": [
         "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-branchburg",
         "the-walt-disney-studios-disney-entertainment-software-engineering-intern-summer-2026-burbank",
@@ -647,6 +650,7 @@
         "cisco-technical-marketing-engineer-i-intern-united-states-san-jose",
         "block-mobile-software-engineer-intern-summer-2026-san-francisco-ca-usa-san-francisco",
         "cinemark-usa-data-science-intern-plano",
+        "sirius-xm-summer-intern-commercial-analytics-and-data-science-new-york",
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
