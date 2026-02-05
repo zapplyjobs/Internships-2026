@@ -1,7 +1,7 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2026-02-05T04:26:51.286Z",
-  "totalPosts": 8481,
+  "lastUpdated": "2026-02-05T05:04:02.324Z",
+  "totalPosts": 8490,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
@@ -130,8 +130,8 @@
     },
     "1464303204178067620": {
       "name": "🤖・ai-internships",
-      "posts": 301,
-      "lastPost": "2026-02-05T04:26:51.286Z"
+      "posts": 302,
+      "lastPost": "2026-02-05T05:03:55.180Z"
     },
     "1464303178286760059": {
       "name": "💻・tech-internships",
@@ -140,8 +140,8 @@
     },
     "1464303312626122855": {
       "name": "📣・marketing-internships",
-      "posts": 441,
-      "lastPost": "2026-02-05T04:26:46.566Z"
+      "posts": 443,
+      "lastPost": "2026-02-05T05:03:50.380Z"
     },
     "1464304146072207390": {
       "name": "🌲・pacific-northwest-internships",
@@ -170,13 +170,13 @@
     },
     "1464303236772270122": {
       "name": "🤝・sales-internships",
-      "posts": 8,
-      "lastPost": "2026-02-05T04:26:41.767Z"
+      "posts": 10,
+      "lastPost": "2026-02-05T05:04:02.324Z"
     },
     "1464303419794784347": {
       "name": "🎯・other-industry-internships",
-      "posts": 34,
-      "lastPost": "2026-02-05T04:26:35.243Z"
+      "posts": 38,
+      "lastPost": "2026-02-05T05:03:43.894Z"
     }
   }
 }
