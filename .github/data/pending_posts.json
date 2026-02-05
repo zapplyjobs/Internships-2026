@@ -59,43 +59,6 @@
   },
   {
     "job": {
-      "job_id": "js-oracle-vwu7suyigofwzwq5aaaaaa==",
-      "job_title": "Undergrad Software Engineer Intern - Global Industries",
-      "employer_name": "Oracle",
-      "job_city": "Montgomery",
-      "job_state": "Alabama",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://veterans.usnlx.com/montgomery-al/undergrad-software-engineer-intern-global-industries/CD20ADA7FAFF4459A9F7DBCBB51A198D/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-24T00:00:00.000Z",
-      "job_description": "USNLX Veterans Jobs's jobs, updated daily and verified by DirectEmployers Association.",
-      "job_employment_type": "INTERNSHIP",
-      "_tags": {
-        "employment": "internship",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "3_plus_years",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "oracle-undergrad-software-engineer-intern-global-industries-montgomery",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-02-05T05:03:13.118Z",
-    "enrichedAt": "2026-02-05T11:59:26.071Z",
-    "postedAt": "2026-02-05T13:56:34.197Z"
-  },
-  {
-    "job": {
       "job_id": "js-oracle-smntfhdhzselho_haaaaaa==",
       "job_title": "Undergrad Software Engineer Intern - Global Industries",
       "employer_name": "Oracle",
@@ -126,47 +89,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
-    "addedAt": "2026-02-05T05:03:13.118Z",
-    "enrichedAt": "2026-02-05T11:59:26.071Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_id": "js-cisco-eoqecnzcmwq29k4gaaaaaa==",
-      "job_title": "Software Engineer Security & Automation I (Intern) – United States",
-      "employer_name": "Cisco",
-      "job_city": "Alpharetta",
-      "job_state": "Georgia",
-      "job_country": "United States",
-      "job_is_remote": false,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-i-intern-%E2%80%93-united-states-at-cisco-4365352747?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
-      "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.&lt;br&gt;&lt;br&gt;This role may be eligible for remote work in the United States depending on business needs and hiring manager approval.&lt;br&gt;&lt;br&gt;Applications are accepted until further notice.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Meet the Team&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Our dedicated team members are building the future of Cisco’s AI-driven platforms and data infrastructure, supporting innovation across the globe. You will join a collaborative environment focused on developing advanced data pipelines, secure cloud infrastructure, and automation solutions within business groups such as Security and Infra &amp;amp; Security (Compute, Cloud, Security teams). As part of this innovative team, you will contribute to the growth of cutting-edge technologies in data, intelligent systems, and cybersecurity automation. Explore opportunities at the intersection of security engineering, automation, and AI—helping to transform how Cisco and its customers harness secure, intelligent automation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Your Impact&lt;br&gt;&lt;br&gt;&lt;/strong&gt;As a passionate software engineer, you will play a critical role in developing scalable, secure data pipelines, designing robust analytics platforms, and building automation infrastructure to support Cisco’s security and cloud initiatives. Your expertise in programming, data systems, and cybersecurity allows you to solve complex challenges with innovation and precision. By building and maintaining essential security tools and automation platforms, you enable Cisco’s business groups to leverage AI-driven, secure, and automated insights for operational excellence and strategic growth. Your contributions ensure reliable, high-quality, and secure infrastructure that supports Cisco’s leadership in intelligent, security-first technology solutions.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Minimum Qualifications&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College), or currently enrolled in an undergraduate degree program. &lt;/li&gt;&lt;li&gt;Experience in writing, debugging, and maintaining code in Python or other scripting languages (e.g., Bash) to automate tasks, workflows, and processes. &lt;/li&gt;&lt;li&gt;Understanding of security protocols and principles (e.g., TLS/SSL, SSH, OAuth, SAML, IPsec), and familiarity using common cybersecurity tools. &lt;/li&gt;&lt;li&gt;Experience with DevOps/DevSecOps practices, including integrating security into CI/CD pipelines (e.g., Jenkins, GitHub Actions) and applying cloud security concepts and automation tools within software development and deployment workflows. &lt;/li&gt;&lt;li&gt;Able to legally live and work in the country for which you're applying, without visa support or sponsorship. &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Preferred Qualifications&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Understanding of artificial intelligence and machine learning concepts, algorithms, and basic implementation techniques. &lt;/li&gt;&lt;li&gt;Familiarity with securing cloud environments, including knowledge of cloud security best practices and commonly used security tools. &lt;/li&gt;&lt;li&gt;Experience or coursework related to securing containerized applications (e.g., Docker, Kubernetes), including vulnerability assessment and mitigation strategies. &lt;/li&gt;&lt;li&gt;Hands-on experience writing and executing automated tests for Python applications using the pytest framework. &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Why Cisco?&lt;br&gt;&lt;br&gt;At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.&lt;br&gt;&lt;br&gt;Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.&lt;br&gt;&lt;br&gt;We are Cisco, and our power starts with you.&lt;br&gt;&lt;br&gt;Message to applicants applying to work in the U.S. and/or Canada:&lt;br&gt;&lt;br&gt;Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.&lt;br&gt;&lt;br&gt;U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.&lt;br&gt;&lt;br&gt;U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees&lt;/li&gt;&lt;li&gt;1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco&lt;/li&gt;&lt;li&gt;Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees&lt;/li&gt;&lt;li&gt;Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)&lt;/li&gt;&lt;li&gt;80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next&lt;/li&gt;&lt;li&gt;Additional paid time away may be requested to deal with critical or emergency issues for family members&lt;/li&gt;&lt;li&gt;Optional 10 paid days per full calendar year to volunteer&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.&lt;br&gt;&lt;br&gt;Employees On Sales Plans Earn Performance-based Incentive Pay On Top Of Their Base Salary, Which Is Split Between Quota And Non-quota Components, Subject To The Applicable Cisco Plan. For Quota-based Incentive Pay, Cisco Typically Pays As Follows&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;.75% of incentive target for each 1% of revenue attainment up to 50% of quota;&lt;/li&gt;&lt;li&gt;1.5% of incentive target for each 1% of attainment between 50% and 75%;&lt;/li&gt;&lt;li&gt;1% of incentive target for each 1% of attainment between 75% and 100%; and&lt;/li&gt;&lt;li&gt;Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.&lt;br&gt;&lt;br&gt;The applicable full salary ranges for this position, by specific state, are listed below:&lt;br&gt;&lt;br&gt;&lt;strong&gt;New York City Metro Area&lt;br&gt;&lt;br&gt;&lt;/strong&gt;$44,000.00 - $185,000.00&lt;br&gt;&lt;br&gt;&lt;strong&gt;Non-Metro New York State &amp;amp; Washington State&lt;br&gt;&lt;br&gt;&lt;/strong&gt;$44,000.00 - $185,000.00&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt; For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.&lt;/li&gt;&lt;li&gt; Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.&lt;/li&gt;&lt;/ul&gt;",
-      "job_employment_type": "FULL-TIME",
-      "_tags": {
-        "employment": "internship",
-        "domains": [
-          "software"
-        ],
-        "locations": [
-          "us",
-          "on_site"
-        ],
-        "experience": "no_experience",
-        "special": []
-      },
-      "_source": "aggregator",
-      "_original_source": "jsearch",
-      "job_posted_at": "1h",
-      "id": "cisco-software-engineer-security-automation-i-intern-united-states-alpharetta",
-      "description_platform": "generic",
-      "description_success": true
-    },
     "status": "posted",
     "addedAt": "2026-02-05T05:03:13.118Z",
-    "enrichedAt": "2026-02-05T12:23:46.290Z",
-    "postedAt": "2026-02-05T13:56:34.197Z"
+    "enrichedAt": "2026-02-05T11:59:26.071Z",
+    "postedAt": "2026-02-05T14:20:06.248Z"
   },
   {
     "job": {
@@ -200,10 +126,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-02-05T05:03:13.118Z",
     "enrichedAt": "2026-02-05T12:23:46.290Z",
-    "postedAt": null
+    "postedAt": "2026-02-05T14:20:06.248Z"
   },
   {
     "job": {
@@ -740,7 +666,7 @@
       "job_is_remote": false,
       "job_apply_link": "https://www.talent.com/view?id=4d72a4193b55&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
-      "job_description": "Description\n\nAre you the right candidate for this opportunity Make sure to read the full description below.\n\nSummary :\n\nA currently enrolled nursing student providing a wide variety of services to the customer under the direct supervision of Nursing.\n\nRequirements :\n• Currently enrolled in a RN degree program, with a minimum GPA of 2.5 (must provide unofficial transcript).\n• Must not be on academic probation and in good standing with current nursing program.\n• Must provide letter of recommendation from a nursing instructor.\n• Must submit a 500-word essay identifying why they chose the field of nursing and how they apply the CHRISTUS Core Values to their individual practice.\n• Must have successfully completed both a \"Fundamentals of Nursing\" and at least one first-level Medical-Surgical course. xmcpwfu\n• AHA BLS certification required.\n\nWork Schedule : PRN\n\nWork Type : Per Diem As Needed",
+      "job_description": "Apply for Nurse Extern I - Nursing Internship - PRN (Shreveport) (internship) in Shreveport. Christus Health is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_employment_type": "FULL-TIME",
       "_tags": {
         "employment": "internship",
@@ -757,11 +683,13 @@
       "_source": "aggregator",
       "_original_source": "jsearch",
       "job_posted_at": "1h",
-      "id": "christus-health-nurse-extern-i-nursing-internship-prn-shreveport-shreveport"
+      "id": "christus-health-nurse-extern-i-nursing-internship-prn-shreveport-shreveport",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-05T06:35:12.912Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-05T14:19:54.073Z",
     "postedAt": null
   },
   {
@@ -775,7 +703,7 @@
       "job_is_remote": false,
       "job_apply_link": "https://www.talent.com/view?id=de0efd1896b8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
-      "job_description": "We’ve learned that what is best for patients is also best for employees. Learn more about why we are one of the Best Companies to Work for in Texas.\n\nFull-Time\n\nNights\n\n7p-7a\n\nThe critical care internship gives the nurse a unique opportunity to experience a variety of critical care units before deciding which environment is the best fit. During that time you will train in each of the five clinical areas :\n\nCardiac / Cardiovascular ICU : Our Cardiovascular Intensive Care Unit has 24 beds and is a team-oriented unit that provides high quality and safe care to a variety of cardiac patients, including : post open heart surgery, post percutaneous coronary intervention, congestive heart failure, myocardial infarction, and cardiogenic shock. The CV / CICU also cares for patients requiring an intra- aortic balloon pump, continuous renal replacement therapy, ventricular assist device or ECMO. The CV / CICU is a full service critical care monitored unit, which provides an opportunity to maintain and improve skills in the overall assessment and care of the critically ill patient. Our nurses are valuable team members and help develop a culture of inclusion and respect. UMC is a teaching institution, so we value learning and development, giving you ample opportunity to expand your skills and knowledge with continued education. Our unit is fast-paced and you’ll find great people working together with other professional interdisciplinary teams.\n\nMedical ICU : Offers the opportunity to explore a wide array of pathophysiology. The patient population includes patients with multi-system organ failure, respiratory failure, diabetic emergencies, drug overdoses, autoimmune crisis, and many other critically ill patients. The medical ICU consists of 32 beds with an emphasis on teamwork. The usage of evidence based practice is prominent within this unit as they strive to incorporate the most innovative and patient safe environment. AACN healthy work environment initiatives are incorporated as well within this unit to ensure all six standards are met to achieve authentic leadership, skilled and effective communication, true collaboration, effective decision making, appropriate staffing, and meaningful recognition.\n\nBurn ICU : The Timothy J. Harnar Burn Center is one of under 70 verified burn centers in the United States. UMC’s coverage area encompasses a vast expanse of New Mexico, Western Oklahoma, Southern Kansas and all of West Texas making it the third largest geographic area of all regional burn centers in the country. We are in the top 15 busiest burn centers in the nation, caring for not only burns, but also any soft tissue problems including snakebites, necrotizing soft tissue infections, and surgical wounds. Through our affiliation with Texas Tech's School of Medicine, UMC's Burn Center also is a leading force in research on burn treatment. The center has 6 critical care beds and 8 intermediate care beds. We keep our burn center patients in the unit for their entire hospital stay so we have every level of acuity. We care for patients of all ages. Nurses in the Burn Center are also trained to work in the Trauma and Surgical ICU.\n\nTrauma and Surgical ICU : The Trauma and Surgical ICU offers a variety of opportunities for advanced patient care in the region’s only Level I Trauma Center. More than 50% of the patients admitted to the 20-bed unit are multiple trauma patients. There is a large neurosurgery and general surgery patient population. The unit is a fast-paced unit with many opportunities for learning. The physician leadership of the unit are trauma / critical care trained surgeons. The unit has many active committees with bedside nurses making advancements in patient care and work environment. The environment encourages evidence based practice and research. Nurses working in the Trauma and Surgical ICU are also trained to work in the region’s only Burn Center.\n\nNeuro ICU : The Neuro ICU is a 16 bed critical care inpatient unit providing nursing care for adolescent, adult, and geriatric patients meeting the admission criteria. The Neuro ICU provides high quality care to critically ill and neurologically injured patients in a team oriented multidisciplinary work environment. Our focus is to improve healthcare through research and education for patients with immediately life-threatening neurological problems such as intracranial hemorrhages, brain tumors, spinal disease, and post neurosurgical interventions. The Neuro ICU’s interdisciplinary approach considers all aspects of a person’s life, by providing holistic care. The physician leadership team consists of critical care boarded anesthesiologists who are champions for the nursing staff. The nurse-to-patient ratio is optimally 2 patients per 1 nurse. This can be adjusted by the charge nurse according to patient and staffing needs. This delivery care model dictates that the ideal candidate must be able to coordinate needed patient care with all disciplines, and must be able to provide excellent service to patients and families by coordinating the necessary patient care with all members of the multidisciplinary team.\n\nAssesses, implements or delegates, plans, and evaluates total nursing care and functions in accordance with established philosophy, providing and directing patient care for a group of patients. Relates effectively with other shifts / departments for optimal continuity of care.\n\nQualifications :\n• Graduation from an accredited School of Nursing\n• Valid Texas GN Permit or newly licensed RN with no experience\n• BSN required or must be obtained within 3 years of hire\n• Must maintain a current BLS & ACLS certification from American Heart\n\nAssociation\n• Must maintain National Institutes of Health Stroke Scale certificate NIHSS if\n\nmatched to Neuro ICU\n\n_____________________________________________________________________________\n\nUMC Health System provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment on the basis of race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n• Request for accommodations in the hire process should be directed to UMC Human Resources.​",
+      "job_description": "Apply for Graduate Nurse (GN)- Adult Critical Care Internship (7p-7a) (internship) in Wolfforth. UMC Health System is hiring now. Discover your next career opportunity today on Talent.com.",
       "job_employment_type": "FULL-TIME",
       "_tags": {
         "employment": "internship",
@@ -792,11 +720,13 @@
       "_source": "aggregator",
       "_original_source": "jsearch",
       "job_posted_at": "1h",
-      "id": "umc-health-graduate-nurse-gn-adult-critical-care-internship-7p-7a-wolfforth"
+      "id": "umc-health-graduate-nurse-gn-adult-critical-care-internship-7p-7a-wolfforth",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-02-05T06:35:12.912Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-02-05T14:19:54.073Z",
     "postedAt": null
   },
   {
@@ -2444,6 +2374,43 @@
     },
     "status": "pending",
     "addedAt": "2026-02-05T13:55:57.720Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-unitedhealth-group-nrethb734ihs6disaaaaaa==",
+      "job_title": "Nurse Intern - Pediatric Case Management",
+      "employer_name": "UnitedHealth Group",
+      "job_city": "Beaumont",
+      "job_state": "Texas",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://careers.unitedhealthgroup.com/job/22936046/nurse-intern-pediatric-case-management-beaumont-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-01T00:00:00.000Z",
+      "job_description": "Internships at United Healthcare. If you want an intern experience that will dramatically shape your career, consider a company that's dramatically shaping our entire health care system. UnitedHealth Group internship opportunities will provide a hands-on view of a rapidly evolving, incredibly challenging marketplace of ideas, products and services. You'll work side by side with some of the smartest people in the business on assignments that matter. So here we are. You have a lot to learn. We have a lot to do. It's the perfect storm. Join us to start Caring. Connecting. Growing together.\n\nAt United Healthcare, you will join a community-based, multi-specialty organization where you will work with talented peers on a common purpose: improving the quality, cost, and experience of health care. Here, we focus on delivering the best patient care, rather than volume. Through innovation and superior care management, we support patients and your well-being as a team member. Join a team at the forefront of value-based care and discover the meaning behind.\n\nThe Nursing Internship Program is full-time, 40 hours per week for 10 weeks starting June 2, 2026.\n\nThis role requires travel to patients' homes within a designated territory in either Jefferson County or Central County. Mileage reimbursement is provided.\n\nThe Nursing Internship Program is designed to offer nursing students hands-on experience in various areas of the nursing profession beyond traditional hospital bedside care. Throughout the program, you will gain exposure to patient care needs across the healthcare continuum, as well as participate in enrichment experiences such as our Day in the Life of a Nurse series, Enterprise Foundations, networking events, and student cohort connections.\n\nPrimary Responsibilities:\n\nAs a Nurse Intern, you will learn how to manage the care of members in their homes or other community settings by completing in-person health assessments and coordinating patient care, focusing on disease management, and keeping members healthy and independent. Under the supervision of our RNs and providers, you will learn how to:\n• Engage members / families in their homes or in a facility to coordinate services, community resources and treatment\n• Travel in assigned territory to complete member assessments; the rest of the time will be spent working in a home-based office\n• Deliver coordinated holistic care based on the member's needs using a patient centric approach\n• Identify early risk factors and conduct ongoing assessments and document in electronic patient files\n• Create, review and revise care plans and focus on a holistic approach\n• Function as an advocate for members\n• Collaborate with the member's PCP to deliver and coordinate necessary services\n• Build relationships with members and their families, assisting them with coordination of health choices\n• Ensure all patient assignments and corresponding interventions are documented in a timely manner\n• Coordinate with other state agencies, community resources and providers\n\nYou'll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.\n\nRequired Qualifications:\n• Currently enrolled in, or recently graduated from, an accredited RN Bachelor's Degree program, with graduation expected within 12 months of the internship start date (before or after)\n• 2+ years of LVN/LPN experience, ADN experience, or other previous experience in healthcare\n• Current Basic Life Support (BLS) certification\n• Must be available to work full-time, 40 hours per week during the duration of the summer internship program (from June 2 - August 7)\n• Must be eligible to work in the US without company sponsorship, now or in the future, for employment-based work authorization (F-1 students with practical training and candidates requiring H-1Bs, TNs, etc will not be considered)\n• Access to reliable transportation that will enable you to travel to community centers, facilities, community activities, or patient homes across a designated territory\n\nPreferred Qualifications:\n• 3.0 or higher cumulative GPA\n• Demonstrated oral and written communication skills\n• Knowledge of clinical terminology\n\nPay is based on several factors including but not limited to local labor markets, education, work experience, certifications, etc. In addition to your salary, we offer benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with us, you'll find a far-reaching choice of benefits and incentives. The hourly pay for this role will range from $18.00 to $24.00 per hour based on full-time employment. We comply with all minimum wage laws as applicable.\n\nAt UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.\n\nUnitedHealth Group is an Equal Employment Opportunity employer under applicable law and qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.\n\nUnitedHealth Group is a drug - free workplace. Candidates are required to pass a drug test before beginning employment.",
+      "job_employment_type": "FULL-TIME AND INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "general"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": [
+          "fortune500"
+        ]
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "unitedhealth-nurse-intern-pediatric-case-management-beaumont"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-05T14:19:51.911Z",
     "enrichedAt": null,
     "postedAt": null
   }
