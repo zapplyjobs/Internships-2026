@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T09:17:43.388Z",
+  "generated": "2026-02-05T09:47:29.000Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T09:17:43.388Z",
-  "period_end": "2026-02-05T09:17:43.388Z",
+  "period_start": "2026-01-29T09:47:29.000Z",
+  "period_end": "2026-02-05T09:47:29.000Z",
   "summary": {
-    "total_jobs_posted": 249,
-    "unique_jobs": 249,
+    "total_jobs_posted": 257,
+    "unique_jobs": 257,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 63,
+      "count": 64,
       "jobs": [
         "swift-api-platform-intern-hybrid-tysons",
         "lockheed-martin-launch-systems-integration-systems-engineer-intern-sunnyvale",
@@ -35,6 +35,7 @@
         "northrop-grumman-2026-intern-vehicle-engineer-south-bay-ca-el-segundo",
         "caci-network-engineer-intern-summer-2026-st-louis",
         "caci-cyber-engineering-intern-summer-2026-sterling",
+        "netflix-content-security-intern-summer-2026-los-angeles",
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
         "rr-donnelley-unix-linux-engineer-intern-warrenville",
@@ -235,7 +236,7 @@
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 40,
+      "count": 43,
       "jobs": [
         "webster-bank-summer-internship-legal-stamford",
         "united-airlines-intern-global-supply-chain-and-mro-shops-summer-2026-arlington-heights",
@@ -265,6 +266,9 @@
         "rtx-summer-2026-network-research-intern-onsite-cambridge",
         "docusign-corporate-affairs-intern-san-francisco",
         "commonwealth-of-va-careers-summer-intern-agency-risk-management-richmond",
+        "maximus-business-operations-intern-vienna",
+        "johnson-johnson-services-product-communications-summer-intern-2026-horsham",
+        "genentech-2026-summer-intern-genentech-summer-program-manufacturing-oceanside",
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
@@ -343,7 +347,7 @@
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 24,
+      "count": 26,
       "jobs": [
         "labcorp-intern-end-user-computing-burlington",
         "the-mitre-finance-intern-mclean",
@@ -366,23 +370,13 @@
         "chipotle-field-finance-internship-newport-beach",
         "cvs-health-pharmacy-intern-grad-edina",
         "adobe-2026-intern-content-strategist-new-york",
+        "cvs-health-pharmacy-intern-fort-lauderdale",
+        "o-reilly-auto-parts-intern-international-logistics-springfield",
         "nasdaq-research-development-intern-atlanta",
         "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
         "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
       ],
       "recent_jobs": [
-        {
-          "id": "hca-healthcare-radiology-student-intern-prn-richmond",
-          "title": "Radiology Student Intern PRN",
-          "company": "HCA Healthcare",
-          "posted_at": "2026-02-05T07:36:45.150Z"
-        },
-        {
-          "id": "cvs-health-pharmacy-intern-grad-princeton",
-          "title": "Pharmacy Intern - Grad",
-          "company": "CVS Health",
-          "posted_at": "2026-02-05T08:00:39.680Z"
-        },
         {
           "id": "cvs-health-pharmacy-intern-grad-jamestown",
           "title": "Pharmacy Intern - Grad",
@@ -414,6 +408,18 @@
           "posted_at": "2026-02-05T09:17:16.980Z"
         },
         {
+          "id": "cvs-health-pharmacy-intern-fort-lauderdale",
+          "title": "Pharmacy Intern",
+          "company": "CVS Health",
+          "posted_at": "2026-02-05T09:47:00.440Z"
+        },
+        {
+          "id": "o-reilly-auto-parts-intern-international-logistics-springfield",
+          "title": "Intern - International Logistics",
+          "company": "O'Reilly Auto Parts",
+          "posted_at": "2026-02-05T09:47:02.516Z"
+        },
+        {
           "id": "nasdaq-research-development-intern-atlanta",
           "title": "Research & Development Intern",
           "company": "Nasdaq",
@@ -435,7 +441,7 @@
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 61,
+      "count": 63,
       "jobs": [
         "keurig-dr-pepper-summer-2026-intern-sales-operations-analyst-frisco",
         "genentech-2026-summer-intern-regev-lab-molecular-design-south-san-francisco",
@@ -446,6 +452,8 @@
         "bread-financial-intern-copilot-enablement-columbus",
         "crowe-llp-tax-artificial-intelligence-intern-new-york",
         "roblox-summer-2026-data-scientist-phd-intern-san-mateo",
+        "pnc-technology-summer-intern-pittsburgh",
+        "iiiiiius-2026-summer-intern-program-specialist-az-tempe",
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
