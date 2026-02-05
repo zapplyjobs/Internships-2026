@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (7 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (8 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -72,6 +72,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **UnitedHealthcare** | Nurse Intern 🏠 | Minnetonka, Minnesota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/5aa148a77da818126115d34183d18667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **beBeeHealthcare** | nursing internship program: healthcare settings | Charleston, West Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-wv-charleston-nursing-internship-program-healthcare-settings-bebeehealthcare?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Publicis Groupe Holdings B.V** | Intern, Data Science and Analytics | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.publicisgroupe.com/razorfish/jobs/136750?lang=en-us&previousLocale=en-US&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **LPL Financial** | Internship Summer 2026 - Technology, Data & Analytics | Fort Mill, South Carolina | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.lpl.com/job/R-046202/Internship-Summer-2026-Technology-Data-Analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
 
@@ -130,22 +131,23 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 7 companies  
+- **📁 Total Positions**: 1 roles
+- **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Opportunities**: 0 positions
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (2 positions)</h3></summary>
+<summary><h3>🏢 <strong>Top Tech</strong> (1 position)</h3></summary>
 
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Jabil Circuit** | Data Science Engineering Intern | St. Petersburg, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.jabil.com/en/job/st-petersburg/data-science-engineering-intern/626/90834397600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **Farmers Insurance** | Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI | Caledonia, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Farmers-Insurance/Job/Data-Scientist-Summer-Internship:-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI/-in-Caledonia,MI?jid=eae7d764573578b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+#### 🔵 **IBM** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Data Scientist Intern 2026 - AI Analytics & Automation | Dallas, Texas | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/data-scientist-intern-2026-ai-analytics-automation-at-ibm-4363864690?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
 
