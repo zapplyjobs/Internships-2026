@@ -32656,5 +32656,23 @@
     "job_title": "Software Engineering Intern, Cloud Inference",
     "company": "Modular",
     "first_seen": "2026-02-05T18:46:45.775Z"
+  },
+  "wm-software-engineering-intern-houston": {
+    "assigned_date": "2026-02-05T19:16:53.345Z",
+    "job_title": "Software Engineering Intern",
+    "company": "WM",
+    "first_seen": "2026-02-05T19:16:53.345Z"
+  },
+  "bae-systems-software-intern---high-school,-summer-2026-nashua": {
+    "assigned_date": "2026-02-05T19:16:53.346Z",
+    "job_title": "Software Intern - High School, Summer 2026",
+    "company": "BAE Systems",
+    "first_seen": "2026-02-05T19:16:53.346Z"
+  },
+  "breakout-ventures-intern-cambridge": {
+    "assigned_date": "2026-02-05T19:16:53.346Z",
+    "job_title": "Intern",
+    "company": "Breakout Ventures",
+    "first_seen": "2026-02-05T19:16:53.346Z"
   }
 }
