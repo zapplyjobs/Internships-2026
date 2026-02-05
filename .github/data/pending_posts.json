@@ -2905,5 +2905,40 @@
     "addedAt": "2026-02-05T21:24:59.896Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-amica-wlv0gtasvdimyksfaaaaaa==",
+      "job_title": "Marketing Data Science Intern",
+      "employer_name": "Amica",
+      "job_city": "Lincoln",
+      "job_state": "Rhode Island",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://careers.amica.com/jobs/17306430-marketing-data-science-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-04T23:00:00.000Z",
+      "job_description": "Description\nMarketing Data Science Intern\nMarketing, Communications and Growth\n50 Amica Way, Lincoln RI 02865 \n\nThank you for considering Amica as part of your career journey, where your future is our business.\n\nAt Amica, we pride ourselves on being an inclusive and supportive environment. We all work together to accomplish the common goal of providing the best experience for our customers. We believe in trust and fostering lasting relationships for our customers and employees! We’re focused on creating a workplace that works for all. We’ll continue to provide training, guidance, and resources to make Amica a true place of belonging for all employees. Want to learn more about our commitment to diversity, equity, and inclusion? Visit our DEI page to read about it!\n\nAs a mutual company, our people are our priority. We seek differences of opinion, life experience and perspective to represent the diversity of our policyholders and achieve the best possible outcomes. Our office located in Lincoln, RI is seeking a Marketing Data Science Intern to join the team for Summer 2026! This internship offers an opportunity to gain hands‑on experience with advanced analytics tools, to learn applications of statistical and machine learning methods, and to experience how a best-in-class marketing team engages its key audiences.\n\nThis position is a 37.5-hour work week Monday through Friday during the summer months. Work from home may be available two days a week once trained to work independently. \n\nAbout the Program \n\nAmica offers a top-rate internship program that provides valuable experience and a cross functional, collaborative team environment. We strive to provide students with a multitude of opportunities in their chosen field of study, while fostering connections and experiences throughout various departments. In keeping with our renowned company culture, our internship program also involves various team building exercises and company-wide events to celebrate all the reasons that make Amica one of the best places to work! \n\nResponsibilities:\n• Assist in researching and implementing analytical and statistical methods to solve marketing‑related business problems.\n• Contribute to project execution by preparing datasets, running analyses, and summarizing results.\n• Help design, build, and evaluate predictive models across areas such as response, conversion, premium, risk, and customer value.\n• Support the test‑and‑learn process by designing, tracking, and analyzing A/B tests and other experiments.\n• Analyze media performance results by developing and delivering reports and dashboards that support strategic decision-making.\n\nQualifications:\n• Rising junior or senior working toward a bachelor’s degree in a quantitative field such as Data Science, Statistics, Applied Mathematics, Economics, Business Analytics or Computer Science.\n• Strong interest in marketing analytics, experimentation, and predictive modeling.\n• Curiosity and strong drive to learn new technologies and challenge assumptions.\n• Foundational experience with statistical inference and machine learning techniques through coursework or projects.\n• Experience with SQL and common Python data science packages.\n• Strong written and verbal communication skills. Ability to document and communicate work processes to others.\n\nAmica conducts background checks which includes a review of criminal, educational, employment and social media histories, and if the role involves use of a company vehicle, a motor vehicle or driving history report. The background check will not be initiated until after a conditional offer of employment is made and the candidate accepts the offer. Qualified applicants with arrest or conviction records will be considered for employment.\n\nThe safety and security of our employees and our customers is a top priority. Employees may have access to employees’ and customers’ personal and financial information in order to perform their job duties. Candidates with a criminal history that imposes a direct or indirect threat to our employees’ or customers’ physical, mental or financial well-being may result in the withdrawal of the conditional offer of employment.\n\nAbout Amica\n\nAmica Mutual Insurance Company is America’s oldest mutual insurer of automobiles. A direct national writer, Amica also offers home, marine and umbrella insurance. Amica Life Insurance Company, a wholly owned subsidiary, provides life insurance and retirement solutions. Amica was founded on the principles of creating peace of mind and building enduring relationships for and with our exceptionally loyal policyholders, a mission that thousands of employees in offices nationwide share and support. \n\nEqual Opportunity Policy: All qualified applicants who are authorized to work in the United States will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, family status, ethnicity, age, national origin, ancestry, physical and/or mental disability, mental condition, military status, genetic information or any other class protected by law. The Age Discrimination in Employment Act prohibits discrimination on the basis of age with respect to individuals who are 40 years of age or older. Employees are subject to the provisions of the Workers' Compensation Act.\n\nAmica Mutual Insurance Company is committed to protecting job seekers from recruitment fraud. We never request sensitive personal information or payment during the interview process. All legitimate job opportunities are listed on our official careers site: https://careers.amica.com. Learn more in the \"Is Amica hiring?\" section of our FAQ",
+      "job_employment_type": "INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "general"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "amica-marketing-data-science-intern-lincoln"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-05T21:42:27.650Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
