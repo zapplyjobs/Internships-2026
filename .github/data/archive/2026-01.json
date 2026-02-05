@@ -21503,5 +21503,93 @@
     "sourceUrl": "https://graybar.wd1.myworkdayjobs.com/Careers/job/Corporate-Chesterfield-MO/Summer-2026-Intern---Data-and-Reporting_R260112",
     "discordThreadId": "1463704015433896111",
     "instanceNumber": 1
+  },
+  {
+    "id": "agco-graduate-intern-data-science-remote-in-usa-2026-01-22-1",
+    "jobId": "agco-graduate-intern-data-science-remote-in-usa",
+    "company": "AGCO",
+    "title": "Graduate Intern - Data Science",
+    "postedToDiscord": "2026-01-22T02:54:38.243Z",
+    "sourceDate": "2026-01-22T02:16:23.000Z",
+    "sourceUrl": "https://careers.agcocorp.com/job/Summer-Graduate-Intern-Data-Science/1358324900/?ats=successfactors",
+    "discordThreadId": "1463728524157255761",
+    "instanceNumber": 1
+  },
+  {
+    "id": "las-vegas-valley-water-district-geospatial-intern-las-vegas-2026-01-22-1",
+    "jobId": "las-vegas-valley-water-district-geospatial-intern-las-vegas",
+    "company": "Las Vegas Valley Water District",
+    "title": "Geospatial Intern",
+    "postedToDiscord": "2026-01-22T02:54:44.818Z",
+    "sourceDate": "2026-01-22T02:14:25.000Z",
+    "sourceUrl": "https://lvvwd.wd1.myworkdayjobs.com/lvvwdwaterjobs/job/Molasky-Corporate-Center/Geospatial-Intern_R0003486",
+    "discordThreadId": "1463728551609241621",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pmg-ai-software-engineering-summer-intern-dallas-2026-01-22-1",
+    "jobId": "pmg-ai-software-engineering-summer-intern-dallas",
+    "company": "PMG",
+    "title": "AI & Software Engineering Summer Intern",
+    "postedToDiscord": "2026-01-22T03:33:01.349Z",
+    "sourceDate": "2026-01-22T02:36:26.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/pmg/jobs/8374921002",
+    "discordThreadId": "1463738183849214026",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pmg-data-analytics-intern-dallas-2026-01-22-1",
+    "jobId": "pmg-data-analytics-intern-dallas",
+    "company": "PMG",
+    "title": "Data & Analytics Intern",
+    "postedToDiscord": "2026-01-22T03:33:04.977Z",
+    "sourceDate": "2026-01-22T02:36:26.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/pmg/jobs/8372499002",
+    "discordThreadId": "1463738198164246677",
+    "instanceNumber": 1
+  },
+  {
+    "id": "kaiser-permanente-claims-data-bachelor-intern-oakland-2026-01-22-1",
+    "jobId": "kaiser-permanente-claims-data-bachelor-intern-oakland",
+    "company": "Kaiser Permanente",
+    "title": "Claims Data Bachelor Intern",
+    "postedToDiscord": "2026-01-22T03:33:08.394Z",
+    "sourceDate": "2026-01-22T02:18:18.000Z",
+    "sourceUrl": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1403919",
+    "discordThreadId": "1463738213729308784",
+    "instanceNumber": 1
+  },
+  {
+    "id": "samsung-intern-generative-ai-software-engineer-san-diego-2026-01-22-1",
+    "jobId": "samsung-intern-generative-ai-software-engineer-san-diego",
+    "company": "Samsung",
+    "title": "Intern Generative AI Software Engineer",
+    "postedToDiscord": "2026-01-22T03:33:15.059Z",
+    "sourceDate": "2026-01-22T02:28:00.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7599507003",
+    "discordThreadId": "1463738241391001764",
+    "instanceNumber": 1
+  },
+  {
+    "id": "oura-machine-learning-scientist-intern-remote-in-usa-2026-01-22-1",
+    "jobId": "oura-machine-learning-scientist-intern-remote-in-usa",
+    "company": "Oura",
+    "title": "Machine Learning Scientist Intern",
+    "postedToDiscord": "2026-01-22T03:33:18.633Z",
+    "sourceDate": "2026-01-22T02:26:24.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/oura/jobs/4109684009",
+    "discordThreadId": "1463738256058224670",
+    "instanceNumber": 1
+  },
+  {
+    "id": "general-motors-2026-summer-intern-machine-learning-engineer-ai-kernels-sunnyvale-2026-01-22-1",
+    "jobId": "general-motors-2026-summer-intern-machine-learning-engineer-ai-kernels-sunnyvale",
+    "company": "General Motors",
+    "title": "2026 Summer Intern - Machine Learning Engineer - AI Kernels",
+    "postedToDiscord": "2026-01-22T03:33:22.057Z",
+    "sourceDate": "2026-01-22T02:23:46.000Z",
+    "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--AI-Kernels--PhD---_JR-202601404",
+    "discordThreadId": "1463738271036346472",
+    "instanceNumber": 1
   }
 ]
