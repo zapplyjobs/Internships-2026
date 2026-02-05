@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (8 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (9 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -73,6 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **beBeeHealthcare** | nursing internship program: healthcare settings | Charleston, West Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-wv-charleston-nursing-internship-program-healthcare-settings-bebeehealthcare?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Publicis Groupe Holdings B.V** | Intern, Data Science and Analytics | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.publicisgroupe.com/razorfish/jobs/136750?lang=en-us&previousLocale=en-US&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **LPL Financial** | Internship Summer 2026 - Technology, Data & Analytics | Fort Mill, South Carolina | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.lpl.com/job/R-046202/Internship-Summer-2026-Technology-Data-Analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Modular** | Software Engineering Intern, Cloud Inference | Los Altos, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineering-intern-cloud-inference-at-modular-4367699743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
 

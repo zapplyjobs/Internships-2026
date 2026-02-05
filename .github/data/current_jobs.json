@@ -232,5 +232,34 @@
     "_original_source": "jsearch",
     "job_posted_at": "1h",
     "id": "lpl-financial-internship-summer-2026-technology-data-analytics-fort-mill"
+  },
+  {
+    "job_id": "js-modular-jl-ic-yydicya98vaaaaaa==",
+    "job_title": "Software Engineering Intern, Cloud Inference",
+    "employer_name": "Modular",
+    "job_city": "Los Altos",
+    "job_state": "California",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineering-intern-cloud-inference-at-modular-4367699743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-01-31T00:00:00.000Z",
+    "job_description": "About Modular\n\nAt Modular, we’re on a mission to revolutionize AI infrastructure by systematically rebuilding the AI software stack from the ground up. Our team, made up of industry leaders and experts, is building cutting-edge, modular infrastructure that simplifies AI development and deployment. By rethinking the complexities of AI systems, we’re empowering everyone to unlock AI’s full potential and tackle some of the world’s most pressing challenges.\n\nIf you’re passionate about shaping the future of AI and creating tools that make a real difference in people’s lives, we want you on our team. You can read about our culture and careers to understand how we work and what we value.\n\nAbout The Role\n\nOur Cloud Inference team focuses on building a platform to serve massive foundation models with high throughput, low latency, and maximum efficiency across diverse hardwares (NVIDIA, AMD, TPUs, and more). Our goal is to make inference not only the fastest and most scalable, but also the simplest to deploy and operate.\n\nLOCATION: Candidates based in the United States are welcome to apply. To support growth and collaboration, all interns will work in a hybrid capacity at our Los Altos, CA office (minimum 2 days per week on-site) with relocation assistance provided for out-of-state candidates.\n\nWhat You Will Do\n\nAs a Software Engineering Intern on the Cloud Inference team, you’ll contribute directly to the core components of Mammoth. You’ll work alongside engineers designing large-scale distributed systems to deploy and scale foundation models with state-of-the-art performance.\n\nDepending on your interests and skills, you may work on:\n• Efficient serving – designing high-throughput, low-latency inference services, with features such as KV-aware routing and disaggregated inference.\n• KV-cache optimizations – developing distributed KV-cache manager, KV-cache offloading, and other optimizations needed to improve cache utilization.\n• Large-model inference – solving challenges in running large frontier models (e.g., DeepSeek R1) across multiple nodes.\n• Scalable deployments – extending Kubernetes APIs and building controllers to support multi-model, multi-node, and multi-cluster deployments.\n\nWhat You’ll Gain\n• A chance to help build an inference platform from the ground up, while leveraging cutting edge optimizations needed to have state-of-the-art performance.\n• Experience building a cloud inference platform from the ground up with cutting-edge optimizations.\n• Hands on experience with large-scale AI infrastructure and model serving systems.\n• Mentorship from engineers who have built AI systems at leading companies like Google, Meta and NVIDIA, and are now rebuilding the whole AI stack from the ground up.\n• The opportunity to work on real production challenges in distributed inference with immediate impact.\n\nWhat You Bring To The Table\n• Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Software Engineering, Mathematics, or related field.\n• Strong programming skills in any programming language.\n• Interest in distributed systems, cloud infrastructure, or machine learning systems.\n• Curiosity, problem-solving mindset, and ability to learn quickly in a fast-moving environment.\n\nHelpful, But Not Required\n• Familiarity with Kubernetes and cloud-native technologies.\n• Strong programming skills in Go.\n• Experience building efficient, scalable distributed systems.\n• Understanding of LLMs and common serving optimizations.\n\nWhat Modular Brings To The Table\n• Amazing Team. We are a progressive and agile team with some of the industry’s best engineering and product leaders.\n• Competitive Compensation. We offer very strong compensation packages, including stock options. We want people to be focused on their best work and believe in tailoring compensation plans to meet the needs of our workforce.\n• Team Building Events. We organize regular team onsites and local meetups in Los Altos, CA.\n\nWorking at Modular will enable you to grow quickly as you work alongside incredibly motivated and talented people who have high standards, possess a growth mindset, and a purpose to truly change the world.\n\nThe estimated base hourly range for this role is $47.00 - $57.00 USD.\n\nThe hourly rate for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future.\n\nFor candidates who fall outside of the listed requirements, we nevertheless encourage you to apply as we may have openings that are lower/higher level than the ones advertised.",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "modular-software-engineering-intern-cloud-inference-los-altos"
   }
 ]
