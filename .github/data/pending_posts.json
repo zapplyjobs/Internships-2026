@@ -2975,5 +2975,40 @@
     "addedAt": "2026-02-05T22:06:32.272Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-umc-health-system-m2eeyqnwlsryag7oaaaaaa==",
+      "job_title": "Graduate Nurse (GN)- Adult Critical Care Internship (7p-7a)",
+      "employer_name": "UMC Health System",
+      "job_city": "Albuquerque",
+      "job_state": "New Mexico",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.talent.com/view?id=96fdc5eb822c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-01T00:00:00.000Z",
+      "job_description": "We’ve learned that what is best for patients is also best for employees. Learn more about why we are one of the Best Companies to Work for in Texas.\n\nFull-Time\n\nNights\n\n7p-7a\n\nThe critical care internship gives the nurse a unique opportunity to experience a variety of critical care units before deciding which environment is the best fit. During that time you will train in each of the five clinical areas :\n\nCardiac / Cardiovascular ICU : Our Cardiovascular Intensive Care Unit has 24 beds and is a team-oriented unit that provides high quality and safe care to a variety of cardiac patients, including : post open heart surgery, post percutaneous coronary intervention, congestive heart failure, myocardial infarction, and cardiogenic shock. The CV / CICU also cares for patients requiring an intra- aortic balloon pump, continuous renal replacement therapy, ventricular assist device or ECMO. The CV / CICU is a full service critical care monitored unit, which provides an opportunity to maintain and improve skills in the overall assessment and care of the critically ill patient. Our nurses are valuable team members and help develop a culture of inclusion and respect. UMC is a teaching institution, so we value learning and development, giving you ample opportunity to expand your skills and knowledge with continued education. Our unit is fast-paced and you’ll find great people working together with other professional interdisciplinary teams.\n\nMedical ICU : Offers the opportunity to explore a wide array of pathophysiology. The patient population includes patients with multi-system organ failure, respiratory failure, diabetic emergencies, drug overdoses, autoimmune crisis, and many other critically ill patients. The medical ICU consists of 32 beds with an emphasis on teamwork. The usage of evidence based practice is prominent within this unit as they strive to incorporate the most innovative and patient safe environment. AACN healthy work environment initiatives are incorporated as well within this unit to ensure all six standards are met to achieve authentic leadership, skilled and effective communication, true collaboration, effective decision making, appropriate staffing, and meaningful recognition.\n\nBurn ICU : The Timothy J. Harnar Burn Center is one of under 70 verified burn centers in the United States. UMC’s coverage area encompasses a vast expanse of New Mexico, Western Oklahoma, Southern Kansas and all of West Texas making it the third largest geographic area of all regional burn centers in the country. We are in the top 15 busiest burn centers in the nation, caring for not only burns, but also any soft tissue problems including snakebites, necrotizing soft tissue infections, and surgical wounds. Through our affiliation with Texas Tech's School of Medicine, UMC's Burn Center also is a leading force in research on burn treatment. The center has 6 critical care beds and 8 intermediate care beds. We keep our burn center patients in the unit for their entire hospital stay so we have every level of acuity. We care for patients of all ages. Nurses in the Burn Center are also trained to work in the Trauma and Surgical ICU.\n\nTrauma and Surgical ICU : The Trauma and Surgical ICU offers a variety of opportunities for advanced patient care in the region’s only Level I Trauma Center. More than 50% of the patients admitted to the 20-bed unit are multiple trauma patients. There is a large neurosurgery and general surgery patient population. The unit is a fast-paced unit with many opportunities for learning. The physician leadership of the unit are trauma / critical care trained surgeons. The unit has many active committees with bedside nurses making advancements in patient care and work environment. The environment encourages evidence based practice and research. Nurses working in the Trauma and Surgical ICU are also trained to work in the region’s only Burn Center.\n\nNeuro ICU : The Neuro ICU is a 16 bed critical care inpatient unit providing nursing care for adolescent, adult, and geriatric patients meeting the admission criteria. The Neuro ICU provides high quality care to critically ill and neurologically injured patients in a team oriented multidisciplinary work environment. Our focus is to improve healthcare through research and education for patients with immediately life-threatening neurological problems such as intracranial hemorrhages, brain tumors, spinal disease, and post neurosurgical interventions. The Neuro ICU’s interdisciplinary approach considers all aspects of a person’s life, by providing holistic care. The physician leadership team consists of critical care boarded anesthesiologists who are champions for the nursing staff. The nurse-to-patient ratio is optimally 2 patients per 1 nurse. This can be adjusted by the charge nurse according to patient and staffing needs. This delivery care model dictates that the ideal candidate must be able to coordinate needed patient care with all disciplines, and must be able to provide excellent service to patients and families by coordinating the necessary patient care with all members of the multidisciplinary team.\n\nAssesses, implements or delegates, plans, and evaluates total nursing care and functions in accordance with established philosophy, providing and directing patient care for a group of patients. Relates effectively with other shifts / departments for optimal continuity of care.\n\nQualifications :\n• Graduation from an accredited School of Nursing\n• Valid Texas GN Permit or newly licensed RN with no experience\n• BSN required or must be obtained within 3 years of hire\n• Must maintain a current BLS & ACLS certification from American Heart\n\nAssociation\n• Must maintain National Institutes of Health Stroke Scale certificate NIHSS if\n\nmatched to Neuro ICU\n\n_____________________________________________________________________________\n\nUMC Health System provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment on the basis of race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n• Request for accommodations in the hire process should be directed to UMC Human Resources.​",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "general"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "umc-health-graduate-nurse-gn-adult-critical-care-internship-7p-7a-albuquerque"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-05T22:43:07.389Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
