@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-217-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-55-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-8-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-218-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-55-blue?style=flat&logo=building) ![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-8-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 55+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 217+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 55+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 218+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -212,10 +212,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>💻 <strong>Enterprise Software</strong> (33 positions)</h3></summary>
+<summary><h3>💻 <strong>Enterprise Software</strong> (34 positions)</h3></summary>
 
 <details>
-<summary><h4>🌐 <strong>Cisco</strong> (19 positions)</h4></summary>
+<summary><h4>🌐 <strong>Cisco</strong> (20 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -238,6 +238,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Software Engineer Security & Automation I (Intern) – United States | North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.vetjobs.org/research-triangle-park-nc/software-engineer-security-automation-i-intern-united-states/CAFC678E8CB247109E077380A48E9CE1/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | Software Engineer Security & Automation I (Intern) – United States 🏠 | Alpharetta, Georgia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-security-automation-i-intern-%E2%80%93-united-states-at-cisco-4365352747?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | Software Engineer Security & Automation I (Intern) – United States 🏠 | Hillsboro, Oregon | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-security-automation-i-intern-%E2%80%93-united-states-at-cisco-4365359261?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| Software Engineer Security & Automation I (Intern) – United States 🏠 | Boston, Massachusetts | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-security-automation-i-intern-%E2%80%93-united-states-at-cisco-4365357548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 
 </details>
 
@@ -686,7 +687,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 217 current opportunities from 55 top companies.**
+**🎯 218 current opportunities from 55 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
