@@ -348,5 +348,34 @@
     "_original_source": "jsearch",
     "job_posted_at": "1h",
     "id": "breakout-ventures-intern-cambridge"
+  },
+  {
+    "job_id": "js-illumination-works-g06wh_ttklroq7f5aaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "Illumination Works",
+    "job_city": "Ohio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://lensa.com/job-v1/illumination-works/dayton-oh/data-science-intern/4a19ffd8068a8ed6800cf612f5e3a7ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_description": "Location and Travel Details: Dayton, OH area preferred, remote considered\n\nKickstart Your Data Science Journey with a Paid Internship!\nAre you passionate about turning data into insights? Ready to work on real projects, harness the power of data to fuel innovation, and make a meaningful impact on business success? We're thrilled to offer a paid Data Science internship where you will integrate with an existing project team to gain hands-on experience in a breadth of data science and software development areas. If you're eager to sharpen your skills, solve complex problems, and be part of a dynamic team, this is the opportunity you've been waiting for! Apply now for this highly competitive opportunity and help shape the future with data!\n\nThe Illumination Works 2026 Internship Program runs from May 2026 to August 2026.\n\nStart and end dates within those months are flexible, ensuring a minimum internship duration of 10 or more weeks. Please note your availability, including start, end, and any vacation days/weeks on your Cover Letter.\n\nResponsibilities may include:\n• Extract, cleanse, and preprocess structured and unstructured data from multiple sources\n• Conduct advanced analytics leveraging predictive modeling, machine learning, simulation, optimization, and other techniques to deliver actionable insights for business objectives\n• Fine-tune, train, test, and applying machine learning algorithms, natural language processing (NLP), and computer vision techniques, time-series modeling, feature extraction, feature similarity clustering, and others, to address business challenges\n• Communicate findings and present results to the project team, leadership, and fellow interns, providing clear recommendations and next steps\nMust have qualifications:\n• Graduate student currently enrolled in an MS or PhD program OR a Senior or recent graduate in a 4-year university pursuing a degree in a relevant field (i.e., Computer Science, Information Technology, Statistics, Artificial Intelligence, Data Science, Analytics, Mathematics, Engineering, or other related scientific field)\n• Minimum GPA of 3.6 on a 4.00 scale\n��� Experience with the Python programming language, including using Python's data/data science/machine learning libraries such as PySpark, Pandas, Numpy, Scipy, Scikit-learn, Gensim, nltk, spaCy, OpenCV, PyTorch, and/or Tensorflow\n• Knowledge of and experience with computer vision (CV), natural language processing (NLP), and/or sensor analytics (IIoT/IoT)\n• Outstanding problem-solving and critical thinking skills\n• Innovative, creative, out-of-box thinking with willingness to learn new skills\n• Strong verbal and written communication skills\n• Proficiency in MS Office Suite (Word, Excel, PowerPoint)\n• Acceptable candidates must successfully pass a drug test, pass a background screen, and provide official transcripts\n• US Citizenship\nAdditional desired qualifications:\n• Experience with collaborative coding and source control tools (e.g., Databricks, GitHub)\n• Experience working in an agile framework with tools such as Jira\n• Experience with data engineering and databases (SQL and/or NoSQL)\nApplication requirements:\n• Resume with GPA\n• Cover letter with why you are interested in the internship, why you feel you are the right fit for the internship, your goals for the internship, and your schedule availability\n• Letter of reference (strongly encouraged)\n\nAbout Illumination Works\n\nAt Illumination Works, we know data, and we should, we've been doing it since we started in 2006! We specialize in everything data from big data to data science, data engineering, software engineering, and cloud design. We are a trusted technology partner in user-centered digital transformation-delivering impactful business results to clients. We partner with customers to solve their unique technology and data challenges and stay on top of modern technologies and advancements leveraging our Innovation Lab. Check out our website to learn more at www.ilwllc.com.\n\nIllumination Works is committed to hiring and retaining the best workforce. We hire the best talent for our customer's needs. We make our hiring decisions without regard to race, color, religion, sexual orientation, gender identity or national origin, age, veteran status, disability, or any other protected class. Acceptable candidates must successfully pass a drug test and background screen.",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "no_experience",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "illumination-works-data-science-intern-ohio"
   }
 ]
