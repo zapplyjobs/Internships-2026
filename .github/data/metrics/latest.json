@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T08:01:00.977Z",
+  "generated": "2026-02-05T08:23:53.301Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T08:01:00.977Z",
-  "period_end": "2026-02-05T08:01:00.977Z",
+  "period_start": "2026-01-29T08:23:53.301Z",
+  "period_end": "2026-02-05T08:23:53.301Z",
   "summary": {
-    "total_jobs_posted": 225,
-    "unique_jobs": 225,
+    "total_jobs_posted": 233,
+    "unique_jobs": 233,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -142,7 +142,7 @@
     },
     "🤝・sales-internships": {
       "channel_id": "1464303236772270122",
-      "count": 15,
+      "count": 17,
       "jobs": [
         "roku-sales-marketing-intern-new-york",
         "mohawk-industries-r-d-intern-summer-2026-dalton-georgia-united-states-calhoun",
@@ -158,21 +158,11 @@
         "expedia-commercial-intern-2026-austin-austin",
         "us01-swift-pan-am-business-development-intern-corporates-and-partners-hybrid-new-york",
         "marsh-intern-summer-2026-houston",
+        "parker-intern-finance-acctg-olive-branch",
+        "qualtrics-sales-development-representative-intern-dallas",
         "invesco-intern-technology-atlanta"
       ],
       "recent_jobs": [
-        {
-          "id": "wexwexus-intern-inside-sales-tires-franklin",
-          "title": "Intern - Inside Sales (Tires)",
-          "company": "WEXWEXUS",
-          "posted_at": "2026-02-05T05:04:02.366Z"
-        },
-        {
-          "id": "wexwexus-intern-wex-bank-compliance-maine",
-          "title": "Intern - WEX Bank Compliance",
-          "company": "WEXWEXUS",
-          "posted_at": "2026-02-05T07:08:56.116Z"
-        },
         {
           "id": "org_subtype_bu008_client_solutions-strategy-mba-intern-austin",
           "title": "Strategy MBA Intern",
@@ -216,6 +206,18 @@
           "posted_at": "2026-02-05T08:00:34.904Z"
         },
         {
+          "id": "parker-intern-finance-acctg-olive-branch",
+          "title": "Intern Finance & Acctg",
+          "company": "Parker",
+          "posted_at": "2026-02-05T08:23:21.519Z"
+        },
+        {
+          "id": "qualtrics-sales-development-representative-intern-dallas",
+          "title": "Sales Development Representative Intern",
+          "company": "Qualtrics",
+          "posted_at": "2026-02-05T08:23:23.487Z"
+        },
+        {
           "id": "invesco-intern-technology-atlanta",
           "title": "Intern - Technology",
           "company": "Invesco",
@@ -225,7 +227,7 @@
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 34,
+      "count": 35,
       "jobs": [
         "webster-bank-summer-internship-legal-stamford",
         "united-airlines-intern-global-supply-chain-and-mro-shops-summer-2026-arlington-heights",
@@ -249,6 +251,7 @@
         "abb-is-compliance-project-management-intern-summer-2026-fort-smith",
         "federal-express-logistics-intern-greenwood-hub-summer-2026-greenwood",
         "cisco-business-analyst-intern-united-states-annapolis-junction",
+        "intuitive-surgical-environmental-health-safety-ehs-intern-blacksburg",
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
@@ -327,7 +330,7 @@
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 19,
+      "count": 22,
       "jobs": [
         "labcorp-intern-end-user-computing-burlington",
         "the-mitre-finance-intern-mclean",
@@ -345,29 +348,14 @@
         "uber-2026-finance-intern-united-states-san-francisco",
         "hca-healthcare-radiology-student-intern-prn-richmond",
         "cvs-health-pharmacy-intern-grad-princeton",
+        "cvs-health-pharmacy-intern-grad-jamestown",
+        "human-rights-watch-us-program-intern-new-york",
+        "chipotle-field-finance-internship-newport-beach",
         "nasdaq-research-development-intern-atlanta",
         "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
         "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
       ],
       "recent_jobs": [
-        {
-          "id": "warner-bros-discovery-talent-relations-events-awards-internships-la-summer-2026-burbank",
-          "title": "Talent Relations/Events & Awards Internships: LA - Summer 2026",
-          "company": "Warner Bros. Discovery",
-          "posted_at": "2026-02-05T06:36:04.061Z"
-        },
-        {
-          "id": "warner-bros-discovery-sports-production-and-design-internships-atl-summer-2026-atlanta",
-          "title": "Sports Production and Design Internships: ATL - Summer 2026",
-          "company": "Warner Bros. Discovery",
-          "posted_at": "2026-02-05T06:36:05.807Z"
-        },
-        {
-          "id": "delaware-north-it-intern-summer-2026-west-yellowstone",
-          "title": "IT Intern, Summer 2026",
-          "company": "Delaware North",
-          "posted_at": "2026-02-05T07:09:02.604Z"
-        },
         {
           "id": "thermo-fisher-scientific-procurement-intern-durham",
           "title": "Procurement Intern",
@@ -393,6 +381,24 @@
           "posted_at": "2026-02-05T08:00:39.680Z"
         },
         {
+          "id": "cvs-health-pharmacy-intern-grad-jamestown",
+          "title": "Pharmacy Intern - Grad",
+          "company": "CVS Health",
+          "posted_at": "2026-02-05T08:23:28.318Z"
+        },
+        {
+          "id": "human-rights-watch-us-program-intern-new-york",
+          "title": "US Program Intern",
+          "company": "Human Rights Watch",
+          "posted_at": "2026-02-05T08:23:30.346Z"
+        },
+        {
+          "id": "chipotle-field-finance-internship-newport-beach",
+          "title": "Field Finance - Internship",
+          "company": "CHIPOTLE",
+          "posted_at": "2026-02-05T08:23:32.184Z"
+        },
+        {
           "id": "nasdaq-research-development-intern-atlanta",
           "title": "Research & Development Intern",
           "company": "Nasdaq",
@@ -414,7 +420,7 @@
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 60,
+      "count": 61,
       "jobs": [
         "keurig-dr-pepper-summer-2026-intern-sales-operations-analyst-frisco",
         "genentech-2026-summer-intern-regev-lab-molecular-design-south-san-francisco",
@@ -424,6 +430,7 @@
         "wexwexus-intern-data-science-maine",
         "bread-financial-intern-copilot-enablement-columbus",
         "crowe-llp-tax-artificial-intelligence-intern-new-york",
+        "roblox-summer-2026-data-scientist-phd-intern-san-mateo",
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
@@ -542,7 +549,7 @@
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 38,
+      "count": 39,
       "jobs": [
         "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-branchburg",
         "the-walt-disney-studios-disney-entertainment-software-engineering-intern-summer-2026-burbank",
@@ -551,6 +558,7 @@
         "cisco-software-consulting-engineer-i-intern-united-states-north-carolina",
         "genentech-2026-summer-intern-hit-program-management-office-pmo-hillsboro",
         "parexel-data-engineer-intern-durham",
+        "federal-express-analytics-intern-global-sales-operations-memphis",
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
