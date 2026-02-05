@@ -72,7 +72,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (15 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (16 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -90,6 +90,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Illumination Works** | Data Science Intern 🇺🇸 🏠 | Ohio | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/illumination-works/dayton-oh/data-science-intern/4a19ffd8068a8ed6800cf612f5e3a7ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Princeton) | Princeton, Louisiana | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=55fc6a8a32df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **University Health** | Student Nurse Intern PRN - Mentorship from Experienced RNs (SAN ANTONIO) | San Antonio, Texas | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=dbe0c326fa36&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Delta Dental of Missouri** | Data Science Intern | St. Louis, Missouri | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/data-science-intern-at-delta-dental-of-missouri-4356893544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Citadel Securities** | Software Engineer Intern | Miami, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern?id=2433780627&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 
 </details>
@@ -155,7 +156,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1 roles
-- **🏢 Companies**: 16 companies  
+- **🏢 Companies**: 17 companies  
 - **⭐ FAANG+ Opportunities**: 0 positions
 
 <details>
@@ -163,7 +164,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Sierra Nevada Corporation** | Software Engineer Intern - Summer 2026 | Sparks, Nevada | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=685e488b341a3e43&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **General Galactic** | Summer Engineering Internship 🇺🇸 | El Segundo, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/summer-engineering-internship-at-general-galactic-4360070686?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
 
