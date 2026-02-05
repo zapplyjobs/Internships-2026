@@ -1,13 +1,13 @@
 /**
  * Unified Job Fetcher - Internships ONLY
  *
- * Data Sources:
- * 1. JSearch API (direct) - Default via jsearch-source.js
+ * Data Sources (ALL used together):
+ * 1. JSearch API (direct) - Via jsearch-source.js
  * 2. Aggregator (jobs-data-2026) - When USE_AGGREGATOR=true
  *
  * Feature Flag:
- *   - USE_AGGREGATOR=true: Fetch from tagged aggregator feed
- *   - USE_AGGREGATOR=false or unset: Fetch directly from JSearch API
+ *   - USE_AGGREGATOR=true: Include aggregator feed
+ *   - USE_AGGREGATOR=false: Direct JSearch only
  */
 
 const { searchJSearchInternships } = require('./job-fetcher/jsearch-source');
@@ -15,24 +15,73 @@ const { fetchAllJobs: fetchFromAggregator, isAggregatorEnabled } = require('./jo
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
 
 /**
+ * Fetch jobs from aggregator (jobs-data-2026)
+ * @returns {Promise<Array>} Array of unique job objects
+ */
+async function fetchFromAggregatorFeed() {
+  console.log('📡 Fetching from Aggregator (JSearch)...');
+  console.log('   Source: jobs-data-2026');
+  console.log('   Filter: employment=internship, domains=[all]');
+
+  return await fetchFromAggregator();
+}
+
+/**
  * Fetch jobs from JSearch API (direct)
  * @returns {Promise<Array>} Array of unique job objects
  */
 async function fetchFromJSearchDirect() {
-  console.log('📡 Mode: Direct JSearch API');
+  console.log('\n📡 Fetching from JSearch API (direct)...');
+  const jsearchJobs = await searchJSearchInternships();
+  console.log(`📊 JSearch: ${jsearchJobs.length} jobs`);
+  return jsearchJobs;
+}
+
+/**
+ * Fetch jobs from all configured sources
+ * @returns {Promise<Array>} Array of unique job objects
+ */
+async function fetchAllJobs() {
+  console.log('🚀 Starting job collection for Internships-2026...');
   console.log('━'.repeat(50));
 
-  // Fetch from JSearch API
-  console.log('\n📡 Fetching from JSearch API...');
-  const jsearchJobs = await searchJSearchInternships();
+  const allJobs = [];
+  const sources = [];
 
-  console.log(`📊 JSearch returned: ${jsearchJobs.length} jobs`);
+  // Check feature flag
+  const useAggregator = isAggregatorEnabled();
+
+  console.log(`\n🔧 Feature Flag: USE_AGGREGATOR=${useAggregator ? 'true' : 'false'}`);
+
+  // === Source 1: Aggregator (if enabled) ===
+  if (useAggregator) {
+    try {
+      const aggregatorJobs = await fetchFromAggregatorFeed();
+      allJobs.push(...aggregatorJobs);
+      sources.push('Aggregator (JSearch)');
+    } catch (error) {
+      console.error(`❌ Aggregator failed:`, error.message);
+    }
+  }
+
+  // === Source 2: Direct JSearch (ALWAYS used) ===
+  try {
+    const jsearchJobs = await fetchFromJSearchDirect();
+    allJobs.push(...jsearchJobs);
+    if (!sources.includes('Aggregator (JSearch)')) {
+      sources.push('Direct JSearch API');
+    } else {
+      sources.push('Direct JSearch API');
+    }
+  } catch (error) {
+    console.error(`❌ Direct JSearch failed:`, error.message);
+  }
 
   // Filter to US-only jobs
   console.log('\n🇺🇸 Filtering to US-only jobs...');
-  const usJobs = jsearchJobs.filter(job => isUSOnlyJob(job));
+  const usJobs = allJobs.filter(job => isUSOnlyJob(job));
   console.log(`   Kept: ${usJobs.length} US jobs`);
-  console.log(`   Removed: ${jsearchJobs.length - usJobs.length} non-US jobs`);
+  console.log(`   Removed: ${allJobs.length - usJobs.length} non-US jobs`);
 
   // Remove duplicates
   console.log('\n🔄 Removing duplicates...');
@@ -50,50 +99,11 @@ async function fetchFromJSearchDirect() {
     return dateB - dateA; // Latest first
   });
 
-  return uniqueJobs;
-}
-
-/**
- * Fetch jobs from aggregator (jobs-data-2026)
- * @returns {Promise<Array>} Array of unique job objects
- */
-async function fetchFromAggregatorFeed() {
-  console.log('📡 Mode: Tagged Aggregator Feed');
-  console.log('━'.repeat(50));
-  console.log('   Source: jobs-data-2026');
-  console.log('   Filter: employment=internship, domains=[all]');
-
-  return await fetchFromAggregator();
-}
-
-/**
- * Fetch jobs from the appropriate source based on feature flag
- * @returns {Promise<Array>} Array of unique job objects
- */
-async function fetchAllJobs() {
-  console.log('🚀 Starting job collection for Internships-2026...');
-  console.log('━'.repeat(50));
-
-  // Check feature flag
-  const useAggregator = isAggregatorEnabled();
-
-  console.log(`\n🔧 Feature Flag: USE_AGGREGATOR=${useAggregator ? 'true' : 'false'}`);
-
-  let uniqueJobs;
-
-  if (useAggregator) {
-    // Use aggregator feed
-    uniqueJobs = await fetchFromAggregatorFeed();
-  } else {
-    // Use direct JSearch API (default)
-    uniqueJobs = await fetchFromJSearchDirect();
-  }
-
   // Final summary
   console.log('\n' + '━'.repeat(50));
   console.log('✅ Job collection complete!');
   console.log(`📊 Final count: ${uniqueJobs.length} unique jobs`);
-  console.log(`📡 Source: ${useAggregator ? 'Aggregator' : 'Direct JSearch API'}`);
+  console.log(`📡 Sources: ${sources.join(' + ')}`);
   console.log('━'.repeat(50) + '\n');
 
   return uniqueJobs;
