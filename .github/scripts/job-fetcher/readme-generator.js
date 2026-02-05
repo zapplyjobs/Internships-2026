@@ -114,13 +114,16 @@ if (jobs.length === 0) {
     const employerNameLower = job.employer_name.toLowerCase();
     const matchedCompany = companyNameMap.get(employerNameLower);
 
-    // Only process jobs from companies in our category list
+    // Add ALL jobs to jobsByCompany (categorized or not)
+    // This allows "Other Companies" section to work properly
+    if (!jobsByCompany[job.employer_name]) {
+      jobsByCompany[job.employer_name] = [];
+    }
+    jobsByCompany[job.employer_name].push(job);
+
+    // Track which companies are categorized vs uncategorized
     if (matchedCompany) {
       processedCompanies.add(job.employer_name);
-      if (!jobsByCompany[matchedCompany.name]) {
-        jobsByCompany[matchedCompany.name] = [];
-      }
-      jobsByCompany[matchedCompany.name].push(job);
     } else {
       skippedCompanies.add(job.employer_name);
     }
@@ -501,7 +504,7 @@ Experience an advanced career journey with us! 🚀
 <p align="center">
   <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
+  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" width="300"></a>
 </p>
 
 ---
