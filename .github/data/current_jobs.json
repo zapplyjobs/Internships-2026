@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "job_id": "js-astrion-rxckr-8avirgrxncaaaaaa==",
+    "job_title": "Software Engineer Internship",
+    "employer_name": "Astrion",
+    "job_city": "Columbia",
+    "job_state": "Maryland",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.astrion.us/careers-home/jobs/23016?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-01-29T00:00:00.000Z",
+    "job_description": "Overview\n\nSoftware Engineer Internship\n\nLOCATION: Columbia, MD\n\nClearance: Active Secret or ability to obtain\n\nUS citizenship is required\n\nCompensation: $30/h\n\nAstrion's Systems Engineering Group (SEG) has openings for summer internships in Trajectory, Signatures, Systems, Data Analysis, Software Development, CAD, Sensors, Cyber and Radar Systems at our Columbia, Maryland Office. Approximate 10-week program.\n\nSystems Engineering Group, Inc. (SEG) is a highly regarded provider of air and missile defense threat engineering and combat, radar, and missile systems engineering and analysis. Principal customers include the U.S. Navy, Missile Defense Agency, and Industry.\n\nAnticipated responsibilities and/or assigned projects:\n\nThe development of analytical models and tools to characterize threat ballistic and cruise missile performance. These include supporting ongoing activities in the following areas:\n• Six Degrees-of-Freedom (6-DOF) digital flight simulation data and model generation\n• Radio Frequency (RF) Signature models\n• Computer Aided Design (CAD) models\n• Phenomenological models for missile debris, clutter, and RF signature waking\n• Machine learning studies and data analysis\n• Generating documentation for all data and models\n• Interfacing with SEG management, program management, and government customers\n\nSEG provides outstanding training to grow the capacity of staff in relevant areas.\n\nMinimum Requirements:\n• Ability to obtain and maintain a US DoD security clearance. US citizenship is required for eligibility as per the cognizant security agency and requirements of the programs supported in this role.\n• All candidates must be currently enrolled in a bachelor's degree program at an accredited college or university.\n• Cumulative GPA of 3.0 or greater\n• Degrees in Systems Engineering, Aerospace, Mechanical, Electrical, Computer Science, Physics or Applied Math.\n• Excellent verbal and written communication skills\n• Strong analytical skills\n• Ability to read and write MATLAB, Python, or similar code to processes and analyze data\n• Experience with documentation and presentations via Microsoft office products (Outlook, PowerPoint, Excel, Word)\n• Ability to work in small teams or groups\n• Ability to work independently with help as needed",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "astrion-software-engineer-internship-columbia"
+  },
+  {
+    "job_id": "js-sirius-xm-swmu7nxuvk_dd1apaaaaaa==",
+    "job_title": "Summer Intern, Software Engineering - Innovation Group",
+    "employer_name": "Sirius XM",
+    "job_city": "Trenton",
+    "job_state": "New Jersey",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.siriusxm.com/careers/jobs/17230?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-01-28T00:00:00.000Z",
+    "job_description": "Who We Are:\nSiriusXM and its brands (Pandora, SXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners - in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\nThis is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n\nSiriusXM\nSiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Stitcher, Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through Sirius XM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n\nHow you’ll make an impact:\nAs a Software Engineering Intern for the Innovation Group at SiriusXM, you will be part of a team working on leading edge signal generation equipment and signal reception devices. You will be working with a cross-functional design team and you will have an opportunity to write simulation, test, embedded, and/or GUI software. You will be learning key aspects of software delivery that help you to achieve critical business objectives that drive value to customers.\nAs part of your internship you will be assigned a mentor and an exciting project that you will lead from inception to completion. You will learn modern software and cloud development in a supportive environment and gain experience in creating, deploying, and maintaining high volume distributed systems.\nThe ideal candidate will be someone who is passionate about learning new technologies and best practices, working with highly collaborative engineering teams, delivering high quality products and striving to develop solutions to complex problems at high scale. The ideal candidate will value collaboration and teamwork and believe in trust, transparency, and kindness.\n\nWhat you’ll do:\n• Work directly as part of an engineering team that delivers new features and functionality with high quality and robust architecture which support SiriusXM and Pandora platforms.\n• Develop innovative solutions that continue to scale to the increasing demands of the business.\n• Strive to develop simple solutions to complex problems, constantly seek ways to improve at every iteration, make suggestions for improvements.\n• Participate in architecture and technical discussions.\n• Learn and operate in all phases of the software development lifecycle.\n• Work within the Innovation Group team to evaluate technology trade-offs in simulations and hardware prototypes\n• Perform comparative testing of different hardware configurations.\n• Use source control systems (Git and GitHub) and CI/CD pipelines (GitHub Actions) to continuously deploy applications to production.\n\nWhat you’ll need:\n• Internships are open to current students enrolled at a university (those graduating by May 2027 are preferred) and recent graduates who graduated within the 12-month period prior to the start of the internship.\n• Major in Electrical Engineering, Computer Engineering, Computer Science or related field.\n• Previous experience in software or cloud development - work projects, internships, summer jobs, etc.\n• Knowledge of programming languages such as C/C++/C#, JavaScript or Python.\n• Familiarity with Linux, bash shell/scripting and GCC\n• Familiar with Matlab\n• You must be 18 years of age or older\n• Must have a legal right to work in the US.\n\nAt SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be $37-40/hr and will depend on your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short-term and long-term incentives. We encourage all interested candidates to apply.\n\nOur goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n\nThe requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\nR-2026-01-113",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "no_experience",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "sirius-xm-summer-intern-software-engineering-innovation-group-trenton"
+  }
+]
