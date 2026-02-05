@@ -738,21 +738,37 @@ function isUSOnlyJob(job) {
 }
 
 function getExperienceLevel(title, description = "") {
+  const titleLower = title.toLowerCase();
   const text = `${title} ${description}`.toLowerCase();
 
-  // Senior level indicators
+  // INTERNSHIP-FIRST: Check title for internship/student keywords FIRST
+  // This prevents internship jobs from being misclassified as "Senior" due to description keywords like "lead"
   if (
-    text.includes("senior") ||
-    text.includes("sr.") ||
-    text.includes("lead") ||
-    text.includes("principal") ||
-    text.includes("staff") ||
-    text.includes("architect")
+    titleLower.includes("intern") ||
+    titleLower.includes("internship") ||
+    titleLower.includes("student") ||
+    titleLower.includes("campus") ||
+    titleLower.includes("co-op") ||
+    titleLower.includes("coop") ||
+    titleLower.includes("grad") && titleLower.includes("student")
+  ) {
+    return "Entry-Level";
+  }
+
+  // THEN check senior keywords (only in title, not description)
+  // This prevents misclassifying internships that mention "leadership" in description
+  if (
+    titleLower.includes("senior") ||
+    titleLower.includes("sr.") ||
+    titleLower.includes("lead") && !titleLower.includes("leadership") ||
+    titleLower.includes("principal") ||
+    titleLower.includes("staff") ||
+    titleLower.includes("architect")
   ) {
     return "Senior";
   }
 
-  // Entry level indicators
+  // Entry level indicators (from full text)
   if (
     text.includes("entry") ||
     text.includes("junior") ||
