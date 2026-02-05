@@ -377,5 +377,63 @@
     "_original_source": "jsearch",
     "job_posted_at": "1h",
     "id": "illumination-works-data-science-intern-ohio"
+  },
+  {
+    "job_id": "js-christus-health-_isclrvz6rmw9tvjaaaaaa==",
+    "job_title": "Nurse Extern I - Nursing Internship - PRN (Princeton)",
+    "employer_name": "CHRISTUS Health",
+    "job_city": "Princeton",
+    "job_state": "Louisiana",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=55fc6a8a32df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_description": "DescriptionSummary :\n\nA currently enrolled nursing student providing a wide variety of services to the customer under the direct supervision of Nursing.\n\nRequirements :\n\nCurrently enrolled in a RN degree program, with a minimum GPA of 2.5 (must provide unofficial transcript).Must not be on academic probation and in good standing with current nursing program.Must provide letter of recommendation from a nursing instructor.Must submit a 500-word essay identifying why they chose the field of nursing and how they apply the CHRISTUS Core Values to their individual practice.Must have successfully completed both a Fundamentals of Nursing and at least one first-level Medical-Surgical course.AHA BLS certification required.\n\nWork Schedule : PRN\n\nWork Type : Per Diem As Needed",
+    "job_employment_type": "FULL-TIME",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "christus-health-nurse-extern-i-nursing-internship-prn-princeton-princeton"
+  },
+  {
+    "job_id": "js-university-health-uikyrwzb2o-6wxd-aaaaaa==",
+    "job_title": "Student Nurse Intern PRN - Mentorship from Experienced RNs (SAN ANTONIO)",
+    "employer_name": "University Health",
+    "job_city": "San Antonio",
+    "job_state": "Texas",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=dbe0c326fa36&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+    "job_description": "POSITION SUMMARY / RESPONSIBILITIES\n\nProvides and assists with patient care as directed by the RN Mentor, collaborates with other departments and begins the process of proactive thinking when implementing the plan of care. Delegates patient care activities to ancillary staff as appropriate and accepts mentoring from experienced nursing staff.\n\nEDUCATION / EXPERIENCE\n\nJunior semester or senior semester of nursing school in an accredited baccalaureate program. Must have a current American Heart Association, Basic Cardiac Life Support and Health Care Provider card.\n\nLICENSURE / CERTIFICATION\n\nMust have a current AHA BLS Healthcare Provider or AHA BLS Instructor Provider card.",
+    "job_employment_type": "FULL-TIME",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "no_experience",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "university-health-student-nurse-intern-prn-mentorship-from-experienced-rns-san-antonio-san-antonio"
   }
 ]
