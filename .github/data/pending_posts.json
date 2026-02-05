@@ -3045,5 +3045,40 @@
     "addedAt": "2026-02-05T23:23:51.271Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-salesforce-inc-lvm6znsthtzh5pjvaaaaaa==",
+      "job_title": "Summer 2026 Intern - Software Engineer",
+      "employer_name": "Salesforce, Inc.",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+      "job_description": "This is your time to shine in the era of AI! We are looking for amazing, creative, and purposeful individuals to join our team of world-class, highly motivated software engineers, cloud computing experts and AI visionaries during our 12-week internship program. From Agentforce, Marketing, Data, and Commerce Cloud, to Infrastructure and Security, to MuleSoft, Tableau, Slack, and everything in between, we have many opportunities available across various applications and platforms all infused with the power of artificial intelligence.\n\nJoin Salesforce and define the future of Customer Relationship Management Solutions with a strong emphasis on AI-driven innovation. We deliver a scalable, high-performance cloud computing platform that not only empowers our customers but is also enhanced by AI to provide intelligent insights and automation used by millions of people around the world each day for their businesses. You will be working with a group of world-class engineers to build breakthrough features that our customers will love. The software engineering intern role will give you hands-on experience with architecture, design, implementation, and testing as you ensure we build products customers trust and love.\n\nSalesforce is the global leader in Customer Relationship Management (CRM). Companies of every size and industry are using Salesforce to transform their businesses, across sales, service, marketing, commerce, and more by connecting with customers in a whole new way. We harness technologies that can revolutionize companies, careers, and, hopefully, our world.\n\nWe look forward to receiving your application!\n\nIf selected for an internship you will have the opportunity to join Salesforce for a Summer 2026 Software Engineering internship. Only current university students graduating December 2026 and later are eligible for these internships.\n\nRequired Qualifications:\n• Enrolled and working towards obtaining a BS/MS in Computer Science or related field\n• In order to be eligible for an internship, we require that you be returning to school after the Summer 2026 program to work towards completing your degree\n• Must be attending a College or University in North America\n• Strong background in Computer Science or a related engineering discipline.\n• Strong understanding of object-oriented programming/design, algorithms, and data structures and how to efficiently implement them into a solution\n• Strong understanding of CS fundamentals and practical coding application\n• Team player with demonstrated collaboration skills\n\nPreferred Qualifications:\n• Proficiency in SQL and relational database concepts\n• Proficiency in Java, Javascript and related frameworks\n• Working knowledge of HTML and web technologies\n• Knowledge of front end and back end languages\n• Strong communication skills - written, verbal and visual\n• Strong analytical and problem-solving skills\n• Commitment to delivering high-quality solutions\n• Self-motivated and eager to learn\n• Experience using telemetry and metrics to drive operational excellence\n• Ability to quickly adapt to new technologies\n\nRelocation Assistance\n\nWe are committed to supporting our interns' transition into their new roles by offering a lump sum relocation assistance payment. This upfront financial support is designed to help supplement the costs of moving, travel, and accommodation, allowing you to concentrate more on your internship experience. Detailed information about the lump sum and how it can be utilized will be provided once you join our team.",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "salesforce-summer-2026-intern-software-engineer-new-york"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-05T23:39:28.296Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
