@@ -60,9 +60,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
+<details>
+<summary><h3>🏢 <strong>Other Companies</strong> (3 positions)</h3></summary>
+
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Astrion** | Software Engineer Internship 🇺🇸 | Columbia, Maryland | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.astrion.us/careers-home/jobs/23016?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Sirius XM** | Summer Intern, Software Engineering - Innovation Group | Trenton, New Jersey | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.siriusxm.com/careers/jobs/17230?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Brinks Home** | Software Engineer Intern | Lake Dallas, Texas | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/lake-dallas-tx/software-engineer-intern-019678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+
 
 ---
 
