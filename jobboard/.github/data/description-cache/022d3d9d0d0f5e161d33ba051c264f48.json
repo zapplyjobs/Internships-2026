@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.parexel.com/en/job/durham/data-engineer-intern/877/91197946096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<div>The Data Engineer internship is an 8‑week, onsite program based in Raleigh, NC, running from May 18 through July 10. Candidates must be current undergraduate students and able to work Tuesday–Thursday in the office, with flexibility to work from home or on‑site on Mondays and Fridays. Standard hours are 8:00 a.m. to 4:00 p.m. each day.</div><div></div><div></div><p><b>Key Accountabilities:</b></p><ul><li>Using Microsoft Azure data PaaS services, design, build, modify, and support data pipelines leveraging DataBricks and PowerBI in a medallion architecture setting</li><li>Create prototypes to validate proposed ideas and solicit input from stakeholders</li><li>Collaborate with Team Leads to define/clarify business requirements, estimate development costs, and finalize work plans</li><li>Run unit and integration tests on all created code – Create and run unit and integration tests throughout the development lifecycle</li><li>Support and Troubleshooting – Assist the Operations Team with any environmental issues that arise during application deployment in the Development, QA, Staging, and Production environments</li><li>Assist other teams in resolving issues that may develop as a result of applications or the integration of multiple components</li></ul><p></p><p><b>Knowledge and Experience:</b></p><ul><li>Understanding of design concepts and architectural basics</li><li>The ability to transform functional and nonfunctional needs into system requirements</li><li>The ability to develop and code complicated applications is required.</li><li>The ability to create test cases and scenarios based on specifications.</li><li>Knowledge of SDLC and agile techniques, current technologies and trends</li><li>Logical thinking and problem-solving abilities, as well as the capacity to collaborate</li><li>Exposure to Cloud Platform, Azure, Databricks, ADF, ADO</li><li>Knowledge of SQL and Python</li></ul><p></p><p><b>Education:</b></p><ul><li>Studying Computer Science, Engineering, or related technical field</li></ul>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobs.parexel.com/en/job/durham/data-engineer-intern/877/91197946096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-05T07:35:31.584Z"
+    }
+  },
+  "cachedAt": 1770276931585
+}
