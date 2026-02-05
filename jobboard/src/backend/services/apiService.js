@@ -1,6 +1,8 @@
 /**
  * API Service Layer
  * Handles HTTP requests to external job data sources
+ *
+ * NOTE: SimplifyJobs integration removed - now using JSearch API only
  */
 
 const axios = require('axios');
@@ -50,125 +52,13 @@ async function fetchAPIJobs(company) {
 
 /**
  * Fetch jobs from external aggregator service
- * NOTE: Deprecated - Internships repo now uses JSearch API as primary source
- * @returns {Promise<Array>} Array of job objects
+ * NOTE: Deprecated - SimplifyJobs integration removed
+ * Now using JSearch API via jsearch-source.js
+ * @returns {Promise<Array>} Empty array (function deprecated)
  */
 async function fetchExternalJobsData() {
-  const dataSourceUrl = process.env.PRIMARY_DATA_SOURCE_URL;
-
-  if (!dataSourceUrl) {
-    const errorMsg = '❌ CRITICAL: PRIMARY_DATA_SOURCE_URL environment variable is not set!\n' +
-                     '   → Configure data source URL via repository secrets\n' +
-                     '   → Workflow will fail without this secret';
-    console.error(errorMsg);
-    throw new Error('PRIMARY_DATA_SOURCE_URL is required but not configured');
-  }
-
-  try {
-    console.log('📡 Fetching from primary data source...');
-
-    const response = await axios.get(dataSourceUrl, {
-      headers: {
-        'Accept': 'application/json',
-        'User-Agent': 'JobAggregator/1.0'
-      },
-      timeout: 60000 // 60 second timeout for large dataset
-    });
-
-    // Transform external data to standard format
-    // Handle different API response formats (some return direct array, others nest in object)
-    let jobsData = response.data;
-
-    // If response.data is not an array, try to extract array from nested properties
-    if (!Array.isArray(jobsData)) {
-      console.log('⚠️  API response is not a direct array, attempting to extract...');
-
-      // Try common nested array properties
-      if (Array.isArray(jobsData.payload)) {
-        jobsData = jobsData.payload;
-        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload`);
-      } else if (jobsData.payload && typeof jobsData.payload === 'object') {
-        // payload exists but isn't array - try nested extraction
-        console.log('⚠️  payload is an object, checking nested properties...');
-        if (Array.isArray(jobsData.payload.jobs)) {
-          jobsData = jobsData.payload.jobs;
-          console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload.jobs`);
-        } else if (Array.isArray(jobsData.payload.data)) {
-          jobsData = jobsData.payload.data;
-          console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload.data`);
-        } else if (Array.isArray(jobsData.payload.results)) {
-          jobsData = jobsData.payload.results;
-          console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload.results`);
-        } else {
-          console.error('❌ payload is object but no array found. Payload keys:', Object.keys(jobsData.payload));
-          return [];
-        }
-      } else if (Array.isArray(jobsData.jobs)) {
-        jobsData = jobsData.jobs;
-        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.jobs`);
-      } else if (Array.isArray(jobsData.data)) {
-        jobsData = jobsData.data;
-        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.data`);
-      } else if (Array.isArray(jobsData.results)) {
-        jobsData = jobsData.results;
-        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.results`);
-      } else {
-        console.error('❌ Could not find job array in API response. Response keys:', Object.keys(jobsData));
-        if (jobsData.payload) {
-          console.error('   Payload type:', typeof jobsData.payload, 'Value:', JSON.stringify(jobsData.payload).substring(0, 200));
-        }
-        return [];
-      }
-    }
-
-    // Filter by category (all software-related) - primary filter
-    // Fallback to title keywords for entries without category field
-    const jobs = jobsData
-      .filter(job => {
-        if (!job.active || !job.url) return false;
-
-        // Primary filter: Use category if available
-        if (job.category) {
-          const softwareCategories = [
-            'Software',
-            'Software Engineering',
-            'AI/ML/Data',
-            'Data Science, AI & Machine Learning'
-          ];
-          return softwareCategories.includes(job.category);
-        }
-
-        // Fallback filter: Title keywords for older entries without category
-        const title = job.title.toLowerCase();
-        return title.includes('engineer') ||
-               title.includes('developer') ||
-               title.includes('software');
-      })
-      .map(job => ({
-        job_title: job.title,
-        employer_name: job.company_name,
-        job_city: job.locations?.[0]?.split(', ')?.[0] || 'Multiple',
-        job_state: job.locations?.[0]?.split(', ')?.[1] || 'Locations',
-        job_description: `Join ${job.company_name} in this exciting opportunity.`,
-        job_apply_link: job.url,
-        job_posted_at_datetime_utc: safeISOString(job.date_posted * 1000),
-        job_employment_type: 'FULLTIME',
-        job_source: 'simplifyjobs'
-      }));
-
-    console.log(`✅ Primary data source: ${jobs.length} jobs`);
-    return jobs;
-
-  } catch (error) {
-    if (error.code === 'ECONNABORTED') {
-      console.error(`⏱️  Primary data source: Request timeout (>60s)`);
-    } else if (error.response) {
-      console.error(`❌ Primary data source: HTTP ${error.response.status}`);
-    } else {
-      console.error(`❌ Primary data source: ${error.message}`);
-    }
-    return [];
-  }
+  console.log('⚠️  fetchExternalJobsData() is deprecated - using JSearch API instead');
+  return [];
 }
 
 /**

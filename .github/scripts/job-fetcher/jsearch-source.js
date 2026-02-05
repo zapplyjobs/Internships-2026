@@ -105,10 +105,11 @@ async function searchJSearchInternships() {
         const url = new URL(JSEARCH_BASE_URL);
         url.searchParams.append('query', `${query} United States`);
         url.searchParams.append('page', '1');
-        url.searchParams.append('num_pages', '10');  // Max pages for ~100 jobs per request
+        url.searchParams.append('num_pages', '10');  // Max 10 pages = 100 jobs per request
         url.searchParams.append('date_posted', 'month');
-        url.searchParams.append('employment_types', 'INTERN');  // INTERN only, not FULLTIME
-        url.searchParams.append('job_requirements', 'no_experience');
+        url.searchParams.append('country', 'us');  // IMPORTANT: Always specify country explicitly
+        url.searchParams.append('employment_types', 'INTERN');  // Internships only (string, not array)
+        url.searchParams.append('job_requirements', 'no_experience');  // Entry level only
 
         const response = await fetch(url.toString(), {
             method: 'GET',
@@ -124,7 +125,7 @@ async function searchJSearchInternships() {
         }
 
         const data = await response.json();
-        const jobs = data.data || [];
+        const jobs = data.data || {};
 
         // Update usage tracking with detailed metrics
         usage.requests++;
@@ -150,8 +151,8 @@ async function searchJSearchInternships() {
         console.log(`📊 Usage today: ${usage.requests}/${MAX_REQUESTS_PER_DAY} requests, ${usage.remaining} remaining`);
         console.log(`📈 Total jobs fetched today: ${usage.metrics.total_jobs}`);
 
-        // Normalize jobs to internal format
-        return normalizeJSearchJobs(jobs);
+        // Normalize jobs to internal format (pass full response, not just jobs array)
+        return normalizeJSearchJobs(data);
 
     } catch (error) {
         console.error('❌ JSearch API error:', error.message);
@@ -161,10 +162,46 @@ async function searchJSearchInternships() {
 
 /**
  * Normalize JSearch job format to internal format
+ * JSearch API returns nested format: data: {0: {job}, 1: {job}, ...}
  */
-function normalizeJSearchJobs(jobs) {
-    return jobs.map(job => {
+function normalizeJSearchJobs(response) {
+    // Handle nested response format: data: {0: {job}, 1: {job}, ...}
+    // NOT a simple array!
+    let jobsArray;
+    if (response.data && typeof response.data === 'object') {
+        // Convert {0: {}, 1: {}, ...} to array
+        jobsArray = Object.values(response.data);
+    } else if (Array.isArray(response.data)) {
+        jobsArray = response.data;
+    } else {
+        console.error('❌ Unexpected JSearch response format');
+        return [];
+    }
+
+    return jobsArray.map(job => {
         try {
+            // Internship filter: Only accept true internships
+            const title = (job.job_title || '').toLowerCase();
+            const desc = (job.job_description || '').toLowerCase();
+
+            // Must have internship keyword in title OR description
+            const internKeywords = ['intern', 'internship', 'co-op', 'coop'];
+            const hasInternKeyword = internKeywords.some(kw =>
+                title.includes(kw) || desc.substring(0, 500).includes(kw)
+            );
+
+            if (!hasInternKeyword) {
+                return null; // Skip non-internship roles
+            }
+
+            // Reject fake internships (senior roles with "intern" in title)
+            const fakeInternPatterns = ['senior intern', 'sr. intern', 'principal intern', 'manager intern'];
+            const isFakeIntern = fakeInternPatterns.some(pattern => title.includes(pattern));
+
+            if (isFakeIntern) {
+                return null;
+            }
+
             return {
                 job_title: job.job_title || '',
                 employer_name: job.employer_name || '',
@@ -176,7 +213,10 @@ function normalizeJSearchJobs(jobs) {
                 job_employment_type: job.job_employment_type || 'INTERN',
                 // Additional metadata
                 job_source: 'jsearch',
-                job_publisher: job.job_publisher || 'JSearch API'
+                job_publisher: job.job_publisher || 'JSearch API',
+                // JSearch-specific fields
+                job_is_remote: job.job_is_remote || false,
+                job_location: job.job_location || ''
             };
         } catch (error) {
             console.error('⚠️ Error normalizing JSearch job:', error.message);
