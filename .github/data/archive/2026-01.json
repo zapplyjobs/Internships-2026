@@ -21624,5 +21624,49 @@
     "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000104706990",
     "discordThreadId": "1463813735570477098",
     "instanceNumber": 1
+  },
+  {
+    "id": "carnegie-mellon-university-research-engineer-spud-lab-school-of-computer-science-pittsburgh-2026-01-22-1",
+    "jobId": "carnegie-mellon-university-research-engineer-spud-lab-school-of-computer-science-pittsburgh",
+    "company": "Carnegie Mellon University",
+    "title": "Research Engineer - Spud Lab - School of Computer Science",
+    "postedToDiscord": "2026-01-22T09:08:37.668Z",
+    "sourceDate": "2026-01-21T00:58:54.000Z",
+    "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Engineer-Intern---SPUD-Lab---School-of-Computer-Science_2024064",
+    "discordThreadId": "1463822635405414432",
+    "instanceNumber": 1
+  },
+  {
+    "id": "rockwell-automation-intern-ai-for-control-austin-2026-01-22-1",
+    "jobId": "rockwell-automation-intern-ai-for-control-austin",
+    "company": "Rockwell Automation",
+    "title": "Intern AI for Control",
+    "postedToDiscord": "2026-01-22T09:08:41.125Z",
+    "sourceDate": "2026-01-21T00:35:03.000Z",
+    "sourceUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--AI-for-Control_R25-10485-1",
+    "discordThreadId": "1463822656502497332",
+    "instanceNumber": 1
+  },
+  {
+    "id": "aecom-geospatial-data-scientist-intern-networking-event-with-aecom-raleigh-baltimore-2026-01-22-1",
+    "jobId": "aecom-geospatial-data-scientist-intern-networking-event-with-aecom-raleigh-baltimore",
+    "company": "AECOM",
+    "title": "Geospatial Data Scientist Intern - Networking Event with AECOM - Raleigh",
+    "postedToDiscord": "2026-01-22T09:08:47.993Z",
+    "sourceDate": "2026-01-21T00:46:17.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/AECOM2/744000104511145",
+    "discordThreadId": "1463822683933511743",
+    "instanceNumber": 1
+  },
+  {
+    "id": "fulton-bank-intern-it-enterprise-data-strategy-lancaster-2026-01-22-1",
+    "jobId": "fulton-bank-intern-it-enterprise-data-strategy-lancaster",
+    "company": "Fulton Bank",
+    "title": "Intern-IT Enterprise Data Strategy",
+    "postedToDiscord": "2026-01-22T09:08:51.574Z",
+    "sourceDate": "2026-01-21T00:26:06.000Z",
+    "sourceUrl": "https://careers-fult.icims.com/jobs/22902/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1463822699800563837",
+    "instanceNumber": 1
   }
 ]
