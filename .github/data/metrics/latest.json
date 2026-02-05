@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T07:09:25.955Z",
+  "generated": "2026-02-05T07:37:09.749Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T07:09:25.955Z",
-  "period_end": "2026-02-05T07:09:25.955Z",
+  "period_start": "2026-01-29T07:37:09.749Z",
+  "period_end": "2026-02-05T07:37:09.749Z",
   "summary": {
-    "total_jobs_posted": 207,
-    "unique_jobs": 207,
+    "total_jobs_posted": 216,
+    "unique_jobs": 216,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 55,
+      "count": 58,
       "jobs": [
         "swift-api-platform-intern-hybrid-tysons",
         "lockheed-martin-launch-systems-integration-systems-engineer-intern-sunnyvale",
@@ -27,6 +27,9 @@
         "bae-systems-engineering-intern-iii-summer-2026-austin",
         "warner-bros-discovery-research-analytics-internships-atl-summer-2026-atlanta",
         "dupont-2026-summer-intern-co-op-chemical-mechanical-and-electrical-engineering-opportunities-richmond",
+        "ardagh-summer-manufacturing-engineering-intern-port-allegany",
+        "ardagh-summer-quality-intern-indianapolis",
+        "sinclair-broadcast-news-intern-pensacola",
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
         "rr-donnelley-unix-linux-engineer-intern-warrenville",
@@ -138,7 +141,7 @@
     },
     "🤝・sales-internships": {
       "channel_id": "1464303236772270122",
-      "count": 9,
+      "count": 10,
       "jobs": [
         "roku-sales-marketing-intern-new-york",
         "mohawk-industries-r-d-intern-summer-2026-dalton-georgia-united-states-calhoun",
@@ -148,6 +151,7 @@
         "wexwexus-intern-inside-sales-tires-franklin",
         "wexwexus-intern-wex-bank-compliance-maine",
         "org_subtype_bu008_client_solutions-strategy-mba-intern-austin",
+        "wexwexus-intern-procurement-maine",
         "invesco-intern-technology-atlanta"
       ],
       "recent_jobs": [
@@ -200,6 +204,12 @@
           "posted_at": "2026-02-05T07:08:57.823Z"
         },
         {
+          "id": "wexwexus-intern-procurement-maine",
+          "title": "Intern - Procurement",
+          "company": "WEXWEXUS",
+          "posted_at": "2026-02-05T07:36:33.901Z"
+        },
+        {
           "id": "invesco-intern-technology-atlanta",
           "title": "Intern - Technology",
           "company": "Invesco",
@@ -209,7 +219,7 @@
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 32,
+      "count": 33,
       "jobs": [
         "webster-bank-summer-internship-legal-stamford",
         "united-airlines-intern-global-supply-chain-and-mro-shops-summer-2026-arlington-heights",
@@ -231,6 +241,7 @@
         "lockheed-martin-supply-chain-material-cost-estimator-intern-highlands-ranch",
         "cvs-health-pharmacy-intern-east-greenwich",
         "abb-is-compliance-project-management-intern-summer-2026-fort-smith",
+        "federal-express-logistics-intern-greenwood-hub-summer-2026-greenwood",
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
@@ -309,7 +320,7 @@
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 17,
+      "count": 18,
       "jobs": [
         "labcorp-intern-end-user-computing-burlington",
         "the-mitre-finance-intern-mclean",
@@ -325,17 +336,12 @@
         "delaware-north-it-intern-summer-2026-west-yellowstone",
         "thermo-fisher-scientific-procurement-intern-durham",
         "uber-2026-finance-intern-united-states-san-francisco",
+        "hca-healthcare-radiology-student-intern-prn-richmond",
         "nasdaq-research-development-intern-atlanta",
         "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
         "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
       ],
       "recent_jobs": [
-        {
-          "id": "bae-purchasing-intern-2026-radford",
-          "title": "Purchasing Intern 2026",
-          "company": "BAE Systems",
-          "posted_at": "2026-02-05T06:06:12.332Z"
-        },
         {
           "id": "warner-bros-discovery-creative-marketing-internships-la-summer-2026-burbank",
           "title": "Creative Marketing Internships: LA - Summer 2026",
@@ -373,6 +379,12 @@
           "posted_at": "2026-02-05T07:09:06.131Z"
         },
         {
+          "id": "hca-healthcare-radiology-student-intern-prn-richmond",
+          "title": "Radiology Student Intern PRN",
+          "company": "HCA Healthcare",
+          "posted_at": "2026-02-05T07:36:45.150Z"
+        },
+        {
           "id": "nasdaq-research-development-intern-atlanta",
           "title": "Research & Development Intern",
           "company": "Nasdaq",
@@ -394,7 +406,7 @@
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 58,
+      "count": 60,
       "jobs": [
         "keurig-dr-pepper-summer-2026-intern-sales-operations-analyst-frisco",
         "genentech-2026-summer-intern-regev-lab-molecular-design-south-san-francisco",
@@ -402,6 +414,8 @@
         "johnson-johnson-services-intern-neuroscience-digital-health-new-jersey",
         "tmobile-summer-2026-context-engineer-ai-chatbot-internship-bellevue",
         "wexwexus-intern-data-science-maine",
+        "bread-financial-intern-copilot-enablement-columbus",
+        "crowe-llp-tax-artificial-intelligence-intern-new-york",
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
@@ -520,13 +534,14 @@
     },
     "📊・data-science-internships": {
       "channel_id": "1464303266866135232",
-      "count": 36,
+      "count": 37,
       "jobs": [
         "roche-2026-summer-intern-finance-insights-and-data-analyst-branchburg-branchburg",
         "the-walt-disney-studios-disney-entertainment-software-engineering-intern-summer-2026-burbank",
         "avis-budget-accelerate-transformation-engineer-intern-summer-2026-parsippany-troy-hills",
         "borgwarner-data-science-intern-supply-chain-bom-analytics-unknown",
         "cisco-software-consulting-engineer-i-intern-united-states-north-carolina",
+        "genentech-2026-summer-intern-hit-program-management-office-pmo-hillsboro",
         "alo-yoga-data-analyst-intern-growth-marketing-culver-city",
         "alo-yoga-data-engineer-intern-san-ramon",
         "roche-2026-summer-intern-finance-insights-and-data-analyst-pleasanton-pleasanton",
