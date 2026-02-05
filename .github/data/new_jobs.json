@@ -46,37 +46,6 @@
     "description_success": true
   },
   {
-    "job_id": "js-oracle-riacrwbuvpzockl0aaaaaa==",
-    "job_title": "Undergrad Software Engineer Intern - Global Industries",
-    "employer_name": "Oracle",
-    "job_city": "Jackson",
-    "job_state": "Mississippi",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://veterans.usnlx.com/jackson-ms/undergrad-software-engineer-intern-global-industries/5A79D668A3F94759A442B5A262754571/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-01-24T00:00:00.000Z",
-    "job_description": "USNLX Veterans Jobs's jobs, updated daily and verified by DirectEmployers Association.",
-    "job_employment_type": "INTERNSHIP",
-    "_tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "3_plus_years",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "1h",
-    "id": "oracle-undergrad-software-engineer-intern-global-industries-jackson",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_id": "js-oracle-vwu7suyigofwzwq5aaaaaa==",
     "job_title": "Undergrad Software Engineer Intern - Global Industries",
     "employer_name": "Oracle",
@@ -135,37 +104,6 @@
     "_original_source": "jsearch",
     "job_posted_at": "1h",
     "id": "oracle-undergrad-software-engineer-intern-global-industries-indianapolis",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_id": "js-cisco-td1nnnbgujfuybc9aaaaaa==",
-    "job_title": "Software Engineer Security & Automation I (Intern) – United States",
-    "employer_name": "Cisco",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.vetjobs.org/research-triangle-park-nc/software-engineer-security-automation-i-intern-united-states/CAFC678E8CB247109E077380A48E9CE1/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-01-23T00:00:00.000Z",
-    "job_description": "VetJobs's jobs, updated daily and verified by DirectEmployers Association.",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "_tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "no_experience",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "1h",
-    "id": "cisco-software-engineer-security-automation-i-intern-united-states-north-carolina",
     "description_platform": "generic",
     "description_success": true
   },
@@ -263,21 +201,52 @@
     "description_success": true
   },
   {
-    "job_id": "js-disney-entertainment-television-a5ufgrv-yvzheks4aaaaaa==",
-    "job_title": "Data Scientist Intern, Summer/Fall 2026",
-    "employer_name": "Disney Entertainment Television",
-    "job_city": "New York",
-    "job_state": "New York",
+    "job_id": "js-christus-health-ao9jc4ekosb-kz4yaaaaaa==",
+    "job_title": "Nurse Extern I - Nursing Internship - PRN",
+    "employer_name": "CHRISTUS Health",
+    "job_city": "Gilliam",
+    "job_state": "Louisiana",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.disneycareers.com/en/job/new-york/data-scientist-intern-summer-fall-2026/391/91168851904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-01-29T00:00:00.000Z",
-    "job_description": "<p><b>About the Role &amp; Program:</b></p><p>Would you like to be part of the interdisciplinary team providing vital insights into the rapidly evolving media landscape for Disney’s suite of television networks (ABC, ESPN, etc.) and direct-to-consumer (DTC) streaming services? Join our Data &amp; Analytics Operations team, whose mission is to develop,</p><p>support, and improve analytics operations by delivering data-driven applications that drive efficiencies across the Research, Insights &amp; Analytics group in Disney Entertainment (DE).</p><p></p><p>We highly value statistical modeling and machine learning approaches—including cross-media measurement and activation across linear, streaming, and digital platforms. We balance advanced methods with pragmatic, classical ones that focus on strong business context, merging the science with the craft. Additionally, we incorporate and deploy modern GenAI-assisted workflows to</p><p>accelerate analysis and documentation within established privacy and governance standards.</p><p></p><p><b>What You Will Do: </b></p><p>As a Data Science Intern on the Disney Entertainment (DE) Research, Insights &amp; Analytics team, you’ll support the development, evaluation, and ongoing improvement of predictive models that inform advertising and audience dynamics across Disney’s television networks and DTC streaming services (Disney&#43;, Hulu, ESPN&#43;). Primary focus will be viewership and impressions forecasting—built in partnership with Linear and Digital forecasting teams—to optimize Ad Sales yield and support the DTC and Linear P&amp;Ls.</p><p></p><p>In this internship role, you’ll contribute by preparing data, validating model outputs, and building machine learning-powered data products in collaboration w/ more senior team members. You’ll help extend this work into cross-media measurement and activation by producing clear, repeatable analyses, models, and pipelines --and communicating findings with appropriate support. You’ll also</p><p>gain experience contributing to production-level data-science pipelines and monitoring (clean, well- tested Python/SQL; versioning, and QA) with mentorship and established team standards.</p><p></p><p>You’ll responsibly leverage AI-assisted workflows to improve quality, speed, and depth of analysis— validating outputs before use and following privacy/governance standards.</p><p></p><p><b>Required Qualifications &amp; Skills: </b></p><ul><li><p>Working knowledge of SQL and Python for data analysis (e.g., pandas, numpy); ability to apply</p></li><li><p>standard ML libraries (e.g., scikit-learn).</p></li><li><p>Academic, project, or internship experience applying predictive modeling concepts (e.g.,</p></li><li><p>regression, basic time series, tree-based methods, clustering) and interpreting results.</p></li><li><p>Familiarity with Git and collaborative development practices (branching, pull requests, code</p></li><li><p>review etiquette).</p></li><li><p>Familiarity with data visualization tools and/or lightweight apps (e.g., Tableau, plotly,</p></li><li><p>Streamlit) and an interest in building clear, stakeholder-friendly outputs.</p></li><li><p>Ability to communicate clearly with technical and non-technical audiences; comfort asking</p></li><li><p>questions and iterating based on feedback.</p></li><li><p>Natural curiosity; openness to learning new technologies and methods; willingness to accept</p></li><li><p>coaching and incorporate best practices.</p></li><li><p>User/Client orientation; strong interpersonal skills that build trust across teams.</p></li><li><p>Comfort with messy data and flexibility in dynamic environments.</p></li><li><p>Interest in using AI-assisted workflows with validation.</p></li></ul><p></p><p><b>Preferred Qualifications &amp; Skills: </b></p><ul><li><p><span>Experience with ETL, data pipeline management, and cloud infrastructure for managing large amounts of data (e.g. AWS, PySpark, Snowflake, Airflow, Databricks).</span></p></li><li><p><span>Experience using web frameworks (Django) and JavaScript libraries (ReactJS, JQuery) to build frontend and backend web applications focused on user experience.</span></p></li><li><p><span>Experience building internal tools that help teams operationalize analytics (e.g., small Streamlit/Gradio utilities, scheduled batch jobs). </span></p></li><li><p><span>Exposure to managed LLM/AI services inside analytics platforms is a plus.</span></p></li></ul><p></p><p><b>Education: </b></p><ul><li><p>Junior or Senior year preferred</p></li><li><p>Major or previous coursework in <span>Computer Science, Statistics, Data Science, Mathematics, Econometrics, Cognitive Science, or equivalent substitute.</span></p></li></ul><p></p><p><b>Eligibility Requirements &amp; Program Information: </b></p><ul><li><p>Be enrolled in an accredited college/university pursuing a degree taking at least one class in the semester/quarter (spring/fall) prior to participation in the internship program AND returning to school the semester/quarter following the internship OR currently participating in a Disney College Program or Disney Internship.</p></li><li><p>Current Disney Interns, College, International, or Culinary Program Participants: You may only work for ONE consecutive year (12 months) in any combination of an internship and/or program.</p></li><li><p>Be at least 18 years of age</p></li><li><p>Possess unrestricted work authorization</p></li></ul><br>The hiring range for this position in New York, NY is $42.00/hr. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.",
-    "job_employment_type": "INTERNSHIP",
+    "job_apply_link": "https://www.talent.com/view?id=41304a093287&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_description": "Apply for Nurse Extern I - Nursing Internship - PRN (internship) in Gilliam. CHRISTUS Health is hiring now. Discover your next career opportunity today on Talent.com.",
+    "job_employment_type": "FULL-TIME",
     "_tags": {
       "employment": "internship",
       "domains": [
-        "data_science"
+        "nursing"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "christus-health-nurse-extern-i-nursing-internship-prn-gilliam",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_id": "js-university-health-xwvphuykgkv6vgukaaaaaa==",
+    "job_title": "Academy Student Nurse Internship",
+    "employer_name": "University Health",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=e0e378aa1e54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_description": "Apply for Academy Student Nurse Internship (internship) in Pleasanton. University Health is hiring now. Discover your next career opportunity today on Talent.com.",
+    "job_employment_type": "FULL-TIME",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us",
@@ -289,7 +258,38 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "1h",
-    "id": "disney-entertainment-television-data-scientist-intern-summer-fall-2026-new-york",
+    "id": "university-health-academy-student-nurse-internship-pleasanton",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_id": "js-christus-health-0kchgjttfjntctkcaaaaaa==",
+    "job_title": "Nurse Extern I - Nursing Internship - PRN (Eastwood)",
+    "employer_name": "CHRISTUS Health",
+    "job_city": "Kalamazoo",
+    "job_state": "Michigan",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_description": "Apply for Nurse Extern I - Nursing Internship - PRN (Eastwood) (internship) in Kalamazoo. CHRISTUS Health is hiring now. Discover your next career opportunity today on Talent.com.",
+    "job_employment_type": "FULL-TIME",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "christus-health-nurse-extern-i-nursing-internship-prn-eastwood-kalamazoo",
     "description_platform": "generic",
     "description_success": true
   }
