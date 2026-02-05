@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T11:46:03.825Z",
+  "generated": "2026-02-05T11:59:54.824Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T11:46:03.825Z",
-  "period_end": "2026-02-05T11:46:03.825Z",
+  "period_start": "2026-01-29T11:59:54.824Z",
+  "period_end": "2026-02-05T11:59:54.824Z",
   "summary": {
-    "total_jobs_posted": 297,
-    "unique_jobs": 297,
+    "total_jobs_posted": 305,
+    "unique_jobs": 305,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 88,
+      "count": 94,
       "jobs": [
         "swift-api-platform-intern-hybrid-tysons",
         "lockheed-martin-launch-systems-integration-systems-engineer-intern-sunnyvale",
@@ -60,6 +60,12 @@
         "tmobile-summer-2026-software-engineering-internship-overland-park",
         "netapp-intern-software-engineer-systems-morrisville",
         "peraton-summer-2026-software-engineer-intern-santa-clara-ca-santa-clara",
+        "netapp-intern-software-engineer-cloud-storage-morrisville",
+        "t-mobile-usa-summer-2026-software-engineering-internship-overland-park",
+        "johnson-controls-international-software-engineering-intern-milwaukee",
+        "led-faststart-software-developer-intern-summer-internship-program-louisiana",
+        "docusign-software-engineer-intern-san-francisco",
+        "ninjatrader-software-engineer-intern-fcm-summer-2026-chicago",
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
         "rr-donnelley-unix-linux-engineer-intern-warrenville",
@@ -261,7 +267,7 @@
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 46,
+      "count": 47,
       "jobs": [
         "webster-bank-summer-internship-legal-stamford",
         "united-airlines-intern-global-supply-chain-and-mro-shops-summer-2026-arlington-heights",
@@ -297,6 +303,7 @@
         "rtx-summer-legal-intern-farmington",
         "cvs-health-pharmacy-intern-grafton",
         "cvs-health-pharmacy-intern-brandywine",
+        "cvs-health-pharmacy-intern-manlius",
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
@@ -473,7 +480,7 @@
     },
     "🤖・ai-internships": {
       "channel_id": "1464303204178067620",
-      "count": 70,
+      "count": 71,
       "jobs": [
         "keurig-dr-pepper-summer-2026-intern-sales-operations-analyst-frisco",
         "genentech-2026-summer-intern-regev-lab-molecular-design-south-san-francisco",
@@ -493,6 +500,7 @@
         "oracle-undergraduate-software-engineer-internship-global-industries-indianapolis",
         "cisco-software-engineer-data-ai-intelligent-systems-phd-intern-united-states-full-time-durham",
         "cisco-software-engineer-backend-platform-systems-i-intern-united-states-dallas",
+        "cisco-software-engineer-backend-platform-systems-i-intern-united-states-boston",
         "t-mobile-software-engineering-agentic-ai-internship-bellevue",
         "mckesson-data-architect-intern-the-woodlands",
         "alo-yoga-data-intern-ai-culver-city",
