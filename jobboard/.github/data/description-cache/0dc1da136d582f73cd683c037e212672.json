@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/Terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "Company Description Backed by leading climate and American dynamism investors, Terranova builds intelligent robotic systems to terraform the Earth itself - lifting land, restoring wetlands, and protecting critical infrastructure from floods and sea-level rise. Our mission is to preserve the built environment, create new habitats, and usher in an era of abundance. Our work supports climate resilience, disaster recovery, and defense across the United States and beyond. We’re assembling a world-class team that wants to work on something real, physical, and civilization-scale. If you want your work to reshape the world (literally), this is the place to do it. What to to Expect We are seeking a software engineering intern who can design and maintain modern, scalable applications while owning our cloud and infrastructure layer. You’ll build responsive user interfaces, develop backend APIs, and architect deployments that can scale globally. OAuth/OIDC. You’ll thrive if you’ve worked on platform or infra teams (Vercel, Cloudflare, AWS) or as a product engineer at performance-oriented orgs (Stripe, Notion, etc.). Check out plan.terranova.inc for an idea of some of the web dev stuff you'll need to develop. What You’ll Do Design and implement performant, maintainable web apps using TypeScript, React/Next.js, and Node/FastAPI/Go. Build and operate distributed backends with Postgres, Redis, and task queues. Manage infrastructure-as-code deployments (Terraform/CDK) on AWS, GCP, or Azure. Implement CI/CD, automated testing, observability, and incident-response workflows. Collaborate with product and robotics teams to integrate data, telemetry, and control interfaces. Build customer facing and internal tools Full stack application development Comfortable with the pace and intensity of early-stage startup life Working towards a bachelor’s degree or higher in Computer Science or related field U.S. permanent residency required Preferred Skills and Experience History of making stuff - hobby projects, industry experience TypeScript React/Next.js Node/FastAPI/Go Postgres/Redis/queues Terraform/CDK GitHub Actions/Argo OpenTelemetry/Prometheus/Sentry iOS and Android app development Compensation and Timeline $28/hr + relocation + company perks Summer Internship from May-September depending on your school schedule",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/Terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-05T12:23:29.491Z"
+    }
+  },
+  "cachedAt": 1770294209492
+}
