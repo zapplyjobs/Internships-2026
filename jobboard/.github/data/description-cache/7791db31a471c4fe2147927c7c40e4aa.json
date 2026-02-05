@@ -1,0 +1,17 @@
+{
+  "url": "https://builtin.com/job/data-science-intern-supply-chain-bom-analytics/7162621?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Our AI-powered fit analysis compares your resume with a job listing so you know if your skills & experience align.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://builtin.com/job/data-science-intern-supply-chain-bom-analytics/7162621?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-05T05:38:37.319Z"
+    }
+  },
+  "cachedAt": 1770269917319
+}
