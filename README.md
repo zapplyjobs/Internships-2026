@@ -60,9 +60,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+
 
 ---
 
@@ -117,16 +115,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 2 companies  
+- **📁 Total Positions**: 1 roles
+- **🏢 Companies**: 1 companies  
 - **⭐ FAANG+ Opportunities**: 0 positions
 
-
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
