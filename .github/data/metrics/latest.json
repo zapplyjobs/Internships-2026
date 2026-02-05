@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T06:06:40.456Z",
+  "generated": "2026-02-05T06:36:12.559Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T06:06:40.456Z",
-  "period_end": "2026-02-05T06:06:40.456Z",
+  "period_start": "2026-01-29T06:36:12.559Z",
+  "period_end": "2026-02-05T06:36:12.559Z",
   "summary": {
-    "total_jobs_posted": 189,
-    "unique_jobs": 189,
+    "total_jobs_posted": 198,
+    "unique_jobs": 198,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,13 +15,17 @@
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 50,
+      "count": 54,
       "jobs": [
         "swift-api-platform-intern-hybrid-tysons",
         "lockheed-martin-launch-systems-integration-systems-engineer-intern-sunnyvale",
         "northrop-grumman-2026-returning-hardware-internship-rolling-meadows-il-rolling-meadows",
         "rtx-summer-2026-applied-software-engineering-internship-onsite-middletown",
         "senator-patty-murray-communications-internship-washington",
+        "generac-summer-2026-engineering-intern-south-burlington",
+        "cisco-security-consulting-engineer-i-intern-united-states-mclean",
+        "bae-systems-engineering-intern-iii-summer-2026-austin",
+        "warner-bros-discovery-research-analytics-internships-atl-summer-2026-atlanta",
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
         "rr-donnelley-unix-linux-engineer-intern-warrenville",
@@ -190,7 +194,7 @@
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 27,
+      "count": 29,
       "jobs": [
         "webster-bank-summer-internship-legal-stamford",
         "united-airlines-intern-global-supply-chain-and-mro-shops-summer-2026-arlington-heights",
@@ -207,6 +211,8 @@
         "100-williams-wpc-i-llc-operations-intern-west-virginia-moundsville",
         "northrop-grumman-2026-supply-chain-intern-mesa-az-mesa",
         "sas-summer-2026-project-management-intern-cary",
+        "warner-bros-discovery-production-development-content-strategy-internships-ny-summer-2026-new-york",
+        "100-williams-wpc-i-llc-operations-intern-charlottesville-va-charlottesville",
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
@@ -285,7 +291,7 @@
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 11,
+      "count": 14,
       "jobs": [
         "labcorp-intern-end-user-computing-burlington",
         "the-mitre-finance-intern-mclean",
@@ -295,29 +301,14 @@
         "butterball-2026-summer-site-admin-it-intern-huntsville",
         "cvs-health-pharmacy-intern-fort-worth",
         "bae-purchasing-intern-2026-radford",
+        "warner-bros-discovery-creative-marketing-internships-la-summer-2026-burbank",
+        "warner-bros-discovery-talent-relations-events-awards-internships-la-summer-2026-burbank",
+        "warner-bros-discovery-sports-production-and-design-internships-atl-summer-2026-atlanta",
         "nasdaq-research-development-intern-atlanta",
         "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
         "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
       ],
       "recent_jobs": [
-        {
-          "id": "the-mitre-finance-intern-mclean",
-          "title": "Finance Intern",
-          "company": "The MITRE Corporation",
-          "posted_at": "2026-02-05T04:26:46.606Z"
-        },
-        {
-          "id": "senator-maria-cantwell-spring-press-internship-washington",
-          "title": "Spring Press Internship",
-          "company": "Senator Maria Cantwell",
-          "posted_at": "2026-02-05T05:03:48.660Z"
-        },
-        {
-          "id": "uber-2026-growth-finance-intern-united-states-new-york",
-          "title": "2026 Growth Finance Intern, United States",
-          "company": "Uber",
-          "posted_at": "2026-02-05T05:03:50.418Z"
-        },
         {
           "id": "cvs-health-pharmacy-intern-sun-city",
           "title": "Pharmacy Intern",
@@ -341,6 +332,24 @@
           "title": "Purchasing Intern 2026",
           "company": "BAE Systems",
           "posted_at": "2026-02-05T06:06:12.332Z"
+        },
+        {
+          "id": "warner-bros-discovery-creative-marketing-internships-la-summer-2026-burbank",
+          "title": "Creative Marketing Internships: LA - Summer 2026",
+          "company": "Warner Bros. Discovery",
+          "posted_at": "2026-02-05T06:36:02.234Z"
+        },
+        {
+          "id": "warner-bros-discovery-talent-relations-events-awards-internships-la-summer-2026-burbank",
+          "title": "Talent Relations/Events & Awards Internships: LA - Summer 2026",
+          "company": "Warner Bros. Discovery",
+          "posted_at": "2026-02-05T06:36:04.061Z"
+        },
+        {
+          "id": "warner-bros-discovery-sports-production-and-design-internships-atl-summer-2026-atlanta",
+          "title": "Sports Production and Design Internships: ATL - Summer 2026",
+          "company": "Warner Bros. Discovery",
+          "posted_at": "2026-02-05T06:36:05.807Z"
         },
         {
           "id": "nasdaq-research-development-intern-atlanta",
