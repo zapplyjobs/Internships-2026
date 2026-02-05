@@ -1,11 +1,11 @@
 {
-  "generated": "2026-02-05T09:47:29.000Z",
+  "generated": "2026-02-05T10:16:20.590Z",
   "period": "last_7_days",
-  "period_start": "2026-01-29T09:47:29.000Z",
-  "period_end": "2026-02-05T09:47:29.000Z",
+  "period_start": "2026-01-29T10:16:20.590Z",
+  "period_end": "2026-02-05T10:16:20.590Z",
   "summary": {
-    "total_jobs_posted": 257,
-    "unique_jobs": 257,
+    "total_jobs_posted": 265,
+    "unique_jobs": 265,
     "multi_channel_postings": 0,
     "unique_multi_channel_jobs": 0,
     "failed_postings": 0,
@@ -15,7 +15,7 @@
   "by_channel": {
     "💻・tech-internships": {
       "channel_id": "1464303178286760059",
-      "count": 64,
+      "count": 68,
       "jobs": [
         "swift-api-platform-intern-hybrid-tysons",
         "lockheed-martin-launch-systems-integration-systems-engineer-intern-sunnyvale",
@@ -36,6 +36,10 @@
         "caci-network-engineer-intern-summer-2026-st-louis",
         "caci-cyber-engineering-intern-summer-2026-sterling",
         "netflix-content-security-intern-summer-2026-los-angeles",
+        "northrop-grumman-2026-software-engineer-intern-aurora-co-aurora",
+        "carrier-software-engineering-intern-summer-east-syracuse",
+        "echostar-software-engineer-intern-broomfield",
+        "cisco-software-engineer-i-intern-united-states-san-jose",
         "microsoft-research-intern-applied-speech-research-berkeley",
         "mitek-product-marketing-analytics-intern-chesterfield",
         "rr-donnelley-unix-linux-engineer-intern-warrenville",
@@ -147,7 +151,7 @@
     },
     "🤝・sales-internships": {
       "channel_id": "1464303236772270122",
-      "count": 21,
+      "count": 22,
       "jobs": [
         "roku-sales-marketing-intern-new-york",
         "mohawk-industries-r-d-intern-summer-2026-dalton-georgia-united-states-calhoun",
@@ -169,15 +173,10 @@
         "nac-voya-services-company-summer-2026-technology-intern-unknown",
         "sirius-xm-summer-intern-ux-research-oregon",
         "exxonmobil-business-and-commercial-students-seeking-internship-opportunities-houston",
+        "cdw-2026-sales-internship-program-tempe-tempe",
         "invesco-intern-technology-atlanta"
       ],
       "recent_jobs": [
-        {
-          "id": "expedia-commercial-intern-2026-austin-austin",
-          "title": "Commercial Intern - 2026 - Austin",
-          "company": "Expedia Group",
-          "posted_at": "2026-02-05T08:00:31.403Z"
-        },
         {
           "id": "us01-swift-pan-am-business-development-intern-corporates-and-partners-hybrid-new-york",
           "title": "Business Development Intern - Corporates and Partners (Hybrid)",
@@ -227,6 +226,12 @@
           "posted_at": "2026-02-05T09:17:28.212Z"
         },
         {
+          "id": "cdw-2026-sales-internship-program-tempe-tempe",
+          "title": "2026 Sales Internship Program - Tempe",
+          "company": "CDW",
+          "posted_at": "2026-02-05T10:15:58.134Z"
+        },
+        {
           "id": "invesco-intern-technology-atlanta",
           "title": "Intern - Technology",
           "company": "Invesco",
@@ -236,7 +241,7 @@
     },
     "🎯・other-industry-internships": {
       "channel_id": "1464303419794784347",
-      "count": 43,
+      "count": 44,
       "jobs": [
         "webster-bank-summer-internship-legal-stamford",
         "united-airlines-intern-global-supply-chain-and-mro-shops-summer-2026-arlington-heights",
@@ -269,6 +274,7 @@
         "maximus-business-operations-intern-vienna",
         "johnson-johnson-services-product-communications-summer-intern-2026-horsham",
         "genentech-2026-summer-intern-genentech-summer-program-manufacturing-oceanside",
+        "rtx-summer-legal-intern-farmington",
         "medical-informatics-engineering-development-intern-fort-wayne",
         "moog-intern-it-computer-science-manufacturing-operation-platform-boston",
         "gulfstream-collegiate-associate-intern-it-savannah",
@@ -347,7 +353,7 @@
     },
     "📣・marketing-internships": {
       "channel_id": "1464303312626122855",
-      "count": 26,
+      "count": 28,
       "jobs": [
         "labcorp-intern-end-user-computing-burlington",
         "the-mitre-finance-intern-mclean",
@@ -372,23 +378,13 @@
         "adobe-2026-intern-content-strategist-new-york",
         "cvs-health-pharmacy-intern-fort-lauderdale",
         "o-reilly-auto-parts-intern-international-logistics-springfield",
+        "cvs-health-pharmacy-intern-columbia",
+        "o-reilly-auto-parts-intern-human-resources-springfield",
         "nasdaq-research-development-intern-atlanta",
         "national-renewable-energy-laboratory-graduate-intern-year-round-transportation-systems-analysis-golden",
         "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin"
       ],
       "recent_jobs": [
-        {
-          "id": "cvs-health-pharmacy-intern-grad-jamestown",
-          "title": "Pharmacy Intern - Grad",
-          "company": "CVS Health",
-          "posted_at": "2026-02-05T08:23:28.318Z"
-        },
-        {
-          "id": "human-rights-watch-us-program-intern-new-york",
-          "title": "US Program Intern",
-          "company": "Human Rights Watch",
-          "posted_at": "2026-02-05T08:23:30.346Z"
-        },
         {
           "id": "chipotle-field-finance-internship-newport-beach",
           "title": "Field Finance - Internship",
@@ -418,6 +414,18 @@
           "title": "Intern - International Logistics",
           "company": "O'Reilly Auto Parts",
           "posted_at": "2026-02-05T09:47:02.516Z"
+        },
+        {
+          "id": "cvs-health-pharmacy-intern-columbia",
+          "title": "Pharmacy Intern",
+          "company": "CVS Health",
+          "posted_at": "2026-02-05T10:15:51.558Z"
+        },
+        {
+          "id": "o-reilly-auto-parts-intern-human-resources-springfield",
+          "title": "Intern - Human Resources",
+          "company": "O'Reilly Auto Parts",
+          "posted_at": "2026-02-05T10:15:53.348Z"
         },
         {
           "id": "nasdaq-research-development-intern-atlanta",
