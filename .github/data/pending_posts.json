@@ -2940,5 +2940,40 @@
     "addedAt": "2026-02-05T21:42:27.650Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-camping-world-cja9v337ot3f4v6oaaaaaa==",
+      "job_title": "Data Analyst Intern",
+      "employer_name": "Camping World",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.campingworldjobs.com/us/en/job/25_11264/Data-Analyst-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-04T23:00:00.000Z",
+      "job_description": "Summer 2026 Internship | Data Analyst, AI & Machine Learning Focus\n\nSchool Year: Graduate Students\n\nDates of the Internship: June 1st – August 7th (10 weeks)\n\nFormat: Hybrid in Lincolnshire, Illinois or Chicago, IL (Employees work in the office Monday, Tuesday, and Wednesday, with the option to work from home on Thursday and Friday).\n\nAbout the role: Camping World is looking for a Data Analyst intern for the summer of 2026 to work closely with the Data Management Office (DMO) and Data Science teams. We are looking for a driven individual who has foundational experience in data analysis but possesses a strong curiosity and capability to lean into artificial intelligence as a career. You will assist with daily operations and also be immersed in forward-looking AI projects. If you are eager to learn, have a strong interest in the future of data, and want to develop yourself as a professional at the intersection of analytics and AI, this is the ideal role for you.\n\nWhat You’ll Do:\n\n· Use various programming software to organize, validate, and analyze large, complex sets of data to meet business requirements.\n\n· Partner with the DMO team for core tasks including data validation (comparing and verifying report metrics), data engineering (small tasks requiring SQL and Python), and data analysis (proving or disproving hypotheses using data analytics and visualization).\n\n· Partner with CW Data Scientists on advanced projects, including data forecasting, anomaly detection, and the implementation of machine learning models.\n\n· Build analytical tools and dashboards (Power BI) to provide actionable insight into key business performance metrics.\n\n· Identify, design, and implement internal process improvements: re-designing infrastructure for greater scalability, optimizing data delivery, and automating manual processes.\n\n· Handle data requests from business stakeholders, assist with data-related technical issues, and effectively communicate insights through data visualization.\n\n· Explore new datasets and conduct experiments to validate hypotheses and make data-driven decisions, with a focus on identifying opportunities for AI application.\n\n· Take on individual special projects as needed to enhance your knowledge in machine learning, big data technologies, and AI implementation.\n\nWhat You’ll Need to have for the Role:\n\nTechnical Skills\n\n· Data Manipulation & Wrangling: Skilled in working with data in various formats (CSV, JSON, SQL databases). Ability to clean, preprocess, and transform data. Proficient in writing SQL.\n\n· Programming: Proficiency in programming languages such as Python or R to manipulate, analyze, and visualize data.\n\n· Data Visualization: Minimum 1 year of development experience with Microsoft Power BI or similar tools to communicate insights effectively.\n\n· Statistical Analysis: A strong foundation in statistics, including hypothesis testing, regression analysis, and probability theory.\n\n· Machine Learning: Familiarity with machine learning algorithms. Understand the basics of supervised and unsupervised learning, feature selection, and model evaluation.\n\n· Cloud & Big Data: Exposure to a major Cloud Platform (e.g., Azure, AWS, GCP) and a basic knowledge of big data technologies like Hadoop, Spark, or Hive is beneficial.\n\n· Mathematics: A solid understanding of linear algebra and calculus.\n\nOther Skills\n\n· Anticipates problems, resistance or likely objections and takes action to resolve them.\n\n· Executes duties in a timely, efficient manner.\n\n· Ability to share information and knowledge, offering support and cooperation.\n\n· Interacts well on teams and can also work independently.\n\nEducation:\n\n· In pursuit of or a recent graduate with a Master’s degree in Data Science, Statistics, Computer Science, or a closely related field.\n\n· A cumulative 3.0 GPA.\n\n· A graduation date between December 2025 - July 2027.\n\n· Ability to work in our Chicago or Lincolnshire office for the summer term. Camping World does not provide relocation or housing stipends.\n\nPay Range:\n\nIn addition to competitive pay, we offer Paid Time Off, 401(k), an Employee Assistance Program, Good Sam Roadside Assistance, discounts, paid parental leave (if eligibility is met), Tuition Reimbursement (if eligibility is met), and on the job training opportunities. Full-time associates are offered a comprehensive benefit package including medical, dental, vision and more! Part-time associates are offered access to dental & vision coverage! For more information please visit: www.mycampingworldbenefits.com\n\nWe are an equal employment opportunity employer. The Company's policy is not to discriminate against any applicant or employee based on race, color, sex, sexual orientation, gender identity, religion, national origin, age (40 and over), disability, veteran or uniformed service-member status, genetic information, or any other basis protected by applicable federal, state, or local laws.",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "data_science"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "camping-world-data-analyst-intern-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-05T22:06:32.272Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
