@@ -1,0 +1,17 @@
+{
+  "url": "https://www.talent.com/view?id=8c2e8c1e7fec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for Graduate Nurse (GN)- Adult Critical Care Internship (7p-7a) (internship) in New Deal. UMC Health System is hiring now. Discover your next career opportunity today on Talent.com.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.talent.com/view?id=8c2e8c1e7fec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "fetchedAt": "2026-02-05T14:37:08.293Z"
+    }
+  },
+  "cachedAt": 1770302228293
+}
