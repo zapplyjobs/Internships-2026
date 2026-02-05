@@ -435,5 +435,34 @@
     "_original_source": "jsearch",
     "job_posted_at": "1h",
     "id": "university-health-student-nurse-intern-prn-mentorship-from-experienced-rns-san-antonio-san-antonio"
+  },
+  {
+    "job_id": "js-citadel-securities-na-fgvnjsyglhrtmaaaaaa==",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Citadel Securities",
+    "job_city": "Miami",
+    "job_state": "Florida",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/software-engineer-intern?id=2433780627&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-01T00:00:00.000Z",
+    "job_description": "Job Description\n\nAt Citadel Securities, our engineers work in small teams to turn the best ideas into high-performing and resilient technology. With short development cycles, work rapidly goes into production. As an engineer, you can create systems architectures, develop platforms and build web frameworks. You’ll have access to state-of-the-art tools and apply innovative techniques including distributed computing, natural language processing, machine learning and more. As an intern, you’ll get to challenge the impossible in technology through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship.\n\nYour Objectives:\nCreate technological tools that bring trading strategies to life Develop high-performance, large data research platforms Work in small teams to build the future of finance\n\nYour Skills & Talents:\nBachelor's, master's or PhD in computer science, computer engineering or related fields Exceptional programming and design skills Strong analytical skills and familiarity with probability and statistics Ability to communicate effectively in a collaborative, complex and highly technical team environment Intellectual curiosity and passion for solving challenging problems using technology\n\nOpportunities available in Miami, New York.\n\nIn accordance with applicable law, the base salary range for this role is $4,300 to $4,800 per week.\nAbout Citadel Securities\n\nCitadel Securities is the next-generation capital markets firm and a leading global market maker. We provide institutional and retail investors with the liquidity they need to trade a broad array of equity and fixed income products in any market condition. The brightest minds in finance, science and technology use powerful, advanced analytics to solve the market’s most critical challenges, turning big ideas into real-world outcomes.",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1d",
+    "id": "citadel-securities-software-engineer-intern-miami"
   }
 ]
