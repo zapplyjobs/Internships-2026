@@ -3535,5 +3535,110 @@
     "addedAt": "2026-02-06T08:46:01.101Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-nreca-2wmleev5xxpnxm2oaaaaaa==",
+      "job_title": "Platform Developer/Engineer Intern",
+      "employer_name": "NRECA",
+      "job_city": "Arlington",
+      "job_state": "Virginia",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.linkedin.com/jobs/view/platform-developer-engineer-intern-at-nreca-4361014084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-06T01:00:00.000Z",
+      "job_description": "Job Description\n\n12 Week Summer Internship in NRECA’s Arlington, VA office\n\nYou must be an Undergraduate Student who will be a Junior or Senior in the Autumn of 2026 to be considered for this program.\n\nNRECA is a unique national trade association providing advocacy, financial services and business support services to over 900 consumer owned electric cooperatives across the country. NRECA employees are united by our mission, inclusive culture, collaborative workplace and commitment to service excellence. As a “best place to work” employer, we operate with integrity, transparency and a spirit of innovation.\n\nNRECA’s IT department is more than a team; we are a community. Guided by the core tenets of Simplicity, Security, Continuity, Transparency, and Flexibility, we strive to deliver business value through collaboration, ideation, and innovation. Become an integral part of a community driven to continuously improve our processes and transform how we work – in partnership with our colleagues and in service to our members.\n\nThe DevSecOps (DSO) Team Is Composed Of Technical Experts That Support The Organization's DSO Strategy, AWS Cloud Strategy, And AI Tool Research. The Mission Of Our Team Is To Reduce Friction In The Application Delivery Process And Mature DSO Capabilities Among Product-aligned Teams To Deliver With Confidence, Quality, And Efficiency. We Are Looking For An Intern To\n• Work directly with other members on the team and contribute to prioritized initiatives\n• Contribute to creating tools that are part of our Inner source libraries for other teams to use\n• Help teams improve continuous integration using new tools or features.\n• Build reference service architectures\n• Help teams increase their adoption of cloud services and features\n• Pilot and use AI tools that enable developers\n• Improve and enhance DevSecOps capabilities and platforms\n\nQualifications\n\nRequired Qualifications and Skills\n• Rising college junior or senior with a major in computer science, information systems, or related focus.\n• 3.0 GPA or higher (no academic or corrective action on record); transcripts must be provided.\n• Use Microsoft Office tools (Excel, Word, Outlook, PowerPoint) in the day-to-day tasks.\n• Operate various office equipment such as personal computer, copier, printer, or other job-related equipment.\n• Learn new systems and processes and quickly incorporate them into the daily work.\n• Apply good judgement related to escalating issues and requesting assistance.\n• Organize and manage time effectively.\n• Pay close attention to detail and review work for quality.\n• Team player with good interpersonal and relationship building skills.\n• Strong communication skills orally and in writing.\n• Programming experience in C#, Python, PowerShell scripting.\n• Interest in learning and applying new skills to enhance cloud and application development workflows.\n\nPreferred Qualifications And Skills\n• Experience using a source code management system like GitHub\n• Experience with cloud services such as Amazon Web Services (AWS).\n• Experience using AI tools to enhance development.\n\nEssential Physical Requirements\n• The worker is required to have close visual acuity to perform an activity such as: preparing and analyzing data and figures; transcribing; viewing a computer terminal and extensive reading.\n• Exerting up to 20 pounds of force occasionally, and/or up to 10 pounds of force frequently, and/or a negligible amount of force constantly to move objects. If the use of arm and/or leg controls requires exertion of forces greater than that for sedentary work and the worker sits most of the time, the job is rated for light work.\n\nDisclaimer Statement: The preceding job description has been written to reflect management’s assignment of essential functions. It does not prescribe or restrict the tasks that may be assigned.\n\nAdditional Requirement\n\nThe preceding job description has been written to reflect management’s assignment of essential functions. It does not prescribe or restrict the tasks that may be assigned. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status.\n\nNRECA is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. If you need special assistance or an accommodation while seeking employment, please e-mail humanresources@nreca.coop or call: 703-907-5992 - NRECA Arlington Human Resources. Please call 402-483-9275 - NRECA Lincoln Human Resources, for Lincoln, NE employment opportunities. We will make a determination on your request for reasonable accommodation on a case-by-case basis.\n\nThe U.S. Equal Employment Opportunity Commission (EEOC) recently released the 'Know Your Rights' poster, which updates and replaces the previous \"EEO is the Law\" poster and \"EEO Is the Law Poster Supplement\".\n\nPay Transparency Non-Discrimination. NRECA will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay. Please see the Pay Transparency Nondiscrimination Provision for more information.\n\nE-Verify. As a Federal Contractor, NRECA is required to participate in the E-Verify Program to confirm eligibility to work in the United States. For information please click on the following link: E-Verify.\n\nFor more information about life at NRECA please visit www.Electric.coop.",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "nreca-platform-developer-engineer-intern-arlington"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T10:31:12.125Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-docusign-teudqendidkm6q-eaaaaaa==",
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Docusign",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://careers.docusign.com/jobs/28604?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-05T22:00:00.000Z",
+      "job_description": "Company Overview\n\nDocusign brings agreements to life. Over 1.5 million customers and more than a billion people in over 180 countries use Docusign solutions to accelerate the process of doing business and simplify people’s lives. With intelligent agreement management, Docusign unleashes business-critical data that is trapped inside of documents. Until now, these were disconnected from business systems of record, costing businesses time, money, and opportunity. Using Docusign’s Intelligent Agreement Management platform, companies can create, commit, and manage agreements with solutions created by the #1 company in e-signature and contract lifecycle management (CLM).\n\nWhat you'll do\n\nDocusign is looking for a Software Engineering Intern who will contribute to the front-end development of the Navigator Core experience, working on features that enhance user interaction and navigation across B2B IAM products. This role offers the opportunity to gain hands-on experience with modern front-end technologies and agile development methodologies, contributing directly to a core platform used by a wide range of customers.\n\nThis position is an individual contributor role reporting to the Sr. Manager, Software Engineering.\n\nResponsibility\n• Design, implement, and deploy user-facing features for the Navigator Core front-end\n• Write and execute comprehensive unit and integration tests using Playwright to ensure high code quality, reliability, and maintainability\n• Actively troubleshoot, diagnose, and resolve application bugs and performance bottlenecks\n• Contribute to the design and architecture of our systems in collaboration with senior engineers\n• Gain a deep understanding of DocuSign’s Navigator/IAM toolset and standard development practices (including coding standards, testing methodologies, deployment, and feature rollout)\n• Partner with Product Managers and Designers to translate business requirements into clear, actionable technical specifications\n• Participate in the full development lifecycle, including daily stand-ups, sprint planning, and retrospectives\n• Engage in code reviews, providing and receiving constructive feedback\n• Contribute to creating and maintaining documentation for new features and development practices\n• Work with product teams to identify and propose solutions for existing workflow pain points\n• Conclude the internship by presenting your work, progress, and final accomplishments to the team\n\nJob Designation\n\nHybrid: Employee divides their time between in-office and remote work. Access to an office location is required. (Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation)\n\nPositions at Docusign are assigned a job designation of either In Office, Hybrid or Remote and are specific to the role/job. Preferred job designations are not guaranteed when changing positions within Docusign. Docusign reserves the right to change a position's job designation depending on business needs and as permitted by local law.\n\nWhat you bring\n\nBasic\n• Pursuing a Bachelor's degree in Computer Science, Software Engineering, or related field with a graduation date of December 2026 - May 2027\n• Experience with JavaScript, HTML, and CSS for building dynamic user interfaces\n• Experience with a modern JavaScript framework (such as React, Angular, or Vue) and state management libraries (e.g., Redux Toolkit - RTK)\n• Experience with Continuous Integration/Continuous Deployment (CI/CD) pipelines in DevOps platforms (e.g., Azure DevOps)\n• Experience with cloud computing principles\n\nPreferred\n• Excellent analytical skills, coupled with strong communication and cross-functional collaboration abilities\n• Familiarity with Git for source code management\n• Commitment to writing clean, efficient, and well-tested code\n• Strong core coding, debugging, and problem-solving abilities\n• Skilled in consuming and integrating data via RESTful APIs\n\nWage Transparency\n\nPay for this position is based on a number of factors including geographic location and may vary depending on job-related knowledge, skills, and experience.\n\nBased on applicable legislation, the below details pay ranges in the following locations:\n\nIllinois, Colorado, Massachusetts and Minnesota: $X/hour - $X/hour or $X - $X base salary\n\nWork Authorization Notice: Please note that we do not provide visa sponsorship or immigration support for this position. Applicants must already be authorized to work in the United States on a full-time, permanent basis without the need for current or future sponsorship.\n\nLife at Docusign\n\nWorking here\n\nDocusign is committed to building trust and making the world more agreeable for our employees, customers and the communities in which we live and work. You can count on us to listen, be honest, and try our best to do what’s right, every day. At Docusign, everything is equal.\n\nWe each have a responsibility to ensure every team member has an equal opportunity to succeed, to be heard, to exchange ideas openly, to build lasting relationships, and to do the work of their life. Best of all, you will be able to feel deep pride in the work you do, because your contribution helps us make the world better than we found it. And for that, you’ll be loved by us, our customers, and the world in which we live.\n\nAccommodation\n\nDocusign is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need such an accommodation, or a religious accommodation, during the application process, please contact us at accommodations@docusign.com.\n\nIf you experience any issues, concerns, or technical difficulties during the application process please get in touch with our Talent organization at taops@docusign.com for assistance.\n\nApplicant and Candidate Privacy Notice\n\nStates Not Eligible for Employment\n\nThis position is not eligible for employment in the following states: Alaska, Hawaii, Maine, Mississippi, North Dakota, South Dakota, Vermont, West Virginia and Wyoming.\n\nEqual Opportunity Employer\n\nIt's important to us that we build a talented team that is as diverse as our customers and where all employees feel a deep sense of belonging and thrive. We encourage great talent who bring a range of perspectives to apply for our open positions. Docusign is an Equal Opportunity Employer and makes hiring decisions based on experience, skill, aptitude and a can-do approach. We will not discriminate based on race, ethnicity, color, age, sex, religion, national origin, ancestry, pregnancy, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, registered domestic partner status, caregiver status, marital status, veteran or military status, or any other legally protected category.\n\nEEO Know Your Rights poster\n\n#LI-Hybrid",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "docusign-software-engineer-intern-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T10:31:12.125Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-opus-ivs-inc-yscrsvn24eurkdy5aaaaaa==",
+      "job_title": "Software Engineer Intern",
+      "employer_name": "OPUS IVS Inc",
+      "job_city": "Michigan Center",
+      "job_state": "Michigan",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.whatjobs.com/jobs/software-engineer-intern?id=2432943458&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+      "job_description": "Description:\n\nCompany Overview\n\nAt Opus IVS, our mission is to drive advancement in the automotive industry by assisting customers with complex vehicle repairs. Guided by our core values of Customer Focus, Innovation, Collaboration & Teamwork, and a Results-Driven approach, we continually strive to develop advanced technology that empowers us to fulfill our mission.\n\nOpus IVS technology & products has been a leader in the industry since the late 90s. Opus IVS offers modern collision shops an integrated platform of leading diagnostics and calibration solutions, anchored by expert technicians and cutting edge, patented technology.\n\nPosition Summary\n\nThe Software Engineer Intern will contribute to improving system reliability, performance, and security while developing hands-on experience in modern software development practices. They will work collaboratively with cross-functional teams to enhance system monitoring, streamline deployments, and drive innovation, all while focusing on delivering exceptional customer experiences.\n\nResponsibilities:\nAssist in designing, developing, testing, and maintaining software applications used in automotive diagnostics. Collaborate with engineering teams to implement new features and resolve software issues. Participate in code reviews to learn best practices and contribute to improving code quality. Write clear, maintainable, and well-documented code under the guidance of senior engineers. Support troubleshooting, debugging, and performance optimization of applications. Help with creating and executing unit tests to ensure reliability and accuracy of software. Contribute to technical documentation for internal processes, features, and tools. Work with cross-functional teams (product, QA, operations) to understand requirements and deliver solutions. Other duties as assigned.\n\nRequirements:\n\nQualifications:\nPursuing a Bachelors degree in Computer Science, Software Engineering, Information Technology, or a related field. Experience with program languages and frameworks such as .NET C#, C++, Java, or similar. Basic knowledge of database systems (e.g., SQL, NoSQL) and database performance optimization. Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook) for documentation, data analysis, and reporting. Strong problem-solving and debugging skills with attention to detail. Ability to quickly learn new technologies, frameworks, and tools. Effective communication and collaboration skills.\n\nWHAT WE OFFER:\nCompetitive Pay: We know your value and were not afraid to pay for it. We offer a competitive total compensation plan including salary, bonuses, tuition reimbursement, and a match contribution to your 401k. Time Off: Besides our competitive paid time off package, employees receive paid holidays and floating holidays. Benefits: We offer a comprehensive benefits package, including all the necessities such as medical, dental, and vision. Opportunity: to be a part of a fast-growing company working to make the world safer!\n\nWe are an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, disability status or any other characteristic protected by state, federal, or local law.\n\nPHYSICAL DEMANDS\n\nThe physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of the job, the employee is regularly required to use hands to finger, handle, or feel objects, tools or controls; reach with hands and arms; talk or hear. The employee frequently is required to stand, walk and sit. The employee is occasionally required to stoop, kneel, crouch or crawl. Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception and the ability to adjust focus.\n\nThe above information has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job.\n\nPIb45e b",
+      "job_employment_type": "INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "opus-ivs-software-engineer-intern-michigan-center"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T10:31:12.125Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
