@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-3-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-4-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 3+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 4+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 4+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,6 +61,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
+<summary><h3>🏢 <strong>Top Tech</strong> (1 position)</h3></summary>
+
+#### 🏢 **SAS** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Summer 2026 - Full Stack Software Developer Intern (Health and Life Science) 🏠 | Cary, North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SAS/Job/Summer-2026-Full-Stack-Software-Developer-Intern-(Health-and-Life-Science)/-in-Cary,NC?jid=05a79800fea24b3f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
+
+</details>
+
+<details>
 <summary><h3>🚀 <strong>Startups & Growth</strong> (1 position)</h3></summary>
 
 #### 🛡️ **BAE Systems** (1 position)
@@ -79,6 +90,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | 2026 Summer Intern - Statistician and Data Scientist | South San Francisco, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102485/2026-Summer-Intern-Statistician-and-Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+<details>
+<summary><h3>📊 <strong>Analytics & EdTech</strong> (1 position)</h3></summary>
+
+#### 🏢 **SAS** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Summer 2026 - Full Stack Software Developer Intern (Health and Life Science) 🏠 | Cary, North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SAS/Job/Summer-2026-Full-Stack-Software-Developer-Intern-(Health-and-Life-Science)/-in-Cary,NC?jid=05a79800fea24b3f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 
 </details>
 
@@ -108,7 +130,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Salesforce, Inc.** | Summer 2026 Intern - Software Engineer | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Spectrum** | 2026 Summer Intern: Data Science | Greenwood Village, Colorado | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SPECTRUM/Job/2026-Summer-Intern:-Data-Science/-in-Englewood,CO?jid=9e55b95270106104&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **VirtualVocations** | Data Science Intern 🏠 | Chandler, Arizona | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=98b147ea9044&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🚙 **Rivian** | Software Engineering - Summer 2026 Internships | Plymouth, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Rivian/Job/Software-Engineering-Summer-2026-Internships/-in-Plymouth,MI?jid=cb66317c498985c9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 16h |
+| 🚙 **Rivian** | Software Engineering - Summer 2026 Internships | Plymouth, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Rivian/Job/Software-Engineering-Summer-2026-Internships/-in-Plymouth,MI?jid=cb66317c498985c9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 17h |
 | 🏢 **Citadel Securities** | Software Engineer Intern | Miami, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern?id=2433780627&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **Avathon** | Data Scientist Intern | Pleasanton, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **Heart Aerospace** | Software Engineering Intern – Flight Software | Torrance, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://climatebase.org/job/69457642/software-engineering-intern--flight-software?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
@@ -177,7 +199,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1 roles
-- **🏢 Companies**: 28 companies  
+- **🏢 Companies**: 29 companies  
 - **⭐ FAANG+ Opportunities**: 0 positions
 
 <details>
@@ -185,7 +207,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **21CS** | Intern - Software Development | Oak Grove, North Carolina | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/intern-software-development-at-21cs-4365465175?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **KCI Technologies Inc.** | Transportation Engineering Intern | Harrisburg, Pennsylvania | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/KCI-Technologies-Inc./Job/Transportation-Engineering-Intern/-in-Harrisburg,PA?jid=97ee2b9cd88d8df9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
 
@@ -199,7 +221,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3 current opportunities from 3 top companies.**
+**🎯 4 current opportunities from 4 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
