@@ -1773,6 +1773,35 @@
     "id": "waters-business-data-analytics-intern-market-analysis-milford"
   },
   {
+    "job_id": "js-pbs-distribution-oqrc6b0zecgagy7saaaaaa==",
+    "job_title": "Summer Intern - Software Engineering (Hybrid, Paid)",
+    "employer_name": "PBS Distribution",
+    "job_city": "Arlington",
+    "job_state": "Virginia",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/summer-intern-software-engineering-hybrid-paid-at-pbs-distribution-4369790013?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-06T14:00:00.000Z",
+    "job_description": "POSITION TITLE: Software Engineering Summer Intern (Hybrid, Paid)\n\nTEAM: Systems and Support\n\nLOCATION: Arlington, VA (Hybrid, 1-2 days per week in office)\n\nSTATUS: Full-time, Summer 2026\n\nMANAGER: Director, Systems and Support\n\nPBS Distribution (PBSd) is a leading distributor of public media content around the world, entertaining audiences across platforms and formats. The company, a joint venture of PBS and GBH Boston, provides premium content through multiple digital channels and video services. PBS Distribution operates seven subscription streaming channels — PBS Masterpiece (US and CA), PBS KIDS, PBS Living, PBS Documentaries (US and CA) and PBS America (U.K.) as well as numerous Free Advertising-Supported Streaming TV (FAST) Channels in the U.S. and U.K. In addition, the company reaches viewers through Transactional Video On Demand (TVOD), Subscription Video On Demand (SVOD) licensing, Advertising-Supported Video on Demand (AVOD), DVD and Blu-ray, theatrical releasing, educational platforms, non-theatrical and inflight sales, and serves broadcasters and producers providing program sales and co-production financing.\n\nPBS Distribution is proud to be a workplace supporting, celebrating, and thriving as a team.\n\nInternship Objectives\n\nThe Software Engineering Intern will work alongside our Software Development Team to build data integrations, interfaces, and automation workflows that support PBSd's technology operations. This role offers a unique opportunity to see how enterprise systems connect and to solve real operational problems.\n\nThe work will involve two complementary tracks: building Application Programming Interfaces (API) integrations that feed data from our internal databases into Airtable and designing Airtable interfaces/automations on top of that data. This approach keeps our databases as the source of truth while using Airtable as a flexible layer for visualization, workflow management, and automation. The Intern will gain exposure to how data flows between systems like Jira, Customer Relationship Management (CRM) platforms, and internal applications. This Intern will help design solutions that make that data actionable.\n\nResponsibilities\n• Work closely with software engineers to understand system architecture and data flows.\n• Build API integrations and Airtable interfaces to visualize Jira ticket data, helping the support team track trends and improve workflows.\n• Support our Change Advisory Board by building tools to track change requests and assess system dependencies.\n• Develop API integrations that sync data from internal databases and services into Airtable.\n• Build and iterate on Airtable bases, interfaces, and automations.\n• Document your work clearly for ongoing maintenance and handoff.\n• Propose ideas for improving workflows and reducing manual processes.\n• Present your projects and learnings at the end of the internship.\n• Perform other duties and responsibilities as assigned.\n\nQualifications\n• Rising Junior or Senior currently pursuing a Bachelor’s degree (students who have graduated are not eligible)\n• Computer Science, Information Systems, Software Engineering, or similar major\n• Ability to learn new tools and technologies quickly\n• Excellent problem-solving and attention to detail skills\n• Good verbal, written, and interpersonal communication skills\n• Familiarity with databases, Structured Query Language (SQL), or data modeling concepts preferred\n• Experience with any scripting or programming language (Python, JavaScript, TypeScript)\n• Exposure to APIs (consuming or building)\n• Experience with spreadsheets, low-code tools (Airtable, Notion), or project management software\n• Coursework or projects involving data organization or visualization, such as building dashboards, designing database schemas, or creating reports from datasets\n\nPBS Distribution (PBSd) is an equal opportunity employer that prohibits discrimination and harassment of any kind.\n\nPBS Distribution is a for-profit organization with a mission to drive profitable growth by building key partnerships and distributing inspiring content. PBS Distribution is headquartered in Arlington, VA with additional offices in Boston, MA and London, UK.",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "no_experience",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "pbs-distribution-summer-intern-software-engineering-hybrid-paid-arlington"
+  },
+  {
     "job_title": "Software Engineering - Summer 2026 Internships",
     "employer_name": "Rivian",
     "job_city": "Plymouth",
