@@ -229,34 +229,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1 roles
-- **🏢 Companies**: 59 companies  
-- **⭐ FAANG+ Opportunities**: 0 positions
-
-<details>
-<summary><h3>🏢 <strong>Other Companies</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **United Nations Department of Operational Support (DOS)** | Data Analytics and Business Intelligence Intern 🏠 | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.devex.com/jobs/data-analytics-and-business-intelligence-intern-1406686?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-</details>
-
-
-
-</details>
-
----
-
-
 
 <div align="center">
 
