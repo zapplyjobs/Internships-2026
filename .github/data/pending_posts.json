@@ -3920,5 +3920,40 @@
     "addedAt": "2026-02-06T13:51:46.225Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-humana-cmhouwob_imgc50laaaaaa==",
+      "job_title": "Home Health Nursing Internship",
+      "employer_name": "Humana",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.jobilize.com/job/us-dc-columbia-home-health-nursing-internship-washington-humana-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+      "job_description": "Join a Caring Community and Prioritize Health\n\nThe Home Health Nursing Internship is a summer opportunity aimed at providing nursing students with invaluable hands-on experience in a dynamic home care environment. As an intern, you will gain direct clinical experience by assisting with essential patient care tasks under the guidance of experienced registered nurses. This internship is designed to enhance your clinical skills, improve compassionate communication, and expose you to the continuum of care beyond traditional hospital settings.\n\nWe welcome applications for internship positions across various branch locations. Please specify your desired branch or branches upon application to ensure a good match of your skills and availability.\n\nYour Responsibilities Will Include:\n• Assist Registered Nurses in delivering direct patient care in home settings.\n• Conduct patient assessments and document findings accurately.\n• Engage in care planning and implementation under RN supervision.\n• Communicate effectively and empathetically with patients and their families.\n• Adhere to all clinical protocols, safety guidelines, and regulatory requirements.\n• Maintain patient confidentiality and uphold professional conduct consistently.\n• Participate in educational activities and team meetings within your branch and the Chief Nursing Office.\n\nWhat We Are Looking For:\n• Enrolled in an accredited LPN, ADN, or BSN program, with an expected graduation date between December 2026 and Summer 2027.\n• Available to work full-time, 40 hours per week, Monday - Friday for 8 weeks, from June 1 to July 24.\n• Possess a valid driver's license to travel to the branch and/or patient homes, as you will accompany your preceptor during home visits.\n• Completed at least one clinical rotation in an acute care setting and/or have previous experience in home health, hospice, or community-based care.\n• Hold active Certification in Basic Life Support (BLS) from the American Heart Association throughout the internship.\n• Must not require sponsorship to work in the United States.\n\nPreferred Qualifications:\n• Strong academic history with a minimum nursing GPA of 2.5 or higher.\n• Demonstrated commitment to patient-centered care and a keen interest in home health care.\n• Strong organizational, prioritization, and critical thinking skills.\n• Excellent interpersonal, written, and oral communication abilities.\n\nWhat to Expect from Your 8-Week Internship:\n• Complete onboarding and orientation in the first week.\n• Work closely with seasoned home health nurses to provide hands-on, supervised care to homebound patients.\n• Participate in interdisciplinary care team shadowing experiences.\n• Engage in facilitated virtual group meetups with fellow home health nursing interns across the country.\n• Opportunities to connect and interact with home health and organizational leaders.\n\nScheduled Weekly Hours:\n\n40 hours per week.\n\nCompensation:\n\nThe salary for this role is estimated to be between $37,440 and $43,800 per year, which may vary based on geographical location and individual qualifications.\n\nBenefits:\n\nHumana offers benefits aimed at supporting the well-being of all associates, including paid time off, a 401(k) retirement savings plan, and employee assistance programs.\n\nAbout Humana:\n\nHumana Inc. is committed to prioritizing health for our teammates, customers, and the communities we serve. Through our diverse insurance services and healthcare initiatives, we strive to enhance the quality of life for all individuals, including those with Medicare, Medicaid, and military personnel.\n\nEqual Opportunity Employer:\n\nHumana does not discriminate against any employee or applicant on the basis of race, color, religion, sexual orientation, gender identity, national origin, age, marital status, genetic information, disability, or veteran status. We are committed to affirmative action and compliance with all applicable federal civil rights laws.",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "nursing"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "humana-home-health-nursing-internship-washington"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T14:17:22.499Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
