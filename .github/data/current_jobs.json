@@ -1046,6 +1046,35 @@
     "id": "opus-ivs-software-engineer-intern-michigan-center"
   },
   {
+    "job_id": "js-seatgeek-g85kudivrisl9b3xaaaaaa==",
+    "job_title": "Software Engineer - Internship",
+    "employer_name": "SeatGeek",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/SeatGeek/Job/Software-Engineer-Internship/-in-New-York,NY?jid=41976577c9bee85a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+    "job_description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we're simplifying and modernizing the ticketing industry.\n\nBy catering to both consumers and enterprises, we're powering a new, open entertainment ecosystem where fans have effortless access to experiences, and teams, venues, and shows have seamless access to their audiences. Because everyone should expect more from ticketing.\nOpen roles for interns\n\nWe are looking for the best and brightest College Interns to join us for Summer 2026, to help us make live entertainment even better! Experience is preferred, but not required - in fact, we look forward to supporting you by teaching you new technologies and mentoring you in software development craft as a member of our world-class engineering team.\n• Backend (Python, Go)\n• Frontend Web (Typescript + React)\n• Mobile (Kotlin, Swift)\n• Platform (AWS, Docker, Python, Go)\n\nThis is a 12 week summer Internship Program with a hybrid work style (expected to be on-site 50% of the week) at our corporate office in NYC.\nWhat you'll do\n• Design cloud-native software architecture\n• Solve customer problems\n• Scale our software to support a booming business\n• Build a many-sided marketplace\n• Empower decision-making at a rapidly growing data-driven company\n• Run experiments and evaluate new technologies that will determine the future of our business for years to come\n• Build performant, beautiful, inclusive user interfaces that delight our users and enhance our brand\nWhat you have\n• You are currently enrolled college student studying Computer Science or a related degree set to graduate in the Spring/Summer of 2027\n• Experience in building or testing software. We'll be interested in hearing about what you've built and how you built it\n• Problem solving skills - adept at handling technical challenges. SeatGeek engineers create custom solutions to unique ticketing problems, including venue mapping, inventory tracking, and event matching\n• Passion for software craftsmanship and products. You hold yourself and your code to a high standard\n• Commitment to your teammates. You enjoy working with a diverse group of people with different experiences and take pride in mentoring and learning from others\nInternship perks\n• $120 a month to spend on tickets to live events\n• Monthly commuter card for transportation\n• Subscription to Headspace\n• Free lunch & snacks is provided every day in the office\n• Weekly planned events like comedy/broadway shows, sports games, museum visits and more\n• Housing stipend\n• *Please note you are expected to come into the SeatGeek New York City office at least 3 days a week**\n\nThe compensation for this role is $55/hour USD (based on a 40 hour work week).\n\nSeatGeek is committed to providing equal employment opportunities to all employees and applicants for employment regardless of race, color, religion, creed, age, national origin or ancestry, ethnicity, sex, sexual orientation, gender identity or expression, disability, military or veteran status, or any other category protected by federal, state, or local law. As an equal opportunities employer, we recognize that diversity is a positive attribute and we welcome the differences and benefits that a diverse culture brings. Come join us!\n\nTo review our candidate privacy notice, click here.",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "seatgeek-software-engineer-internship-new-york"
+  },
+  {
     "job_title": "Software Engineering - Summer 2026 Internships",
     "employer_name": "Rivian",
     "job_city": "Plymouth",
