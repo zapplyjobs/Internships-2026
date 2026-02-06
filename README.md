@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (47 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (48 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -151,6 +151,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SeatGeek** | Software Engineer - Internship | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SeatGeek/Job/Software-Engineer-Internship/-in-New-York,NY?jid=41976577c9bee85a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Christus Health** | Nurse Extern I - Nursing Internship - PRN (71037) | Bodcau, Louisiana | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=3c37379d69d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Great American Insurance Company** | Data Science Intern, Great American Risk Solutions | Cincinnati, Ohio | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://simplify.jobs/p/3c413731-de31-457a-983a-02b18a56f901/Data-Science-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Humana** | Home Health Nursing Internship | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-dc-columbia-home-health-nursing-internship-washington-humana-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🚙 **Rivian** | Software Engineering - Summer 2026 Internships | Plymouth, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Rivian/Job/Software-Engineering-Summer-2026-Internships/-in-Plymouth,MI?jid=cb66317c498985c9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 17h |
 | 🏢 **Citadel Securities** | Software Engineer Intern | Miami, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern?id=2433780627&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **Avathon** | Data Scientist Intern | Pleasanton, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
