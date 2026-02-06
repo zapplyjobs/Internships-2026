@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-06T05:37:48.864Z",
+  "lastUpdated": "2026-02-06T06:04:53.770Z",
   "jobs": [
     {
       "id": "national-renewable-energy-laboratory-undergraduate-graduate-intern-summer-cyber-mission-assurance-golden-2026-01-23-1",
@@ -16383,9 +16383,8 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-06T05:37:48.864Z",
-      "archived": 10,
-      "monthsAffected": 1
+      "date": "2026-02-06T06:04:53.770Z",
+      "archived": 0
     }
   }
 }

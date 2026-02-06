@@ -32806,5 +32806,17 @@
     "job_title": "Software Engineering Intern - Summer 2026",
     "company": "Squarespace",
     "first_seen": "2026-02-06T05:37:46.444Z"
+  },
+  "org_subtype_bu023_global_services-data-science-undergraduate-intern-hopkinton": {
+    "assigned_date": "2026-02-06T06:04:51.039Z",
+    "job_title": "Data Science Undergraduate Intern",
+    "company": "Org_Subtype_BU023_Global_Services",
+    "first_seen": "2026-02-06T06:04:51.039Z"
+  },
+  "west-monroe-2026-data-&-analytics-consulting-intern-chicago": {
+    "assigned_date": "2026-02-06T06:04:51.039Z",
+    "job_title": "2026 Data & Analytics Consulting Intern",
+    "company": "West Monroe",
+    "first_seen": "2026-02-06T06:04:51.039Z"
   }
 }
