@@ -4482,5 +4482,40 @@
     "addedAt": "2026-02-06T21:14:48.613Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-waters-corporation-xqz3pikqw2ixmad0aaaaaa==",
+      "job_title": "Business Data Analytics Intern, Market Analysis",
+      "employer_name": "Waters Corporation",
+      "job_city": "Milford",
+      "job_state": "Massachusetts",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://uscareers-waters.icims.com/jobs/25441/business-data-analytics-intern%2C-market-analysis/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-06T04:00:00.000Z",
+      "job_description": "Overview\n\nWaters Corporation is always looking to hire outstanding future talent for our company. The Clinical Business Unit is looking to hire Business Data Analytics Intern, Market Analysis out of our Milford, MA site. The Business Data Analytics Intern will support strategic commercial initiatives for Waters, global leader in analytical instruments, life sciences, and clinical diagnostics. The intern will collaborate with commercial strategy, marketing, sales operations, and data analytics teams to transform complex laboratory datasets into actionable insights that guide portfolio positioning and customer engagement. This internship is ideal for an analytically driven MBA student interested in the intersection of data science, diagnostics, and commercial strategy. This internship will last approximately 10-12 weeks, and the program will commence in the summer of 2026.\n\nResponsibilities\n• Develop a standardized market-sizing model using laboratory‑level data to estimate customer potential across Waters’ clinical LC-MS/MS solutions and BD’s diagnostic solutions.\n• Integrate and analyze diverse datasets, including lab testing volumes, installed base information, workflow characteristics, and market benchmarks.\n• Build methodologies to identify cross‑selling opportunities between Waters’ LC-MS/MS platforms and BD’s diagnostic instruments, assays, and automation solutions.\n• Partner with commercial, marketing, commercial excellence, and product management teams at both companies to ensure the model aligns with strategic priorities and real‑world customer workflows.\n• Create dashboards, visualizations, and executive‑ready presentations that clearly communicate insights and recommendations. Document analytical assumptions, data sources, and model logic to support transparency, scalability, and future enhancements.\n• Prepare and deliver executive‑ready summaries and documentation, ensuring clear handoff of datasets, assumptions, dashboards, and recommendations for continued use beyond the internship.\n\nQualifications\n• Current MBA student with a concentration in Business Analytics, Data Science, Marketing Analytics or a related field.\n• Strong analytical and quantitative skills, with experience in data modeling, forecasting, or market sizing.\n• Proficiency with analytical tools such as Excel, SQL, Python, R, or similar platforms.\n• Experience with data visualization tools (e.g., Power BI, Tableau) is preferred.\n• Ability to translate complex data sets into clear, actionable business insights.\n• Strong communication and presentation skills, with comfort engaging cross‑functional teams.\n• Interest in life sciences, diagnostics, analytical instrumentation, or healthcare markets.\n• Self‑starter with strong attention to detail and the ability to work independently in a\n\nCompany Description\n\nWaters Corporation (NYSE:WAT) is a global leader in analytical instruments, separations technologies, and software, serving the life, materials, food, and environmental sciences for over 65 years. Our Company helps ensure the efficacy of medicines, the safety of food and the purity of water, and the quality and sustainability of products used every day. In over 100 countries, our 7,600+ passionate employees collaborate with customers in laboratories, manufacturing sites, and hospitals to accelerate the benefits of pioneering science.\n\nDiversity and inclusion are fundamental to our core values at Waters Corporation. It benefits our employees, our products, our customers and our community. Waters complies with all applicable federal, state, and local laws. Qualified applicants are considered without regard to sex, race, color, ancestry, national origin, citizenship status, religion, age, marital status (including civil unions), military service, veteran status, pregnancy (including childbirth and related medical conditions), genetic information, sexual orientation, gender identity, legally recognized disability, domestic violence victim status, or any other characteristic protected by law. Waters is proud to be an equal opportunity workplace and is an affirmative action employer. All hiring decisions are based solely on qualifications, merit, and business needs at the time.\n\nKey Words\nDiagnostics, Internship, Clinical, Data Science",
+      "job_employment_type": "INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "data_science"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "waters-business-data-analytics-intern-market-analysis-milford"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T21:53:12.105Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
