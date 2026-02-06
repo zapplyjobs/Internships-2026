@@ -1,22 +1,16 @@
 {
-  "date": "2026-02-05",
-  "requests": 4,
-  "remaining": 2,
+  "date": "2026-02-06",
+  "requests": 1,
+  "remaining": 5,
   "queries_executed": [
-    "machine learning intern",
-    "machine learning intern",
-    "machine learning intern",
-    "machine learning intern"
+    "software engineer intern"
   ],
   "metrics": {
     "jobs_per_query": {
-      "machine learning intern": [
-        0,
-        0,
-        0,
-        0
+      "software engineer intern": [
+        4
       ]
     },
-    "total_jobs": 0
+    "total_jobs": 4
   }
 }
