@@ -3850,5 +3850,40 @@
     "addedAt": "2026-02-06T11:25:52.457Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-great-american-insurance-company-qodqt8zozylez6iyaaaaaa==",
+      "job_title": "Data Science Intern, Great American Risk Solutions",
+      "employer_name": "Great American Insurance Company",
+      "job_city": "Cincinnati",
+      "job_state": "Ohio",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://simplify.jobs/p/3c413731-de31-457a-983a-02b18a56f901/Data-Science-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-31T00:00:00.000Z",
+      "job_description": "Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries of American Financial Group. We combine a \"small company\" culture where your ideas will be heard with \"big company\" expertise to help you succeed. With over 30 specialty and property and casualty operations, there are always opportunities here to learn and grow.\n\nAt Great American, we value and recognize the benefits derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees feel included, empowered, and enabled to perform at their best.\n\nThe Risk Solutions Data Science Teamprovidedata products andservices to help our business units use technology to create, manage, andoptimizeinformation and business processes. These include awide range of activitiessuch as:model development,processautomation,decisionsupport,and dataaugmentation.The overall goal ofthe teamis to provide technology solutions that increase efficiency,increase revenue, and give our company a competitive advantage over our competitors.\n\nTheData Science Team within the Risk Solutions divisionis seeking an intern for thesummer2026.\n\nEssential Job Functions & Responsibilities\n• Analyzes internal and external data and performs statistical modeling to develop actionable insights and recommendations to managementregardingbusiness and product performance.\n• Develops data mining architectures/models/protocols, statistical reporting, and data analysis methodologies toidentifytrends and extract knowledge from large, high dimensional data sets\n• Identifiesareas to increase efficiency and automation of data analysis processes.\n• Translate business problems/opportunities into technical requirements and data science specifications.\n• Distilland present complex problems and solutionsby creatingconciseslide decks for leadership\n• Creates solutions that enable enhanced business performance and decision making through a range of data preparation, modeling,analysisand/or visualization techniques.\n• Uses artificial intelligence and machine learning to developprocessesautomation.\n• Researchesand applies knowledge of existing and emerging data science principles, theories, and techniques to inform business decisions.\n• Develops andmaintainsstrong business knowledge and customer relationships.\n• May estimate the economic impact of operational decisions.\n• Activelyparticipatesinagileplanning and documentation in support of producingminimumviableproducts as well as product long term roadmaps\n• Performs other duties as assigned.\n\nJob Qualifications\n• Developmentskills in Python, the core AI/ML libraries (required)\n• PySpark,PyTorch\n• Retrieve and manipulate data and troubleshoot data issues via SQLquery\n• Experience with Snowflake and SQL database\n• Experiencewithdistilling and presenting complex problems and their solutions to anon-technical audience\n• Internal drive to expand your personal domainexpertiseand curiosity about how to use thatexpertisein collaboration with other team members to mitigate our current and future customers’ financialneeds.\n\nEducation\n• WorkingtowardsMaster’s DegreeinData Science,Applied Math, Statistics, Engineering, Finance, Science, or Computer Science or equivalent experience\n\nBusiness Unit:\nGreat American Risk Solutions\n\nBenefits:\n\nWe offer competitive benefits packages for full-time and part-time employees*. Full-time employees have access to medical, dental, and vision coverage, wellness plans, parental leave, adoption assistance, and tuition reimbursement. Full-time and eligible part-time employees also enjoy Paid Time Off and paid holidays, a 401(k) plan with company match, an employee stock purchase plan, and commuter benefits.\n\nCompensation varies by role, level, and location and is influenced by skills, experience, and business needs. Your recruiter will provide details about benefits and specific compensation ranges during the hiring process. Learn more at http://www.gaig.com/careers.\n• Excludes seasonal employees and interns.",
+      "job_employment_type": "INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "general"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "great-american-insurance-company-data-science-intern-great-american-risk-solutions-cincinnati"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T11:57:10.967Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
