@@ -3955,5 +3955,40 @@
     "addedAt": "2026-02-06T14:17:22.499Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-airlines-reporting-corporation-afhug18ydewfj1e8aaaaaa==",
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Airlines Reporting Corporation",
+      "job_city": "Fairfax",
+      "job_state": "Virginia",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+      "job_description": "Software Engineer Intern\nUS-VA-Arlington\nJob ID: 2026-2471\nType: Internship\n# of Openings: 1\nCategory: Technology\nArlington\nOverview\n\nIt's a great time to join us at Airlines Reporting Corporation (ARC)! ARC accelerates the growth of global air travel by delivering forward-looking travel data, flexible distribution services and other innovative industry solutions. We are a leading travel intelligence company with the world’s largest, most comprehensive global airline ticket dataset, including more than 15 billion passenger flights. By working here, you can contribute to solutions and expertise that strengthen economies and enrich lives. We think big, embrace challenges and explore new ideas to lead the way for the travel industry.\n\nARC is hiring a Software Engineer Intern for summer 2026! If you are eager to take on a challenging and rewarding Internship with a high-tech company surrounded by awesome professionals, then we want to hear from you. This internship will begin in early June and end in early August.\n\nThis internship follows a hybrid work model and is based in Arlington, VA or Tampa, FL. Applicants should be located within commuting distance of one of these offices.\n\nThe Software Engineering Intern will learn to perform full life-cycle software development, including requirements gathering, software design, implementation, testing and deployment.\n\nResponsibilities\n• Design, develop, test, implement and maintain enterprise applications to support business requirements.\n• Follow approved life cycle methodologies, create design documents, and perform program coding and automated testing.\n• Ensure technology solutions comply with technology standards.\n• Evaluate and recommend technical feasibility and effort estimates of proposed technology solutions.\n• Attend and participate in requirements review, design review, project status, defect tracking, and other project meetings as needed with stakeholders.\n• Provide technical assistance in resolving user reported problems.\n\nQualifications\n• Must be currently enrolled in school, working toward a Bachelor’s or Master’s degree.\n• No experience is required, however prior internship experience is a plus.\n• Understanding of software development platforms and languages (NodeJS, React, Python Java, etc.).\n• Understanding of Cloud-Based Solutions/Technologies (AWS or other). Familiarity with AWS developer environment including, but not limited to, Lambda, API Gateway, DynamoDB, S3, and CloudWatch.\n• Knowledge of modern application and infrastructure design patterns, including micro-services and containers, disposable, reactive, stateless, and distributed patterns.\n• Understanding of unit test automation. Exposure to test automation tools.\n• Understanding of Continuous Improvement/Delivery (CI/CD). Exposure to GIT/Gitlab, Jenkins, Sonar, and Jira is a plus.\n• Experience with relational databases.\n• Experience with cloud technologies. AWS experience is a plus.\n• Knowledge of Agile development process.\n• Exposure to AI tools and concepts such as LLM's, prompt engineering and spec driven development.\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI282034240",
+      "job_employment_type": "INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "airlines-reporting-software-engineer-intern-fairfax"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T15:05:11.670Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
