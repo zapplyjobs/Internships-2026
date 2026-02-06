@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-06T15:27:40.830Z",
+  "lastUpdated": "2026-02-06T15:48:30.216Z",
   "jobs": [
-    {
-      "id": "sri-international-research-intern-computational-design-menlo-park-2026-01-23-1",
-      "jobId": "sri-international-research-intern-computational-design-menlo-park",
-      "company": "SRI International",
-      "title": "Research Intern - Computational Design",
-      "postedToDiscord": "2026-01-23T15:44:36.874Z",
-      "sourceDate": "2026-01-23T15:11:08.000Z",
-      "sourceUrl": "https://careers-sri.icims.com/jobs/6316/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1464284696249630833",
-      "instanceNumber": 1
-    },
     {
       "id": "leidos-ai-ml-intern-remote-in-usa-2026-01-23-1",
       "jobId": "leidos-ai-ml-intern-remote-in-usa",
@@ -16346,12 +16335,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 711,
+    "totalJobs": 710,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-06T15:27:40.830Z",
-      "archived": 0
+      "date": "2026-02-06T15:48:30.216Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
