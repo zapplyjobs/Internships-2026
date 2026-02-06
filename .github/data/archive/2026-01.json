@@ -22845,5 +22845,38 @@
     "sourceUrl": "https://careers-sri.icims.com/jobs/6316/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1464284696249630833",
     "instanceNumber": 1
+  },
+  {
+    "id": "leidos-ai-ml-intern-remote-in-usa-2026-01-23-1",
+    "jobId": "leidos-ai-ml-intern-remote-in-usa",
+    "company": "Leidos",
+    "title": "AI/ML Intern",
+    "postedToDiscord": "2026-01-23T16:05:32.797Z",
+    "sourceDate": "2026-01-23T15:45:58.000Z",
+    "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Intern_R-00174260",
+    "discordThreadId": "1464289964257972317",
+    "instanceNumber": 1
+  },
+  {
+    "id": "amentum-software-programmer-intern-tullahoma-2026-01-23-1",
+    "jobId": "amentum-software-programmer-intern-tullahoma",
+    "company": "Amentum",
+    "title": "Software Programmer Intern",
+    "postedToDiscord": "2026-01-23T16:05:34.092Z",
+    "sourceDate": "2026-01-23T15:37:12.000Z",
+    "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0152408-1",
+    "discordThreadId": "1464289969723146403",
+    "instanceNumber": 1
+  },
+  {
+    "id": "ge-appliances-software-engineering-co-op-spring-2027-louisville-2026-01-23-1",
+    "jobId": "ge-appliances-software-engineering-co-op-spring-2027-louisville",
+    "company": "GE Appliances",
+    "title": "Software Engineering Co-op Spring 2027",
+    "postedToDiscord": "2026-01-23T16:05:35.433Z",
+    "sourceDate": "2026-01-23T15:29:42.000Z",
+    "sourceUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
+    "discordThreadId": "1464289975171547260",
+    "instanceNumber": 1
   }
 ]
