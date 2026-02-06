@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-2-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-3-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 2+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 2+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 3+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -72,7 +72,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (24 positions)</h3></summary>
+<summary><h3>🏥 <strong>Healthcare & Life Sciences</strong> (1 position)</h3></summary>
+
+#### 🏢 **Genentech** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| 2026 Summer Intern - Statistician and Data Scientist | South San Francisco, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102485/2026-Summer-Intern-Statistician-and-Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+<details>
+<summary><h3>🏢 <strong>Other Companies</strong> (26 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -95,6 +106,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **UMC Health System** | Graduate Nurse (GN)- Adult Critical Care Internship (7p-7a) | Albuquerque, New Mexico | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=96fdc5eb822c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **T-Mobile USA, Inc.** | Summer 2026 Software Engineering Intern | Bellevue, Washington | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/summer-2026-software-engineering-intern-t-mobile-usa-inc-JV_IC1150442_KO0,39_KE40,56.htm?jl=1010015588048&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Salesforce, Inc.** | Summer 2026 Intern - Software Engineer | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Spectrum** | 2026 Summer Intern: Data Science | Greenwood Village, Colorado | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SPECTRUM/Job/2026-Summer-Intern:-Data-Science/-in-Englewood,CO?jid=9e55b95270106104&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **VirtualVocations** | Data Science Intern 🏠 | Chandler, Arizona | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=98b147ea9044&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🚙 **Rivian** | Software Engineering - Summer 2026 Internships | Plymouth, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Rivian/Job/Software-Engineering-Summer-2026-Internships/-in-Plymouth,MI?jid=cb66317c498985c9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 16h |
 | 🏢 **Citadel Securities** | Software Engineer Intern | Miami, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern?id=2433780627&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **Avathon** | Data Scientist Intern | Pleasanton, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
@@ -158,22 +171,21 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 25 companies  
+- **📁 Total Positions**: 1 roles
+- **🏢 Companies**: 28 companies  
 - **⭐ FAANG+ Opportunities**: 0 positions
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (2 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Publicis Groupe Holdings B.V** | Intern, Data Science and Analytics | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.publicisgroupe.com/razorfish/jobs/136750?lang=en-us&previousLocale=en-US&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **KCI Technologies Inc.** | Transportation Engineering Intern | Harrisburg, Pennsylvania | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/KCI-Technologies-Inc./Job/Transportation-Engineering-Intern/-in-Harrisburg,PA?jid=97ee2b9cd88d8df9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **21CS** | Intern - Software Development | Oak Grove, North Carolina | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/intern-software-development-at-21cs-4365465175?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
 
@@ -187,7 +199,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2 current opportunities from 2 top companies.**
+**🎯 3 current opportunities from 3 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
