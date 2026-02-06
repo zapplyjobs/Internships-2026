@@ -63,9 +63,9 @@ jobs:
         # Database retention window (14 days to catch slow-updating sources)
         ACTIVE_WINDOW_DAYS: 14
         # Feature flag: Use tagged aggregator feed instead of direct JSearch API
-        # Set to 'true' to fetch from jobs-data-2026 tagged feed (Phase 2)
-        # Leave unset or 'false' to use direct JSearch API (Phase 1)
-        USE_AGGREGATOR: 'true'
+        # ABANDONED: Using individual JSearch per repo (2026-02-06)
+        # Aggregator complexity outweighs benefits - independence preferred
+        USE_AGGREGATOR: 'false'
 
     - name: Display job-fetcher logs (always run)
       if: always()
