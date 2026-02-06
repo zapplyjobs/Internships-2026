@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-06T07:59:00.992Z",
+  "lastUpdated": "2026-02-06T08:22:21.126Z",
   "jobs": [
-    {
-      "id": "national-renewable-energy-laboratory-undergraduate-graduate-intern-summer-cyber-mission-assurance-golden-2026-01-23-1",
-      "jobId": "national-renewable-energy-laboratory-undergraduate-graduate-intern-summer-cyber-mission-assurance-golden",
-      "company": "National Renewable Energy Laboratory",
-      "title": "Undergraduate/Graduate – Intern - Summer - Cyber Mission Assurance",
-      "postedToDiscord": "2026-01-23T08:03:51.067Z",
-      "sourceDate": "2026-01-23T07:32:05.000Z",
-      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Undergraduate-Graduate--Summer--Intern---Cyber-Mission-Assurance_R14131",
-      "discordThreadId": "1464168741611900990",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-boeing-company-drexel-internship-2026-engineering-chester-2026-01-23-1",
-      "jobId": "the-boeing-company-drexel-internship-2026-engineering-chester",
-      "company": "The Boeing Company",
-      "title": "Drexel Internship 2026 - Engineering",
-      "postedToDiscord": "2026-01-23T08:03:52.324Z",
-      "sourceDate": "2026-01-23T07:23:42.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Ridley-Park-PA/Drexel-Internship-2026---Engineering_JR2025462706",
-      "discordThreadId": "1464168747047850087",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-boeing-company-specialty-program-engineering-intern-program-seattle-2026-01-23-1",
-      "jobId": "the-boeing-company-specialty-program-engineering-intern-program-seattle",
-      "company": "The Boeing Company",
-      "title": "Specialty Program - Engineering Intern Program",
-      "postedToDiscord": "2026-01-23T08:03:53.816Z",
-      "sourceDate": "2026-01-23T07:23:33.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/XMLNAME-2026-Specialty-Program---MECOP---Engineering-Internship-Program_JR2026490913",
-      "discordThreadId": "1464168752370286606",
-      "instanceNumber": 1
-    },
     {
       "id": "sri-international-research-intern-computational-design-menlo-park-2026-01-23-1",
       "jobId": "sri-international-research-intern-computational-design-menlo-park",
@@ -16379,12 +16346,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 714,
+    "totalJobs": 711,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-06T07:59:00.992Z",
-      "archived": 0
+      "date": "2026-02-06T08:22:21.126Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
