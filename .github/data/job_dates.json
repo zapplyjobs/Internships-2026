@@ -32926,5 +32926,17 @@
     "job_title": "Software Engineer Intern",
     "company": "Airlines Reporting Corporation",
     "first_seen": "2026-02-06T15:05:11.641Z"
+  },
+  "oracle-undergrad-software-engineer-intern---database-technologies-lansing": {
+    "assigned_date": "2026-02-06T15:48:27.476Z",
+    "job_title": "Undergrad Software Engineer Intern - Database Technologies",
+    "company": "Oracle",
+    "first_seen": "2026-02-06T15:48:27.476Z"
+  },
+  "arm-intern,-design-engineer-san-jose": {
+    "assigned_date": "2026-02-06T15:48:27.476Z",
+    "job_title": "Intern, Design Engineer",
+    "company": "ARM",
+    "first_seen": "2026-02-06T15:48:27.476Z"
   }
 }

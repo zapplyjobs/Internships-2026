@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-4-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-5-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)  ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 4+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 4+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 5+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (49 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (51 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -153,6 +153,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Great American Insurance Company** | Data Science Intern, Great American Risk Solutions | Cincinnati, Ohio | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://simplify.jobs/p/3c413731-de31-457a-983a-02b18a56f901/Data-Science-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Humana** | Home Health Nursing Internship | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-dc-columbia-home-health-nursing-internship-washington-humana-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Fairfax, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Oracle** | Undergrad Software Engineer Intern - Database Technologies | Lansing, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1189903072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 💪 **ARM** | Intern, Design Engineer | San Jose, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.arm.com/job/san-jose/intern-design-engineer/33099/91222160640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🚙 **Rivian** | Software Engineering - Summer 2026 Internships | Plymouth, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Rivian/Job/Software-Engineering-Summer-2026-Internships/-in-Plymouth,MI?jid=cb66317c498985c9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 17h |
 | 🏢 **Citadel Securities** | Software Engineer Intern | Miami, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern?id=2433780627&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **Avathon** | Data Scientist Intern | Pleasanton, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
@@ -216,7 +218,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4 current opportunities from 4 top companies.**
+**🎯 5 current opportunities from 5 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
