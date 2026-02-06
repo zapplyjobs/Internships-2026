@@ -669,6 +669,34 @@
     "id": "virtualvocations-data-science-intern-chandler"
   },
   {
+    "job_id": "js-dynatrace-t7yp2ymlxu5sapboaaaaaa==",
+    "job_title": "Sales Analytics Intern",
+    "employer_name": "Dynatrace",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "Unknown",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.builtinboston.com/job/sales-analytics-intern/8353691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+    "job_description": "Overview\n\nDynatrace is seeking someone with a Business, Analytics, or Data Science degree track to join our Global Sales Operations Analytics team. On this team you will work with a variety of data tools, partner with a variety of business teams, learn the basics of SaaS sales, and more importantly, have fun. This is a full-time, paid internship.\nYour role at Dynatrace\n\n• Work with the Sales Operations team and other teams cross-functionally\n• Develop partnerships with colleagues inside and outside of the Sales organization\n• Learn and understand the sales process for a Software as a Service (SaaS) product\n• Work with Salesforce, SQL, Power BI, Snowflake, Excel, and other business tools\n• Develop KPIs, identify business process challenges, and provide recommendations\n• Build data models for visualization, prediction, classification, etc\n• Support with various tasks including content creation for sales training, onboarding, and reporting\nWhat will help you succeed\n\nMinimum Requirements:\n\n• Education: Currently working towards a Bachelor's or Master’s degree in Business, Marketing, Sales, Analytics, Dat Science or similar field of study\n• Local to Boston, MA and able to come to the office up to 4 days per week\n\nPreferred Requirements:\n\n• Work experience: 0-1 Years.\n• Considering a career in sales, business, or data\n• Proficient in all Microsoft suite applications with a focus on Microsoft Excel\n• Curiosity, passion, integrity, and outstanding attention to detail in professional and personal pursuits\n• Excellent written and verbal communication skills\n• Ability to work individually and in a team environment\n• Bonus points for experience with SQL, Power BI, R, or Python\nWhy you will love being a Dynatracer\n• Dynatrace is a leader in unified observability and security.\n• We provide a culture of excellence with competitive compensation packages designed to recognize and reward performance.\n• Our employees work with the largest cloud providers, including AWS, Microsoft, and Google Cloud, and other leading partners worldwide to create strategic alliances.\n• The Dynatrace platform uses cutting-edge technologies, including our own Davis hypermodal AI, to help our customers modernize and automate cloud operations, deliver software faster and more securely, and enable flawless digital experiences.\n• Over 50% of the Fortune 100 companies are current customers of Dynatrace.\nCompensation and Rewards\n• Hourly pay rate: $26/hour\n• Full-time: 40 hours/week\n• 10 Weeks: June 8th – August 14th\n• Hybrid: 4 days/week in our Boston, MA Office and work-from-home on Fridays\n• Application Deadline: February 16, 2026",
+    "job_employment_type": "INTERNSHIP",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "remote"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "dynatrace-sales-analytics-intern-remote"
+  },
+  {
     "job_title": "Software Engineering - Summer 2026 Internships",
     "employer_name": "Rivian",
     "job_city": "Plymouth",
