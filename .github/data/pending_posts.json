@@ -3429,5 +3429,76 @@
     "addedAt": "2026-02-06T06:04:51.064Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-lockheed-martin-qagnnyt9qp1tiehiaaaaaa==",
+      "job_title": "Software Engineer (Flight Controls & Autonomy) - Intern",
+      "employer_name": "Lockheed Martin",
+      "job_city": "Stratford",
+      "job_state": "Connecticut",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.lockheedmartinjobs.com/job/stratford/software-engineer-flight-controls-and-autonomy-intern/694/91416265024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+      "job_description": "Description:By bringing together people that use their passion for purposeful innovation, at Lockheed Martin we keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work. With our employees as our priority, we provide diverse career opportunities designed to propel development and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. At Lockheed Martin, we place an emphasis on empowering our employees by fostering innovation, integrity, and exemplifying the epitome of corporate responsibility. Your Mission is Ours.\n\nThe Flight Controls and Autonomy team is currently seeking highly motivated technology pioneers with a desire to steer and lead the Autonomy industry. Successful candidates must be willing and able to work on highly complex challenging problems, leading to world-changing technological breakthroughs.\n\nTeam’s technical areas of emphasis include Fly-By-Wire Flight Control Systems, Guidance/Navigation & Control (GNC), Flight Test, Autonomy, Aviation Robotics, Perception, AI and Motion Planning.\n\nThe Autonomy Software Engineering Intern will work closely with autonomy team to design, analyze, implement and test software algorithms and systems enabling optionally-piloted rotorcraft flight capable of navigating to specific goal points while avoiding obstacles, evaluating terrain for safe landing zones, building contingency plans, and performing continuous surveillance. The primary technology focus areas will be perception, planning, and system infrastructure. The engineer will work in a fast pace development environment while additionally developing plans to mature and transition systems to real-time, embedded environments. Must be a US Citizen.\nBasic Qualifications:\nPursuing a B.S. in Computer Science, Computer, Software or Electrical Engineering, or equivalent field\n\nRobotics Experience: Academic or extracurricular experience with robotics, including sensor integration or robot functionality programming.\n\nProgramming Proficiency: in Python and C++ is highly desired, with experience in Object-Oriented Design and Systems Programming.\n\nEmbedded & Systems Knowledge: Familiarity with Assembly, memory management, or containerization tools (e.g., Docker, Virtual Machines).\n\nDevelopment Tools: Proficiency with version control workflows using Git, GitHub, or GitLab.\nDesired Skills:\nAI/ML Frameworks: Experience with machine learning libraries and frameworks, such as TensorFlow, PyTorch, or similar tools.\n\nData Structures: Strong understanding of algorithms and data structures (e.g., sorting, trees, lists) for efficient software performance.\nClearance Level: None\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nJoin us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.\n\nAs a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.\nExperience Level: Co-op/Summer Intern\nBusiness Unit: RMS\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Call-In\nShift: First",
+      "job_employment_type": "FULL-TIME AND INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "lockheed-martin-software-engineer-flight-controls-autonomy-intern-stratford"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T07:33:35.418Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-nex-lw3xjzo8w0awxqcsaaaaaa==",
+      "job_title": "Summer 2026 Software Engineer Intern (Game Development)",
+      "employer_name": "Nex",
+      "job_city": "San Jose",
+      "job_state": "California",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.builtinsf.com/job/summer-2026-software-engineer-intern-game-development/8119805?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+      "job_description": "Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and adults to move more, play more, and have fun together. Nex Playground, the company’s award-winning active play system, is purpose-built to get families moving year-round, with safety and privacy as core considerations in its intentional design. It is certified kidSAFE+ COPPA compliant and built to support healthy, active play for all ages and abilities.\n\nNex Playground features a growing library of 50+ experiences, including motion and dance games, fitness and educational experiences, and Nex Originals. Content includes collaborations with partners like Hasbro, Sesame Workshop, and NBCUniversal. Nex has been recognized by Fast Company’s Most Innovative Companies, TIME’s Best Inventions, and Parents’ Best Entertainment System for Families, and has earned Red Dot, IDEA, and Core77 international design awards. We encourage you to explore Have Fun and Is Motion Gaming Back?, as they offer a deeper look into our culture, values, and explain how our approach to motion gaming differs from previous generations.\n\nThe Role\n\nLocation: San Jose, California (Hybrid)\nSalary: USD 30 - USD 40 per hour\nType: Full Time Internship (June 1, 2026 - August 31, 2026)\n\nAs our Software Engineer Intern (Game Development), you will be at the forefront of shaping the future of interactive physical gaming. You'll play a key role in realizing Nex’s bold vision - “Create the best motion games for hundreds of millions of people to play on” - by collaborating with talented engineers, artists, and designers to push creative boundaries on Nex Playground. Our engineering-driven culture, which values ownership and curiosity, provides the ideal environment to thrive while helping build our diverse library of games, from sports and fitness to music and party titles.\nWhat You Will Bring to the Table\n• Craft high-quality, physically active gameplay experiences using our proprietary motion engine.\n• Contribute directly to production games, iterating on features to continuously improve the player experience.\n• Brainstorm and prototype on new game ideas by collaborating closely with designers and fellow engineers.\n• Participate in knowledge sharing, playtesting, technical discussions and code reviews.\nShould Have\n• Solid foundation in software development.\n• Strong communication and collaboration skills.\n• A passion for games and a curiosity for what makes them fun.\n• Excited to work in a fast paced environment.\n• Ready to face new challenges and opportunities.\nNice To Have\n• Experience working with Unity.\n• Love being active and healthy. Passionate about helping others do the same.\n\nWe Offer\n• Competitive compensation package.\n• Flexible working hours and vacation policy.\n• Product-driven culture that treasures talents and individual growth.\n• Front-row seat and hands-on experience with cutting edge technologies in the evolving gaming field\n\nNex is located in San Jose, California, USA and Hong Kong. Learn more about us at nex.inc/who-we-are.\nWe encourage applications even if you don’t meet more than 50% of the requirements — we believe that experience comes in many forms!",
+      "job_employment_type": "INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "software",
+          "product"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "nex-summer-2026-software-engineer-intern-game-development-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T07:33:35.418Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
