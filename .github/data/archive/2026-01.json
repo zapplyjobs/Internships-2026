@@ -22691,5 +22691,115 @@
     "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Acquisition-and-Analysis-Undergraduate-Intern_R014428",
     "discordThreadId": "1464121424800120959",
     "instanceNumber": 1
+  },
+  {
+    "id": "jabil-data-engineer-intern-tampa-2026-01-23-1",
+    "jobId": "jabil-data-engineer-intern-tampa",
+    "company": "Jabil",
+    "title": "Data Engineer Intern",
+    "postedToDiscord": "2026-01-23T05:07:49.696Z",
+    "sourceDate": "2026-01-22T23:33:22.000Z",
+    "sourceUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineer-Intern_J2436717",
+    "discordThreadId": "1464124444284031099",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cae-software-engineering-intern-co-op-arlington-2026-01-23-1",
+    "jobId": "cae-software-engineering-intern-co-op-arlington",
+    "company": "CAE",
+    "title": "Software Engineering Intern/Co-op",
+    "postedToDiscord": "2026-01-23T05:07:50.850Z",
+    "sourceDate": "2026-01-22T23:30:52.000Z",
+    "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Georgia-Tech---Software-Engineering-Co-op_120150",
+    "discordThreadId": "1464124449119801364",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cae-engineering-intern-co-op-arlington-2026-01-23-1",
+    "jobId": "cae-engineering-intern-co-op-arlington",
+    "company": "CAE",
+    "title": "Engineering Intern/Co-op",
+    "postedToDiscord": "2026-01-23T05:07:52.011Z",
+    "sourceDate": "2026-01-22T23:30:49.000Z",
+    "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/University-of-Texas-at-Arlington---Engineering-Co-op_120146",
+    "discordThreadId": "1464124453620551734",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cae-engineering-intern-co-op-tampa-2026-01-23-1",
+    "jobId": "cae-engineering-intern-co-op-tampa",
+    "company": "CAE",
+    "title": "Engineering Intern/Co-op",
+    "postedToDiscord": "2026-01-23T05:07:52.024Z",
+    "sourceDate": "2026-01-22T23:30:49.000Z",
+    "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-South-Florida---Engineering-Co-op_120147",
+    "discordThreadId": "1464124453620551734",
+    "instanceNumber": 1
+  },
+  {
+    "id": "rubrik-frontend-engineering-intern-palo-alto-2026-01-23-1",
+    "jobId": "rubrik-frontend-engineering-intern-palo-alto",
+    "company": "Rubrik",
+    "title": "Frontend Engineering Intern",
+    "postedToDiscord": "2026-01-23T05:07:53.270Z",
+    "sourceDate": "2026-01-22T23:29:34.000Z",
+    "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.7071669?gh_jid=7071669",
+    "discordThreadId": "1464124459035131915",
+    "instanceNumber": 1
+  },
+  {
+    "id": "sierra-nevada-data-science-intern-cherry-hills-village-2026-01-23-1",
+    "jobId": "sierra-nevada-data-science-intern-cherry-hills-village",
+    "company": "Sierra Nevada Corporation",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2026-01-23T05:07:54.431Z",
+    "sourceDate": "2026-01-22T23:29:21.000Z",
+    "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Englewood-CO/Data-Science-Intern---Summer-2026_R0028303",
+    "discordThreadId": "1464124464026615973",
+    "instanceNumber": 1
+  },
+  {
+    "id": "t-mobile-data-engineering-intern-frisco-2026-01-23-1",
+    "jobId": "t-mobile-data-engineering-intern-frisco",
+    "company": "T-Mobile",
+    "title": "Data Engineering Intern",
+    "postedToDiscord": "2026-01-23T05:07:55.590Z",
+    "sourceDate": "2026-01-22T23:26:59.000Z",
+    "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Data-Engineering-Internship_REQ341082",
+    "discordThreadId": "1464124468573241409",
+    "instanceNumber": 1
+  },
+  {
+    "id": "legend-biotech-manufacturing-automation-intern-somerset-county-2026-01-23-1",
+    "jobId": "legend-biotech-manufacturing-automation-intern-somerset-county",
+    "company": "Legend Biotech",
+    "title": "Manufacturing Automation Intern",
+    "postedToDiscord": "2026-01-23T05:07:56.774Z",
+    "sourceDate": "2026-01-22T23:26:17.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/legendcareers/jobs/4652556005",
+    "discordThreadId": "1464124473841291274",
+    "instanceNumber": 1
+  },
+  {
+    "id": "flock-safety-software-engineer-intern-atlanta-2026-01-23-1",
+    "jobId": "flock-safety-software-engineer-intern-atlanta",
+    "company": "Flock Safety",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2026-01-23T05:19:25.739Z",
+    "sourceDate": "2026-01-23T02:17:56.000Z",
+    "sourceUrl": "https://jobs.ashbyhq.com/Flock%20Safety/28210ab6-8de5-43ff-880f-0aaa61bfa455/application",
+    "discordThreadId": "1464127363330736259",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genentech-intern-product-development-data-sciences-san-bruno-2026-01-23-1",
+    "jobId": "genentech-intern-product-development-data-sciences-san-bruno",
+    "company": "Genentech",
+    "title": "Intern - Product Development Data Sciences",
+    "postedToDiscord": "2026-01-23T05:19:26.899Z",
+    "sourceDate": "2026-01-23T02:15:24.000Z",
+    "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences_202601-101259",
+    "discordThreadId": "1464127368531808351",
+    "instanceNumber": 1
   }
 ]
