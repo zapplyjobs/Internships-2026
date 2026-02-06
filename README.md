@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (62 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (63 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -157,6 +157,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Fairfax, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Oracle** | Undergrad Software Engineer Intern - Database Technologies | Lansing, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1189903072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Oracle** | Java Software Engineer Intern - Oracle Health & Analytics - Full-time | Salt Lake City, Utah | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1189894733?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Oracle** | Java Software Engineer Intern - Oracle Health & Analytics | Pierre, South Dakota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://usnlx.com/pierre-sd/java-software-engineer-intern-oracle-health-analytics/8E16CBBCBB3D49FA8AA6C4E3B0CCDD85/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 💪 **ARM** | Intern, Design Engineer | San Jose, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.arm.com/job/san-jose/intern-design-engineer/33099/91222160640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Axtria, Inc.** | 2026 Summer Internship | Berkeley Heights, New Jersey | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://axtriainc.applytojob.com/apply/kJzm3YiW0j/2026-Summer-Internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Samsung Electronics Co., Ltd.** | Data Analyst & System Support Internship | Plano, Texas | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Samsung-Electronics/Job/Data-Analyst-&-System-Support-Internship/-in-Plano,TX?jid=1e4928d56fd855fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
