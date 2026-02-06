@@ -3080,5 +3080,110 @@
     "addedAt": "2026-02-05T23:39:28.296Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-genentech-abw4-rkcnrye-bjkaaaaaa==",
+      "job_title": "2026 Summer Intern - Statistician and Data Scientist",
+      "employer_name": "Genentech",
+      "job_city": "South San Francisco",
+      "job_state": "California",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://careers.gene.com/us/en/job/202601-102485/2026-Summer-Intern-Statistician-and-Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+      "job_description": "The Position\n\n2026 Summer Intern - Statistician and Data Scientist\n\nDepartment Summary\n\nAt Roche/Genentech, we thrive to deliver more benefits to our patients as part of our 10-year Pharma vision. An integral part of achieving this vision is to deliver new and innovative data analytics solutions to our scientists across Pharma Technical Operations (PT). PT Digital and Operational Excellence (PTE) is the organization that catalyzes the global development and execution of PT’s Digital and Operational Excellence strategy to enable PT to realize our performance promises. We build a strong cross-functional and inclusive community, put the power of data into the hands of our people, further develop the Lean and Digital skills across PT, and scale up our Digital and Advanced Analytics solutions, for the benefit of our colleagues and patients.\n\nWe aim to activate data citizenship and digital mind, revolutionize our FAIR data ecosystem and systems landscape, re-design excellent processes, and generate transformative insights. We collaborate closely with global functions to deliver impactful value to our patients.\n\nThis internship position is located in South San Francisco, on-site.\n\nThe Opportunity\n• Provide statistical expertise and develop data science solutions to Pharma technical operations, including process development, analytical method development, commercial manufacturing and quality control.\n• Collaborate with cross-functional teams to identify key scientific and operational questions and define analytical approaches.\n• Undertake research using scientific approaches and state-of-art methodologies, including machine learning and AI, to analyze complex datasets.\n• Interpret results and communicate insights clearly, translating findings into actionable business and scientific recommendations.\n• Develop software programs, algorithms, and automated processes to cleanse, integrate, and evaluate large datasets from multiple disparate sources.\n\nProgram Highlights\n• Intensive 12-weeks, full-time (40 hours per week) paid internship.\n• Program start dates are in May/June (Summer).\n• A stipend, based on location, will be provided to help alleviate costs associated with the internship.\n• Ownership of challenging and impactful business-critical projects.\n• Work with some of the most talented people in the biotechnology industry.\n\nWho You Are\n\nRequired Education: You meet one of the following criteria:\n• Must be pursuing a Bachelor's Degree (enrolled student).\n• Must have attained a Bachelor's Degree (not currently enrolled in a graduate program).\n• Must be pursuing a Master's Degree (enrolled student).\n• Must have attained a Master's Degree.\n• Must be pursuing a PhD (enrolled student).\n\nRequired Majors:\n• Statistics, Biostatistics, data science, and related fields.\n\nRequired Skills:\n• Expertise and Experience: Solid experience in statistical modeling, machine learning, AI, uncertainty quantification, and applying statistical methods to pharmaceutical technical development and manufacturing. Hands-on proficiency with statistical techniques (e.g., linear models) and tools such as R or Python.\n• Collaborative Skills: strong collaborative skills for working in multidisciplinary teams, and great communication skills for reporting and stakeholder liaison.\n• Problem-Solving and Project Management: Solid analytical and problem-solving skills, ability to manage multiple projects, and high attention to detail to ensure accuracy and reliability.\n• Continuous Improvement and Learning: Self-motivated, able to work independently, keen on staying updated with new developments in statistics and data science, and passionate about continuous improvement and learning.\n\nPreferred Knowledge, Skills, and Qualifications\n• Excellent communication, collaboration, and interpersonal skills.\n• Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.\n\nRelocation benefits are not available for this job posting.\n\nThe expected salary range for this position based on the primary location of California is $45.00 -$50.00 per hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.\n\nGenentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.\n\nIf you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "data_science"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "no_experience",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "genentech-2026-summer-intern-statistician-and-data-scientist-south-san-francisco"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T00:52:08.849Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-spectrum-jj4k1zoumvfwy0ciaaaaaa==",
+      "job_title": "2026 Summer Intern: Data Science",
+      "employer_name": "Spectrum",
+      "job_city": "Greenwood Village",
+      "job_state": "Colorado",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.ziprecruiter.com/c/SPECTRUM/Job/2026-Summer-Intern:-Data-Science/-in-Englewood,CO?jid=9e55b95270106104&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+      "job_description": "This role requires the ability to work lawfully in the U.S. without employment-based immigration sponsorship, now or in the future.\n\nAt a Glance\n• You’re a motivated rising senior student with a 3.0 GPA or higher seeking a degree in one of the following areas listed below from an accredited college or university:\n• Computer Science, Data Science, Information Technology, Quantum Engineering Software\n• This is a full-time, 10-week program designed to give you real-world experience working within the telecommunications industry in your field of choice.\n• Internship program runs from May 27 through July 31, 2026.\n• In addition to the role-based projects you’ll work on, you’ll also participate in professional development sessions, networking opportunities, and have access to a mentor.\n\nThe Spectrum Internship Experience\nYou’ll join one of our departments for the summer, where you’ll contribute to meaningful projects that give you insight into what it’s like to work at a leading connectivity company. You’ll have access to:\n• Opportunities to gain new skills and elevate the ones you already have, all in a robust and forward-thinking business setting.\n• Build connections with our team members and senior leaders who can help you better understand what our business looks like and what it’s like to work here.\n• Receive mentorship from a member of our team, who can provide one-on-one advice to help you reach your professional goals.\n\nWhat you can expect in this role\n\nAs a Spectrum intern, you’ll spend the summer working alongside two teams — your respective department and your intern peer group. Department and team-focused projects account for about 80% of your schedule. You’ll spend the other 20% on professional development sessions and networking activities, including the Kickoff Conference on May 27th, webinars, community service, cross-functional projects, and final presentations.\n\nInternship responsibilities may include\n• Python (or similar language) and relevant data libraries (pandas, scikit, NumPy, etc.)\n• Big Data Tools (S3, Big Query, etc.)\n• Data preparation for AI\n• Developing Basic Statistical Models\n\nRequired qualifications\n• Must be currently enrolled in an accredited College or University graduating with a bachelor’s degree between December 2026 - May 2027\n• Must have at least a 3.0 GPA or greater in current program\n• Ability to travel locally to Spectrum intern development events and activities throughout the program\n• Authorization to work in the U.S. without restrictions or need for future sponsorship\n\nPreferred qualifications\n• Data Handling & Processing\n• Machine Learning Basics\n• AI/LLM Concepts\n• Software Development\n• Cloud Concepts\n• Big Data Concepts\n\n#LI-AC2\nGGN100 2026-68943 2026\n\nHere, our employees don't just have jobs, they're building careers. That's why we offer a comprehensive pay and benefits package that rewards employees for their contributions to our success, supporting all aspects of their well-being at every stage of life.\n\nA qualified applicant's criminal history, if any, will be considered in a manner consistent with applicable laws, including local ordinances.\n\nThis job posting will remain open until 2026-02-10 07:00 AM (UTC) and will be extended if necessary.\n\nThe base pay for this position generally is between $00 and $00. The actual compensation offered will carefully consider a wide range of factors, including your skills, qualifications, experience, and location. We comply with local wage minimums and also, certain positions are eligible for additional forms of other incentive-based compensation such as bonuses.\n\nGet to Know Us Charter Communications provides superior communication and entertainment products for residential and business customers through the Spectrum brand. Our offerings include Spectrum Internet, TV, Mobile and Voice. Beyond our connectivity solutions, we also provide local news, programming and regional sports via Spectrum Networks and multiscreen advertising solutions via Spectrum Reach. When you join our team, you'll be keeping our customers connected to what matters most in 41 states across the U.S. Watch this video to learn more.\nGrow Your Career Here We're committed to growing a workforce that reflects the customers and communities we serve - providing opportunities for employment and advancement to all team members. Spectrum is an Equal Opportunity Employer, including job seekers with disabilities and veterans. Learn about Life at Spectrum.Qualifications:\n\nRequired qualifications\n• Must be currently enrolled in an accredited College or University graduating with a bachelor’s degree between December 2026 - May 2027\n• Must have at least a 3.0 GPA or greater in current program\n• Ability to travel locally to Spectrum intern development events and activities throughout the program\n• Authorization to work in the U.S. without restrictions or need for future sponsorship\n\nPreferred qualifications\n• Data Handling & Processing\n• Machine Learning Basics\n• AI/LLM Concepts\n• Software Development\n• Cloud Concepts\n• Big Data Concepts\nEmployment Type: Intern",
+      "job_employment_type": "FULL-TIME AND INTERNSHIP",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "general"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "spectrum-2026-summer-intern-data-science-greenwood-village"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T00:52:08.849Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_id": "js-virtualvocations-ghmiubj-e6oyozpcaaaaaa==",
+      "job_title": "Data Science Intern",
+      "employer_name": "VirtualVocations",
+      "job_city": "Chandler",
+      "job_state": "Arizona",
+      "job_country": "United States",
+      "job_is_remote": false,
+      "job_apply_link": "https://www.talent.com/view?id=98b147ea9044&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+      "job_description": "A company is looking for a Data Science Intern to work remotely in the Clinical and Population Health Analytics department.\n\nKey Responsibilities\n\nAssist in the development, implementation, and refinement of predictive models and machine learning algorithms\n\nClean, transform, and wrangle large-scale, heterogeneous datasets\n\nConduct exploratory data analysis (EDA) to identify trends, anomalies, and insights relevant to healthcare operations and clinical quality\n\nRequired Qualifications\n\nCurrently enrolled in a Bachelor's, Master's, or Ph.D. program in a quantitative field such as Data Science, Computer Science, or related discipline\n\nStrong foundational knowledge of statistical analysis, probability, and machine learning concepts\n\nProficiency in at least one major programming language for data analysis (e.g., Python or R)\n\nExperience with common data science libraries (e.g., Pandas, NumPy, Scikit-learn)\n\nFamiliarity with SQL and relational databases",
+      "job_employment_type": "FULL-TIME",
+      "_tags": {
+        "employment": "internship",
+        "domains": [
+          "general"
+        ],
+        "locations": [
+          "us",
+          "on_site"
+        ],
+        "experience": "3_plus_years",
+        "special": []
+      },
+      "_source": "aggregator",
+      "_original_source": "jsearch",
+      "job_posted_at": "1h",
+      "id": "virtualvocations-data-science-intern-chandler"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-06T00:52:08.849Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
