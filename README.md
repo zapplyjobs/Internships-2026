@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (56 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (57 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -151,6 +151,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **OPUS IVS Inc** | Software Engineer Intern | Michigan Center, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern?id=2432943458&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **SeatGeek** | Software Engineer - Internship | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SeatGeek/Job/Software-Engineer-Internship/-in-New-York,NY?jid=41976577c9bee85a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Christus Health** | Nurse Extern I - Nursing Internship - PRN (71037) | Bodcau, Louisiana | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=3c37379d69d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Christus Health** | Nurse Extern I-Nursing Internship-PRN (71067) | Fillmore, Louisiana | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=752a5e1fe25a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Great American Insurance Company** | Data Science Intern, Great American Risk Solutions | Cincinnati, Ohio | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://simplify.jobs/p/3c413731-de31-457a-983a-02b18a56f901/Data-Science-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Humana** | Home Health Nursing Internship | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-dc-columbia-home-health-nursing-internship-washington-humana-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Fairfax, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -218,36 +219,6 @@ Add new jobs to our listings keeping in mind the following:
 Our team reviews within 24-48 hours and approved jobs are added to the main list!
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
-
-
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 3 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 3 roles
-- **🏢 Companies**: 53 companies  
-- **⭐ FAANG+ Opportunities**: 0 positions
-
-<details>
-<summary><h3>🏢 <strong>Other Companies</strong> (3 positions)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Raytheon Technologies** | Software Engineering Intern Summer 2026 Onsite 🏠 | Burnsville, Minnesota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-mn-burnsville-software-engineering-intern-summer-2026-onsite-raytheon-plgm8tv?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **Ardian** | Data Scientist Intern | New York, New York | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinnyc.com/job/data-scientist-intern/7557569?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **UnitedHealth Group** | Nurse Intern - OptumRx Infusion at UnitedHealth Group Reston, VA | Reston, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://rhinehartfire.com/joblib/job/nurse-intern-optumrx-infusion-at-unitedhealth-group-reston-va-bDJmTzhmZEV1ZTFtQzhpUjVCcEtNbmI5T1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-</details>
-
-
-
-</details>
-
----
 
 
 

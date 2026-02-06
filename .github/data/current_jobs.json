@@ -1539,6 +1539,35 @@
     "id": "state-of-florida-data-science-internship-madison"
   },
   {
+    "job_id": "js-christus-health-ipvkyyp7rfiwxstwaaaaaa==",
+    "job_title": "Nurse Extern I-Nursing Internship-PRN (71067)",
+    "employer_name": "Christus Health",
+    "job_city": "Fillmore",
+    "job_state": "Louisiana",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=752a5e1fe25a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-05T23:00:00.000Z",
+    "job_description": "Description Summary : A currently enrolled nursing student providing a wide variety of services to the customer under the direct supervision of Nursing. Requirements : Currently enrolled in a RN degree program, with a minimum GPA of 2.5 (must provide unofficial transcript). Must not be on academic probation and in good standing with current nursing program. Must provide letter of recommendation from a nursing instructor. Must submit a 500-word essay identifying why they chose the field of nursing and how they apply the CHRISTUS Core Values to their individual practice. Must have successfully completed both a \"Fundamentals of Nursing\" and at least one first-level Medical-Surgical course. AHA BLS certification required. Work Schedule : PRN Work Type : Per Diem As Needed",
+    "job_employment_type": "FULL-TIME",
+    "_tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "3_plus_years",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "1h",
+    "id": "christus-health-nurse-extern-i-nursing-internship-prn-71067-fillmore"
+  },
+  {
     "job_title": "Software Engineering - Summer 2026 Internships",
     "employer_name": "Rivian",
     "job_city": "Plymouth",
