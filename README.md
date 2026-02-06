@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (46 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (47 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -113,6 +113,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Sirius XM** | Summer Intern, Software Engineering - Innovation Group | Trenton, New Jersey | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.siriusxm.com/careers/jobs/17230?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Brinks Home** | Software Engineer Intern | Lake Dallas, Texas | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/lake-dallas-tx/software-engineer-intern-019678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Blue Cross and Blue Shield of Minnesota** | Intern - Enterprise Data Analyst 🏠 | Mendota Heights, Minnesota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/mendota-heights-mn/intern-enterprise-data-analyst-440217/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Blue Cross and Blue Shield of Minnesota** | Intern - Enterprise Data Analyst 🏠 | Inver Grove Heights, Minnesota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/inver-grove-heights-mn/intern-enterprise-data-analyst-488993/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **UnitedHealthcare** | Nurse Intern 🏠 | Minnetonka, Minnesota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/5aa148a77da818126115d34183d18667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **beBeeHealthcare** | nursing internship program: healthcare settings | Charleston, West Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-wv-charleston-nursing-internship-program-healthcare-settings-bebeehealthcare?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **LPL Financial** | Internship Summer 2026 - Technology, Data & Analytics | Fort Mill, South Carolina | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.lpl.com/job/R-046202/Internship-Summer-2026-Technology-Data-Analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
