@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-06T23:39:53.393Z",
+  "lastUpdated": "2026-02-06T23:52:18.374Z",
   "jobs": [
-    {
-      "id": "sherwin-williams-data-engineering-business-intelligence-co-op-cleveland-2026-01-23-1",
-      "jobId": "sherwin-williams-data-engineering-business-intelligence-co-op-cleveland",
-      "company": "Sherwin-Williams",
-      "title": "Data Engineering & Business Intelligence Co-Op",
-      "postedToDiscord": "2026-01-23T23:40:05.261Z",
-      "sourceDate": "2026-01-23T23:17:58.000Z",
-      "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2602009",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "american-bureau-of-shipping-digital-intern-houston-2026-01-23-1",
-      "jobId": "american-bureau-of-shipping-digital-intern-houston",
-      "company": "American Bureau of Shipping",
-      "title": "Digital Intern",
-      "postedToDiscord": "2026-01-23T23:40:06.912Z",
-      "sourceDate": "2026-01-23T23:05:35.000Z",
-      "sourceUrl": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3990",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "jmp-statistical-discovery-2026-jmp-summer-intern-advanced-analytics-testing-morrisville-2026-01-23-1",
-      "jobId": "jmp-statistical-discovery-2026-jmp-summer-intern-advanced-analytics-testing-morrisville",
-      "company": "JMP Statistical Discovery",
-      "title": "2026 JMP Summer Intern; Advanced Analytics Testing",
-      "postedToDiscord": "2026-01-23T23:40:14.903Z",
-      "sourceDate": "2026-01-23T23:11:00.000Z",
-      "sourceUrl": "https://jmp-sas.icims.com/jobs/41235/job?mobile=true&needsRedirect=false",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "vystar-credit-union-intern-advance-analytics-jacksonville-2026-01-24-1",
       "jobId": "vystar-credit-union-intern-advance-analytics-jacksonville",
@@ -16302,12 +16269,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 707,
+    "totalJobs": 704,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-06T23:39:53.393Z",
-      "archived": 0
+      "date": "2026-02-06T23:52:18.374Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
