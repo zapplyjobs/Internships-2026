@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-07T03:33:30.172Z",
+  "lastUpdated": "2026-02-07T04:20:47.222Z",
   "jobs": [
     {
       "id": "nuro-systems-engineering-intern-compliance-coverage-ml-mountain-view-2026-01-24-1",
@@ -15976,9 +15976,8 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-07T03:33:30.172Z",
-      "archived": 5,
-      "monthsAffected": 1
+      "date": "2026-02-07T04:20:47.222Z",
+      "archived": 0
     }
   }
 }
