@@ -226,7 +226,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Boeing** | Boeing Summer 2026 Internship Program (Paid) - Engineering | Colorado Springs, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Boeing/Job/Boeing-Summer-2026-Internship-Program-(Paid)-Engineering/-in-Colorado-Springs,CO?jid=95f918d77b4a5f89&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 4h |
+| 🏢 **Boeing** | Boeing Summer 2026 Internship Program (Paid) - Engineering | Colorado Springs, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Boeing/Job/Boeing-Summer-2026-Internship-Program-(Paid)-Engineering/-in-Colorado-Springs,CO?jid=95f918d77b4a5f89&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 5h |
 
 </details>
 
