@@ -23054,5 +23054,71 @@
     "sourceUrl": "https://external-telecom-teldta.icims.com/jobs/28618/job?mobile=true&needsRedirect=false",
     "discordThreadId": null,
     "instanceNumber": 1
+  },
+  {
+    "id": "jones-lang-lasalle-jll-data-analytics-intern-chicago-2026-01-24-1",
+    "jobId": "jones-lang-lasalle-jll-data-analytics-intern-chicago",
+    "company": "Jones Lang LaSalle (JLL)",
+    "title": "Data Analytics Intern",
+    "postedToDiscord": "2026-01-24T01:17:58.014Z",
+    "sourceDate": "2026-01-23T23:56:00.000Z",
+    "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Data-Analytics-Intern-2026---Chicago_REQ481597",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "kbr-graduate-student-intern-data-science-remote-sensing-sioux-falls-2026-01-24-1",
+    "jobId": "kbr-graduate-student-intern-data-science-remote-sensing-sioux-falls",
+    "company": "KBR",
+    "title": "Graduate Student Intern - Data Science & Remote Sensing",
+    "postedToDiscord": "2026-01-24T01:18:01.510Z",
+    "sourceDate": "2026-01-23T23:51:06.000Z",
+    "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Graduate-Student-Intern---Data-Science---Remote-Sensing_R2118003",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "thomson-reuters-data-science-intern-mclean-2026-01-24-1",
+    "jobId": "thomson-reuters-data-science-intern-mclean",
+    "company": "Thomson Reuters",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2026-01-24T01:18:05.141Z",
+    "sourceDate": "2026-01-23T23:49:39.000Z",
+    "sourceUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Science-Intern_JREQ197838",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "zoom-software-engineer-intern-san-jose-2026-01-24-1",
+    "jobId": "zoom-software-engineer-intern-san-jose",
+    "company": "Zoom",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2026-01-24T01:18:06.895Z",
+    "sourceDate": "2026-01-23T23:41:21.000Z",
+    "sourceUrl": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer---Intern_R18266-1",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "bloomberg-industry-content-analytics-intern-arlington-2026-01-24-1",
+    "jobId": "bloomberg-industry-content-analytics-intern-arlington",
+    "company": "Bloomberg Industry Group",
+    "title": "Content Analytics Intern",
+    "postedToDiscord": "2026-01-24T01:18:13.407Z",
+    "sourceDate": "2026-01-23T23:51:27.000Z",
+    "sourceUrl": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Content-Analytics-Intern_139846",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "dropbox-support-enablement-engineer-intern-summer-2026-remote-in-usa-2026-01-24-1",
+    "jobId": "dropbox-support-enablement-engineer-intern-summer-2026-remote-in-usa",
+    "company": "Dropbox",
+    "title": "Support Enablement Engineer Intern - Summer 2026",
+    "postedToDiscord": "2026-01-24T01:18:21.365Z",
+    "sourceDate": "2026-01-23T23:39:06.000Z",
+    "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7531477",
+    "discordThreadId": null,
+    "instanceNumber": 1
   }
 ]

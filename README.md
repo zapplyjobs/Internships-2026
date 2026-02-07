@@ -157,7 +157,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Christus Health** | Nurse Extern I-Nursing Internship-PRN (71067) | Fillmore, Louisiana | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=752a5e1fe25a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Great American Insurance Company** | Data Science Intern, Great American Risk Solutions | Cincinnati, Ohio | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://simplify.jobs/p/3c413731-de31-457a-983a-02b18a56f901/Data-Science-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Humana** | Home Health Nursing Internship | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-dc-columbia-home-health-nursing-internship-washington-humana-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Fairfax, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Oracle** | Undergrad Software Engineer Intern - Database Technologies | Lansing, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1189903072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Oracle** | Java Software Engineer Intern - Oracle Health & Analytics - Full-time | Salt Lake City, Utah | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1189894733?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Oracle** | Java Software Engineer Intern - Oracle Health & Analytics | Pierre, South Dakota | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://usnlx.com/pierre-sd/java-software-engineer-intern-oracle-health-analytics/8E16CBBCBB3D49FA8AA6C4E3B0CCDD85/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -174,6 +173,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **PBS Distribution** | Summer Intern - Software Engineering (Hybrid, Paid) | Arlington, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/summer-intern-software-engineering-hybrid-paid-at-pbs-distribution-4369790013?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **DRS Technologies** | Software Engineering Intern - Summer 2026 | Herndon, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jsfirm.com/job/Engineering-Software-Engineering-Intern---Summer-2026/Melbourne-Florida/jobID_1844524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Raytheon Technologies** | Software Engineering Intern (Summer 2026) (Onsite) 🏠 | Anaheim, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Collins-Aerospace/Job/Software-Engineering-Intern-(Summer-2026)-(Onsite)/-in-Anaheim,CA?jid=b585fda418116f13&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Fairfax, Virginia | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 10h |
 | 🚙 **Rivian** | Software Engineering - Summer 2026 Internships | Plymouth, Michigan | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Rivian/Job/Software-Engineering-Summer-2026-Internships/-in-Plymouth,MI?jid=cb66317c498985c9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 17h |
 | 🏢 **Citadel Securities** | Software Engineer Intern | Miami, Florida | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern?id=2433780627&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **Avathon** | Data Scientist Intern | Pleasanton, California | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
@@ -232,6 +232,35 @@ Add new jobs to our listings keeping in mind the following:
 Our team reviews within 24-48 hours and approved jobs are added to the main list!
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
+
+
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+
+> Some positions may still be accepting applications or useful for planning.
+
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: 2 roles
+- **🏢 Companies**: 61 companies  
+- **⭐ FAANG+ Opportunities**: 0 positions
+
+<details>
+<summary><h3>🏢 <strong>Other Companies</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Boeing** | Boeing Summer 2026 Internship Program (Paid) - Engineering | Colorado Springs, Colorado | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Boeing/Job/Boeing-Summer-2026-Internship-Program-(Paid)-Engineering/-in-Colorado-Springs,CO?jid=95f918d77b4a5f89&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **KCI Technologies Inc.** | Transportation Engineering Intern | Harrisburg, Pennsylvania | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/KCI-Technologies-Inc./Job/Transportation-Engineering-Intern/-in-Harrisburg,PA?jid=97ee2b9cd88d8df9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
+
+</details>
+
+
+
+</details>
+
+---
 
 
 
