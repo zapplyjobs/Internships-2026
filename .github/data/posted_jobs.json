@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-07T08:24:47.911Z",
+  "lastUpdated": "2026-02-07T08:44:08.045Z",
   "jobs": [
-    {
-      "id": "nuro-systems-engineering-intern-compliance-coverage-ml-mountain-view-2026-01-24-1",
-      "jobId": "nuro-systems-engineering-intern-compliance-coverage-ml-mountain-view",
-      "company": "Nuro",
-      "title": "Systems Engineering Intern - Compliance Coverage ML",
-      "postedToDiscord": "2026-01-24T08:31:14.271Z",
-      "sourceDate": "2026-01-24T07:36:47.000Z",
-      "sourceUrl": "https://nuro.ai/careersitem?gh_jid=7562197",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "32379d28a0020974-2026-01-25-1",
       "jobId": "32379d28a0020974",
@@ -15972,12 +15961,13 @@
     }
   ],
   "metadata": {
-    "totalJobs": 677,
+    "totalJobs": 676,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-07T08:24:47.911Z",
-      "archived": 0
+      "date": "2026-02-07T08:44:08.045Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
