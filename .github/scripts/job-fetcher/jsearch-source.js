@@ -1,23 +1,23 @@
 /**
- * JSearch API Integration
+ * JSearch API Integration (PAID TIER)
  *
- * Minimal implementation for internship-specific job searches
- * Free tier: 200 requests/month (6/day with safety margin)
+ * Full-featured implementation for internship-specific job searches
+ * Paid tier: 2,500 requests/month (~83 requests/day with safety margin)
  *
  * Features:
  * - 5 targeted internship queries
  * - Query rotation (1 query per run)
- * - Rate limiting (6 requests/day max)
+ * - Rate limiting (80 requests/day max for safety)
  * - Graceful error handling
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// Configuration
-const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || 'YOUR_KEY_HERE';
+// Configuration - PAID API KEY
+const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || 'e07540d3e5msh515ec67c062f15dp170d38jsn657708c915e8';
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
-const MAX_REQUESTS_PER_DAY = 6;
+const MAX_REQUESTS_PER_DAY = 100;  // Paid tier: 10000/month = ~333/day, workflow runs 96/day (every 15min)
 const USAGE_FILE = path.join(__dirname, '../../data/jsearch_usage.json');
 
 // Internship-specific queries (targeted to avoid wasting free tier)
@@ -53,7 +53,7 @@ function loadUsageTracking() {
         console.error('⚠️ Error loading usage tracking:', error.message);
     }
 
-    // Initialize new tracking file
+    // Initialize new tracking file (paid tier)
     return {
         date: new Date().toISOString().split('T')[0],
         requests: 0,
@@ -161,6 +161,72 @@ async function searchJSearchInternships() {
 }
 
 /**
+ * Normalize company name from JSearch data
+ * JSearch sometimes returns internal field names instead of actual company names
+ * Examples: "Org_Subtype_BU023_Global_Services" should be "Dell"
+ */
+function normalizeCompanyName(job) {
+    const employerName = job.employer_name || '';
+
+    // Internal field patterns that indicate bad data
+    const internalPatterns = [
+        /^Org_Subtype_/i,        // Dell: "Org_Subtype_BU023_Global_Services"
+        /^BU\d+_/i,              // Various internal BU codes
+        /^Department_/i,         // Department-based names
+        /^Division_/i,           // Division-based names
+    ];
+
+    const needsNormalization = internalPatterns.some(pattern =>
+        pattern.test(employerName)
+    );
+
+    if (!needsNormalization) {
+        return employerName;
+    }
+
+    // Try to extract company from apply URL domain
+    if (job.job_apply_link) {
+        const urlMatch = job.job_apply_link.match(/https?:\/\/(?:www\.)?([^\/]+)/i);
+        if (urlMatch) {
+            const domain = urlMatch[1].toLowerCase();
+
+            // Known domain to company mappings
+            const domainMappings = {
+                'jobs.dell.com': 'Dell',
+                'dell.com': 'Dell',
+                'jobs.apple.com': 'Apple',
+                'careers.apple.com': 'Apple',
+                'careers.google.com': 'Google',
+                'google.com': 'Google',
+                'jobs.netflix.com': 'Netflix',
+                'careers.microsoft.com': 'Microsoft',
+                'jobs.amazon.com': 'Amazon',
+                'careers.meta.com': 'Meta',
+                'jobs.fb.com': 'Meta',
+            };
+
+            // Check for exact domain match
+            if (domainMappings[domain]) {
+                return domainMappings[domain];
+            }
+
+            // Extract from second-level domain (e.g., "careers.company.com" -> "Company")
+            const parts = domain.split('.');
+            if (parts.length >= 2) {
+                const secondLevel = parts[parts.length - 2];
+                // Capitalize first letter of each word
+                return secondLevel.split('-').map(word =>
+                    word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+                ).join(' ');
+            }
+        }
+    }
+
+    // Fallback to original employer name
+    return employerName;
+}
+
+/**
  * Normalize JSearch job format to internal format
  * JSearch API returns nested format: data: {0: {job}, 1: {job}, ...}
  */
@@ -180,6 +246,9 @@ function normalizeJSearchJobs(response) {
 
     return jobsArray.map(job => {
         try {
+            // Normalize company name FIRST (before any filtering)
+            const normalizedEmployer = normalizeCompanyName(job);
+
             // Internship filter: Only accept true internships
             const title = (job.job_title || '').toLowerCase();
             const desc = (job.job_description || '').toLowerCase();
@@ -204,7 +273,7 @@ function normalizeJSearchJobs(response) {
 
             return {
                 job_title: job.job_title || '',
-                employer_name: job.employer_name || '',
+                employer_name: normalizedEmployer,
                 job_city: job.job_city || '',
                 job_state: job.job_state || '',
                 job_description: job.job_description || '',
