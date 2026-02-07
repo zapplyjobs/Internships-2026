@@ -1,14 +1,17 @@
 const fs = require("fs");
-const companyCategory = require("./software.json");
+const path = require("path");
+const jobCategories = require("./job_categories.json");
 const {
   companies,
   ALL_COMPANIES,
   getCompanyEmoji,
   getCompanyCareerUrl,
   getExperienceLevel,
-  getJobCategory,
   formatLocation,
 } = require("./utils");
+
+// Path to repo root README.md
+const REPO_README_PATH = path.join(__dirname, '../../../README.md');
 // Import or load the JSON configuration
 
 // Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
@@ -64,224 +67,98 @@ function filterOutSeniorPositions(jobs) {
   });
 }
 
-function generateJobTable(jobs) {
-  console.log(
-    `🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`
-  );
+// Helper function to categorize a job based on keywords
+function getJobCategoryFromKeywords(jobTitle, jobDescription = '') {
+  const text = `${jobTitle} ${jobDescription}`.toLowerCase();
 
-  // ADD THESE 2 LINES:
+  // Check each category's keywords
+  for (const [categoryKey, categoryData] of Object.entries(jobCategories)) {
+    for (const keyword of categoryData.keywords) {
+      if (text.includes(keyword.toLowerCase())) {
+        return categoryKey;
+      }
+    }
+  }
+
+  return 'software_engineering'; // Default fallback
+}
+
+function generateJobTable(jobs) {
+  console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
+
   jobs = filterOutSeniorPositions(jobs);
   console.log(`🔍 DEBUG: After filtering seniors: ${jobs.length} jobs remaining`);
 
-if (jobs.length === 0) {
-  return `| Company | Role | Location | Level | Apply Now | Age |
+  if (jobs.length === 0) {
+    return `| Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |`;
-}
+  }
 
-  // Create a map of lowercase company names to actual names for case-insensitive matching
-  const companyNameMap = new Map();
-  Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    category.companies.forEach((company) => {
-      companyNameMap.set(company.toLowerCase(), {
-        name: company,
-        category: categoryKey,
-        categoryTitle: category.title,
-      });
-    });
+  console.log(`🏷️ DEBUG: Configured job categories:`);
+  Object.entries(jobCategories).forEach(([categoryKey, category]) => {
+    console.log(`  ${category.emoji} ${category.title}: ${category.keywords.join(', ')}`);
   });
 
-  console.log(`🏢 DEBUG: Configured companies by category:`);
-  Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    console.log(
-      `  ${category.emoji} ${category.title}: ${category.companies.join(", ")}`
-    );
-  });
-
-  // Get unique companies from job data
-  const uniqueJobCompanies = [...new Set(jobs.map((job) => job.employer_name))];
-  console.log(
-    `\n📊 DEBUG: Unique companies found in job data (${uniqueJobCompanies.length}):`,
-    uniqueJobCompanies
-  );
-
-  // Group jobs by company - only include jobs from valid companies
-  const jobsByCompany = {};
-  const processedCompanies = new Set();
-  const skippedCompanies = new Set();
+  // Categorize each job and group by category
+  const jobsByCategory = {};
+  const categorizedJobs = new Set();
 
   jobs.forEach((job) => {
-    const employerNameLower = job.employer_name.toLowerCase();
-    const matchedCompany = companyNameMap.get(employerNameLower);
+    const categoryKey = getJobCategoryFromKeywords(job.job_title, job.job_description);
+    categorizedJobs.add(job.job_id);
 
-    // Add ALL jobs to jobsByCompany (categorized or not)
-    // This allows "Other Companies" section to work properly
-    if (!jobsByCompany[job.employer_name]) {
-      jobsByCompany[job.employer_name] = [];
+    if (!jobsByCategory[categoryKey]) {
+      jobsByCategory[categoryKey] = [];
     }
-    jobsByCompany[job.employer_name].push(job);
-
-    // Track which companies are categorized vs uncategorized
-    if (matchedCompany) {
-      processedCompanies.add(job.employer_name);
-    } else {
-      skippedCompanies.add(job.employer_name);
-    }
+    jobsByCategory[categoryKey].push(job);
   });
 
-  console.log(`\n✅ DEBUG: Companies INCLUDED (${processedCompanies.size}):`, [
-    ...processedCompanies,
-  ]);
-  console.log(`\n❌ DEBUG: Companies SKIPPED (${skippedCompanies.size}):`, [
-    ...skippedCompanies,
-  ]);
-
-  // Log job counts by company
-  console.log(`\n📈 DEBUG: Job counts by company:`);
-  Object.entries(jobsByCompany).forEach(([company, jobs]) => {
-    const companyInfo = companyNameMap.get(company.toLowerCase());
-    console.log(
-      `  ${company}: ${jobs.length} jobs (Category: ${
-        companyInfo?.categoryTitle || "Unknown"
-      })`
-    );
+  console.log(`\n📈 DEBUG: Jobs by category:`);
+  Object.entries(jobsByCategory).forEach(([categoryKey, categoryJobs]) => {
+    console.log(`  ${jobCategories[categoryKey]?.title || categoryKey}: ${categoryJobs.length} jobs`);
   });
 
   let output = "";
 
-  // Handle each category
-  Object.entries(companyCategory).forEach(([categoryKey, categoryData]) => {
-    // Filter companies that actually have jobs
-    const companiesWithJobs = categoryData.companies.filter(
-      (company) => jobsByCompany[company] && jobsByCompany[company].length > 0
-    );
+  // Handle each job category
+  Object.entries(jobCategories).forEach(([categoryKey, categoryData]) => {
+    const categoryJobs = jobsByCategory[categoryKey];
 
-    if (companiesWithJobs.length > 0) {
-      const totalJobs = companiesWithJobs.reduce(
-        (sum, company) => sum + jobsByCompany[company].length,
-        0
-      );
-
-      console.log(
-        `\n📝 DEBUG: Processing category "${categoryData.title}" with ${companiesWithJobs.length} companies and ${totalJobs} total jobs:`
-      );
-      companiesWithJobs.forEach((company) => {
-        console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
-      });
-
-      // Use singular/plural based on job count
-      const positionText = totalJobs === 1 ? "position" : "positions";
-      // Start collapsible category section
-      output += `<details>\n`;
-      output += `<summary><h3>${categoryData.emoji} <strong>${categoryData.title}</strong> (${totalJobs} ${positionText})</h3></summary>\n\n`;
-
-      // Handle ALL companies with their own sections (regardless of job count)
-      companiesWithJobs.forEach((companyName) => {
-        const companyJobs = jobsByCompany[companyName];
-        const emoji = getCompanyEmoji(companyName);
-        const positionText =
-          companyJobs.length === 1 ? "position" : "positions";
-
-        // Use collapsible details for companies with more than 15 jobs
-        if (companyJobs.length > 15) {
-          output += `<details>\n`;
-          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${positionText})</h4></summary>\n\n`;
-        } else {
-          output += `#### ${emoji} **${companyName}** (${companyJobs.length} ${positionText})\n\n`;
-        }
-
-        output += `| Role | Location | Level | Apply Now | Age |\n`;
-        output += `|------|----------|-------|-----------|-----|\n`;
-
-        companyJobs.forEach((job) => {
-          const role = job.job_title;
-          const location = formatLocation(job.job_city, job.job_state);
-          const posted = job.job_posted_at;
-          const applyLink =
-            job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-
-          // Get experience level and create badge
-          const level = getExperienceLevel(job.job_title, job.job_description);
-          let levelBadge = '';
-          if (level === 'Entry-Level') {
-            levelBadge = '![Entry](https://img.shields.io/badge/Entry-00C853)';
-          } else if (level === 'Mid-Level') {
-            levelBadge = '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")';
-          } else if (level === 'Senior') {
-            levelBadge = '![Senior](https://img.shields.io/badge/Senior-FF5252)';
-          } else {
-            levelBadge = '![Unknown](https://img.shields.io/badge/Unknown-9E9E9E)';
-          }
-
-          let statusIndicator = "";
-          const description = (job.job_description || "").toLowerCase();
-          if (
-            description.includes("no sponsorship") ||
-            description.includes("us citizen")
-          ) {
-            statusIndicator = " 🇺🇸";
-          }
-          if (description.includes("remote")) {
-            statusIndicator += " 🏠";
-          }
-
-          output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) | ${posted} |\n`;
-        });
-
-        if (companyJobs.length > 15) {
-          output += `\n</details>\n\n`;
-        } else {
-          output += "\n";
-        }
-      });
-
-      // End collapsible category section
-      output += `</details>\n\n`;
+    if (!categoryJobs || categoryJobs.length === 0) {
+      return; // Skip empty categories
     }
-  });
 
-  console.log(
-    `\n🎉 DEBUG: Finished generating job table with ${
-      Object.keys(jobsByCompany).length
-    } companies processed`
-  );
+    const totalJobs = categoryJobs.length;
+    console.log(`\n📝 DEBUG: Processing category "${categoryData.title}" with ${totalJobs} jobs`);
 
-  // Process uncategorized companies (not in software.json)
-  const categorizedCompanies = new Set();
-  Object.values(companyCategory).forEach(category => {
-    category.companies.forEach(company => categorizedCompanies.add(company));
-  });
-
-  const uncategorizedCompanies = Object.keys(jobsByCompany).filter(
-    company => !categorizedCompanies.has(company)
-  );
-
-  if (uncategorizedCompanies.length > 0) {
-    const totalUncategorizedJobs = uncategorizedCompanies.reduce(
-      (sum, company) => sum + jobsByCompany[company].length, 0
-    );
-
-    console.log(`\n📝 DEBUG: Processing UNCATEGORIZED companies: ${uncategorizedCompanies.length} companies with ${totalUncategorizedJobs} jobs`);
-
-    // Start collapsible "Other Companies" section
-    output += `<details>\n`;
-    output += `<summary><h3>🏢 <strong>Other Companies</strong> (${totalUncategorizedJobs} positions)</h3></summary>\n\n`;
-
-    // Handle large uncategorized companies (>10 jobs) separately
-    const bigUncategorized = uncategorizedCompanies.filter(
-      company => jobsByCompany[company].length > 10
-    );
-
-    bigUncategorized.forEach((companyName) => {
-      const companyJobs = jobsByCompany[companyName];
-      const emoji = getCompanyEmoji(companyName);
-
-      if (companyJobs.length > 15) {
-        output += `<details>\n`;
-        output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
-      } else {
-        output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+    // Group jobs by company within this category
+    const jobsByCompany = {};
+    categoryJobs.forEach((job) => {
+      const company = job.employer_name;
+      if (!jobsByCompany[company]) {
+        jobsByCompany[company] = [];
       }
+      jobsByCompany[company].push(job);
+    });
+
+    const positionText = totalJobs === 1 ? "position" : "positions";
+
+    // Start collapsible category section
+    output += `<details>\n`;
+    output += `<summary><h3>${categoryData.emoji} <strong>${categoryData.title}</strong> (${totalJobs} ${positionText})</h3></summary>\n\n`;
+
+    // Handle companies with >15 jobs separately
+    const bigCompanies = Object.entries(jobsByCompany)
+      .filter(([_, companyJobs]) => companyJobs.length > 15)
+      .sort((a, b) => b[1].length - a[1].length);
+
+    bigCompanies.forEach(([companyName, companyJobs]) => {
+      const emoji = getCompanyEmoji(companyName);
+      const posText = companyJobs.length === 1 ? "position" : "positions";
+
+      output += `<details>\n`;
+      output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${posText})</h4></summary>\n\n`;
 
       output += `| Role | Location | Level | Apply Now | Age |\n`;
       output += `|------|----------|-------|-----------|-----|\n`;
@@ -290,13 +167,19 @@ if (jobs.length === 0) {
         const role = job.job_title;
         const location = formatLocation(job.job_city, job.job_state);
         const posted = job.job_posted_at;
-        const level = getExperienceLevel(job.job_title, job.job_description);
-        const levelBadge = {
-          "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
-          "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-        }[level] || level;
         const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
+        const level = getExperienceLevel(job.job_title, job.job_description);
+        let levelBadge = '';
+        if (level === 'Entry-Level') {
+          levelBadge = '![Entry](https://img.shields.io/badge/Entry-00C853)';
+        } else if (level === 'Mid-Level') {
+          levelBadge = '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")';
+        } else if (level === 'Senior') {
+          levelBadge = '![Senior](https://img.shields.io/badge/Senior-FF5252)';
+        } else {
+          levelBadge = '![Unknown](https://img.shields.io/badge/Unknown-9E9E9E)';
+        }
 
         let statusIndicator = "";
         const description = (job.job_description || "").toLowerCase();
@@ -310,37 +193,33 @@ if (jobs.length === 0) {
         output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) | ${posted} |\n`;
       });
 
-      if (companyJobs.length > 15) {
-        output += `\n</details>\n\n`;
-      } else {
-        output += "\n";
-      }
+      output += `\n</details>\n\n`;
     });
 
-    // Combine small uncategorized companies into one table
-    const smallUncategorized = uncategorizedCompanies.filter(
-      company => jobsByCompany[company].length <= 10
-    );
+    // Combine companies with <=15 jobs into one table
+    const smallCompanies = Object.entries(jobsByCompany)
+      .filter(([_, companyJobs]) => companyJobs.length <= 15)
+      .sort((a, b) => a[0].localeCompare(b[0]));
 
-    if (smallUncategorized.length > 0) {
+    if (smallCompanies.length > 0) {
       output += `| Company | Role | Location | Level | Apply Now | Age |\n`;
       output += `|---------|------|----------|-------|-----------|-----|\n`;
 
-      smallUncategorized.forEach((companyName) => {
-        const companyJobs = jobsByCompany[companyName];
+      smallCompanies.forEach(([companyName, companyJobs]) => {
         const emoji = getCompanyEmoji(companyName);
 
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
           const posted = job.job_posted_at;
+          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
           const level = getExperienceLevel(job.job_title, job.job_description);
           const levelBadge = {
-            "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
+            "Entry-Level": '![Entry](https://img.shields.io/badge/Entry-00C853)',
             "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
-            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-          }[level] || level;
-          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+            "Senior": '![Senior](https://img.shields.io/badge/Senior-FF5252)'
+          }[level] || '![Unknown](https://img.shields.io/badge/Unknown-9E9E9E)';
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
@@ -358,10 +237,11 @@ if (jobs.length === 0) {
       output += "\n";
     }
 
-    // End collapsible "Other Companies" section
+    // End collapsible category section
     output += `</details>\n\n`;
-  }
+  });
 
+  console.log(`\n🎉 DEBUG: Finished generating job table with ${categorizedJobs.size} jobs categorized`);
   return output;
 }
 
@@ -402,9 +282,14 @@ ${internshipData.sources
 function generateArchivedSection(archivedJobs, stats) {
   if (archivedJobs.length === 0) return "";
 
-  const archivedFaangJobs = archivedJobs.filter((job) =>
-    companies.faang_plus.some((c) => c.name === job.employer_name)
-  ).length;
+  // Get top category from archived jobs
+  const categoryCounts = {};
+  archivedJobs.forEach(job => {
+    const cat = getJobCategoryFromKeywords(job.job_title, job.job_description);
+    const catTitle = jobCategories[cat]?.title || 'Software Engineering';
+    categoryCounts[catTitle] = (categoryCounts[catTitle] || 0) + 1;
+  });
+  const topCategory = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1])[0]?.[0] || 'Software Engineering';
 
   return `
 ---
@@ -418,8 +303,8 @@ function generateArchivedSection(archivedJobs, stats) {
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: ${archivedJobs.length} roles
-- **🏢 Companies**: ${Object.keys(stats.totalByCompany).length} companies  
-- **⭐ FAANG+ Opportunities**: ${archivedFaangJobs} positions
+- **🏢 Companies**: ${Object.keys(stats.totalByCompany).length} companies
+- **🏷️ Top Category**: ${topCategory}
 
 ${generateJobTable(archivedJobs)}
 
@@ -443,29 +328,21 @@ async function generateReadme(
     day: "numeric",
   });
 
-  // Calculate actual displayed jobs (only from companies in software.json)
-  const companyNameMap = new Map();
-  Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    if (Array.isArray(category.companies)) {
-      category.companies.forEach((company) => {
-        companyNameMap.set(company.toLowerCase(), company);
-      });
-    }
-  });
-
-  const displayedJobs = currentJobs.filter(job => {
-    return companyNameMap.has(job.employer_name.toLowerCase());
-  });
-
-  // ADD THIS LINE:
-  const filteredJobs = filterOutSeniorPositions(displayedJobs);
-
+  // Filter and count jobs
+  const filteredJobs = filterOutSeniorPositions(currentJobs);
   const displayedJobCount = filteredJobs.length;
   const totalCompanies = [...new Set(filteredJobs.map(j => j.employer_name))].length;
-  
-  const faangJobs = filteredJobs.filter((job) =>
-    companies.faang_plus.some((c) => c.name === job.employer_name)
-  ).length;
+
+  // Count by job category for badges
+  const categoryCounts = {};
+  filteredJobs.forEach(job => {
+    const cat = getJobCategoryFromKeywords(job.job_title, job.job_description);
+    const catTitle = jobCategories[cat]?.title || 'Software Engineering';
+    categoryCounts[catTitle] = (categoryCounts[catTitle] || 0) + 1;
+  });
+  const topCategory = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1])[0]?.[0] || 'Software Engineering';
+  const topCategoryCount = categoryCounts[topCategory] || 0;
+  const topCategoryBadge = topCategory.replace(/\s+/g, '_').substring(0, 20);
 
   return `<div align="center">
 
@@ -475,7 +352,7 @@ async function generateReadme(
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-${displayedJobCount}-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building) ${faangJobs > 0 ? '![FAANG+ Internships](https://img.shields.io/badge/FAANG+_Internships-' + faangJobs + '-red?style=flat&logo=star)' : ''} ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-${displayedJobCount}-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building) ![${topCategory.substring(0, 15)}](https://img.shields.io/badge/${topCategoryBadge}-${topCategoryCount}-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
@@ -518,9 +395,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <p align="center">
   <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" width="75"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="75"></a>
 </p>
 
 ---
@@ -609,7 +486,7 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       internshipData,
       stats
     );
-    fs.writeFileSync("README.md", readmeContent, "utf8");
+    fs.writeFileSync(REPO_README_PATH, readmeContent, "utf8");
     console.log(`✅ README.md updated with ${currentJobs.length} current opportunities`);
 
     console.log("\n📊 Summary:");
