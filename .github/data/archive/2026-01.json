@@ -22966,5 +22966,93 @@
     "sourceUrl": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=250000NE",
     "discordThreadId": null,
     "instanceNumber": 1
+  },
+  {
+    "id": "caci-software-development-intern-summer-2026-st-louis-2026-01-24-1",
+    "jobId": "caci-software-development-intern-summer-2026-st-louis",
+    "company": "CACI",
+    "title": "Software Development Intern - Summer 2026",
+    "postedToDiscord": "2026-01-24T00:42:49.603Z",
+    "sourceDate": "2026-01-24T00:13:05.000Z",
+    "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-MO-St-Louis/Software-Development-Intern---Summer-2026_319718",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "wex-intern-software-engineer-remote-in-usa-2026-01-24-1",
+    "jobId": "wex-intern-software-engineer-remote-in-usa",
+    "company": "Wex",
+    "title": "Intern – Software Engineer",
+    "postedToDiscord": "2026-01-24T00:42:52.923Z",
+    "sourceDate": "2026-01-24T00:12:53.000Z",
+    "sourceUrl": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer_R20151",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "santander-risk-analytics-intern-boston-2026-01-24-1",
+    "jobId": "santander-risk-analytics-intern-boston",
+    "company": "Santander",
+    "title": "Risk Analytics Intern",
+    "postedToDiscord": "2026-01-24T00:42:54.646Z",
+    "sourceDate": "2026-01-24T00:03:41.000Z",
+    "sourceUrl": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Risk-Analytics-Intern_Req1537728",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "stantec-gis-intern-madison-2026-01-24-1",
+    "jobId": "stantec-gis-intern-madison",
+    "company": "Stantec",
+    "title": "GIS Intern",
+    "postedToDiscord": "2026-01-24T00:42:58.157Z",
+    "sourceDate": "2026-01-23T23:20:53.000Z",
+    "sourceUrl": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1003868",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-toro-company-enterprise-insights-analyst-intern-the-toro-company-bloomington-2026-01-24-1",
+    "jobId": "the-toro-company-enterprise-insights-analyst-intern-the-toro-company-bloomington",
+    "company": "The Toro Company",
+    "title": "Enterprise Insights Analyst Intern - The Toro Company",
+    "postedToDiscord": "2026-01-24T00:43:04.590Z",
+    "sourceDate": "2026-01-24T00:11:50.000Z",
+    "sourceUrl": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Enterprise-Insights-Analyst-Intern---The-Toro-Company_JR15109",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "intuitive-surgical-camera-image-processing-algorithm-intern-sunnyvale-2026-01-24-1",
+    "jobId": "intuitive-surgical-camera-image-processing-algorithm-intern-sunnyvale",
+    "company": "Intuitive Surgical",
+    "title": "Camera Image Processing Algorithm Intern",
+    "postedToDiscord": "2026-01-24T00:43:06.289Z",
+    "sourceDate": "2026-01-23T23:13:06.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000105233605",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "ameriprise-financial-advisor-service-technology-field-insights-intern-minneapolis-2026-01-24-1",
+    "jobId": "ameriprise-financial-advisor-service-technology-field-insights-intern-minneapolis",
+    "company": "Ameriprise Financial",
+    "title": "Advisor Service Technology – Field Insights Intern",
+    "postedToDiscord": "2026-01-24T00:43:16.412Z",
+    "sourceDate": "2026-01-24T00:06:50.000Z",
+    "sourceUrl": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Advisor-Service-Technology---Field-Insights-Intern_R26_0245",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "tds-gis-intern-remote-in-usa-2026-01-24-1",
+    "jobId": "tds-gis-intern-remote-in-usa",
+    "company": "TDS",
+    "title": "GIS Intern",
+    "postedToDiscord": "2026-01-24T00:43:22.770Z",
+    "sourceDate": "2026-01-23T23:12:18.000Z",
+    "sourceUrl": "https://external-telecom-teldta.icims.com/jobs/28618/job?mobile=true&needsRedirect=false",
+    "discordThreadId": null,
+    "instanceNumber": 1
   }
 ]
