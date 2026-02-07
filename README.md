@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-10-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-9-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-13-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-11-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 6+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 10+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 9+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 13+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,15 +61,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (9 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (11 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
+| 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Fairfax, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN | Gilliam, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=41304a093287&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Eastwood) | Kalamazoo, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I-Nursing Internship-PRN (Kansas City) | Kansas City, Missouri | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=38665d03251e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (71030) | Gloster, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=f19bb6ed2052&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **RTI International** | Financial Analyst Intern 🇺🇸 | Durham, North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rti.org/InternationalTalent/jobs/13284?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **SAS** | Summer 2026 - Full Stack Software Developer Intern (Health and Life Science) 🏠 | Cary, North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SAS/Job/Summer-2026-Full-Stack-Software-Developer-Intern-(Health-and-Life-Science)/-in-Cary,NC?jid=05a79800fea24b3f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 2d |
 | 🏢 **UnitedHealthcare** | Nurse Intern | Aiea, Hawaii | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/amp/job/us-hi-aiea-nurse-intern-unitedhealthcare-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **University Health** | Academy Student Nurse Internship | Pleasanton, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=e0e378aa1e54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **University of Michigan** | REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W / 12E / 11W) | Ann Arbor, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d0d7e0b1f6cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -78,10 +80,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
+| 🏢 **Leidos** | Embedded Design Engineering Intern – Firmware 🇺🇸 | Huntsville, Alabama | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.leidos.com/jobs/17287656-embedded-design-engineering-intern-firmware?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 2d |
 | 🏢 **UnitedHealthcare** | Nurse Intern - Pediatric Case Management, | Beaumont, Texas | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169284803-nurse-intern-pediatric-case-management?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 
 </details>
@@ -138,10 +141,38 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
+
+> Some positions may still be accepting applications or useful for planning.
+
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: 1 roles
+- **🏢 Companies**: 9 companies
+- **🏷️ Top Category**: Software Engineering
+
+<details>
+<summary><h3>💻 <strong>Software Engineering</strong> (1 position)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Boeing** | Boeing Summer 2026 Internship Program (Paid) - Engineering | Colorado Springs, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Boeing/Job/Boeing-Summer-2026-Internship-Program-(Paid)-Engineering/-in-Colorado-Springs,CO?jid=95f918d77b4a5f89&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 15h |
+
+</details>
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
-**🎯 10 current opportunities from 6 top companies.**
+**🎯 13 current opportunities from 9 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
