@@ -1,7 +1,7 @@
 {
   "date": "2026-02-07",
-  "requests": 55,
-  "remaining": 45,
+  "requests": 56,
+  "remaining": 44,
   "queries_executed": [
     "software engineer intern",
     "software engineer intern",
@@ -57,6 +57,7 @@
     "software engineering internship",
     "data science intern",
     "data science intern",
+    "data science intern",
     "data science intern"
   ],
   "metrics": {
@@ -92,6 +93,7 @@
         6
       ],
       "data science intern": [
+        0,
         0,
         0,
         0,
