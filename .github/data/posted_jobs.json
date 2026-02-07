@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-02-06T23:52:18.374Z",
+  "lastUpdated": "2026-02-07T00:19:29.817Z",
   "jobs": [
-    {
-      "id": "vystar-credit-union-intern-advance-analytics-jacksonville-2026-01-24-1",
-      "jobId": "vystar-credit-union-intern-advance-analytics-jacksonville",
-      "company": "VyStar Credit Union",
-      "title": "Intern-Advance Analytics",
-      "postedToDiscord": "2026-01-24T00:06:27.236Z",
-      "sourceDate": "2026-01-23T23:36:08.000Z",
-      "sourceUrl": "https://vystarcu.wd1.myworkdayjobs.com/careers/job/Jacksonville-FL---VyStar-Tower/VyStar-Intern-Advance-Analytics_R0011472",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "veolia-intern-membrane-application-engineer-hopkins-2026-01-24-1",
-      "jobId": "veolia-intern-membrane-application-engineer-hopkins",
-      "company": "Veolia",
-      "title": "Intern – Membrane Application Engineer",
-      "postedToDiscord": "2026-01-24T00:06:30.787Z",
-      "sourceDate": "2026-01-23T23:19:05.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000105212925",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "cibc-northeastern-co-op-software-engineer-chicago-chicago-2026-01-24-1",
-      "jobId": "cibc-northeastern-co-op-software-engineer-chicago-chicago",
-      "company": "CIBC",
-      "title": "Northeastern Co-op Software Engineer Chicago",
-      "postedToDiscord": "2026-01-24T00:06:32.459Z",
-      "sourceDate": "2026-01-23T23:14:42.000Z",
-      "sourceUrl": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/Northeastern-Co-op-Software-Engineer-Chicago_2601701",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "lamb-weston-ag-intern-analytics-kennewick-2026-01-24-1",
-      "jobId": "lamb-weston-ag-intern-analytics-kennewick",
-      "company": "Lamb Weston",
-      "title": "Ag Intern Analytics",
-      "postedToDiscord": "2026-01-24T00:06:37.226Z",
-      "sourceDate": "2026-01-23T23:30:02.000Z",
-      "sourceUrl": "https://lambweston.wd1.myworkdayjobs.com/lamb_external/job/Kennewick-WA-USA-Kennewick-Office/Ag-Intern--Analytics_Req-259829-2",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "ut-southwestern-medical-center-computational-scientist-biohpc-dallas-2026-01-24-1",
-      "jobId": "ut-southwestern-medical-center-computational-scientist-biohpc-dallas",
-      "company": "UT Southwestern Medical Center",
-      "title": "Computational Scientist BioHPC",
-      "postedToDiscord": "2026-01-24T00:06:45.455Z",
-      "sourceDate": "2026-01-23T23:11:17.000Z",
-      "sourceUrl": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=250000NE",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "caci-software-development-intern-summer-2026-st-louis-2026-01-24-1",
       "jobId": "caci-software-development-intern-summer-2026-st-louis",
@@ -16269,12 +16214,12 @@
     }
   ],
   "metadata": {
-    "totalJobs": 704,
+    "totalJobs": 699,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-02-06T23:52:18.374Z",
-      "archived": 3,
+      "date": "2026-02-07T00:19:29.817Z",
+      "archived": 5,
       "monthsAffected": 1
     }
   }
