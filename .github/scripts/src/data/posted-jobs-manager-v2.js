@@ -26,7 +26,7 @@ class PostedJobsManagerV2 {
     this.data = this.loadPostedJobs();
     this.archiveDir = path.join(dataDir, 'archive');
     this.activeWindowDays = parseInt(process.env.ACTIVE_WINDOW_DAYS) || 7;
-    this.reopeningWindowDays = parseInt(process.env.REOPENING_WINDOW_DAYS) || 2;
+    this.reopeningWindowDays = parseInt(process.env.REOPENING_WINDOW_DAYS) || 7;
     // Track counters during this session to prevent duplicates in same batch
     this.sessionChannelCounters = {};
     // Cache archive channel counts to avoid re-reading files (performance fix)
@@ -79,7 +79,8 @@ class PostedJobsManagerV2 {
       jobs: [],
       metadata: {
         totalJobs: 0,
-        activeWindowDays: this.activeWindowDays
+        activeWindowDays: this.activeWindowDays,
+        channelJobNumbers: {} // Persist highest job number per channel (fixes non-sequential counter bug)
       }
     };
   }
@@ -114,6 +115,7 @@ class PostedJobsManagerV2 {
       metadata: {
         totalJobs: jobs.length,
         activeWindowDays: this.activeWindowDays,
+        channelJobNumbers: {}, // Will be initialized on first use
         migratedFromV1: true,
         migrationDate: now
       }
@@ -137,6 +139,8 @@ class PostedJobsManagerV2 {
     let instances = this.data.jobs.filter(job => job.jobId === jobId);
 
     // EMERGENCY FIX: Also check with SHA256 ID (database format)
+    // This handles the ID mismatch bug where job fetcher uses URL-based IDs
+    // but database uses SHA256 hash IDs
     if (instances.length === 0 && jobData) {
       const sha256Id = this.generateJobId(jobData);
       instances = this.data.jobs.filter(job => job.jobId === sha256Id);
@@ -158,12 +162,12 @@ class PostedJobsManagerV2 {
 
     if (hasActiveInstance) {
       // Already posted recently - duplicate
-      console.log(`⏭️ Skipping duplicate: ${jobId} (posted within ${this.activeWindowDays} days)`);
+      console.log(`⏭️  Skipping duplicate: ${jobId} (posted within ${this.activeWindowDays} days)`);
       return true;
     }
 
+    // All instances are archived (>7 days old)
     // Check if job was posted before - use archived sourceDate for age checking
-    // This prevents "refreshed" jobs (companies updating old postings) from being perpetually reposted
     const existingInstances = instances.sort((a, b) =>
       new Date(a.sourceDate || a.postedToDiscord) - new Date(b.sourceDate || b.postedToDiscord)
     );
@@ -180,8 +184,7 @@ class PostedJobsManagerV2 {
       }
     }
 
-    // All instances are archived (>7 days old)
-    // Check if this is a reopening (fresh source date)
+    // Check if this is a reopening (fresh source date from API)
     if (jobData && jobData.job_posted_at_datetime_utc) {
       const sourceDate = new Date(jobData.job_posted_at_datetime_utc);
       const daysSinceSourcePost = (Date.now() - sourceDate.getTime()) / (1000 * 60 * 60 * 24);
@@ -383,33 +386,51 @@ class PostedJobsManagerV2 {
   }
 
   /**
-   * Get the next job number for a specific channel (NEW for job numbering)
-   * Counts all jobs posted to this channel across all job records
+   * Get the next job number for a specific channel (FIXED: sequential across sessions)
+   *
+   * Uses persisted highest job number from metadata instead of recalculating from active jobs.
+   * This prevents counter jumps when jobs expire and are removed from active database.
    *
    * @param {string} channelId - Discord channel ID
    * @returns {number} - Next job number for this channel
    */
   getChannelJobNumber(channelId) {
-    // Check if we've already calculated the base count for this channel this session
-    if (!this.sessionChannelCounters[channelId]) {
-      // Count from active jobs
-      let count = 0;
-      for (const job of this.data.jobs) {
-        if (job.discordPosts && job.discordPosts[channelId]) {
-          count++;
+    // Initialize metadata structure if needed
+    if (!this.data.metadata.channelJobNumbers) {
+      this.data.metadata.channelJobNumbers = {};
+    }
+
+    // Check if we need to initialize this channel's counter
+    if (this.sessionChannelCounters[channelId] === undefined) {
+      // Load persisted highest job number from metadata
+      let persistedCount = this.data.metadata.channelJobNumbers[channelId] || 0;
+
+      // If no persisted value, calculate initial count from existing data
+      if (persistedCount === 0) {
+        let activeCount = 0;
+        for (const job of this.data.jobs) {
+          if (job.discordPosts && job.discordPosts[channelId]) {
+            activeCount++;
+          }
         }
+        const archiveCount = this.archiveChannelCounts[channelId] || 0;
+        persistedCount = activeCount + archiveCount;
+
+        console.log(`🔢 Initialized channel ${channelId} counter at ${persistedCount} (active: ${activeCount}, archive: ${archiveCount})`);
+      } else {
+        console.log(`🔢 Loaded persisted counter for channel ${channelId}: ${persistedCount}`);
       }
 
-      // Add cached archive count (pre-loaded at startup for performance)
-      const archiveCount = this.archiveChannelCounts[channelId] || 0;
-      count += archiveCount;
-
-      // Initialize session counter with base count
-      this.sessionChannelCounters[channelId] = count;
+      // Initialize session counter with persisted value
+      this.sessionChannelCounters[channelId] = persistedCount;
     }
 
     // Increment and return the next job number for this channel
     this.sessionChannelCounters[channelId]++;
+
+    // Persist the new highest value to metadata
+    this.data.metadata.channelJobNumbers[channelId] = this.sessionChannelCounters[channelId];
+
     return this.sessionChannelCounters[channelId];
   }
 
