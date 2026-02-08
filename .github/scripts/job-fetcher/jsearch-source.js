@@ -17,7 +17,7 @@ const path = require('path');
 // Configuration - PAID API KEY
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || 'e07540d3e5msh515ec67c062f15dp170d38jsn657708c915e8';
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
-const MAX_REQUESTS_PER_DAY = 100;  // Paid tier: 10000/month = ~333/day, workflow runs 96/day (every 15min)
+const MAX_REQUESTS_PER_DAY = 1;  // 90 jobs/day quota: 1 request × 9 pages × 10 jobs = 90 jobs
 const USAGE_FILE = path.join(__dirname, '../../data/jsearch_usage.json');
 
 // Internship-specific queries (targeted to avoid wasting free tier)
@@ -105,7 +105,7 @@ async function searchJSearchInternships() {
         const url = new URL(JSEARCH_BASE_URL);
         url.searchParams.append('query', `${query} United States`);
         url.searchParams.append('page', '1');
-        url.searchParams.append('num_pages', '10');  // Max 10 pages = 100 jobs per request
+        url.searchParams.append('num_pages', '9');  // 9 pages × 10 jobs = 90 jobs per day total
         url.searchParams.append('date_posted', 'month');
         url.searchParams.append('country', 'us');  // IMPORTANT: Always specify country explicitly
         url.searchParams.append('employment_types', 'INTERN');  // Internships only (string, not array)
