@@ -2,26 +2,51 @@
   "software_engineering": {
     "title": "Software Engineering",
     "emoji": "💻",
-    "keywords": ["software engineer", "software engineering", "software development", "software intern", "software developer", "swe"]
+    "keywords": ["software engineer", "software engineering", "software development", "software intern", "software developer", "swe", "backend engineer", "backend developer", "frontend engineer", "frontend developer", "full stack engineer", "fullstack engineer", "web developer", "application developer", "systems engineer", "platform engineer", "cloud engineer"]
   },
   "data_science_analytics": {
     "title": "Data Science & Analytics",
     "emoji": "📊",
-    "keywords": ["data science", "data scientist", "data analyst", "analytics", "business analyst", "statistician"]
+    "keywords": ["data science", "data scientist", "data analyst", "analytics", "business analyst", "statistician", "data engineer", "ml engineer", "machine learning engineer", "ai engineer", "business intelligence", "bi analyst"]
   },
   "product_design": {
     "title": "Product & Design",
     "emoji": "🎨",
-    "keywords": ["product manager", "product owner", "ux designer", "ui designer", "design", "product design"]
+    "keywords": ["product manager", "product owner", "ux designer", "ui designer", "ux researcher", "ui engineer", "design", "product design", "product marketing", "product analyst", "technical product manager", "senior product manager", "associate product manager"]
   },
   "devops_infrastructure": {
     "title": "DevOps & Infrastructure",
     "emoji": "🔧",
-    "keywords": ["devops", "sre", "site reliability", "infrastructure", "cloud engineer", "platform engineer"]
+    "keywords": ["devops", "devops engineer", "sre", "site reliability engineer", "site reliability", "infrastructure", "infrastructure engineer", "cloud engineer", "platform engineer", "systems administrator", "sysadmin", "network engineer", "security engineer", "it engineer", "solutions architect"]
   },
   "full_stack_frontend": {
     "title": "Full Stack & Frontend",
     "emoji": "🌐",
-    "keywords": ["full stack", "fullstack", "frontend", "front-end", "front end", "web developer", "react developer"]
+    "keywords": ["full stack", "fullstack", "frontend", "front-end", "front end", "web developer", "react developer", "angular developer", "vue developer", "web application developer", "ui engineer", "javascript developer", "typescript developer"]
+  },
+  "cybersecurity": {
+    "title": "Cybersecurity",
+    "emoji": "🔒",
+    "keywords": ["security engineer", "cybersecurity", "information security", "security analyst", "penetration tester", "security architect", "information security analyst", "security consultant", "network security", "application security"]
+  },
+  "hardware_engineering": {
+    "title": "Hardware Engineering",
+    "emoji": "⚙️",
+    "keywords": ["hardware engineer", "embedded systems engineer", "firmware engineer", "electrical engineer", "fpga engineer", "chip design", "vlsi engineer", "robotics engineer", "mechanical engineer", "hardware design engineer"]
+  },
+  "qa_testing": {
+    "title": "QA & Testing",
+    "emoji": "🧪",
+    "keywords": ["qa engineer", "quality assurance", "quality engineer", "test engineer", "automation engineer", "software tester", "manual tester", "quality analyst", "test automation engineer"]
+  },
+  "mobile_development": {
+    "title": "Mobile Development",
+    "emoji": "📱",
+    "keywords": ["ios developer", "android developer", "mobile developer", "react native developer", "flutter developer", "mobile application developer", "swift developer", "kotlin developer"]
+  },
+  "human_resources": {
+    "title": "Human Resources",
+    "emoji": "👥",
+    "keywords": ["hr coordinator", "hr intern", "human resources", "hr assistant", "people coordinator", "talent coordinator", "hr generalist", "recruiting coordinator", "talent acquisition", "hr specialist"]
   }
 }

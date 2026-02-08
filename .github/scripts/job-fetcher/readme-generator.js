@@ -8,6 +8,7 @@ const {
   getCompanyCareerUrl,
   getExperienceLevel,
   formatLocation,
+  generateMinimalJobFingerprint,
 } = require("./utils");
 
 // Path to repo root README.md
@@ -106,7 +107,8 @@ function generateJobTable(jobs) {
 
   jobs.forEach((job) => {
     const categoryKey = getJobCategoryFromKeywords(job.job_title, job.job_description);
-    categorizedJobs.add(job.job_id);
+    const fingerprint = generateMinimalJobFingerprint(job);
+    categorizedJobs.add(fingerprint);
 
     if (!jobsByCategory[categoryKey]) {
       jobsByCategory[categoryKey] = [];
