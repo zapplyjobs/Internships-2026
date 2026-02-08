@@ -2,8 +2,8 @@ name: Update Zapply Jobs
 
 on:
   schedule:
-    # Run every 15 minutes
-    - cron: '*/15 * * * *'
+    # Run daily at 9:02 AM UTC (staggered with other repos)
+    - cron: '2 9 * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
