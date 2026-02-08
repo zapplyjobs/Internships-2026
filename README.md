@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-595-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-324-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-314-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-596-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-324-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-315-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 324+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 595+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 324+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 596+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,13 +61,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (314 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (315 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🏢 **100000 Motorola Solutions, Inc.** | Full Stack Software Engineer Intern - Summer 2026 Internship | Waltham, Massachusetts | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Waltham-MA/Full-Stack-Software-Engineer-Intern---Summer-2026-Internship_R60172/apply/applyManually?via=https://www.internshipshq.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **ABC Owned TV Stations** | KABC-TV (ABC7) Broadcast Technology/IT Intern, Summer/Fall 2026 🏠 | Glendale, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disneycareers.com/en/job/glendale/kabc-tv-abc7-broadcast-technology-it-intern-summer-fall-2026/391/91181507488?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Adtheorant** | Data Science Intern | Remote in USA, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-cadent.icims.com/jobs/1300/job?mobile=true&needsRedirect=false) | undefined |
+| 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Fairfax, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/fairfax-va/software-engineer-intern-053357/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 | 🏢 **Airlines Reporting Corporation** | Software Engineer Intern | Springfield, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/springfield-va/software-engineer-intern-384747/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Alo Yoga** | Digital Engineering Intern | San Ramon, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5783146004) | undefined |
 | 🏢 **Alo Yoga** | Engineering Intern - Enterprise Resource Planning Finance Systems | Culver City, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781860004) | undefined |
@@ -750,33 +751,30 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 5 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 5 roles
+- **📁 Total Positions**: 2 roles
 - **🏢 Companies**: 324 companies
-- **🏷️ Top Category**: Product & Design
+- **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (1 position)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Block, Inc** | Mobile Software Engineer Intern (Summer 2026) | San Francisco, CA, USA 🏠 | San Francisco, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-USA-CA-San_Francisco-Mobile_Software_Engineer_Intern_Summer_2026.id23733680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Genentech** | 2026 Summer Intern - Genentech Summer Program - Manufacturing | Oceanside, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-101129/2026-Summer-Intern-Genentech-Summer-Program-Manufacturing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Boeing** | Boeing Summer 2026 Internship Program (Paid) - Engineering | Colorado Springs, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Boeing/Job/Boeing-Summer-2026-Internship-Program-(Paid)-Engineering/-in-Colorado-Springs,CO?jid=95f918d77b4a5f89&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (3 positions)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **CVS Health** | Pharmacy Intern | Hawthorne, Florida | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0819608/Pharmacy-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **CVS Health** | Pharmacy Intern | Palm Springs, Florida | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0815353/Pharmacy-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **HDR** | Mechanical Engineering Intern - Summer 2026 | Columbia, South Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/68e6b6cbae2b894b1d71cf86?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **KCI Technologies Inc.** | Transportation Engineering Intern | Harrisburg, Pennsylvania | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/KCI-Technologies-Inc./Job/Transportation-Engineering-Intern/-in-Harrisburg,PA?jid=97ee2b9cd88d8df9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 2d |
 
 </details>
 
@@ -790,7 +788,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 595 current opportunities from 324 top companies.**
+**🎯 596 current opportunities from 324 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
