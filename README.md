@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-593-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-324-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-313-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-595-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-324-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-314-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 324+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 593+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 324+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 595+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (313 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (314 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -310,6 +310,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | Intern – Software Engineer Intern 🏠 | Aurora, CO | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CO-_01820796) | undefined |
 | 🏢 **RTX** | Summer 2026: Applied Software Engineering Internship (Onsite) 🏠 | Middletown, Rhode Island | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rtx.com/global/en/job/01807596/Summer-2026-Applied-Software-Engineering-Internship-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **RTX** | Summer 2026: Network Research Intern (Onsite) 🏠 | Cambridge, Massachusetts | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rtx.com/global/en/job/01803759/Summer-2026-Network-Research-Intern-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **SAS** | Summer 2026 - Full Stack Software Developer Intern (Health and Life Science) 🏠 | Cary, North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SAS/Job/Summer-2026-Full-Stack-Software-Developer-Intern-(Health-and-Life-Science)/-in-Cary,NC?jid=05a79800fea24b3f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 3d |
 | 🏢 **SAS** | Summer 2026 - Full Stack Software Developer Intern (Health and Life Science) 🏠 | North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697ac387f6fc293b0a2cbdca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **SAS** | Summer 2026 - Full Stack Software Developer Intern (Health and Life Science) 🏠 | Burnsville, North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697ac8e88dbbf73badc8182b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **SAS** | AI & Society Intern 🏠 | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-sas.icims.com/jobs/40482/job?mobile=true&needsRedirect=false) | undefined |
@@ -561,7 +562,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (94 positions)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (95 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -611,6 +612,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Interdigital** | Intern – Deep Learning for Image and Video Processing | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/LosAltos_CA/Intern--Deep-Learning-for-Image-and-Video-Processing_REQ25-1025) | undefined |
 | 🏢 **Johnson & Johnson Services, Inc.** | Product Communications Summer Intern 2026 | Horsham, Pennsylvania | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careers.jnj.com/en/jobs/r-053620/product-communications-summer-intern-2026/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Kairos Power** | Nuclear Safety Analysis Engineer Intern | Albuquerque, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5764688004) | undefined |
+| 🏢 **Leidos** | Embedded Design Engineering Intern – Firmware 🇺🇸 | Huntsville, Alabama | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.leidos.com/jobs/17287656-embedded-design-engineering-intern-firmware?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 3d |
 | 🏢 **Leidos** | Embedded Design Engineering Intern – Firmware 🇺🇸 | Huntsville, Alabama | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.leidos.com/jobs/17287656-embedded-design-engineering-intern-firmware?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Leland** | Product Management Intern | Utah | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697a89edf6fc293b0a2c6383?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Lockheed Martin** | Launch Systems Integration Systems Engineer (Intern) 🇺🇸 🏠 | Sunnyvale, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.lockheedmartinjobs.com/job/sunnyvale/launch-systems-integration-systems-engineer-intern/694/91344197648?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -748,7 +750,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 593 current opportunities from 324 top companies.**
+**🎯 595 current opportunities from 324 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
