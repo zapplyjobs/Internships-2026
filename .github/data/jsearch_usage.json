@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "requests": 1,
   "remaining": 0,
   "queries_executed": [
@@ -8,9 +8,9 @@
   "metrics": {
     "jobs_per_query": {
       "product manager intern": [
-        1
+        0
       ]
     },
-    "total_jobs": 1
+    "total_jobs": 0
   }
 }
