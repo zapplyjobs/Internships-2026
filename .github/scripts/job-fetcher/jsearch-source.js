@@ -17,16 +17,31 @@ const path = require('path');
 // Configuration - PAID API KEY
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || 'e07540d3e5msh515ec67c062f15dp170d38jsn657708c915e8';
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
-const MAX_REQUESTS_PER_DAY = 1;  // 90 jobs/day quota: 1 request × 9 pages × 10 jobs = 90 jobs
+const MAX_REQUESTS_PER_DAY = 90;  // Allocated quota: 90 requests/day for Internships-2026
 const USAGE_FILE = path.join(__dirname, '../../data/jsearch_usage.json');
 
-// Internship-specific queries (targeted to avoid wasting free tier)
+// Internship-specific queries (optimized for entry-level internships)
 const INTERNSHIP_QUERIES = [
-    'software engineer intern',
     'software engineering internship',
-    'data science intern',
-    'machine learning intern',
-    'product manager intern'
+    'software engineer intern',
+    'summer software engineering intern',
+    'computer science internship',
+    'data science internship',
+    'machine learning internship',
+    'full stack internship',
+    'frontend internship',
+    'backend internship',
+    'mobile development internship',
+    'product management internship',
+    'ux design internship',
+    'data engineering internship',
+    'cloud engineering internship',
+    'devops internship',
+    'cybersecurity internship',
+    'ai internship',
+    'software development internship',
+    'technology internship',
+    'engineering internship'
 ];
 
 /**
