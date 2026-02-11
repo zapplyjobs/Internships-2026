@@ -311,6 +311,12 @@ function fillJobDates(jobs, jobDatesStore) {
 function isValidInternship(job, logRejections = false) {
     if (!job || !job.job_title) return false;
 
+    // EXCEPTION: JSearch jobs already filtered by API (internship-specific queries)
+    // Skip validation for JSearch source - trust the API
+    if (job.job_source === 'jsearch') {
+        return true;
+    }
+
     const title = (job.job_title || '').toLowerCase();
     const description = (job.job_description || '').toLowerCase();
 
