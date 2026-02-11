@@ -4749,5 +4749,27 @@
     "addedAt": "2026-02-09T09:30:55.141Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Technician Intern",
+      "employer_name": "TSI, Inc.",
+      "job_city": "Shoreview",
+      "job_state": "Minnesota",
+      "job_description": "Looking to gain valuable experience through a meaningful Engineering Technician Summer Internship? Look no further than TSI (www.tsi.com)!\n\nAt TSI, you’ll be part of a real project, getting real experience!\n• Work side by side with engineering professionals to learn to contribute on a project team\n• Develop an understanding of the new product development environment and how you will apply the skills you’ve acquired through your education\n• Work with leading edge technology to develop sophisticated electronic measurement instruments\n• Work with state-of-the-art development tools\n• Experience new product development from beginning to end not just a niche\n\nAt TSI, here’s just some of the experience opportunities:\n• Construct, evaluate, and troubleshoot prototype devices\n• Oscilloscope probing techniques\n• Record test results, numerical and graphical data, and recommendations\n• Read and interpret engineering drawings and schematics\n• Soldering skills\n\nQualifications and Skills:\n• Major/Program: Electronic Technology or Robotics\n• Maintain a minimum CUM 3.0 GPA (based on a 4.0 scale)\n• Student Status: Currently enrolled as a full-time student\n• Comfortable in a lab environment\n• Strong desire to learn, self-motivated\n• Naturally high attention to detail, good organization skills\n\nHere are some of the things our interns have said about their experience at TSI:\n• I gained real, hands-on experience!\n• I tell my friends what I’m doing for my internship, and they are jealous of the experience I’m getting!!!\n• The people here are GREAT!\n• Everyone is really helpful and very nice. Easy to work with!\n• I want to work here when I graduate!\n\nLet us know if this is you!\n\nTSI is located in Shoreview, MN (15 minutes from the Twin Cities). We have FREE parking and free coffee/tea/hot chocolate, a history of hiring prior interns, and super smart people to learn from and laugh with! You’re going to love it here.\n\nPay & Benefits:\n• 12-week (approx.) internship program – Summer 2026\n• This position pays an hourly rate of $19.00 - $20.00 per hour, depending on qualifications and experience\n• Interns work approximately 40 hours each week during the internship\n• Eligible for time off in compliance with applicable state laws\n• Pay amount does not guarantee employment for any particular period of time.\n\nLegal authorization to work in the United States without the need for sponsorship. We require proof of eligibility to work in the United States.\n\nEOE/Vet/Disability",
+      "job_apply_link": "https://careers.tsi.com/job/Shoreview-Engineering-Technician-Intern-MN-55126/1325765600/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+      "job_employment_type": "Full-time and Internship",
+      "job_source": "jsearch",
+      "job_publisher": "TSI Careers",
+      "job_is_remote": false,
+      "job_location": "Shoreview, MN",
+      "job_posted_at": "1h",
+      "id": "tsi-engineering-technician-intern-shoreview"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-11T18:43:11.746Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
