@@ -1,10 +1,11 @@
 {
   "date": "2026-02-11",
-  "requests": 3,
-  "remaining": 87,
+  "requests": 4,
+  "remaining": 86,
   "queries_executed": [
     "product manager intern",
     "software development internship",
+    "technology internship",
     "technology internship"
   ],
   "metrics": {
@@ -16,9 +17,10 @@
         1
       ],
       "technology internship": [
+        2,
         2
       ]
     },
-    "total_jobs": 3
+    "total_jobs": 5
   }
 }
