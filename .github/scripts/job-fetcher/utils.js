@@ -791,7 +791,11 @@ function getExperienceLevel(title, description = "") {
     return "Entry-Level";
   }
 
-  return "Mid-Level";
+  // QUICK FIX 2026-02-11: Default to Entry-Level instead of Mid-Level
+  // Reason: JSearch API already filters for under_3_years_experience, so jobs without
+  // obvious keywords are likely entry-level. This prevents 100% rejection of JSearch jobs.
+  // TODO: Migrate to centralized aggregator where repos control their own filtering
+  return "Entry-Level";
 }
 
 function getJobCategory(title, description = "") {
