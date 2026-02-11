@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-436-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-251-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-222-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-435-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-250-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-222-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 251+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 436+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 250+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 435+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -291,7 +291,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (140 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (139 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -412,7 +412,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **US01 SWIFT Pan Am** | Business Development Intern - Corporates and Partners (Hybrid) | New York, New York | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://swift.wd3.myworkdayjobs.com/Join-Swift/job/New-York-United-States/Business-Development-Intern---Corporates-and-Partners--Hybrid-_2025-15117?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Vanderlande Industries** | Supply Chain Data & Analytics Intern | Marietta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Supply-Chain-Data---Analytics-Intern_JR35405) | undefined |
 | 🏢 **Verizon Communications** | Verizon Consumer Experience Strategy Summer 2026 Internship: New Jersey Institute of Technology - New York University - & Rutgers University | Berkeley Heights, NJ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Experience-Strategy-Summer-2026-Internship--New-Jersey-Institute-of-Technology--New-York-University----Rutgers-University_R-1090518) | undefined |
-| 🏢 **Virtua Health** | IT Informatics Intern 🏠 | Mt Laurel Township, NJ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084) | undefined |
 | 🏢 **VirtualVocations** | Data Science Intern | Murfreesboro, Tennessee | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=f1d371bf43d7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **VirtualVocations** | Data Science Intern | Alexandria, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=361faab35da0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **VirtualVocations** | Data Science Intern | Dayton, Ohio | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=fac903217a8e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -604,10 +603,38 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
+
+> Some positions may still be accepting applications or useful for planning.
+
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: 1 roles
+- **🏢 Companies**: 250 companies
+- **🏷️ Top Category**: Data Science & Analytics
+
+<details>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (1 position)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Virtua Health** | IT Informatics Intern 🏠 | Mt Laurel Township, NJ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084) | undefined |
+
+</details>
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
-**🎯 436 current opportunities from 251 top companies.**
+**🎯 435 current opportunities from 250 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

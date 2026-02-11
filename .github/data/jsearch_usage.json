@@ -1,16 +1,20 @@
 {
   "date": "2026-02-11",
-  "requests": 1,
-  "remaining": 0,
+  "requests": 2,
+  "remaining": 88,
   "queries_executed": [
-    "product manager intern"
+    "product manager intern",
+    "software development internship"
   ],
   "metrics": {
     "jobs_per_query": {
       "product manager intern": [
         0
+      ],
+      "software development internship": [
+        1
       ]
     },
-    "total_jobs": 0
+    "total_jobs": 1
   }
 }
