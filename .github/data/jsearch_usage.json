@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 14,
-  "remaining": 76,
+  "requests": 15,
+  "remaining": 75,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -16,6 +16,7 @@
     "frontend internship",
     "frontend internship",
     "frontend internship",
+    "backend internship",
     "backend internship"
   ],
   "metrics": {
@@ -50,6 +51,7 @@
         0
       ],
       "backend internship": [
+        0,
         0
       ]
     },
