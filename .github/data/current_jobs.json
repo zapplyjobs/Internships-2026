@@ -312,39 +312,6 @@
     "_source": "posted_jobs"
   },
   {
-    "job_title": "Data Engineering Intern",
-    "employer_name": "APEX Analytix",
-    "job_city": "Greensboro",
-    "job_state": "NC",
-    "job_apply_link": "https://ats.rippling.com/apexanalytix-careers/jobs/6ee082e7-a22e-4cf9-b80b-38f38db7f555",
-    "job_posted_at_datetime_utc": "2026-01-29T23:14:42.000Z",
-    "job_description": "Quick Take The Data Engineering Intern is responsible for developing and deploying data applications, deploying into Kubernetes clusters, a...",
-    "id": "704604f2431df5c4",
-    "_source": "posted_jobs"
-  },
-  {
-    "job_title": "Software Engineer – Intern",
-    "employer_name": "Sprinter Health",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_apply_link": "https://jobs.lever.co/SprinterHealth/27f2b51b-35bb-4da0-9779-71e31af38961/apply",
-    "job_posted_at_datetime_utc": "2026-01-29T23:12:53.000Z",
-    "job_description": "<p><b>We’re looking for ambitious software engineering interns who want to make an impact</b>. We want to make a difference in the lives of those falling between the cracks of the current healthcare system, and could use all the help we can get reimagining last-mile healthcare delivery.</p><p><br></p><p><b>If you want to experience real-world technical challenges</b>, we want to talk to you. Health tech is challenging enough on its own, but add in DoorDash-style logistics problems at scale and the constraints of a distributed labor force working in patients’ homes and things get interesting quickly. You’ll get to contribute to solving hard problems like how to:</p><p><br></p><p>🚗 <b>Optimize logistics</b> simulations for a fleet of mobile clinicians at national scale&nbsp;</p><p>📢 <b>Strategize outreach</b> across SMS, phone, email, and mail for maximal patient reach</p><p>🔍 <b>Uncover care gaps</b> and predict future risk with automated deep analysis of patient data</p><p>📝 <b>Synthesize rich, pre-visit clinical summaries</b> for our NPs using LLMs over patient records</p><p>🤖 <b>Detect and prevent medical data errors</b> with automated validation and anomaly detection</p><p><br></p><p>If any of these sound interesting, Sprinter could be the right place for you. This is your chance to learn and grow while contributing to something truly 0 to 1 at a company with meteoric growth.</p><p><br></p><p>Since just 2021, we've grown to:</p><p><br></p><p>👥 <b>&gt;150k patients served</b></p><p>🚀 <b>6x revenue growth</b> last year, 5x the year before</p><p>🌍 <b>&gt;60% coverage</b> of the US population</p><p>🏥 <b>6 of the 10</b> largest US health plans</p><p>🏦 <b>&gt;$125M raised</b> from a16z, General Catalyst, GV, and Accel</p><p><br></p><p><u><b>Internship Logistics: </b></u></p><p>Summer 2026 (Dates flexible)</p><p>Hybrid Work Schedule (SF + Menlo Park)</p>\\n<p></p><p><br></p><b>Technologies</b><ul><li>Serverless AWS (AppSync, DynamoDB, Lambda, Amplify, CloudFormation, Node)</li><li>React Native, React Native for Web</li><li>GraphQL</li><li>Typescript</li><li>Javascript</li><li><a rel=\"noopener noreferrer\" class=\"postings-link\" href=\"http://Node.js\">Node.js</a></li></ul><p><br></p><b>The Fun Stuff ™</b><ul><li>Free lunch everyday and fully-stocked microkitchens and coffee/tea bar</li><li>Team offsites, game hours, tech talks, and design sprints</li><li>Flexible work-from-home policy for work/life balance (3 days in the Menlo Park office)</li></ul><p><br></p><p></p>\\n<p>The internship pays a weekly compensation rate of $2,200.</p><p><br></p><p>Sprinter Health is an equal opportunity employer. We value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status or other protected classes.</p><p><br></p><p>If you're looking for a career that offers opportunities for growth, continual development, professional challenge and the chance to make a real difference in the lives of people, apply today!</p><p><br></p><p><br></p><p><i>Beware of recruitment fraud and scams that involve fictitious job descriptions followed by false job offers.</i></p><p><br></p><p><i>If you are applying for a job, you can confirm the legitimacy of a job posting by viewing current open roles&nbsp;</i><b><i><a rel=\"noopener noreferrer\" class=\"postings-link\" href=\"https://jobs.lever.co/SprinterHealth\">here</a></i></b><i>. All legitimate job postings will require an application to be made directly on our official Sprinter Health Careers website. Job-related communications will only be sent from email addresses ending in @sprinterhealth.com. Please ensure that you’re only replying to emails that end with @sprinterhealth.com.</i></p>",
-    "id": "b4be6d2e277c2a27",
-    "_source": "posted_jobs"
-  },
-  {
-    "job_title": "Systems Architecture Intern",
-    "employer_name": "Rheem",
-    "job_city": "Roswell",
-    "job_state": "GA",
-    "job_apply_link": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3587",
-    "job_posted_at_datetime_utc": "2026-01-29T23:12:13.000Z",
-    "job_description": "The Systems Architecture Intern will help design, test, and validate the IoT platform and the ecosystem. We aim to develop your talents as an engineer and enable you to contribute significantly to the Smart Connected Products platform in new feature design and development during your time at Rheem. This position is in our Advanced Technology Integration department in Roswell, Georgia (Hybrid). This position will start immediately, working 20-40 hours per week.",
-    "id": "2c073777aa75e8ba",
-    "_source": "posted_jobs"
-  },
-  {
     "job_title": "Data Analyst – Co-op/Intern - Anti Money Laundering",
     "employer_name": "Bank of Montreal",
     "job_city": "Chicago",
