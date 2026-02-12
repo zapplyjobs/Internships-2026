@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 29,
-  "remaining": 61,
+  "requests": 30,
+  "remaining": 60,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -31,7 +31,8 @@
     "cloud engineering internship",
     "cloud engineering internship",
     "devops internship",
-    "devops internship"
+    "devops internship",
+    "cybersecurity internship"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -93,8 +94,11 @@
       "devops internship": [
         0,
         0
+      ],
+      "cybersecurity internship": [
+        2
       ]
     },
-    "total_jobs": 17
+    "total_jobs": 19
   }
 }
