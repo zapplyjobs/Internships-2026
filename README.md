@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-100-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-68-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-58-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-98-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-66-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-57-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 68+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 100+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 66+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 98+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (58 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (57 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -112,7 +112,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Senator Maria Cantwell** | Spring Press Internship 🏠 | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.employment.senate.gov/job/spring-press-internship-washington-district-of-columbia-0580?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Senator Patty Murray** | Communications Internship | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.employment.senate.gov/job/communications-internship-washington-district-of-columbia-0577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Sinclair Broadcast Group** | News Intern | Pensacola, Florida | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/requisitions/preview/15874/?mode=location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Sprinter Health** | Software Engineer – Intern | Menlo Park, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/SprinterHealth/27f2b51b-35bb-4da0-9779-71e31af38961/apply) | undefined |
 | 🏢 **T-Mobile** | Summer 2026 Associate Software Engineer Internship | Philadelphia, Pennsylvania | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=94cd259f49b8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Two Six Technologies** | Research Intern 🇺🇸 | Arlington, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5783821004) | undefined |
 | 🏢 **UnitedHealthcare** | Nurse Intern | Aiea, Hawaii | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/amp/job/us-hi-aiea-nurse-intern-unitedhealthcare-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -127,11 +126,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (31 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (30 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **APEX Analytix** | Data Engineering Intern | Greensboro, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ats.rippling.com/apexanalytix-careers/jobs/6ee082e7-a22e-4cf9-b80b-38f38db7f555) | undefined |
 | 🏢 **Avathon** | Data Scientist Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://avathon.com/company/careers-job-listing/?gh_jid=4655247005) | undefined |
 | 🏢 **Blue Cross and Blue Shield of Minnesota** | Intern Sales Technology Data Analyst 🏠 | Eagan, MN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Intern---Sales-Technology-Data-Analyst_R0006194) | undefined |
 | 🏢 **BorgWarner** | Data Science Intern, Supply Chain BOM Analytics | Unknown | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/data-science-intern-supply-chain-bom-analytics/7162621?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -255,18 +253,34 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 5 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 228 companies
+- **📁 Total Positions**: 5 roles
+- **🏢 Companies**: 225 companies
 - **🏷️ Top Category**: Software Engineering
+
+<details>
+<summary><h3>💻 <strong>Software Engineering</strong> (1 position)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Sprinter Health** | Software Engineer – Intern | Menlo Park, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/SprinterHealth/27f2b51b-35bb-4da0-9779-71e31af38961/apply) | undefined |
+
+</details>
+
+<details>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (1 position)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **APEX Analytix** | Data Engineering Intern | Greensboro, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ats.rippling.com/apexanalytix-careers/jobs/6ee082e7-a22e-4cf9-b80b-38f38db7f555) | undefined |
+
+</details>
+
+
 
 </details>
 
@@ -276,7 +290,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 100 current opportunities from 68 top companies.**
+**🎯 98 current opportunities from 66 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
