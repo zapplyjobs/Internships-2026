@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 32,
-  "remaining": 58,
+  "requests": 33,
+  "remaining": 57,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -34,6 +34,7 @@
     "devops internship",
     "cybersecurity internship",
     "cybersecurity internship",
+    "ai internship",
     "ai internship"
   ],
   "metrics": {
@@ -102,9 +103,10 @@
         2
       ],
       "ai internship": [
+        2,
         2
       ]
     },
-    "total_jobs": 23
+    "total_jobs": 25
   }
 }
