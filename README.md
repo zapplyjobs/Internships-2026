@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-94-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-63-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-54-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-89-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-60-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-51-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 63+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 94+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 60+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 89+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (54 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (51 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -89,8 +89,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Genentech** | 2026 Summer Intern - Regev Lab - Feedback Driven AI Systems | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Regev-Lab---Feedback-Driven-AI-Systems_202601-102363) | undefined |
 | 🖥️ **Hewlett Packard Enterprise** | Performance Marketing & Analytics Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Performance-Marketing---Analytics-Intern_1202317) | undefined |
 | 🏢 **Idaho National Laboratory** | DOE-EM University Programs Intern | Idaho Falls, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23660) | undefined |
-| 🏢 **Interstates** | Low Code Developer Intern | Sioux Falls, SD | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.interstates.com/careers/jobs?gh_jid=4114286009&gh_jid=4114286009) | undefined |
-| 🏢 **Kairos Power** | Materials Computational Scientist Intern | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763259004) | undefined |
 | 🏢 **Kaiser Permanente** | Data Reporting Master's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406128) | undefined |
 | 🏢 **Kaiser Permanente** | Application Development Bachelor's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406364) | undefined |
 | 🏢 **LMI Consulting, LLC** | Software Development Intern (FIU Students) | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=2233aae695a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -111,7 +109,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Senator Patty Murray** | Communications Internship | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.employment.senate.gov/job/communications-internship-washington-district-of-columbia-0577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Sinclair Broadcast Group** | News Intern | Pensacola, Florida | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/requisitions/preview/15874/?mode=location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **T-Mobile** | Summer 2026 Associate Software Engineer Internship | Philadelphia, Pennsylvania | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=94cd259f49b8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Two Six Technologies** | Research Intern 🇺🇸 | Arlington, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5783821004) | undefined |
 | 🏢 **UnitedHealthcare** | Nurse Intern | Aiea, Hawaii | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/amp/job/us-hi-aiea-nurse-intern-unitedhealthcare-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **University Health** | Academy Student Nurse Internship | Pleasanton, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=e0e378aa1e54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **University of Michigan** | REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W / 12E / 11W) | Ann Arbor, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d0d7e0b1f6cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -161,13 +158,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (8 positions)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (6 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🏢 **California Life Company** | Intern, Machine Learning for Molecule Design (MS / PhD) | South San Francisco, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=44357ad1862a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Genentech** | 2026 Summer Intern | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Machine-Learning-for-Small-Molecule-Drug-Discovery_202601-102265) | undefined |
-| 🏢 **Kairos Power** | Nuclear Safety Analysis Engineer Intern | Albuquerque, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5764688004) | undefined |
 | 🏢 **The MITRE Corporation** | Internships in Electrical or Computer Engineering | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **The Walt Disney Company** | WDI Figure Programming Intern | Orlando, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Figure-Programming-Intern--Summer-Fall-2026_10131865) | undefined |
 | 🏢 **UnitedHealthcare** | Nurse Intern - Pediatric Case Management, | Beaumont, Texas | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169284803-nurse-intern-pediatric-case-management?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -249,13 +244,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 12 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 17 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 12 roles
-- **🏢 Companies**: 218 companies
+- **📁 Total Positions**: 17 roles
+- **🏢 Companies**: 211 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
@@ -263,18 +258,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Eversource Energy** | Transmission Intern - Business Systems Analyst | Hartford, CT | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Summer-Transmission-Intern--Business-Systems-Analyst_R-029688) | undefined |
-| 🏢 **Intuit** | Software Engineer Intern | San Diego, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.intuit.com/job/san-diego/software-engineer-intern-business-tax/27595/91172117936) | undefined |
-| 🏢 **Verition Fund Management** | 2026 Summer Internship - Equities Technology - Chicago | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.verition.com/open-positions?gh_jid=5037983007) | undefined |
+| 🏢 **Interstates** | Low Code Developer Intern | Sioux Falls, SD | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.interstates.com/careers/jobs?gh_jid=4114286009&gh_jid=4114286009) | undefined |
+| 🏢 **Kairos Power** | Materials Computational Scientist Intern | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763259004) | undefined |
+| 🏢 **Two Six Technologies** | Research Intern 🇺🇸 | Arlington, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5783821004) | undefined |
 
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Citizens Financial Group** | Mobile App Development Intern | Coralville, IA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44487) | undefined |
+| 🏢 **Genentech** | 2026 Summer Intern | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Machine-Learning-for-Small-Molecule-Drug-Discovery_202601-102265) | undefined |
+| 🏢 **Kairos Power** | Nuclear Safety Analysis Engineer Intern | Albuquerque, NM | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5764688004) | undefined |
 
 </details>
 
@@ -288,7 +284,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 94 current opportunities from 63 top companies.**
+**🎯 89 current opportunities from 60 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
