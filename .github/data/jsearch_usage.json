@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
-  "requests": 26,
-  "remaining": 64,
+  "requests": 27,
+  "remaining": 63,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -28,6 +28,7 @@
     "ux design internship",
     "data engineering internship",
     "data engineering internship",
+    "cloud engineering internship",
     "cloud engineering internship"
   ],
   "metrics": {
@@ -84,6 +85,7 @@
         0
       ],
       "cloud engineering internship": [
+        0,
         0
       ]
     },
