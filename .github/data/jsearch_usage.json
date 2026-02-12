@@ -1,34 +1,16 @@
 {
-  "date": "2026-02-11",
-  "requests": 7,
-  "remaining": 83,
+  "date": "2026-02-12",
+  "requests": 1,
+  "remaining": 89,
   "queries_executed": [
-    "product manager intern",
-    "software development internship",
-    "technology internship",
-    "technology internship",
-    "technology internship",
-    "computer science internship",
-    "computer science internship"
+    "software engineering internship"
   ],
   "metrics": {
     "jobs_per_query": {
-      "product manager intern": [
-        0
-      ],
-      "software development internship": [
-        1
-      ],
-      "technology internship": [
-        2,
-        2,
-        3
-      ],
-      "computer science internship": [
-        3,
+      "software engineering internship": [
         3
       ]
     },
-    "total_jobs": 14
+    "total_jobs": 3
   }
 }
