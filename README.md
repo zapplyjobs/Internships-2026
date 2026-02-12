@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-110-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-77-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-63-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-100-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-68-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-58-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 77+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 110+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 68+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 100+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (63 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (58 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -74,7 +74,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Bio-Techne** | Software Developer Intern | Wallingford, CT | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Developer-Intern_JR101471) | undefined |
 | 🏢 **Blizzard Entertainment** | Localization Intern | Santa Monica, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Localization-Intern_R026632) | undefined |
 | 🏢 **Booz Allen** | Data Engineer Intern 🏠 | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer-Intern_R0232642) | undefined |
-| 🏢 **ByteDance** | Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS) | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69087d83bcccf20de59d04c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN | Gilliam, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=41304a093287&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Eastwood) | Kalamazoo, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I-Nursing Internship-PRN (Kansas City) | Kansas City, Missouri | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=38665d03251e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -84,7 +83,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🌐 **Cisco** | AI Operations Engineer I (Intern) - United States | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Copeland** | Software Engineering Intern | Eden Prairie, Minnesota | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d6c31b5f7f0a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Defense Intelligence Agency** | 2027 Summer Internship Program –Analysis– National Capitol Region | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856058600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Disability Solutions** | EE / CE / RF Engineering Intern, Summer 2026 | Nashua, New Hampshire | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=388f5edc447d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Etsy** | Software Engineering Intern | Brooklyn, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineering-Intern--2026--Brooklyn--NY-_JR5371) | undefined |
 | 🏢 **Eversource Energy** | Transmission Intern - Business Systems Analyst | Hartford, CT | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Summer-Transmission-Intern--Business-Systems-Analyst_R-029688) | undefined |
 | 🏢 **Federal Express Corporation** | Logistics Intern - Greenwood Hub (Summer 2026) | Greenwood, Indiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.fedex.com/logistics-intern-greenwood-hub-summer-2026/job/P25-309164-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -94,8 +92,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Idaho National Laboratory** | DOE-EM University Programs Intern | Idaho Falls, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23660) | undefined |
 | 🏢 **Interstates** | Low Code Developer Intern | Sioux Falls, SD | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.interstates.com/careers/jobs?gh_jid=4114286009&gh_jid=4114286009) | undefined |
 | 🏢 **Intuit** | Software Engineer Intern | San Diego, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.intuit.com/job/san-diego/software-engineer-intern-business-tax/27595/91172117936) | undefined |
-| 🏢 **Intuitive Surgical** | Environmental, Health & Safety (EHS) Intern | Blacksburg, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000106401857/JOB211947/environmental-health-safety-ehs-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **IPinfo** | Research Intern | Boise, Idaho | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=8446eb4f1a07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Kairos Power** | Materials Computational Scientist Intern | Alameda, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/kairospower/jobs/5763259004) | undefined |
 | 🏢 **Kaiser Permanente** | Data Reporting Master's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406128) | undefined |
 | 🏢 **Kaiser Permanente** | Application Development Bachelor's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406364) | undefined |
@@ -105,7 +101,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🟦 **Microsoft** | Research Intern - Applied Speech Research | Berkeley, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556751423) | undefined |
 | 🟦 **Microsoft** | Research Intern - Agentic Programming | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556750506) | undefined |
 | 🏢 **MKS Instruments** | Software Engineer Intern | Beaverton, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2026-Spring-Software-Engineering-MECOP-Intern_R14517) | undefined |
-| 🏢 **Motorola Solutions** | Software Engineering Intern - 2026 Internship Program | West Valley City, Utah | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=66b1c84c3c93&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **NISC** | Intern - Software Development | Bismarck, North Dakota | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697b9b471423772304ebb843?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Oracle** | Ada Intern | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325250) | undefined |
 | 🏢 **Oracle** | Software Development Intern - Global Licensing and Advisory Services | San Carlos, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325487) | undefined |
@@ -132,7 +127,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (35 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (31 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -143,7 +138,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Caterpillar Inc.** | Intern - Manufacturing Engineering - Data Analysis | West Lafayette, IN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Intern-Summer-2026--Manufacturing-Engineering--Data-Analysis-_R0000347651) | undefined |
 | 🌐 **Cisco** | Business Analyst (Intern) - United States 🏠 | Annapolis Junction, Maryland | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.localjobs.com/job/annapolis-junction-md-business-analyst-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Dordt University** | AI/ML Engineering internship: SVL | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84961) | undefined |
-| 🏢 **Federal Express Corporation** | Analytics Intern - Global Sales Operations | Memphis, Tennessee | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.fedex.com/analytics-intern-global-sales-operations/job/P25-310096-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Fidelity Investments** | Intern Data Science and Optimization | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Science-and-Optimization_2018173) | undefined |
 | 🏢 **Finastra** | AI Engineer Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern_REQ0126_0035950) | undefined |
 | 🏢 **Genentech** | 2026 Summer Intern - HIT Program Management Office (PMO) | Hillsboro, Oregon | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102340/2026-Summer-Intern-HIT-Program-Management-Office-PMO?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -151,14 +145,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Jabil** | Data Governance Business Systems Analyst Intern | Remote in USA, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Governance-Business-Systems-Analyst-Intern_J2437910) | undefined |
 | 🏢 **Kaiser Permanente** | Data Analytics Intern - Multiple Teams | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480) | undefined |
 | 🏢 **Kaiser Permanente** | Data Analytics Bachelor Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405951) | undefined |
-| 🏢 **Live Nation** | Live Nation Marketing and Data Science Intern | Beverly Hills, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.fastweb.com/career-planning/internships/178632-live-nation-marketing-and-data-science-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🟦 **Microsoft** | Research Intern - AI for Nursing | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556750525) | undefined |
 | 🏢 **onsemi** | Summer 2026 – AI Engineer Intern | Scottsdale, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504527) | undefined |
 | 🏢 **QTS** | Energy Markets Data Analytics Intern 🇺🇸 | Duluth, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2026-Internship--Energy-Markets-Data-Analytics_R2026-0224) | undefined |
-| 🏢 **Radiant Digital** | AI Intern | Vienna, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697a9c4e8dbbf73badc7d85c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Roblox** | [Summer 2026] Data Scientist - PhD Intern | San Mateo, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Roblox/Job/[Summer-2026]-Data-Scientist-PhD-Intern/-in-San-Mateo,CA?jid=19c18afea02491c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **T-Mobile** | Summer 2026 Machine Learning Engineering Internship | Dunwoody, Georgia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d6127412b9dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Tarsus Pharmaceuticals, Inc.** | Intern, Clinical Data Analysis (Machine Learning) | Orange, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697a7e26f6fc293b0a2c50e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **TikTok** | Data Science Intern - Advertisement Team - 2026 Start','PhD | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7602395891774802181) | undefined |
 | 🏢 **Vanderlande Industries** | Supply Chain Data & Analytics Intern | Marietta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Supply-Chain-Data---Analytics-Intern_JR35405) | undefined |
 | 🏢 **VirtualVocations** | Data Science Intern | Murfreesboro, Tennessee | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=f1d371bf43d7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -192,12 +183,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🔧 <strong>DevOps & Infrastructure</strong> (2 positions)</h3></summary>
+<summary><h3>🔧 <strong>DevOps & Infrastructure</strong> (1 position)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🌐 **Cisco** | Project Specialist I (Intern) United States 🏠 | North Carolina | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2000247EXTERNALENGLOBAL/Project-Specialist-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Expeditors** | Intern (Developer) GT Connected Systems and Infrastructure | Seattle, Washington | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=57cad9762dfc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 
 </details>
 
@@ -265,18 +255,50 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 35 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1 roles
-- **🏢 Companies**: 252 companies
-- **🏷️ Top Category**: Product & Design
+- **📁 Total Positions**: 35 roles
+- **🏢 Companies**: 229 companies
+- **🏷️ Top Category**: Software Engineering
+
+<details>
+<summary><h3>💻 <strong>Software Engineering</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **ByteDance** | Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS) | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69087d83bcccf20de59d04c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Disability Solutions** | EE / CE / RF Engineering Intern, Summer 2026 | Nashua, New Hampshire | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=388f5edc447d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Intuitive Surgical** | Environmental, Health & Safety (EHS) Intern | Blacksburg, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000106401857/JOB211947/environmental-health-safety-ehs-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **IPinfo** | Research Intern | Boise, Idaho | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=8446eb4f1a07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Motorola Solutions** | Software Engineering Intern - 2026 Internship Program | West Valley City, Utah | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=66b1c84c3c93&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+
+</details>
+
+<details>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (4 positions)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Federal Express Corporation** | Analytics Intern - Global Sales Operations | Memphis, Tennessee | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.fedex.com/analytics-intern-global-sales-operations/job/P25-310096-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Live Nation** | Live Nation Marketing and Data Science Intern | Beverly Hills, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.fastweb.com/career-planning/internships/178632-live-nation-marketing-and-data-science-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Radiant Digital** | AI Intern | Vienna, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697a9c4e8dbbf73badc7d85c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Tarsus Pharmaceuticals, Inc.** | Intern, Clinical Data Analysis (Machine Learning) | Orange, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/697a7e26f6fc293b0a2c50e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+
+</details>
+
+<details>
+<summary><h3>🔧 <strong>DevOps & Infrastructure</strong> (1 position)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Expeditors** | Intern (Developer) GT Connected Systems and Infrastructure | Seattle, Washington | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=57cad9762dfc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+
+</details>
+
+
 
 </details>
 
@@ -286,7 +308,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 110 current opportunities from 77 top companies.**
+**🎯 100 current opportunities from 68 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -294,6 +316,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** February 11, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 12, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
