@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-13T04:33:35.844Z",
+  "timestamp": "2026-02-13T05:11:34.342Z",
   "workflow": {
-    "last_commit": "2026-02-12 22:31:01 -0600",
-    "commit_message": "Add observability system (metrics dashboard + health check)"
+    "last_commit": "2026-02-13 04:33:36 +0000",
+    "commit_message": "Update jobs - 2026-02-13"
   },
   "sources": {
     "jsearch": 0,
@@ -16,18 +16,18 @@
   },
   "processing": {
     "current_jobs": 323,
-    "seen_jobs_total": 1234,
+    "seen_jobs_total": 1235,
     "fresh_this_run": 10,
-    "pending_queue": 150
+    "pending_queue": 151
   },
   "quota": {
-    "jsearch": "5/90",
-    "jsearch_remaining": 85
+    "jsearch": "6/90",
+    "jsearch_remaining": 84
   },
   "databases": {
     "current_jobs_size": "1.84 MB",
-    "seen_jobs_size": "79.84 KB",
-    "pending_queue_size": "833.33 KB"
+    "seen_jobs_size": "79.93 KB",
+    "pending_queue_size": "839.56 KB"
   },
   "health": {
     "current_jobs_exists": true,
