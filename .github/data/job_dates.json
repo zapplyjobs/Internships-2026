@@ -31072,5 +31072,11 @@
     "job_title": "Engineering Technician Intern",
     "company": "TSI, Inc.",
     "first_seen": "2026-02-13T19:23:15.886Z"
+  },
+  "re:build-manufacturing-design-engineering-intern-kalamazoo": {
+    "assigned_date": "2026-02-13T19:44:00.234Z",
+    "job_title": "Design Engineering Intern",
+    "company": "Re:Build Manufacturing",
+    "first_seen": "2026-02-13T19:44:00.234Z"
   }
 }
