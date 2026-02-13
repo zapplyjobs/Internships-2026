@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "requests": 21,
-  "remaining": 69,
+  "requests": 22,
+  "remaining": 68,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -22,6 +22,7 @@
     "mobile development internship",
     "product management internship",
     "product management internship",
+    "ux design internship",
     "ux design internship",
     "ux design internship"
   ],
@@ -70,9 +71,10 @@
       ],
       "ux design internship": [
         3,
+        3,
         3
       ]
     },
-    "total_jobs": 26
+    "total_jobs": 29
   }
 }
