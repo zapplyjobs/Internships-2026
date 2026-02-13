@@ -5145,5 +5145,27 @@
     "addedAt": "2026-02-13T10:21:39.333Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "UX Intern - User Experience Research",
+      "employer_name": "beBeeUserResearcher",
+      "job_city": "Culver City",
+      "job_state": "California",
+      "job_description": "Work as a researcher in user experience to support the development of products and services. We are seeking an intern to contribute to our team and gain valuable experience in research design and implementation.\n\nWe aim to create user-centered designs that meet the needs of our customers. As a researcher, you will work with cross-functional teams to investigate user behavior, identify pain points, and develop solutions to address them.\n• User Research: Conduct qualitative and quantitative research to understand user needs and preferences.\n• Design Solutions: Collaborate with designers to develop prototypes and test their usability.\n• Data Analysis: Analyze research findings to inform design decisions.\nRequired Skills and Qualifications\n\nTo succeed in this role, you should have:\n• Strong analytical skills: Ability to collect and analyze data from various sources.\n• Excellent communication skills: Capacity to present research findings and recommendations effectively.\n• Domain expertise: Understanding of user experience research principles and methods.\n\nBenefits\n\nThis internship offers:\n• Mentorship and guidance: Work closely with experienced researchers to learn new skills.\n• Opportunities for growth: Contribute to real-world projects and build your portfolio.\n\nEducation Requirements\n\nYou must be currently pursuing a Bachelor's degree or higher in a relevant field (e.g., human-computer interaction, psychology, computer science).",
+      "job_apply_link": "https://www.jobilize.com/job/us-culver-ux-intern-user-experience-research-bebeeuserresearcher-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Jobilize",
+      "job_is_remote": false,
+      "job_location": "Culver City, CA",
+      "job_posted_at": "1h",
+      "id": "www-jobilize-com-job-us-culver-ux-intern-user-experience-research-bebeeuserresearcher-hiring"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-13T11:05:52.341Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
