@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-62-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-45-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-39-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-59-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-43-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-36-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 45+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 62+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 43+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 59+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (39 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (36 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -75,15 +75,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Eastwood) | Kalamazoo, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I-Nursing Internship-PRN (Kansas City) | Kansas City, Missouri | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=38665d03251e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (71030) | Gloster, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=f19bb6ed2052&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🌐 **Cisco** | Software Engineer 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2007170) | undefined |
 | 🌐 **Cisco** | Software Engineer I Intern United States | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/79nHnGJ3VaaPYFkAi5x3Ay?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🌐 **Cisco** | AI Operations Engineer I (Intern) - United States | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Copeland** | Software Engineering Intern | Eden Prairie, Minnesota | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d6c31b5f7f0a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Etsy** | Software Engineering Intern | Brooklyn, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineering-Intern--2026--Brooklyn--NY-_JR5371) | undefined |
 | 🏢 **Federal Express Corporation** | Logistics Intern - Greenwood Hub (Summer 2026) | Greenwood, Indiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.fedex.com/logistics-intern-greenwood-hub-summer-2026/job/P25-309164-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **GE Vernova** | Energy Optimization Software Intern | Bellevue, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-Energy-Optimization-Software-Intern---Summer-2026_R5020335-2) | undefined |
 | 🏢 **Genentech** | 2026 Summer Intern - Regev Lab - Feedback Driven AI Systems | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Regev-Lab---Feedback-Driven-AI-Systems_202601-102363) | undefined |
-| 🖥️ **Hewlett Packard Enterprise** | Performance Marketing & Analytics Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Performance-Marketing---Analytics-Intern_1202317) | undefined |
 | 🏢 **Kaiser Permanente** | Data Reporting Master's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406128) | undefined |
 | 🏢 **Kaiser Permanente** | Application Development Bachelor's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406364) | undefined |
 | 🏢 **LMI Consulting, LLC** | Software Development Intern (FIU Students) | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=2233aae695a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
@@ -217,21 +214,23 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 6 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 17 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 6 roles
-- **🏢 Companies**: 178 companies
+- **📁 Total Positions**: 17 roles
+- **🏢 Companies**: 169 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (1 position)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Booz Allen** | Data Engineer Intern 🏠 | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer-Intern_R0232642) | undefined |
+| 🌐 **Cisco** | Software Engineer 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2007170) | undefined |
+| 🏢 **Etsy** | Software Engineering Intern | Brooklyn, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineering-Intern--2026--Brooklyn--NY-_JR5371) | undefined |
+| 🖥️ **Hewlett Packard Enterprise** | Performance Marketing & Analytics Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Performance-Marketing---Analytics-Intern_1202317) | undefined |
 
 </details>
 
@@ -245,7 +244,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 62 current opportunities from 45 top companies.**
+**🎯 59 current opportunities from 43 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
