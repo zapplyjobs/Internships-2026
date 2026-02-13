@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-02-13T04:33:35.844Z",
+  "workflow": {
+    "last_commit": "2026-02-12 22:31:01 -0600",
+    "commit_message": "Add observability system (metrics dashboard + health check)"
+  },
+  "sources": {
+    "jsearch": 0,
+    "greenhouse": 22,
+    "lever": 3,
+    "ashby": 0,
+    "workday": 5,
+    "myworkdayjobs": 130,
+    "other": 163,
+    "total": 323
+  },
+  "processing": {
+    "current_jobs": 323,
+    "seen_jobs_total": 1234,
+    "fresh_this_run": 10,
+    "pending_queue": 150
+  },
+  "quota": {
+    "jsearch": "5/90",
+    "jsearch_remaining": 85
+  },
+  "databases": {
+    "current_jobs_size": "1.84 MB",
+    "seen_jobs_size": "79.84 KB",
+    "pending_queue_size": "833.33 KB"
+  },
+  "health": {
+    "current_jobs_exists": true,
+    "seen_jobs_exists": true,
+    "jsearch_usage_exists": true,
+    "pending_queue_exists": true
+  },
+  "warnings": [],
+  "errors": []
+}
