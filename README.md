@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-64-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-47-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-40-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-63-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-46-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-40-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 47+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 64+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 46+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 63+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -109,7 +109,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (16 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (15 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -119,7 +119,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Caterpillar Inc.** | Intern - Manufacturing Engineering - Data Analysis | West Lafayette, IN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Intern-Summer-2026--Manufacturing-Engineering--Data-Analysis-_R0000347651) | undefined |
 | 🏢 **Finastra** | AI Engineer Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern_REQ0126_0035950) | undefined |
 | 🏢 **Genentech** | 2026 Summer Intern - HIT Program Management Office (PMO) | Hillsboro, Oregon | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102340/2026-Summer-Intern-HIT-Program-Management-Office-PMO?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **General Dynamics Mission Systems** | Administrative Data Analytics Intern | Dedham, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/70489/job?mobile=true&needsRedirect=false) | undefined |
 | 🏢 **Jabil** | Data Governance Business Systems Analyst Intern | Remote in USA, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Governance-Business-Systems-Analyst-Intern_J2437910) | undefined |
 | 🏢 **Kaiser Permanente** | Data Analytics Intern - Multiple Teams | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480) | undefined |
 | 🏢 **Kaiser Permanente** | Data Analytics Bachelor Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405951) | undefined |
@@ -216,10 +215,38 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
+
+> Some positions may still be accepting applications or useful for planning.
+
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: 1 roles
+- **🏢 Companies**: 185 companies
+- **🏷️ Top Category**: Data Science & Analytics
+
+<details>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (1 position)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **General Dynamics Mission Systems** | Administrative Data Analytics Intern | Dedham, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/70489/job?mobile=true&needsRedirect=false) | undefined |
+
+</details>
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
-**🎯 64 current opportunities from 47 top companies.**
+**🎯 63 current opportunities from 46 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
