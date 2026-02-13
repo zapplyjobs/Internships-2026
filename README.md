@@ -235,7 +235,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Talentix** | UX Designer Internship 🏠 | California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://wellfound.com/jobs/3797970-ux-designer-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 23h |
+| 🏢 **Talentix** | UX Designer Internship 🏠 | California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://wellfound.com/jobs/3797970-ux-designer-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1d |
 
 </details>
 
