@@ -224,8 +224,8 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1 roles
-- **🏢 Companies**: 182 companies
-- **🏷️ Top Category**: Data Science & Analytics
+- **🏢 Companies**: 185 companies
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
