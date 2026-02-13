@@ -5101,5 +5101,27 @@
     "addedAt": "2026-02-13T05:11:33.914Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Frontend Developer Internship - 2025 6",
+      "employer_name": "Indinterns",
+      "job_city": "",
+      "job_state": "Colorado",
+      "job_description": "Join our Web Development Internship to kickstart your journey into the world of web development. Gain hands-on experience, work on exciting projects, and learn from industry experts, all while honing your skills in HTML, CSS, JavaScript, and more. Take the leap and pave the way to a rewarding career in web development with us. Apply now!Responsibilities:\n• Building responsive and visually appealing websites using HTML and CSS.\n• Enhancing user experiences with interactive elements and animations using JavaScript.\n• Mastering modern frontend frameworks like React or Vue.js for dynamic web applications.\n• Implementing best practices in user interface (UI) and user experience (UX) design.\n• Collaborating with design and backend teams to create seamless web solutions.\n• Debugging and troubleshooting frontend code to ensure optimal performance.\n• Using version control systems like Git to manage and track changes in your code.\n• Developing a strong portfolio showcasing your frontend development skills.\n• Staying updated with industry trends and emerging technologies to remain competitive.\nRequirements\n• Basic understanding of HTML, CSS, and JavaScript.\n• Familiarity with web development concepts and terminology.\n• Comfortable working with code editors and development environments.\n• Strong desire to learn and explore frontend technologies.\n• Good problem-solving skills and attention to detail.\n• Effective communication and collaboration abilities.\n• Prior experience with frontend projects is advantageous but not mandatory.",
+      "job_apply_link": "https://www.jobilize.com/job/us-co-all-cities-frontend-developer-internship-2025-6-indinterns-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Jobilize",
+      "job_is_remote": false,
+      "job_location": "Colorado",
+      "job_posted_at": "1h",
+      "id": "www-jobilize-com-job-us-co-all-cities-frontend-developer-internship-2025-6-indinterns-hiring"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-13T07:05:39.457Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
