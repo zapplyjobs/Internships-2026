@@ -5167,5 +5167,27 @@
     "addedAt": "2026-02-13T11:05:52.341Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Security Engineering Intern",
+      "employer_name": "Astronautics Corporation of America",
+      "job_city": "Oak Creek",
+      "job_state": "Wisconsin",
+      "job_description": "Join our Oak Creek, WI team as a Data Security Engineering Intern! Our internships are hands on, highly technical, and designed to let you see what it's like to work at Astronautics. This is a paid undergraduate intern opportunity. As an engineering intern, you will work closely with our engineering staff on actual customer projects. Our summer intern program consists of at least 10 weeks of real-world experience in an engineering development environment.\n\nIn addition to data security engineering, we have open opportunities in mechanical, PLD, process, quality, software and systems engineering this summer. Mentors are assigned to assist interns in achieving engineering related career development that is of mutual benefit to you and Astronautics. Our internship program includes events and opportunities to meet other interns and employees across the organization.\n\nAs a Data Security Engineering Intern, you will develop and maintain cybersecurity posture in Primary Flight, Engine, and Multi-function displays as well as in-flight computing devices including Network Servers, Mission and Display Processors, Data Concentrator Units, and Flight Controls. You will engage in all phases of avionics development including requirements gathering and verification, architecture creation and review, detailed design and analysis, peer technical reviews, compliance to industry and company design standards, and compliance to program cost and schedule targets.\n\nPosition Responsibilities\n• Participate in cybersecurity risk/safety assessments on aviation related systems, including analytical assessment, supplemental testing, and risk mitigation assessments\n• Support development of cyber security lifecycle documentation in support of formal certification of avionics cybersecurity with the FAA and foreign certification authorities.\n• Support development and execution of refutation and penetration testing\n\nDesired Skills\n• Strong communication, analytical, organizational and problem-solving skills\n• Ability to work effectively in a team environment based on Agile Scrum principles\n• Capability of working independently with limited oversight from senior engineers\n\nEducation And Experience\n\nRequired Qualifications:\n• Current accredited college or university enrollment with sophomore, junior or senior standing; making progress towards an undergraduate degree in Biomedical, Computer, Electrical, Software, Systems Engineering, Cybersecurity or Computer Science\n• Minimum cumulative grade point average of 2.75\n• Demonstrate systems thinking skills (i.e., ability to recognize how to changes at a component level can impact the overall system and vice versa)\n• Proficient in Microsoft Office tools\n• Able to work full-time onsite during the summer of 2026\n• Eligible to work in the United States without sponsorship\n\nDesired Qualifications\n• Cumulative grade point average of 3.0 or above\n• Experience with software languages, including C, C++, Java, and Python\n• Familiar with the concept of Risk Management Frameworks (RMF)\n• Ability to work part-time during the school year\n\nWho We Are\n\nJoin a team that designs computers, displays, and electronic systems for aircraft of the future! At Astronautics, you will be part of a creative group of professionals who work on the cutting-edge of technology. We offer competitive pay and the opportunity for professional growth in a friendly environment.\n\nAstronautics’ key product areas include electronic primary flight and engine displays, connected aircraft and cyber solutions, electronic flight bags, and certified servers for airborne applications. Services include avionics system integration and custom software for critical applications. Since its founding in 1959, Astronautics has been providing trusted, reliable, and tailored solutions to help customers achieve mission success. Astronautics is the parent company of Kearfott Corporation, headquartered in Pine Brook, New Jersey.\n\nWe are proud to be an equal-opportunity workplace. All qualified applicants will receive consideration for employment without regard of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status.",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/data-security-engineering-intern-at-astronautics-corporation-of-america-4363286931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-12T20:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "LinkedIn",
+      "job_is_remote": false,
+      "job_location": "Oak Creek, WI",
+      "job_posted_at": "1h",
+      "id": "www-linkedin-com-jobs-view-data-security-engineering-intern-at-astronautics-corporation-of-america-4363286931"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-13T12:23:10.021Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]

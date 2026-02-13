@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "requests": 23,
-  "remaining": 67,
+  "requests": 24,
+  "remaining": 66,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -25,7 +25,8 @@
     "ux design internship",
     "ux design internship",
     "ux design internship",
-    "ux design internship"
+    "ux design internship",
+    "data engineering internship"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -75,8 +76,11 @@
         3,
         3,
         2
+      ],
+      "data engineering internship": [
+        1
       ]
     },
-    "total_jobs": 31
+    "total_jobs": 32
   }
 }
