@@ -224,19 +224,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 183 companies
-- **🏷️ Top Category**: DevOps & Infrastructure
-
-<details>
-<summary><h3>🔧 <strong>DevOps & Infrastructure</strong> (1 position)</h3></summary>
+- **🏢 Companies**: 186 companies
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **State of Florida** | INFORMATION TECHNOLOGY INTERNSHIP | Panama City Beach, Florida | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/information-technology-internship-panama-city-beach-state-of-florida-2b2f9e3eed708b029293e7a23cebf11d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
