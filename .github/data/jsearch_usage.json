@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "requests": 42,
-  "remaining": 48,
+  "requests": 43,
+  "remaining": 47,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -44,11 +44,13 @@
     "technology internship",
     "technology internship",
     "engineering internship",
-    "engineering internship"
+    "engineering internship",
+    "software engineering internship"
   ],
   "metrics": {
     "jobs_per_query": {
       "software engineering internship": [
+        4,
         4
       ],
       "software engineer intern": [
@@ -131,6 +133,6 @@
         6
       ]
     },
-    "total_jobs": 69
+    "total_jobs": 73
   }
 }
