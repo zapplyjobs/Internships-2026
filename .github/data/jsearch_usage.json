@@ -1,162 +1,16 @@
 {
-  "date": "2026-02-13",
-  "requests": 55,
-  "remaining": 35,
+  "date": "2026-02-14",
+  "requests": 1,
+  "remaining": 89,
   "queries_executed": [
-    "software engineering internship",
-    "software engineer intern",
-    "summer software engineering intern",
-    "computer science internship",
-    "data science internship",
-    "machine learning internship",
-    "machine learning internship",
-    "full stack internship",
-    "full stack internship",
-    "frontend internship",
-    "frontend internship",
-    "frontend internship",
-    "backend internship",
-    "backend internship",
-    "mobile development internship",
-    "mobile development internship",
-    "mobile development internship",
-    "product management internship",
-    "product management internship",
-    "ux design internship",
-    "ux design internship",
-    "ux design internship",
-    "ux design internship",
-    "data engineering internship",
-    "data engineering internship",
-    "cloud engineering internship",
-    "cloud engineering internship",
-    "devops internship",
-    "devops internship",
-    "devops internship",
-    "cybersecurity internship",
-    "cybersecurity internship",
-    "ai internship",
-    "ai internship",
-    "ai internship",
-    "software development internship",
-    "software development internship",
-    "technology internship",
-    "technology internship",
-    "technology internship",
-    "engineering internship",
-    "engineering internship",
-    "software engineering internship",
-    "software engineering internship",
-    "software engineering internship",
-    "software engineer intern",
-    "software engineer intern",
-    "software engineer intern",
-    "summer software engineering intern",
-    "summer software engineering intern",
-    "summer software engineering intern",
-    "computer science internship",
-    "computer science internship",
-    "computer science internship",
-    "computer science internship"
+    "software engineering internship"
   ],
   "metrics": {
     "jobs_per_query": {
       "software engineering internship": [
-        4,
-        4,
-        3,
-        3
-      ],
-      "software engineer intern": [
-        3,
-        3,
-        4,
-        3
-      ],
-      "summer software engineering intern": [
-        2,
-        2,
-        2,
-        2
-      ],
-      "computer science internship": [
-        2,
-        2,
-        2,
-        2,
-        2
-      ],
-      "data science internship": [
-        0
-      ],
-      "machine learning internship": [
-        1,
-        1
-      ],
-      "full stack internship": [
-        0,
-        0
-      ],
-      "frontend internship": [
-        1,
-        1,
-        1
-      ],
-      "backend internship": [
-        0,
-        0
-      ],
-      "mobile development internship": [
-        0,
-        0,
-        0
-      ],
-      "product management internship": [
-        2,
-        2
-      ],
-      "ux design internship": [
-        3,
-        3,
-        3,
-        2
-      ],
-      "data engineering internship": [
-        1,
-        1
-      ],
-      "cloud engineering internship": [
-        0,
-        0
-      ],
-      "devops internship": [
-        0,
-        0,
-        0
-      ],
-      "cybersecurity internship": [
-        2,
-        2
-      ],
-      "ai internship": [
-        1,
-        1,
-        1
-      ],
-      "software development internship": [
-        4,
-        4
-      ],
-      "technology internship": [
-        3,
-        3,
-        3
-      ],
-      "engineering internship": [
-        6,
-        6
+        5
       ]
     },
-    "total_jobs": 103
+    "total_jobs": 5
   }
 }
