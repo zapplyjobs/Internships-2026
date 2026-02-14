@@ -214,7 +214,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 3 roles
-- **🏢 Companies**: 160 companies
+- **🏢 Companies**: 159 companies
 - **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Level | Apply Now | Age |
