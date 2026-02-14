@@ -208,46 +208,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 16 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 3 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 16 roles
-- **🏢 Companies**: 162 companies
+- **📁 Total Positions**: 3 roles
+- **🏢 Companies**: 161 companies
 - **🏷️ Top Category**: Software Engineering
 
-<details>
-<summary><h3>💻 <strong>Software Engineering</strong> (3 positions)</h3></summary>
-
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Blizzard Entertainment** | Localization Intern | Santa Monica, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Localization-Intern_R026632) | undefined |
-| 🏢 **Federal Express Corporation** | Logistics Intern - Greenwood Hub (Summer 2026) | Greenwood, Indiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.fedex.com/logistics-intern-greenwood-hub-summer-2026/job/P25-309164-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Sinclair Broadcast Group** | News Intern | Pensacola, Florida | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/requisitions/preview/15874/?mode=location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Genentech** | 2026 Summer Intern - HIT Program Management Office (PMO) | Hillsboro, Oregon | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102340/2026-Summer-Intern-HIT-Program-Management-Office-PMO?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **WomenTech Network** | Intern, Data Analyst | Concord, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=23afb718fefb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-
-</details>
-
-<details>
-<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **California Life Company** | Intern, Machine Learning for Molecule Design (MS / PhD) | South San Francisco, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=44357ad1862a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
