@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-54-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-34-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-53-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-38-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-33-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 39+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 54+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 38+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 53+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,13 +61,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (34 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (33 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🏢 **100000 Motorola Solutions, Inc.** | Full Stack Software Engineer Intern - Summer 2026 Internship | Waltham, Massachusetts | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Waltham-MA/Full-Stack-Software-Engineer-Intern---Summer-2026-Internship_R60172/apply/applyManually?via=https://www.internshipshq.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Avathon** | Full Stack Engineering Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://avathon.com/company/careers-job-listing/?gh_jid=4655249005) | undefined |
-| 🏢 **beBeeDataEngineering** | Data Engineering Internship Opportunity | State College, Pennsylvania | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-state-college-data-engineering-internship-opportunity-bebeedataengineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Berkshire Grey** | Robot Learning R&D Intern | Bedford, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://berkshiregrey.bamboohr.com/careers/656/) | undefined |
 | 🏢 **Bio-Techne** | Software Developer Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Software-Developer-Intern_JR101512) | undefined |
 | 🏢 **Bio-Techne** | Software Developer Intern | Wallingford, CT | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Developer-Intern_JR101471) | undefined |
@@ -209,7 +208,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 54 current opportunities from 39 top companies.**
+**🎯 53 current opportunities from 38 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
