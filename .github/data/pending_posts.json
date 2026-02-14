@@ -5343,5 +5343,27 @@
     "addedAt": "2026-02-14T12:16:23.011Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Product/Test Engineering Summer Intern (May '26 - Aug '26)",
+      "employer_name": "Skyworks",
+      "job_city": "Irvine",
+      "job_state": "California",
+      "job_description": "If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high-performance analog semiconductors whose solutions are powering the wireless networking revolution. Through our broad technology expertise and one of the most extensive product portfolios in the industry, we are Connecting Everyone and Everything, All the Time.\n\nAt Skyworks, you will find a fast-paced environment with a strong focus on global collaboration, minimal layers of management, and the freedom to make meaningful contributions in a setting that encourages creative thinking. We are excited about the opportunity to work with you and glad you want to be part of a team of talented individuals who together are changing the way the world communicates.\n\nRequisition ID: 76174\nDescription\n\nAre you excited to launch your career with a co-op opportunity at a dynamic company that is a leader in RF and wireless communications? Skyworks is the perfect place for you! We design and manufacture innovative solutions that power everything from aerospace technology to next-generation consumer electronics. Join us, where your curiosity and skills will be crucial in shaping the future of connectivity. We look forward to seeing what you can contribute to our team!\nThe successful candidate will assist engineers in developing hardware and software solutions used for the characterization and design verification testing of RF front-end modules, filters, low-noise amplifiers (LNAs), and power amplifiers.\n\nTerm: Summer Intern (May '26 - August '26)\n\nResponsibilities\n• Support the development of next-generation systems and design enhancements for existing products\n• Participate in the transition to production efforts for various RF products\n• Build a state-of-the-art network simulator for wireless networks, including cellular, WiFi, Bluetooth, and other emerging technologies.\n• Utilize Keysight Advanced Design System (ADS) for RF design tasks\n• Engage in RF system design, including schematic capture and layout using ADS or Mentor Expedition\n• Conduct 2-D, 2.5-D, and 3-D Electromagnetic Simulation\n• Update design documentation as needed\n• Perform RF test and evaluation using network analyzers, spectrum analyzers, and frequency generators\n\nRequired Experience and Skills\n• Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering, Physics, or a related field\n• Passion for RF, wireless, or communications technologies\n• Familiarity with lab equipment and basic RF principles\n• Strong analytical and problem-solving skills\n• Bonus: Experience with scripting or automation tools\n\nDesired Experience and Skills\n• Coursework in RF communication, Analog IC design, control systems, signals, and systems.\n• Meticulous technical documentation authoring and editing skills.\n• Knowledge of software programming tools (Visual Studio, C++, Python, or other scripting languages).\n• Drive to meet deadlines while held accountable to high-quality standards.\n\n#LI-DJ1\n\nThe typical pay range for an Engineering intern across the U.S. is currently USD $26.00 - $47.50 per hour and for a Non-Engineering intern across the U.S. is currently USD $22.50 - $42.00 per hour. Starting pay will depend on level of education, the ultimate job duties and requirements, and work location. Skyworks has different pay ranges for different work locations in the U.S.\n\nSkyworks is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law. Skyworks strives to create an accessible workplace; if you need an accommodation due to a disability, please contact us at accommodations@skyworksinc.com.",
+      "job_apply_link": "https://www.ziprecruiter.com/c/Skyworks/Job/Product-Test-Engineering-Summer-Intern-(May-26-Aug-26)/-in-Irvine,CA?jid=ef3154b4280a0681&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+      "job_employment_type": "Internship",
+      "job_source": "jsearch",
+      "job_publisher": "ZipRecruiter",
+      "job_is_remote": false,
+      "job_location": "Irvine, CA",
+      "job_posted_at": "1h",
+      "id": "www-ziprecruiter-com-c-skyworks-job-product-test-engineering-summer-intern-may-26-aug-26-in-irvine-ca"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-14T20:11:01.122Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
