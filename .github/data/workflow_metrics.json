@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-14T03:11:37.855Z",
+  "timestamp": "2026-02-14T03:58:22.375Z",
   "workflow": {
-    "last_commit": "2026-02-14 02:10:56 +0000",
+    "last_commit": "2026-02-14 03:11:38 +0000",
     "commit_message": "Update jobs - 2026-02-14"
   },
   "sources": {
@@ -16,18 +16,18 @@
   },
   "processing": {
     "current_jobs": 265,
-    "seen_jobs_total": 1243,
+    "seen_jobs_total": 1244,
     "fresh_this_run": 10,
-    "pending_queue": 159
+    "pending_queue": 160
   },
   "quota": {
-    "jsearch": "4/90",
-    "jsearch_remaining": 86
+    "jsearch": "5/90",
+    "jsearch_remaining": 85
   },
   "databases": {
     "current_jobs_size": "1.58 MB",
-    "seen_jobs_size": "80.71 KB",
-    "pending_queue_size": "885.96 KB"
+    "seen_jobs_size": "80.8 KB",
+    "pending_queue_size": "889.65 KB"
   },
   "health": {
     "current_jobs_exists": true,
