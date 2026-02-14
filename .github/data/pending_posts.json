@@ -5299,5 +5299,27 @@
     "addedAt": "2026-02-14T03:58:21.961Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Full-stack Software Engineering Intern, Government",
+      "employer_name": "Viasat",
+      "job_city": "Carlsbad",
+      "job_state": "California",
+      "job_description": "About Us\n\nOne team. Global challenges. Infinite opportunities. At Viasat, we're on a mission to deliver connections with the capacity to change the world. For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate. We're looking for people who think big, act fearlessly, and create an inclusive environment that drives positive impact to join our team.\n\nWhat You'll Do\n\nWe are looking for results-oriented software engineers to work on the requirements, design, implementation, integration, and test of full-stack web application software\n\nThe day-to-day\n\nMembers of our team develop code throughout the full stack including frontend, backend, infrastructure, and deployment. We additionally prepare operations user documentation and support our global services team by solving field issues. Your \"can do\" attitude and the drive to learn new things will help continue to drive Viasat's success\n\nInternship Program Details:\n\nYou will work onsite at a Viasat office location for the duration of your internship. Viasat embraces a flexible work environment and onsite/hybrid work is determined by individual roles and teams.\nHousing and relocation assistance are available to interns pending eligibility.\nTo ensure equity across our intern population, intern compensation is pre-determined based on a variety of factors including: role, location, and final graduation date. Intern compensation is non-negotiable.\n\nWhat You'll Need\n\nRequirements:\n\nEducation:\nCurrently pursuing a Bachelor's degree or higher in Computer Science, Electrical Engineering, Computer Engineering or related field\nTo be eligible for this position your final graduation date must fall between December 2026 and August 2027\n\nInternship Dates: You must be available to work 40 hours/week for the full duration of the internship program as outlined in the cohort dates below. Limited exceptions may be granted. Viasat offers two options based on semester and quarter academic calendars:\nCohort 1: May 18, 2026 - August 14, 2026\nCohort 2: June 22, 2026 - September 18, 2026\nCitizenship: This position requires U.S. citizenship\n\nAdditional:\nKnowledge of full-stack web development\nExperience with a modern JavaScript framework such as React, Angular, Vue, etc\nExperience working with C++, Java, Python, Node, Go, or TypeScript\nScripting with Bash, Python or similar\nExperience with development tools such as Git, Perforce, Crucible, Swarm, Jenkins, JIRA\n\nWhat Will Help You On The Job\n\nLeadership experience or interest (e.g., scrum master, team leader, mentor)\nLinux experience\nWeb-based user interface design experience\nExperience with large-scale wireless communication systems (SATCOM, LTE, etc.)\nCloud infrastructure experience (e.g. AWS, GCP, Azure)\nExperience with Docker or Kubernetes\nTechnical writing/documentation experience (Wiki, Word, Visio)\n\nSalary range\n\n$ $56.97 / hourly. For specific work locations within San Jose, the San Francisco Bay area and New York City metropolitan area, the base pay range for this role is $ $67.07/ hourly\n\nAt Viasat, we consider many factors when it comes to compensation, including the scope of the position as well as your background and experience. Base pay may vary depending on job-related knowledge, skills, and experience. Additional cash or stock incentives may be provided as part of the compensation package, in addition to a range of medical, financial, and/or other benefits, dependent on the position offered. Learn more about Viasat's comprehensive benefit offerings that are focused on your holistic health and wellness at\n\nEEO Statement\n\nViasat is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, ancestry, physical or mental disability, medical condition, marital status, genetics, age, or veteran status or any other applicable legally protected status or characteristic. If you would like to request an accommodation on the basis of disability for completing this on-line application, please click here.",
+      "job_apply_link": "https://www.jobilize.com/job/us-california-carlsbad-full-stack-software-engineering-intern-government?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Jobilize",
+      "job_is_remote": false,
+      "job_location": "Carlsbad, CA",
+      "job_posted_at": "1h",
+      "id": "www-jobilize-com-job-us-california-carlsbad-full-stack-software-engineering-intern-government"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-14T06:22:17.049Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
