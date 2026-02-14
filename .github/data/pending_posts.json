@@ -5321,5 +5321,27 @@
     "addedAt": "2026-02-14T06:22:17.049Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineering Internship Opportunity",
+      "employer_name": "beBeeDataEngineering",
+      "job_city": "State College",
+      "job_state": "Pennsylvania",
+      "job_description": "We are seeking a highly motivated and detail-oriented individual to join our data engineering team.\nAs a data engineering intern, you will play a key role in supporting the development and maintenance of data pipelines, ensuring data quality, and driving innovation across our data infrastructure.\n• You will work closely with experienced data engineers to develop automation scripts that populate metadata and comments across Databricks tables using structured definitions.\n• Your responsibilities will also include contributing to the creation of an automated data dictionary that can be maintained using existing Databricks metadata, as well as prototyping an AI-powered knowledge agent that leverages internal data and documentation to answer common questions.",
+      "job_apply_link": "https://www.jobilize.com/job/us-state-college-data-engineering-internship-opportunity-bebeedataengineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+      "job_employment_type": "Full-time",
+      "job_source": "jsearch",
+      "job_publisher": "Jobilize",
+      "job_is_remote": false,
+      "job_location": "State College, PA",
+      "job_posted_at": "1h",
+      "id": "www-jobilize-com-job-us-state-college-data-engineering-internship-opportunity-bebeedataengineering"
+    },
+    "status": "pending",
+    "addedAt": "2026-02-14T12:16:23.011Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
