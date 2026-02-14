@@ -1,14 +1,15 @@
 {
   "date": "2026-02-14",
-  "requests": 6,
-  "remaining": 84,
+  "requests": 7,
+  "remaining": 83,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
     "summer software engineering intern",
     "computer science internship",
     "computer science internship",
-    "data science internship"
+    "data science internship",
+    "machine learning internship"
   ],
   "metrics": {
     "jobs_per_query": {
@@ -27,8 +28,11 @@
       ],
       "data science internship": [
         0
+      ],
+      "machine learning internship": [
+        1
       ]
     },
-    "total_jobs": 16
+    "total_jobs": 17
   }
 }
