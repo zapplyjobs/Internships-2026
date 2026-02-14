@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-54-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-33-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-53-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-38-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-33-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 39+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 54+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 38+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 53+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -123,11 +123,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (6 positions)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Code Ninjas** | Kids Coding Mentor Internship | Snellville, Georgia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Code-Ninjas/Job/Kids-Coding-Mentor-Internship/-in-Snellville,GA?jid=7a74230ae7696541&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **The MITRE Corporation** | Internships in Electrical or Computer Engineering | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **The Walt Disney Company** | WDI Figure Programming Intern | Orlando, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Figure-Programming-Intern--Summer-Fall-2026_10131865) | undefined |
 | 🏢 **UnitedHealthcare** | Nurse Intern - Pediatric Case Management, | Beaumont, Texas | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169284803-nurse-intern-pediatric-case-management?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
@@ -206,31 +205,10 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 160 companies
-- **🏷️ Top Category**: Software Engineering
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
-
-</details>
-
----
-
-
 
 <div align="center">
 
-**🎯 54 current opportunities from 39 top companies.**
+**🎯 53 current opportunities from 38 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
