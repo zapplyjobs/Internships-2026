@@ -1,7 +1,7 @@
 {
   "date": "2026-02-14",
-  "requests": 39,
-  "remaining": 51,
+  "requests": 40,
+  "remaining": 50,
   "queries_executed": [
     "software engineering internship",
     "software engineer intern",
@@ -39,6 +39,7 @@
     "cloud engineering internship",
     "cloud engineering internship",
     "cloud engineering internship",
+    "devops internship",
     "devops internship",
     "devops internship",
     "devops internship"
@@ -110,6 +111,7 @@
         0
       ],
       "devops internship": [
+        0,
         0,
         0,
         0
