@@ -214,19 +214,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 159 companies
-- **🏷️ Top Category**: DevOps & Infrastructure
-
-<details>
-<summary><h3>🔧 <strong>DevOps & Infrastructure</strong> (1 position)</h3></summary>
+- **🏢 Companies**: 162 companies
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **State of Florida** | INFORMATION TECHNOLOGY INTERNSHIP | Wildwood, Florida | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/information-technology-internship-wildwood-state-of-florida-64368587b6ff38871e5124a9cf52ae17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
