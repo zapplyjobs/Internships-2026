@@ -214,7 +214,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1 roles
-- **🏢 Companies**: 159 companies
+- **🏢 Companies**: 158 companies
 - **🏷️ Top Category**: DevOps & Infrastructure
 
 | Company | Role | Location | Level | Apply Now | Age |
