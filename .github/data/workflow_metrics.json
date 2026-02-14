@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-14T11:00:05.736Z",
+  "timestamp": "2026-02-14T11:12:00.135Z",
   "workflow": {
-    "last_commit": "2026-02-14 10:49:01 +0000",
+    "last_commit": "2026-02-14 11:00:06 +0000",
     "commit_message": "Update jobs - 2026-02-14"
   },
   "sources": {
@@ -21,8 +21,8 @@
     "pending_queue": 161
   },
   "quota": {
-    "jsearch": "26/90",
-    "jsearch_remaining": 64
+    "jsearch": "27/90",
+    "jsearch_remaining": 63
   },
   "databases": {
     "current_jobs_size": "1.58 MB",
