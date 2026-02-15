@@ -1,44 +1,33 @@
 #!/usr/bin/env node
 
 /**
- * Unified Job Fetcher - Centralized Aggregator Integration
+ * Unified Job Fetcher - Internships-2026
  *
- * This module provides a unified interface for fetching internship jobs.
- * Post-aggregator migration (2026-02-15), it fetches from the centralized
- * jobs-aggregator-private repository and filters for internships.
+ * Wrapper around shared aggregator-consumer library.
+ * Fetches ONLY internship positions from centralized aggregator.
  *
- * Previous approach (archived):
- * - Fetched from JSearch API + ATS sources directly
- * - Each repo had duplicate fetching logic
- *
- * New approach:
- * - Single centralized aggregator (jobs-aggregator-private)
- * - Repos consume from aggregator
- * - Aggregator handles JSearch + ATS + senior filtering + deduplication
- * - This repo filters for internship positions only
+ * Architecture:
+ * - Uses shared library: .github/scripts/shared/lib/aggregator-consumer.js
+ * - Filters for employment: 'internship' only
+ * - Aggregator already filtered out senior-level positions
  */
 
-const { fetchAllJobs: fetchFromAggregator } = require('./job-fetcher/aggregator-consumer');
+const { createAggregatorConsumer } = require('./shared/lib/aggregator-consumer');
 
 /**
  * Fetch internship jobs (from centralized aggregator)
  * @returns {Promise<Array>} Array of internship job objects
  */
 async function fetchAllJobs() {
-  console.log('📡 Fetching internships from centralized aggregator...');
+  // Create consumer filtered for internships only
+  const consumer = createAggregatorConsumer({
+    filters: {
+      employment: 'internship' // Only internships
+    },
+    verbose: true
+  });
 
-  try {
-    const jobs = await fetchFromAggregator();
-
-    console.log(`✅ Fetched ${jobs.length} internship jobs from aggregator`);
-
-    return jobs;
-  } catch (error) {
-    console.error('❌ Failed to fetch from aggregator:', error.message);
-
-    // Return empty array on failure (don't crash workflow)
-    return [];
-  }
+  return await consumer.fetchJobs();
 }
 
 module.exports = { fetchAllJobs };
