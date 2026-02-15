@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-53-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-38-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-33-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-51-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-36-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-31-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 38+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 53+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 36+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 51+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (33 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (31 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
@@ -81,7 +81,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Genentech** | 2026 Summer Intern - Regev Lab - Feedback Driven AI Systems | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Regev-Lab---Feedback-Driven-AI-Systems_202601-102363) | undefined |
 | 🏢 **Kaiser Permanente** | Data Reporting Master's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406128) | undefined |
 | 🏢 **Kaiser Permanente** | Application Development Bachelor's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406364) | undefined |
-| 🏢 **LMI Consulting, LLC** | Software Development Intern (FIU Students) | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=2233aae695a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🟦 **Microsoft** | Research Intern - Applied Speech Research | Berkeley, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556751423) | undefined |
 | 🟦 **Microsoft** | Research Intern - Agentic Programming | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556750506) | undefined |
 | 🏢 **MKS Instruments** | Software Engineer Intern | Beaverton, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2026-Spring-Software-Engineering-MECOP-Intern_R14517) | undefined |
@@ -96,7 +95,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **University Health** | Academy Student Nurse Internship | Pleasanton, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=e0e378aa1e54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **University of Michigan** | REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W / 12E / 11W) | Ann Arbor, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d0d7e0b1f6cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **Vanderlande Careers** | R&D Mechatronics Software Engineering – Intern | Marietta, Georgia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.vanderlande.com/all-jobs/rd-mechatronics-software-engineering-intern-jr35571/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Vanderlande Industries B.V.** | R&D Intern | Marietta, Georgia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=3593cadbe8dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Verition Fund Management** | Intern - Treasury Technology | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.verition.com/open-positions?gh_jid=5040241007) | 1h |
 
 </details>
@@ -208,18 +206,26 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 15 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 158 companies
+- **📁 Total Positions**: 15 roles
+- **🏢 Companies**: 152 companies
 - **🏷️ Top Category**: Software Engineering
+
+<details>
+<summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **LMI Consulting, LLC** | Software Development Intern (FIU Students) | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=2233aae695a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Vanderlande Industries B.V.** | R&D Intern | Marietta, Georgia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=3593cadbe8dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+
+</details>
+
+
 
 </details>
 
@@ -229,7 +235,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 53 current opportunities from 38 top companies.**
+**🎯 51 current opportunities from 36 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -237,6 +243,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** February 14, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 15, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
