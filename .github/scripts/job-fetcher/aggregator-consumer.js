@@ -11,9 +11,9 @@
 
 const https = require('https');
 
-// Aggregator URLs
-const AGGREGATOR_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-data-2026/main/.github/data/jobs-shared.json';
-const METADATA_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-data-2026/main/.github/data/jobs-metadata.json';
+// Aggregator URLs (PRIVATE repo - requires authentication)
+const AGGREGATOR_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-aggregator-private/main/.github/data/all_jobs.json';
+const METADATA_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-aggregator-private/main/.github/data/jobs-metadata.json';
 
 /**
  * Fetch JSONL file from aggregator
@@ -21,7 +21,14 @@ const METADATA_URL = 'https://raw.githubusercontent.com/zapplyjobs/jobs-data-202
  */
 async function fetchJobsFromAggregator() {
   return new Promise((resolve, reject) => {
-    https.get(AGGREGATOR_URL, (res) => {
+    // Get GitHub token for authentication (private repo access)
+    const token = process.env.GITHUB_TOKEN || process.env.GH_PAT;
+
+    const options = {
+      headers: token ? { 'Authorization': `token ${token}` } : {}
+    };
+
+    https.get(AGGREGATOR_URL, options, (res) => {
       if (res.statusCode !== 200) {
         reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
         return;
@@ -88,17 +95,23 @@ function filterInternshipJobs(jobs) {
  * @returns {Object} - Job in Internships-2026 format
  */
 function convertJobFormat(aggregatorJob) {
+  // Extract location from aggregator's location object
+  const location = aggregatorJob.location || {};
+  const jobCity = location.city || aggregatorJob.job_city || '';
+  const jobState = location.state || location.region || '';
+  const jobCountry = location.country || 'US';
+
   // Map aggregator fields to existing format
   return {
     // Core fields (existing format)
     job_id: aggregatorJob.id,
     job_title: aggregatorJob.title,
-    employer_name: aggregatorJob.company,
-    job_city: aggregatorJob.location?.split(', ')[0] || '',
-    job_state: aggregatorJob.location?.split(', ')[1] || '',
-    job_country: aggregatorJob.tags?.locations?.includes('us') ? 'United States' : 'Unknown',
-    job_is_remote: aggregatorJob.is_remote || false,
-    job_apply_link: aggregatorJob.url,
+    employer_name: aggregatorJob.company_name,
+    job_city: jobCity,
+    job_state: jobState,
+    job_country: jobCountry === 'US' ? 'United States' : jobCountry,
+    job_is_remote: aggregatorJob.tags?.locations?.includes('remote') || false,
+    job_apply_link: aggregatorJob.apply_url || aggregatorJob.url,
     job_posted_at_datetime_utc: aggregatorJob.posted_at,
     job_description: aggregatorJob.description || null,
     job_employment_type: aggregatorJob.employment_types?.join(',') || 'INTERN',
@@ -108,7 +121,10 @@ function convertJobFormat(aggregatorJob) {
 
     // Source info
     _source: 'aggregator',
-    _original_source: aggregatorJob.source || 'jsearch'
+    _original_source: aggregatorJob.source || 'jsearch',
+
+    // Include fingerprint for deduplication
+    fingerprint: aggregatorJob.fingerprint
   };
 }
 
