@@ -201,34 +201,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 28 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 28 roles
-- **🏢 Companies**: 139 companies
-- **🏷️ Top Category**: Software Engineering
-
-<details>
-<summary><h3>💻 <strong>Software Engineering</strong> (1 position)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Senator Patty Murray** | Communications Internship | Washington, District of Columbia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.employment.senate.gov/job/communications-internship-washington-district-of-columbia-0577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-
-</details>
-
-
-
-</details>
-
----
-
-
 
 <div align="center">
 
