@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-42-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-28-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-25-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-39-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-25-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-25-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 28+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 42+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 25+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 39+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -94,19 +94,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (11 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (8 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Blue Cross and Blue Shield of Minnesota** | Intern Sales Technology Data Analyst 🏠 | Eagan, MN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Intern---Sales-Technology-Data-Analyst_R0006194) | undefined |
 | 🏢 **BorgWarner** | Data Science Intern, Supply Chain BOM Analytics | Unknown | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/data-science-intern-supply-chain-bom-analytics/7162621?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Caterpillar Inc.** | Intern - Manufacturing Engineering - Data Analysis | West Lafayette, IN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Intern-Summer-2026--Manufacturing-Engineering--Data-Analysis-_R0000347651) | undefined |
 | 🏢 **Finastra** | AI Engineer Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern_REQ0126_0035950) | undefined |
-| 🏢 **Jabil** | Data Governance Business Systems Analyst Intern | Remote in USA, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Governance-Business-Systems-Analyst-Intern_J2437910) | undefined |
 | 🏢 **Kaiser Permanente** | Data Analytics Intern - Multiple Teams | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480) | undefined |
 | 🏢 **Kaiser Permanente** | Data Analytics Bachelor Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405951) | undefined |
 | 🟦 **Microsoft** | Research Intern - AI for Nursing | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556750525) | undefined |
-| 🏢 **QTS** | Energy Markets Data Analytics Intern 🇺🇸 | Duluth, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2026-Internship--Energy-Markets-Data-Analytics_R2026-0224) | undefined |
 | 🏢 **TikTok** | Data Science Intern - Advertisement Team - 2026 Start','PhD | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7602395891774802181) | undefined |
 | 🏢 **Vanderlande Industries** | Supply Chain Data & Analytics Intern | Marietta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Supply-Chain-Data---Analytics-Intern_JR35405) | undefined |
 
@@ -197,33 +194,23 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 19 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 18 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 19 roles
-- **🏢 Companies**: 117 companies
+- **📁 Total Positions**: 18 roles
+- **🏢 Companies**: 108 companies
 - **🏷️ Top Category**: Data Science & Analytics
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (3 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Avathon** | Full Stack Engineering Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://avathon.com/company/careers-job-listing/?gh_jid=4655249005) | undefined |
-| 🏢 **MKS Instruments** | Software Engineer Intern | Beaverton, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2026-Spring-Software-Engineering-MECOP-Intern_R14517) | undefined |
-| 🏢 **Verition Fund Management** | Intern - Treasury Technology | Chicago, IL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.verition.com/open-positions?gh_jid=5040241007) | 1h |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Avathon** | Data Scientist Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://avathon.com/company/careers-job-listing/?gh_jid=4655247005) | undefined |
-| 🏢 **onsemi** | Summer 2026 – AI Engineer Intern | Scottsdale, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504527) | undefined |
+| 🏢 **Blue Cross and Blue Shield of Minnesota** | Intern Sales Technology Data Analyst 🏠 | Eagan, MN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Intern---Sales-Technology-Data-Analyst_R0006194) | undefined |
+| 🏢 **Jabil** | Data Governance Business Systems Analyst Intern | Remote in USA, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Governance-Business-Systems-Analyst-Intern_J2437910) | undefined |
+| 🏢 **QTS** | Energy Markets Data Analytics Intern 🇺🇸 | Duluth, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2026-Internship--Energy-Markets-Data-Analytics_R2026-0224) | undefined |
 
 </details>
 
@@ -237,7 +224,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 42 current opportunities from 28 top companies.**
+**🎯 39 current opportunities from 25 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
