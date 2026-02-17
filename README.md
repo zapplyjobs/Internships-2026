@@ -171,44 +171,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 4 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 4 roles
-- **🏢 Companies**: 89 companies
-- **🏷️ Top Category**: Data Science & Analytics
-
-<details>
-<summary><h3>💻 <strong>Software Engineering</strong> (1 position)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🟦 **Microsoft** | Research Intern - Agentic Programming | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556750506) | undefined |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Kaiser Permanente** | Data Analytics Bachelor Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405951) | undefined |
-| 🟦 **Microsoft** | Research Intern - AI for Nursing | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556750525) | undefined |
-
-</details>
-
-
-
-</details>
-
----
-
-
 
 <div align="center">
 
