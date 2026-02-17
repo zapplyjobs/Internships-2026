@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-02-17T23:14:54.653Z",
+  "timestamp": "2026-02-17T23:39:09.182Z",
   "workflow": {
-    "last_commit": "2026-02-17 22:59:55 +0000",
+    "last_commit": "2026-02-17 23:14:55 +0000",
     "commit_message": "Update jobs - 2026-02-17"
   },
   "sources": {
     "jsearch": 0,
-    "greenhouse": 7,
-    "lever": 1,
+    "greenhouse": 5,
+    "lever": 0,
     "ashby": 0,
     "workday": 1,
-    "myworkdayjobs": 52,
-    "other": 52,
-    "total": 113
+    "myworkdayjobs": 32,
+    "other": 43,
+    "total": 81
   },
   "processing": {
-    "current_jobs": 113,
+    "current_jobs": 81,
     "seen_jobs_total": 1247,
     "fresh_this_run": 10,
     "pending_queue": 163
@@ -25,7 +25,7 @@
     "jsearch_remaining": 89
   },
   "databases": {
-    "current_jobs_size": "610.55 KB",
+    "current_jobs_size": "465.69 KB",
     "seen_jobs_size": "81.1 KB",
     "pending_queue_size": "901.24 KB"
   },
