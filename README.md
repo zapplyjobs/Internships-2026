@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-26-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-19-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-18-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-24-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-17-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-18-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 19+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 26+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 24+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -87,14 +87,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (4 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Caterpillar Inc.** | Intern - Manufacturing Engineering - Data Analysis | West Lafayette, IN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Intern-Summer-2026--Manufacturing-Engineering--Data-Analysis-_R0000347651) | undefined |
 | 🏢 **Kaiser Permanente** | Data Analytics Intern - Multiple Teams | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480) | undefined |
 | 🏢 **TikTok** | Data Science Intern - Advertisement Team - 2026 Start','PhD | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7602395891774802181) | undefined |
-| 🏢 **Vanderlande Industries** | Supply Chain Data & Analytics Intern | Marietta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Supply-Chain-Data---Analytics-Intern_JR35405) | undefined |
 
 </details>
 
@@ -170,10 +168,39 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 4 (7+ days old) - Click to Expand</h2></summary>
+
+> Some positions may still be accepting applications or useful for planning.
+
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: 4 roles
+- **🏢 Companies**: 84 companies
+- **🏷️ Top Category**: Data Science & Analytics
+
+<details>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Caterpillar Inc.** | Intern - Manufacturing Engineering - Data Analysis | West Lafayette, IN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Intern-Summer-2026--Manufacturing-Engineering--Data-Analysis-_R0000347651) | undefined |
+| 🏢 **Vanderlande Industries** | Supply Chain Data & Analytics Intern | Marietta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Supply-Chain-Data---Analytics-Intern_JR35405) | undefined |
+
+</details>
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
-**🎯 26 current opportunities from 19 top companies.**
+**🎯 24 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
