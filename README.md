@@ -173,25 +173,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 88 companies
+- **📁 Total Positions**: 1 roles
+- **🏢 Companies**: 87 companies
 - **🏷️ Top Category**: Data Science & Analytics
-
-<details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (1 position)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Finastra** | AI Engineer Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern_REQ0126_0035950) | undefined |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
