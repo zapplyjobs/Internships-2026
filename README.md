@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-22-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-16-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-16-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-13-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-12-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 22+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 10+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 13+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,21 +61,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (16 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (12 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Berkshire Grey** | Robot Learning R&D Intern | Bedford, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://berkshiregrey.bamboohr.com/careers/656/) | undefined |
 | 🏢 **Bio-Techne** | Software Developer Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Software-Developer-Intern_JR101512) | undefined |
 | 🏢 **Bio-Techne** | Software Developer Intern | Wallingford, CT | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Developer-Intern_JR101471) | undefined |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN | Gilliam, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=41304a093287&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Eastwood) | Kalamazoo, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🏢 **CHRISTUS Health** | Nurse Extern I-Nursing Internship-PRN (Kansas City) | Kansas City, Missouri | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=38665d03251e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
 | 🌐 **Cisco** | Software Engineer I Intern United States | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/79nHnGJ3VaaPYFkAi5x3Ay?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Genentech** | 2026 Summer Intern - Regev Lab - Feedback Driven AI Systems | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Regev-Lab---Feedback-Driven-AI-Systems_202601-102363) | undefined |
-| 🏢 **Kaiser Permanente** | Data Reporting Master's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406128) | undefined |
 | 🟦 **Microsoft** | Research Intern - Applied Speech Research | Berkeley, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556751423) | undefined |
-| 🏢 **Oracle** | Ada Intern | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325250) | undefined |
 | 🏢 **Oracle** | Software Development Intern - Global Licensing and Advisory Services | San Carlos, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325487) | undefined |
 | 🏢 **Ricoh Careers** | SW Engineer Support Intern | Boulder, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Savannah River National Laboratory** | LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials | North Augusta, SC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1934) | undefined |
@@ -85,32 +81,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Kaiser Permanente** | Data Analytics Intern - Multiple Teams | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480) | undefined |
-| 🏢 **TikTok** | Data Science Intern - Advertisement Team - 2026 Start','PhD | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7602395891774802181) | undefined |
-
-</details>
-
-<details>
-<summary><h3>🎨 <strong>Product & Design</strong> (3 positions)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🏢 **The MITRE Corporation** | Internships in Electrical or Computer Engineering | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Zoom** | AI Infrastructure Intern 🏠 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Infrastructure-Intern_R18355-1) | undefined |
-| 🏢 **Zoom** | Enterprise Graph Retrieval Intern 🏠 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Enterprise-Graph-Retrieval-Intern_R18388-1) | undefined |
-
-</details>
-
-<details>
-<summary><h3>🌐 <strong>Full Stack & Frontend</strong> (1 position)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **Moog ** | Intern – IT Computer Science - Manufacturing Operation Platform | Boston, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Manufacturing-Operation-Platform_R-25-12319) | undefined |
 
 </details>
 
@@ -169,22 +144,53 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 8 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 32 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 8 roles
-- **🏢 Companies**: 77 companies
+- **📁 Total Positions**: 32 roles
+- **🏢 Companies**: 60 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Kaiser Permanente** | Application Development Bachelor's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406364) | undefined |
-| 🏢 **Powell** | R&D Software Engineering Intern | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6812) | undefined |
+| 🏢 **Berkshire Grey** | Robot Learning R&D Intern | Bedford, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://berkshiregrey.bamboohr.com/careers/656/) | undefined |
+| 🏢 **Genentech** | 2026 Summer Intern - Regev Lab - Feedback Driven AI Systems | San Bruno, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Regev-Lab---Feedback-Driven-AI-Systems_202601-102363) | undefined |
+| 🏢 **Kaiser Permanente** | Data Reporting Master's Intern | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406128) | undefined |
+| 🏢 **Oracle** | Ada Intern | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325250) | undefined |
+
+</details>
+
+<details>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Kaiser Permanente** | Data Analytics Intern - Multiple Teams | Pasadena, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480) | undefined |
+| 🏢 **TikTok** | Data Science Intern - Advertisement Team - 2026 Start','PhD | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7602395891774802181) | undefined |
+
+</details>
+
+<details>
+<summary><h3>🎨 <strong>Product & Design</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Zoom** | AI Infrastructure Intern 🏠 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Infrastructure-Intern_R18355-1) | undefined |
+| 🏢 **Zoom** | Enterprise Graph Retrieval Intern 🏠 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Enterprise-Graph-Retrieval-Intern_R18388-1) | undefined |
+
+</details>
+
+<details>
+<summary><h3>🌐 <strong>Full Stack & Frontend</strong> (1 position)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **Moog ** | Intern – IT Computer Science - Manufacturing Operation Platform | Boston, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Manufacturing-Operation-Platform_R-25-12319) | undefined |
 
 </details>
 
@@ -198,7 +204,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 22 current opportunities from 16 top companies.**
+**🎯 13 current opportunities from 10 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
