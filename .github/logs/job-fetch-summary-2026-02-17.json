@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-17T02:10:52.716Z",
+  "timestamp": "2026-02-17T03:15:46.724Z",
   "total_fetched": 0,
-  "persisted_jobs": 136,
-  "merged_jobs": 136,
-  "current_jobs": 135,
-  "archived_jobs": 1,
+  "persisted_jobs": 135,
+  "merged_jobs": 135,
+  "current_jobs": 131,
+  "archived_jobs": 4,
   "fresh_jobs": 0,
-  "duplicates_filtered": 136,
+  "duplicates_filtered": 135,
   "queue_status": {
     "total": 163,
     "pending": 143,
