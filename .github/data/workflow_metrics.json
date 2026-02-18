@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-18T13:16:12.626Z",
+  "timestamp": "2026-02-18T13:52:08.471Z",
   "workflow": {
-    "last_commit": "2026-02-18 12:44:19 +0000",
-    "commit_message": "Update jobs - 2026-02-18"
+    "last_commit": "2026-02-18 07:23:15 -0600",
+    "commit_message": "fix: button sizes to height=60, add ?ref=github to website URL, fix extension href"
   },
   "sources": {
     "jsearch": 0,
@@ -10,12 +10,12 @@
     "lever": 0,
     "ashby": 0,
     "workday": 1,
-    "myworkdayjobs": 3,
+    "myworkdayjobs": 2,
     "other": 9,
-    "total": 13
+    "total": 12
   },
   "processing": {
-    "current_jobs": 13,
+    "current_jobs": 12,
     "seen_jobs_total": 1247,
     "fresh_this_run": 10,
     "pending_queue": 163
@@ -25,7 +25,7 @@
     "jsearch_remaining": 89
   },
   "databases": {
-    "current_jobs_size": "58.88 KB",
+    "current_jobs_size": "53.7 KB",
     "seen_jobs_size": "81.1 KB",
     "pending_queue_size": "901.24 KB"
   },
