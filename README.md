@@ -123,49 +123,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 34 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 34 roles
-- **🏢 Companies**: 26 companies
-- **🏷️ Top Category**: Software Engineering
-
-<details>
-<summary><h3>💻 <strong>Software Engineering</strong> (7 positions)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN | Gilliam, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=41304a093287&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Eastwood) | Kalamazoo, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **CHRISTUS Health** | Nurse Extern I-Nursing Internship-PRN (Kansas City) | Kansas City, Missouri | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=38665d03251e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🌐 **Cisco** | Software Engineer I Intern United States | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/79nHnGJ3VaaPYFkAi5x3Ay?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **Ricoh Careers** | SW Engineer Support Intern | Boulder, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-| 🏢 **University Health** | Academy Student Nurse Internship | Pleasanton, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=e0e378aa1e54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **University of Michigan** | REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W / 12E / 11W) | Ann Arbor, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d0d7e0b1f6cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-</details>
-
-<details>
-<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **The MITRE Corporation** | Internships in Electrical or Computer Engineering | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
-
-</details>
-
-
-
-</details>
-
----
-
-
 
 <div align="center">
 
