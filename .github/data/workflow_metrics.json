@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-18T03:19:20.566Z",
+  "timestamp": "2026-02-18T04:12:37.059Z",
   "workflow": {
-    "last_commit": "2026-02-18 02:13:17 +0000",
-    "commit_message": "Update jobs - 2026-02-18"
+    "last_commit": "2026-02-17 21:29:02 -0600",
+    "commit_message": "fix: remove archived script references from workflow"
   },
   "sources": {
     "jsearch": 0,
