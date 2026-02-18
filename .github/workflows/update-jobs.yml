@@ -100,12 +100,7 @@ jobs:
 
             JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
-            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC')
-
-Found $JOB_COUNT internship positions
-Updated via centralized aggregator
-
-Triggered by: ${{ github.event_name }}"
+            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT internship positions"
 
             if ! git commit -m "$COMMIT_MSG"; then
               echo "Commit failed, may already be committed"
