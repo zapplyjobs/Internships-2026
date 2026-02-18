@@ -1,64 +1,89 @@
 #!/usr/bin/env node
 
 /**
- * Main entry point for the job fetcher system
- * 
- * This module orchestrates the entire job fetching and processing pipeline:
- * 1. Fetches jobs from multiple sources (APIs + career pages)
- * 2. Filters and processes jobs for US positions
- * 3. Generates enhanced README with job listings
- * 4. Handles deduplication and archiving
+ * Main entry point for the job fetcher system - Internships-2026
+ *
+ * Fetches internship jobs from centralized aggregator and generates README.
+ * Replaced JSearch direct fetch with aggregator consumer (2026-02-18).
+ *
+ * Pipeline:
+ * 1. Fetch internship jobs from aggregator (jobs-data-2026/all_jobs.json)
+ * 2. Process and filter jobs
+ * 3. Generate updated README
+ * 4. Save new_jobs.json for write-current-jobs.js
  */
 
-const { processJobs } = require('./job-processor');
+const fs = require('fs');
+const path = require('path');
+const { createAggregatorConsumer } = require('../shared/lib/aggregator-consumer');
 const { updateReadme } = require('./readme-generator');
-const { fetchInternshipData, companies } = require('./utils');
 
-// Main execution function
+const dataDir = path.join(process.cwd(), '.github', 'data');
+
 async function main() {
-    try {
-        console.log('🚀 Starting Zapply job fetching system...');
-        console.log('═'.repeat(50));
-        
-        // Process all jobs (fetch, filter, deduplicate)
-        const { currentJobs, archivedJobs, freshJobs, stats } = await processJobs();
-        
-        // Fetch internship data
-        const internshipData = await fetchInternshipData();
-        
-        // Update README with current job state
-        await updateReadme(currentJobs, archivedJobs, internshipData, stats);
-        
-        // Print final summary
-        console.log('\n🎉 Job fetching completed successfully!');
-        console.log('═'.repeat(50));
-        console.log(`📊 Final Stats:`);
-        console.log(`   • Current jobs: ${currentJobs.length}`);
-        console.log(`   • Fresh jobs: ${freshJobs.length}`);
-        console.log(`   • Archived jobs: ${archivedJobs.length}`);
-        console.log(`   • Companies: ${Object.keys(stats.totalByCompany).length}`);
-        console.log(`   • FAANG+ jobs: ${currentJobs.filter(job => 
-            companies.faang_plus.some(c => c.name === job.employer_name)
-        ).length}`);
-        
-        if (freshJobs.length > 0) {
-            console.log(`\n📬 ${freshJobs.length} new jobs prepared for Discord posting`);
-        } else {
-            console.log(`\nℹ️ No new jobs found - all positions already processed`);
-        }
+  try {
+    console.log('🚀 Starting Internships job fetching system...');
+    console.log('═'.repeat(50));
 
-        // Force exit after completion
-        process.exit(0);
-    } catch (error) {
-        console.error('\n❌ Fatal error in job fetching system:', error);
-        console.error('Stack trace:', error.stack);
-        process.exit(1);
+    // Fetch internship jobs from aggregator
+    const consumer = createAggregatorConsumer({
+      filters: { employment: 'internship' },
+      verbose: true
+    });
+
+    const jobs = await consumer.fetchJobs();
+
+    if (jobs.length === 0) {
+      console.log('⚠️  No internship jobs fetched from aggregator');
+      console.log('   Check that all_jobs.json exists in jobs-data-2026');
     }
+
+    console.log(`\n✅ Fetched ${jobs.length} internship jobs from aggregator`);
+
+    // Normalize field name: aggregator uses job_posted_at_datetime_utc,
+    // readme-generator expects job_posted_at
+    const currentJobs = jobs.map(job => ({
+      ...job,
+      job_posted_at: job.job_posted_at_datetime_utc || job.job_posted_at || null
+    }));
+
+    // Build stats for README
+    const stats = {
+      totalByCompany: {}
+    };
+    currentJobs.forEach(job => {
+      stats.totalByCompany[job.employer_name] =
+        (stats.totalByCompany[job.employer_name] || 0) + 1;
+    });
+
+    // Save new_jobs.json (consumed by write-current-jobs.js)
+    fs.mkdirSync(dataDir, { recursive: true });
+    fs.writeFileSync(
+      path.join(dataDir, 'new_jobs.json'),
+      JSON.stringify(currentJobs, null, 2),
+      'utf8'
+    );
+    console.log(`💾 Saved ${currentJobs.length} jobs to new_jobs.json`);
+
+    // Update README
+    await updateReadme(currentJobs, [], null, stats);
+
+    // Print summary
+    console.log('\n🎉 Job fetching completed successfully!');
+    console.log('═'.repeat(50));
+    console.log(`📊 Final Stats:`);
+    console.log(`   • Current jobs: ${currentJobs.length}`);
+    console.log(`   • Companies: ${Object.keys(stats.totalByCompany).length}`);
+
+  } catch (error) {
+    console.error('\n❌ Fatal error:', error.message);
+    console.error('Stack trace:', error.stack);
+    process.exit(1);
+  }
 }
 
-// Execute if run directly
 if (require.main === module) {
-    main();
+  main();
 }
 
 module.exports = { main };
