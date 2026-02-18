@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-02-18T23:01:18.920Z",
+  "timestamp": "2026-02-18T23:05:38.141Z",
   "workflow": {
-    "last_commit": "2026-02-18 22:40:15 +0000",
-    "commit_message": "Update jobs - 2026-02-18"
+    "last_commit": "2026-02-18 17:04:58 -0600",
+    "commit_message": "Update job fetcher to use centralized aggregator"
   },
   "sources": {
     "jsearch": 0,
-    "greenhouse": 0,
-    "lever": 0,
+    "greenhouse": 44,
+    "lever": 2,
     "ashby": 0,
     "workday": 0,
     "myworkdayjobs": 0,
-    "other": 0,
-    "total": 0
+    "other": 41,
+    "total": 87
   },
   "processing": {
-    "current_jobs": 0,
+    "current_jobs": 87,
     "seen_jobs_total": 1320,
-    "fresh_this_run": 10,
+    "fresh_this_run": 94,
     "pending_queue": 224
   },
   "quota": {
@@ -25,7 +25,7 @@
     "jsearch_remaining": 89
   },
   "databases": {
-    "current_jobs_size": "2 B",
+    "current_jobs_size": "988.1 KB",
     "seen_jobs_size": "84.45 KB",
     "pending_queue_size": "1.62 MB"
   },
@@ -36,7 +36,5 @@
     "pending_queue_exists": true
   },
   "warnings": [],
-  "errors": [
-    "No current jobs (database empty)"
-  ]
+  "errors": []
 }
