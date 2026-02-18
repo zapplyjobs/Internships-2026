@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-18T16:29:14.542Z",
+  "timestamp": "2026-02-18T17:00:12.443Z",
   "workflow": {
-    "last_commit": "2026-02-18 10:20:28 -0600",
-    "commit_message": "Update job-board-scripts submodule: aggregator URL + 14-day filter"
+    "last_commit": "2026-02-18 16:29:15 +0000",
+    "commit_message": "Update jobs - 2026-02-18"
   },
   "sources": {
     "jsearch": 0,
@@ -11,11 +11,11 @@
     "ashby": 0,
     "workday": 0,
     "myworkdayjobs": 0,
-    "other": 2,
-    "total": 2
+    "other": 1,
+    "total": 1
   },
   "processing": {
-    "current_jobs": 2,
+    "current_jobs": 1,
     "seen_jobs_total": 1247,
     "fresh_this_run": 10,
     "pending_queue": 163
@@ -25,7 +25,7 @@
     "jsearch_remaining": 89
   },
   "databases": {
-    "current_jobs_size": "14.31 KB",
+    "current_jobs_size": "6.93 KB",
     "seen_jobs_size": "81.1 KB",
     "pending_queue_size": "901.24 KB"
   },
