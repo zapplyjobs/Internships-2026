@@ -92,10 +92,8 @@ jobs:
           echo "⚠️  No job-fetcher log found"
         fi
 
-    - name: Export jobs to encrypted JSON (for external job boards)
-      run: node .github/scripts/jobs-data-exporter.js
-      env:
-        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
+    # Removed: Export jobs to encrypted JSON (jobs-data-exporter.js archived 2026-02-14)
+    # Removed: Generate metrics report (generate-metrics-report.js archived 2026-02-14)
 
     - name: Write current_jobs.json for aggregator
       run: node .github/scripts/write-current-jobs.js
@@ -105,12 +103,6 @@ jobs:
       run: |
         mkdir -p .github/data
         node .github/scripts/output-metrics.js || echo "Metrics generation failed (non-blocking)"
-
-    - name: Generate metrics report
-      if: always()
-      run: node .github/scripts/generate-metrics-report.js --days=7
-      env:
-        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
     - name: Check for changes
       if: always()
