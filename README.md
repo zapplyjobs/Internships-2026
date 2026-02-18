@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-11-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-10-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-3-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-3-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 9+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 11+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 3+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,29 +61,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (10 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN | Gilliam, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=41304a093287&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Eastwood) | Kalamazoo, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **CHRISTUS Health** | Nurse Extern I-Nursing Internship-PRN (Kansas City) | Kansas City, Missouri | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=38665d03251e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🌐 **Cisco** | Software Engineer I Intern United States | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/79nHnGJ3VaaPYFkAi5x3Ay?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🟦 **Microsoft** | Research Intern - Applied Speech Research | Berkeley, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556751423) | undefined |
 | 🏢 **Oracle** | Software Development Intern - Global Licensing and Advisory Services | San Carlos, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325487) | undefined |
-| 🏢 **Ricoh Careers** | SW Engineer Support Intern | Boulder, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 | 🏢 **Savannah River National Laboratory** | LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials | North Augusta, SC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1934) | undefined |
-| 🏢 **University Health** | Academy Student Nurse Internship | Pleasanton, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=e0e378aa1e54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-| 🏢 **University of Michigan** | REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W / 12E / 11W) | Ann Arbor, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d0d7e0b1f6cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
-
-</details>
-
-<details>
-<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
-
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **The MITRE Corporation** | Internships in Electrical or Computer Engineering | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 
 </details>
 
@@ -142,22 +126,36 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 11 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 34 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 11 roles
-- **🏢 Companies**: 52 companies
+- **📁 Total Positions**: 34 roles
+- **🏢 Companies**: 26 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (7 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Bio-Techne** | Software Developer Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Software-Developer-Intern_JR101512) | undefined |
-| 🏢 **Bio-Techne** | Software Developer Intern | Wallingford, CT | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Developer-Intern_JR101471) | undefined |
+| 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN | Gilliam, Louisiana | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=41304a093287&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Internship - PRN (Eastwood) | Kalamazoo, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ef665151d67a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **CHRISTUS Health** | Nurse Extern I-Nursing Internship-PRN (Kansas City) | Kansas City, Missouri | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=38665d03251e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🌐 **Cisco** | Software Engineer I Intern United States | San Jose, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/79nHnGJ3VaaPYFkAi5x3Ay?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **Ricoh Careers** | SW Engineer Support Intern | Boulder, Colorado | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
+| 🏢 **University Health** | Academy Student Nurse Internship | Pleasanton, California | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=e0e378aa1e54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+| 🏢 **University of Michigan** | REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W / 12E / 11W) | Ann Arbor, Michigan | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=d0d7e0b1f6cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 1h |
+
+</details>
+
+<details>
+<summary><h3>🎨 <strong>Product & Design</strong> (1 position)</h3></summary>
+
+| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| 🏢 **The MITRE Corporation** | Internships in Electrical or Computer Engineering | McLean, Virginia | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | undefined |
 
 </details>
 
@@ -171,7 +169,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11 current opportunities from 9 top companies.**
+**🎯 3 current opportunities from 3 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -179,6 +177,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** February 17, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 18, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
