@@ -1,18 +1,16 @@
-name: Update Zapply Jobs
+name: Update Jobs from Aggregator
 
 on:
   schedule:
-    # Run every 12 minutes (staggered schedule: 2, 14, 26, 38, 50)
-    - cron: '2,14,26,38,50 * * * *'
+    - cron: '2,14,26,38,50 * * * *'  # Every 12 minutes (staggered schedule)
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
     paths:
       - '.github/scripts/job-fetcher/**'
-      - '.github/scripts/real-career-scraper.js'
-      - '.github/scripts/enhanced-discord-bot.js'
+      - '.github/scripts/write-current-jobs.js'
 
-# Prevent concurrent runs to avoid queue corruption
+# Prevent concurrent runs to avoid git conflicts
 concurrency:
   group: job-updates-${{ github.repository }}
   cancel-in-progress: false
@@ -20,7 +18,7 @@ concurrency:
 jobs:
   update-jobs:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # Prevent stuck runs from blocking future runs
+    timeout-minutes: 30
     permissions:
       contents: write
 
@@ -28,173 +26,124 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        ref: ${{ github.ref_name }}  # Use the branch that triggered the workflow
-        submodules: recursive  # Initialize git submodules (required for shared/ directory)
+        ref: ${{ github.ref_name }}
+        fetch-depth: 1
+        submodules: recursive  # Required for shared/ aggregator-consumer library
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
         cache: 'npm'
-        cache-dependency-path: |
-          package-lock.json
-          jobboard/package-lock.json
 
-    - name: Install job fetcher dependencies
-      run: npm install axios cheerio
+    - name: Install dependencies
+      run: npm install axios
 
-    - name: Install scraper dependencies
+    - name: Fetch and update jobs
       run: |
-        npm install puppeteer
-        npx puppeteer browsers install chrome
+        mkdir -p .github/logs
+        node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
 
-    - name: Install jobboard dependencies
+    - name: Write current_jobs.json for aggregator
       run: |
-        cd jobboard
-        npm install --production --no-audit --no-fund
-        cd ..
-
-    - name: Create logs directory
-      run: mkdir -p .github/logs
-
-    - name: Update job listings
-      run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
-      env:
-        JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
-        GH_PAT: ${{ secrets.GH_PAT }}
-        # Database retention window (14 days to catch slow-updating sources)
-        ACTIVE_WINDOW_DAYS: 14
-        # Feature flag: Use tagged aggregator feed instead of direct JSearch API
-        # ABANDONED: Using individual JSearch per repo (2026-02-06)
-        # Aggregator complexity outweighs benefits - independence preferred
-        USE_AGGREGATOR: 'false'
+        mkdir -p .github/data
+        node .github/scripts/write-current-jobs.js
 
     - name: Display job-fetcher logs (always run)
       if: always()
       run: |
-        echo "📋 Job Fetcher Output (last 100 lines):"
+        echo "Job Fetcher Output (last 100 lines):"
         tail -100 .github/logs/job-fetcher.log || echo "Log file not found"
 
-
-    - name: Display job-fetcher summary
+    - name: Display public status
       run: |
-        echo "📊 Job Fetcher Summary:"
-        echo "========================"
-        if [ -f ".github/logs/job-fetcher.log" ]; then
-          # Extract key metrics from log
-          echo "✅ Jobs found:" $(grep -o "Found [0-9]* jobs" .github/logs/job-fetcher.log | tail -1 || echo "0 jobs")
-          echo "✅ After filters:" $(grep -o "After.*filter.*[0-9]* jobs" .github/logs/job-fetcher.log | tail -1 || echo "Unknown")
-          echo "🔍 Errors:" $(grep -c "Error\|error\|ERROR" .github/logs/job-fetcher.log || echo "0")
-          echo "⚠️  Warnings:" $(grep -c "Warning\|warning\|WARN" .github/logs/job-fetcher.log || echo "0")
-          echo ""
-          echo "Last 10 lines of log:"
-          tail -10 .github/logs/job-fetcher.log
-        else
-          echo "⚠️  No job-fetcher log found"
+        echo "Job collection completed"
+        if [ -f "README.md" ]; then
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          echo "Total positions: $JOB_COUNT"
         fi
 
-    # Removed: Export jobs to encrypted JSON (jobs-data-exporter.js archived 2026-02-14)
-    # Removed: Generate metrics report (generate-metrics-report.js archived 2026-02-14)
-
-    - name: Write current_jobs.json for aggregator
-      run: node .github/scripts/write-current-jobs.js
-
-    - name: Generate workflow metrics
-      if: always()
-      run: |
-        mkdir -p .github/data
-        node .github/scripts/output-metrics.js || echo "Metrics generation failed (non-blocking)"
-
     - name: Check for changes
-      if: always()
       id: verify-changed-files
       run: |
+        echo "Git status:"
+        git status --porcelain
+        echo ""
+
         if [ -n "$(git status --porcelain)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "Found changes in README"
+          echo "Found changes in files"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
           echo "No changes detected"
         fi
-      
-    - name: Commit updated job board
-      if: always() && steps.verify-changed-files.outputs.changed == 'true'
+
+    - name: Commit and Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add -A
-        
-        # Get job count from README for commit message
-        JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-        COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-        
-        git commit -m "Update jobs - $(date +'%Y-%m-%d')
-        
-        Found $JOB_COUNT positions from $COMPANY_COUNT companies
-        Updated categories, locations, and experience levels
-        Next update tomorrow"
-        
-    - name: 🔄 Pull latest changes
-      if: always() && steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-          echo "📥 Pulling latest changes with rebase (ours strategy) to avoid conflicts..."
-           git fetch origin ${{ github.ref_name }}
-           git rebase origin/${{ github.ref_name }} --strategy-option=ours || git merge -X ours origin/${{ github.ref_name }} --no-edit
-           echo "✅ Pull completed successfully!"
 
+        commit_and_push() {
+          local max_attempts=5
+          local delay=5
 
-    - name: 🚀 Push updated changes with retry logic
-      if: always() && steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        echo "🚀 Pushing changes with retry logic..."
-        for i in 1 2 3; do
-          echo "Push attempt $i of 3..."
-          if git push origin ${{ github.ref_name }}; then
-            echo "✅ Successfully pushed changes!"
-            break
-          else
-            echo "⚠️ Push failed — pulling latest changes before retry..."
-            git pull origin ${{ github.ref_name }} --rebase --autostash || git pull origin ${{ github.ref_name }} --no-edit
-            sleep 5
-          fi
-        done
-        
+          for attempt in $(seq 1 $max_attempts); do
+            echo "Attempt $attempt of $max_attempts"
+
+            git pull origin ${{ github.ref_name }} --no-edit || {
+              echo "Pull had conflicts, resetting..."
+              git reset --hard HEAD
+            }
+
+            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/logs/ || true
+
+            JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC')
+
+Found $JOB_COUNT internship positions
+Updated via centralized aggregator
+
+Triggered by: ${{ github.event_name }}"
+
+            if ! git commit -m "$COMMIT_MSG"; then
+              echo "Commit failed, may already be committed"
+            fi
+
+            if git push origin ${{ github.ref_name }}; then
+              echo "Successfully pushed changes!"
+              exit 0
+            else
+              echo "Push failed — retrying in ${delay}s..."
+              git reset --soft HEAD~1
+              sleep $delay
+              delay=$((delay * 2))
+            fi
+          done
+
+          echo "Failed to push after $max_attempts attempts"
+          exit 1
+        }
+
+        commit_and_push
+
     - name: Create job summary
       run: |
-        echo "## 🚀 Zapply Jobs Updated!" >> $GITHUB_STEP_SUMMARY
+        echo "## Jobs Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        
+
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          # Extract stats from README
-          JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-          COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-          FAANG_COUNT=$(grep -o "FAANG+ Jobs\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-          
-          echo "✅ **Successfully updated job board with fresh opportunities**" >> $GITHUB_STEP_SUMMARY
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+          echo "Successfully updated internship job board" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 📊 Today's Haul:" >> $GITHUB_STEP_SUMMARY  
-          echo "- 🎯 **$JOB_COUNT total positions** from elite tech companies" >> $GITHUB_STEP_SUMMARY
-          echo "- 🏢 **$COMPANY_COUNT companies** tracked (FAANG, unicorns, startups)" >> $GITHUB_STEP_SUMMARY
-          echo "- ⭐ **$FAANG_COUNT FAANG+ jobs** from top-tier companies" >> $GITHUB_STEP_SUMMARY
+          echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY
+          echo "- **$JOB_COUNT total internship positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 🔍 Search Coverage:" >> $GITHUB_STEP_SUMMARY
-          echo "- 🌐 **Multi-location search**: SF Bay Area, NYC, Seattle, Austin, Remote" >> $GITHUB_STEP_SUMMARY
-          echo "- 🎓 **All experience levels**: Entry-level to Senior positions" >> $GITHUB_STEP_SUMMARY
-          echo "- 💼 **10+ role categories**: SWE, ML/AI, Data, Mobile, DevOps, Product, Design" >> $GITHUB_STEP_SUMMARY
-          echo "- 🏆 **Elite companies only**: FAANG, unicorns, top startups, gaming leaders" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 🎯 Quality Filters Applied:" >> $GITHUB_STEP_SUMMARY
-          echo "- ✨ Removed duplicates and spam postings" >> $GITHUB_STEP_SUMMARY
-          echo "- 🏢 Normalized company names and subsidiaries" >> $GITHUB_STEP_SUMMARY  
-          echo "- 📊 Ranked by company tier (FAANG first)" >> $GITHUB_STEP_SUMMARY
-          echo "- 🔗 Verified direct application links" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**🔄 Next update**: Tomorrow at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
+          echo "**Next update**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
         else
-          echo "ℹ️ **No new opportunities found - job board is current**" >> $GITHUB_STEP_SUMMARY
+          echo "No changes detected - job board is current" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "All tracked companies have been checked for new postings." >> $GITHUB_STEP_SUMMARY
-          echo "The existing job listings are still fresh and active." >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**🔄 Next check**: Tomorrow at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
+          echo "**Next check**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
         fi
