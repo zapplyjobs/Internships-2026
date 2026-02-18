@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-2-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-2-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-0-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-0-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 2+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 2+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 0+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 0+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -60,17 +60,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-<details>
-<summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
-
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **Oracle** | Software Development Intern - Global Licensing and Advisory Services | San Carlos, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325487) | undefined |
-| 🏢 **Savannah River National Laboratory** | LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials | North Augusta, SC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1934) | undefined |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 ---
 
@@ -125,18 +117,26 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 2 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 5 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 2 roles
-- **🏢 Companies**: 8 companies
-- **🏷️ Top Category**: Product & Design
+- **📁 Total Positions**: 5 roles
+- **🏢 Companies**: 5 companies
+- **🏷️ Top Category**: DevOps & Infrastructure
+
+<details>
+<summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Oracle** | Software Development Intern - Global Licensing and Advisory Services | San Carlos, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325487) | undefined |
+| 🏢 **Savannah River National Laboratory** | LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials | North Augusta, SC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1934) | undefined |
+
+</details>
+
+
 
 </details>
 
@@ -146,7 +146,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2 current opportunities from 2 top companies.**
+**🎯 0 current opportunities from 0 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
