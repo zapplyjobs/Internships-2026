@@ -1,6 +1,0 @@
-node_modules/
-.husky/
-.github/
-*.log
-G/
-job-processing-logs-*/
