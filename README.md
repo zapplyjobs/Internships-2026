@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-36-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building) ![Product & Desig](https://img.shields.io/badge/Product_&_Design-17-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-34-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building) ![Product & Desig](https://img.shields.io/badge/Product_&_Design-16-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 36+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 34+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,11 +61,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (10 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (9 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **cloudflare** | International Tax Analyst | Hybrid | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7428653?gh_jid=7428653) | 2026-02-06T10:04:45-05:00 |
 | 🏢 **dropbox** | Tax & Treasury Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7628941?gh_jid=7628941) | 2026-02-19T12:26:11-05:00 |
 | 🏢 **dropbox** | Support Enablement Engineer Intern  (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531477?gh_jid=7531477) | 2026-02-13T09:40:30-05:00 |
 | 🏢 **dropbox** | Support Enablement Engineer Intern  (Summer 2026) | Remote - Canada: Select locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531481?gh_jid=7531481) | 2026-02-13T09:40:30-05:00 |
@@ -96,12 +95,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (17 positions)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (16 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🏢 **cloudflare** | Technical Writer Intern | In-Office | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7412237?gh_jid=7412237) | 2026-02-06T19:32:26-05:00 |
-| 🏢 **cloudflare** | Technical Writer Intern | In-Office | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7472892?gh_jid=7472892) | 2026-02-06T10:04:45-05:00 |
 | 🏢 **coinbase** | Strategic Sourcing Intern 🏠 | Hybrid - New York | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7315887?gh_jid=7315887) | 2026-02-19T16:55:59-05:00 |
 | 🏢 **coinbase** | Exchange Operations Specialist, Coinbase Derivatives & International Exchange 🏠 | Remote - Singapore | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7571812?gh_jid=7571812) | 2026-02-19T05:03:26-05:00 |
 | 🏢 **coinbase** | Product Design Intern 🏠 | Hybrid - San Francisco | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051) | 2026-02-17T11:38:45-05:00 |
@@ -175,7 +173,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 36 current opportunities from 5 top companies.**
+**🎯 34 current opportunities from 5 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
