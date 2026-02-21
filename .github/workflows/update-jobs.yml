@@ -59,7 +59,7 @@ jobs:
       run: |
         echo "Job collection completed"
         if [ -f "README.md" ]; then
-          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(grep -o "Total_Internships-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
           echo "Total positions: $JOB_COUNT"
         fi
 
@@ -98,7 +98,7 @@ jobs:
 
             git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/logs/ || true
 
-            JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+            JOB_COUNT=$(grep -o "Total_Internships-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
             COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT internship positions"
 
@@ -129,7 +129,7 @@ jobs:
         echo "" >> $GITHUB_STEP_SUMMARY
 
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(grep -o "Total_Internships-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
           echo "Successfully updated internship job board" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
