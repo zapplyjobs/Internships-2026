@@ -27,7 +27,7 @@ async function main() {
 
     // Fetch internship jobs from aggregator
     const consumer = createAggregatorConsumer({
-      filters: { employment: 'internship' },
+      filters: { employment: 'internship', locations: ['us'] },
       verbose: true
     });
 
