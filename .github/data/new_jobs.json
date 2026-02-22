@@ -15,12 +15,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -43,12 +43,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -71,12 +71,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "software"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -104,7 +104,7 @@
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -132,7 +132,7 @@
       "locations": [
         "us"
       ],
-      "experience": "under_3_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -160,7 +160,7 @@
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -183,12 +183,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "software"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -211,12 +211,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "software"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -244,7 +244,7 @@
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -267,12 +267,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "software"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -300,7 +300,7 @@
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -328,7 +328,7 @@
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -356,7 +356,7 @@
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -384,7 +384,7 @@
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -407,12 +407,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -435,12 +435,13 @@
     "tags": {
       "employment": "internship",
       "domains": [
+        "software",
         "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -463,12 +464,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -491,12 +492,13 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "software"
+        "software",
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -519,12 +521,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -547,12 +549,12 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -609,7 +611,7 @@
         "us",
         "remote"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
@@ -638,7 +640,7 @@
         "us",
         "remote"
       ],
-      "experience": "3_plus_years",
+      "experience": "no_experience",
       "special": []
     },
     "_source": "aggregator",
