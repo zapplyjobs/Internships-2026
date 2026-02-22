@@ -10,7 +10,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time internships from 2+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 7+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 2+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 15 minutes with 7+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -111,8 +111,6 @@ Check out our other repos for jobs and free resources:
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
@@ -138,7 +136,7 @@ Add new jobs to our listings keeping in mind the following:
 - Create a new issue to submit different job positions.
 - Update a job by submitting an issue with the job URL and required changes.
 
-Our team reviews within 24-48 hours and approved jobs are added to the main list!
+Jobs are added automatically by our pipeline every 15 minutes.
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
@@ -154,6 +152,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** February 22, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 22, 2026 • **Refresh Frequency:** Every 15 minutes
 
 </div>
