@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-9-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building) ![Data Science & ](https://img.shields.io/badge/Data_Science_&_Analy-4-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-7-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building) ![Product & Desig](https://img.shields.io/badge/Product_&_Design-3-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 9+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 2+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 7+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -71,13 +71,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (4 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
 | 🏢 **coinbase** | Employee & Workplace Experience Intern 🏠 | New York, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242) | 2026-02-20T15:32:52-05:00 |
-| 🏢 **instacart** | Machine Learning PhD Intern, Economics 🏠 | United States - Remote | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) | 2026-02-08T15:10:09-05:00 |
-| 🏢 **instacart** | Machine Learning Engineer, PhD Intern 🏠 | United States - Remote | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=5917202) | 2026-02-08T15:10:02-05:00 |
 | 🏢 **stripe** | PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) | 2026-02-17T17:23:43-05:00 |
 
 </details>
@@ -148,7 +146,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 9 current opportunities from 3 top companies.**
+**🎯 7 current opportunities from 2 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
