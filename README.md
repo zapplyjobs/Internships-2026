@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-31-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building) ![Product & Desig](https://img.shields.io/badge/Product_&_Design-14-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-9-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building) ![Data Science & ](https://img.shields.io/badge/Data_Science_&_Analy-4-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 31+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 9+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,57 +61,35 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (9 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **dropbox** | Tax & Treasury Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7628941?gh_jid=7628941) | 2026-02-19T12:26:11-05:00 |
-| 🏢 **dropbox** | Support Enablement Engineer Intern  (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531477?gh_jid=7531477) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | Support Enablement Engineer Intern  (Summer 2026) | Canada: Select locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531481?gh_jid=7531481) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **stripe** | Software Engineer, Intern | London | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7360840) | 2026-02-17T17:23:50-05:00 |
-| 🏢 **stripe** | Software Engineer, Intern | Dublin | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7206494) | 2026-02-17T17:23:43-05:00 |
 | 🏢 **stripe** | Software Engineer, Intern (Summer) | San Francisco, Seattle, New York City | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7210115) | 2026-02-17T17:23:43-05:00 |
-| 🏢 **stripe** | Software Engineer, Intern | Singapore | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7206401) | 2026-02-17T17:23:42-05:00 |
-| 🏢 **stripe** | Software Engineer, Intern | Toronto | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7206389) | 2026-02-17T17:23:42-05:00 |
 | 🏢 **stripe** | Software Engineer, Internal Systems | Seattle, San Francisco, New York City | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) | 2026-02-17T17:23:39-05:00 |
 
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Science & Analytics</strong> (8 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Science & Analytics</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **cloudflare** | Network Strategy Commercial Intern (Summer 2026) | In-Office | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7589934?gh_jid=7589934) | 2026-02-10T17:00:46-05:00 |
-| 🏢 **coinbase** | Employee & Workplace Experience Intern 🏠 | New York | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242) | 2026-02-20T15:32:52-05:00 |
-| 🏢 **dropbox** | Data Science Engineer Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7527941?gh_jid=7527941) | 2026-02-13T09:40:30-05:00 |
+| 🏢 **coinbase** | Employee & Workplace Experience Intern 🏠 | New York, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242) | 2026-02-20T15:32:52-05:00 |
 | 🏢 **instacart** | Machine Learning PhD Intern, Economics 🏠 | United States - Remote | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) | 2026-02-08T15:10:09-05:00 |
 | 🏢 **instacart** | Machine Learning Engineer, PhD Intern 🏠 | United States - Remote | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=5917202) | 2026-02-08T15:10:02-05:00 |
-| 🏢 **stripe** | Data Analyst, Intern (Master's degree) | Toronto, Ontario, Canada | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7285986) | 2026-02-17T17:23:46-05:00 |
-| 🏢 **stripe** | PhD Data Scientist, Intern | Toronto, Ontario, Canada | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7285974) | 2026-02-17T17:23:46-05:00 |
 | 🏢 **stripe** | PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) | 2026-02-17T17:23:43-05:00 |
 
 </details>
 
 <details>
-<summary><h3>🎨 <strong>Product & Design</strong> (14 positions)</h3></summary>
+<summary><h3>🎨 <strong>Product & Design</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Level | Apply Now | Age |
 |---------|------|----------|-------|-----------|-----|
-| 🏢 **coinbase** | Strategic Sourcing Intern 🏠 | New York | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7315887?gh_jid=7315887) | 2026-02-19T16:55:59-05:00 |
-| 🏢 **coinbase** | Exchange Operations Specialist, Coinbase Derivatives & International Exchange 🏠 | Singapore | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7571812?gh_jid=7571812) | 2026-02-19T05:03:26-05:00 |
-| 🏢 **coinbase** | Product Design Intern 🏠 | San Francisco | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051) | 2026-02-17T11:38:45-05:00 |
-| 🏢 **coinbase** | User Researcher Intern 🏠 | San Francisco | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7269775?gh_jid=7269775) | 2026-02-17T11:38:45-05:00 |
-| 🏢 **dropbox** | AI Solutions Intern (Summer 2026) | Ireland | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7460106?gh_jid=7460106) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | Content Design Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7558609?gh_jid=7558609) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | Content Design Intern (Summer 2026) | Canada: Select locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7558613?gh_jid=7558613) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | CX Technical Content Design Intern (Summer 2026) | Canada: Select locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7558516?gh_jid=7558516) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | CX Technical Content Design Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7558512?gh_jid=7558512) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | CX Video Content Design Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7532161?gh_jid=7532161) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | CX Video Content Design Intern (Summer 2026) | Canada: Select locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7532165?gh_jid=7532165) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | PhD Machine Learning Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7368677?gh_jid=7368677) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | Research and Insights Intern (Summer 2026) | Canada: Select locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7558572?gh_jid=7558572) | 2026-02-13T09:40:30-05:00 |
-| 🏢 **dropbox** | Research and Insights Intern (Summer 2026) | Remote - US: All locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7558568?gh_jid=7558568) | 2026-02-13T09:40:30-05:00 |
+| 🏢 **coinbase** | Strategic Sourcing Intern 🏠 | New York, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7315887?gh_jid=7315887) | 2026-02-19T16:55:59-05:00 |
+| 🏢 **coinbase** | Product Design Intern 🏠 | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051) | 2026-02-17T11:38:45-05:00 |
+| 🏢 **coinbase** | User Researcher Intern 🏠 | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7269775?gh_jid=7269775) | 2026-02-17T11:38:45-05:00 |
 
 </details>
 
@@ -170,7 +148,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 31 current opportunities from 5 top companies.**
+**🎯 9 current opportunities from 3 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
