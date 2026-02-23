@@ -8,6 +8,7 @@ const {
   getCompanyCareerUrl,
   getExperienceLevel,
   formatLocation,
+  formatTimeAgo,
   generateMinimalJobFingerprint,
 } = require("./utils");
 
@@ -91,8 +92,8 @@ function generateJobTable(jobs) {
   console.log(`🔍 DEBUG: After filtering seniors: ${jobs.length} jobs remaining`);
 
   if (jobs.length === 0) {
-    return `| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
+    return `| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
 | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |`;
   }
 
@@ -162,26 +163,21 @@ function generateJobTable(jobs) {
       output += `<details>\n`;
       output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${posText})</h4></summary>\n\n`;
 
-      output += `| Role | Location | Level | Apply Now | Age |\n`;
-      output += `|------|----------|-------|-----------|-----|\n`;
+      output += `| Role | Location | Posted | Level | Apply |\n`;
+      output += `|------|----------|--------|-------|-------|\n`;
 
       companyJobs.forEach((job) => {
         const role = job.job_title;
         const location = formatLocation(job.job_city, job.job_state);
-        const posted = job.job_posted_at;
+        const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
         const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
         const level = getExperienceLevel(job.job_title, job.job_description);
-        let levelBadge = '';
-        if (level === 'Entry-Level') {
-          levelBadge = '![Entry](https://img.shields.io/badge/Entry-00C853)';
-        } else if (level === 'Mid-Level') {
-          levelBadge = '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")';
-        } else if (level === 'Senior') {
-          levelBadge = '![Senior](https://img.shields.io/badge/Senior-FF5252)';
-        } else {
-          levelBadge = '![Unknown](https://img.shields.io/badge/Unknown-9E9E9E)';
-        }
+        const levelBadge = {
+          "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
+          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
+          "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+        }[level] || level;
 
         let statusIndicator = "";
         const description = (job.job_description || "").toLowerCase();
@@ -192,7 +188,7 @@ function generateJobTable(jobs) {
           statusIndicator += " 🏠";
         }
 
-        output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) | ${posted} |\n`;
+        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
       });
 
       output += `\n</details>\n\n`;
@@ -204,8 +200,8 @@ function generateJobTable(jobs) {
       .sort((a, b) => a[0].localeCompare(b[0]));
 
     if (smallCompanies.length > 0) {
-      output += `| Company | Role | Location | Level | Apply Now | Age |\n`;
-      output += `|---------|------|----------|-------|-----------|-----|\n`;
+      output += `| Company | Role | Location | Posted | Level | Apply |\n`;
+      output += `|---------|------|----------|--------|-------|-------|\n`;
 
       smallCompanies.forEach(([companyName, companyJobs]) => {
         const emoji = getCompanyEmoji(companyName);
@@ -213,15 +209,15 @@ function generateJobTable(jobs) {
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
-          const posted = job.job_posted_at;
+          const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
           const level = getExperienceLevel(job.job_title, job.job_description);
           const levelBadge = {
-            "Entry-Level": '![Entry](https://img.shields.io/badge/Entry-00C853)',
+            "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
             "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
-            "Senior": '![Senior](https://img.shields.io/badge/Senior-FF5252)'
-          }[level] || '![Unknown](https://img.shields.io/badge/Unknown-9E9E9E)';
+            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+          }[level] || level;
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
@@ -232,7 +228,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) | ${posted} |\n`;
+          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
         });
       });
 
