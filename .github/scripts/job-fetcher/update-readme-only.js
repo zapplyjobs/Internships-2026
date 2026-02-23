@@ -24,8 +24,8 @@ async function main() {
         console.log('═'.repeat(50));
 
         // Paths to data files
-        const newJobsPath = path.join(__dirname, '../data/new_jobs.json');
-        const postedJobsPath = path.join(__dirname, '../data/posted_jobs.json');
+        const newJobsPath = path.join(process.cwd(), '.github/data/current_jobs.json');
+        const postedJobsPath = path.join(process.cwd(), '.github/data/posted_jobs.json');
 
         // Check if new_jobs.json exists
         if (!fs.existsSync(newJobsPath)) {
@@ -43,7 +43,7 @@ async function main() {
         console.log('📂 Reading existing job data...');
         const allJobs = JSON.parse(fs.readFileSync(newJobsPath, 'utf8'));
 
-        console.log(`📊 Found ${allJobs.length} jobs in new_jobs.json`);
+        console.log(`📊 Found ${allJobs.length} jobs in current_jobs.json`);
 
         // Calculate stats
         const stats = {
