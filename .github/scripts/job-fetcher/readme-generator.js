@@ -71,12 +71,14 @@ function filterOutSeniorPositions(jobs) {
 
 // Helper function to categorize a job based on keywords
 function getJobCategoryFromKeywords(jobTitle, jobDescription = '') {
-  const text = `${jobTitle} ${jobDescription}`.toLowerCase();
+  // Title only — descriptions cause false positives for short keywords
+  // e.g. "ios" matches "previous", "curious" in description text
+  const titleText = (jobTitle || '').toLowerCase();
 
   // Check each category's keywords
   for (const [categoryKey, categoryData] of Object.entries(jobCategories)) {
     for (const keyword of categoryData.keywords) {
-      if (text.includes(keyword.toLowerCase())) {
+      if (titleText.includes(keyword.toLowerCase())) {
         return categoryKey;
       }
     }
