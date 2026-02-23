@@ -63,31 +63,31 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <details>
 <summary><h3>💻 <strong>Software Engineering</strong> (2 positions)</h3></summary>
 
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **stripe** | Software Engineer, Intern (Summer) | San Francisco, Seattle, New York City | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7210115) | 2026-02-17T17:23:43-05:00 |
-| 🏢 **stripe** | Software Engineer, Internal Systems | Seattle, San Francisco, New York City | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) | 2026-02-17T17:23:39-05:00 |
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **stripe** | Software Engineer, Intern (Summer) | San Francisco, Seattle, New York City | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7210115) |
+| 🏢 **stripe** | Software Engineer, Internal Systems | Seattle, San Francisco, New York City | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) |
 
 </details>
 
 <details>
 <summary><h3>📊 <strong>Data Science & Analytics</strong> (2 positions)</h3></summary>
 
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **coinbase** | Employee & Workplace Experience Intern 🏠 | New York, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242) | 2026-02-20T15:32:52-05:00 |
-| 🏢 **stripe** | PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) | 2026-02-17T17:23:43-05:00 |
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **coinbase** | Employee & Workplace Experience Intern 🏠 | New York, NY | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242) |
+| 🏢 **stripe** | PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) |
 
 </details>
 
 <details>
 <summary><h3>🎨 <strong>Product & Design</strong> (3 positions)</h3></summary>
 
-| Company | Role | Location | Level | Apply Now | Age |
-|---------|------|----------|-------|-----------|-----|
-| 🏢 **coinbase** | Strategic Sourcing Intern 🏠 | New York, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7315887?gh_jid=7315887) | 2026-02-19T16:55:59-05:00 |
-| 🏢 **coinbase** | Product Design Intern 🏠 | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051) | 2026-02-17T11:38:45-05:00 |
-| 🏢 **coinbase** | User Researcher Intern 🏠 | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7269775?gh_jid=7269775) | 2026-02-17T11:38:45-05:00 |
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **coinbase** | Strategic Sourcing Intern 🏠 | New York, NY | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7315887?gh_jid=7315887) |
+| 🏢 **coinbase** | Product Design Intern 🏠 | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051) |
+| 🏢 **coinbase** | User Researcher Intern 🏠 | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7269775?gh_jid=7269775) |
 
 </details>
 
