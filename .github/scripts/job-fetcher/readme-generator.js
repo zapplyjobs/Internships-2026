@@ -137,111 +137,51 @@ function generateJobTable(jobs) {
     const totalJobs = categoryJobs.length;
     console.log(`\n📝 DEBUG: Processing category "${categoryData.title}" with ${totalJobs} jobs`);
 
-    // Group jobs by company within this category
-    const jobsByCompany = {};
-    categoryJobs.forEach((job) => {
-      const company = job.employer_name;
-      if (!jobsByCompany[company]) {
-        jobsByCompany[company] = [];
-      }
-      jobsByCompany[company].push(job);
-    });
-
     const positionText = totalJobs === 1 ? "position" : "positions";
 
-    // Start collapsible category section
-    output += `<details>\n`;
-    output += `<summary><h3>${categoryData.emoji} <strong>${categoryData.title}</strong> (${totalJobs} ${positionText})</h3></summary>\n\n`;
-
-    // Handle companies with >15 jobs separately
-    const bigCompanies = Object.entries(jobsByCompany)
-      .filter(([_, companyJobs]) => companyJobs.length > 15)
-      .sort((a, b) => b[1].length - a[1].length);
-
-    bigCompanies.forEach(([companyName, companyJobs]) => {
-      const emoji = getCompanyEmoji(companyName);
-      const posText = companyJobs.length === 1 ? "position" : "positions";
-
-      output += `<details>\n`;
-      output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${posText})</h4></summary>\n\n`;
-
-      output += `| Role | Location | Posted | Level | Apply |\n`;
-      output += `|------|----------|--------|-------|-------|\n`;
-
-      companyJobs.forEach((job) => {
-        const role = job.job_title;
-        const location = formatLocation(job.job_city, job.job_state);
-        const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-        const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-
-        const level = getExperienceLevel(job.job_title, job.job_description);
-        const levelBadge = {
-          "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
-          "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-        }[level] || level;
-
-        let statusIndicator = "";
-        const description = (job.job_description || "").toLowerCase();
-        if (description.includes("no sponsorship") || description.includes("us citizen")) {
-          statusIndicator = " 🇺🇸";
-        }
-        if (description.includes("remote")) {
-          statusIndicator += " 🏠";
-        }
-
-        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
-      });
-
-      output += `\n</details>\n\n`;
+    // Sort newest-first; null dates sort to end
+    categoryJobs.sort((a, b) => {
+      const dateA = a.job_posted_at_datetime_utc ? new Date(a.job_posted_at_datetime_utc) : new Date(0);
+      const dateB = b.job_posted_at_datetime_utc ? new Date(b.job_posted_at_datetime_utc) : new Date(0);
+      return dateB - dateA;
     });
 
-    // Combine companies with <=15 jobs into one table
-    const smallCompanies = Object.entries(jobsByCompany)
-      .filter(([_, companyJobs]) => companyJobs.length <= 15)
-      .sort((a, b) => a[0].localeCompare(b[0]));
+    output += `<details>\n`;
+    output += `<summary><h3>${categoryData.emoji} <strong>${categoryData.title}</strong> (${totalJobs} ${positionText})</h3></summary>\n\n`;
+    output += `| Company | Role | Location | Posted | Level | Apply |\n`;
+    output += `|---------|------|----------|--------|-------|-------|\n`;
 
-    if (smallCompanies.length > 0) {
-      output += `| Company | Role | Location | Posted | Level | Apply |\n`;
-      output += `|---------|------|----------|--------|-------|-------|\n`;
+    categoryJobs.forEach((job) => {
+      const companyName = job.employer_name;
+      const emoji = getCompanyEmoji(companyName);
+      const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
+      const location = formatLocation(job.job_city, job.job_state);
+      const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+      const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
-      smallCompanies.forEach(([companyName, companyJobs]) => {
-        const emoji = getCompanyEmoji(companyName);
+      const level = getExperienceLevel(job.job_title, job.job_description);
+      const levelBadge = {
+        "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
+        "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
+        "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+      }[level] || level;
 
-        companyJobs.forEach((job) => {
-          const role = job.job_title;
-          const location = formatLocation(job.job_city, job.job_state);
-          const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+      let statusIndicator = "";
+      const description = (job.job_description || "").toLowerCase();
+      if (description.includes("no sponsorship") || description.includes("us citizen")) {
+        statusIndicator = " 🇺🇸";
+      }
+      if (description.includes("remote")) {
+        statusIndicator += " 🏠";
+      }
 
-          const level = getExperienceLevel(job.job_title, job.job_description);
-          const levelBadge = {
-            "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
-            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-          }[level] || level;
+      output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
+    });
 
-          let statusIndicator = "";
-          const description = (job.job_description || "").toLowerCase();
-          if (description.includes("no sponsorship") || description.includes("us citizen")) {
-            statusIndicator = " 🇺🇸";
-          }
-          if (description.includes("remote")) {
-            statusIndicator += " 🏠";
-          }
-
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
-        });
-      });
-
-      output += "\n";
-    }
-
-    // End collapsible category section
-    output += `</details>\n\n`;
+    output += `\n</details>\n\n`;
   });
 
-  console.log(`\n🎉 DEBUG: Finished generating job table with ${categorizedJobs.size} jobs categorized`);
+  console.log(`\n🎉 Finished generating job table with ${jobs.length} jobs`);
   return output;
 }
 
