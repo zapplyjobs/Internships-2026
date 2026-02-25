@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "greenhouse-brex-8434389002",
+    "job_title": "Software Engineer, Intern",
+    "employer_name": "Brex",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.brex.com/careers/8434389002?gh_jid=8434389002",
+    "job_posted_at_datetime_utc": "2026-02-25T08:13:40-05:00",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global scale.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Engineering at Brex&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Engineering at Brex is about building systems that scale with speed and intention. Our teams span Software, Data, Security, and IT, and operate with high autonomy and deep collaboration. We tackle hard technical problems, own our outcomes, and push for excellence at every level — from architecture to deployment. It’s an environment where engineering is a craft, and builders become leaders.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Join our AI-centric internship cohort and build the future of financial software! As an Engineering Intern, you&#39;ll collaborate with a mentor and team to develop impactful products, services, and infrastructure that accelerate the adoption of AI-first tools and workflows across Brex. You&#39;ll leverage data and creativity to solve real-world business challenges and contribute to our long-term technical vision. This is your chance to push the boundaries of financial technology and directly shape Brex&#39;s growth.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Where you’ll work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This role will be based in our San Francisco office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of 3 days per week in the office - Monday, Wednesday, and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Availability to participate in the program from June to September, 2026&lt;/li&gt;\n&lt;li&gt;Strong knowledge of CS fundamentals&lt;/li&gt;\n&lt;li&gt;Strong communication, interpersonal skills, and eagerness to learn from others&lt;/li&gt;\n&lt;li&gt;Are excited about working in a high-paced environment with other high quality engineers&lt;/li&gt;\n&lt;li&gt;Familiarity with software engineering development cycles&lt;/li&gt;\n&lt;li&gt;Experience working with backend programming languages (i.e. Java, Kotlin, Python)&lt;/li&gt;\n&lt;li&gt;Experience working with SQL or NoSQL databases&lt;/li&gt;\n&lt;li&gt;Ability to hold yourself and the team to high standards&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus points&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with AI tooling&lt;/li&gt;\n&lt;li&gt;Experience collaborating with experts in product, design, and operations&lt;/li&gt;\n&lt;li&gt;Familiarity with functional programming languages&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Proactive mindset, leading with curiosity first&lt;/li&gt;\n&lt;li&gt;Experience with corporate financial systems or concepts&lt;/li&gt;\n&lt;li&gt;Experience with cloud computing systems &amp;amp; services&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The expected salary range for this role is $55.00 per hour. However, the starting base pay will depend on a number of factors including the candidate’s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "6e73c6f1e512c10bf6a723d4d0b45de9ce22f6d56bd1d5e89bdf0c03608c5662",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "no_experience",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "unknown",
+    "job_posted_at": "2026-02-25T08:13:40-05:00"
+  },
+  {
     "job_id": "greenhouse-lucidmotors-4922185007",
     "job_title": "Intern, Power Electronics Engineer, Summer 2026",
     "employer_name": "Lucid Motors",
