@@ -6,11 +6,11 @@
 # Internships 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Internships](https://img.shields.io/badge/Total_Internships-74-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-19-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-56-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Internships](https://img.shields.io/badge/Total_Internships-72-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-17-blue?style=flat&logo=building) ![Software Engine](https://img.shields.io/badge/Software_Engineering-54-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 19+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 74+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 72+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (56 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (54 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -72,19 +72,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | MBA Intern - Product | San Mateo, CA | 0h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4996420007) |
 | 🏢 **Verkada** | MBA Intern - Sales Strategy & Ops | San Mateo, CA | 0h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4996476007) |
 | 🏢 **Verkada** | Technical Support Engineering In... | San Mateo, CA | 0h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5017082007) |
-| 🏢 **Lucid Motors** | Intern, Battery Cell Performance... | Newark, CA | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922167007) |
-| 🏢 **Lucid Motors** | Intern, Charging & Smart Energy ... | Newark, CA | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922153007) |
-| 🏢 **Lucid Motors** | Intern, Power Electronics Engine... | Newark, CA | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922185007) |
+| 🏢 **Lucid Motors** | Intern, Battery Cell Performance... | Newark, CA | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922167007) |
+| 🏢 **Lucid Motors** | Intern, Charging & Smart Energy ... | Newark, CA | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922153007) |
+| 🏢 **Lucid Motors** | Intern, Power Electronics Engine... | Newark, CA | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922185007) |
 | 🏢 **Datadog** | Technical Escalations Engineer 3... | Boston | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7536159/?gh_jid=7536159) |
-| 🏢 **Databricks** | MBA Intern - Product Pricing & C... | San Francisco | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402615002) |
-| 🏢 **Databricks** | MBA Intern - Strategic Finance | San Francisco | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402610002) |
-| 🏢 **Databricks** | MBA Intern - Corporate Operation... | San Francisco | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402603002) |
-| 🏢 **Databricks** | MBA Intern - Technical Program M... | Mountain View | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8399537002) |
-| 🏢 **Databricks** | Legal Intern | Mountain View | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8377581002) |
+| 🏢 **Databricks** | MBA Intern - Product Pricing & C... | San Francisco | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402615002) |
+| 🏢 **Databricks** | MBA Intern - Strategic Finance | San Francisco | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402610002) |
+| 🏢 **Databricks** | MBA Intern - Corporate Operation... | San Francisco | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402603002) |
+| 🏢 **Databricks** | MBA Intern - Technical Program M... | Mountain View | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8399537002) |
+| 🏢 **Databricks** | Legal Intern | Mountain View | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8377581002) |
 | 🏢 **HubSpot** | Global Events Marketing Co-op 🏠 | Remote | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7592447?gh_jid=7592447) |
 | 🏢 **Brex** | Software Engineer, Intern 🏠 | United States | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8434389002?gh_jid=8434389002) |
-| 🌐 **Cisco** | Software Engineer Security & Aut... | Alpharetta | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-intern-%E2%80%93-united-states-at-cisco-4340749841?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **ITA International** | Junior software developer at ITA... 🏠 | Rochester | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/157V8Czdf5IXKmwNrzHWNX) |
 | 🏢 **SpaceX** | Internal Mobility Specialist (Re... 🏠 | Bastrop, TX | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8436012002?gh_jid=8436012002) |
 | 🏢 **Anduril** | Manufacturing Engineering Intern | Ashville | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797700007?gh_jid=4797700007) |
 | 🏢 **Anduril** | Perception Engineering Intern | Costa Mesa | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4830032007?gh_jid=4830032007) |
@@ -143,7 +141,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Verkada** | MBA Intern - Product Marketing | San Mateo, CA | 0h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4996515007) |
-| 🏢 **Anduril** | Product Design Intern | Costa Mesa | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007) |
+| 🏢 **Anduril** | Product Design Intern | Costa Mesa | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007) |
 | 🏢 **Okta** | Product Marketing Intern (Summer... | Chicago | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7594992?gh_jid=7594992) |
 | 🏢 **MongoDB** | 2026 - Design Strategist Intern,... | New York City | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7292725) |
 | 🏢 **Ripple** | Brand Design Intern, Brand Studi... | San Francisco, CA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7482067?gh_jid=7482067) |
@@ -227,7 +225,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 74 current opportunities from 19 top companies.**
+**🎯 72 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
