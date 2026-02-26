@@ -48,5 +48,10 @@
     "title": "Human Resources",
     "emoji": "👥",
     "keywords": ["hr coordinator", "hr intern", "human resources", "hr assistant", "people coordinator", "talent coordinator", "hr generalist", "recruiting coordinator", "talent acquisition", "hr specialist"]
+  },
+  "other_internships": {
+    "title": "Other Internships",
+    "emoji": "📂",
+    "keywords": ["intern", "co-op", "coop", "fellowship", "apprentice"]
   }
 }
