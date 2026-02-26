@@ -116,36 +116,6 @@
     "job_posted_at": "2026-02-26T10:30:30-05:00"
   },
   {
-    "job_id": "js-corvid-technologies-llc-b5hvwsnnilsjplskaaaaaa==",
-    "job_title": "Intern - Artificial Intelligence / Machine Learning",
-    "employer_name": "Corvid Technologies Llc",
-    "job_city": "Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.bebee.com/job/7b3977ba6c6b2b3c39340f45b472b846?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-26T07:00:00.000Z",
-    "job_description": "All submissions MUST include GPA for consideration.\n\nCorvid Technologies is seeking qualified candidates for an artificial intelligence / machine learning (AI/ML) internship working with our Missile Defense Group (MDG) in our Huntsville, Alabama office. The MDG supports a variety of government (Missile Defense Agency, Navy Missile Defense) programs through modeling and simulation, testing, and system analysis related to the defense of the homeland and military assets from ballistic missile threats. Corvid's MDG analysis includes missile intercept modeling using first-principle physics codes, aerodynamic modeling of missiles and debris, development of finite element models, computational electromagnetics modeling, modeling of BMDS radars, modeling of BMDS interceptor seekers, and analysis of BMDS sensor data (RF and EO/IR).\n\nExample Responsibilities\n• Research, develop, and test artificial intelligence, machine learning, and computer vision algorithms.\n• Process and analyze data from a variety of sources, including radar, EO/IR, and multi-sensor data.\n• Improve, optimize, and tune existing AI/ML models as well as develop new algorithms and models from scratch\n\nBasic Qualifications\n\nA candidate must meet ALL of the below criteria. The candidate must:\n• Be a student who is enrolled full-time and pursuing an undergraduate or graduate (preferred) degree from an accredited college/university AND graduating during or after December 2025\n• Be majoring in Math, Computer Science, Engineering, Statistics, or related field.\n• Have an overall cumulative GPA of 3.2/4.0 or higher (unofficial academic transcripts must be provided at time of application by uploading the documents to your application or profile)\n• Be available to work full-time (40 hours per week) for at least 10 weeks during summer.\n• Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)\n\nPreferred Qualifications\n• Have an overall cumulative GPA of 3.70/4.0 or higher\n• Experience with scientific programming languages (e.g., Python, MATLAB, C++)\n• Experience with AI/ML APIs, such as Keras, TensorFlow or PyTorch\n• Foundational knowledge of artificial neural networks\n• Previous internship/co-op experience, leadership & teamwork capabilities, interpersonal communication skills, and activities (professional/community/extracurricular)\n\nWhy Corvid:\n\nFounded in 2004, we are a group of over 300 engineers and scientists, about 3/4 with master' degrees or Ph.D.'s, that provide end-to-end solutions including concept development, design and optimization, prototype build, test and manufacture. We leverage the predictive capability of our high-fidelity computational physics solvers, indigenous massively parallel supercomputer system, prototyping plant, and ballistics and mechanics lab to investigate a variety of high-rate physics phenomena.\n\nThe results are complex engineering solutions for a variety of applications; aircraft, ballistic missile defense, cybersecurity, motorsports, armor development, biological systems, and missile and warhead design and development. These results are achieved with optimal design and cost efficiency due to the predictive capability of Corvid's tools and our in-house, end-to-end integrated approach, which differentiates Corvid from the market.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "fingerprint": "55182bce837df35f555acda6b258f2a5270725a57ca270a5592e5c3d6c6c6304",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-26T07:00:00.000Z"
-  },
-  {
     "job_id": "greenhouse-lyft-8438500002",
     "job_title": "Global Security Investigations Analyst Intern (Summer 2026)",
     "employer_name": "Lyft",
