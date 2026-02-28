@@ -198,10 +198,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🔵 **IBM** | Development - AI/Data Science Intern | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/development-ai-data-science-intern-at-ibm-4375574376?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🟦 **LinkedIn** | Software AI Engineering Internships | Princeton | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-ai-engineering-internships-at-tailorbird-4377605238?refId=zBPq5XypoYdZcFkC49Sxuw%3D%3D&trackingId=hadpbXdSufR7HK1HbKvBPQ%3D%3D&position=25&pageNum=0) |
 | 🏢 **Stripe** | PhD Machine Learning Engineer, Intern | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) |
+| 🏢 **Tailorbird** | Software AI Engineering Internships | Princeton | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-ai-engineering-internships-at-tailorbird-4377605238?refId=zBPq5XypoYdZcFkC49Sxuw%3D%3D&trackingId=hadpbXdSufR7HK1HbKvBPQ%3D%3D&position=25&pageNum=0) |
 | 🏢 **Johnson & Johnson Services, Inc.** | Data Science Intern, Clinical Omics | Spring House | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careers.jnj.com/en/jobs/r-058714/data-science-intern-clinical-omics/) |
 | 🏢 **First American Financial Corporation** | Data Science Intern 🏠 | Santa Ana | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.firstam.com/job/santa-ana/data-science-intern/39054/92213375872) |
 | 🏢 **Bunge** | Data Science Intern | Missouri | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=599040958487142501) |
-| 🏢 **Tailorbird** | Software AI Engineering Internships | Princeton | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-ai-engineering-internships-at-tailorbird-4377605238?refId=zBPq5XypoYdZcFkC49Sxuw%3D%3D&trackingId=hadpbXdSufR7HK1HbKvBPQ%3D%3D&position=25&pageNum=0) |
 | 🏢 **Johnson & Johnson Services, Inc.** | Data Science - Multi-Omics intern | Spring House | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careers.jnj.com/nl-nl/jobs/r-059835/data-science-multi-omics-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Labcorp** | Intern - Data Science and Artificial Intelligence 🏠 | Durham | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.labcorp.com/global/en/job/COVAGLOBAL266053EXTERNALENGLOBAL/Intern-Data-Science-and-Artificial-Intelligence?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Johnson & Johnson Innovative Medicine** | Intern Data Science & Digital Health  PAI – Neuroscience single cell transcriptomics | Hopewell Township | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/intern-data-science-digital-health-pai-%E2%80%93-neuroscience-single-cell-transcriptomics-at-johnson-johnson-innovative-medicine-4378650701?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -326,7 +326,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **MongoDB** | 2026 - Information Security Engineering Intern, Seattle | Seattle | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7292751) |
+| 🏢 **MongoDB** | 2026 - Information Security Engineering Intern, Seattle | Seattle | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7292751) |
 | 🏢 **Ripple** | Security Engineer Intern, Secure Digital Assets Operations (Summer 2026) | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7467118?gh_jid=7467118) |
 | 🏢 **GE HEALTHCARE** | DevOps Engineer Intern | Cleveland | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4036420EXTERNALENGLOBAL/DevOps-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Adobe** | 2026 Intern - Product Security Engineer | San Jose | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.adobe.com/us/en/job/R161483/2026-Intern-Product-Security-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -359,10 +359,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Lucid Motors** | Intern, Power Electronics Engineer, Summer 2026 | Newark, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922185007) |
+| 🏢 **Lucid Motors** | Intern, Power Electronics Engineer, Summer 2026 | Newark, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922185007) |
 | 🏢 **Okta** | Communications AI Strategy & Operations Intern (Summer 2026) | San Francisco | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7665195?gh_jid=7665195) |
-| 🏢 **MongoDB** | 2026 - Legal Intern, NYC | New York City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7335941) |
-| 🏢 **MongoDB** | 2026 - Research Intern, NYC | New York City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7558200) |
+| 🏢 **MongoDB** | 2026 - Legal Intern, NYC | New York City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7335941) |
+| 🏢 **MongoDB** | 2026 - Research Intern, NYC | New York City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7558200) |
 | 🏢 **Anduril** | Manufacturing Engineering Intern | Ashville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797700007?gh_jid=4797700007) |
 | 🏢 **Anduril** | Perception Engineering Intern | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4830032007?gh_jid=4830032007) |
 | 🏢 **Anduril** | Prompt Engineering Intern | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4830197007?gh_jid=4830197007) |
