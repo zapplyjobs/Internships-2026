@@ -9,9 +9,9 @@
 
 # Internships 2026
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-451-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-453-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-184-blue?style=flat&logo=building)
-![Other Internshi](https://img.shields.io/badge/Other_Internships-169-red?style=flat&logo=star)
+![Other Internshi](https://img.shields.io/badge/Other_Internships-171-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -73,8 +73,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **RTX** | SkillBridge Intern: Information Systems Engineer - Onsite Tucson AZ | AZ-TUCSON-801 ~ 1... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/SkillBridge-Intern--Information-Systems-Engineer---Onsite-Tucson-AZ_01820788) |
 | 🏢 **RTX** | 2026 Intern - Software Engineer Intern - Onsite (MA) | MA-MARLBOROUGH-MA... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--MA-_01827452) |
+| 🏢 **RTX** | SkillBridge Intern: Information Systems Engineer - Onsite Tucson AZ | AZ-TUCSON-801 ~ 1... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/SkillBridge-Intern--Information-Systems-Engineer---Onsite-Tucson-AZ_01820788) |
 | 🛡️ **BAE Systems** | Software Developer Intern (Onsite) 🏠 | Durham | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/121698BR/Software-Developer-Intern-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Citadel** | Software Engineer - Intern (US) | Miami | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -378,8 +378,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Dupont** | 2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities | Richmond | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities) |
 | 🏢 **Dupont** | 2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities | Richmond | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dupont.com/us/en/job/246714W/2026-Summer-Intern-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities) |
-| 🏢 **Dupont** | 2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities | Richmond | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities) |
 | 🏢 **Anduril** | Electrical Engineering Intern | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4802466007?gh_jid=4802466007) |
 | 🏢 **Boeing** | Millennium Space Systems Summer 2026 Internship Program – Mechanical Engineering | El Segundo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Mechanical-Engineering_JR2026498307-1) |
 | 🏢 **Verkada** | Hardware Engineer (Summer Co-op) | San Mateo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135120007) |
@@ -415,25 +415,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📂 <strong>Other Internships</strong> (169 positions)</h3></summary>
+<summary><h3>📂 <strong>Other Internships</strong> (171 positions)</h3></summary>
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Saint Luke's Health System** | Pharmacy Intern Year 1 | Saint Luke's East... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-1_JobReq0056033) |
 | 🏢 **Saint Luke's Health System** | Pharmacy Intern Year 2 | Saint Luke's East... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-2_JobReq0056035) |
 | 🏢 **Ochsner Health** | CNA - Internal Medicine/Telemetry -  Jeff Hwy - Full Time Nights | New Orleans Regio... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Internal-Medicine-Telemetry----Jeff-Hwy---Full-Time-Nights_REQ_00255404) |
-| 🏢 **Mass General Brigham** | Co-op Student - Imaging | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Co-op-Student---Imaging_RQ4052163) |
-| 🏢 **Mass General Brigham** | Clinic/Practice Assistant, Internal Medicine | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Salem-MA/Clinic-Practice-Assistant--Internal-Medicine_RQ4051739) |
-| 🏢 **Mass General Brigham** | Medical Assistant, Internal Medicine | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Salem-MA/Medical-Assistant--Internal-Medicine_RQ4051749) |
 | 🏢 **Mass General Brigham** | PCA Co-Op | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/PCA-Co-Op_RQ4051484) |
 | 🏢 **Mass General Brigham** | PCA Co-Op | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/PCA-Co-Op_RQ4050890) |
 | 🏢 **Mass General Brigham** | Student COOP - Cornea Co Op | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Student-COOP---Cornea-Co-Op_RQ4052410) |
+| 🏢 **Mass General Brigham** | Co-op Student - Imaging | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Co-op-Student---Imaging_RQ4052163) |
+| 🏢 **Mass General Brigham** | Clinic/Practice Assistant, Internal Medicine | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Salem-MA/Clinic-Practice-Assistant--Internal-Medicine_RQ4051739) |
+| 🏢 **Mass General Brigham** | Medical Assistant, Internal Medicine | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Salem-MA/Medical-Assistant--Internal-Medicine_RQ4051749) |
 | 🏢 **Intermountain Health** | Advanced Practice Provider Internal Medicine | Provo Peaks Busin... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Provo-Peaks-Business-Building/Advanced-Practice-Provider-Internal-Medicine_R162679) |
 | 🏢 **Intermountain Health** | Medical Assistant Internal Medicine | Budge Clinic | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Budge-Clinic/Medical-Assistant-Internal-Medicine_R163745) |
-| 🏢 **Vanderbilt University Medical Center** | Medical Assistant - Internal Medicine - Franklin | Franklin, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Franklin-TN/Medical-Assistant---Internal-Medicine---Franklin_R-53883-1) |
-| 🏢 **Vanderbilt University Medical Center** | Pharmacy Intern - Medical Center East Pharmacy | Nashville, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Pharmacy-Intern---Medical-Center-East-Pharmacy_R-53810) |
 | 🏢 **Vanderbilt University Medical Center** | Perioperative OR Nurse Internship-Summer-Cohort 2026 | Nashville, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Perioperative-OR-Nurse-Internship-Summer-Cohort-2026_R-53503-1) |
 | 🏢 **Vanderbilt University Medical Center** | Pharmacy Intern - Inpatient | Nashville, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Pharmacy-Intern---Inpatient_R-53624) |
+| 🏢 **Vanderbilt University Medical Center** | Medical Assistant - Internal Medicine - Franklin | Franklin, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Franklin-TN/Medical-Assistant---Internal-Medicine---Franklin_R-53883-1) |
+| 🏢 **Vanderbilt University Medical Center** | Pharmacy Intern - Medical Center East Pharmacy | Nashville, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Pharmacy-Intern---Medical-Center-East-Pharmacy_R-53810) |
 | 🏢 **Cleveland Clinic** | Supply Chain Management Co-Op Student | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Administrative-Campus/Supply-Chain-Management-Co-Op-Student_327923) |
 | 🏢 **Cleveland Clinic** | Pharmacy Intern - Community Pharmacy | 2 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Independence-Family-Health-Center/Pharmacy-Intern---Community-Pharmacy_289685) |
 | 🏢 **Cleveland Clinic** | Pharmacy Intern - Inpatient | Lutheran Hospital | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Lutheran-Hospital/Pharmacy-Intern---Inpatient_297901) |
@@ -493,10 +493,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Technical Support Engineering Intern - Fall 2026 | San Mateo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5017082007) |
 | 🏢 **Ochsner Health** | LPN - Internal Medicine Clinic - The Grove Baton Rouge | Baton Rouge Regio... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Internal-Medicine-Clinic---The-Grove-Baton-Rouge_REQ_00250457-1) |
 | 🏢 **Intermountain Health** | Advanced Practice Provider Internal Medicine | Billings; Billing... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Billings-Downtown-Clinic/Internal-Medicine-Physician-Downtown-Billings_R66667) |
-| 🏢 **Cleveland Clinic** | RN Clinical Adjunct Faculty - Internal Medicine and Telemetry | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/RN-Clinical-Adjunct-Faculty---Internal-Medicine-and-Telemetry_295048) |
+| 🏢 **Cleveland Clinic** | PRN RN - ENT Plastics Stepdown/Internal Medicine | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/PRN-RN---ENT-Plastics-Stepdown-Internal-Medicine_318508) |
+| 🏢 **Cleveland Clinic** | RN - ENT Plastics Stepdown/Internal Medicine | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/RN---ENT-Plastics-Stepdown-Internal-Medicine_329081) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Internal Medicine/Telemetry | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant--PCNA----Internal-Medicine-Telemetry_326695) |
 | 🏢 **Cleveland Clinic** | G81 FT Nights PCNA ENT Step Down/Internal Medicine | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/G81-FT-Nights-PCNA-ENT-Step-Down-Internal-Medicine_319592-1) |
 | 🏢 **Cleveland Clinic** | LPN Ambulatory - Pediatrics, OBGYN and Internal Medicine | Westown Physician... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Westown-Physicians-Center/LPN-Ambulatory---Pediatrics_324114) |
+| 🏢 **Cleveland Clinic** | RN Clinical Adjunct Faculty - Internal Medicine and Telemetry | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/RN-Clinical-Adjunct-Faculty---Internal-Medicine-and-Telemetry_295048) |
 | 🏢 **Proofpoint** | Partner AI Enablement Intern (Co-Op) | Sunnyvale, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/Partner-AI-Enablement-Intern--Co-Op-_R13786) |
 | 🏢 **Proofpoint** | University Relations Intern | Sunnyvale, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/University-Relations-Intern_R13775) |
 | 🏢 **Boeing** | Millennium Space Systems Summer 2026 Internship Program –Thermal Engineering | El Segundo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program--Thermal-Engineering_JR2026498088-1) |
@@ -518,8 +520,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Jj** | Technology 2026 Summer Internship | Fort Washington | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Jj/Job/Technology-2026-Summer-Internship/-in-Fort-Washington,PA?jid=f8d797d251994dcd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **The MITRE Corporation** | Internships in Electrical or Computer Engineering | McLean | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Ochsner Health** | Internal Consultant -- Family Connects New Orleans -- PRN | New Orleans Regio... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/Internal-Consultant----Family-Connects-New-Orleans----PRN_REQ_00255529) |
-| 🏢 **Mass General Brigham** | Nurse Practitioner, Internal Medicine | MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Lynn-MA/Nurse-Practitioner--Internal-Medicine_RQ4051746) |
 | 🏢 **Mass General Brigham** | Co-op Student - Imaging | MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Co-op-Student---Imaging_RQ4052161) |
+| 🏢 **Mass General Brigham** | Nurse Practitioner, Internal Medicine | MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Lynn-MA/Nurse-Practitioner--Internal-Medicine_RQ4051746) |
 | ⚗️ **Applied Materials** | Summer 2026 - Process Engineer Intern - PhD (Santa Clara, CA) | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Summer-2026---Process-Engineer-Intern---PhD--Santa-Clara--CA-_R2611742) |
 | ⚗️ **Applied Materials** | 2026 Summer Global Product Support Engineer Intern - Bachelor's (Kalispell, MT) | Kalispell, MT | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Summer-Global-Product-Support-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613404) |
 | ⚗️ **Applied Materials** | 2026 Summer Process Engineer Intern (Advanced Degree) – Santa Clara, CA | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineer-Intern--Advanced-Degree----Santa-Clara--CA_R2613160) |
@@ -532,9 +534,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🌐 **Cisco** | AI Research Scientist II (Intern) United States | San Jose | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Cisco/Job/AI-Research-Scientist-II-(Intern)-United-States/-in-San-Jose,CA?jid=f0e2c402748bedc8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Riverside Research Institute** | Hardware Embedded Engineering CO-OP / Intern | Beavercreek | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Riverside-Research-Institute/Job/Hardware-Embedded-Engineering-CO-OP-Intern/-in-Dayton,OH?jid=d52b0061ecc0e472&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Saint Luke's Health System** | Nursing Intern | Saint Luke's Sout... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-South-Hospital------12300-Metcalf-Ave------Overland-Park------KS/Nursing-Intern_JobReq0054889) |
-| 🏢 **Intermountain Health** | Registered Nurse iFlex Internal Travel Team | Intermountain Hea... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Peaks-Regional-Office/Registered-Nurse-iFlex-Internal-Travel-Team-Multi-Region_R154005) |
 | 🏢 **Intermountain Health** | Pharmacy Intern Level 1 - Homecare South Jordan - PRN-2 | Salt Lake City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Home-Services---Salt-Lake-City/Pharmacy-Intern-Level-1---Homecare-South-Jordan---PRN-2_R161145) |
 | 🏢 **Intermountain Health** | Physician Internal Medicine | Nellis Clinic | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Nellis-Clinic/Physician-Internal-Medicine_R162432) |
+| 🏢 **Intermountain Health** | Registered Nurse iFlex Internal Travel Team | Intermountain Hea... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Peaks-Regional-Office/Registered-Nurse-iFlex-Internal-Travel-Team-Multi-Region_R154005) |
 | 🏢 **Caterpillar** | Part Time Intern - Order to Delivery | Boonville | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/job/Boonville-Missouri/Part-Time-Intern---Order-to-Delivery_R0000352278) |
 | ⚗️ **Applied Materials** | 2026 Summer Process Engineer Intern - Bachelor's (Kalispell, MT) | Kalispell, MT | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Summer-Process-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613400) |
 | 🏢 **Leidos** | Civil/Transmission Line Engineering Intern | Orlando, FL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/job/Orlando-FL/Civil-Transmission-Line-Engineering-Intern_R-00173789) |
@@ -649,7 +651,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 451 current opportunities from 184 companies**
+**🎯 453 current opportunities from 184 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
