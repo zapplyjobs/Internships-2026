@@ -87,6 +87,35 @@
     "job_posted_at": "2026-02-28T05:00:00.000Z"
   },
   {
+    "job_id": "js-dupont-xopjquxtoy1vxhlsaaaaaa==",
+    "job_title": "2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities",
+    "employer_name": "Dupont",
+    "job_city": "Richmond",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-28T00:00:00.000Z",
+    "job_description": "At DuPont, our paid internship and co-op opportunities are designed to give students more than just a glimpse into the professional world—they’re a launchpad for your future. You’ll work on real, impactful projects alongside experienced professionals, applying what you’ve learned in the classroom to solve real-world challenges. Through this hands-on experience, you’ll build essential skills, grow your network, and gain exposure to a collaborative, inclusive workplace that values innovation and leadership. You will have the opportunity to collaborate across teams and functions, gaining exposure to innovative technologies and diverse perspectives that drive real-world solutions.\n\nAs an Engineering intern or co-op, you’ll:\n• Embrace DuPont’s core values in safety, sustainability, and innovation\n• Gain industrial experience and insight into our businesses, products, and customers\n• Work in team-based environments with mentorship and technical training\n• Participate in professional development opportunities tailored to your role\n\nOur student program offers both internships and co-op assignments tailored to fit your academic schedule and career goals. Assignment length and scope may vary by site and function, but every experience is designed to help you grow, contribute, and lead. Typical roles in manufacturing, operations, and business span a wide range of exciting and impactful areas, including Manufacturing Technical and Process Engineering, Capital Projects, Automation and Process Control, Leveraged Engineering, Equipment Reliability and Maintenance, Continuous Improvement, Product Quality, and Technical Service.\n\nSpring Semester co-ops must be available from January – April.\n\nRequirements\n\nTo be considered, the following requirements must be met:\n• Enrolled as a full-time student pursuing a Bachelor’s or Master’s degree in Chemical, Mechanical, Electrical or other engineering disciplines from an ABET accredited program\n• GPA of 3.0 or higher (out of 4.0 scale)\n• Legal right to work in the U.S. without restriction\n\nAt DuPont, our purpose is to empower the world with essential innovations to thrive. We work on things that matter. Whether it’s providing clean water to more than a billion people on the planet, producing materials that are essential in everyday technology devices from smartphones to electric vehicles, or protecting workers around the world. Discover the many reasons the world’s most talented people are choosing to work at DuPont. Why Join Us | DuPont Careers\n\nDuPont is an equal opportunity employer. Qualified applicants will be considered without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability or any other protected class. If you need a reasonable accommodation to search or apply for a position, please visit our Accessibility Page for Contact Information.\n\nThe Pay range for this role is $16.10 - $25.30 Hourly\n\nHow Base Pay is Determined: DuPont has job leveling frameworks that help organize roles based on progressive levels of responsibility, proficiency and qualifications. Each role has an associated pay range (or an established pay rate for some roles) based on the competitive market in each country where we operate. Each individual’s pay is based on a variety of factors, including their role and the associated pay range for that role, their geographic location (i.e., country, state, metropolitan area), as well as their skills, experience, education and certifications, and performance.",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "fingerprint": "3f4916e78ee43dcb2d49ed29b99fe4d8018525ef5d6e9565d837a6e36d187d34",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-28T00:00:00.000Z"
+  },
+  {
     "job_id": "js-fulton-bank-n6vgipfigbgu8q6caaaaaa==",
     "job_title": "Intern - Data Science",
     "employer_name": "Fulton Bank",
@@ -1320,35 +1349,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dupont-xopjquxtoy1vxhlsaaaaaa==",
-    "job_title": "2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities",
-    "employer_name": "Dupont",
-    "job_city": "Richmond",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z",
-    "job_description": "At DuPont, our paid internship and co-op opportunities are designed to give students more than just a glimpse into the professional world—they’re a launchpad for your future. You’ll work on real, impactful projects alongside experienced professionals, applying what you’ve learned in the classroom to solve real-world challenges. Through this hands-on experience, you’ll build essential skills, grow your network, and gain exposure to a collaborative, inclusive workplace that values innovation and leadership. You will have the opportunity to collaborate across teams and functions, gaining exposure to innovative technologies and diverse perspectives that drive real-world solutions.\n\nAs an Engineering intern or co-op, you’ll:\n• Embrace DuPont’s core values in safety, sustainability, and innovation\n• Gain industrial experience and insight into our businesses, products, and customers\n• Work in team-based environments with mentorship and technical training\n• Participate in professional development opportunities tailored to your role\n\nOur student program offers both internships and co-op assignments tailored to fit your academic schedule and career goals. Assignment length and scope may vary by site and function, but every experience is designed to help you grow, contribute, and lead. Typical roles in manufacturing, operations, and business span a wide range of exciting and impactful areas, including Manufacturing Technical and Process Engineering, Capital Projects, Automation and Process Control, Leveraged Engineering, Equipment Reliability and Maintenance, Continuous Improvement, Product Quality, and Technical Service.\n\nSpring Semester co-ops must be available from January – April.\n\nRequirements\n\nTo be considered, the following requirements must be met:\n• Enrolled as a full-time student pursuing a Bachelor’s or Master’s degree in Chemical, Mechanical, Electrical or other engineering disciplines from an ABET accredited program\n• GPA of 3.0 or higher (out of 4.0 scale)\n• Legal right to work in the U.S. without restriction\n\nAt DuPont, our purpose is to empower the world with essential innovations to thrive. We work on things that matter. Whether it’s providing clean water to more than a billion people on the planet, producing materials that are essential in everyday technology devices from smartphones to electric vehicles, or protecting workers around the world. Discover the many reasons the world’s most talented people are choosing to work at DuPont. Why Join Us | DuPont Careers\n\nDuPont is an equal opportunity employer. Qualified applicants will be considered without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability or any other protected class. If you need a reasonable accommodation to search or apply for a position, please visit our Accessibility Page for Contact Information.\n\nThe Pay range for this role is $16.10 - $25.30 Hourly\n\nHow Base Pay is Determined: DuPont has job leveling frameworks that help organize roles based on progressive levels of responsibility, proficiency and qualifications. Each role has an associated pay range (or an established pay rate for some roles) based on the competitive market in each country where we operate. Each individual’s pay is based on a variety of factors, including their role and the associated pay range for that role, their geographic location (i.e., country, state, metropolitan area), as well as their skills, experience, education and certifications, and performance.",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "fingerprint": "3f4916e78ee43dcb2d49ed29b99fe4d8018525ef5d6e9565d837a6e36d187d34",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
