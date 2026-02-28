@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Internal-Medicine-Telemetry----Jeff-Hwy---Full-Time-Nights_REQ_00255404",
-    "job_posted_at_datetime_utc": "2026-02-28T21:04:16.049Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:17:18.336Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "fdb2ff4a1e74bca83524e50c4e2aa6dd0bb40d45de813e980cdbf59abf1fd441",
@@ -25,7 +25,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:04:16.049Z"
+    "job_posted_at": "2026-02-28T21:17:18.336Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4050890",
+    "job_title": "PCA Co-Op",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/PCA-Co-Op_RQ4050890",
+    "job_posted_at_datetime_utc": "2026-02-28T21:16:38.083Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "b631468ef3dc2f11cb865cd7a552081643b981c450b87b86b5a86fb249fb4a4e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T21:16:38.083Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4052410",
@@ -36,7 +64,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Student-COOP---Cornea-Co-Op_RQ4052410",
-    "job_posted_at_datetime_utc": "2026-02-28T21:03:35.223Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:16:38.083Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3ac50d382bd55cb777f3411e1b7788d78f6f42ae1fdb3a5e48d8b236872bd45c",
@@ -53,7 +81,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:03:35.223Z"
+    "job_posted_at": "2026-02-28T21:16:38.083Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4052163",
@@ -64,7 +92,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Co-op-Student---Imaging_RQ4052163",
-    "job_posted_at_datetime_utc": "2026-02-28T21:03:35.222Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:16:38.082Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "330fcf7ab39fb30c380bc26130e9976a9ef333ec0632be9a497d4e6684884bb7",
@@ -81,7 +109,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:03:35.222Z"
+    "job_posted_at": "2026-02-28T21:16:38.082Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4051739",
@@ -92,7 +120,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Salem-MA/Clinic-Practice-Assistant--Internal-Medicine_RQ4051739",
-    "job_posted_at_datetime_utc": "2026-02-28T21:03:35.222Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:16:38.082Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "ec5ecea85863d3b76c2aafaff6a0f696b51682523f6b54c3bf801686ba6a882c",
@@ -109,7 +137,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:03:35.222Z"
+    "job_posted_at": "2026-02-28T21:16:38.082Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4051749",
@@ -120,7 +148,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Salem-MA/Medical-Assistant--Internal-Medicine_RQ4051749",
-    "job_posted_at_datetime_utc": "2026-02-28T21:03:35.222Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:16:38.082Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7ac8f837fba3e94fc992349227f37fe4bbee0e3544611cd2bbd6ee3db2288ada",
@@ -137,7 +165,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:03:35.222Z"
+    "job_posted_at": "2026-02-28T21:16:38.082Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4051484",
@@ -148,7 +176,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/PCA-Co-Op_RQ4051484",
-    "job_posted_at_datetime_utc": "2026-02-28T21:03:35.222Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:16:38.082Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b631468ef3dc2f11cb865cd7a552081643b981c450b87b86b5a86fb249fb4a4e",
@@ -165,35 +193,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:03:35.222Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4050890",
-    "job_title": "PCA Co-Op",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/PCA-Co-Op_RQ4050890",
-    "job_posted_at_datetime_utc": "2026-02-28T21:03:35.222Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "b631468ef3dc2f11cb865cd7a552081643b981c450b87b86b5a86fb249fb4a4e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:03:35.222Z"
+    "job_posted_at": "2026-02-28T21:16:38.082Z"
   },
   {
     "job_id": "workday-vanderbilt-university-medical-center-R-53624",
@@ -204,7 +204,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Pharmacy-Intern---Inpatient_R-53624",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:55.335Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:57.406Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c3a3fa5828a170b3be778fe19f3f1b5bb8cd5db9858adad5556c7f21f69a8496",
@@ -221,63 +221,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:55.335Z"
-  },
-  {
-    "job_id": "workday-vanderbilt-university-medical-center-R-53810",
-    "job_title": "Pharmacy Intern - Medical Center East Pharmacy",
-    "employer_name": "Vanderbilt University Medical Center",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Pharmacy-Intern---Medical-Center-East-Pharmacy_R-53810",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:55.334Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "a2d45e7909cbb839515710b33bf8e0b536fac79f7c773d0be7b8e0ec9acca0bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:55.334Z"
-  },
-  {
-    "job_id": "workday-vanderbilt-university-medical-center-R-53503",
-    "job_title": "Perioperative OR Nurse Internship-Summer-Cohort 2026",
-    "employer_name": "Vanderbilt University Medical Center",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Perioperative-OR-Nurse-Internship-Summer-Cohort-2026_R-53503-1",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:55.334Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "98249b2a7af3b5960a4b81515e619e1aabc8cde0f02c194ed2553361685ba17e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:55.334Z"
+    "job_posted_at": "2026-02-28T21:15:57.406Z"
   },
   {
     "job_id": "workday-vanderbilt-university-medical-center-R-53883",
@@ -288,7 +232,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://vumc.wd1.myworkdayjobs.com/job/Franklin-TN/Medical-Assistant---Internal-Medicine---Franklin_R-53883-1",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:55.333Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:57.405Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7f4a2c670dd50969a5c2cc517f876881d3f1c40f12e4ffc142770b7d7575df47",
@@ -305,7 +249,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:55.333Z"
+    "job_posted_at": "2026-02-28T21:15:57.405Z"
+  },
+  {
+    "job_id": "workday-vanderbilt-university-medical-center-R-53810",
+    "job_title": "Pharmacy Intern - Medical Center East Pharmacy",
+    "employer_name": "Vanderbilt University Medical Center",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Pharmacy-Intern---Medical-Center-East-Pharmacy_R-53810",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:57.405Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "a2d45e7909cbb839515710b33bf8e0b536fac79f7c773d0be7b8e0ec9acca0bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T21:15:57.405Z"
+  },
+  {
+    "job_id": "workday-vanderbilt-university-medical-center-R-53503",
+    "job_title": "Perioperative OR Nurse Internship-Summer-Cohort 2026",
+    "employer_name": "Vanderbilt University Medical Center",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Perioperative-OR-Nurse-Internship-Summer-Cohort-2026_R-53503-1",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:57.405Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "98249b2a7af3b5960a4b81515e619e1aabc8cde0f02c194ed2553361685ba17e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T21:15:57.405Z"
   },
   {
     "job_id": "workday-cleveland-clinic-327923",
@@ -316,7 +316,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Administrative-Campus/Supply-Chain-Management-Co-Op-Student_327923",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:31.769Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "de3b08a954c0679aa2fe6e346e400caf2121e11f7cbe8bedf0ab631f6795cbc6",
@@ -333,7 +333,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:32.386Z"
+    "job_posted_at": "2026-02-28T21:15:31.769Z"
   },
   {
     "job_id": "workday-cleveland-clinic-289685",
@@ -344,7 +344,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Independence-Family-Health-Center/Pharmacy-Intern---Community-Pharmacy_289685",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:31.769Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "bc0f9a80d5755ec79b9ef407594ac30d366201f18ca7e0a453a8399fb819d018",
@@ -361,7 +361,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:32.386Z"
+    "job_posted_at": "2026-02-28T21:15:31.769Z"
   },
   {
     "job_id": "workday-cleveland-clinic-297901",
@@ -372,7 +372,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Lutheran-Hospital/Pharmacy-Intern---Inpatient_297901",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:31.769Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "866f52b03b5252538cae3b702dd55d612c20822246dbbc15b04f916233dcc958",
@@ -389,7 +389,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:32.386Z"
+    "job_posted_at": "2026-02-28T21:15:31.769Z"
   },
   {
     "job_id": "workday-cleveland-clinic-295989",
@@ -400,7 +400,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Euclid-Hospital/Pharmacy-Intern---Inpatient-PRN_295989",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:31.769Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "4969b57a4c37e7e2b45e5ffbb3d43ea042ee8ca8ed53176ef554994d28955870",
@@ -417,7 +417,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:32.386Z"
+    "job_posted_at": "2026-02-28T21:15:31.769Z"
   },
   {
     "job_id": "workday-proofpoint-R13808",
@@ -428,7 +428,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/Planning---Business-Analysis-Intern_R13808",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:02.825Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5d16ab2a67ebc188a61022d88ff044af6636898f26bdea5aa5bf2d9b7b50c34f",
@@ -445,7 +445,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:04.918Z"
+    "job_posted_at": "2026-02-28T21:15:02.825Z"
   },
   {
     "job_id": "workday-applied-materials-R2516559",
@@ -456,7 +456,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Summer-2026-Supply-Chain-Intern--Master-s--Santa-Clara--CA-_R2516559",
-    "job_posted_at_datetime_utc": "2026-02-28T20:57:52.469Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:10:50.905Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "562f46f3f3cfa3fab56daa826efac85dbbc993d8f6a2ce5206240074a75a16c8",
@@ -473,7 +473,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:57:52.469Z"
+    "job_posted_at": "2026-02-28T21:10:50.905Z"
   },
   {
     "job_id": "workday-applied-materials-R2612470",
@@ -484,7 +484,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/AI-Intern---AZPI6_R2612470",
-    "job_posted_at_datetime_utc": "2026-02-28T20:57:52.469Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:10:50.905Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "20d77ada7050aa8b5f389c6491dbf70956655d25882eafe86c7aa5c90312e6e8",
@@ -501,7 +501,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:57:52.469Z"
+    "job_posted_at": "2026-02-28T21:10:50.905Z"
   },
   {
     "job_id": "workday-applied-materials-R2612584",
@@ -512,7 +512,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/Summer-2026-Instructional-Systems-Designer-Intern--Bachelor-s--Austin--TX-_R2612584",
-    "job_posted_at_datetime_utc": "2026-02-28T20:57:52.469Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:10:50.905Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "f395dd72cf3d35e7c1123e802d45d266a085b6630f9524f586743b10d02c42d1",
@@ -529,7 +529,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:57:52.469Z"
+    "job_posted_at": "2026-02-28T21:10:50.905Z"
   },
   {
     "job_id": "workday-leidos-R-00176762",
@@ -540,7 +540,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Reston-VA/Cybersecurity-Compliance---Governance-Intern_R-00176762",
-    "job_posted_at_datetime_utc": "2026-02-28T20:57:05.297Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:10:02.958Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0003c284d557a274459d77bba28c3e6c4ba918121d26e47998d3da9148c5a5f8",
@@ -557,7 +557,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:57:05.297Z"
+    "job_posted_at": "2026-02-28T21:10:02.958Z"
   },
   {
     "job_id": "workday-rtx-01827161",
@@ -568,7 +568,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/XMLNAME-2026-Intern---Industrial-Engineering-Intern---Onsite--AZ-_01827161",
-    "job_posted_at_datetime_utc": "2026-02-28T20:56:34.527Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:09:32.330Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "d77f57ad8fade6d065e1dd77a65e5bb15fddc196af5f5736f503f04062c49e7e",
@@ -585,7 +585,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:56:34.527Z"
+    "job_posted_at": "2026-02-28T21:09:32.330Z"
   },
   {
     "job_id": "workday-rtx-01820788",
@@ -596,7 +596,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/SkillBridge-Intern--Information-Systems-Engineer---Onsite-Tucson-AZ_01820788",
-    "job_posted_at_datetime_utc": "2026-02-28T20:56:34.527Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:09:32.330Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "26fb0ca836786031b8b3890f40c4da79d329cc8884177e839d1dda11cbdd1868",
@@ -613,7 +613,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:56:34.527Z"
+    "job_posted_at": "2026-02-28T21:09:32.330Z"
   },
   {
     "job_id": "workday-rtx-01827452",
@@ -624,7 +624,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--MA-_01827452",
-    "job_posted_at_datetime_utc": "2026-02-28T20:56:34.526Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:09:32.329Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "bf144e0c6f843fd3a596850149964462dcd5b9bced53702269e616612bfdae18",
@@ -641,7 +641,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:56:34.526Z"
+    "job_posted_at": "2026-02-28T21:09:32.329Z"
   },
   {
     "job_id": "greenhouse-lucidmotors-4922185007",
@@ -2255,7 +2255,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/job/Scranton-PA/Pharmacy-Intern-Technician_R-92849-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:03:51.310Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:16:53.663Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e5fc11001f072d4d617c53d74669184e9e34d09bf89ec178b8a61756ca7851e",
@@ -2272,7 +2272,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:03:51.310Z"
+    "job_posted_at": "2026-02-26T21:16:53.663Z"
   },
   {
     "job_id": "workday-geisinger-health-R-90163",
@@ -2283,7 +2283,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/job/Danville-PA/Nonclinical-Co-Op---Facilities_R-90163",
-    "job_posted_at_datetime_utc": "2026-02-26T21:03:51.310Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:16:53.663Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1d5d9259218ea65f06cb176d26b196985f95e5f6c67a9c31b524ea20532b09b0",
@@ -2300,7 +2300,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:03:51.310Z"
+    "job_posted_at": "2026-02-26T21:16:53.663Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4053488",
@@ -2311,7 +2311,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Northeastern-Nursing-Co-Op--MGH-GYNECOLOGY_RQ4053488",
-    "job_posted_at_datetime_utc": "2026-02-26T21:03:35.223Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:16:38.084Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "ae56757e9dc87a9eabe98cf91d8080a66b47cfebd7992f6b69d0cee9a014362e",
@@ -2328,7 +2328,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:03:35.223Z"
+    "job_posted_at": "2026-02-26T21:16:38.084Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4051954",
@@ -2339,7 +2339,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Co-Op_RQ4051954",
-    "job_posted_at_datetime_utc": "2026-02-26T21:03:35.223Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:16:38.084Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b3a7da13a7cb0a31f78384374fc72252dcdaaf795fd981652f781358fdd51cc6",
@@ -2356,7 +2356,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:03:35.223Z"
+    "job_posted_at": "2026-02-26T21:16:38.084Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4050447",
@@ -2367,7 +2367,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/PCA-Co-Op_RQ4050447",
-    "job_posted_at_datetime_utc": "2026-02-26T21:03:35.223Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:16:38.084Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b631468ef3dc2f11cb865cd7a552081643b981c450b87b86b5a86fb249fb4a4e",
@@ -2384,35 +2384,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:03:35.223Z"
-  },
-  {
-    "job_id": "workday-cleveland-clinic-331935",
-    "job_title": "RN - Internal Medicine",
-    "employer_name": "Cleveland Clinic",
-    "job_city": "Cleveland Clinic Main Campus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/RN---Internal-Medicine_331935-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:32.386Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "77691546ac364fc57a74d9c29b6711a8735a5e5fc7abb7e4ac9ee90a88cc73e7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:32.386Z"
+    "job_posted_at": "2026-02-26T21:16:38.084Z"
   },
   {
     "job_id": "workday-cleveland-clinic-330894",
@@ -2423,7 +2395,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/Research-High-School-Intern-Paid---Suh-Laboratory_330894",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:31.770Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "312977cdb5b3d539ca312cefd73402c52ae9f032079a8f0b60085eb0223ee269",
@@ -2440,7 +2412,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:32.386Z"
+    "job_posted_at": "2026-02-26T21:15:31.770Z"
+  },
+  {
+    "job_id": "workday-cleveland-clinic-331935",
+    "job_title": "RN - Internal Medicine",
+    "employer_name": "Cleveland Clinic",
+    "job_city": "Cleveland Clinic Main Campus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/RN---Internal-Medicine_331935-1",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:31.769Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "77691546ac364fc57a74d9c29b6711a8735a5e5fc7abb7e4ac9ee90a88cc73e7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:15:31.769Z"
   },
   {
     "job_id": "workday-f5-0",
@@ -2451,7 +2451,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/job/Seattle/Network-Engineering-Intern_RP1036608-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:17.567Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:16.163Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "31f14f75f6956776a117f3aacda7576fafc78aed48a70fe6ca07f089d988a466",
@@ -2468,7 +2468,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:17.567Z"
+    "job_posted_at": "2026-02-26T21:15:16.163Z"
   },
   {
     "job_id": "workday-f5-0",
@@ -2479,7 +2479,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/job/Seattle/Data-Analyst-Intern_RP1036606-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:17.567Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:16.163Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "50fd5e18085f3f944feb3dd069935bb46f1a3ca9aadf4531c875a51efd2723b9",
@@ -2496,7 +2496,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:17.567Z"
+    "job_posted_at": "2026-02-26T21:15:16.163Z"
   },
   {
     "job_id": "workday-f5-0",
@@ -2507,7 +2507,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/job/Seattle/Developer-Experience-Intern_RP1036582-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:17.567Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:16.163Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "74af8163a6ac2b080ecc58bbe178af1b40a3a6e2051bc0fa92525cce27b3287e",
@@ -2524,7 +2524,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:17.567Z"
+    "job_posted_at": "2026-02-26T21:15:16.163Z"
   },
   {
     "job_id": "workday-proofpoint-R13791",
@@ -2535,7 +2535,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/Jr-Pricing-Analyst-Intern_R13791",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:02.825Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "45ed7c7199fdaa0fd15b984d3bbe8a40b3c7a3abcbf4db6020f864e6058816b1",
@@ -2552,7 +2552,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:04.918Z"
+    "job_posted_at": "2026-02-26T21:15:02.825Z"
   },
   {
     "job_id": "workday-proofpoint-R13776",
@@ -2563,7 +2563,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Draper-UT/Software-Engineering-Intern---AI-Agents_R13776",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:02.825Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2556ebe71c3394c37d158b8ab2692a7e2a24869a6024e8773d1bf0cac5a89ff9",
@@ -2580,7 +2580,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:04.918Z"
+    "job_posted_at": "2026-02-26T21:15:02.825Z"
   },
   {
     "job_id": "workday-motorola-solutions-Brentwood, TN (TN15)",
@@ -2591,7 +2591,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Brentwood-TN/Presales-System-Engineer-Intern--2026-Summer-Internship-_R62384-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:00:44.175Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:13:42.042Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7657e055b0e26c8690a8b3f77bc6105c6dafc08c0691b81340378798f606cf35",
@@ -2608,7 +2608,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:00:44.175Z"
+    "job_posted_at": "2026-02-26T21:13:42.042Z"
   },
   {
     "job_id": "workday-cadence-R53488",
@@ -2619,7 +2619,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Intern-Software-Engineering_R53488",
-    "job_posted_at_datetime_utc": "2026-02-26T21:00:21.794Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:13:20.510Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3a2de8d798bff19e6bb6aa44134a414090f470d9dca3d78dc8d42162090797bd",
@@ -2636,7 +2636,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:00:21.794Z"
+    "job_posted_at": "2026-02-26T21:13:20.510Z"
   },
   {
     "job_id": "workday-boeing-JR2026498299",
@@ -2647,7 +2647,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Spacecraft-Structural-Engineering_JR2026498299-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "40422587f1997311419269ac990f547e3ab7a70d974b2d4bfc7ddebaee32c3b3",
@@ -2664,7 +2664,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498307",
@@ -2675,7 +2675,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Mechanical-Engineering_JR2026498307-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7a85cb71f815d9fea30cadd35fce704287d46ebc9e10001fc58b1167d09ed29a",
@@ -2692,7 +2692,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498276",
@@ -2703,7 +2703,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program--Spacecraft-Harness-Engineering_JR2026498276-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "dedf6b686a558413e69c7911ad88b365af4c5f53967a01550fc9316d104b017e",
@@ -2720,7 +2720,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498502",
@@ -2731,7 +2731,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026---Business-Development-Innovation---Analytics-Internship-Program_JR2026498502-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "4699bd72776405fbd7b290099e8dd86271291b52b19754c862ad9a97324b10ab",
@@ -2748,7 +2748,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498295",
@@ -2759,7 +2759,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Assembly--Test--and-Launch--ATLO--Operations_JR2026498295",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "476e4784bf99e90e619cfd4ba31302f19dd0f16328a6fb048e797e9dbeffac80",
@@ -2776,7 +2776,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498503",
@@ -2787,7 +2787,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Flight-Software-Test-Intern_JR2026498503-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "06c0fadbe626ebe520743b2ef07c1ea7396e4f2460dcc49a70f6e2f8224f7535",
@@ -2804,7 +2804,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498304",
@@ -2815,7 +2815,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Optical-Systems-Engineering_JR2026498304-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "f17133289ef1b0f4e469de23b80306854aa5042ec86865e5f08780ae9f0e16d6",
@@ -2832,7 +2832,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498301",
@@ -2843,7 +2843,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Contracts---Government-Property_JR2026498301-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "03dbdd4d15ca275b8bb49e8e76141fa773c9d38b71fcb2ab917c085722409b3a",
@@ -2860,7 +2860,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498305",
@@ -2871,7 +2871,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Site-Security_JR2026498305-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "78f4aa5c1240ce47d6bcb7effa47e9e72e817302fd0101b5fa848e8d39985ff3",
@@ -2888,7 +2888,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-boeing-JR2026498302",
@@ -2899,7 +2899,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Test-Engineering_JR2026498302",
-    "job_posted_at_datetime_utc": "2026-02-26T20:59:38.846Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:12:37.844Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2be582ad0b034b4d9b13fa43fc63487235d4ce34bad270209b598195e23181ad",
@@ -2916,7 +2916,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:59:38.846Z"
+    "job_posted_at": "2026-02-26T21:12:37.844Z"
   },
   {
     "job_id": "workday-applied-materials-R2520257",
@@ -2927,7 +2927,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Design-Engineering-Intern_R2520257",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:52.470Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:50.905Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5f5023cd4b55c9a563677fd33ca96d2aaec630d826d1203e4cd369b670ec49e9",
@@ -2944,7 +2944,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:52.470Z"
+    "job_posted_at": "2026-02-26T21:10:50.905Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234721",
@@ -2955,7 +2955,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Annapolis-Junction-MD/Financial---Data-Analytics-Intern_R0234721",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "738be0786cd18274d41c53cdc5ad61a43d15ac20d37dd4f72f401112b551543c",
@@ -2972,7 +2972,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:29.096Z"
+    "job_posted_at": "2026-02-26T21:10:27.033Z"
   },
   {
     "job_id": "workday-leidos-R-00177071",
@@ -2983,7 +2983,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Arlington-VA/Data-Science-Intern_R-00177071",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c4dc0cc2a1b5a03aa2bdcce7d93344ea13d9482ab1096d3b46f7c65c224b76aa",
@@ -3000,7 +3000,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:05.298Z"
+    "job_posted_at": "2026-02-26T21:10:02.959Z"
   },
   {
     "job_id": "workday-leidos-R-00177062",
@@ -3011,7 +3011,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Arlington-VA/Software-Engineer-Intern_R-00177062",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8433241848eb726a60b6e2811b11c226a30ecd4dc26e318fc9ab6b93f50fca02",
@@ -3028,7 +3028,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:05.298Z"
+    "job_posted_at": "2026-02-26T21:10:02.959Z"
   },
   {
     "job_id": "workday-leidos-R-00177055",
@@ -3039,7 +3039,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Arlington-VA/Systems-Engineer-Intern_R-00177055",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0cf1338f47bbf7c3bb711c677882923955be742fdbc094716211d45293141518",
@@ -3056,7 +3056,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:05.298Z"
+    "job_posted_at": "2026-02-26T21:10:02.959Z"
   },
   {
     "job_id": "workday-leidos-R-00174597",
@@ -3067,7 +3067,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Software-Engineer-Intern_R-00174597-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2c6e9ae9a5ca396fc5e71e370456e97de332cd3e7af415f3edf4590570c1bf93",
@@ -3084,7 +3084,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:05.298Z"
+    "job_posted_at": "2026-02-26T21:10:02.959Z"
   },
   {
     "job_id": "workday-rtx-01825166",
@@ -3095,7 +3095,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling--Simulation--and-Analysis-Intern--Onsite_01825166",
-    "job_posted_at_datetime_utc": "2026-02-26T20:56:34.527Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:32.330Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "f1655fbb41953d70ff91c02579c69f02e6c0a1463c65d81d4cedffce411a8d7b",
@@ -3112,7 +3112,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:56:34.527Z"
+    "job_posted_at": "2026-02-26T21:09:32.330Z"
   },
   {
     "job_id": "workday-rtx-01826882",
@@ -3123,7 +3123,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Systems-Engineer-Intern--Summer-2026---Onsite-_01826882",
-    "job_posted_at_datetime_utc": "2026-02-26T20:56:34.527Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:32.330Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "25c3e7f5e48cd2cce6b17699cfe490634db2e9adef6e45789eaf6c04a64649ff",
@@ -3140,7 +3140,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:56:34.527Z"
+    "job_posted_at": "2026-02-26T21:09:32.330Z"
   },
   {
     "job_id": "workday-capital-one-R234019",
@@ -3151,7 +3151,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/job/Richmond-VA/Student-Caf-Ambassador--Intern----Carytown-and-Short-Pump_R234019-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:56:17.863Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:15.948Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "26350a72e03f6fba2c500a7e96f7df3b70f3d21c60110bbb679ee8434b22cdc1",
@@ -3168,7 +3168,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:56:17.863Z"
+    "job_posted_at": "2026-02-26T21:09:15.948Z"
   },
   {
     "job_id": "workday-nvidia-JR2010638",
@@ -3179,7 +3179,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2026_JR2010638",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:17.436Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:08:17.832Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "928ac019b990f88aa2f747801dabf65efd61cc5f248a49aa7afbd6242379d4f0",
@@ -3198,7 +3198,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:17.436Z"
+    "job_posted_at": "2026-02-26T21:08:17.832Z"
   },
   {
     "job_id": "workday-nvidia-JR2006184",
@@ -3209,7 +3209,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Developer-Technology-Intern--High-Performance-Databases---Summer-2026_JR2006184",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:17.436Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:08:17.832Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "08f538465ad62da2d5f3ed637d9fa2addd5ed698cf8e52a8c94d8447c055edc2",
@@ -3228,7 +3228,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:17.436Z"
+    "job_posted_at": "2026-02-26T21:08:17.832Z"
   },
   {
     "job_id": "greenhouse-verkada-4996420007",
@@ -4868,7 +4868,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Internal-Medicine-Clinic---The-Grove-Baton-Rouge_REQ_00250457-1",
-    "job_posted_at_datetime_utc": "2026-02-25T21:04:16.050Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:17:18.336Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8f9b014f4898b2a311710144d6c1f324a3b8a14c22e54e44366b3b88af5fdca2",
@@ -4885,7 +4885,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:04:16.050Z"
+    "job_posted_at": "2026-02-25T21:17:18.336Z"
   },
   {
     "job_id": "workday-cleveland-clinic-326695",
@@ -4896,7 +4896,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant--PCNA----Internal-Medicine-Telemetry_326695",
-    "job_posted_at_datetime_utc": "2026-02-25T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:15:31.771Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "32015991dbed2ad9156b5f2be83c7dd793b0e59adfe54067c33d0788938da734",
@@ -4913,7 +4913,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:02:32.386Z"
+    "job_posted_at": "2026-02-25T21:15:31.771Z"
   },
   {
     "job_id": "workday-cleveland-clinic-319592",
@@ -4924,7 +4924,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/G81-FT-Nights-PCNA-ENT-Step-Down-Internal-Medicine_319592-1",
-    "job_posted_at_datetime_utc": "2026-02-25T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:15:31.771Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "42691787106e22408e8f11347dfb12b43d9eef68c34d63257e55451175a6e8de",
@@ -4941,7 +4941,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:02:32.386Z"
+    "job_posted_at": "2026-02-25T21:15:31.771Z"
   },
   {
     "job_id": "workday-cleveland-clinic-324114",
@@ -4952,7 +4952,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Westown-Physicians-Center/LPN-Ambulatory---Pediatrics_324114",
-    "job_posted_at_datetime_utc": "2026-02-25T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:15:31.771Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c0d805a838ad46b911086e270998e4c86b5fc4fdc73334bb2a78201aeea3ee63",
@@ -4969,7 +4969,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:02:32.386Z"
+    "job_posted_at": "2026-02-25T21:15:31.771Z"
   },
   {
     "job_id": "workday-cleveland-clinic-295048",
@@ -4980,7 +4980,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/RN-Clinical-Adjunct-Faculty---Internal-Medicine-and-Telemetry_295048",
-    "job_posted_at_datetime_utc": "2026-02-25T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:15:31.771Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7a5265c305d2bd84d5e729f51908213a376dc117287cd928fa9ea744eb1f28dd",
@@ -4997,7 +4997,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:02:32.386Z"
+    "job_posted_at": "2026-02-25T21:15:31.771Z"
   },
   {
     "job_id": "workday-proofpoint-R13786",
@@ -5008,7 +5008,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/Partner-AI-Enablement-Intern--Co-Op-_R13786",
-    "job_posted_at_datetime_utc": "2026-02-25T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:15:02.825Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "ec4a5ceb698997098e0bec05e9772f2b93d526b706555f25997e06f5a3ab94f3",
@@ -5025,7 +5025,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:02:04.918Z"
+    "job_posted_at": "2026-02-25T21:15:02.825Z"
   },
   {
     "job_id": "workday-proofpoint-R13775",
@@ -5036,7 +5036,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/University-Relations-Intern_R13775",
-    "job_posted_at_datetime_utc": "2026-02-25T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:15:02.825Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e72599d3066f0f811edc138cf075f511b4c35a2747db87b0c31d974f37c8aa18",
@@ -5053,7 +5053,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:02:04.918Z"
+    "job_posted_at": "2026-02-25T21:15:02.825Z"
   },
   {
     "job_id": "workday-boeing-JR2026498088",
@@ -5064,7 +5064,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program--Thermal-Engineering_JR2026498088-1",
-    "job_posted_at_datetime_utc": "2026-02-25T20:59:38.847Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:12:37.845Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "f5f1abff0e135a05805a9f424feb447b8f7b96cd837f0b12e3f84ddf9b9518b8",
@@ -5081,7 +5081,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:59:38.847Z"
+    "job_posted_at": "2026-02-25T21:12:37.845Z"
   },
   {
     "job_id": "workday-applied-materials-R2612962",
@@ -5092,7 +5092,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-AI-Engineer-Data-Scientist-Intern--Bachelor-s--Santa-Clara--CA-_R2612962-1",
-    "job_posted_at_datetime_utc": "2026-02-25T20:57:52.470Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:10:50.906Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a4c8700565dc4db9828d2aa714f46ccc4d64ef2d73f61ca6576608924f0adbf1",
@@ -5110,7 +5110,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:57:52.470Z"
+    "job_posted_at": "2026-02-25T21:10:50.906Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234700",
@@ -5121,7 +5121,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0234700",
-    "job_posted_at_datetime_utc": "2026-02-25T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "18d66bc754c6cbc8c79e1f356f77135c233d2a93fded3e8708e13eac70418193",
@@ -5138,7 +5138,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:57:29.096Z"
+    "job_posted_at": "2026-02-25T21:10:27.033Z"
   },
   {
     "job_id": "workday-leidos-R-00176935",
@@ -5149,7 +5149,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Albuquerque-NM/Computer-Electrical-Engineering-Intern_R-00176935",
-    "job_posted_at_datetime_utc": "2026-02-25T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "219a65e7608a46491156cda5ca57642401bfe83c11ae641404ee9933eb103e2a",
@@ -5166,7 +5166,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:57:05.298Z"
+    "job_posted_at": "2026-02-25T21:10:02.959Z"
   },
   {
     "job_id": "workday-leidos-R-00176924",
@@ -5177,7 +5177,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Reston-VA/External-Technology-Engineering-Intern_R-00176924",
-    "job_posted_at_datetime_utc": "2026-02-25T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c4234194eadfba1686de221a83dc89f4e3e05d9a37fcaeb2e13f6f450f356411",
@@ -5194,7 +5194,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:57:05.298Z"
+    "job_posted_at": "2026-02-25T21:10:02.959Z"
   },
   {
     "job_id": "workday-leidos-R-00176931",
@@ -5205,7 +5205,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Reston-VA/External-Technology-Analyst-Intern_R-00176931",
-    "job_posted_at_datetime_utc": "2026-02-25T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8581e09e0c48db0c8b7dba0222b7bffb175997d446849ba3c13b471ba3214147",
@@ -5222,7 +5222,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:57:05.298Z"
+    "job_posted_at": "2026-02-25T21:10:02.959Z"
   },
   {
     "job_id": "greenhouse-instacart-5917202",
@@ -6584,7 +6584,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://www.linkedin.com/jobs/view/data-science-ai-ml-summer-intern-computer-vision-microscopy-at-johnson-johnson-innovative-medicine-4377865851?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-    "job_description": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit.\n\nJob Function\n\nCareer Programs\n\nJob Sub Function\n\nNon-LDP Intern/Co-Op\n\nJob Category\n\nCareer Program\n\nAll Job Posting Locations:\n\nBrisbane, California, United States of America, Cambridge, Massachusetts, United States of America, Raritan, New Jersey, United States of America, San Diego, California, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America\n\nJob Description\n\nOur expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries like you work on teams that save lives by developing the medicines of tomorrow.\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way.\n\nLearn more at https://www.jnj.com/innovative-medicine\n\nJohnson & Johnson Innovative Medicine is currently seeking a summer intern to join our Computer Vision team located in the United States.\n\nPosition Overview - Tasks & Responsibilities\n\nThe Computer Vision team at Johnson & Johnson Innovative Medicine is seeking a PhD student for a 10-12 week summer research internship. We are looking for a knowledgeable, self-motivated, and creatively inclined graduate student with a strong interest in computer vision, deep learning, and medical image analysis. The internship will focus on application and refinement of deep learning algorithms to quantitate histopathology in clinical and/or preclinical H&E-stained whole slide microscopy images.\n\nThis internship offers the opportunity to work within a cross-functional team in a pharmaceutical environment. In addition to gaining technical exposure through the various projects the team is undertaking, you will also gain valuable insights into how algorithms are developed to support clinical trials under the mentorship of experienced scientists, while contributing to initiatives aimed at improving global health.\n\nResponsibilities\n• Design, develop, implement and validate innovative deep learning solutions addressing high-priority computer vision challenges in medical imaging.\n• Collaborate closely with cross-functional teams of scientists, engineers, and clinicians to advance algorithm and product development to improve project outcomes.\n• Clearly communicate complex technical methodologies and present findings to diverse audiences and stakeholders to support informed decision-making.\n• Prepare and draft manuscripts outlining development methodologies to contribute to the scientific community.\n\nQualifications - Education And Experience\n• Actively pursuing a PhD in a field related to deep learning and computer vision, such as computer science, medical informatics, biomedical engineering, electrical engineering, or a related discipline. Equivalent experience will also be considered.\n• Strong publication record with the ability to effectively communicate technical work to a broad audience. Publications in conferences such as CVPR, ICLR, ICCV, ICML, MICCAI, ACL, and NEURIPS are preferred but not mandatory.\n\nQualifications - Skills\n• Fluent in English.\n• Strong communication & interpersonal skills.\n• Ability to work in a matrix organization and participate effectively both independently and as part of multiple teams.\n• Capacity to work under strict timelines.\n�� Strong programming skills in Python and PyTorch.\n• Demonstrated solid foundation in applying deep learning techniques for computer vision and image analysis, particularly in object detection and image segmentation.\n• Experience working with histopathology data (whole slide images) is highly preferred.\n• Experience working with JSON and pandas is preferred.\n\nOur Offering\n• 3 months full time internship in an international healthcare company to grow your professional experience, start date ------ 2026.\n• Exciting and intensive insight into one of the largest pharmaceutical companies in the world.\n• Great team and excellent sense of belonging.\n• Gain technical exposure through various projects the team is undertaking.\n• Acquire valuable insights into algorithm development in support for clinical trials under the mentorship of experienced scientists.\n• Contribute to initiatives aimed at improving global health.\n• Flexible working conditions with fully remote options available.\n• Many attractive benefits to support your physical, mental and financial wellbeing. Learn more here.\n\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company’s consolidated retirement plan (pension).\n\nFor additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits\n\nThis job posting is anticipated to close on 03/12/2026. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.\n\nIneligibility for severance.\n\nPermanently authorized to work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term status that does not require company sponsorship.\n\nJohnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.\n\nJohnson & Johnson is committed to providing an interview process that is inclusive of our applicants’ needs. If you are an individual with a disability and would like to request an accommodation, external applicants please contact us via https://www.jnj.com/contact-us/careers . Internal employees contact AskGS to be directed to your accommodation resource.\n\nRequired Skills\n\nPreferred Skills:\n\nThe anticipated base pay range for this position is :\n\n$23.00/hr to $51.50/hr\n\nAdditional Description For Pay Transparency\n\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company’s consolidated retirement plan (pension). For additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits This job posting is anticipated to close on 3/12/2026. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.",
+    "job_description": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit.\n\nJob Function\n\nCareer Programs\n\nJob Sub Function\n\nNon-LDP Intern/Co-Op\n\nJob Category\n\nCareer Program\n\nAll Job Posting Locations:\n\nBrisbane, California, United States of America, Cambridge, Massachusetts, United States of America, Raritan, New Jersey, United States of America, San Diego, California, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America\n\nJob Description\n\nOur expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries like you work on teams that save lives by developing the medicines of tomorrow.\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way.\n\nLearn more at https://www.jnj.com/innovative-medicine\n\nJohnson & Johnson Innovative Medicine is currently seeking a summer intern to join our Computer Vision team located in the United States.\n\nPosition Overview - Tasks & Responsibilities\n\nThe Computer Vision team at Johnson & Johnson Innovative Medicine is seeking a PhD student for a 10-12 week summer research internship. We are looking for a knowledgeable, self-motivated, and creatively inclined graduate student with a strong interest in computer vision, deep learning, and medical image analysis. The internship will focus on application and refinement of deep learning algorithms to quantitate histopathology in clinical and/or preclinical H&E-stained whole slide microscopy images.\n\nThis internship offers the opportunity to work within a cross-functional team in a pharmaceutical environment. In addition to gaining technical exposure through the various projects the team is undertaking, you will also gain valuable insights into how algorithms are developed to support clinical trials under the mentorship of experienced scientists, while contributing to initiatives aimed at improving global health.\n\nResponsibilities\n• Design, develop, implement and validate innovative deep learning solutions addressing high-priority computer vision challenges in medical imaging.\n• Collaborate closely with cross-functional teams of scientists, engineers, and clinicians to advance algorithm and product development to improve project outcomes.\n• Clearly communicate complex technical methodologies and present findings to diverse audiences and stakeholders to support informed decision-making.\n• Prepare and draft manuscripts outlining development methodologies to contribute to the scientific community.\n\nQualifications - Education And Experience\n• Actively pursuing a PhD in a field related to deep learning and computer vision, such as computer science, medical informatics, biomedical engineering, electrical engineering, or a related discipline. Equivalent experience will also be considered.\n• Strong publication record with the ability to effectively communicate technical work to a broad audience. Publications in conferences such as CVPR, ICLR, ICCV, ICML, MICCAI, ACL, and NEURIPS are preferred but not mandatory.\n\nQualifications - Skills\n• Fluent in English.\n• Strong communication & interpersonal skills.\n• Ability to work in a matrix organization and participate effectively both independently and as part of multiple teams.\n• Capacity to work under strict timelines.\n• Strong programming skills in Python and PyTorch.\n• Demonstrated solid foundation in applying deep learning techniques for computer vision and image analysis, particularly in object detection and image segmentation.\n• Experience working with histopathology data (whole slide images) is highly preferred.\n• Experience working with JSON and pandas is preferred.\n\nOur Offering\n• 3 months full time internship in an international healthcare company to grow your professional experience, start date ------ 2026.\n• Exciting and intensive insight into one of the largest pharmaceutical companies in the world.\n• Great team and excellent sense of belonging.\n• Gain technical exposure through various projects the team is undertaking.\n• Acquire valuable insights into algorithm development in support for clinical trials under the mentorship of experienced scientists.\n• Contribute to initiatives aimed at improving global health.\n• Flexible working conditions with fully remote options available.\n• Many attractive benefits to support your physical, mental and financial wellbeing. Learn more here.\n\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company’s consolidated retirement plan (pension).\n\nFor additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits\n\nThis job posting is anticipated to close on 03/12/2026. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.\n\nIneligibility for severance.\n\nPermanently authorized to work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term status that does not require company sponsorship.\n\nJohnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.\n\nJohnson & Johnson is committed to providing an interview process that is inclusive of our applicants’ needs. If you are an individual with a disability and would like to request an accommodation, external applicants please contact us via https://www.jnj.com/contact-us/careers . Internal employees contact AskGS to be directed to your accommodation resource.\n\nRequired Skills\n\nPreferred Skills:\n\nThe anticipated base pay range for this position is :\n\n$23.00/hr to $51.50/hr\n\nAdditional Description For Pay Transparency\n\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company’s consolidated retirement plan (pension). For additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits This job posting is anticipated to close on 3/12/2026. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.",
     "job_employment_type": "FULL-TIME",
     "fingerprint": "7b13659f8e1ae10c49141b03ea9e2b4e9120c660eed7eb061e4ea7fa9caf80d8",
     "tags": {
@@ -6612,7 +6612,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/Internal-Consultant----Family-Connects-New-Orleans----PRN_REQ_00255529",
-    "job_posted_at_datetime_utc": "2026-02-24T21:04:16.050Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:17:18.337Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "62d8668aa06270630b7296f1a54ee27be8167f17c6f7b96168dcc055e0d1e08a",
@@ -6629,7 +6629,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:04:16.050Z"
+    "job_posted_at": "2026-02-24T21:17:18.337Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4052161",
@@ -6640,7 +6640,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Co-op-Student---Imaging_RQ4052161",
-    "job_posted_at_datetime_utc": "2026-02-24T21:03:35.224Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:16:38.084Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "330fcf7ab39fb30c380bc26130e9976a9ef333ec0632be9a497d4e6684884bb7",
@@ -6657,7 +6657,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:03:35.224Z"
+    "job_posted_at": "2026-02-24T21:16:38.084Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4051746",
@@ -6668,7 +6668,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Lynn-MA/Nurse-Practitioner--Internal-Medicine_RQ4051746",
-    "job_posted_at_datetime_utc": "2026-02-24T21:03:35.224Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:16:38.084Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "ac62a6772ef4f31e1d0458e6909f2cd5be1cd6985bdf1d957717d05eddcf6d26",
@@ -6685,63 +6685,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:03:35.224Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2613404",
-    "job_title": "2026 Summer Global Product Support Engineer Intern - Bachelor's (Kalispell, MT)",
-    "employer_name": "Applied Materials",
-    "job_city": "Kalispell",
-    "job_state": "MT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Summer-Global-Product-Support-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613404",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:52.471Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "d5856896f431d650b610a07bfeb3ba8f19c816c87d695f1e1e3cd9043dcc60b6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:52.471Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2613160",
-    "job_title": "2026 Summer Process Engineer Intern (Advanced Degree) – Santa Clara, CA",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineer-Intern--Advanced-Degree----Santa-Clara--CA_R2613160",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:52.471Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "d70b606eb0e746ff15073c7ed13c4f6c8d30659612a6ea565a6314a5a18367d7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:52.471Z"
+    "job_posted_at": "2026-02-24T21:16:38.084Z"
   },
   {
     "job_id": "workday-applied-materials-R2611742",
@@ -6752,7 +6696,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Summer-2026---Process-Engineer-Intern---PhD--Santa-Clara--CA-_R2611742",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:52.470Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:50.906Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "23005a212106fbde9546d8f191e0a2085a7eec13b4aa6e857cb8f4c04c1d1ffd",
@@ -6769,7 +6713,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:52.470Z"
+    "job_posted_at": "2026-02-24T21:10:50.906Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2613404",
+    "job_title": "2026 Summer Global Product Support Engineer Intern - Bachelor's (Kalispell, MT)",
+    "employer_name": "Applied Materials",
+    "job_city": "Kalispell",
+    "job_state": "MT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Summer-Global-Product-Support-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613404",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:50.906Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "d5856896f431d650b610a07bfeb3ba8f19c816c87d695f1e1e3cd9043dcc60b6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:10:50.906Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2613160",
+    "job_title": "2026 Summer Process Engineer Intern (Advanced Degree) – Santa Clara, CA",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineer-Intern--Advanced-Degree----Santa-Clara--CA_R2613160",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:50.906Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "d70b606eb0e746ff15073c7ed13c4f6c8d30659612a6ea565a6314a5a18367d7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:10:50.906Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234060",
@@ -6780,7 +6780,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Annapolis-Junction-MD/International-Partnership-Support-SME_R0234060",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7ef265ac8f548ec2a19689ae5b554fc3834bcb94c307405bb79ad7929be17795",
@@ -6797,7 +6797,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234485",
@@ -6808,7 +6808,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Awareness-Intern_R0234485",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b7405203e14761a62beb45b81de887fb07b0d238e1213893e775bf59a35c777d",
@@ -6825,7 +6825,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-leidos-R-00173303",
@@ -6836,7 +6836,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Bethesda-MD/Computer-Engineering-Co-op_R-00173303",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:05.299Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c0b2c97d2a193e5529cb1deca16f1b34f31523a9b0deb0c6aa00b1e1cd4b9770",
@@ -6853,7 +6853,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:05.299Z"
+    "job_posted_at": "2026-02-24T21:10:02.959Z"
   },
   {
     "job_id": "workday-crowdstrike-R27381",
@@ -6864,7 +6864,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Sunnyvale-CA/Human-Resources-Launch-Intern---Summer-2026_R27381",
-    "job_posted_at_datetime_utc": "2026-02-24T20:56:02.371Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:01.621Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "fba4943b2b93b7fdd08f60f40839ea3c99b0a23f28197b047e11a40247149140",
@@ -6881,7 +6881,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:56:02.371Z"
+    "job_posted_at": "2026-02-24T21:09:01.621Z"
   },
   {
     "job_id": "greenhouse-spacex-8436012002",
@@ -8205,7 +8205,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://www.okta.com/company/careers/opportunity/7607650?gh_jid=7607650",
     "job_posted_at_datetime_utc": "2026-02-23T16:39:45-05:00",
-    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World��s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Internship&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a data-curious, detail-oriented Paid Media Intern to join our Digital Paid Media team. You won’t just be watching from the sidelines, you’ll be helping manage real budgets across Google, Bing, and LinkedIn. This is a &quot;hands on&quot; internship where you’ll learn the mechanics of digital advertising, from building campaigns to analyzing why an ad worked (or why it didn’t).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Get to Do&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Campaign Execution: Assist in the technical setup and launch of live campaigns across Google, Bing, and LinkedIn.&lt;/li&gt;\n&lt;li&gt;Creative Coordination: Partner with the team to manage creative assets, ensuring we have the correct, up-to-date images and videos for every campaign.&lt;/li&gt;\n&lt;li&gt;Ad Copywriting &amp;amp; Auditing: Help manage our global paid search copy. You will write and review headlines and descriptions to ensure they are clear, follow Okta’s brand voice and guidelines, and stay within search engine character limits and best practices.&lt;/li&gt;\n&lt;li&gt;Data &amp;amp; Reporting: Pull performance data into spreadsheets to help the team track key metrics like Cost per Click, Cost per Lead, and Conversion Rate.&lt;/li&gt;\n&lt;li&gt;Competitor Research: Analyze competitor ads and keywords and market behavior to identify new opportunities for us to improve our search rankings.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who We are Looking For&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Current Student: Enrolled in a Bachelor’s or Master’s program (Marketing, Business, Data Analytics, or Communications preferred) with an expected graduation date of either Dec. 2026 or May/June 2027.&lt;/li&gt;\n&lt;li&gt;Software Basics: Proficient in Excel/Google Sheets (organizing data and basic formulas) and Google Slides (building clean, simple decks for team updates).&lt;/li&gt;\n&lt;li&gt;Strong Writing: Ability to write clear and concise copy. You should be able to explain complex ideas in just a few words (essential for ad headlines).&lt;/li&gt;\n&lt;li&gt;Analytical Mindset: You enjoy looking at data to find patterns and are comfortable working with numbers.&lt;/li&gt;\n&lt;li&gt;Attention to Detail: High level of accuracy in your work—you are the type of person who double-checks links and spelling before hitting &quot;send.&quot;&lt;/li&gt;\n&lt;li&gt;Platform Curiosity: A basic understanding of the difference between a &quot;paid&quot; search result and an &quot;organic&quot; one.&lt;/li&gt;\n&lt;li&gt;Organizational Skills: Ability to manage multiple small tasks and deadlines at once without losing track of progress.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Internship&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a data-curious, detail-oriented Paid Media Intern to join our Digital Paid Media team. You won’t just be watching from the sidelines, you’ll be helping manage real budgets across Google, Bing, and LinkedIn. This is a &quot;hands on&quot; internship where you’ll learn the mechanics of digital advertising, from building campaigns to analyzing why an ad worked (or why it didn’t).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Get to Do&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Campaign Execution: Assist in the technical setup and launch of live campaigns across Google, Bing, and LinkedIn.&lt;/li&gt;\n&lt;li&gt;Creative Coordination: Partner with the team to manage creative assets, ensuring we have the correct, up-to-date images and videos for every campaign.&lt;/li&gt;\n&lt;li&gt;Ad Copywriting &amp;amp; Auditing: Help manage our global paid search copy. You will write and review headlines and descriptions to ensure they are clear, follow Okta’s brand voice and guidelines, and stay within search engine character limits and best practices.&lt;/li&gt;\n&lt;li&gt;Data &amp;amp; Reporting: Pull performance data into spreadsheets to help the team track key metrics like Cost per Click, Cost per Lead, and Conversion Rate.&lt;/li&gt;\n&lt;li&gt;Competitor Research: Analyze competitor ads and keywords and market behavior to identify new opportunities for us to improve our search rankings.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who We are Looking For&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Current Student: Enrolled in a Bachelor’s or Master’s program (Marketing, Business, Data Analytics, or Communications preferred) with an expected graduation date of either Dec. 2026 or May/June 2027.&lt;/li&gt;\n&lt;li&gt;Software Basics: Proficient in Excel/Google Sheets (organizing data and basic formulas) and Google Slides (building clean, simple decks for team updates).&lt;/li&gt;\n&lt;li&gt;Strong Writing: Ability to write clear and concise copy. You should be able to explain complex ideas in just a few words (essential for ad headlines).&lt;/li&gt;\n&lt;li&gt;Analytical Mindset: You enjoy looking at data to find patterns and are comfortable working with numbers.&lt;/li&gt;\n&lt;li&gt;Attention to Detail: High level of accuracy in your work—you are the type of person who double-checks links and spelling before hitting &quot;send.&quot;&lt;/li&gt;\n&lt;li&gt;Platform Curiosity: A basic understanding of the difference between a &quot;paid&quot; search result and an &quot;organic&quot; one.&lt;/li&gt;\n&lt;li&gt;Organizational Skills: Ability to manage multiple small tasks and deadlines at once without losing track of progress.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
     "fingerprint": "438575857a845fabbb6c2243baa5fd9fafebabf6de98e26917903475267a8ad6",
     "tags": {
@@ -8317,7 +8317,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/job/Home-Services---Salt-Lake-City/Pharmacy-Intern-Level-1---Homecare-South-Jordan---PRN-2_R161145",
-    "job_posted_at_datetime_utc": "2026-02-23T21:03:15.020Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:16:17.174Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "68afdd746c2f1ffefe5ac7c934a487f3004df1245f17df9e1d25dce7d43a8198",
@@ -8334,7 +8334,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:03:15.020Z"
+    "job_posted_at": "2026-02-23T21:16:17.174Z"
   },
   {
     "job_id": "workday-caterpillar-R0000352278",
@@ -8345,7 +8345,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Boonville-Missouri/Part-Time-Intern---Order-to-Delivery_R0000352278",
-    "job_posted_at_datetime_utc": "2026-02-23T21:01:55.891Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:14:53.999Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "db47e17ac2ece31914f046b0911b9ed4048563d86dde00883ae10c9fbdd9c795",
@@ -8362,7 +8362,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:01:55.891Z"
+    "job_posted_at": "2026-02-23T21:14:53.999Z"
   },
   {
     "job_id": "workday-applied-materials-R2613400",
@@ -8373,7 +8373,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Summer-Process-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613400",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:50.906Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5744ad90b2c08430c4c861ca8dfeb171f45973bcf59c48dae79a201d86fac36e",
@@ -8390,7 +8390,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:52.471Z"
+    "job_posted_at": "2026-02-23T21:10:50.906Z"
   },
   {
     "job_id": "workday-applied-materials-R2613407",
@@ -8401,7 +8401,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Summer-Mechanical-Engineer-Intern--Bachelor-s--Kalispell--MT-_R2613407",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:50.906Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "779d92cc2ffca45e0aca3b0bcb0e57297234804eaef9bf6f6592ca137bfff859",
@@ -8418,7 +8418,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:52.471Z"
+    "job_posted_at": "2026-02-23T21:10:50.906Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234416",
@@ -8429,7 +8429,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Crane-IN/University--Data-Engineering-Intern_R0234416",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:29.097Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:27.034Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b9cebfe7a8b64c64d13ddc4b4b9f3faf3c4c872ab9fe88e4a899635836e9a646",
@@ -8446,7 +8446,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:29.097Z"
+    "job_posted_at": "2026-02-23T21:10:27.034Z"
   },
   {
     "job_id": "workday-leidos-R-00173789",
@@ -8457,7 +8457,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Orlando-FL/Civil-Transmission-Line-Engineering-Intern_R-00173789",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:05.300Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:02.961Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "445b35f0d97223e61205a2dc0acd65b3cb91a24f693bd2156ac94e94751c8e69",
@@ -8474,7 +8474,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:05.300Z"
+    "job_posted_at": "2026-02-23T21:10:02.961Z"
   },
   {
     "job_id": "workday-nvidia-JR2008573",
@@ -8485,7 +8485,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573",
-    "job_posted_at_datetime_utc": "2026-02-23T20:55:17.437Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:08:17.833Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "48d6b39de2163791d482df8dd2ede83f045eaac14f8dd79b1addc38655f09375",
@@ -8504,7 +8504,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:55:17.437Z"
+    "job_posted_at": "2026-02-23T21:08:17.833Z"
   },
   {
     "job_id": "greenhouse-vercel-5810803004",
@@ -8545,7 +8545,7 @@
     "job_is_remote": true,
     "job_apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7616761",
     "job_posted_at_datetime_utc": "2026-02-23T11:03:03-05:00",
-    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;See yourself at Twilio&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;Join the team as Twilio’s next Marketing Analyst Intern, Employer Brand!&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;About the job&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Employer Brand sits at the intersection of marketing, storytelling, and talent strategy. Our mission is simple: help the right people discover Twilio, understand our culture, and imagine themselves building here.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;But powerful stories need proof. That’s where you come in.&lt;/div&gt;\n&lt;div&gt;You’ll transform data into direction. Tracking performance across channels, identifying what resonates most with candidates, and building the reporting foundation that shapes our strategy. You won’t just observe the work, you’ll help define how we measure success across the entire function.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;If you’re excited by analytics, love organizing chaos into clarity, and want your work to influence real business decisions, you will be a great fit for this role.&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;In this role, you’ll gain experience in:&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Channel Assessment&amp;nbsp;\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Evaluate the data generated from each channel and define a structured methodology for data collection.&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Define and document Employer Brand metrics and data sources&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Metrics &amp;amp; Tracking Infrastructure\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Build and maintain a sustainable tracking system (ie Airtable, Excel)&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Build leadership-ready outputs that can be reused in EB and TA forums&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Ensure data consistency and reporting hygiene&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Measurement &amp;amp; Analysis\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Establish a baseline view of Employer Brand performance across priority channels&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Track awareness, engagement, and behavior signals and roll up insights&amp;nbsp;&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Identify top-performing channels, formats, and content themes&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Analyze trends and directional performance&amp;nbsp;&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Partner with Employer Brand and TA team members to validate insights&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Cross-Team Support\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Act as an ambassador of the Twilio intern program and support intern community engagement.&amp;nbsp;&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Support employer brand operations across projects as needed.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;ql-indent-1&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Qualifications&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn&#39;t followed a traditional path, don&#39;t let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Currently pursuing or recently completed a degree in Data Analytics, Marketing or a related field&lt;/li&gt;\n&lt;li&gt;Strong analytical and organizational skills with attention to detail&lt;/li&gt;\n&lt;li&gt;Comfortable collecting and manipulating with data in spreadsheets (Excel, Google Sheets)&lt;/li&gt;\n&lt;li&gt;Ability to synthesize data into clear, concise insights&lt;/li&gt;\n&lt;li&gt;Strong written communication skills&lt;/li&gt;\n&lt;li&gt;Self-starter who can manage weekly project tracking and deadlines independently&lt;/li&gt;\n&lt;li&gt;Ability to build presentation materials (Google Slides, Canva)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Desired&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with Google Analytics, or similar platforms&lt;/li&gt;\n&lt;li&gt;Interest in Employer Brand, Recruitment Marketing, or Talent Analytics&lt;/li&gt;\n&lt;li&gt;Experience with Airtable or dashboard-style tracking tools&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Location&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;This role will be remote,&lt;em&gt; &lt;/em&gt;but is not eligible to be hired in CA, CT, NJ, NY, PA, or WA.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;*Please note the salary range information provided applies only to candidates residing in California, Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Washington D.C., and Washington State due to local requirements. Compensation for candidates in other locations will be discussed during the hiring process. Please note that hiring for this role is not restricted to the locations listed above.&lt;/em&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;The estimated pay ranges for this role are as follows:&lt;/div&gt;\n&lt;div&gt;Based in Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Vermont, or Washington D.C.: $24.00/hourly&lt;/div&gt;\n&lt;div&gt;Based in New York, New Jersey, Washington State, or California (outside of the San Francisco Bay area): $26.00/hourly&lt;/div&gt;\n&lt;div&gt;Based in the San Francisco Bay area, California: $29.00/hourly&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location within the state.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Applications for the role will be accepted on an ongoing basis.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Twilio thinks big. Do you?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That&#39;s why we seek out colleagues who embody our values — something we call &lt;a href=&quot;https://www.twilio.com/company/values&quot;&gt;Twilio Magic&lt;/a&gt;. Additionally, we empower employees to build &lt;a href=&quot;https://twilio.org/support-and-resources/impact-fund&quot;&gt;positive change in their communities&lt;/a&gt; by supporting their volunteering and donation efforts.&lt;/p&gt;\n&lt;p&gt;So, if you&#39;re ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn&#39;t what you&#39;re looking for, &lt;a href=&quot;https://www.twilio.com/company/jobs#open-positions&quot;&gt;please consider other open positions.&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Twilio is proud to be an equal opportunity employer.&lt;/strong&gt; We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;See yourself at Twilio&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;Join the team as Twilio’s next Marketing Analyst Intern, Employer Brand!&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;About the job&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Employer Brand sits at the intersection of marketing, storytelling, and talent strategy. Our mission is simple: help the right people discover Twilio, understand our culture, and imagine themselves building here.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;But powerful stories need proof. That’s where you come in.&lt;/div&gt;\n&lt;div&gt;You’ll transform data into direction. Tracking performance across channels, identifying what resonates most with candidates, and building the reporting foundation that shapes our strategy. You won’t just observe the work, you’ll help define how we measure success across the entire function.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;If you’re excited by analytics, love organizing chaos into clarity, and want your work to influence real business decisions, you will be a great fit for this role.&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;In this role, you���ll gain experience in:&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Channel Assessment&amp;nbsp;\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Evaluate the data generated from each channel and define a structured methodology for data collection.&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Define and document Employer Brand metrics and data sources&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Metrics &amp;amp; Tracking Infrastructure\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Build and maintain a sustainable tracking system (ie Airtable, Excel)&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Build leadership-ready outputs that can be reused in EB and TA forums&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Ensure data consistency and reporting hygiene&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Measurement &amp;amp; Analysis\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Establish a baseline view of Employer Brand performance across priority channels&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Track awareness, engagement, and behavior signals and roll up insights&amp;nbsp;&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Identify top-performing channels, formats, and content themes&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Analyze trends and directional performance&amp;nbsp;&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Partner with Employer Brand and TA team members to validate insights&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Cross-Team Support\n&lt;ul&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Act as an ambassador of the Twilio intern program and support intern community engagement.&amp;nbsp;&lt;/li&gt;\n&lt;li class=&quot;ql-indent-1&quot;&gt;Support employer brand operations across projects as needed.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;ql-indent-1&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Qualifications&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn&#39;t followed a traditional path, don&#39;t let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Currently pursuing or recently completed a degree in Data Analytics, Marketing or a related field&lt;/li&gt;\n&lt;li&gt;Strong analytical and organizational skills with attention to detail&lt;/li&gt;\n&lt;li&gt;Comfortable collecting and manipulating with data in spreadsheets (Excel, Google Sheets)&lt;/li&gt;\n&lt;li&gt;Ability to synthesize data into clear, concise insights&lt;/li&gt;\n&lt;li&gt;Strong written communication skills&lt;/li&gt;\n&lt;li&gt;Self-starter who can manage weekly project tracking and deadlines independently&lt;/li&gt;\n&lt;li&gt;Ability to build presentation materials (Google Slides, Canva)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Desired&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with Google Analytics, or similar platforms&lt;/li&gt;\n&lt;li&gt;Interest in Employer Brand, Recruitment Marketing, or Talent Analytics&lt;/li&gt;\n&lt;li&gt;Experience with Airtable or dashboard-style tracking tools&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Location&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;This role will be remote,&lt;em&gt; &lt;/em&gt;but is not eligible to be hired in CA, CT, NJ, NY, PA, or WA.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;*Please note the salary range information provided applies only to candidates residing in California, Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Washington D.C., and Washington State due to local requirements. Compensation for candidates in other locations will be discussed during the hiring process. Please note that hiring for this role is not restricted to the locations listed above.&lt;/em&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;The estimated pay ranges for this role are as follows:&lt;/div&gt;\n&lt;div&gt;Based in Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Vermont, or Washington D.C.: $24.00/hourly&lt;/div&gt;\n&lt;div&gt;Based in New York, New Jersey, Washington State, or California (outside of the San Francisco Bay area): $26.00/hourly&lt;/div&gt;\n&lt;div&gt;Based in the San Francisco Bay area, California: $29.00/hourly&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location within the state.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Applications for the role will be accepted on an ongoing basis.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Twilio thinks big. Do you?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That&#39;s why we seek out colleagues who embody our values — something we call &lt;a href=&quot;https://www.twilio.com/company/values&quot;&gt;Twilio Magic&lt;/a&gt;. Additionally, we empower employees to build &lt;a href=&quot;https://twilio.org/support-and-resources/impact-fund&quot;&gt;positive change in their communities&lt;/a&gt; by supporting their volunteering and donation efforts.&lt;/p&gt;\n&lt;p&gt;So, if you&#39;re ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn&#39;t what you&#39;re looking for, &lt;a href=&quot;https://www.twilio.com/company/jobs#open-positions&quot;&gt;please consider other open positions.&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Twilio is proud to be an equal opportunity employer.&lt;/strong&gt; We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
     "fingerprint": "b59ae4ee2a80d5a8f901dae998a58c2a7db66eb292692ad8104dd299b8163da6",
     "tags": {
@@ -10768,7 +10768,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Illinois-US-Offsite/FedRAMP-and-Cloud-Security-Internship-2026_R62182",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "d6ed15503159bd3e7b2424b6c84b4f23596740b4b790377a3bb3566143ed2b5a",
@@ -10785,7 +10785,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Georgia Remote Work",
@@ -10796,7 +10796,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Georgia-Remote-Work/Cybersecurity-Internship-2026_R62178",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8359f41cd298b51e932a8cc15d1e14ba8a7cdbedf4dc758a1405dd7605d32abb",
@@ -10814,7 +10814,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Irvine, CA (CA188)",
@@ -10825,7 +10825,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7f67b19a8bc2387365a5c824c35c701498cc020f8a639e933dd9d84ed7d57fb0",
@@ -10842,7 +10842,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Los Angeles, CA (CA187)",
@@ -10853,7 +10853,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Los-Angeles-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62375",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b90494c8176ffced92284bc143ce1616e7079e3f17a8990bd5b271d60ad8c570",
@@ -10870,7 +10870,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-San Diego, CA (CA189)",
@@ -10881,7 +10881,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/San-Diego-CA/Intern---Radio-Frequency--RF--Test-and-Circuit-Design-Engineer---2026_R62374",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7259af3c8351f3116db98108c7076cc151a73079e3f53f0fc77a583e9a2615ae",
@@ -10898,7 +10898,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Los Angeles, CA (CA187)",
@@ -10909,7 +10909,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Los-Angeles-CA/Intern---Mechanical-Engineer---2026_R62371",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1b9e7c19c3c0946c57c4b4c6191636b3260ec5c25d0693e8b3ec8a0bf5ee5b20",
@@ -10926,7 +10926,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Los Angeles, CA (CA187)",
@@ -10937,7 +10937,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1e15f30120c39dc6c8809e553623f9d03dbbbf0478baa6b7a57efc1cb503b4bd",
@@ -10954,7 +10954,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Los Angeles, CA (CA187)",
@@ -10965,7 +10965,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Los-Angeles-CA/R-D-Intern---Test-Engineer---2026_R62377",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "632454821a021fd0a79cf052221e5093df92d3af3899e778582fd5c6a10f4a92",
@@ -10982,7 +10982,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Irvine, CA (CA188)",
@@ -10993,7 +10993,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e00d0c51a45d12504b5d3bae605fd02713d954987c79c3226a914ea3c52dfcf8",
@@ -11010,7 +11010,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-motorola-solutions-Los Angeles, CA (CA187)",
@@ -11021,7 +11021,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Los-Angeles-CA/Intern---Software-Test-Engineer---2026_R62370",
-    "job_posted_at_datetime_utc": "2026-02-20T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:13:42.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "223cc4068ef2672b47ad55ffd577b6000052459fe0f926e338034b0344ca9c48",
@@ -11038,7 +11038,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T21:00:44.176Z"
+    "job_posted_at": "2026-02-20T21:13:42.043Z"
   },
   {
     "job_id": "workday-applied-materials-R2611774",
@@ -11049,7 +11049,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-Electrical-Engineer-Intern---Masters--Santa-Clara--CA-_R2611774",
-    "job_posted_at_datetime_utc": "2026-02-20T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:10:50.907Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5ef6e5e5ad8629efa78211abb5e853b87b1d976fcc7f21e9bc152371e4fefd3e",
@@ -11066,7 +11066,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T20:57:52.471Z"
+    "job_posted_at": "2026-02-20T21:10:50.907Z"
   },
   {
     "job_id": "workday-applied-materials-R2612898",
@@ -11077,7 +11077,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Java-Developer_R2612898",
-    "job_posted_at_datetime_utc": "2026-02-20T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:10:50.907Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a3e97ffd27df2c4182f1dec1f9b1030158ac3c33f914d9b7e3717ca1ab80a3ab",
@@ -11094,7 +11094,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T20:57:52.471Z"
+    "job_posted_at": "2026-02-20T21:10:50.907Z"
   },
   {
     "job_id": "workday-applied-materials-R2612739",
@@ -11105,7 +11105,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-Software-Engineer-Intern--Bachelor-s--Austin--TX-_R2612739",
-    "job_posted_at_datetime_utc": "2026-02-20T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:10:50.907Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "cf72c4efe008d9fd04e32ddc9dd19b10b73c7a1d599e60a7a5ab4d6d6640da1e",
@@ -11122,7 +11122,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T20:57:52.471Z"
+    "job_posted_at": "2026-02-20T21:10:50.907Z"
   },
   {
     "job_id": "workday-applied-materials-R2612735",
@@ -11133,7 +11133,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/XMLNAME-2026-Summer-Chemical-Engineer-Intern--Bachelor-s--Austin--TX-_R2612735",
-    "job_posted_at_datetime_utc": "2026-02-20T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-20T21:10:50.907Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1d0288556a6dad3c5775514f6f32e9338f8c99cbe3711bc1d313541727ab1a15",
@@ -11150,7 +11150,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T20:57:52.471Z"
+    "job_posted_at": "2026-02-20T21:10:50.907Z"
   },
   {
     "job_id": "greenhouse-twilio-7560246",
@@ -11842,7 +11842,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/job/Lafayette---Acadiana-Region---Louisiana/LPN--Clinic---OUHC-Internal-Medicine-Clinic-GME---Full-Time_REQ_00252162",
-    "job_posted_at_datetime_utc": "2026-02-19T21:04:16.050Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:17:18.338Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5aba45f8b7fdad5ddc1e53bdfea469c5bf35fa8373fcb91a7f1f766803037346",
@@ -11859,7 +11859,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T21:04:16.050Z"
+    "job_posted_at": "2026-02-19T21:17:18.338Z"
   },
   {
     "job_id": "workday-zendesk-R34007",
@@ -11870,7 +11870,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://zendesk.wd1.myworkdayjobs.com/job/San-Francisco-California-United-States-of-America/Intern--Product-Design_R34007",
-    "job_posted_at_datetime_utc": "2026-02-19T21:01:32.789Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:14:31.549Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0c57348f658ca45dc695f6b2ea4cf21240e312850680b3909db1680e565995b4",
@@ -11887,7 +11887,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T21:01:32.789Z"
+    "job_posted_at": "2026-02-19T21:14:31.549Z"
   },
   {
     "job_id": "workday-ge-healthcare-R4036439",
@@ -11898,7 +11898,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://gehc.wd5.myworkdayjobs.com/job/IL03-01-Chicago-500-W-Monroe-St/Business-Auditor--GE-HealthCare-Internal-Audit--Chicago---Hybrid-_R4036439-1",
-    "job_posted_at_datetime_utc": "2026-02-19T21:00:59.873Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:13:58.316Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "510197cd05d9aeda77c3762494dbb3bc869561ff69d19833ed365001794f3c57",
@@ -11915,7 +11915,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T21:00:59.873Z"
+    "job_posted_at": "2026-02-19T21:13:58.316Z"
   },
   {
     "job_id": "workday-cadence-R53361",
@@ -11926,7 +11926,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Product-Engineer-Intern_R53361-1",
-    "job_posted_at_datetime_utc": "2026-02-19T21:00:21.795Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:13:20.510Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0ced11907fa91d19a0830ec5bf60e08d74489697bff3d42864f3e80739d0a058",
@@ -11943,7 +11943,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T21:00:21.795Z"
+    "job_posted_at": "2026-02-19T21:13:20.510Z"
   },
   {
     "job_id": "workday-applied-materials-R2613047",
@@ -11954,7 +11954,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-TKM-Supply-Chain-Intern--Bachelor-s--Santa-Clara--CA-_R2613047",
-    "job_posted_at_datetime_utc": "2026-02-19T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:10:50.907Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "479b883cab050841cf8a76409e86b6f527801946b77d35ed05d6d1ae1594861e",
@@ -11971,7 +11971,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T20:57:52.471Z"
+    "job_posted_at": "2026-02-19T21:10:50.907Z"
   },
   {
     "job_id": "greenhouse-databricks-7295056002",
@@ -12071,7 +12071,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/job/Wilkes-Barre-PA/Clinical-Co-Op---Community-Pharmacy-Wilkes-Barre_R-92402",
-    "job_posted_at_datetime_utc": "2026-02-18T21:03:51.311Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:16:53.663Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "838defa9211a39ab2bd54a97a32317efe32b4031c3265216d7d134871c6b59a8",
@@ -12088,7 +12088,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:03:51.311Z"
+    "job_posted_at": "2026-02-18T21:16:53.663Z"
   },
   {
     "job_id": "workday-proofpoint-R13738",
@@ -12099,7 +12099,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/Business-Operations-Intern--TPG---PMO-_R13738",
-    "job_posted_at_datetime_utc": "2026-02-18T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:15:02.826Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c5a8cff8e847c86daababc3ab3f84936756a20b1b3eda35845a322218d878ccf",
@@ -12116,7 +12116,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:02:04.918Z"
+    "job_posted_at": "2026-02-18T21:15:02.826Z"
   },
   {
     "job_id": "workday-proofpoint-R13741",
@@ -12127,7 +12127,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Draper-UT/Sales-Support-Intern_R13741",
-    "job_posted_at_datetime_utc": "2026-02-18T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:15:02.826Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "f0693ec63a092ce87661c57d9bca3b04ce4279ca88cdb2a8fa4973b7f005c9b8",
@@ -12144,7 +12144,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:02:04.918Z"
+    "job_posted_at": "2026-02-18T21:15:02.826Z"
   },
   {
     "job_id": "workday-proofpoint-R13737",
@@ -12155,7 +12155,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/job/Sunnyvale-CA/Accounting-Intern_R13737",
-    "job_posted_at_datetime_utc": "2026-02-18T21:02:04.918Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:15:02.826Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "da3834b6e1741d878024d48735202e008ec216415c3ee9696a89c18f1459051a",
@@ -12172,7 +12172,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:02:04.918Z"
+    "job_posted_at": "2026-02-18T21:15:02.826Z"
   },
   {
     "job_id": "workday-motorola-solutions-Plantation, FL (FL08)",
@@ -12183,7 +12183,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2026_R58149-1",
-    "job_posted_at_datetime_utc": "2026-02-18T21:00:44.176Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:13:42.044Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b8b0d0751f6cc7382b771f2e898d7e552627ffca634d857eb2e5695a15bc58fd",
@@ -12200,7 +12200,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:00:44.176Z"
+    "job_posted_at": "2026-02-18T21:13:42.044Z"
   },
   {
     "job_id": "workday-blue-origin-R60894",
@@ -12211,7 +12211,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Associate-Engineering-Intern--Summer-2026-_R60894",
-    "job_posted_at_datetime_utc": "2026-02-18T21:00:00.980Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:13:00.190Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "088399465d4e4a83e77e2223c44c60c597791bab5fbf16defc170ee56fee0150",
@@ -12228,7 +12228,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:00:00.980Z"
+    "job_posted_at": "2026-02-18T21:13:00.190Z"
   },
   {
     "job_id": "workday-blue-origin-R56124",
@@ -12239,7 +12239,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Summer-2026-Corporate-Development-Intern---Graduate_R56124",
-    "job_posted_at_datetime_utc": "2026-02-18T21:00:00.980Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:13:00.190Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "053ffbb460113470970e2a1ee943a07ecf0cd61e3273b3c7cb96f9c36f251a13",
@@ -12256,7 +12256,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:00:00.980Z"
+    "job_posted_at": "2026-02-18T21:13:00.190Z"
   },
   {
     "job_id": "workday-applied-materials-R2613287",
@@ -12267,7 +12267,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/AlbanyNY/XMLNAME-2026-Summer-Process-Engineer-Intern---Adv-Degree--Albany--NY-_R2613287",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "cb1c0634e87cae9b12d0466f8e78ddfdb925d68478dedc59f0e3f191be74d46e",
@@ -12284,7 +12284,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:52.471Z"
+    "job_posted_at": "2026-02-18T21:10:50.908Z"
   },
   {
     "job_id": "workday-applied-materials-R2612194",
@@ -12295,7 +12295,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Machinist-Intern---Associate-s--Kalispell-_R2612194",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "fff30f7708ff12a72569703495d7b671e50d5a6d531956ef82811178ad16e267",
@@ -12312,7 +12312,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:52.471Z"
+    "job_posted_at": "2026-02-18T21:10:50.908Z"
   },
   {
     "job_id": "workday-applied-materials-R2611780",
@@ -12323,7 +12323,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/XMLNAME-2026-Summer----Industrial-Engineer-Intern_R2611780-1",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "61bd866797720a1c91a70766f2c9f134bea9006545f5168ef3d999c499fd88f9",
@@ -12340,7 +12340,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:52.471Z"
+    "job_posted_at": "2026-02-18T21:10:50.908Z"
   },
   {
     "job_id": "workday-applied-materials-R2613056",
@@ -12351,7 +12351,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-Pricing-Analyst-Product-Marketing-Intern--Master-s--Santa-Clara--CA-_R2613056",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "471a4012e25538b86c42d2f055fa13f109e0f9f34144f0fdcf426ab6b7c9716a",
@@ -12368,7 +12368,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:52.471Z"
+    "job_posted_at": "2026-02-18T21:10:50.908Z"
   },
   {
     "job_id": "workday-applied-materials-R2613267",
@@ -12379,7 +12379,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-Summer-Industrial-Engineering-Intern--Master-s--Santa-Clara--CA-_R2613267",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e778e80757986599df3a8150342044e69add39ddd88ab59a6ab358a8163cb2cc",
@@ -12396,7 +12396,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:52.471Z"
+    "job_posted_at": "2026-02-18T21:10:50.908Z"
   },
   {
     "job_id": "workday-applied-materials-R2613039",
@@ -12407,7 +12407,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/AI-Research-Intern_R2613039",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "48079a455466300630a988c58b569639047fc746aba56a89371adb2ec2543219",
@@ -12424,7 +12424,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:52.471Z"
+    "job_posted_at": "2026-02-18T21:10:50.908Z"
   },
   {
     "job_id": "workday-salesforce-JR329752",
@@ -12435,7 +12435,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---San-Francisco/Summer-2026-Intern---Product-Marketing_JR329752-1",
-    "job_posted_at_datetime_utc": "2026-02-18T20:55:39.728Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:08:39.604Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a45418c5ee631dc17744d90a95769daa6f0b4abbd03f3e77a5bbd237519e09a8",
@@ -12452,7 +12452,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:55:39.728Z"
+    "job_posted_at": "2026-02-18T21:08:39.604Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92231",
@@ -12463,7 +12463,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/job/Wilkes-Barre-PA/Intern-Undergraduate--Wilkes-Barre-_R-92231",
-    "job_posted_at_datetime_utc": "2026-02-17T21:03:51.311Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:16:53.664Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "bc0ab245074f85c560852230932bc88478a8bd3463a869d6e46503624ae2848b",
@@ -12480,7 +12480,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T21:03:51.311Z"
+    "job_posted_at": "2026-02-17T21:16:53.664Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92232",
@@ -12491,7 +12491,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/job/Scranton-PA/Intern-Undergraduate--Scranton-_R-92232",
-    "job_posted_at_datetime_utc": "2026-02-17T21:03:51.311Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:16:53.664Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2c85058eda578ac7cb5b4978f732778dae45efd72e021f16d3f6bbd22aac65fa",
@@ -12508,7 +12508,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T21:03:51.311Z"
+    "job_posted_at": "2026-02-17T21:16:53.664Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92175",
@@ -12519,7 +12519,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/job/Danville-PA/Intern-Undergraduate--Danville-_R-92175-1",
-    "job_posted_at_datetime_utc": "2026-02-17T21:03:51.311Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:16:53.664Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "fc4e62f07913bc26d1a0e7fd5f6d78ea497d81fc973bdef2a6fd6337be839421",
@@ -12536,7 +12536,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T21:03:51.311Z"
+    "job_posted_at": "2026-02-17T21:16:53.664Z"
   },
   {
     "job_id": "workday-applied-materials-R2612947",
@@ -12547,7 +12547,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Machine-Control-Software-Developer-Intern_R2612947",
-    "job_posted_at_datetime_utc": "2026-02-17T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "f86a9ccb0fc069f1166aad0e5d898ec69ce261b3817c6d2e4437ff5d35b13dab",
@@ -12564,7 +12564,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T20:57:52.471Z"
+    "job_posted_at": "2026-02-17T21:10:50.908Z"
   },
   {
     "job_id": "workday-applied-materials-R2612275",
@@ -12575,7 +12575,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Summer-2026-Mechanical-Engineer-Intern--Bachelor-s--Santa-Clara--CA-_R2612275",
-    "job_posted_at_datetime_utc": "2026-02-17T20:57:52.471Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:10:50.908Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9e94c1f75cb74a86118f91b6c0aec86cc3ab6af10d4c6ce813891cff7ef4ec5f",
@@ -12592,7 +12592,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T20:57:52.471Z"
+    "job_posted_at": "2026-02-17T21:10:50.908Z"
   },
   {
     "job_id": "workday-salesforce-JR329802",
@@ -12603,7 +12603,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/Washington---Seattle/Summer-2026-Intern---Global-Field-Marketing--Paid-Media_JR329802-1",
-    "job_posted_at_datetime_utc": "2026-02-17T20:55:39.728Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:08:39.604Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "39ac7defd64adb349f5f2eca3f0073ca75822c38a0b34d7fa27d29ff9a65b6d5",
@@ -12620,7 +12620,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T20:55:39.728Z"
+    "job_posted_at": "2026-02-17T21:08:39.604Z"
   },
   {
     "job_id": "workday-geisinger-health-R-91308",
@@ -12631,7 +12631,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/job/Danville-PA/Intern-Undergraduate_R-91308",
-    "job_posted_at_datetime_utc": "2026-02-16T21:03:51.311Z",
+    "job_posted_at_datetime_utc": "2026-02-16T21:16:53.664Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "cf2aa905781a7f684f72fde527ea334198f98a6d2bd8279ecb11eac01ff23da0",
@@ -12648,7 +12648,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-16T21:03:51.311Z"
+    "job_posted_at": "2026-02-16T21:16:53.664Z"
   },
   {
     "job_id": "workday-nvidia-JR2007611",
@@ -12659,7 +12659,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Applied-Deep-Learning-Scientist-Intern--Bio-Foundation-Model-Research---Summer-2026_JR2007611",
-    "job_posted_at_datetime_utc": "2026-02-16T20:55:17.438Z",
+    "job_posted_at_datetime_utc": "2026-02-16T21:08:17.834Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "048ed76396d390008ab7711bce23c5e85b7498789478a8fc013849e7040cbd54",
@@ -12678,6 +12678,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-16T20:55:17.438Z"
+    "job_posted_at": "2026-02-16T21:08:17.834Z"
   }
 ]
