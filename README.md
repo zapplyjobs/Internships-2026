@@ -14,7 +14,7 @@
 ![Other Internshi](https://img.shields.io/badge/Other_Internships-188-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 12:30 PM CST
+> ⏱ Last updated: Mar 1, 12:38 PM CST
 
 
 
@@ -75,7 +75,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Stripe** | Software Engineer, Internal Systems | Seattle | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) |
+| 🏢 **Stripe** | Software Engineer, Internal Systems | Seattle | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) |
 | 🏢 **NTrepid LLC** | Software Engineer Intern (Summer 2026) | Gaithersburg | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.womensjoblist.com/job/usa/gaithersburg-md/software-engineer-intern-summer-2026-137131/) |
 | 🛡️ **BAE Systems** | Software Developer Intern (Onsite) 🏠 | Durham | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/121698BR/Software-Developer-Intern-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Citadel** | Software Engineer - Intern (US) | Miami | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
