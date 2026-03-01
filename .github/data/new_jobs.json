@@ -725,62 +725,6 @@
     "job_posted_at": "2026-02-27T20:00:00.000Z"
   },
   {
-    "job_id": "workday-saint-luke's-health-system-JobReq0056033",
-    "job_title": "Pharmacy Intern Year 1",
-    "employer_name": "Saint Luke's Health System",
-    "job_city": "Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-1_JobReq0056033",
-    "job_posted_at_datetime_utc": "2026-02-27T19:32:02.098Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3b99cab0f78f7cfcdac57053fe52878b79f4c4274841178272feaba74a7b82e1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T19:32:02.098Z"
-  },
-  {
-    "job_id": "workday-saint-luke's-health-system-JobReq0056035",
-    "job_title": "Pharmacy Intern Year 2",
-    "employer_name": "Saint Luke's Health System",
-    "job_city": "Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-2_JobReq0056035",
-    "job_posted_at_datetime_utc": "2026-02-27T19:32:02.098Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "231b40392c669d07112720b682b49ba478921af490caadeb1133d1aa405d40fa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T19:32:02.098Z"
-  },
-  {
     "job_id": "workday-ochsner-health-REQ_00255404",
     "job_title": "CNA - Internal Medicine/Telemetry -  Jeff Hwy - Full Time Nights",
     "employer_name": "Ochsner Health",
@@ -8473,7 +8417,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineering-internships-new-grad-roles-at-munters-4368411472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "About The Role\n\nMTech Systems is an AI‑powered FarmTech and SaaS software company supporting the global poultry and protein industry. We’re looking for students and early‑career talent who are excited to work on real‑world software, data, and AI challenges that directly impact how food is produced worldwide.\n\nIf you’ve ever eaten chicken or eggs, there’s a strong chance our software helped bring it to your table.\n\nWhat You’ll Work On\n\nDepending on your background and interests, you may support projects involving:\n• Software development (web, backend, or platform)\n• Data analytics, reporting, and business intelligence\n• Cloud‑based SaaS applications\n• AI‑driven insights and automation\n• Product, QA, or systems support\n\nYou’ll collaborate with experienced engineers, product managers, and data teams while learning how enterprise software is built and deployed at scale.\n\nWhat We’re Looking For\n• Currently pursuing or recently completed a degree in CS, Engineering, IT, Data, Analytics, or related fields\n• Interest in AI, software, data, or cloud technology\n• Curiosity, strong problem‑solving skills, and a willingness to learn\n• Bonus (not required): experience with programming, data tools, or analytics projects\n\nWhy MTech Systems\n• Work on AI‑driven SaaS products with real‑world impact\n• Learn how technology supports farm‑to‑table poultry production\n• Gain exposure to enterprise systems used by major companies like Tyson, Perdue, and Pilgrim’s\n• Join a collaborative, growth‑oriented team",
+    "job_description": "About The Role\n\nMTech Systems is an AI‑powered FarmTech and SaaS software company supporting the global poultry and protein industry. We’re looking for students and early‑career talent who are excited to work on real‑world software, data, and AI challenges that directly impact how food is produced worldwide.\n\nIf you’ve ever eaten chicken or eggs, there’s a strong chance our software helped bring it to your table.\n\nWhat You’ll Work On\n\nDepending on your background and interests, you may support projects involving:\n• Software development (web, backend, or platform)\n• Data analytics, reporting, and business intelligence\n• Cloud‑based SaaS applications\n• AI‑driven insights and automation\n• Product, QA, or systems support\n\nYou’ll collaborate with experienced engineers, product managers, and data teams while learning how enterprise software is built and deployed at scale.\n\nWhat We’re Looking For\n• Currently pursuing or recently completed a degree in CS, Engineering, IT, Data, Analytics, or related fields\n�� Interest in AI, software, data, or cloud technology\n• Curiosity, strong problem‑solving skills, and a willingness to learn\n• Bonus (not required): experience with programming, data tools, or analytics projects\n\nWhy MTech Systems\n• Work on AI‑driven SaaS products with real‑world impact\n• Learn how technology supports farm‑to‑table poultry production\n• Gain exposure to enterprise systems used by major companies like Tyson, Perdue, and Pilgrim’s\n• Join a collaborative, growth‑oriented team",
     "job_employment_type": "INTERNSHIP",
     "fingerprint": "aba1e66089f8567f15dca59c2ca8e5187113ced5838b7414e66ca333dff2b80a",
     "tags": {
@@ -9150,34 +9094,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-23T14:43:09-05:00"
-  },
-  {
-    "job_id": "workday-saint-luke's-health-system-JobReq0054889",
-    "job_title": "Nursing Intern",
-    "employer_name": "Saint Luke's Health System",
-    "job_city": "Saint Luke's South Hospital   |   12300 Metcalf Ave   |   Overland Park   |   KS",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-South-Hospital------12300-Metcalf-Ave------Overland-Park------KS/Nursing-Intern_JobReq0054889",
-    "job_posted_at_datetime_utc": "2026-02-23T19:32:02.098Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "c36baba26e37b48d10f7157ed70fbb9fa0efd3586b3ce4e2a84e6495e768ab81",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T19:32:02.098Z"
   },
   {
     "job_id": "workday-intermountain-health-R154005",
@@ -13463,90 +13379,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-18T19:22:55.910Z"
-  },
-  {
-    "job_id": "workday-saint-luke's-health-system-JobReq0055654",
-    "job_title": "Nursing Intern - Medical Surgical - PRN",
-    "employer_name": "Saint Luke's Health System",
-    "job_city": "Saint Luke's North Hospital   |   5830 NW Barry Rd   |   Kansas City   |   MO",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-North-Hospital------5830-NW-Barry-Rd------Kansas-City------MO/Nursing-Intern---Medical-Surgical---PRN_JobReq0055654",
-    "job_posted_at_datetime_utc": "2026-02-17T19:32:02.099Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "9fb2f0e31e4db471ffe0c94925d60dacf47faaf9c3c51ccd2445867b9f824af7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-17T19:32:02.099Z"
-  },
-  {
-    "job_id": "workday-saint-luke's-health-system-JobReq0055520",
-    "job_title": "Nursing Intern",
-    "employer_name": "Saint Luke's Health System",
-    "job_city": "Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-Hospital------4401-Wornall-Rd------Kansas-City------MO/Nursing-Intern_JobReq0055520",
-    "job_posted_at_datetime_utc": "2026-02-17T19:32:02.099Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "53946e3cc2c5092776a6a47b7960d902046e78c2217c65de8fffcac13dfcf09d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-17T19:32:02.099Z"
-  },
-  {
-    "job_id": "workday-saint-luke's-health-system-JobReq0055668",
-    "job_title": "Pharmacy Intern PRN",
-    "employer_name": "Saint Luke's Health System",
-    "job_city": "Saint Luke's South Hospital   |   12300 Metcalf Ave   |   Overland Park   |   KS",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-South-Hospital------12300-Metcalf-Ave------Overland-Park------KS/Pharmacy-Intern-PRN_JobReq0055668",
-    "job_posted_at_datetime_utc": "2026-02-17T19:32:02.099Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "afe7fdb54943a40d4e9a3b71db21da1810c9c41925b0286a5c24549aec474883",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-17T19:32:02.099Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92231",
