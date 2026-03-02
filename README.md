@@ -174,7 +174,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive Surgical** | Database Platform Engineering Intern | Sunnyvale | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000110887226/JOB212664/database-platform-engineering-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Belk** | Summer 2026 Intern: Retail Systems Software Engineer | Charlotte | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.belkcareers.com/job/BELKUSJR98575/Summer-2026-Intern-Retail-Systems-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -284,7 +284,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Munich Re Life US** | Data Science Intern, NA Integrated Analytics (2026 Summer - New York) 🏠 | Unknown | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/data-science-intern-na-integrated-analytics-2026-summer-new-york-munich-re-JV_KO0,64_KE65,74.htm?jl=1010042699431&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Johnson & Johnson Services, Inc.** | Clinical Data Science Electrophysiology - Machine Learning Intern 🏠 | Irvine | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careers.jnj.com/fr-ca/jobs/r-056164/clinical-data-science-electrophysiology-machine-learning-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -310,7 +310,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | ⚗️ **Applied Materials** | 2026 Summer Pricing Analyst Product Marketing Intern- Master's (Santa Clara, CA) | Santa Clara, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Pricing-Analyst-Product-Marketing-Intern--Master-s--Santa-Clara--CA-_R2613056) |
 | ☁️ **Salesforce** | Summer 2026 Intern - Product Marketing | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Product-Marketing_JR329752-1) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -325,7 +325,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **GE HEALTHCARE** | DevOps Engineer Intern | Cleveland | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4036420EXTERNALENGLOBAL/DevOps-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Adobe** | 2026 Intern - Product Security Engineer | San Jose | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.adobe.com/us/en/job/R161483/2026-Intern-Product-Security-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -339,7 +339,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Enterprise Cybersecurity Education and Awareness Intern | McLean, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Awareness-Intern_R0234485) |
 | 🏢 **Motorola Solutions** | Cybersecurity Internship 2026 | Georgia Remote Work | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Georgia-Remote-Work/Cybersecurity-Internship-2026_R62178) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -361,7 +361,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Motorola Solutions** | Electrical Engineer Intern - Summer 2026 | Plantation, FL | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2026_R58149-1) |
 | ⚗️ **Applied Materials** | Summer 2026 Mechanical Engineer Intern- Bachelor's (Santa Clara, CA) | Santa Clara, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Mechanical-Engineer-Intern--Bachelor-s--Santa-Clara--CA-_R2612275) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -376,7 +376,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Motorola Solutions** | Intern - Software Test Engineer - 2026 | Los Angeles, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Software-Test-Engineer---2026_R62370) |
 | 🏢 **Motorola Solutions** | Intern - Embedded Software, System, and Test Engineer - 2026 | Irvine, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -387,7 +387,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **CrowdStrike** | Human Resources Launch Intern - Summer 2026 | Sunnyvale, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Human-Resources-Launch-Intern---Summer-2026_R27381) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -497,7 +497,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Databricks** | Legal Intern | Mountain View | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8377581002) |
 | 🏢 **HubSpot** | Global Events Marketing Co-op 🏠 | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7592447?gh_jid=7592447) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
