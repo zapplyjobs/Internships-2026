@@ -14,8 +14,6 @@
 ![Other Internshi](https://img.shields.io/badge/Other_Internships-185-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 8:45 PM CST
-
 
 
 </div>
