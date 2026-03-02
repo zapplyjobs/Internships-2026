@@ -14,7 +14,7 @@
 ![Other Internshi](https://img.shields.io/badge/Other_Internships-185-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 7:45 PM CST
+> ⏱ Last updated: Mar 1, 8:00 PM CST
 
 
 
@@ -466,7 +466,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Lucid Motors** | Intern, Battery Cell Performance Optimization, Summer 2026 | Newark, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922167007) |
 | 🏢 **Instacart** | Machine Learning PhD Intern, Economics 🏠 | United States - R... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) |
 | 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
-| 🏢 **Lyft** | Global Security Investigations Analyst Intern (Summer 2026) | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8438500002?gh_jid=8438500002) |
+| 🏢 **Lyft** | Global Security Investigations Analyst Intern (Summer 2026) | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8438500002?gh_jid=8438500002) |
 | 🏢 **Ochsner Health** | LPN - Internal Medicine Clinic - The Grove Baton Rouge | Baton Rouge Regio... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Internal-Medicine-Clinic---The-Grove-Baton-Rouge_REQ_00250457-1) |
 | 🏢 **Intermountain Health** | Advanced Practice Provider Internal Medicine | Billings; Billing... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Billings-Downtown-Clinic/Internal-Medicine-Physician-Downtown-Billings_R66667) |
 | 🏢 **Cleveland Clinic** | PRN RN - ENT Plastics Stepdown/Internal Medicine | Cleveland Clinic ... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/PRN-RN---ENT-Plastics-Stepdown-Internal-Medicine_318508) |
