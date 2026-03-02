@@ -14,7 +14,7 @@
 ![Other Internshi](https://img.shields.io/badge/Other_Internships-185-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 7:00 PM CST
+> ⏱ Last updated: Mar 1, 7:15 PM CST
 
 
 
@@ -400,7 +400,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Cleveland Clinic** | Intern Administrative College (Unpaid) - Office of Physician and APP Recruitment and Alignment | Remote | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Intern-Administrative-College--Unpaid----Office-of-Physician-and-APP-Recruitment-and-Alignment_333250) |
 | 🏢 **Lucid Motors** | Intern, Power Electronics Engineer, Summer 2026 | Newark, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922185007) |
-| ⚗️ **Applied Materials** | AI Intern - AZPI6 | Santa Clara, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/AI-Intern---AZPI6_R2612470) |
+| ⚗️ **Applied Materials** | AI Intern - AZPI6 | Santa Clara, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/AI-Intern---AZPI6_R2612470) |
 | 🏢 **Saint Luke's Health System** | Pharmacy Intern Year 1 | Lees Summit, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-1_JobReq0056033) |
 | 🏢 **Saint Luke's Health System** | Pharmacy Intern Year 2 | Lees Summit, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-2_JobReq0056035) |
 | 🏢 **Ochsner Health** | CNA - Internal Medicine/Telemetry -  Jeff Hwy - Full Time Nights | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Internal-Medicine-Telemetry----Jeff-Hwy---Full-Time-Nights_REQ_00255404) |
