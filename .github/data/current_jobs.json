@@ -17497,32 +17497,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-17T14:41:59-05:00"
-  },
-  {
-    "job_id": "greenhouse-motional-7615090003",
-    "job_title": "2026 Summer Intern –PhD – Foundations: Localization",
-    "employer_name": "Motional",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://motional.com/open-positions/?gh_jid=7615090003#/7615090003",
-    "job_posted_at_datetime_utc": "2026-02-17T11:02:58-05:00",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "180d275c7448c3881e3f63816cdf01b694a844077e4cc8c77bc36d5cb3401a5d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-17T11:02:58-05:00"
   }
 ]
