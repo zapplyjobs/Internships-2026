@@ -9,9 +9,9 @@
 
 # Internships 2026
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-680-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-679-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-237-blue?style=flat&logo=building)
-![Other Internshi](https://img.shields.io/badge/Other_Internships-315-red?style=flat&logo=star)
+![Other Internshi](https://img.shields.io/badge/Other_Internships-314-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -204,9 +204,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **First American** | Data Science Intern | Santa Ana | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/data-science-intern-at-first-american-4379071361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Graybar** | Summer 2026 Intern - Data Science | Chesterfield | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/summer-2026-intern-data-science-at-graybar-4379064426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Proofpoint** | Business Analyst Intern | 8 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Boston-Massachusetts/Business-Analyst-Intern_R13807) |
+| 🏢 **Boeing** | Millennium Space Systems Summer 2026 - Business Development Innovation & Analytics Internship Program | El Segundo, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026---Business-Development-Innovation---Analytics-Internship-Program_JR2026498502-1) |
 | 🏢 **Booz Allen Hamilton** | Financial & Data Analytics Intern | Annapolis Junctio... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Financial---Data-Analytics-Intern_R0234721) |
 | 🏢 **RTX** | Summer 2026 - Data Science Intern (Remote) | Sacramento | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/14d3dbde05d7065b60c175d93178aed6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Boeing** | Millennium Space Systems Summer 2026 - Business Development Innovation & Analytics Internship Program | El Segundo, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026---Business-Development-Innovation---Analytics-Internship-Program_JR2026498502-1) |
 | 🏢 **Johnson & Johnson Services, Inc.** | Data Science - Multi-Omics intern | Spring House | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careers.jnj.com/en/jobs/r-059961/data-science-multi-omics-intern/) |
 | 🏢 **Johnson & Johnson** | Data Science Intern, Clinical Omics | Spring House | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinsf.com/job/data-science-intern-clinical-omics/8610495) |
 | 🏢 **Johnson & Johnson** | Data Science Intern | New Hope | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://simplify.jobs/p/4b54819f-a429-4416-b004-fbee56f253f4/Data-Science-Intern) |
@@ -443,13 +443,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Law Clerk II – Office of International Affairs | US DC Washington | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Law-Clerk-II---Office-of-International-Affairs_319339-1) |
 | 🏢 **Mass General Brigham** | Co-op Student | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Co-op-Student_RQ4054176) |
 | 🏢 **Mass General Brigham** | Northeastern PCA Co-Op -Thoracic Stepdown | MA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Northeastern-PCA-Co-Op--Thoracic-Stepdown_RQ4051656) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant - ENT/Plastics & Internal Medicine | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---ENT-Plastics---Internal-Medicine_323227) |
+| 🏢 **Cleveland Clinic** | Clinical Technician - Internal Medicine/Telemetry | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/H81-Internal-Medicine-Telemetry-CT_298732) |
+| 🏢 **Cleveland Clinic** | Patient Care Nursing Assistant - Internal Medicine | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nursing-Assistant---Internal-Medicine_330476) |
 | 🏢 **Cleveland Clinic** | RN Clinical Adjunct Faculty - Internal Medicine and Telemetry | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Clinical-Adjunct-Faculty---Internal-Medicine-and-Telemetry_295048) |
 | 🏢 **Cleveland Clinic** | IT Summer Intern - Interoperability | Remote | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/IT-Summer-Intern---Interoperability_329240-1) |
 | 🏢 **Cleveland Clinic** | International Engagement Partner - Consulting | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/International-Engagement-Partner---Consulting_312424) |
 | 🏢 **Cleveland Clinic** | Pharmacy Intern - Inpatient PRN | South Pointe Hosp... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/Pharmacy-Intern---Inpatient-PRN_310355) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant - ENT/Plastics & Internal Medicine | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---ENT-Plastics---Internal-Medicine_323227) |
-| 🏢 **Cleveland Clinic** | Clinical Technician - Internal Medicine/Telemetry | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/H81-Internal-Medicine-Telemetry-CT_298732) |
-| 🏢 **Cleveland Clinic** | Patient Care Nursing Assistant - Internal Medicine | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nursing-Assistant---Internal-Medicine_330476) |
 | 🏢 **F5** | Channel Marketing Intern (Seattle) | Seattle | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Channel-Marketing-Intern--Seattle-_RP1036815) |
 | 🏢 **F5** | Desktop Support Specialist Intern | Seattle | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Desktop-Support-Intern_RP1036607-1) |
 | 🏢 **Caterpillar** | 2026 Supply Chain Co-Op | 3 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Cary-North-Carolina/XMLNAME-2026-Supply-Chain-Co-Op_R0000322517) |
@@ -466,9 +466,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Capital One** | Student Café Ambassador (Intern) - Gulfgate Center and Houston Galleria | Houston, TX | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Student-Caf-Ambassador--Intern----Gulfgate-Center-and-Houston-Galleria_R237232-2) |
 | 🏢 **MongoDB** | 2026 - Research Intern, NYC | New York City | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7558200) |
 | 🏢 **MongoDB** | 2026 - Legal Intern, NYC | New York City | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7335941) |
-| 🏢 **Lucid Motors** | Intern, Battery Cell Controls Engineer, Summer 2026 | Newark, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922167007) |
+| 🏢 **Lucid Motors** | Intern, Battery Cell Controls Engineer, Summer 2026 | Newark, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922167007) |
 | 🏢 **xAI** | Summer 2026 Engineering Internship/Co-op | Memphis, TN | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5054417007) |
-| 🏢 **Gusto** | Finance Intern (Summer 2026) | Denver, CO | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/7345394) |
+| 🏢 **Gusto** | Finance Intern (Summer 2026) | Denver, CO | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/7345394) |
 | 🏢 **Zscaler** | Professional Services - SkillBridge Intern | Virginia | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5041747007) |
 | 🏢 **Zscaler** | Cyber Incident Response/Customer Security Operations - SkillBridge Intern | Maryland | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/4970289007) |
 | 🏢 **Samsung Semiconductor** | Intern, Storage Product Planning Engineer | San Jose | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7641136003) |
@@ -477,7 +477,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Brand Marketing Intern | Costa Mesa | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5067266007?gh_jid=5067266007) |
 | 🏢 **Instacart** | Machine Learning PhD Intern, Economics | United States - R... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) |
 | 🏢 **Airbnb** | Sourcing Operations & Innovation Intern (MBA) | United States | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7673826?gh_jid=7673826) |
-| 🏢 **Databricks** | MBA Intern - Commercial Transformation | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402617002) |
+| 🏢 **Databricks** | MBA Intern - Commercial Transformation | San Francisco | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8402617002) |
 | 🏢 **Anduril** | Manufacturing Engineering Intern | Ashville | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797700007?gh_jid=4797700007) |
 | 🏢 **Okta** | Recruiting Programs Intern (Summer 2026) | San Francisco | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544487?gh_jid=7544487) |
 | 🏢 **Okta** | University Recruiting Intern (Summer 2026) | San Francisco | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544485?gh_jid=7544485) |
@@ -600,7 +600,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 680 current opportunities from 237 companies**
+**🎯 679 current opportunities from 237 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
