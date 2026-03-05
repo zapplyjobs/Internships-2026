@@ -9,9 +9,9 @@
 
 # Internships 2026
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-720-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-723-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-239-blue?style=flat&logo=building)
-![Other Internshi](https://img.shields.io/badge/Other_Internships-331-red?style=flat&logo=star)
+![Other Internshi](https://img.shields.io/badge/Other_Internships-334-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -76,7 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Backend Software Engineering Intern 2026 | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5026094007) |
 | 🏢 **Verkada** | Frontend Software Engineering Intern 2026 | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5024322007) |
 | 🏢 **Hermeus** | Flight Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440/apply) |
-| 🏢 **Neuralink** | Software Engineer Intern, Hippocampus | Austin | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
+| 🏢 **Neuralink** | Software Engineer Intern, Hippocampus | Austin | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
 | 🏢 **Lockheed Martin** | Software Engineer - Intern | Fort Worth | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.lockheedmartinjobs.com/job/fort-worth/software-engineer-intern/694/92389142160) |
 | 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering) |
 | 🏢 **Citadel** | Software Engineer - Intern (US) | Miami | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
@@ -135,8 +135,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Proofpoint** | Software Engineering Intern - AI Agents | Draper, UT | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Software-Engineering-Intern---AI-Agents_R13776) |
 | 🏢 **Cadence** | Software Intern | SAN JOSE | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1) |
 | 🏢 **Cadence** | Intern-Software Engineering | AUSTIN | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Intern-Software-Engineering_R53488) |
-| 🏢 **Boeing** | Millennium Space Systems Summer 2026 Internship Program – Optical Systems Engineering | El Segundo, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Optical-Systems-Engineering_JR2026498304-1) |
 | 🏢 **Leidos** | Systems Engineer Intern | Arlington, VA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00177055) |
+| 🏢 **Boeing** | Millennium Space Systems Summer 2026 Internship Program – Optical Systems Engineering | El Segundo, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Optical-Systems-Engineering_JR2026498304-1) |
 | 🏢 **Pure Storage** | Software Engineer Intern (Summer 2026) | Santa Clara | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7258723) |
 | 🏢 **ZoomInfo** | Software Engineer Intern - AI Products | Bethesda | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.zoominfo.com/careers?gh_jid=8422493002&ref=Simplify) |
 | 🏢 **ZoomInfo** | Software Engineer Intern - Applications | Bethesda | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.zoominfo.com/careers/jr107173/software-engineer-intern-applications) |
@@ -184,10 +184,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Okta** | Business Analyst Intern (Summer 2026) | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7617090?gh_jid=7617090) |
-| 🏢 **Okta** | Data Analyst Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7561055?gh_jid=7561055) |
+| 🏢 **Okta** | Business Analyst Intern (Summer 2026) | Chicago | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7617090?gh_jid=7617090) |
+| 🏢 **Okta** | Data Analyst Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7561055?gh_jid=7561055) |
 | 🏢 **Dropbox** | Data Science Engineer Intern (Summer 2026) | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7527941?gh_jid=7527941) |
-| 🏢 **Faire** | Data Science Intern | San Francisco, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) |
+| 🏢 **Faire** | Data Science Intern | San Francisco, CA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) |
 | 🏢 **Faire** | Strategy & Analytics MBA Intern | New York City, NY | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8350876002?gh_jid=8350876002) |
 | 🏢 **Lightera** | Data Science Summer Internship | Avon | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/data-science-summer-internship/8650951) |
 | ☁️ **Salesforce** | Summer 2026 Intern - Recruiting Analytics | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Recruiting-Analytics_JR330713-1) |
@@ -295,7 +295,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Okta** | Product Marketing Intern (Summer 2026) | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7594992?gh_jid=7594992) |
+| 🏢 **Okta** | Product Marketing Intern (Summer 2026) | Chicago | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7594992?gh_jid=7594992) |
 | 🏢 **Verkada** | MBA Intern - Product Marketing | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4996515007) |
 | 🏢 **Verkada** | Industrial Design Intern | San Mateo, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5070008007) |
 | 🏢 **Dropbox** | Content Design Intern (Summer 2026) | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7558609?gh_jid=7558609) |
@@ -378,7 +378,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Verkada** | Hardware Engineer (Summer Co-op) | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135120007) |
-| 🏢 **Samsung Semiconductor** | Intern, Firmware Engineer - PFD | San Jose | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7605456003) |
+| 🏢 **Samsung Semiconductor** | Intern, Firmware Engineer - PFD | San Jose | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7605456003) |
 | 🏢 **Dupont** | 2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities | Richmond | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dupont.com/us/en/job/246714W/2026-Summer-Intern-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities) |
 | 🏢 **Dupont** | 2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities | Richmond | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities) |
 | 🏢 **RTX** | 2026 Intern - Materials & Process Engineering - Mechanical Engineer  - Onsite | AZ-TUCSON-M02 ~ 1... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/XMLNAME-2026-Intern---Materials---Process-Engineering---Mechanical-Engineer----Onsite_01827089) |
@@ -441,19 +441,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
-| 🏢 **Okta** | Communications AI Strategy & Operations Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7665195?gh_jid=7665195) |
-| 🏢 **Okta** | Company Planning & Operations Intern (Summer 2026) | Bellevue | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7630315?gh_jid=7630315) |
-| 🏢 **Okta** | Customer First Strategy and Operations Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7561036?gh_jid=7561036) |
-| 🏢 **Okta** | Customer Success Intern (Summer 2026) | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7565237?gh_jid=7565237) |
-| 🏢 **Okta** | Events Marketing Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7611453?gh_jid=7611453) |
-| 🏢 **Okta** | Global Benefits Intern (Summer 2026) | Bellevue | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7547730?gh_jid=7547730) |
-| 🏢 **Okta** | Global Partner Marketing Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7560998?gh_jid=7560998) |
-| 🏢 **Okta** | Growth & Marketing Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7560631?gh_jid=7560631) |
-| 🏢 **Okta** | Marketing Technology Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7561018?gh_jid=7561018) |
-| 🏢 **Okta** | Paid Media Intern (Summer 2026) | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7607650?gh_jid=7607650) |
-| 🏢 **Okta** | Recruiting Programs Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544487?gh_jid=7544487) |
-| 🏢 **Okta** | Technical Account Management Intern (Summer 2026) | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7549331?gh_jid=7549331) |
+| 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
+| 🏢 **Okta** | Communications AI Strategy & Operations Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7665195?gh_jid=7665195) |
+| 🏢 **Okta** | Company Planning & Operations Intern (Summer 2026) | Bellevue | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7630315?gh_jid=7630315) |
+| 🏢 **Okta** | Customer First Strategy and Operations Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7561036?gh_jid=7561036) |
+| 🏢 **Okta** | Customer Success Intern (Summer 2026) | Chicago | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7565237?gh_jid=7565237) |
+| 🏢 **Okta** | Events Marketing Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7611453?gh_jid=7611453) |
+| 🏢 **Okta** | Global Benefits Intern (Summer 2026) | Bellevue | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7547730?gh_jid=7547730) |
+| 🏢 **Okta** | Global Partner Marketing Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7560998?gh_jid=7560998) |
+| 🏢 **Okta** | Growth & Marketing Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7560631?gh_jid=7560631) |
+| 🏢 **Okta** | Marketing Technology Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7561018?gh_jid=7561018) |
+| 🏢 **Okta** | Paid Media Intern (Summer 2026) | Chicago | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7607650?gh_jid=7607650) |
+| 🏢 **Okta** | Recruiting Programs Intern (Summer 2026) | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544487?gh_jid=7544487) |
+| 🏢 **Okta** | Technical Account Management Intern (Summer 2026) | Chicago | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7549331?gh_jid=7549331) |
 | 🏢 **Verkada** | iOS Engineering Intern - Native Streaming 2026 | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5038878007) |
 | 🏢 **Verkada** | MBA Intern - Hardware Operations | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5021999007) |
 | 🏢 **Verkada** | MBA Intern - Product | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4996420007) |
@@ -497,26 +497,26 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | National Security Solutions (NSS) Internship – Subcontracts Intern | Chantilly | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---Subcontracts-Intern_R2116713) |
 | 🏢 **CACI** | Law Clerk II – Office of International Affairs | US DC Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Law-Clerk-II---Office-of-International-Affairs_319339-1) |
 | 🏢 **Mass General Brigham** | Northeastern PCA Co-Op -Thoracic Stepdown | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Northeastern-PCA-Co-Op--Thoracic-Stepdown_RQ4051656) |
-| 🏢 **Cleveland Clinic** | IT Summer Intern - Interoperability | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/IT-Summer-Intern---Interoperability_329240-1) |
-| 🏢 **Cleveland Clinic** | International Engagement Partner - Consulting | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/International-Engagement-Partner---Consulting_312424) |
+| 🏢 **F5** | Channel Marketing Intern (Seattle) | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Channel-Marketing-Intern--Seattle-_RP1036815) |
+| 🏢 **F5** | Desktop Support Specialist Intern | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Desktop-Support-Specialist-Intern_RP1036808) |
 | 🏢 **Cleveland Clinic** | Pharmacy Intern - Inpatient PRN | South Pointe Hosp... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/Pharmacy-Intern---Inpatient-PRN_310355) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant - ENT/Plastics & Internal Medicine | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---ENT-Plastics---Internal-Medicine_323227) |
 | 🏢 **Cleveland Clinic** | Clinical Technician - Internal Medicine/Telemetry | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/H81-Internal-Medicine-Telemetry-CT_298732) |
 | 🏢 **Cleveland Clinic** | Patient Care Nursing Assistant - Internal Medicine | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nursing-Assistant---Internal-Medicine_330476) |
 | 🏢 **Cleveland Clinic** | RN Clinical Adjunct Faculty - Internal Medicine and Telemetry | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Clinical-Adjunct-Faculty---Internal-Medicine-and-Telemetry_295048) |
-| 🏢 **F5** | Channel Marketing Intern (Seattle) | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Channel-Marketing-Intern--Seattle-_RP1036815) |
-| 🏢 **F5** | Desktop Support Specialist Intern | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Desktop-Support-Specialist-Intern_RP1036808) |
+| 🏢 **Cleveland Clinic** | IT Summer Intern - Interoperability | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/IT-Summer-Intern---Interoperability_329240-1) |
+| 🏢 **Cleveland Clinic** | International Engagement Partner - Consulting | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/International-Engagement-Partner---Consulting_312424) |
 | 🏢 **Caterpillar** | 2026 Supply Chain Co-Op | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Cary-North-Carolina/XMLNAME-2026-Supply-Chain-Co-Op_R0000322517) |
 | 🏢 **Proofpoint** | Global Benefits & Accommodations Intern | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Global-Benefits---Accommodations-Intern_R13831) |
 | 🏢 **Boeing** | Millennium Space Systems Summer 2026 Internship Program – Assembly, Test, and Launch (ATLO) Operations | El Segundo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Assembly--Test--and-Launch--ATLO--Operations_JR2026498295) |
-| 🏢 **Blue Origin** | Associate Engineering Intern (Summer 2026) | Greater Seattle Area | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Associate-Engineering-Intern--Summer-2026-_R60894) |
 | 🏢 **Blue Origin** | Summer 2026 Corporate Development Intern - Graduate | Greater Seattle Area | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Corporate-Development-Intern---Graduate_R56124) |
 | 🏢 **Blue Origin** | Technician Intern (Summer 2026) | Greater Seattle Area | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Technician-Intern--Summer-2026-_R60572) |
-| 🏢 **Booz Allen Hamilton** | Supply Chain Management Intern | McLean, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951) |
+| 🏢 **Blue Origin** | Associate Engineering Intern (Summer 2026) | Greater Seattle Area | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Associate-Engineering-Intern--Summer-2026-_R60894) |
 | 🏢 **CrowdStrike** | IT Service Desk Launch Intern - Summer 2026 | Austin, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/IT-Service-Desk-Launch-Intern---Summer-2026_R26669) |
 | ☁️ **Salesforce** | Summer 2026 Intern - Employee Success Strategic Initiatives | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Employee-Success-Strategic-Initiatives_JR327688-1) |
 | 🏢 **RTX** | 2026 Raytheon -Summer Finance Intern - Onsite AZ | AZ-TUCSON-807 ~ 1... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/XMLNAME-2026-Raytheon--Summer-Finance-Intern---Onsite-AZ_01828013) |
 | 🏢 **Capital One** | Student Café Ambassador (Intern) - Gulfgate Center and Houston Galleria | Houston, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Student-Caf-Ambassador--Intern----Gulfgate-Center-and-Houston-Galleria_R237232-2) |
+| 🏢 **Booz Allen Hamilton** | Supply Chain Management Intern | McLean, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951) |
 | 🏢 **Coinbase** | Business Controller Intern | New York, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7434684?gh_jid=7434684) |
 | 🏢 **Coinbase** | Tax Information Reporting Intern | New York, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7317551?gh_jid=7317551) |
 | 🏢 **Coinbase** | Strategic Sourcing Intern | New York, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7315887?gh_jid=7315887) |
@@ -605,7 +605,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 720 current opportunities from 239 companies**
+**🎯 723 current opportunities from 239 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
