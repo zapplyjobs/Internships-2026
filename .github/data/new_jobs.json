@@ -20260,35 +20260,5 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-02-20T23:03:56.349Z"
-  },
-  {
-    "job_id": "ashby-handshake-eece422a-da6b-42e7-b694-3329e6ae4d6a",
-    "job_title": "AI/Machine Learning Engineer Intern",
-    "employer_name": "Handshake",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a/application",
-    "job_posted_at_datetime_utc": "2026-02-20T20:21:02.493+00:00",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "31539a9ae8b92778aebb87fe548b2657fad3e8e8916fbb2ed5f2bd1c55451b75",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-02-20T20:21:02.493+00:00"
   }
 ]
