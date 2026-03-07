@@ -1,89 +1,5 @@
 [
   {
-    "job_id": "workday-nationwide-children's-R-23653",
-    "job_title": "Research Intern - Office of Training Affairs",
-    "employer_name": "Nationwide Children's",
-    "job_city": "Main Campus",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern---Office-of-Training-Affairs_R-23653-1",
-    "job_posted_at_datetime_utc": "2026-03-07T02:06:12.732Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a43c4a28bf5b8fb5880bdd9c5e17e7bf30cc83177ea8c48c1695da84beac367f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:06:12.732Z"
-  },
-  {
-    "job_id": "workday-nationwide-children's-R-23639",
-    "job_title": "Research Intern",
-    "employer_name": "Nationwide Children's",
-    "job_city": "Main Campus",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-23639",
-    "job_posted_at_datetime_utc": "2026-03-07T02:06:12.732Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd0c78530e1ab5a4a75a5036b801b39a0fef4196f0839171e7ce03ff201bb4cb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:06:12.732Z"
-  },
-  {
-    "job_id": "workday-nationwide-children's-R-23638",
-    "job_title": "Research Intern",
-    "employer_name": "Nationwide Children's",
-    "job_city": "Main Campus",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-23638-1",
-    "job_posted_at_datetime_utc": "2026-03-07T02:06:12.732Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd0c78530e1ab5a4a75a5036b801b39a0fef4196f0839171e7ce03ff201bb4cb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:06:12.732Z"
-  },
-  {
     "job_id": "workday-micron-JR91646",
     "job_title": "Intern - ASIC Gen-AI",
     "employer_name": "Micron",
@@ -92,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Gen-AI_JR91646",
-    "job_posted_at_datetime_utc": "2026-03-07T02:06:10.291Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:22:08.176Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "342997e1a6e3d285f71c5eb28e580056d1cd9748aa34ea22ba5640cce061958d",
@@ -109,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:06:10.291Z"
+    "job_posted_at": "2026-03-07T02:22:08.176Z"
   },
   {
     "job_id": "workday-caci-322892",
@@ -120,7 +36,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Arlington/Data-Analyst---BI-Developer-Intern---Summer-2026_322892-1",
-    "job_posted_at_datetime_utc": "2026-03-07T02:06:09.701Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:22:07.907Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9864a4e0f4e0450db44ddf4aa68209a23a99ed5fc78fb314ec96e293e6d07824",
@@ -137,7 +53,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:06:09.701Z"
+    "job_posted_at": "2026-03-07T02:22:07.907Z"
+  },
+  {
+    "job_id": "workday-nationwide-children's-R-23653",
+    "job_title": "Research Intern - Office of Training Affairs",
+    "employer_name": "Nationwide Children's",
+    "job_city": "Main Campus",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern---Office-of-Training-Affairs_R-23653-1",
+    "job_posted_at_datetime_utc": "2026-03-07T02:22:05.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a43c4a28bf5b8fb5880bdd9c5e17e7bf30cc83177ea8c48c1695da84beac367f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:22:05.014Z"
+  },
+  {
+    "job_id": "workday-nationwide-children's-R-23639",
+    "job_title": "Research Intern",
+    "employer_name": "Nationwide Children's",
+    "job_city": "Main Campus",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-23639",
+    "job_posted_at_datetime_utc": "2026-03-07T02:22:05.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd0c78530e1ab5a4a75a5036b801b39a0fef4196f0839171e7ce03ff201bb4cb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:22:05.014Z"
+  },
+  {
+    "job_id": "workday-nationwide-children's-R-23638",
+    "job_title": "Research Intern",
+    "employer_name": "Nationwide Children's",
+    "job_city": "Main Campus",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-23638-1",
+    "job_posted_at_datetime_utc": "2026-03-07T02:22:05.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd0c78530e1ab5a4a75a5036b801b39a0fef4196f0839171e7ce03ff201bb4cb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:22:05.014Z"
   },
   {
     "job_id": "workday-geisinger-health-R-89382",
@@ -148,7 +148,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/Clinical-co-op-inpatient-pharmacy_R-89382",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:52.601Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:39.913Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f01fbeafa6fc53262c188aa7f997647718713d5a8160f87f85bbf3f20e8d10d8",
@@ -165,7 +165,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:52.601Z"
+    "job_posted_at": "2026-03-07T02:21:39.913Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92641",
@@ -176,7 +176,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Intern-Undergraduate-IT--End-User-Support-_R-92641",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:52.601Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:39.913Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "886466c14204acdf6b17d0ddd1f5114a3ced4b16476ecf3a1bc334d26c53b34a",
@@ -193,63 +193,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:52.601Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4051080",
-    "job_title": "MGH Neurosurgery Co-op, Admin",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/MGH-Neurosurgery-Co-op--Admin_RQ4051080",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:38.888Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "73068b9920202f87de9ebd51e29d65286f57d0a50a17d7cef9fa6df26de74fc0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:38.888Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4054488",
-    "job_title": "Pharmacy Intern YR1",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Newton-MA/Pharmacy-Intern-YR1_RQ4054488",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:38.888Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "772f0ccd2b1ab8ce807c875294d3202d6b1d3599528f6f84573dd565d1e8869a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:38.888Z"
+    "job_posted_at": "2026-03-07T02:21:39.913Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4051674",
@@ -260,7 +204,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Intern--International-Patient-Services_RQ4051674",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:38.887Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:26.016Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0c5405bb86501f9da1759ad249a3847eb09cd1bf9df3625f267880d665133ec4",
@@ -277,7 +221,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:38.887Z"
+    "job_posted_at": "2026-03-07T02:21:26.016Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4054720",
@@ -288,7 +232,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Somerville-MA/Digital-Internship_RQ4054720",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:38.887Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:26.016Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "86638107bae2fe8b2ccd627b97a050ea318875bd70502ecbd399763d16928aae",
@@ -305,7 +249,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:38.887Z"
+    "job_posted_at": "2026-03-07T02:21:26.016Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4054568",
@@ -316,7 +260,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Student-COOP---Audiology_RQ4054568",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:38.887Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:26.016Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8073b251e5d0a98d375fa5af3cffa0b4f2c72958e7fd465cdb86278868ffb5fe",
@@ -333,7 +277,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:38.887Z"
+    "job_posted_at": "2026-03-07T02:21:26.016Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4053957",
@@ -344,7 +288,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Co-op-Student_RQ4053957",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:38.887Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:26.016Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7c8883cfc672e6b20c87f620474dc4a5164ec6efa290c1f51cf43d21e77a55df",
@@ -361,7 +305,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:38.887Z"
+    "job_posted_at": "2026-03-07T02:21:26.016Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4050641",
@@ -372,7 +316,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/PCA-Co-Op_RQ4050641",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:38.887Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:26.016Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b631468ef3dc2f11cb865cd7a552081643b981c450b87b86b5a86fb249fb4a4e",
@@ -389,7 +333,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:38.887Z"
+    "job_posted_at": "2026-03-07T02:21:26.016Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4051080",
+    "job_title": "MGH Neurosurgery Co-op, Admin",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/MGH-Neurosurgery-Co-op--Admin_RQ4051080",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:26.016Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "73068b9920202f87de9ebd51e29d65286f57d0a50a17d7cef9fa6df26de74fc0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:21:26.016Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4054488",
+    "job_title": "Pharmacy Intern YR1",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Newton-MA/Pharmacy-Intern-YR1_RQ4054488",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:26.016Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "772f0ccd2b1ab8ce807c875294d3202d6b1d3599528f6f84573dd565d1e8869a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:21:26.016Z"
   },
   {
     "job_id": "workday-intermountain-health-R164760",
@@ -400,7 +400,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Spanish-Fork-Hospital/Spanish-Fork-Hospital-Undergrad-Administrative-Internship---Summer-2026_R164760",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:35.874Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:24.224Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6034a3c76af71782287c1fef6449a53cbdccf2ce3f95531d3334eadc153ff58b",
@@ -417,7 +417,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:35.874Z"
+    "job_posted_at": "2026-03-07T02:21:24.224Z"
   },
   {
     "job_id": "workday-intermountain-health-R164274",
@@ -428,7 +428,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Data-Analyst-Summer-Intern-1_R164274",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:35.874Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:24.224Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "126945289e60af67b8764f3dc3db734f9acfde6bc115e80d65a190a1fdf68418",
@@ -445,7 +445,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:35.874Z"
+    "job_posted_at": "2026-03-07T02:21:24.224Z"
   },
   {
     "job_id": "workday-intermountain-health-R164276",
@@ -456,7 +456,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Internal-Medicine_R164276",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:35.874Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:24.224Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3934f055fc1434d378d5d558e12b8ea59147f8b79836a2c9c6b15bc5d623af2c",
@@ -473,7 +473,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:35.874Z"
+    "job_posted_at": "2026-03-07T02:21:24.224Z"
   },
   {
     "job_id": "workday-cleveland-clinic-331708",
@@ -484,7 +484,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Strongsville-Fam-Health-Surg-Center/Medical-Assistant---Internal-Medicine_331708",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:30.663Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:20.969Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "63b9485af454f6487ff46c6ab20091be09d931b0603324c4d500864f487d9c8a",
@@ -501,7 +501,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:30.663Z"
+    "job_posted_at": "2026-03-07T02:21:20.969Z"
   },
   {
     "job_id": "workday-cleveland-clinic-328040",
@@ -512,7 +512,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Finance-Intern-Administrative-College_328040",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:30.663Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:20.969Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6ed4c1c003e6ed3aa105fa5ed6bb824f74a08aa45943c433888102d0e4ffc444",
@@ -529,7 +529,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:30.663Z"
+    "job_posted_at": "2026-03-07T02:21:20.969Z"
   },
   {
     "job_id": "workday-cleveland-clinic-332538",
@@ -540,7 +540,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LiH-Undergraduate-Administrative-Internship_332538",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:30.663Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:20.969Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b086af0b37b666b4095bce3d2e43da55cca740dd83b788b185bc3cce8a195e8c",
@@ -557,7 +557,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:30.663Z"
+    "job_posted_at": "2026-03-07T02:21:20.969Z"
   },
   {
     "job_id": "workday-cleveland-clinic-333259",
@@ -568,7 +568,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Pharmacy-Intern---Inpatient--PRN_333259-1",
-    "job_posted_at_datetime_utc": "2026-03-07T02:05:30.662Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:21:20.968Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "46801613576643b58d2567b74342764970be6716c2c726a61c1670bb52832af5",
@@ -585,7 +585,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:05:30.662Z"
+    "job_posted_at": "2026-03-07T02:21:20.968Z"
   },
   {
     "job_id": "workday-motorola-solutions-R59968",
@@ -596,7 +596,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Data-Scientist-Intern--Summer-2026-Internship-_R59968",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:52.066Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:39.126Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2b61c0170b9289875cdf7644182867f8e95373ba8982bf139383660070d2dc06",
@@ -613,7 +613,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:52.066Z"
+    "job_posted_at": "2026-03-07T02:20:39.126Z"
   },
   {
     "job_id": "workday-motorola-solutions-R59830",
@@ -624,7 +624,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2026-Software-Engineering-Summer-Internship_R59830",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:52.066Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:39.126Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c1e55114af740ad0da0cbcd95f7cf34e366af42082a1c89a342f4ca588ded95c",
@@ -641,7 +641,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:52.066Z"
+    "job_posted_at": "2026-03-07T02:20:39.126Z"
   },
   {
     "job_id": "workday-leidos-R-00177744",
@@ -652,7 +652,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/LBS-Project-Intern_R-00177744",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:33.632Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:23.047Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b4b8f916903cfd51559afbb4fbaa949cfcc0c73ea8744153400866fcb6b56daf",
@@ -669,7 +669,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:33.632Z"
+    "job_posted_at": "2026-03-07T02:20:23.047Z"
   },
   {
     "job_id": "workday-leidos-R-00177757",
@@ -680,7 +680,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/LBS-Project-Intern_R-00177757-1",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:33.632Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:23.047Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b4b8f916903cfd51559afbb4fbaa949cfcc0c73ea8744153400866fcb6b56daf",
@@ -697,7 +697,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:33.632Z"
+    "job_posted_at": "2026-03-07T02:20:23.047Z"
   },
   {
     "job_id": "workday-leidos-R-00177732",
@@ -708,7 +708,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electrical-Engineering-Intern_R-00177732",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:33.632Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:23.047Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "75932fe20fc5136e32884375886e457e79827c009a890e84d21e0b8d792d61f6",
@@ -725,7 +725,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:33.632Z"
+    "job_posted_at": "2026-03-07T02:20:23.047Z"
   },
   {
     "job_id": "workday-leidos-R-00177524",
@@ -736,7 +736,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Cyber-Security-Intern_R-00177524-1",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:33.632Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:23.047Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d1472b8c7a5330db7380f67a03a2dfcafef32b267b4ade9817af8337727d16e6",
@@ -753,7 +753,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:33.632Z"
+    "job_posted_at": "2026-03-07T02:20:23.047Z"
   },
   {
     "job_id": "workday-leidos-R-00177522",
@@ -764,7 +764,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Hardware-System-Radar-Engineer---Intern_R-00177522",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:33.632Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:23.047Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ba67397d5788c53d4a2a0c6e1b25e2e3282d5e4836b58de1b7cd35f4bfe40484",
@@ -781,7 +781,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:33.632Z"
+    "job_posted_at": "2026-03-07T02:20:23.047Z"
   },
   {
     "job_id": "workday-leidos-R-00177523",
@@ -792,7 +792,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Software-Engineer-Intern_R-00177523",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:33.632Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:23.047Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3103c05e6accb140457b59d2689d6dc2c5525954c6e5871c0f11c491eb98ce98",
@@ -809,91 +809,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:33.632Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235326",
-    "job_title": "University, Digital Transformation Analyst Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0235326",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:27.835Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18d66bc754c6cbc8c79e1f356f77135c233d2a93fded3e8708e13eac70418193",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:27.835Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234710",
-    "job_title": "Enterprise Cybersecurity Threat Intelligence Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Cyber-Threat-Intelligence-Intern_R0234710",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:27.835Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2b9a926de74d7cee2b074ba3222319bb32e1ea9253fd07de79229aeae9b62ac",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:27.835Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235318",
-    "job_title": "Hardware Test Engineer Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Rome",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Hardware-Test-Engineer-Intern_R0235318",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:27.835Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d93242dc5e536721dfe9ed52cca5a47edd19d83b5745313eaaab2b85a9db4419",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:27.835Z"
+    "job_posted_at": "2026-03-07T02:20:23.047Z"
   },
   {
     "job_id": "workday-applied-materials-R2519927",
@@ -904,7 +820,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Plasma-Products-Modeling-Physicist-Scientist-Intern---PhD--Santa-Clara--CA-_R2519927",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:26.515Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:13.403Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "acb3f67916f945f705314b2587c07146e83d122072fae1358a91042f40c3e169",
@@ -921,7 +837,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:26.515Z"
+    "job_posted_at": "2026-03-07T02:20:13.403Z"
   },
   {
     "job_id": "workday-applied-materials-R2613731",
@@ -932,7 +848,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-AI-ML-Intern--Bachelors-Masters-Santa-Clara--CA-_R2613731",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:26.515Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:13.403Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "603f98d536d9e36fe4ab7aecd738f2b5aa465acdcbc65fb1c20b6ec72bafe27e",
@@ -949,7 +865,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:26.515Z"
+    "job_posted_at": "2026-03-07T02:20:13.403Z"
   },
   {
     "job_id": "workday-applied-materials-R2610742",
@@ -960,7 +876,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/TKM-Supply-Chain-Intern--Bachelor-s--Santa-Clara--CA-_R2610742",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:26.515Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:13.403Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "318ac1e3e815cd750cfe2205e351b3542be429dbaa6b4042554dec4ea79c2945",
@@ -977,7 +893,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:26.515Z"
+    "job_posted_at": "2026-03-07T02:20:13.403Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235326",
+    "job_title": "University, Digital Transformation Analyst Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0235326",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:13.322Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18d66bc754c6cbc8c79e1f356f77135c233d2a93fded3e8708e13eac70418193",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:20:13.322Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234710",
+    "job_title": "Enterprise Cybersecurity Threat Intelligence Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Cyber-Threat-Intelligence-Intern_R0234710",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:13.322Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b2b9a926de74d7cee2b074ba3222319bb32e1ea9253fd07de79229aeae9b62ac",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:20:13.322Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235318",
+    "job_title": "Hardware Test Engineer Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Rome",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Hardware-Test-Engineer-Intern_R0235318",
+    "job_posted_at_datetime_utc": "2026-03-07T02:20:13.322Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d93242dc5e536721dfe9ed52cca5a47edd19d83b5745313eaaab2b85a9db4419",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T02:20:13.322Z"
   },
   {
     "job_id": "workday-nvidia-JR2012415",
@@ -988,7 +988,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--CUDA-Build-and-Packaging---Summer-2026_JR2012415-1",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:07.438Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:19:51.871Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "de92e7d5c7b235294672ecda2831edaab49a6205dab3c4e6d4026326209d33e0",
@@ -1007,7 +1007,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:07.438Z"
+    "job_posted_at": "2026-03-07T02:19:51.871Z"
   },
   {
     "job_id": "workday-crowdstrike-R26669",
@@ -1018,7 +1018,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/IT-Service-Desk-Launch-Intern---Summer-2026_R26669",
-    "job_posted_at_datetime_utc": "2026-03-07T02:04:01.502Z",
+    "job_posted_at_datetime_utc": "2026-03-07T02:19:46.077Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8e35b28f0dfeb62e9346dfa8cd36b3d1a378ebecfdc92a4cf40f6a6c518ab8e7",
@@ -1035,7 +1035,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T02:04:01.502Z"
+    "job_posted_at": "2026-03-07T02:19:46.077Z"
   },
   {
     "job_id": "greenhouse-akunacapital-7060377",
@@ -3626,7 +3626,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/Nurse-Intern-Float-Pool_JR26-28282",
-    "job_posted_at_datetime_utc": "2026-03-05T02:07:21.357Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:23:17.688Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c59ef0ee24452f5a8417e819c67d72ebeabaa08d98b337e3bf37e303a7199397",
@@ -3643,7 +3643,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:07:21.357Z"
+    "job_posted_at": "2026-03-05T02:23:17.688Z"
   },
   {
     "job_id": "workday-kbr-R2119863",
@@ -3654,7 +3654,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Information-Security-Intern_R2119863",
-    "job_posted_at_datetime_utc": "2026-03-05T02:06:18.747Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:22:14.235Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db91443d6a87f96379ce9e9bad3c2d2b3b60f40240e57c842259f28173ffe332",
@@ -3671,35 +3671,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:06:18.747Z"
-  },
-  {
-    "job_id": "workday-nationwide-children's-R-23558",
-    "job_title": "Research Intern - IGM",
-    "employer_name": "Nationwide Children's",
-    "job_city": "Main Campus",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern---IGM_R-23558-1",
-    "job_posted_at_datetime_utc": "2026-03-05T02:06:12.733Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2df20f34c6b91e8128dfc364d454f2d5de4b7c63deaade090b78b735078f08f1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:06:12.733Z"
+    "job_posted_at": "2026-03-05T02:22:14.235Z"
   },
   {
     "job_id": "workday-micron-JR92817",
@@ -3710,7 +3682,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Supply-Chain_JR92817",
-    "job_posted_at_datetime_utc": "2026-03-05T02:06:10.292Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:22:08.178Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "665effe3d075c75171f4a8a165c65bdba420f0167b1cad4dcffd2a84f3fc14b9",
@@ -3727,7 +3699,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:06:10.292Z"
+    "job_posted_at": "2026-03-05T02:22:08.178Z"
   },
   {
     "job_id": "workday-caci-322570",
@@ -3738,7 +3710,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Reston/Recruitment-Marketing-Intern---Summer-2026_322570",
-    "job_posted_at_datetime_utc": "2026-03-05T02:06:09.702Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:22:07.908Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f661538810a4435f265c3893fc28c61f96337dcead021c512e27ac72508c370",
@@ -3755,7 +3727,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:06:09.702Z"
+    "job_posted_at": "2026-03-05T02:22:07.908Z"
+  },
+  {
+    "job_id": "workday-nationwide-children's-R-23558",
+    "job_title": "Research Intern - IGM",
+    "employer_name": "Nationwide Children's",
+    "job_city": "Main Campus",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern---IGM_R-23558-1",
+    "job_posted_at_datetime_utc": "2026-03-05T02:22:05.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2df20f34c6b91e8128dfc364d454f2d5de4b7c63deaade090b78b735078f08f1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:22:05.015Z"
   },
   {
     "job_id": "workday-ochsner-health-REQ_00250457",
@@ -3766,7 +3766,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Internal-Medicine-Clinic---The-Grove-Baton-Rouge_REQ_00250457-1",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:59.884Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:54.926Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8f9b014f4898b2a311710144d6c1f324a3b8a14c22e54e44366b3b88af5fdca2",
@@ -3783,7 +3783,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:59.884Z"
+    "job_posted_at": "2026-03-05T02:21:54.926Z"
   },
   {
     "job_id": "workday-saint-luke's-health-system-JobReq0055520",
@@ -3794,7 +3794,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-Hospital------4401-Wornall-Rd------Kansas-City------MO/Nursing-Intern_JobReq0055520",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:57.340Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:48.392Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "15156da1d2e0782549a251bc3903552214e77a2096c46fb3aebe64ed3aa56425",
@@ -3811,7 +3811,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:57.340Z"
+    "job_posted_at": "2026-03-05T02:21:48.392Z"
   },
   {
     "job_id": "workday-geisinger-health-R-89781",
@@ -3822,7 +3822,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/LPN---Licensed-Practical-Nurse---General-Internal-Medicine_R-89781",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:52.602Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:39.913Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "63b08593983a0d306074557ae4a2be0f3d3ff158ecc66ac284d1b368ba5260bf",
@@ -3839,7 +3839,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:52.602Z"
+    "job_posted_at": "2026-03-05T02:21:39.913Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92955",
@@ -3850,7 +3850,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Medical-Assistant-or-Certified-Medical-Assistant---General-Internal-Medicine_R-92955",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:52.601Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:39.912Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3fcae94edfc228e8e66ef9ed41db32dab6143a0cebee73f401221a72d483f816",
@@ -3867,7 +3867,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:52.601Z"
+    "job_posted_at": "2026-03-05T02:21:39.912Z"
   },
   {
     "job_id": "workday-sharp-healthcare-JR201560",
@@ -3878,7 +3878,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Intern-Pharmacist---Sharp-HealthCare-System-Float-Pool---Variable-Shift---Per-Diem_JR201560-1",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:45.748Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:35.159Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a21a6195f161870d5220627387c73e804537238202b6694dab20715dbcde5425",
@@ -3895,119 +3895,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:45.748Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4053451",
-    "job_title": "Patient Care Assoiciate Co-op",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Patient-Care-Assoiciate-Co-op_RQ4053451",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:38.889Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccd40afd0a940c373bacd538aaf4f637e321d848fa06b88215e65982f60fc2ce",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:38.889Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4047424",
-    "job_title": "Medical Assistant, Internal Medicine",
-    "employer_name": "Mass General Brigham",
-    "job_city": "NH",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Dover-NH/Medical-Assistant--Internal-Medicine_RQ4047424",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:38.889Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6908a15491de6f6c5c156362bff8006a8c3c0301389ac27677fb59db25952be0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:38.889Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4042979",
-    "job_title": "Radiologic Technologist Intern",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Northampton-MA/Radiologic-Technologist-Intern_RQ4042979",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:38.889Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c04ce9228c7513efe798ebcd498e097634f4704527c9f3122f95291687d7b4b8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:38.889Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4053403",
-    "job_title": "Medical Assistant, Internal Medicine",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Wellesley-MA/Medical-Assistant--Internal-Medicine_RQ4053403",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:38.889Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ac8f837fba3e94fc992349227f37fe4bbee0e3544611cd2bbd6ee3db2288ada",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:38.889Z"
+    "job_posted_at": "2026-03-05T02:21:35.159Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4048680",
@@ -4018,7 +3906,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Wellesley-MA/Medical-Assistant--Internal-Medicine_RQ4048680",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:38.888Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:26.017Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7ac8f837fba3e94fc992349227f37fe4bbee0e3544611cd2bbd6ee3db2288ada",
@@ -4035,7 +3923,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:38.888Z"
+    "job_posted_at": "2026-03-05T02:21:26.017Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4054179",
@@ -4046,7 +3934,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Co-op-Student_RQ4054179",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:38.888Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:26.017Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7c8883cfc672e6b20c87f620474dc4a5164ec6efa290c1f51cf43d21e77a55df",
@@ -4063,7 +3951,119 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:38.888Z"
+    "job_posted_at": "2026-03-05T02:21:26.017Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4053451",
+    "job_title": "Patient Care Assoiciate Co-op",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Patient-Care-Assoiciate-Co-op_RQ4053451",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:26.017Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccd40afd0a940c373bacd538aaf4f637e321d848fa06b88215e65982f60fc2ce",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:21:26.017Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4047424",
+    "job_title": "Medical Assistant, Internal Medicine",
+    "employer_name": "Mass General Brigham",
+    "job_city": "NH",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Dover-NH/Medical-Assistant--Internal-Medicine_RQ4047424",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:26.017Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6908a15491de6f6c5c156362bff8006a8c3c0301389ac27677fb59db25952be0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:21:26.017Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4042979",
+    "job_title": "Radiologic Technologist Intern",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Northampton-MA/Radiologic-Technologist-Intern_RQ4042979",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:26.017Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c04ce9228c7513efe798ebcd498e097634f4704527c9f3122f95291687d7b4b8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:21:26.017Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4053403",
+    "job_title": "Medical Assistant, Internal Medicine",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Wellesley-MA/Medical-Assistant--Internal-Medicine_RQ4053403",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:26.017Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ac8f837fba3e94fc992349227f37fe4bbee0e3544611cd2bbd6ee3db2288ada",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:21:26.017Z"
   },
   {
     "job_id": "workday-intermountain-health-R163753",
@@ -4074,7 +4074,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/American-Fork-Specialty-Clinic/Medical-Assistant-Internal-Medicine_R163753",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:35.875Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:24.225Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b93add199427a782c6a41180ad963aa5f6e65d43808bdeaefa87a35dd18214e6",
@@ -4091,7 +4091,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:35.875Z"
+    "job_posted_at": "2026-03-05T02:21:24.225Z"
   },
   {
     "job_id": "workday-f5-RP1036607",
@@ -4102,7 +4102,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/San-Jose/Desktop-Support-Intern_RP1036607-1",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:31.895Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:17.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a07ab9be609262168989f1b7ebbdbd259fa9eca73b7b1e49038563ad89c79948",
@@ -4119,35 +4119,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:31.895Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000354626",
-    "job_title": "2026 Summer High School Intern (Global Dealer Learning)",
-    "employer_name": "Caterpillar",
-    "job_city": "Peoria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2026-Summer-High-School-Intern--Global-Dealer-Learning-_R0000354626",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:20.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8d4037451f3ec2e5eb4aaae4e12c087577bd0cedc09d853431fc8536fcaf84d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:20.996Z"
+    "job_posted_at": "2026-03-05T02:21:17.617Z"
   },
   {
     "job_id": "workday-caterpillar-R0000355253",
@@ -4158,7 +4130,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Seguin-Texas/Texas-FAME-Advanced-Manufacturing-Technician--AMT--Internship_R0000355253",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:20.995Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:07.689Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "678feaffaef119e45b337d86d0fc468fa8a7511966fdd52b52b7679d3c0397cb",
@@ -4175,7 +4147,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:20.995Z"
+    "job_posted_at": "2026-03-05T02:21:07.689Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000354626",
+    "job_title": "2026 Summer High School Intern (Global Dealer Learning)",
+    "employer_name": "Caterpillar",
+    "job_city": "Peoria",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2026-Summer-High-School-Intern--Global-Dealer-Learning-_R0000354626",
+    "job_posted_at_datetime_utc": "2026-03-05T02:21:07.689Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8d4037451f3ec2e5eb4aaae4e12c087577bd0cedc09d853431fc8536fcaf84d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:21:07.689Z"
   },
   {
     "job_id": "workday-proofpoint-R13842",
@@ -4186,7 +4186,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Global-Talent-Management-Intern_R13842",
-    "job_posted_at_datetime_utc": "2026-03-05T02:05:07.454Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "20dda25ba065f980ffd5b3b9fe939858b6574ef78776361bf7e2c5c29e6866af",
@@ -4203,7 +4203,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:05:07.454Z"
+    "job_posted_at": "2026-03-05T02:20:55.825Z"
   },
   {
     "job_id": "workday-leidos-R-00177513",
@@ -4214,7 +4214,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00177513",
-    "job_posted_at_datetime_utc": "2026-03-05T02:04:33.633Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:20:23.049Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6d92d28bf74ef64659ab05c6146d46f86e9738bb1a6fa694fc6e7fd0cf7bb65b",
@@ -4231,7 +4231,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:04:33.633Z"
+    "job_posted_at": "2026-03-05T02:20:23.049Z"
   },
   {
     "job_id": "workday-leidos-R-00174597",
@@ -4242,7 +4242,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer-Intern_R-00174597-1",
-    "job_posted_at_datetime_utc": "2026-03-05T02:04:33.633Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:20:23.049Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2c6e9ae9a5ca396fc5e71e370456e97de332cd3e7af415f3edf4590570c1bf93",
@@ -4259,63 +4259,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:04:33.633Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234721",
-    "job_title": "Financial & Data Analytics Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Financial---Data-Analytics-Intern_R0234721",
-    "job_posted_at_datetime_utc": "2026-03-05T02:04:27.836Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "738be0786cd18274d41c53cdc5ad61a43d15ac20d37dd4f72f401112b551543c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:04:27.836Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234118",
-    "job_title": "Enterprise Cybersecurity Data and Business Intelligence Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Intern_R0234118",
-    "job_posted_at_datetime_utc": "2026-03-05T02:04:27.836Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "32c951d2ac94db2a959a55444d7b718b7f0702e4fbbfa1e0fd23f0a23aa7544b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:04:27.836Z"
+    "job_posted_at": "2026-03-05T02:20:23.049Z"
   },
   {
     "job_id": "workday-applied-materials-R2612472",
@@ -4326,7 +4270,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Process-Engineer-Intern---AZPI8_R2612472-1",
-    "job_posted_at_datetime_utc": "2026-03-05T02:04:26.515Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:20:13.404Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "043e91f8f257c942632bb8c1acc9ff5982bfde63bd12a4302b69be3919232a2d",
@@ -4343,7 +4287,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:04:26.515Z"
+    "job_posted_at": "2026-03-05T02:20:13.404Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234118",
+    "job_title": "Enterprise Cybersecurity Data and Business Intelligence Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Intern_R0234118",
+    "job_posted_at_datetime_utc": "2026-03-05T02:20:13.324Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "32c951d2ac94db2a959a55444d7b718b7f0702e4fbbfa1e0fd23f0a23aa7544b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:20:13.324Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234721",
+    "job_title": "Financial & Data Analytics Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Financial---Data-Analytics-Intern_R0234721",
+    "job_posted_at_datetime_utc": "2026-03-05T02:20:13.323Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "738be0786cd18274d41c53cdc5ad61a43d15ac20d37dd4f72f401112b551543c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T02:20:13.323Z"
   },
   {
     "job_id": "workday-nvidia-JR2009830",
@@ -4354,7 +4354,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Summer-2026_JR2009830",
-    "job_posted_at_datetime_utc": "2026-03-05T02:04:07.439Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:19:51.871Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d87416c45ccfc5e7222b3eb2f9d76f0304c06122585c65674a2a213b03d1972e",
@@ -4373,7 +4373,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:04:07.439Z"
+    "job_posted_at": "2026-03-05T02:19:51.871Z"
   },
   {
     "job_id": "workday-crowdstrike-R26667",
@@ -4384,7 +4384,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/University-Recruiting-Data-Launch-Intern--Hybrid-_R26667",
-    "job_posted_at_datetime_utc": "2026-03-05T02:04:01.502Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:19:46.077Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fb5ff25c16ab9a465800f2f931816dc36f455bebb0aa1267086a5ae335adb350",
@@ -4401,7 +4401,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:04:01.502Z"
+    "job_posted_at": "2026-03-05T02:19:46.077Z"
   },
   {
     "job_id": "workday-rtx-01823370",
@@ -4412,7 +4412,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Intern---Mechanical-Engineer---Test-Equipment---Onsite_01823370",
-    "job_posted_at_datetime_utc": "2026-03-05T02:03:55.026Z",
+    "job_posted_at_datetime_utc": "2026-03-05T02:19:40.339Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "eeffc72d47dfc79bed5acf8c7c432887b3a5019b8d90520c8feeee7d6eab01e6",
@@ -4429,7 +4429,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T02:03:55.026Z"
+    "job_posted_at": "2026-03-05T02:19:40.339Z"
   },
   {
     "job_id": "lever-hermeus-6afd9372-2a91-4935-b7a5-7a1cf4eb960b",
@@ -5479,34 +5479,6 @@
     "job_posted_at": "2026-03-04T00:30:39-05:00"
   },
   {
-    "job_id": "workday-red-hat-R-050435",
-    "job_title": "Deal Management Intern",
-    "employer_name": "Red Hat",
-    "job_city": "Raleigh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Deal-Management-Intern_R-050435",
-    "job_posted_at_datetime_utc": "2026-03-04T02:07:01.108Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02c6352c99a51a308a1d2380c9032d119206d3f49540c9cb91057f889cc095fb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:07:01.108Z"
-  },
-  {
     "job_id": "workday-trimble-R52484",
     "job_title": "Software Engineer Intern",
     "employer_name": "Trimble",
@@ -5515,7 +5487,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Atlanta-GA/Software-Engineer-Intern_R52484",
-    "job_posted_at_datetime_utc": "2026-03-04T02:06:58.301Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:22:56.341Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c802b782f96485fa67e37bd057441a09b0556df6051c0e6c475145498bd34f63",
@@ -5532,7 +5504,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:06:58.301Z"
+    "job_posted_at": "2026-03-04T02:22:56.341Z"
+  },
+  {
+    "job_id": "workday-red-hat-R-050435",
+    "job_title": "Deal Management Intern",
+    "employer_name": "Red Hat",
+    "job_city": "Raleigh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Deal-Management-Intern_R-050435",
+    "job_posted_at_datetime_utc": "2026-03-04T02:22:55.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02c6352c99a51a308a1d2380c9032d119206d3f49540c9cb91057f889cc095fb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T02:22:55.999Z"
   },
   {
     "job_id": "workday-kbr-R2119802",
@@ -5543,7 +5543,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802",
-    "job_posted_at_datetime_utc": "2026-03-04T02:06:18.748Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:22:14.235Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e9a43a51af9121f5c1d267207a26c68d71cd03b4ab30f654e08f6320b51cb40a",
@@ -5560,7 +5560,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:06:18.748Z"
+    "job_posted_at": "2026-03-04T02:22:14.235Z"
   },
   {
     "job_id": "workday-kbr-R2119800",
@@ -5571,7 +5571,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Systems-Engineering-Intern_R2119800",
-    "job_posted_at_datetime_utc": "2026-03-04T02:06:18.748Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:22:14.235Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c248ab54797a9a09af96b429272f98cf74a08550f7541a80f2586ea139c17d62",
@@ -5588,7 +5588,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:06:18.748Z"
+    "job_posted_at": "2026-03-04T02:22:14.235Z"
   },
   {
     "job_id": "workday-kbr-R2119799",
@@ -5599,7 +5599,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Digital-Engineer-Intern_R2119799",
-    "job_posted_at_datetime_utc": "2026-03-04T02:06:18.748Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:22:14.235Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c767e8defd470dc0ada70eca6a98059caafca7cdfc6547bcb6178706b18d271f",
@@ -5616,7 +5616,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:06:18.748Z"
+    "job_posted_at": "2026-03-04T02:22:14.235Z"
   },
   {
     "job_id": "workday-kbr-R2116713",
@@ -5627,7 +5627,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---Subcontracts-Intern_R2116713",
-    "job_posted_at_datetime_utc": "2026-03-04T02:06:18.748Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:22:14.235Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "452858d72241a0ac0df0faaaf22c826c3d6b1ced779fc40cb54c9ab6b1fbb74e",
@@ -5644,7 +5644,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:06:18.748Z"
+    "job_posted_at": "2026-03-04T02:22:14.235Z"
   },
   {
     "job_id": "workday-caci-319339",
@@ -5655,7 +5655,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Law-Clerk-II---Office-of-International-Affairs_319339-1",
-    "job_posted_at_datetime_utc": "2026-03-04T02:06:09.702Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:22:07.908Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7bf5f24ea66973d7d537c5379b2a8e32a5a629dd06b09d55a67e56510d2ce726",
@@ -5672,7 +5672,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:06:09.702Z"
+    "job_posted_at": "2026-03-04T02:22:07.908Z"
   },
   {
     "job_id": "workday-f5-RP1036815",
@@ -5683,7 +5683,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Channel-Marketing-Intern--Seattle-_RP1036815",
-    "job_posted_at_datetime_utc": "2026-03-04T02:05:31.895Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:21:17.618Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "60296d60a8836461f9a6274d5dba07a042c6b3df97e666362d54ba5414b19d8d",
@@ -5700,7 +5700,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:05:31.895Z"
+    "job_posted_at": "2026-03-04T02:21:17.618Z"
   },
   {
     "job_id": "workday-f5-RP1036808",
@@ -5711,7 +5711,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Desktop-Support-Specialist-Intern_RP1036808",
-    "job_posted_at_datetime_utc": "2026-03-04T02:05:31.895Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:21:17.618Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "417caa1df9cb2e06086bdf68bcd938d9c0c2c9ba1fe4bdf8f42eda62249f2ea3",
@@ -5728,7 +5728,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:05:31.895Z"
+    "job_posted_at": "2026-03-04T02:21:17.618Z"
   },
   {
     "job_id": "workday-caterpillar-R0000322517",
@@ -5739,7 +5739,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Cary-North-Carolina/XMLNAME-2026-Supply-Chain-Co-Op_R0000322517",
-    "job_posted_at_datetime_utc": "2026-03-04T02:05:20.996Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:21:07.689Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3615d7a2042fcc88826f14ee9882105e05dacd94ec0a918abb3a18e6ca1eefe3",
@@ -5756,7 +5756,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:05:20.996Z"
+    "job_posted_at": "2026-03-04T02:21:07.689Z"
   },
   {
     "job_id": "workday-proofpoint-R13831",
@@ -5767,7 +5767,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Global-Benefits---Accommodations-Intern_R13831",
-    "job_posted_at_datetime_utc": "2026-03-04T02:05:07.454Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "75f01f97050e7140ea795f145feb371a8b835315b2635c5aeb740a0156bc01ac",
@@ -5784,7 +5784,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:05:07.454Z"
+    "job_posted_at": "2026-03-04T02:20:55.825Z"
   },
   {
     "job_id": "workday-blue-origin-R56124",
@@ -5795,7 +5795,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Corporate-Development-Intern---Graduate_R56124",
-    "job_posted_at_datetime_utc": "2026-03-04T02:04:52.314Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:20:39.636Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "053ffbb460113470970e2a1ee943a07ecf0cd61e3273b3c7cb96f9c36f251a13",
@@ -5812,7 +5812,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:04:52.314Z"
+    "job_posted_at": "2026-03-04T02:20:39.636Z"
   },
   {
     "job_id": "workday-blue-origin-R60894",
@@ -5823,7 +5823,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Associate-Engineering-Intern--Summer-2026-_R60894",
-    "job_posted_at_datetime_utc": "2026-03-04T02:04:52.313Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:20:39.634Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "088399465d4e4a83e77e2223c44c60c597791bab5fbf16defc170ee56fee0150",
@@ -5840,7 +5840,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:04:52.313Z"
+    "job_posted_at": "2026-03-04T02:20:39.634Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234951",
@@ -5851,7 +5851,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
-    "job_posted_at_datetime_utc": "2026-03-04T02:04:27.837Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:20:13.324Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
@@ -5868,7 +5868,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:04:27.837Z"
+    "job_posted_at": "2026-03-04T02:20:13.324Z"
   },
   {
     "job_id": "workday-salesforce-JR328304",
@@ -5879,7 +5879,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Summer-2026-Intern---Employee-Success-Product-Analyst_JR328304-2",
-    "job_posted_at_datetime_utc": "2026-03-04T02:04:00.816Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:19:44.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "05d998175b3c0bdd5d03313b29d7f59477aa73d8ccf90d4ab9ceca53cdfc669d",
@@ -5896,7 +5896,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:04:00.816Z"
+    "job_posted_at": "2026-03-04T02:19:44.614Z"
   },
   {
     "job_id": "workday-salesforce-JR330713",
@@ -5907,7 +5907,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Recruiting-Analytics_JR330713-1",
-    "job_posted_at_datetime_utc": "2026-03-04T02:04:00.816Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:19:44.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e9129b98c3e2244b1ed10bfc8a8948a3248216e8fbe19cf42a8604076b08cd0d",
@@ -5924,7 +5924,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:04:00.816Z"
+    "job_posted_at": "2026-03-04T02:19:44.614Z"
   },
   {
     "job_id": "workday-salesforce-JR327688",
@@ -5935,7 +5935,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Employee-Success-Strategic-Initiatives_JR327688-1",
-    "job_posted_at_datetime_utc": "2026-03-04T02:04:00.816Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:19:44.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "086b3850361a4930e5f24bd3ce0df6a78223c09d10f096a7cb48c993738a5ff0",
@@ -5952,7 +5952,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:04:00.816Z"
+    "job_posted_at": "2026-03-04T02:19:44.614Z"
   },
   {
     "job_id": "workday-capital-one-R237232",
@@ -5963,7 +5963,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Student-Caf-Ambassador--Intern----Gulfgate-Center-and-Houston-Galleria_R237232-2",
-    "job_posted_at_datetime_utc": "2026-03-04T02:03:53.432Z",
+    "job_posted_at_datetime_utc": "2026-03-04T02:19:37.589Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "cfac96db6d6399276b3f6077cd4d5572ffb509d33c5d3472e3f33434ae91e1f8",
@@ -5980,7 +5980,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T02:03:53.432Z"
+    "job_posted_at": "2026-03-04T02:19:37.589Z"
   },
   {
     "job_id": "greenhouse-lucidmotors-4922167007",
@@ -7049,7 +7049,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/High-School-Intern_R-055299",
-    "job_posted_at_datetime_utc": "2026-03-03T02:07:01.108Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:55.999Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e51c8088b6a830f293f162e98808e90e1ca4fb69c1d8e7e7083e40bb68fa8363",
@@ -7066,7 +7066,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:07:01.108Z"
+    "job_posted_at": "2026-03-03T02:22:55.999Z"
   },
   {
     "job_id": "workday-banner-health-R4435155",
@@ -7077,7 +7077,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/High-School-Internship-Greeley_R4435155",
-    "job_posted_at_datetime_utc": "2026-03-03T02:06:43.082Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:38.471Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0b1a1d5e2aef92d00cac0ae50c2ca95347173455c11ccf6f9a6f09a3a1106816",
@@ -7094,7 +7094,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:06:43.082Z"
+    "job_posted_at": "2026-03-03T02:22:38.471Z"
   },
   {
     "job_id": "workday-globalfoundries-JR-2502862",
@@ -7105,7 +7105,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/IP---Design-Engineering-Intern--Summer-2026-_JR-2502862",
-    "job_posted_at_datetime_utc": "2026-03-03T02:06:40.040Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:37.267Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9b453dc054c44694d724fb5bb578c5d96640363c891fa29648a22368f76119a0",
@@ -7122,7 +7122,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:06:40.040Z"
+    "job_posted_at": "2026-03-03T02:22:37.267Z"
+  },
+  {
+    "job_id": "workday-kbr-R2119773",
+    "job_title": "National Security Solutions (NSS) Internship – Space Systems (Graduate) Intern",
+    "employer_name": "KBR",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---Space-Systems--Graduate--Intern_R2119773",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:14.236Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "24f2e7b5abf97cd987b5a38b3b7daaf20411ca028a80346e36a9666e1f292d82",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T02:22:14.236Z"
+  },
+  {
+    "job_id": "workday-kbr-R2119764",
+    "job_title": "National Security Solutions (NSS) Internship – FPGA Signal Processing Intern",
+    "employer_name": "KBR",
+    "job_city": "Chantilly",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---FPGA-Signal-Processing-Intern_R2119764",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:14.236Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e355851c0ec0783a6ef4be285f665052bd43fc313d8c3c16f0e28690b73b5d37",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T02:22:14.236Z"
   },
   {
     "job_id": "workday-kbr-R2119798",
@@ -7133,7 +7189,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---AI-Engineer-Intern_R2119798",
-    "job_posted_at_datetime_utc": "2026-03-03T02:06:18.748Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:14.235Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5d78c4a3db432acfc77fd7793f613e29524a7fb5312a406308cb705a12365141",
@@ -7151,63 +7207,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:06:18.748Z"
-  },
-  {
-    "job_id": "workday-kbr-R2119773",
-    "job_title": "National Security Solutions (NSS) Internship – Space Systems (Graduate) Intern",
-    "employer_name": "KBR",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---Space-Systems--Graduate--Intern_R2119773",
-    "job_posted_at_datetime_utc": "2026-03-03T02:06:18.748Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "24f2e7b5abf97cd987b5a38b3b7daaf20411ca028a80346e36a9666e1f292d82",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:06:18.748Z"
-  },
-  {
-    "job_id": "workday-kbr-R2119764",
-    "job_title": "National Security Solutions (NSS) Internship – FPGA Signal Processing Intern",
-    "employer_name": "KBR",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---FPGA-Signal-Processing-Intern_R2119764",
-    "job_posted_at_datetime_utc": "2026-03-03T02:06:18.748Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e355851c0ec0783a6ef4be285f665052bd43fc313d8c3c16f0e28690b73b5d37",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:06:18.748Z"
+    "job_posted_at": "2026-03-03T02:22:14.235Z"
   },
   {
     "job_id": "workday-micron-JR91639",
@@ -7218,7 +7218,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-CO/SPG-Ops-AI-Intern_JR91639",
-    "job_posted_at_datetime_utc": "2026-03-03T02:06:10.293Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:08.179Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "54df5e384a53565e8356392d27a2efb35e1df6eecbe9ad027a0b0e7145129ce7",
@@ -7235,7 +7235,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:06:10.293Z"
+    "job_posted_at": "2026-03-03T02:22:08.179Z"
   },
   {
     "job_id": "workday-micron-JR91771",
@@ -7246,7 +7246,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Design-Engineer_JR91771",
-    "job_posted_at_datetime_utc": "2026-03-03T02:06:10.293Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:22:08.179Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3a18cb30668bd1390d86e65d09377a3265d0297fca1c63dea375242d40a801c1",
@@ -7263,7 +7263,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:06:10.293Z"
+    "job_posted_at": "2026-03-03T02:22:08.179Z"
   },
   {
     "job_id": "workday-ochsner-health-REQ_00257143",
@@ -7274,7 +7274,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Nurse-Intern---RN-Students---All-Locations_REQ_00257143",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:59.885Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:54.929Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3ef2ad996607da45d456f5802438405ea82589ede0dc7813fc973ec6e43a5cba",
@@ -7291,7 +7291,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:59.885Z"
+    "job_posted_at": "2026-03-03T02:21:54.929Z"
   },
   {
     "job_id": "workday-geisinger-health-R-73359",
@@ -7302,7 +7302,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Internal-Medicine-Primary-Care-Physician-up-to--250k-Recruitment-Incentive_R-73359-1",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:52.604Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:39.915Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fceedb8921c29ac33c4ab92e5990662dde7a88d3dd38c4c170744e24fed19840",
@@ -7319,7 +7319,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:52.604Z"
+    "job_posted_at": "2026-03-03T02:21:39.915Z"
   },
   {
     "job_id": "workday-geisinger-health-R-87202",
@@ -7330,7 +7330,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Internal-Medicine-Primary-Care-Physician-outpatient-only_R-87202",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:52.604Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:39.915Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "34ba9d11965e8b0d7bf0220d014974f3da9c4bf7f2882cfbb68218d6c97d3fad",
@@ -7347,7 +7347,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:52.604Z"
+    "job_posted_at": "2026-03-03T02:21:39.915Z"
   },
   {
     "job_id": "workday-sharp-healthcare-JR203958",
@@ -7358,7 +7358,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/International-Patient-Liaison-I---Spectrum-Corporate-Offices---Full-Time---Variable-Shift_JR203958",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:45.749Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:35.159Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "78255accc01993a1d11cba1a9b4bcf0b5e68795633e996a1dd57f1e78315820e",
@@ -7375,35 +7375,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:45.749Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R163186",
-    "job_title": "Internal Medicine Physician",
-    "employer_name": "Intermountain Health",
-    "job_city": "Salt Lake Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Internal-Medicine-Physician_R163186-1",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:35.877Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d609b843bd1ddea36ac4d2fa858a92a7122c1b9a21e63c776e737aec073dafc3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:35.877Z"
+    "job_posted_at": "2026-03-03T02:21:35.159Z"
   },
   {
     "job_id": "workday-intermountain-health-R163454",
@@ -7414,7 +7386,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Pharmacy-Intern_R163454",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:35.877Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:24.228Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5efb79e1b722aad5a04cca8b06607149a6dc18d7cc973777f2f1f4922186b43c",
@@ -7431,7 +7403,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:35.877Z"
+    "job_posted_at": "2026-03-03T02:21:24.228Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R163186",
+    "job_title": "Internal Medicine Physician",
+    "employer_name": "Intermountain Health",
+    "job_city": "Salt Lake Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Internal-Medicine-Physician_R163186-1",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:24.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d609b843bd1ddea36ac4d2fa858a92a7122c1b9a21e63c776e737aec073dafc3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T02:21:24.227Z"
   },
   {
     "job_id": "workday-f5-RP1036608",
@@ -7442,7 +7442,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Network-Engineering-Intern_RP1036608-1",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:31.895Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:17.618Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "31f14f75f6956776a117f3aacda7576fafc78aed48a70fe6ca07f089d988a466",
@@ -7459,7 +7459,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:31.895Z"
+    "job_posted_at": "2026-03-03T02:21:17.618Z"
   },
   {
     "job_id": "workday-f5-RP1036582",
@@ -7470,7 +7470,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Developer-Experience-Intern_RP1036582-1",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:31.895Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:17.618Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "74af8163a6ac2b080ecc58bbe178af1b40a3a6e2051bc0fa92525cce27b3287e",
@@ -7487,7 +7487,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:31.895Z"
+    "job_posted_at": "2026-03-03T02:21:17.618Z"
   },
   {
     "job_id": "workday-f5-RP1036606",
@@ -7498,7 +7498,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Data-Analyst-Intern_RP1036606-1",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:31.895Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:17.618Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "50fd5e18085f3f944feb3dd069935bb46f1a3ca9aadf4531c875a51efd2723b9",
@@ -7515,7 +7515,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:31.895Z"
+    "job_posted_at": "2026-03-03T02:21:17.618Z"
   },
   {
     "job_id": "workday-f5-RP1036765",
@@ -7526,7 +7526,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Spokane/Datapath-Engineer-Intern--Spokane-_RP1036765",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:31.895Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:21:17.618Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "88d8028185bc170ee47adf5f99c3747fb9f990c009068a5e5463c87c967d4b7f",
@@ -7543,7 +7543,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:31.895Z"
+    "job_posted_at": "2026-03-03T02:21:17.618Z"
   },
   {
     "job_id": "workday-proofpoint-R13821",
@@ -7554,7 +7554,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Commercial-Sales-Intern_R13821",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:07.455Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "78c105938910f26e042b0d01d38d1faf0a01de5c581bceb00b5124bd35950b77",
@@ -7571,7 +7571,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:07.455Z"
+    "job_posted_at": "2026-03-03T02:20:55.825Z"
   },
   {
     "job_id": "workday-proofpoint-R13816",
@@ -7582,7 +7582,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Partner-Sales-Intern_R13816",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:07.455Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b25f41bd3387827a508995c9baf6c5b13a81c2d3a5868dbce4fc84b2c5219ece",
@@ -7599,7 +7599,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:07.455Z"
+    "job_posted_at": "2026-03-03T02:20:55.825Z"
   },
   {
     "job_id": "workday-proofpoint-R13818",
@@ -7610,7 +7610,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Workday-Analyst-Intern_R13818",
-    "job_posted_at_datetime_utc": "2026-03-03T02:05:07.455Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6bfa37346a390e18a6c30312129edd3f8d424a7b66a77469311cadb374fdb8ca",
@@ -7627,7 +7627,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:05:07.455Z"
+    "job_posted_at": "2026-03-03T02:20:55.825Z"
   },
   {
     "job_id": "workday-motorola-solutions-R61008",
@@ -7638,7 +7638,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Outbound-Sales-Representative---2026-Summer-Intern_R61008",
-    "job_posted_at_datetime_utc": "2026-03-03T02:04:52.067Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:20:39.129Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f40f77eb632b33503db487168b65e1d3606ac40f03c53be0441870ab79155c28",
@@ -7655,7 +7655,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:04:52.067Z"
+    "job_posted_at": "2026-03-03T02:20:39.129Z"
   },
   {
     "job_id": "workday-leidos-R-00177071",
@@ -7666,7 +7666,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00177071",
-    "job_posted_at_datetime_utc": "2026-03-03T02:04:33.634Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:20:23.050Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c4dc0cc2a1b5a03aa2bdcce7d93344ea13d9482ab1096d3b46f7c65c224b76aa",
@@ -7683,7 +7683,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:04:33.634Z"
+    "job_posted_at": "2026-03-03T02:20:23.050Z"
   },
   {
     "job_id": "workday-applied-materials-R2611972",
@@ -7694,7 +7694,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Process-Integration-Intern--Bachelor-Masters---Santa-Clara--CA-_R2611972",
-    "job_posted_at_datetime_utc": "2026-03-03T02:04:26.516Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:20:13.408Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e504030d93553bc50c2d84ae1becac29d67a7a58002bb8289b861f8c0c65a145",
@@ -7711,7 +7711,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:04:26.516Z"
+    "job_posted_at": "2026-03-03T02:20:13.408Z"
   },
   {
     "job_id": "workday-applied-materials-R2612276",
@@ -7722,7 +7722,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist-Intern--Bachelor-Masters---Santa-Clara--CA-_R2612276",
-    "job_posted_at_datetime_utc": "2026-03-03T02:04:26.516Z",
+    "job_posted_at_datetime_utc": "2026-03-03T02:20:13.408Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e2c9cedabc033f1b581486cfce58ea72040861ef71dc50771c8fe70a3c6ca3a6",
@@ -7739,7 +7739,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T02:04:26.516Z"
+    "job_posted_at": "2026-03-03T02:20:13.408Z"
   },
   {
     "job_id": "workday-boeing-JR2026498874",
@@ -9139,6 +9139,230 @@
     "job_posted_at": "2026-03-01T15:56:02.502Z"
   },
   {
+    "job_id": "workday-caci-322152",
+    "job_title": "Mechanical Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Mechanical-Engineering-Intern---Summer-2026_322152-1",
+    "job_posted_at_datetime_utc": "2026-03-01T02:22:07.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51848fd2169f51a6ec24766032f7af83abd4328f3450b309cff324acccc267dd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:22:07.911Z"
+  },
+  {
+    "job_id": "workday-caci-322183",
+    "job_title": "Talent Acquisition Support Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US OK Oklahoma City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Talent-Acquisition-Support-Intern---Summer-2026_322183",
+    "job_posted_at_datetime_utc": "2026-03-01T02:22:07.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a77467183b49a494fd8f5d0a5c5602978b5e70747de7aa504585ba4c82f326f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:22:07.911Z"
+  },
+  {
+    "job_id": "workday-caci-321740",
+    "job_title": "Accounting Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US VA Reston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Reston/Accounting-Intern---Summer-2026_321740",
+    "job_posted_at_datetime_utc": "2026-03-01T02:22:07.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c16beac53757fe40ed685627bde165c9df0a27bcdb3c6666a4ecf2b9d82ede2b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:22:07.911Z"
+  },
+  {
+    "job_id": "workday-caci-321971",
+    "job_title": "Associate Buyer Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US OK Oklahoma City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Associate-Buyer-Intern---Summer-2026_321971",
+    "job_posted_at_datetime_utc": "2026-03-01T02:22:07.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9955abc8aa336a6b75f1d532dd79178eace6cc4464f8479effc2bd0292ac5d23",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:22:07.911Z"
+  },
+  {
+    "job_id": "workday-caci-321976",
+    "job_title": "Automations Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US OK Oklahoma City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Automations-Intern---Summer-2026_321976",
+    "job_posted_at_datetime_utc": "2026-03-01T02:22:07.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8180fefb77f1be0024086b08835a81e07ae1c4a1c7b02a813ceeb22d3fd53148",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:22:07.911Z"
+  },
+  {
+    "job_id": "workday-caci-322151",
+    "job_title": "Aerospace Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Aerospace-Engineering-Intern---Summer-2026_322151",
+    "job_posted_at_datetime_utc": "2026-03-01T02:22:07.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b4d85d34751fb4a4e34884f1d97e62cdeaa18c6fa7b452bd37b78b2e7d743e57",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:22:07.910Z"
+  },
+  {
+    "job_id": "workday-caci-322146",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Electrical-Engineering-Intern---Summer-2026_322146",
+    "job_posted_at_datetime_utc": "2026-03-01T02:22:07.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60f478bf203c009e7961366de0acda3f5896dff8b72013b0163a73666465d10a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:22:07.910Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2613075",
+    "job_title": "Intern System Engineer- PhD, Santa Clara, CA",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075",
+    "job_posted_at_datetime_utc": "2026-03-01T02:20:13.409Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e8871cf2bb533af7544fc1006ed0e32cd11b5a8c6297207e5160c7431fa61d02",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-01T02:20:13.409Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2612470",
     "job_title": "AI Intern - AZPI6",
     "employer_name": "Applied Materials",
@@ -9165,230 +9389,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-01T02:06:10.827Z"
-  },
-  {
-    "job_id": "workday-caci-322183",
-    "job_title": "Talent Acquisition Support Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US OK Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Talent-Acquisition-Support-Intern---Summer-2026_322183",
-    "job_posted_at_datetime_utc": "2026-03-01T02:06:09.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a77467183b49a494fd8f5d0a5c5602978b5e70747de7aa504585ba4c82f326f4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:06:09.704Z"
-  },
-  {
-    "job_id": "workday-caci-321740",
-    "job_title": "Accounting Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US VA Reston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Reston/Accounting-Intern---Summer-2026_321740",
-    "job_posted_at_datetime_utc": "2026-03-01T02:06:09.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c16beac53757fe40ed685627bde165c9df0a27bcdb3c6666a4ecf2b9d82ede2b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:06:09.704Z"
-  },
-  {
-    "job_id": "workday-caci-321971",
-    "job_title": "Associate Buyer Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US OK Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Associate-Buyer-Intern---Summer-2026_321971",
-    "job_posted_at_datetime_utc": "2026-03-01T02:06:09.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9955abc8aa336a6b75f1d532dd79178eace6cc4464f8479effc2bd0292ac5d23",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:06:09.704Z"
-  },
-  {
-    "job_id": "workday-caci-321976",
-    "job_title": "Automations Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US OK Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Automations-Intern---Summer-2026_321976",
-    "job_posted_at_datetime_utc": "2026-03-01T02:06:09.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8180fefb77f1be0024086b08835a81e07ae1c4a1c7b02a813ceeb22d3fd53148",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:06:09.704Z"
-  },
-  {
-    "job_id": "workday-caci-322146",
-    "job_title": "Electrical Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Electrical-Engineering-Intern---Summer-2026_322146",
-    "job_posted_at_datetime_utc": "2026-03-01T02:06:09.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60f478bf203c009e7961366de0acda3f5896dff8b72013b0163a73666465d10a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:06:09.703Z"
-  },
-  {
-    "job_id": "workday-caci-322152",
-    "job_title": "Mechanical Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Mechanical-Engineering-Intern---Summer-2026_322152-1",
-    "job_posted_at_datetime_utc": "2026-03-01T02:06:09.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51848fd2169f51a6ec24766032f7af83abd4328f3450b309cff324acccc267dd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:06:09.703Z"
-  },
-  {
-    "job_id": "workday-caci-322151",
-    "job_title": "Aerospace Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Aerospace-Engineering-Intern---Summer-2026_322151",
-    "job_posted_at_datetime_utc": "2026-03-01T02:06:09.702Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b4d85d34751fb4a4e34884f1d97e62cdeaa18c6fa7b452bd37b78b2e7d743e57",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:06:09.702Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2613075",
-    "job_title": "Intern System Engineer- PhD, Santa Clara, CA",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075",
-    "job_posted_at_datetime_utc": "2026-03-01T02:04:26.516Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e8871cf2bb533af7544fc1006ed0e32cd11b5a8c6297207e5160c7431fa61d02",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-01T02:04:26.516Z"
   },
   {
     "job_id": "js-rtx-cporbb35y80hyouzaaaaaa==",
@@ -9656,7 +9656,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Design-Engineer_JR85954",
-    "job_posted_at_datetime_utc": "2026-02-28T02:06:10.293Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:22:08.179Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3a18cb30668bd1390d86e65d09377a3265d0297fca1c63dea375242d40a801c1",
@@ -9673,7 +9673,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:06:10.293Z"
+    "job_posted_at": "2026-02-28T02:22:08.179Z"
   },
   {
     "job_id": "workday-micron-JR91614",
@@ -9684,7 +9684,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/SSD-Firmware-Intern_JR91614",
-    "job_posted_at_datetime_utc": "2026-02-28T02:06:10.293Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:22:08.179Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "205eb7a10cd7dc8c6738652c19847ad51ac1f9b259b36e7d2ac87a6c409650b2",
@@ -9701,7 +9701,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:06:10.293Z"
+    "job_posted_at": "2026-02-28T02:22:08.179Z"
   },
   {
     "job_id": "workday-ochsner-health-REQ_00255404",
@@ -9712,7 +9712,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Internal-Medicine-Telemetry----Jeff-Hwy---Full-Time-Nights_REQ_00255404",
-    "job_posted_at_datetime_utc": "2026-02-28T02:05:59.887Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:21:54.929Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fdb2ff4a1e74bca83524e50c4e2aa6dd0bb40d45de813e980cdbf59abf1fd441",
@@ -9729,7 +9729,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:05:59.887Z"
+    "job_posted_at": "2026-02-28T02:21:54.929Z"
+  },
+  {
+    "job_id": "workday-ochsner-health-REQ_00255404",
+    "job_title": "CNA - Internal Medicine/Telemetry -  Jeff Hwy - Full Time Nights",
+    "employer_name": "Ochsner Health",
+    "job_city": "New Orleans Region - Louisiana",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Internal-Medicine-Telemetry----Jeff-Hwy---Full-Time-Nights_REQ_00255404",
+    "job_posted_at_datetime_utc": "2026-02-28T02:21:54.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fdb2ff4a1e74bca83524e50c4e2aa6dd0bb40d45de813e980cdbf59abf1fd441",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "nursing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T02:21:54.928Z"
   },
   {
     "job_id": "workday-saint-luke's-health-system-JobReq0056033",
@@ -9740,7 +9768,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-1_JobReq0056033",
-    "job_posted_at_datetime_utc": "2026-02-28T02:05:57.340Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:21:48.393Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "25a4c7c15864caa5ba340ec2951f955baae1121e02bcb8c7201d2e16dd32d1f3",
@@ -9757,7 +9785,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:05:57.340Z"
+    "job_posted_at": "2026-02-28T02:21:48.393Z"
   },
   {
     "job_id": "workday-saint-luke's-health-system-JobReq0056035",
@@ -9768,7 +9796,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Pharmacy-Intern-Year-2_JobReq0056035",
-    "job_posted_at_datetime_utc": "2026-02-28T02:05:57.340Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:21:48.393Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b1b7ee9adf0485c040cfb2b0dd23ee88b1495382339525a5de56ad0081a96c4f",
@@ -9785,7 +9813,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:05:57.340Z"
+    "job_posted_at": "2026-02-28T02:21:48.393Z"
   },
   {
     "job_id": "workday-proofpoint-R13808",
@@ -9796,7 +9824,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Planning---Business-Analysis-Intern_R13808",
-    "job_posted_at_datetime_utc": "2026-02-28T02:05:07.455Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5d16ab2a67ebc188a61022d88ff044af6636898f26bdea5aa5bf2d9b7b50c34f",
@@ -9813,7 +9841,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:05:07.455Z"
+    "job_posted_at": "2026-02-28T02:20:55.825Z"
   },
   {
     "job_id": "workday-cadence-R53278",
@@ -9824,7 +9852,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/AI---Chip-Design-Intern--Summer-2026-_R53278-2",
-    "job_posted_at_datetime_utc": "2026-02-28T02:04:49.638Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:20:41.110Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b2cfb2323ef1a78d0ac4cbd37126567f8ab1f7417494b32d3c8bebaebe613179",
@@ -9841,7 +9869,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:04:49.638Z"
+    "job_posted_at": "2026-02-28T02:20:41.110Z"
   },
   {
     "job_id": "workday-applied-materials-R2516559",
@@ -9852,7 +9880,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Supply-Chain-Intern--Master-s--Santa-Clara--CA-_R2516559",
-    "job_posted_at_datetime_utc": "2026-02-28T02:04:26.516Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:20:13.409Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "562f46f3f3cfa3fab56daa826efac85dbbc993d8f6a2ce5206240074a75a16c8",
@@ -9869,7 +9897,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:04:26.516Z"
+    "job_posted_at": "2026-02-28T02:20:13.409Z"
   },
   {
     "job_id": "workday-applied-materials-R2612584",
@@ -9880,7 +9908,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2026-Instructional-Systems-Designer-Intern--Bachelor-s--Austin--TX-_R2612584",
-    "job_posted_at_datetime_utc": "2026-02-28T02:04:26.516Z",
+    "job_posted_at_datetime_utc": "2026-02-28T02:20:13.409Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f395dd72cf3d35e7c1123e802d45d266a085b6630f9524f586743b10d02c42d1",
@@ -9897,7 +9925,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T02:04:26.516Z"
+    "job_posted_at": "2026-02-28T02:20:13.409Z"
   },
   {
     "job_id": "js-fulton-bank-n6vgipfigbgu8q6caaaaaa==",
@@ -11665,14 +11693,14 @@
     "job_posted_at": "2026-02-27T01:32:28-05:00"
   },
   {
-    "job_id": "greenhouse-ripple-7466995",
+    "job_id": "greenhouse-ripple-7462164",
     "job_title": "MBA Sales Intern (Summer 2026)",
     "employer_name": "Ripple",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7466995?gh_jid=7466995",
+    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7462164?gh_jid=7462164",
     "job_posted_at_datetime_utc": "2026-02-27T01:32:28-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -11693,14 +11721,14 @@
     "job_posted_at": "2026-02-27T01:32:28-05:00"
   },
   {
-    "job_id": "greenhouse-ripple-7462164",
+    "job_id": "greenhouse-ripple-7466995",
     "job_title": "MBA Sales Intern (Summer 2026)",
     "employer_name": "Ripple",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7462164?gh_jid=7462164",
+    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7466995?gh_jid=7466995",
     "job_posted_at_datetime_utc": "2026-02-27T01:32:28-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -11870,7 +11898,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Greenbelt-Maryland/SSMO-Software-Engineer-Intern_R2119666",
-    "job_posted_at_datetime_utc": "2026-02-27T02:06:18.748Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:22:14.236Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ba6475e52dc1738939241af7d5937d31fe19ea429d168ceebd73eed493425c16",
@@ -11887,7 +11915,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:06:18.748Z"
+    "job_posted_at": "2026-02-27T02:22:14.236Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92877",
@@ -11898,7 +11926,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Pharmacy-Intern-Technician---All-Geisinger-Pharmacy-Locations_R-92877",
-    "job_posted_at_datetime_utc": "2026-02-27T02:05:52.604Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:21:39.915Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "32e33491df5694dfebbeefcfc652d8dd6cadf706c43cdea8fca8409d9f0462cd",
@@ -11915,7 +11943,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:05:52.604Z"
+    "job_posted_at": "2026-02-27T02:21:39.915Z"
   },
   {
     "job_id": "workday-geisinger-health-R-92849",
@@ -11926,7 +11954,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/Pharmacy-Intern-Technician_R-92849-1",
-    "job_posted_at_datetime_utc": "2026-02-27T02:05:52.604Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:21:39.915Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2e5fc11001f072d4d617c53d74669184e9e34d09bf89ec178b8a61756ca7851e",
@@ -11943,7 +11971,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:05:52.604Z"
+    "job_posted_at": "2026-02-27T02:21:39.915Z"
   },
   {
     "job_id": "workday-geisinger-health-R-90163",
@@ -11954,7 +11982,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Nonclinical-Co-Op---Facilities_R-90163",
-    "job_posted_at_datetime_utc": "2026-02-27T02:05:52.604Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:21:39.915Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d5d9259218ea65f06cb176d26b196985f95e5f6c67a9c31b524ea20532b09b0",
@@ -11971,7 +11999,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:05:52.604Z"
+    "job_posted_at": "2026-02-27T02:21:39.915Z"
   },
   {
     "job_id": "workday-proofpoint-R13776",
@@ -11982,7 +12010,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Software-Engineering-Intern---AI-Agents_R13776",
-    "job_posted_at_datetime_utc": "2026-02-27T02:05:07.455Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2556ebe71c3394c37d158b8ab2692a7e2a24869a6024e8773d1bf0cac5a89ff9",
@@ -11999,7 +12027,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:05:07.455Z"
+    "job_posted_at": "2026-02-27T02:20:55.825Z"
   },
   {
     "job_id": "workday-cadence-R53282",
@@ -12010,7 +12038,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-    "job_posted_at_datetime_utc": "2026-02-27T02:04:49.638Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:20:41.110Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d0bd66fc675c331be7c471060d23e4c78ab77aadcaca6897a77a85aa25ebdb46",
@@ -12027,7 +12055,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:04:49.638Z"
+    "job_posted_at": "2026-02-27T02:20:41.110Z"
   },
   {
     "job_id": "workday-cadence-R53474",
@@ -12038,7 +12066,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Finance-Transformation-Intern_R53474-1",
-    "job_posted_at_datetime_utc": "2026-02-27T02:04:49.638Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:20:41.110Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e332035119f76246b7ffca053c961f0526e3dd46018940410dd392b46fe89c45",
@@ -12055,7 +12083,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:04:49.638Z"
+    "job_posted_at": "2026-02-27T02:20:41.110Z"
   },
   {
     "job_id": "workday-cadence-R53488",
@@ -12066,7 +12094,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Intern-Software-Engineering_R53488",
-    "job_posted_at_datetime_utc": "2026-02-27T02:04:49.638Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:20:41.110Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3a2de8d798bff19e6bb6aa44134a414090f470d9dca3d78dc8d42162090797bd",
@@ -12083,7 +12111,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:04:49.638Z"
+    "job_posted_at": "2026-02-27T02:20:41.110Z"
   },
   {
     "job_id": "workday-applied-materials-R2520257",
@@ -12094,7 +12122,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Design-Engineering-Intern_R2520257",
-    "job_posted_at_datetime_utc": "2026-02-27T02:04:26.516Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:20:13.409Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5f5023cd4b55c9a563677fd33ca96d2aaec630d826d1203e4cd369b670ec49e9",
@@ -12111,7 +12139,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:04:26.516Z"
+    "job_posted_at": "2026-02-27T02:20:13.409Z"
   },
   {
     "job_id": "workday-nvidia-JR2010638",
@@ -12122,7 +12150,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2026_JR2010638",
-    "job_posted_at_datetime_utc": "2026-02-27T02:04:07.442Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:19:51.874Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "928ac019b990f88aa2f747801dabf65efd61cc5f248a49aa7afbd6242379d4f0",
@@ -12141,7 +12169,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:04:07.442Z"
+    "job_posted_at": "2026-02-27T02:19:51.874Z"
   },
   {
     "job_id": "workday-nvidia-JR2006184",
@@ -12152,7 +12180,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Intern--High-Performance-Databases---Summer-2026_JR2006184",
-    "job_posted_at_datetime_utc": "2026-02-27T02:04:07.442Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:19:51.874Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "08f538465ad62da2d5f3ed637d9fa2addd5ed698cf8e52a8c94d8447c055edc2",
@@ -12171,7 +12199,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:04:07.442Z"
+    "job_posted_at": "2026-02-27T02:19:51.874Z"
   },
   {
     "job_id": "workday-capital-one-R234019",
@@ -12182,7 +12210,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Student-Caf-Ambassador--Intern----Carytown-and-Short-Pump_R234019-1",
-    "job_posted_at_datetime_utc": "2026-02-27T02:03:53.433Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:19:37.590Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "26350a72e03f6fba2c500a7e96f7df3b70f3d21c60110bbb679ee8434b22cdc1",
@@ -12199,7 +12227,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:03:53.433Z"
+    "job_posted_at": "2026-02-27T02:19:37.590Z"
   },
   {
     "job_id": "workday-capital-one-R234009",
@@ -12210,7 +12238,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bronx-NY/Student-Caf-Ambassador--Intern----New-York-City_R234009-1",
-    "job_posted_at_datetime_utc": "2026-02-27T02:03:53.433Z",
+    "job_posted_at_datetime_utc": "2026-02-27T02:19:37.590Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a34addcd82e3671994146eed47c6328457ae8ed12779c585b6216eb790cd1308",
@@ -12227,7 +12255,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T02:03:53.433Z"
+    "job_posted_at": "2026-02-27T02:19:37.590Z"
   },
   {
     "job_id": "workday-boeing-JR2026498301",
@@ -13532,7 +13560,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Internal-Communications-Intern---Summer-2026_R54616",
-    "job_posted_at_datetime_utc": "2026-02-26T02:06:58.302Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:22:56.342Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9531caab4829a66b1a85e888220680d23df312d541f1cf383a1b89901f59a455",
@@ -13549,7 +13577,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:06:58.302Z"
+    "job_posted_at": "2026-02-26T02:22:56.342Z"
   },
   {
     "job_id": "workday-marvell-2502295",
@@ -13560,7 +13588,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Package-Engineering-Intern---PhD_2502295-1",
-    "job_posted_at_datetime_utc": "2026-02-26T02:06:40.153Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:22:36.112Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2a27692725443987238eb084d157309a7b81007d99cd91d0b6c786ef9b14ebfd",
@@ -13577,7 +13605,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:06:40.153Z"
+    "job_posted_at": "2026-02-26T02:22:36.112Z"
   },
   {
     "job_id": "workday-kbr-R2119260",
@@ -13588,7 +13616,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/International-Operations-Specialist_R2119260",
-    "job_posted_at_datetime_utc": "2026-02-26T02:06:18.750Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:22:14.236Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3b1c28575221e6aff67759d459dcf714bf2615fdbcef248f6df49d99a8dd1f12",
@@ -13605,7 +13633,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:06:18.750Z"
+    "job_posted_at": "2026-02-26T02:22:14.236Z"
   },
   {
     "job_id": "workday-kbr-R2119521",
@@ -13616,7 +13644,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---Signal-Processing-Intern_R2119521",
-    "job_posted_at_datetime_utc": "2026-02-26T02:06:18.750Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:22:14.236Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "899a9bd372d56f794fb61a56ded7010f77c27f46b42040fb7c635202e31a9f94",
@@ -13633,7 +13661,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:06:18.750Z"
+    "job_posted_at": "2026-02-26T02:22:14.236Z"
   },
   {
     "job_id": "workday-adobe-R158880",
@@ -13644,7 +13672,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---GTM-Strategy-Analyst_R158880",
-    "job_posted_at_datetime_utc": "2026-02-26T02:05:19.460Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:21:07.162Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "127da7c4a2f4a6987fc67654a9fe02b4e5b2d3e227c3217d4a9adcbc30867305",
@@ -13661,7 +13689,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:05:19.460Z"
+    "job_posted_at": "2026-02-26T02:21:07.162Z"
   },
   {
     "job_id": "workday-proofpoint-R13786",
@@ -13672,7 +13700,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Partner-AI-Enablement-Intern--Co-Op-_R13786",
-    "job_posted_at_datetime_utc": "2026-02-26T02:05:07.455Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:20:55.825Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ec4a5ceb698997098e0bec05e9772f2b93d526b706555f25997e06f5a3ab94f3",
@@ -13689,7 +13717,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:05:07.455Z"
+    "job_posted_at": "2026-02-26T02:20:55.825Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2517824",
+    "job_title": "2026 Summer EHS/Product Safety Engineer Intern (Bachelors -- Multiple Locations)",
+    "employer_name": "Applied Materials",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-EHS-Product-Safety-Engineer-Intern--Bachelors----Multiple-Locations-_R2517824",
+    "job_posted_at_datetime_utc": "2026-02-26T02:20:13.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69b8969227cd610fcf260cf54f47ef3e7e369c77f4ab0066f1c62948a5c9f533",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T02:20:13.410Z"
   },
   {
     "job_id": "workday-applied-materials-R2612962",
@@ -13700,7 +13756,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-AI-Engineer-Data-Scientist-Intern--Bachelor-s--Santa-Clara--CA-_R2612962-1",
-    "job_posted_at_datetime_utc": "2026-02-26T02:04:26.517Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:20:13.409Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a4c8700565dc4db9828d2aa714f46ccc4d64ef2d73f61ca6576608924f0adbf1",
@@ -13718,35 +13774,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:04:26.517Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2517824",
-    "job_title": "2026 Summer EHS/Product Safety Engineer Intern (Bachelors -- Multiple Locations)",
-    "employer_name": "Applied Materials",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-EHS-Product-Safety-Engineer-Intern--Bachelors----Multiple-Locations-_R2517824",
-    "job_posted_at_datetime_utc": "2026-02-26T02:04:26.517Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69b8969227cd610fcf260cf54f47ef3e7e369c77f4ab0066f1c62948a5c9f533",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:04:26.517Z"
+    "job_posted_at": "2026-02-26T02:20:13.409Z"
   },
   {
     "job_id": "workday-salesforce-JR328032",
@@ -13757,7 +13785,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Summer-2026-Intern---Recruiting-Optimization_JR328032-1",
-    "job_posted_at_datetime_utc": "2026-02-26T02:04:00.818Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:19:44.616Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1045c00b203a829fd86ce6e847a1925637ffdb33e28a9155bda9e2dcff87ac9a",
@@ -13774,7 +13802,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:04:00.818Z"
+    "job_posted_at": "2026-02-26T02:19:44.616Z"
   },
   {
     "job_id": "workday-salesforce-JR329335",
@@ -13785,7 +13813,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Summer-2026-Intern---PhD-Workforce-Innovation_JR329335-2",
-    "job_posted_at_datetime_utc": "2026-02-26T02:04:00.818Z",
+    "job_posted_at_datetime_utc": "2026-02-26T02:19:44.616Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "232d17a6bcd695d481cccabe735e9cd06eba630ddfbc71b0b262b2b3f322c834",
@@ -13802,7 +13830,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T02:04:00.818Z"
+    "job_posted_at": "2026-02-26T02:19:44.616Z"
   },
   {
     "job_id": "greenhouse-lyft-8438500002",
@@ -15804,7 +15832,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Technical-Support-Engineer-Intern_R-050438",
-    "job_posted_at_datetime_utc": "2026-02-25T02:07:01.109Z",
+    "job_posted_at_datetime_utc": "2026-02-25T02:22:56.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f9d4696a6e4db651ce0cc2487189a9be975361465b3bf6eb14e7bf5697e15326",
@@ -15821,7 +15849,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T02:07:01.109Z"
+    "job_posted_at": "2026-02-25T02:22:56.000Z"
   },
   {
     "job_id": "workday-nxp-R-10061874",
@@ -15832,7 +15860,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Irvine/Mixed-Signal-RF-Test-Engineer-Intern_R-10061874",
-    "job_posted_at_datetime_utc": "2026-02-25T02:06:42.757Z",
+    "job_posted_at_datetime_utc": "2026-02-25T02:22:38.871Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "262fce4dc455b7fdec9619c0d5841ec921299a9c7a518213bfefd87ee31525bc",
@@ -15849,7 +15877,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T02:06:42.757Z"
+    "job_posted_at": "2026-02-25T02:22:38.871Z"
   },
   {
     "job_id": "workday-kbr-R2119512",
@@ -15860,7 +15888,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS--Internship---Automatic-Gain-Control-for-Software-Defined-Radio_R2119512",
-    "job_posted_at_datetime_utc": "2026-02-25T02:06:18.750Z",
+    "job_posted_at_datetime_utc": "2026-02-25T02:22:14.236Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c0c29facf44771321597fdbc7ea91aa617836fbee1e7333d20b45bfeac69ca83",
@@ -15877,7 +15905,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T02:06:18.750Z"
+    "job_posted_at": "2026-02-25T02:22:14.236Z"
   },
   {
     "job_id": "workday-micron-JR91027",
@@ -15888,7 +15916,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-CO/Hardware-SSD-ME-Intern_JR91027",
-    "job_posted_at_datetime_utc": "2026-02-25T02:06:10.294Z",
+    "job_posted_at_datetime_utc": "2026-02-25T02:22:08.180Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fefa5434bfd899dbc2adf5f81a6275aa693be454be8f1f16cde69b6e166af862",
@@ -15905,7 +15933,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T02:06:10.294Z"
+    "job_posted_at": "2026-02-25T02:22:08.180Z"
   },
   {
     "job_id": "workday-applied-materials-R2611742",
@@ -15916,7 +15944,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026---Process-Engineer-Intern---PhD--Santa-Clara--CA-_R2611742",
-    "job_posted_at_datetime_utc": "2026-02-25T02:04:26.521Z",
+    "job_posted_at_datetime_utc": "2026-02-25T02:20:13.410Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "23005a212106fbde9546d8f191e0a2085a7eec13b4aa6e857cb8f4c04c1d1ffd",
@@ -15933,7 +15961,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T02:04:26.521Z"
+    "job_posted_at": "2026-02-25T02:20:13.410Z"
   },
   {
     "job_id": "workday-applied-materials-R2613404",
@@ -15944,7 +15972,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/XMLNAME-2026-Summer-Global-Product-Support-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613404",
-    "job_posted_at_datetime_utc": "2026-02-25T02:04:26.521Z",
+    "job_posted_at_datetime_utc": "2026-02-25T02:20:13.410Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d5856896f431d650b610a07bfeb3ba8f19c816c87d695f1e1e3cd9043dcc60b6",
@@ -15961,7 +15989,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T02:04:26.521Z"
+    "job_posted_at": "2026-02-25T02:20:13.410Z"
   },
   {
     "job_id": "workday-applied-materials-R2613160",
@@ -15972,7 +16000,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineer-Intern--Advanced-Degree----Santa-Clara--CA_R2613160",
-    "job_posted_at_datetime_utc": "2026-02-25T02:04:26.521Z",
+    "job_posted_at_datetime_utc": "2026-02-25T02:20:13.410Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d70b606eb0e746ff15073c7ed13c4f6c8d30659612a6ea565a6314a5a18367d7",
@@ -15989,7 +16017,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T02:04:26.521Z"
+    "job_posted_at": "2026-02-25T02:20:13.410Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4051746",
@@ -17584,7 +17612,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0281130",
-    "job_posted_at_datetime_utc": "2026-02-24T02:06:44.997Z",
+    "job_posted_at_datetime_utc": "2026-02-24T02:22:41.643Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db4a933edfe0af57d0a044cbc5e6e0bb07702db79915b42de85892639715c3ae",
@@ -17601,7 +17629,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T02:06:44.997Z"
+    "job_posted_at": "2026-02-24T02:22:41.643Z"
   },
   {
     "job_id": "workday-intel-JR0281131",
@@ -17612,7 +17640,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering----Intern--Bachelor-s_JR0281131",
-    "job_posted_at_datetime_utc": "2026-02-24T02:06:44.997Z",
+    "job_posted_at_datetime_utc": "2026-02-24T02:22:41.643Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6dd296050f3c6532bb4cd1fa4dbbad1bcbef99de4efe091804ca3106624722ac",
@@ -17629,7 +17657,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T02:06:44.997Z"
+    "job_posted_at": "2026-02-24T02:22:41.643Z"
   },
   {
     "job_id": "workday-kbr-R2119436",
@@ -17640,7 +17668,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Mission-Technology-Solutions-Finance-Intern--Summer-2026-_R2119436",
-    "job_posted_at_datetime_utc": "2026-02-24T02:06:18.750Z",
+    "job_posted_at_datetime_utc": "2026-02-24T02:22:14.236Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "142c13c7747a10cb21b736baafde3e7fdd945d9d9a03748d5df655bbab9fff12",
@@ -17657,7 +17685,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T02:06:18.750Z"
+    "job_posted_at": "2026-02-24T02:22:14.236Z"
   },
   {
     "job_id": "workday-saint-luke's-health-system-JobReq0054889",
@@ -17668,7 +17696,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-South-Hospital------12300-Metcalf-Ave------Overland-Park------KS/Nursing-Intern_JobReq0054889",
-    "job_posted_at_datetime_utc": "2026-02-24T02:05:57.340Z",
+    "job_posted_at_datetime_utc": "2026-02-24T02:21:48.393Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "aec58163c077bb5a6a18fe3e48ff0619bd96e785f16fa9cb45359a841dcd21fb",
@@ -17685,7 +17713,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T02:05:57.340Z"
+    "job_posted_at": "2026-02-24T02:21:48.393Z"
   },
   {
     "job_id": "workday-nvidia-JR2008573",
@@ -17696,7 +17724,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573",
-    "job_posted_at_datetime_utc": "2026-02-24T02:04:07.442Z",
+    "job_posted_at_datetime_utc": "2026-02-24T02:19:51.874Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "48d6b39de2163791d482df8dd2ede83f045eaac14f8dd79b1addc38655f09375",
@@ -17715,7 +17743,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T02:04:07.442Z"
+    "job_posted_at": "2026-02-24T02:19:51.874Z"
   },
   {
     "job_id": "ashby-crusoe-a96fc69c-5191-46b1-915b-c3241f9d2186",
@@ -19452,7 +19480,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Government-Affairs-Intern--Summer-2026-_JR-2502837",
-    "job_posted_at_datetime_utc": "2026-02-23T02:06:40.040Z",
+    "job_posted_at_datetime_utc": "2026-02-23T02:22:37.268Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6a39d7bdd611f93385c47f8d1391937e395718d04b08ee56e767466790e138a5",
@@ -19469,7 +19497,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T02:06:40.040Z"
+    "job_posted_at": "2026-02-23T02:22:37.268Z"
   },
   {
     "job_id": "js-cox-enterprises-tbfevgs7-yokahvvaaaaaa==",
