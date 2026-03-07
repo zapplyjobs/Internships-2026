@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Data-Analyst-Summer-Intern-1_R164274",
-    "job_posted_at_datetime_utc": "2026-03-07T07:04:36.013Z",
+    "job_posted_at_datetime_utc": "2026-03-07T07:18:22.476Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "126945289e60af67b8764f3dc3db734f9acfde6bc115e80d65a190a1fdf68418",
@@ -25,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T07:04:36.013Z"
+    "job_posted_at": "2026-03-07T07:18:22.476Z"
   },
   {
     "job_id": "workday-intermountain-health-R164276",
@@ -36,7 +36,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Internal-Medicine_R164276",
-    "job_posted_at_datetime_utc": "2026-03-07T07:04:36.013Z",
+    "job_posted_at_datetime_utc": "2026-03-07T07:18:22.476Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3934f055fc1434d378d5d558e12b8ea59147f8b79836a2c9c6b15bc5d623af2c",
@@ -53,7 +53,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T07:04:36.013Z"
+    "job_posted_at": "2026-03-07T07:18:22.476Z"
   },
   {
     "job_id": "workday-intermountain-health-R164760",
@@ -64,7 +64,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Spanish-Fork-Hospital/Spanish-Fork-Hospital-Undergrad-Administrative-Internship---Summer-2026_R164760",
-    "job_posted_at_datetime_utc": "2026-03-07T07:04:36.012Z",
+    "job_posted_at_datetime_utc": "2026-03-07T07:18:22.475Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6034a3c76af71782287c1fef6449a53cbdccf2ce3f95531d3334eadc153ff58b",
@@ -81,7 +81,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T07:04:36.012Z"
+    "job_posted_at": "2026-03-07T07:18:22.475Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4050641",
@@ -2661,6 +2661,35 @@
     "job_posted_at": "2026-03-05T19:12:07-05:00"
   },
   {
+    "job_id": "js-dupont-xopjquxtoy1vxhlsaaaaaa==",
+    "job_title": "2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities",
+    "employer_name": "Dupont",
+    "job_city": "Richmond",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities",
+    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "3f4916e78ee43dcb2d49ed29b99fe4d8018525ef5d6e9565d837a6e36d187d34",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-netapp-tj-ev_1wr0jnfihyaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "NetApp",
@@ -2706,35 +2735,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dupont-xopjquxtoy1vxhlsaaaaaa==",
-    "job_title": "2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities",
-    "employer_name": "Dupont",
-    "job_city": "Richmond",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities",
-    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "3f4916e78ee43dcb2d49ed29b99fe4d8018525ef5d6e9565d837a6e36d187d34",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -3488,7 +3488,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/American-Fork-Specialty-Clinic/Medical-Assistant-Internal-Medicine_R163753",
-    "job_posted_at_datetime_utc": "2026-03-05T07:04:36.014Z",
+    "job_posted_at_datetime_utc": "2026-03-05T07:18:22.476Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b93add199427a782c6a41180ad963aa5f6e65d43808bdeaefa87a35dd18214e6",
@@ -3505,7 +3505,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T07:04:36.014Z"
+    "job_posted_at": "2026-03-05T07:18:22.476Z"
   },
   {
     "job_id": "workday-leidos-R-00177513",
@@ -5425,6 +5425,118 @@
     "job_posted_at": "2026-03-04T14:06:53.177Z"
   },
   {
+    "job_id": "workday-salesforce-JR328304",
+    "job_title": "Summer 2026 Intern - Employee Success Product Analyst",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Summer-2026-Intern---Employee-Success-Product-Analyst_JR328304-2",
+    "job_posted_at_datetime_utc": "2026-03-04T07:18:00.149Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05d998175b3c0bdd5d03313b29d7f59477aa73d8ccf90d4ab9ceca53cdfc669d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T07:18:00.149Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR330713",
+    "job_title": "Summer 2026 Intern - Recruiting Analytics",
+    "employer_name": "Salesforce",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Recruiting-Analytics_JR330713-1",
+    "job_posted_at_datetime_utc": "2026-03-04T07:18:00.149Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e9129b98c3e2244b1ed10bfc8a8948a3248216e8fbe19cf42a8604076b08cd0d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T07:18:00.149Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR327688",
+    "job_title": "Summer 2026 Intern - Employee Success Strategic Initiatives",
+    "employer_name": "Salesforce",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Employee-Success-Strategic-Initiatives_JR327688-1",
+    "job_posted_at_datetime_utc": "2026-03-04T07:18:00.149Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "086b3850361a4930e5f24bd3ce0df6a78223c09d10f096a7cb48c993738a5ff0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T07:18:00.149Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237232",
+    "job_title": "Student Café Ambassador (Intern) - Gulfgate Center and Houston Galleria",
+    "employer_name": "Capital One",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Student-Caf-Ambassador--Intern----Gulfgate-Center-and-Houston-Galleria_R237232-2",
+    "job_posted_at_datetime_utc": "2026-03-04T07:17:52.993Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfac96db6d6399276b3f6077cd4d5572ffb509d33c5d3472e3f33434ae91e1f8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T07:17:52.993Z"
+  },
+  {
     "job_id": "workday-blue-origin-R56124",
     "job_title": "Summer 2026 Corporate Development Intern - Graduate",
     "employer_name": "Blue Origin",
@@ -5507,118 +5619,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-04T07:03:40.012Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR328304",
-    "job_title": "Summer 2026 Intern - Employee Success Product Analyst",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Summer-2026-Intern---Employee-Success-Product-Analyst_JR328304-2",
-    "job_posted_at_datetime_utc": "2026-03-04T07:03:17.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05d998175b3c0bdd5d03313b29d7f59477aa73d8ccf90d4ab9ceca53cdfc669d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:03:17.744Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR330713",
-    "job_title": "Summer 2026 Intern - Recruiting Analytics",
-    "employer_name": "Salesforce",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Recruiting-Analytics_JR330713-1",
-    "job_posted_at_datetime_utc": "2026-03-04T07:03:17.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e9129b98c3e2244b1ed10bfc8a8948a3248216e8fbe19cf42a8604076b08cd0d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:03:17.744Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR327688",
-    "job_title": "Summer 2026 Intern - Employee Success Strategic Initiatives",
-    "employer_name": "Salesforce",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Employee-Success-Strategic-Initiatives_JR327688-1",
-    "job_posted_at_datetime_utc": "2026-03-04T07:03:17.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "086b3850361a4930e5f24bd3ce0df6a78223c09d10f096a7cb48c993738a5ff0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:03:17.744Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237232",
-    "job_title": "Student Café Ambassador (Intern) - Gulfgate Center and Houston Galleria",
-    "employer_name": "Capital One",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Student-Caf-Ambassador--Intern----Gulfgate-Center-and-Houston-Galleria_R237232-2",
-    "job_posted_at_datetime_utc": "2026-03-04T07:03:08.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cfac96db6d6399276b3f6077cd4d5572ffb509d33c5d3472e3f33434ae91e1f8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:03:08.363Z"
   },
   {
     "job_id": "workday-red-hat-R-050435",
@@ -6966,7 +6966,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/High-School-Internship-Greeley_R4435155",
-    "job_posted_at_datetime_utc": "2026-03-03T07:05:03.498Z",
+    "job_posted_at_datetime_utc": "2026-03-03T07:18:50.941Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0b1a1d5e2aef92d00cac0ae50c2ca95347173455c11ccf6f9a6f09a3a1106816",
@@ -6983,7 +6983,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T07:05:03.498Z"
+    "job_posted_at": "2026-03-03T07:18:50.941Z"
   },
   {
     "job_id": "workday-intermountain-health-R163186",
@@ -6994,7 +6994,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Internal-Medicine-Physician_R163186-1",
-    "job_posted_at_datetime_utc": "2026-03-03T07:04:36.017Z",
+    "job_posted_at_datetime_utc": "2026-03-03T07:18:22.480Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d609b843bd1ddea36ac4d2fa858a92a7122c1b9a21e63c776e737aec073dafc3",
@@ -7011,7 +7011,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T07:04:36.017Z"
+    "job_posted_at": "2026-03-03T07:18:22.480Z"
   },
   {
     "job_id": "workday-motorola-solutions-R61008",
@@ -11754,6 +11754,62 @@
     "job_posted_at": "2026-02-27T11:05:33.010Z"
   },
   {
+    "job_id": "workday-capital-one-R234019",
+    "job_title": "Student Café Ambassador (Intern) - Carytown and Short Pump",
+    "employer_name": "Capital One",
+    "job_city": "Richmond",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Student-Caf-Ambassador--Intern----Carytown-and-Short-Pump_R234019-1",
+    "job_posted_at_datetime_utc": "2026-02-27T07:17:52.994Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26350a72e03f6fba2c500a7e96f7df3b70f3d21c60110bbb679ee8434b22cdc1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T07:17:52.994Z"
+  },
+  {
+    "job_id": "workday-capital-one-R234009",
+    "job_title": "Student Café Ambassador (Intern) - New York City",
+    "employer_name": "Capital One",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bronx-NY/Student-Caf-Ambassador--Intern----New-York-City_R234009-1",
+    "job_posted_at_datetime_utc": "2026-02-27T07:17:52.994Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a34addcd82e3671994146eed47c6328457ae8ed12779c585b6216eb790cd1308",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T07:17:52.994Z"
+  },
+  {
     "job_id": "workday-cadence-R53282",
     "job_title": "Software Intern",
     "employer_name": "Cadence",
@@ -11924,62 +11980,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-27T07:03:21.287Z"
-  },
-  {
-    "job_id": "workday-capital-one-R234019",
-    "job_title": "Student Café Ambassador (Intern) - Carytown and Short Pump",
-    "employer_name": "Capital One",
-    "job_city": "Richmond",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Student-Caf-Ambassador--Intern----Carytown-and-Short-Pump_R234019-1",
-    "job_posted_at_datetime_utc": "2026-02-27T07:03:08.364Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26350a72e03f6fba2c500a7e96f7df3b70f3d21c60110bbb679ee8434b22cdc1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T07:03:08.364Z"
-  },
-  {
-    "job_id": "workday-capital-one-R234009",
-    "job_title": "Student Café Ambassador (Intern) - New York City",
-    "employer_name": "Capital One",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bronx-NY/Student-Caf-Ambassador--Intern----New-York-City_R234009-1",
-    "job_posted_at_datetime_utc": "2026-02-27T07:03:08.364Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a34addcd82e3671994146eed47c6328457ae8ed12779c585b6216eb790cd1308",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T07:03:08.364Z"
   },
   {
     "job_id": "workday-kbr-R2119666",
@@ -12178,14 +12178,14 @@
     "job_posted_at": "2026-02-27T01:32:28-05:00"
   },
   {
-    "job_id": "greenhouse-ripple-7466995",
+    "job_id": "greenhouse-ripple-7462164",
     "job_title": "MBA Sales Intern (Summer 2026)",
     "employer_name": "Ripple",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7466995?gh_jid=7466995",
+    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7462164?gh_jid=7462164",
     "job_posted_at_datetime_utc": "2026-02-27T01:32:28-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -12206,14 +12206,14 @@
     "job_posted_at": "2026-02-27T01:32:28-05:00"
   },
   {
-    "job_id": "greenhouse-ripple-7462164",
+    "job_id": "greenhouse-ripple-7466995",
     "job_title": "MBA Sales Intern (Summer 2026)",
     "employer_name": "Ripple",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7462164?gh_jid=7462164",
+    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7466995?gh_jid=7466995",
     "job_posted_at_datetime_utc": "2026-02-27T01:32:28-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -13611,6 +13611,34 @@
     "job_posted_at": "2026-02-26T09:05:06.948Z"
   },
   {
+    "job_id": "workday-salesforce-JR328032",
+    "job_title": "Summer 2026 Intern - Recruiting Optimization",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Summer-2026-Intern---Recruiting-Optimization_JR328032-1",
+    "job_posted_at_datetime_utc": "2026-02-26T07:18:00.152Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1045c00b203a829fd86ce6e847a1925637ffdb33e28a9155bda9e2dcff87ac9a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T07:18:00.152Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2612962",
     "job_title": "2026 AI Engineer/Data Scientist Intern- Bachelor's (Santa Clara, CA)",
     "employer_name": "Applied Materials",
@@ -13666,34 +13694,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-26T07:03:40.154Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR328032",
-    "job_title": "Summer 2026 Intern - Recruiting Optimization",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Summer-2026-Intern---Recruiting-Optimization_JR328032-1",
-    "job_posted_at_datetime_utc": "2026-02-26T07:03:17.748Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1045c00b203a829fd86ce6e847a1925637ffdb33e28a9155bda9e2dcff87ac9a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T07:03:17.748Z"
   },
   {
     "job_id": "workday-trimble-R54616",
