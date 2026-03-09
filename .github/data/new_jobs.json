@@ -21024,33 +21024,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-02-23T22:30:02.978+00:00"
-  },
-  {
-    "job_id": "workday-intermountain-health-R161145",
-    "job_title": "Pharmacy Intern Level 1 - Homecare South Jordan - PRN-2",
-    "employer_name": "Intermountain Health",
-    "job_city": "Salt Lake City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Home-Services---Salt-Lake-City/Pharmacy-Intern-Level-1---Homecare-South-Jordan---PRN-2_R161145",
-    "job_posted_at_datetime_utc": "2026-02-23T22:10:01.927Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68afdd746c2f1ffefe5ac7c934a487f3004df1245f17df9e1d25dce7d43a8198",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T22:10:01.927Z"
   }
 ]
