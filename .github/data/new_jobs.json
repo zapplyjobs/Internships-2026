@@ -20772,33 +20772,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-23T11:33:16-05:00"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234416",
-    "job_title": "University, Data Engineering Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Crane",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Crane-IN/University--Data-Engineering-Intern_R0234416",
-    "job_posted_at_datetime_utc": "2026-02-23T15:05:05.611Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9cebfe7a8b64c64d13ddc4b4b9f3faf3c4c872ab9fe88e4a899635836e9a646",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T15:05:05.611Z"
   }
 ]
