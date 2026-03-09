@@ -193,7 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Intermountain Health** | Data Analytics Intern (Summer) | Key Bank Tower | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Data-Analytics-Intern--Summer-_R163177) |
+| 🏢 **Intermountain Health** | Data Analytics Intern (Summer) | Key Bank Tower | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Data-Analytics-Intern--Summer-_R163177) |
 | 🏢 **The MITRE Corporation** | Internships in Data Science, Math, Statistics or Operations Research | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research) |
 | 🏢 **Intermountain Health** | Data Analyst Summer Intern-1 | Transformation Ce... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Data-Analyst-Summer-Intern-1_R164274) |
 | 🏢 **Rich Products Corporation** | Data Science/AI Intern | Brunswick | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/data-scienceai-intern-brunswick-rich-products-corporation-465b71aced2253e2cf6c2fa3e111f7bd) |
