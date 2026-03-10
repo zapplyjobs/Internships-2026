@@ -19470,33 +19470,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-24T15:17:19-05:00"
-  },
-  {
-    "job_id": "workday-applied-materials-R2613404",
-    "job_title": "2026 Summer Global Product Support Engineer Intern - Bachelor's (Kalispell, MT)",
-    "employer_name": "Applied Materials",
-    "job_city": "Kalispell",
-    "job_state": "MT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/XMLNAME-2026-Summer-Global-Product-Support-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613404",
-    "job_posted_at_datetime_utc": "2026-02-24T19:21:26.887Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5856896f431d650b610a07bfeb3ba8f19c816c87d695f1e1e3cd9043dcc60b6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T19:21:26.887Z"
   }
 ]
