@@ -28775,33 +28775,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-25T15:42:45-05:00"
-  },
-  {
-    "job_id": "greenhouse-sigmacomputing-7641392003",
-    "job_title": "Partner Engineering Intern (Summer 2026)",
-    "employer_name": "Sigma Computing",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7641392003",
-    "job_posted_at_datetime_utc": "2026-02-25T15:22:51-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c26fb4265d72793cc17d5f1765e3a14c43cdc445f454d755cc81d10960da84ed",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-25T15:22:51-05:00"
   }
 ]
