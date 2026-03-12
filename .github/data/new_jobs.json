@@ -36730,33 +36730,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-26T17:51:16-05:00"
-  },
-  {
-    "job_id": "greenhouse-rocketlab-7186232003",
-    "job_title": "Propulsion Intern Summer 2026",
-    "employer_name": "Rocket Lab",
-    "job_city": "Long Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/rocketlab/jobs/7186232003",
-    "job_posted_at_datetime_utc": "2026-02-26T17:30:44-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fbc7e1011eb7d81dc535fa16fa33dc5f92a9f9313083dcbb275d68e719cdac0d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-26T17:30:44-05:00"
   }
 ]
