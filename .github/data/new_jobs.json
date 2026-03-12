@@ -35520,34 +35520,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-26T13:22:13-05:00"
-  },
-  {
-    "job_id": "sr-ServiceNow-744000111686666",
-    "job_title": "Technical Writer - Emerging Talent Intern (July 2026-December 2026)",
-    "employer_name": "ServiceNow",
-    "job_city": "Santa Clara",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.smartrecruiters.com/ServiceNow/744000111686666",
-    "job_posted_at_datetime_utc": "2026-02-26T18:09:02.731Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2cd4d4ed38aa720c435f82eda30fbb96a481f129c7de87c9c050671ea3d2443",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-02-26T18:09:02.731Z"
   }
 ]
