@@ -34539,33 +34539,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-02-26T03:22:14.787+00:00"
-  },
-  {
-    "job_id": "greenhouse-lyft-8438500002",
-    "job_title": "Global Security Investigations Analyst Intern (Summer 2026)",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8438500002?gh_jid=8438500002",
-    "job_posted_at_datetime_utc": "2026-02-25T20:51:53-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50fa81bb6975c36460c1a5ef85fc7107d16598985911428d0706fe5dd642e9a4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-25T20:51:53-05:00"
   }
 ]
