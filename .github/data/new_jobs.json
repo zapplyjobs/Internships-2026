@@ -36783,33 +36783,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-26T16:47:13-05:00"
-  },
-  {
-    "job_id": "workday-motorola-solutions-R62384",
-    "job_title": "Presales System Engineer Intern (2026 Summer Internship)",
-    "employer_name": "Motorola Solutions",
-    "job_city": "Brentwood",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-System-Engineer-Intern--2026-Summer-Internship-_R62384-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:05:04.077Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7657e055b0e26c8690a8b3f77bc6105c6dafc08c0691b81340378798f606cf35",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:05:04.077Z"
   }
 ]
