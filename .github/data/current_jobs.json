@@ -33467,33 +33467,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-26T13:34:47.727Z"
-  },
-  {
-    "job_id": "workday-nationwide-children's-R-22511",
-    "job_title": "Intern- Foundation Development Svcs",
-    "employer_name": "Nationwide Children's",
-    "job_city": "525 E. Mound St",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/525-E-Mound-St-Columbus-OH/Intern--Foundation-Development-Svcs_R-22511-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:07:14.828Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db7da5891df8b2724fa6377818284c60d3a5319420d373dbb0aa59e89ecff082",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:07:14.828Z"
   }
 ]
