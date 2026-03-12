@@ -36646,33 +36646,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-26T22:21:09.282Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026498299",
-    "job_title": "Millennium Space Systems Summer 2026 Internship Program – Spacecraft Structural Engineering",
-    "employer_name": "Boeing",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Spacecraft-Structural-Engineering_JR2026498299-1",
-    "job_posted_at_datetime_utc": "2026-02-26T22:06:10.676Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40422587f1997311419269ac990f547e3ab7a70d974b2d4bfc7ddebaee32c3b3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T22:06:10.676Z"
   }
 ]
