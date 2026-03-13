@@ -35148,33 +35148,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-02-27T21:00:00.000Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4052410",
-    "job_title": "Student COOP - Cornea Co Op",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Student-COOP---Cornea-Co-Op_RQ4052410",
-    "job_posted_at_datetime_utc": "2026-02-27T20:02:06.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ac50d382bd55cb777f3411e1b7788d78f6f42ae1fdb3a5e48d8b236872bd45c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:02:06.834Z"
   }
 ]
