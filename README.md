@@ -518,7 +518,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Intermountain Health** | Medical Assistant Internal Medicine | Salt Lake Clinic | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Medical-Assistant-Internal-Medicine_R164731) |
+| 🏢 **Intermountain Health** | Medical Assistant Internal Medicine | Salt Lake Clinic | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Medical-Assistant-Internal-Medicine_R164731) |
 | 🏢 **WorldQuant** | Quantitative Research Intern | Hanoi or Ho Chi M... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/worldquant/jobs/4434997006) |
 | 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
 | 🏢 **Intuitive** | Research Scientist Intern | Peachtree Corners... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000114531855) |
