@@ -34531,33 +34531,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T07:06:59-05:00"
-  },
-  {
-    "job_id": "workday-ochsner-health-REQ_00255404",
-    "job_title": "CNA - Internal Medicine/Telemetry -  Jeff Hwy - Full Time Nights",
-    "employer_name": "Ochsner Health",
-    "job_city": "New Orleans Region - Louisiana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Internal-Medicine-Telemetry----Jeff-Hwy---Full-Time-Nights_REQ_00255404",
-    "job_posted_at_datetime_utc": "2026-02-27T09:01:04.924Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fdb2ff4a1e74bca83524e50c4e2aa6dd0bb40d45de813e980cdbf59abf1fd441",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T09:01:04.924Z"
   }
 ]
