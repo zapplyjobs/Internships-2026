@@ -35497,34 +35497,5 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-02-27T18:09:49.291Z"
-  },
-  {
-    "job_id": "js-star-tribune-media-company-llc-dedhygvgksbluceqaaaaaa==",
-    "job_title": "Software Engineer Intern - Fall 2026",
-    "employer_name": "Star Tribune Media Company LLC",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=b4157b42be55dad3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T18:00:00.000Z",
-    "job_employment_type": "PART-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b4790b03d1b6d892de7ad2a25f42d893a31191019d3f988d06b052609b138ae9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T18:00:00.000Z"
   }
 ]
