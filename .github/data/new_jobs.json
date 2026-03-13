@@ -34464,33 +34464,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-27T15:19:46.626Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2612584",
-    "job_title": "Summer 2026 Instructional Systems Designer Intern- Bachelor's (Austin, TX)",
-    "employer_name": "Applied Materials",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2026-Instructional-Systems-Designer-Intern--Bachelor-s--Austin--TX-_R2612584",
-    "job_posted_at_datetime_utc": "2026-02-27T14:52:15.279Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f395dd72cf3d35e7c1123e802d45d266a085b6630f9524f586743b10d02c42d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T14:52:15.279Z"
   }
 ]
