@@ -35101,33 +35101,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T12:24:21-05:00"
-  },
-  {
-    "job_id": "greenhouse-affirm-7519403003",
-    "job_title": "Security Intern - Summer 2026",
-    "employer_name": "Affirm",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/affirm/jobs/7519403003",
-    "job_posted_at_datetime_utc": "2026-02-27T12:09:32-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d98b2cd871988b9d901d6482122488a136df93ba0efe0c8243d6cabf695a70b8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-27T12:09:32-05:00"
   }
 ]
