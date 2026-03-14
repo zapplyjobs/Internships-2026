@@ -1,145 +1,5 @@
 [
   {
-    "job_id": "workday-banner-health-R4435473",
-    "job_title": "Front Office Patient Financial Service Representative Internal Medicine Clinic",
-    "employer_name": "Banner Health",
-    "job_city": "BUMC Phoenix Internal Medicine",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-Internal-Medicine-1300-N-12th-St-Suite-508/Front-Office-Patient-Financial-Service-Representative-Internal-Medicine-Clinic_R4435473",
-    "job_posted_at_datetime_utc": "2026-03-14T06:54:34.358Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f0144724651d8b1febc24d5da9dcde175b96bc76c9591453b17a7bb6f3a26bd8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:54:34.358Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R164731",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Salt Lake Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Medical-Assistant-Internal-Medicine_R164731",
-    "job_posted_at_datetime_utc": "2026-03-14T06:54:05.394Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc376377a39f8e174152e5d072f2b9ca453193b08db8fe33f0102a2609aab4bd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:54:05.394Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R164168",
-    "job_title": "Administrative Coordinator iFlex Internal Travel Team",
-    "employer_name": "Intermountain Health",
-    "job_city": "Transformation Center",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Administrative-Coordinator-iFlex-Internal-Travel-Team_R164168",
-    "job_posted_at_datetime_utc": "2026-03-14T06:54:05.393Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf2842ef94465ba2458b7ea39dba1d156c9cdc5c8cf5a1d873e7b0986c8ed969",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:54:05.393Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R165606",
-    "job_title": "Registered Nurse iFlex Internal Travel Team Labor and Delivery",
-    "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health Riverton Hospital",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Labor-and-Delivery_R165606",
-    "job_posted_at_datetime_utc": "2026-03-14T06:54:05.393Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7440a6c5c8965e80380cfed605b3f500ce4a33bb164f9912c64ca1c57538e2fd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:54:05.393Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R165603",
-    "job_title": "Registered Nurse iFlex Internal Travel Team Labor and Delivery",
-    "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health St Vincent Regional Hospital",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Labor-and-Delivery_R165603",
-    "job_posted_at_datetime_utc": "2026-03-14T06:54:05.393Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7b52870120087a1cd7b53830706ba599694d6ad84dcf2bb6c29e4526f037cb6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:54:05.393Z"
-  },
-  {
     "job_id": "workday-salesforce-JR333727",
     "job_title": "Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)",
     "employer_name": "Salesforce",
@@ -250,34 +110,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-14T05:58:53.778Z"
-  },
-  {
-    "job_id": "workday-asml-J-00336705",
-    "job_title": "Co-Op – Business Process Analyst Fall 2026 (Internship)",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Business-Process-Analyst-Fall-2026--Internship-_J-00336705",
-    "job_posted_at_datetime_utc": "2026-03-14T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa7223c095ee941b48fa3cdbd55b70431202e9bc62469a99053535af819f8148",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:58:33.362Z"
   },
   {
     "job_id": "workday-entegris-REQ-10778",
@@ -924,34 +756,6 @@
     "job_posted_at": "2026-03-14T05:57:47.482Z"
   },
   {
-    "job_id": "workday-asml-J-00336705",
-    "job_title": "Co-Op – Business Process Analyst Fall 2026 (Internship)",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Business-Process-Analyst-Fall-2026--Internship-_J-00336705",
-    "job_posted_at_datetime_utc": "2026-03-14T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa7223c095ee941b48fa3cdbd55b70431202e9bc62469a99053535af819f8148",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:57:27.224Z"
-  },
-  {
     "job_id": "workday-cisco-2009089",
     "job_title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
     "employer_name": "Cisco",
@@ -978,34 +782,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-14T05:57:24.664Z"
-  },
-  {
-    "job_id": "workday-nxp-R-10060439",
-    "job_title": "Test Engineering Intern - Summer 2026",
-    "employer_name": "NXP",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/Test-Engineering-Intern---Summer-2026_R-10060439-1",
-    "job_posted_at_datetime_utc": "2026-03-14T05:56:39.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2e71cb1070db9c2b8c6b868b4f876120ee07a73296447918c1a1c1edef5984e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:56:39.036Z"
   },
   {
     "job_id": "workday-globalfoundries-JR-2503145",
@@ -2859,6 +2635,35 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-13T15:26:21.215Z"
+  },
+  {
+    "job_id": "js-first-american-jorehpv78xgcm6x5aaaaaa==",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "First American",
+    "job_city": "Santa Ana",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://pitchmeai.com/jobs/first-american/data-scientist-intern-i68v2lds87",
+    "job_posted_at_datetime_utc": "2026-03-13T15:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e31283ee0e5554026ad662ca937beb7bc5aeb12387d20a34c2d37c85ac9060a7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-13T15:00:00.000Z"
   },
   {
     "job_id": "sr-AbbVie-3743990012133946",
@@ -5222,6 +5027,90 @@
     "job_posted_at": "2026-03-12T04:38:47-04:00"
   },
   {
+    "job_id": "workday-nxp-R-10062241",
+    "job_title": "Product Engineer Intern - Summer 2026",
+    "employer_name": "NXP",
+    "job_city": "Chandler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Product-Engineer-Intern---Summer-2026_R-10062241",
+    "job_posted_at_datetime_utc": "2026-03-12T07:09:15.409Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3162b868e1f8e6583372745b61f88656dff4f02869ac73fcd7e51dff3038b908",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:09:15.409Z"
+  },
+  {
+    "job_id": "workday-montefiore-medical-center-JR226497",
+    "job_title": "Internal Medicine Physician",
+    "employer_name": "Montefiore Medical Center",
+    "job_city": "3510 Johnson Avenue",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://montefiore.wd12.myworkdayjobs.com/MMC/job/3510-Johnson-Avenue/Internal-Medicine-Physician_JR226497",
+    "job_posted_at_datetime_utc": "2026-03-12T07:08:30.263Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7d213d98c26fcdf2a05d86926a4c5e07696cb77c816503b29c063116b6ec33d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:08:30.263Z"
+  },
+  {
+    "job_id": "workday-montefiore-medical-center-JR226412",
+    "job_title": "Internal Medicine Physician",
+    "employer_name": "Montefiore Medical Center",
+    "job_city": "2300 Westchester Avenue",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://montefiore.wd12.myworkdayjobs.com/MMC/job/2300-Westchester-Avenue/Internal-Medicine-Physician_JR226412",
+    "job_posted_at_datetime_utc": "2026-03-12T07:08:30.263Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f51a14b86308cdd61ea0d237c27dc5e884f2386299befa5d5984429342fa0c41",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:08:30.263Z"
+  },
+  {
     "job_id": "greenhouse-cloudflare-7578913",
     "job_title": "Threat Detection and Incident Response Intern (Summer 2026)",
     "employer_name": "Cloudflare",
@@ -5248,34 +5137,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-12T03:00:25-04:00"
-  },
-  {
-    "job_id": "workday-intermountain-health-R158439",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Holladay Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holladay-Clinic/Medical-Assistant-Pediatrics_R158439",
-    "job_posted_at_datetime_utc": "2026-03-12T06:54:05.395Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ecd63ad40e63e36ff7216e17cd5660dbf83c1a1417625cd9e27f0d3bdb46efa6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T06:54:05.395Z"
   },
   {
     "job_id": "workday-salesforce-JR313214",
@@ -5501,90 +5362,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-12T05:58:38.114Z"
-  },
-  {
-    "job_id": "workday-asml-J-00333367",
-    "job_title": "Internship - Controls for Droplet Generator Manufacturing and Qualification Tooling",
-    "employer_name": "ASML",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Droplet-Generator-Manufacturing-and-Qualification-Tooling_J-00333367",
-    "job_posted_at_datetime_utc": "2026-03-12T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "66c199b18b3ed86bbb23407314f177fae0919ab28e74e5a69f9270e856499327",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:58:33.362Z"
-  },
-  {
-    "job_id": "workday-asml-J-00333520",
-    "job_title": "Co-op - Test and Measurement Facility Engineer - Fall 2026 (Internship)",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Test-and-Measurement-Facility-Engineer---Fall-2026--Internship-_J-00333520",
-    "job_posted_at_datetime_utc": "2026-03-12T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d26fea5e4d8733550833a5466e5a326ec4bcf6ee02cf692574df4a26754411f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:58:33.362Z"
-  },
-  {
-    "job_id": "workday-asml-J-00336001",
-    "job_title": "Internship - Mechanical Engineer",
-    "employer_name": "ASML",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Mechanical-Engineer_J-00336001",
-    "job_posted_at_datetime_utc": "2026-03-12T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc594059f8441a9ee1616a120f45f052a619ca37808d9b97c88996ec85bff1fb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:58:33.362Z"
   },
   {
     "job_id": "workday-state-street-R-785714",
@@ -6287,90 +6064,6 @@
     "job_posted_at": "2026-03-12T05:57:30.968Z"
   },
   {
-    "job_id": "workday-asml-J-00333367",
-    "job_title": "Internship - Controls for Droplet Generator Manufacturing and Qualification Tooling",
-    "employer_name": "ASML",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Droplet-Generator-Manufacturing-and-Qualification-Tooling_J-00333367",
-    "job_posted_at_datetime_utc": "2026-03-12T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "66c199b18b3ed86bbb23407314f177fae0919ab28e74e5a69f9270e856499327",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:57:27.224Z"
-  },
-  {
-    "job_id": "workday-asml-J-00333520",
-    "job_title": "Co-op - Test and Measurement Facility Engineer - Fall 2026 (Internship)",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Test-and-Measurement-Facility-Engineer---Fall-2026--Internship-_J-00333520",
-    "job_posted_at_datetime_utc": "2026-03-12T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d26fea5e4d8733550833a5466e5a326ec4bcf6ee02cf692574df4a26754411f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:57:27.224Z"
-  },
-  {
-    "job_id": "workday-asml-J-00336001",
-    "job_title": "Internship - Mechanical Engineer",
-    "employer_name": "ASML",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Mechanical-Engineer_J-00336001",
-    "job_posted_at_datetime_utc": "2026-03-12T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc594059f8441a9ee1616a120f45f052a619ca37808d9b97c88996ec85bff1fb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:57:27.224Z"
-  },
-  {
     "job_id": "workday-globalfoundries-JR-2503128",
     "job_title": "Advanced Manufacturing Engineering Intern (Summer 2026)",
     "employer_name": "GlobalFoundries",
@@ -7017,6 +6710,36 @@
     "job_posted_at": "2026-03-11T20:28:51-04:00"
   },
   {
+    "job_id": "js-coherent-corp-us-po-nwarvglnetsgpaaaaaa==",
+    "job_title": "Intern - Data Scientist",
+    "employer_name": "Coherent Corp. US",
+    "job_city": "Montville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011271",
+    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "94ae5864d47e72383c323d8036c9e1afb3c41c9400750edae3cf850b7530661d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-rtx-4iwsqafx5aljyjajaaaaaa==",
     "job_title": "2026 Intern - Software Engineer Intern (MA)",
     "employer_name": "RTX",
@@ -7058,36 +6781,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "72d63b2ec97b1b16e84fe1a5ba14accce95c2f3875ccfb36dc8377ab2f4d7b89",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-coherent-corp-us-po-nwarvglnetsgpaaaaaa==",
-    "job_title": "Intern - Data Scientist",
-    "employer_name": "Coherent Corp. US",
-    "job_city": "Montville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011271",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "94ae5864d47e72383c323d8036c9e1afb3c41c9400750edae3cf850b7530661d",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8949,47 +8642,18 @@
     "job_posted_at": "2026-03-11T04:42:28-04:00"
   },
   {
-    "job_id": "workday-workiva-R11491",
-    "job_title": "Summer 2026 Intern - Partner Marketing",
-    "employer_name": "Workiva",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Partner-Marketing_R11491",
-    "job_posted_at_datetime_utc": "2026-03-11T06:54:37.288Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69197ae79f0a961242c4fb7d59ac2926b44ffff0d33ae1b854e491d8db5d7bd3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:54:37.288Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R162854",
-    "job_title": "Undergraduate Intern Summer 2026 - Health Plan Value Based Care Focus",
-    "employer_name": "Intermountain Health",
-    "job_city": "Murray",
-    "job_state": "",
+    "job_id": "workday-asml-J-00333367",
+    "job_title": "Internship - Controls for Droplet Generator Manufacturing and Qualification Tooling",
+    "employer_name": "ASML",
+    "job_city": "San Diego",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Undergraduate-Intern-Summer-2026---Health-Plan-Value-Based-Care-Focus_R162854-1",
-    "job_posted_at_datetime_utc": "2026-03-11T06:54:05.395Z",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Droplet-Generator-Manufacturing-and-Qualification-Tooling_J-00333367",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:47.978Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a17ee1306a910583a94ece888119613529b987a0c0705e3bc33dc4ce15210924",
+    "fingerprint": "66c199b18b3ed86bbb23407314f177fae0919ab28e74e5a69f9270e856499327",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9003,7 +8667,175 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:54:05.395Z"
+    "job_posted_at": "2026-03-11T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00333520",
+    "job_title": "Co-op - Test and Measurement Facility Engineer - Fall 2026 (Internship)",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Test-and-Measurement-Facility-Engineer---Fall-2026--Internship-_J-00333520",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d26fea5e4d8733550833a5466e5a326ec4bcf6ee02cf692574df4a26754411f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00336001",
+    "job_title": "Internship - Mechanical Engineer",
+    "employer_name": "ASML",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Mechanical-Engineer_J-00336001",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc594059f8441a9ee1616a120f45f052a619ca37808d9b97c88996ec85bff1fb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00333367",
+    "job_title": "Internship - Controls for Droplet Generator Manufacturing and Qualification Tooling",
+    "employer_name": "ASML",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Droplet-Generator-Manufacturing-and-Qualification-Tooling_J-00333367",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "66c199b18b3ed86bbb23407314f177fae0919ab28e74e5a69f9270e856499327",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:09:32.564Z"
+  },
+  {
+    "job_id": "workday-asml-J-00333520",
+    "job_title": "Co-op - Test and Measurement Facility Engineer - Fall 2026 (Internship)",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Test-and-Measurement-Facility-Engineer---Fall-2026--Internship-_J-00333520",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d26fea5e4d8733550833a5466e5a326ec4bcf6ee02cf692574df4a26754411f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:09:32.564Z"
+  },
+  {
+    "job_id": "workday-asml-J-00336001",
+    "job_title": "Internship - Mechanical Engineer",
+    "employer_name": "ASML",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Mechanical-Engineer_J-00336001",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc594059f8441a9ee1616a120f45f052a619ca37808d9b97c88996ec85bff1fb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:09:32.564Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R158439",
+    "job_title": "Medical Assistant Internal Medicine",
+    "employer_name": "Intermountain Health",
+    "job_city": "Holladay Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holladay-Clinic/Medical-Assistant-Pediatrics_R158439",
+    "job_posted_at_datetime_utc": "2026-03-11T07:08:25.925Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ecd63ad40e63e36ff7216e17cd5660dbf83c1a1417625cd9e27f0d3bdb46efa6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:08:25.925Z"
   },
   {
     "job_id": "workday-salesforce-JR308796",
@@ -10238,35 +10070,6 @@
     "job_posted_at": "2026-03-11T05:56:46.513Z"
   },
   {
-    "job_id": "workday-nxp-R-10061952",
-    "job_title": "Wireless Systems Engineer Intern - Summer 2026",
-    "employer_name": "NXP",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/San-Jose-Holger-Way/Wireless-Systems-Engineer-Intern---Summer-2026_R-10061952-1",
-    "job_posted_at_datetime_utc": "2026-03-11T05:56:39.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b95635f0bacab21363e94e3115bb9d6cea98fccbc5699d45c5b40dbee2aecb1a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T05:56:39.036Z"
-  },
-  {
     "job_id": "workday-kbr-R2120214",
     "job_title": "National Security Solutions (NSS) Thin Film Growth Internship",
     "employer_name": "KBR",
@@ -10975,6 +10778,93 @@
     "job_posted_at": "2026-03-11T01:53:07.626Z"
   },
   {
+    "job_id": "js-johnson-johnson-services-inc-nmzbaicun6dzht8paaaaaa==",
+    "job_title": "Data Science Internship - MDM",
+    "employer_name": "Johnson & Johnson Services, Inc.",
+    "job_city": "Spring House",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.careers.jnj.com/en/jobs/r-056818/data-science-internship-mdm/",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "60acef093fdfa86ec1b7d7be03ad382c6f9986c9ad1c0bde752a1553d03600bb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bio-rad-laboratories-inc-g3wpp0gavmnamlfiaaaaaa==",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "Bio-Rad Laboratories, Inc.",
+    "job_city": "Irvine",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.bio-rad.com/jobs/data-scientist-intern-irvine-california-united-states-12d713ec-2fc2-4a06-9e6e-593aab0e2843",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0e6a38db4dc72ed5187684744dccb1e370c366482d82919c9f1bd5e76ac97ae1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-red-bull-north-america-batt7dpclzri9p0jaaaaaa==",
+    "job_title": "Internship Program, Data Science",
+    "employer_name": "Red Bull North America",
+    "job_city": "Santa Monica",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.redbull.com/int-en/santa-monica-internship-program-data-science-ref29131y",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c722d95277ccfa3e4b2151d43ab4e05b47c71e9b0e0e3e7154850a72db770fb8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
     "job_id": "js-tmobile-7cz6mzvbcsc6cgtfaaaaaa==",
     "job_title": "Summer 2026 Software Engineering Internship",
     "employer_name": "TMobile",
@@ -11108,35 +10998,6 @@
       "employment": "internship",
       "domains": [
         "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bio-rad-laboratories-inc-g3wpp0gavmnamlfiaaaaaa==",
-    "job_title": "Data Scientist Intern",
-    "employer_name": "Bio-Rad Laboratories, Inc.",
-    "job_city": "Irvine",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.bio-rad.com/jobs/data-scientist-intern-irvine-california-united-states-12d713ec-2fc2-4a06-9e6e-593aab0e2843",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0e6a38db4dc72ed5187684744dccb1e370c366482d82919c9f1bd5e76ac97ae1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -11433,64 +11294,6 @@
       "employment": "internship",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-johnson-johnson-services-inc-nmzbaicun6dzht8paaaaaa==",
-    "job_title": "Data Science Internship - MDM",
-    "employer_name": "Johnson & Johnson Services, Inc.",
-    "job_city": "Spring House",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.careers.jnj.com/en/jobs/r-056818/data-science-internship-mdm/",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "60acef093fdfa86ec1b7d7be03ad382c6f9986c9ad1c0bde752a1553d03600bb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-red-bull-north-america-batt7dpclzri9p0jaaaaaa==",
-    "job_title": "Internship Program, Data Science",
-    "employer_name": "Red Bull North America",
-    "job_city": "Santa Monica",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.redbull.com/int-en/santa-monica-internship-program-data-science-ref29131y",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c722d95277ccfa3e4b2151d43ab4e05b47c71e9b0e0e3e7154850a72db770fb8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -13005,22 +12808,52 @@
     "job_posted_at": "2026-03-10T11:00:00.000Z"
   },
   {
-    "job_id": "workday-intermountain-health-R164940",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Budge Clinic",
+    "job_id": "workday-workiva-R11491",
+    "job_title": "Summer 2026 Intern - Partner Marketing",
+    "employer_name": "Workiva",
+    "job_city": "Remote",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Budge-Clinic/Medical-Assistant-Internal-Medicine_R164940",
-    "job_posted_at_datetime_utc": "2026-03-10T06:54:05.396Z",
+    "job_is_remote": true,
+    "job_apply_link": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Partner-Marketing_R11491",
+    "job_posted_at_datetime_utc": "2026-03-10T07:09:18.209Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9373c41be38730ce197eb246f0210880f81299150da468502341eabfe59474ca",
+    "fingerprint": "69197ae79f0a961242c4fb7d59ac2926b44ffff0d33ae1b854e491d8db5d7bd3",
     "tags": {
       "employment": "internship",
       "domains": [
-        "healthcare"
+        "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T07:09:18.209Z"
+  },
+  {
+    "job_id": "workday-nxp-R-10061952",
+    "job_title": "Wireless Systems Engineer Intern - Summer 2026",
+    "employer_name": "NXP",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/San-Jose-Holger-Way/Wireless-Systems-Engineer-Intern---Summer-2026_R-10061952-1",
+    "job_posted_at_datetime_utc": "2026-03-10T07:09:15.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b95635f0bacab21363e94e3115bb9d6cea98fccbc5699d45c5b40dbee2aecb1a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
       ],
       "locations": [
         "us"
@@ -13030,21 +12863,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T06:54:05.396Z"
+    "job_posted_at": "2026-03-10T07:09:15.410Z"
   },
   {
-    "job_id": "workday-intermountain-health-R164958",
-    "job_title": "Pharmacy Intern",
+    "job_id": "workday-intermountain-health-R162854",
+    "job_title": "Undergraduate Intern Summer 2026 - Health Plan Value Based Care Focus",
     "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health Primary Childrens Hospital",
+    "job_city": "Murray",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Pharmacy-Intern_R164958",
-    "job_posted_at_datetime_utc": "2026-03-10T06:54:05.395Z",
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Undergraduate-Intern-Summer-2026---Health-Plan-Value-Based-Care-Focus_R162854-1",
+    "job_posted_at_datetime_utc": "2026-03-10T07:08:25.926Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "310eed9fafdc9ef0c82dc199496483d61de0c662ac620ab8f6ba4226a3935279",
+    "fingerprint": "a17ee1306a910583a94ece888119613529b987a0c0705e3bc33dc4ce15210924",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13058,7 +12891,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T06:54:05.395Z"
+    "job_posted_at": "2026-03-10T07:08:25.926Z"
   },
   {
     "job_id": "workday-salesforce-JR317299",
@@ -15114,6 +14947,35 @@
     "job_posted_at": "2026-03-10T00:39:28.016+00:00"
   },
   {
+    "job_id": "js-ericsson--pfc7h5kd8qk2l2haaaaaa==",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "Ericsson",
+    "job_city": "Santa Clara",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ericsson.com/careers/job/563121772960418?domain=ericsson.com",
+    "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ed0f3e5dfe29bc3ec62caa6a5bc44c7ba0fde2b118044696e12805aaebaceb5c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-johnson-johnson-services-inc-ccdpu22vnm-atheuaaaaaa==",
     "job_title": "Software Engineering Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson Services, Inc.",
@@ -15161,64 +15023,6 @@
       "domains": [
         "software",
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-federal-express-corporation-5gj88h7yl-pus8obaaaaaa==",
-    "job_title": "Intern - Data Science",
-    "employer_name": "Federal Express Corporation",
-    "job_city": "Moon Township",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://careers.fedex.com/intern-data-science/job/P25-322011-1",
-    "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1e08346aef6946543868b355fa78e8b242e187b34d02188bd4ee72a607ef2c92",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ericsson--pfc7h5kd8qk2l2haaaaaa==",
-    "job_title": "Data Scientist Intern",
-    "employer_name": "Ericsson",
-    "job_city": "Santa Clara",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ericsson.com/careers/job/563121772960418?domain=ericsson.com",
-    "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ed0f3e5dfe29bc3ec62caa6a5bc44c7ba0fde2b118044696e12805aaebaceb5c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -17303,6 +17107,62 @@
     "job_posted_at": "2026-03-09T04:37:14-04:00"
   },
   {
+    "job_id": "workday-intermountain-health-R164958",
+    "job_title": "Pharmacy Intern",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Primary Childrens Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Pharmacy-Intern_R164958",
+    "job_posted_at_datetime_utc": "2026-03-09T07:08:25.926Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "310eed9fafdc9ef0c82dc199496483d61de0c662ac620ab8f6ba4226a3935279",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T07:08:25.926Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164940",
+    "job_title": "Medical Assistant Internal Medicine",
+    "employer_name": "Intermountain Health",
+    "job_city": "Budge Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Budge-Clinic/Medical-Assistant-Internal-Medicine_R164940",
+    "job_posted_at_datetime_utc": "2026-03-09T07:08:25.926Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9373c41be38730ce197eb246f0210880f81299150da468502341eabfe59474ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T07:08:25.926Z"
+  },
+  {
     "job_id": "workday-disney-10139193",
     "job_title": "Yellow Shoes Creative Copywriting Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -17443,6 +17303,35 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-09T03:49:20.811Z"
+  },
+  {
+    "job_id": "js-federal-express-corporation-5gj88h7yl-pus8obaaaaaa==",
+    "job_title": "Intern - Data Science",
+    "employer_name": "Federal Express Corporation",
+    "job_city": "Moon Township",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://careers.fedex.com/intern-data-science/job/P25-322011-1",
+    "job_posted_at_datetime_utc": "2026-03-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1e08346aef6946543868b355fa78e8b242e187b34d02188bd4ee72a607ef2c92",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-09T00:00:00.000Z"
   },
   {
     "job_id": "js-ge-aerospace-vfysgralqviympleaaaaaa==",
@@ -18441,34 +18330,6 @@
     "job_posted_at": "2026-03-07T06:55:07.627Z"
   },
   {
-    "job_id": "workday-intermountain-health-R164276",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Bountiful Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Internal-Medicine_R164276",
-    "job_posted_at_datetime_utc": "2026-03-07T06:54:05.396Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3934f055fc1434d378d5d558e12b8ea59147f8b79836a2c9c6b15bc5d623af2c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T06:54:05.396Z"
-  },
-  {
     "job_id": "workday-nvidia-JR2012415",
     "job_title": "Software Engineering Intern, CUDA Build and Packaging - Summer 2026",
     "employer_name": "NVIDIA",
@@ -18666,34 +18527,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-07T05:58:53.779Z"
-  },
-  {
-    "job_id": "workday-asml-J-00327822",
-    "job_title": "Internship - Learning Specialist - Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Learning-Specialist---Summer-2026_J-00327822",
-    "job_posted_at_datetime_utc": "2026-03-07T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6294df131b5e2adfb1e1c3c51990f2d601e192403b6c65ac55ae92030683f823",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:58:33.362Z"
   },
   {
     "job_id": "workday-entegris-REQ-10613",
@@ -19590,34 +19423,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-07T05:57:29.499Z"
-  },
-  {
-    "job_id": "workday-asml-J-00327822",
-    "job_title": "Internship - Learning Specialist - Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Learning-Specialist---Summer-2026_J-00327822",
-    "job_posted_at_datetime_utc": "2026-03-07T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6294df131b5e2adfb1e1c3c51990f2d601e192403b6c65ac55ae92030683f823",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:57:27.224Z"
   },
   {
     "job_id": "workday-micron-JR91646",
@@ -21496,6 +21301,90 @@
     "job_posted_at": "2026-03-06T12:21:03.761Z"
   },
   {
+    "job_id": "workday-asml-J-00327822",
+    "job_title": "Internship - Learning Specialist - Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Learning-Specialist---Summer-2026_J-00327822",
+    "job_posted_at_datetime_utc": "2026-03-06T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6294df131b5e2adfb1e1c3c51990f2d601e192403b6c65ac55ae92030683f823",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00327822",
+    "job_title": "Internship - Learning Specialist - Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Learning-Specialist---Summer-2026_J-00327822",
+    "job_posted_at_datetime_utc": "2026-03-06T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6294df131b5e2adfb1e1c3c51990f2d601e192403b6c65ac55ae92030683f823",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T07:09:32.564Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164276",
+    "job_title": "Medical Assistant Internal Medicine",
+    "employer_name": "Intermountain Health",
+    "job_city": "Bountiful Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Internal-Medicine_R164276",
+    "job_posted_at_datetime_utc": "2026-03-06T07:08:25.926Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3934f055fc1434d378d5d558e12b8ea59147f8b79836a2c9c6b15bc5d623af2c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T07:08:25.926Z"
+  },
+  {
     "job_id": "workday-moog-R-25-13762",
     "job_title": "Intern, Manufacturing Engineering",
     "employer_name": "Moog",
@@ -21663,62 +21552,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T05:58:53.779Z"
-  },
-  {
-    "job_id": "workday-asml-J-00331251",
-    "job_title": "Internship - Manufacturing Engineer Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Manufacturing-Engineer-Summer-2026_J-00331251",
-    "job_posted_at_datetime_utc": "2026-03-06T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68c8a2656e21417cf86b6ebec889d7b02abfecd71ee62bd11e10ac9c0f5daae4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T05:58:33.362Z"
-  },
-  {
-    "job_id": "workday-asml-J-00334223",
-    "job_title": "Internship, Optical Coating Process Engineering Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Optical-Coating-Process-Engineering-Summer-2026_J-00334223",
-    "job_posted_at_datetime_utc": "2026-03-06T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "477994dc03ccbdd0b28db4ff8c639ba0e42b1e2eaf85c9c54278434c8ce5d9ca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T05:58:33.362Z"
   },
   {
     "job_id": "workday-kla-2532279",
@@ -22251,62 +22084,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T05:57:47.483Z"
-  },
-  {
-    "job_id": "workday-asml-J-00331251",
-    "job_title": "Internship - Manufacturing Engineer Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Manufacturing-Engineer-Summer-2026_J-00331251",
-    "job_posted_at_datetime_utc": "2026-03-06T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68c8a2656e21417cf86b6ebec889d7b02abfecd71ee62bd11e10ac9c0f5daae4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T05:57:27.224Z"
-  },
-  {
-    "job_id": "workday-asml-J-00334223",
-    "job_title": "Internship, Optical Coating Process Engineering Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Optical-Coating-Process-Engineering-Summer-2026_J-00334223",
-    "job_posted_at_datetime_utc": "2026-03-06T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "477994dc03ccbdd0b28db4ff8c639ba0e42b1e2eaf85c9c54278434c8ce5d9ca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T05:57:27.224Z"
   },
   {
     "job_id": "workday-exact-sciences-R25-11301",
@@ -25201,6 +24978,118 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-05T08:48:55.722Z"
+  },
+  {
+    "job_id": "workday-asml-J-00331251",
+    "job_title": "Internship - Manufacturing Engineer Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Manufacturing-Engineer-Summer-2026_J-00331251",
+    "job_posted_at_datetime_utc": "2026-03-05T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68c8a2656e21417cf86b6ebec889d7b02abfecd71ee62bd11e10ac9c0f5daae4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00334223",
+    "job_title": "Internship, Optical Coating Process Engineering Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Optical-Coating-Process-Engineering-Summer-2026_J-00334223",
+    "job_posted_at_datetime_utc": "2026-03-05T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "477994dc03ccbdd0b28db4ff8c639ba0e42b1e2eaf85c9c54278434c8ce5d9ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00331251",
+    "job_title": "Internship - Manufacturing Engineer Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Manufacturing-Engineer-Summer-2026_J-00331251",
+    "job_posted_at_datetime_utc": "2026-03-05T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68c8a2656e21417cf86b6ebec889d7b02abfecd71ee62bd11e10ac9c0f5daae4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T07:09:32.564Z"
+  },
+  {
+    "job_id": "workday-asml-J-00334223",
+    "job_title": "Internship, Optical Coating Process Engineering Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Optical-Coating-Process-Engineering-Summer-2026_J-00334223",
+    "job_posted_at_datetime_utc": "2026-03-05T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "477994dc03ccbdd0b28db4ff8c639ba0e42b1e2eaf85c9c54278434c8ce5d9ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T07:09:32.564Z"
   },
   {
     "job_id": "workday-moog-R-25-13772",
@@ -31637,6 +31526,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-03T11:49:24.293Z"
+  },
+  {
+    "job_id": "workday-asml-J-00335979",
+    "job_title": "Internship, Planning DUV Wilton Factory Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Planning-DUV-Wilton-Factory-Summer-2026_J-00335979",
+    "job_posted_at_datetime_utc": "2026-03-03T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "82b2450ccb160d9ebe37a70cfc3d215755f283bcbae2e0183c9bc05b7c22fc4e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00335979",
+    "job_title": "Internship, Planning DUV Wilton Factory Summer 2026",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Planning-DUV-Wilton-Factory-Summer-2026_J-00335979",
+    "job_posted_at_datetime_utc": "2026-03-03T07:09:32.565Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "82b2450ccb160d9ebe37a70cfc3d215755f283bcbae2e0183c9bc05b7c22fc4e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T07:09:32.565Z"
   },
   {
     "job_id": "workday-intermountain-health-R163454",
