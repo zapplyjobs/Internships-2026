@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cadence** | Intern-Software Engineering | HOME MI | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
+| 🏢 **Cadence** | Intern-Software Engineering | HOME MI | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
 | 🏢 **Neuralink** | Software Engineer Intern, Internal Apps | Austin | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
 | 🏢 **Stripe** | Software Engineer, Intern (Summer) | San Francisco | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7210115) |
 | 🏢 **Roku** | Software Engineer Intern, Streaming Media | San Jose | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.weareroku.com/jobs/software-engineer-intern-streaming-media-san-jose-california-united-states) |
@@ -88,7 +88,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🚗 **Waymo** | 2026 Summer Intern, PhD, Software Engineer, Release Evaluation | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7263750) |
 | 🏢 **Cloudflare** | Software Engineer Intern (Summer 2026) | In-Office | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929) |
 | 🏢 **Scale AI** | Software Engineering Intern (Summer 2026) | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4606014005) |
-| 🏢 **Brex** | Software Engineer, Intern | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8434389002?gh_jid=8434389002) |
+| 🏢 **Brex** | Software Engineer, Intern | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8434389002?gh_jid=8434389002) |
 | 🏢 **HP Inc** | Software Developer Internship | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1) |
 | 🏢 **KBR** | National Security Solutions (NSS) - Model Based Systems Engineering Intern | Beavercreek Township | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Model-Based-Systems-Engineering-Intern_R2120304) |
 | 🏢 **Leidos** | Software Developer Intern | Lawton, OK | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Software-Developer-Intern_R-00177923) |
@@ -216,7 +216,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Imperative Care** | Machine Learning Engineer Intern | Campbell | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://imperativecare.applytojob.com/apply/qh8lYsMIUE/Machine-Learning-Engineer-Intern) |
 | 🌐 **Cisco** | AI Machine Learning Engineer I (Intern) - United States | San Jose | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2000454EXTERNALENGLOBAL/AI-Machine-Learning-Engineer-I-Intern-United-States) |
 | 🏢 **Stripe** | PhD Machine Learning Engineer, Intern | San Francisco | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) |
-| 🏢 **Workato** | Intern, AI Engineering | San Francisco | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8346176002) |
+| 🏢 **Workato** | Intern, AI Engineering | San Francisco | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8346176002) |
 | 🏢 **First American** | Data Scientist Intern | Santa Ana | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://pitchmeai.com/jobs/first-american/data-scientist-intern-i68v2lds87) |
 | 🏢 **AARP** | Data Science Intern | Washington | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.aarp.org/jobs/7268?lang=en-us) |
 | 🏢 **IIIIIIUS** | 2026 Summer Intern, AI Engineering | Reston | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.icf.com/us/en/job/R2600855/2026-Summer-Intern-AI-Engineering) |
@@ -317,8 +317,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Asana** | Product Design Intern - Summer 2026 (New York) | New York City | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7490328?gh_jid=7490328) |
-| 🏢 **Asana** | Product Design Intern - Summer 2026 (San Francisco) | San Francisco | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7490322?gh_jid=7490322) |
+| 🏢 **Asana** | Product Design Intern - Summer 2026 (New York) | New York City | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7490328?gh_jid=7490328) |
+| 🏢 **Asana** | Product Design Intern - Summer 2026 (San Francisco) | San Francisco | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7490322?gh_jid=7490322) |
 | 🏢 **Anduril** | Product Design Intern | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007) |
 | 🏢 **Anduril** | Product Marketing Intern | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5067264007?gh_jid=5067264007) |
 | 🏢 **Lucid Software** | UX Design Internship 2026 | Raleigh, NC | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5811103004) |
@@ -519,31 +519,31 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **ASML** | Internship - R&D Finance Analyst | San Diego, CA | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---R-D-Finance_J-00335353) |
+| 🏢 **ASML** | Internship - R&D Finance Analyst | San Diego, CA | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---R-D-Finance_J-00335353) |
 | 🏢 **Lucid Motors** | Intern, Charging & Smart Energy - Summer 2026 | Newark, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922153007) |
 | 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
 | 🏢 **State Street** | Cloud and AI Operations -Summer Intern- CRD | Burlington Massac... | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Cloud-and-AI-Operations-Intern_R-784967) |
 | 🏢 **Draper** | Hardware ASIC Engineer Intern Jobs | Odon | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.clearancejobs.com/jobs/8802456/hardware-asic-engineer-intern) |
 | 🏢 **Anduril** | Finance Intern | Costa Mesa | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5077296007?gh_jid=5077296007) |
-| 🏢 **Ochsner Health** | Supervisor of Clinical Services -  Internal Medicine Clinic- Denham Springs Soutth | Baton Rouge Regio... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Supervisor-of-Clinical-Services----Internal-Medicine-Clinic--Baton-Rouge_REQ_00256489-1) |
+| 🏢 **Ochsner Health** | Supervisor of Clinical Services -  Internal Medicine Clinic- Denham Springs Soutth | Baton Rouge Regio... | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Supervisor-of-Clinical-Services----Internal-Medicine-Clinic--Baton-Rouge_REQ_00256489-1) |
 | ⚗️ **Applied Materials** | AI Algorithms Intern - AZPI7 | Santa Clara, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithms-Intern---AZPI7_R2612471) |
-| 🏢 **xAI** | Engineering Internship (Summer 2026) | Memphis, TN | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5054417007) |
+| 🏢 **xAI** | Engineering Internship (Summer 2026) | Memphis, TN | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5054417007) |
 | 🏢 **Mass General Brigham** | Co-op Student for NEU ONLY | MA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Co-op-Student-for-NEU-ONLY_RQ4052160) |
 | 🏢 **GlobalFoundries** | MBA Internship Program, Corporate Development (Summer 2026) | New York - Malta | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/MBA-Internship-Program--Corporate-Development--Summer-2026-_JR-2601029) |
 | 🏢 **Ochsner Health** | Nurse Intern - RN Students - All Locations | 24 Locations | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Nurse-Intern---RN-Students---All-Locations_REQ_00257143) |
 | 🏢 **Roblox** | [Summer 2026] Communications Intern | San Mateo, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7701921?gh_jid=7701921) |
-| 🏢 **AbbVie** | 2026 Operations Intern | North Chicago, IL | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012146988) |
+| 🏢 **AbbVie** | 2026 Operations Intern | North Chicago, IL | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012146988) |
 | 🏢 **Robinhood** | PeopleX Partner Intern | Menlo Park, CA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7155924?t=gh_src=&gh_jid=7155924) |
 | 🏢 **Khan Academy** | Content Intern, ELA ($42/hour; 40 hours/week; 8 weeks, Summer 2026) | Mountain View, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/khanacademy/jobs/7680287) |
 | 🏢 **Khan Academy** | Content Intern, Math ($42/hour; 40 hours/week; 8 weeks, Summer 2026) | Mountain View, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/khanacademy/jobs/7680137) |
 | 🏢 **Khan Academy** | Content Intern, Social Studies ($42/hour; 40 hours/week; 8 weeks, Summer 2026) | Mountain View, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/khanacademy/jobs/7679983) |
 | 🏢 **Experian** | Community Partnerships Summer Intern (Remote & Paid) | United States | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000114732626) |
 | 🏢 **Cloudflare** | Data and Technology - Operations and AI Innovation Intern (Summer 2026) | In-Office | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7675578?gh_jid=7675578) |
-| 🏢 **Workato** | Intern, Finance | Palo Alto | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8380872002) |
+| 🏢 **Workato** | Intern, Finance | Palo Alto | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8380872002) |
 | 🏢 **Roblox** | [Summer 2026] Business Development Intern | San Mateo, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7711886?gh_jid=7711886) |
 | 🏢 **Coinbase** | Internal Audit Analyst | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7683744?gh_jid=7683744) |
 | 🏢 **Bosch Group** | Finance and Accounting Intern | Watertown, MA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000114720399) |
-| 🏢 **Bosch Group** | Artificial Intelligence / Machine Learning: Foundation Models - Intern | Sunnyvale, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000114717927) |
+| 🏢 **Bosch Group** | Artificial Intelligence / Machine Learning: Foundation Models - Intern | Sunnyvale, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000114717927) |
 | 🏢 **Morgan Stanley** | Intern* | Oak Brook | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/Private/job/Oak-Brook-Illinois-United-States-of-America/Intern-_JR032216) |
 | 🏢 **Lockheed Martin** | Systems (DevSecOps) Engineer - Intern Jobs | Mt Laurel Township | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.clearancejobs.com/jobs/8801537/systems-devsecops-engineer-intern) |
 | 🏢 **Airbnb** | Communications Intern | United States | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7707077?gh_jid=7707077) |
@@ -551,7 +551,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AbbVie** | 2026 Combination Products, Aesthetics, and Devices Intern (PDS&T) | North Chicago, IL | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012137946) |
 | 🏢 **AbbVie** | 2026 siRNA Conjugate Development Intern (PhD) | North Chicago, IL | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012137736) |
 | 🏢 **Veolia Environnement SA** | Finance Intern | Trevose, PA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114675207) |
-| 🏢 **Bosch Group** | Proton Exchange Membrane Water Electrolysis Engineering Intern | Sunnyvale, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000114671278) |
+| 🏢 **Bosch Group** | Proton Exchange Membrane Water Electrolysis Engineering Intern | Sunnyvale, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000114671278) |
 | 🏢 **Graphcore** | Intern, Knowledge Management & Training Projects | Austin | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8385952002) |
 | 🏢 **Graphcore** | Intern, Program & Planning Operations | Austin | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8385927002) |
 | 🏢 **COMTECH TELECOMMUNICATIONS** | Intern - Finance (FinTech) | Sun Lakes | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/sun-lakes-az/intern-finance-fintech-145789/) |
