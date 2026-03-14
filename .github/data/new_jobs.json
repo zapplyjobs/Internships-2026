@@ -1,5 +1,173 @@
 [
   {
+    "job_id": "workday-banner-health-R4435473",
+    "job_title": "Front Office Patient Financial Service Representative Internal Medicine Clinic",
+    "employer_name": "Banner Health",
+    "job_city": "BUMC Phoenix Internal Medicine",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-Internal-Medicine-1300-N-12th-St-Suite-508/Front-Office-Patient-Financial-Service-Representative-Internal-Medicine-Clinic_R4435473",
+    "job_posted_at_datetime_utc": "2026-03-14T06:13:07.612Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f0144724651d8b1febc24d5da9dcde175b96bc76c9591453b17a7bb6f3a26bd8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:13:07.612Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164168",
+    "job_title": "Administrative Coordinator iFlex Internal Travel Team",
+    "employer_name": "Intermountain Health",
+    "job_city": "Transformation Center",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Administrative-Coordinator-iFlex-Internal-Travel-Team_R164168",
+    "job_posted_at_datetime_utc": "2026-03-14T06:12:39.349Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf2842ef94465ba2458b7ea39dba1d156c9cdc5c8cf5a1d873e7b0986c8ed969",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:12:39.349Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R165606",
+    "job_title": "Registered Nurse iFlex Internal Travel Team Labor and Delivery",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Riverton Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Labor-and-Delivery_R165606",
+    "job_posted_at_datetime_utc": "2026-03-14T06:12:39.349Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7440a6c5c8965e80380cfed605b3f500ce4a33bb164f9912c64ca1c57538e2fd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:12:39.349Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R165603",
+    "job_title": "Registered Nurse iFlex Internal Travel Team Labor and Delivery",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health St Vincent Regional Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Labor-and-Delivery_R165603",
+    "job_posted_at_datetime_utc": "2026-03-14T06:12:39.349Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b7b52870120087a1cd7b53830706ba599694d6ad84dcf2bb6c29e4526f037cb6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:12:39.349Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164731",
+    "job_title": "Medical Assistant Internal Medicine",
+    "employer_name": "Intermountain Health",
+    "job_city": "Salt Lake Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Medical-Assistant-Internal-Medicine_R164731",
+    "job_posted_at_datetime_utc": "2026-03-14T06:12:39.349Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc376377a39f8e174152e5d072f2b9ca453193b08db8fe33f0102a2609aab4bd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:12:39.349Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR333727",
+    "job_title": "Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2026-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR333727-1",
+    "job_posted_at_datetime_utc": "2026-03-14T06:12:18.958Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3230391846df6673bfcdfbfc1290e388fa4dc48dc21f2c26376dd7ea9e313bd3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:12:18.958Z"
+  },
+  {
     "job_id": "workday-hitachi-R0123049",
     "job_title": "2026 Summer Internship- Richland, MO",
     "employer_name": "Hitachi",
@@ -840,34 +1008,6 @@
     "job_posted_at": "2026-03-14T05:56:39.036Z"
   },
   {
-    "job_id": "workday-banner-health-R4435473",
-    "job_title": "Front Office Patient Financial Service Representative Internal Medicine Clinic",
-    "employer_name": "Banner Health",
-    "job_city": "BUMC Phoenix Internal Medicine",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-Internal-Medicine-1300-N-12th-St-Suite-508/Front-Office-Patient-Financial-Service-Representative-Internal-Medicine-Clinic_R4435473",
-    "job_posted_at_datetime_utc": "2026-03-14T05:56:38.127Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f0144724651d8b1febc24d5da9dcde175b96bc76c9591453b17a7bb6f3a26bd8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:56:38.127Z"
-  },
-  {
     "job_id": "workday-globalfoundries-JR-2503145",
     "job_title": "Human Resources Intern, HR Shared Services (Summer 2026)",
     "employer_name": "GlobalFoundries",
@@ -1118,118 +1258,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-14T05:55:22.757Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R164731",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Salt Lake Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Salt-Lake-Clinic/Medical-Assistant-Internal-Medicine_R164731",
-    "job_posted_at_datetime_utc": "2026-03-14T05:55:21.375Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc376377a39f8e174152e5d072f2b9ca453193b08db8fe33f0102a2609aab4bd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:55:21.375Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R164168",
-    "job_title": "Administrative Coordinator iFlex Internal Travel Team",
-    "employer_name": "Intermountain Health",
-    "job_city": "Transformation Center",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Administrative-Coordinator-iFlex-Internal-Travel-Team_R164168",
-    "job_posted_at_datetime_utc": "2026-03-14T05:55:21.374Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf2842ef94465ba2458b7ea39dba1d156c9cdc5c8cf5a1d873e7b0986c8ed969",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:55:21.374Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R165606",
-    "job_title": "Registered Nurse iFlex Internal Travel Team Labor and Delivery",
-    "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health Riverton Hospital",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Labor-and-Delivery_R165606",
-    "job_posted_at_datetime_utc": "2026-03-14T05:55:21.374Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7440a6c5c8965e80380cfed605b3f500ce4a33bb164f9912c64ca1c57538e2fd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:55:21.374Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R165603",
-    "job_title": "Registered Nurse iFlex Internal Travel Team Labor and Delivery",
-    "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health St Vincent Regional Hospital",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Labor-and-Delivery_R165603",
-    "job_posted_at_datetime_utc": "2026-03-14T05:55:21.374Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7b52870120087a1cd7b53830706ba599694d6ad84dcf2bb6c29e4526f037cb6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:55:21.374Z"
   },
   {
     "job_id": "workday-f5-RP1036949",
@@ -1567,62 +1595,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-14T05:54:20.589Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2519370",
-    "job_title": "2026 Summer Materials Engineer Co‑op/Intern (TCAD Modeling) - Doctorate (Gloucester, MA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Gloucester",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Summer-Materials-Engineering-Intern---Doctorate--Gloucester--MA-_R2519370",
-    "job_posted_at_datetime_utc": "2026-03-14T05:54:18.451Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f08d04c43097750a9777136f47f850eff69efe0b7edca8535eb343514f1b04ca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:54:18.451Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR333727",
-    "job_title": "Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2026-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR333727-1",
-    "job_posted_at_datetime_utc": "2026-03-14T05:53:50.632Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3230391846df6673bfcdfbfc1290e388fa4dc48dc21f2c26376dd7ea9e313bd3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:53:50.632Z"
   },
   {
     "job_id": "workday-rtx-01830804",
@@ -1993,6 +1965,35 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-13T20:00:43-04:00"
+  },
+  {
+    "job_id": "js-the-mitre-corporation-34zmur-cswbuvwhtaaaaaa==",
+    "job_title": "Internships in Electrical or Computer Engineering",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering",
+    "job_posted_at_datetime_utc": "2026-03-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c91f7559c33a75326c44d74441cb3e9d4186870c39062e1a82cc79d062f83652",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-14T00:00:00.000Z"
   },
   {
     "job_id": "workday-applied-materials-R2612471",
@@ -3291,6 +3292,35 @@
     "job_posted_at": "2026-03-12T20:34:13-04:00"
   },
   {
+    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
+    "job_title": "Hardware Engineering Co-op",
+    "employer_name": "Fresenius Medical Care",
+    "job_city": "Lawrence",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/6C03CDA856ABD008AA311FE6EB6452F3",
+    "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ge-healthcare-qkci9s5cmi7-dsplaaaaaa==",
     "job_title": "AI Research Intern",
     "employer_name": "GE HEALTHCARE",
@@ -3527,36 +3557,6 @@
     "job_posted_at": "2026-03-13T00:00:00.000Z"
   },
   {
-    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
-    "job_title": "Hardware Engineering Co-op",
-    "employer_name": "Fresenius Medical Care",
-    "job_city": "Lawrence",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/6C03CDA856ABD008AA311FE6EB6452F3",
-    "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-13T00:00:00.000Z"
-  },
-  {
     "job_id": "js-rockwell-automation-wfveugv5jzu4v-cqaaaaaa==",
     "job_title": "Intern, Power Hardware Development",
     "employer_name": "Rockwell Automation",
@@ -3573,35 +3573,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-mitre-corporation-9kjjjqt429vyao4iaaaaaa==",
-    "job_title": "Internships in Electrical or Computer Engineering",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering",
-    "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c91f7559c33a75326c44d74441cb3e9d4186870c39062e1a82cc79d062f83652",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -5278,6 +5249,91 @@
     "job_posted_at": "2026-03-12T03:00:25-04:00"
   },
   {
+    "job_id": "workday-intermountain-health-R163769",
+    "job_title": "Internal Medicine Physician",
+    "employer_name": "Intermountain Health",
+    "job_city": "Avenues Physician Tower",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Avenues-Physician-Tower/Internal-Medicine-Physician_R163769",
+    "job_posted_at_datetime_utc": "2026-03-12T06:12:39.350Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5f8e410847d266b54fd9fa8b426474403ef0c8cf8e2d5939ce6832c643011c43",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T06:12:39.350Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R158439",
+    "job_title": "Medical Assistant Internal Medicine",
+    "employer_name": "Intermountain Health",
+    "job_city": "Holladay Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holladay-Clinic/Medical-Assistant-Pediatrics_R158439",
+    "job_posted_at_datetime_utc": "2026-03-12T06:12:39.350Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ecd63ad40e63e36ff7216e17cd5660dbf83c1a1417625cd9e27f0d3bdb46efa6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T06:12:39.350Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR313214",
+    "job_title": "Summer 2026 Intern - AI Research",
+    "employer_name": "Salesforce",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2",
+    "job_posted_at_datetime_utc": "2026-03-12T06:12:18.959Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a38ac83771217475b702e5286342baefcca67a467b461c70eae4fec527f23baa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T06:12:18.959Z"
+  },
+  {
     "job_id": "workday-marvell-2503452",
     "job_title": "Firmware Engineer Intern - BACHELOR'S Degree",
     "employer_name": "Marvell",
@@ -5388,34 +5444,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-12T05:59:08.916Z"
-  },
-  {
-    "job_id": "workday-cisco-2001200",
-    "job_title": "FLEX- Rising Leaders II (Intern) - United States",
-    "employer_name": "Cisco",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Chicago-Illinois-US/FLEX--Rising-Leaders-II--Intern----United-States_2001200",
-    "job_posted_at_datetime_utc": "2026-03-12T05:58:58.942Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ac21da97ca98d3535304eaa398f11b804046037457054c984c39e7d7b46e037",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:58:58.942Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10225199",
@@ -6342,34 +6370,6 @@
     "job_posted_at": "2026-03-12T05:57:27.224Z"
   },
   {
-    "job_id": "workday-cisco-2001200",
-    "job_title": "FLEX- Rising Leaders II (Intern) - United States",
-    "employer_name": "Cisco",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Chicago-Illinois-US/FLEX--Rising-Leaders-II--Intern----United-States_2001200",
-    "job_posted_at_datetime_utc": "2026-03-12T05:57:24.664Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ac21da97ca98d3535304eaa398f11b804046037457054c984c39e7d7b46e037",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:57:24.664Z"
-  },
-  {
     "job_id": "workday-globalfoundries-JR-2503128",
     "job_title": "Advanced Manufacturing Engineering Intern (Summer 2026)",
     "employer_name": "GlobalFoundries",
@@ -6650,62 +6650,6 @@
     "job_posted_at": "2026-03-12T05:55:22.947Z"
   },
   {
-    "job_id": "workday-intermountain-health-R158439",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Holladay Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holladay-Clinic/Medical-Assistant-Pediatrics_R158439",
-    "job_posted_at_datetime_utc": "2026-03-12T05:55:21.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ecd63ad40e63e36ff7216e17cd5660dbf83c1a1417625cd9e27f0d3bdb46efa6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:55:21.377Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R163769",
-    "job_title": "Internal Medicine Physician",
-    "employer_name": "Intermountain Health",
-    "job_city": "Avenues Physician Tower",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Avenues-Physician-Tower/Internal-Medicine-Physician_R163769",
-    "job_posted_at_datetime_utc": "2026-03-12T05:55:21.375Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5f8e410847d266b54fd9fa8b426474403ef0c8cf8e2d5939ce6832c643011c43",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:55:21.375Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000321876",
     "job_title": "2026 Summer Corporate Intern - Information Technology",
     "employer_name": "Caterpillar",
@@ -6902,35 +6846,6 @@
     "job_posted_at": "2026-03-12T05:54:18.452Z"
   },
   {
-    "job_id": "workday-salesforce-JR313214",
-    "job_title": "Summer 2026 Intern - AI Research",
-    "employer_name": "Salesforce",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2",
-    "job_posted_at_datetime_utc": "2026-03-12T05:53:50.633Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a38ac83771217475b702e5286342baefcca67a467b461c70eae4fec527f23baa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:53:50.633Z"
-  },
-  {
     "job_id": "workday-rtx-01823446",
     "job_title": "Product Engineer Co-Op (Puerto Rico)",
     "employer_name": "RTX",
@@ -7099,6 +7014,35 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-11T20:28:51-04:00"
+  },
+  {
+    "job_id": "js-micron-technology-e4xlgn9i8cksrsraaaaaaa==",
+    "job_title": "Intern - Hardware Automation Engineer",
+    "employer_name": "Micron Technology",
+    "job_city": "Boise",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.micron.com/careers/job/40795759-intern-hardware-automation-engineer-boise-idaho-united-states-of-america?domain=micron.com",
+    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "128f303ab96e6a76b1c25a0b5464f5f358fedae36d8579204cbb44263d9d2c22",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-12T00:00:00.000Z"
   },
   {
     "job_id": "js-coherent-corp-us-po-nwarvglnetsgpaaaaaa==",
@@ -7294,64 +7238,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-micron-technology-e4xlgn9i8cksrsraaaaaaa==",
-    "job_title": "Intern - Hardware Automation Engineer",
-    "employer_name": "Micron Technology",
-    "job_city": "Boise",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.micron.com/careers/job/40795759-intern-hardware-automation-engineer-boise-idaho-united-states-of-america?domain=micron.com",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "128f303ab96e6a76b1c25a0b5464f5f358fedae36d8579204cbb44263d9d2c22",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Summer 2026",
-    "employer_name": "Amentum",
-    "job_city": "Oak Ridge",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -9062,6 +8948,91 @@
     "job_posted_at": "2026-03-11T04:42:28-04:00"
   },
   {
+    "job_id": "workday-workiva-R11491",
+    "job_title": "Summer 2026 Intern - Partner Marketing",
+    "employer_name": "Workiva",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Partner-Marketing_R11491",
+    "job_posted_at_datetime_utc": "2026-03-11T06:13:10.765Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69197ae79f0a961242c4fb7d59ac2926b44ffff0d33ae1b854e491d8db5d7bd3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T06:13:10.765Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R162854",
+    "job_title": "Undergraduate Intern Summer 2026 - Health Plan Value Based Care Focus",
+    "employer_name": "Intermountain Health",
+    "job_city": "Murray",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Undergraduate-Intern-Summer-2026---Health-Plan-Value-Based-Care-Focus_R162854-1",
+    "job_posted_at_datetime_utc": "2026-03-11T06:12:39.351Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a17ee1306a910583a94ece888119613529b987a0c0705e3bc33dc4ce15210924",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T06:12:39.351Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR308796",
+    "job_title": "Summer 2026 Intern - Software Engineer",
+    "employer_name": "Salesforce",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-1",
+    "job_posted_at_datetime_utc": "2026-03-11T06:12:18.960Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3606e2da7dbceccfe488c9efbff50c0d1924aea0ee42162acf0e569b297f85e4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T06:12:18.960Z"
+  },
+  {
     "job_id": "workday-disney-10138045",
     "job_title": "Marketing Strategy & Integrated Planning Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -10266,35 +10237,6 @@
     "job_posted_at": "2026-03-11T05:56:46.513Z"
   },
   {
-    "job_id": "workday-workiva-R11491",
-    "job_title": "Summer 2026 Intern - Partner Marketing",
-    "employer_name": "Workiva",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Partner-Marketing_R11491",
-    "job_posted_at_datetime_utc": "2026-03-11T05:56:42.234Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69197ae79f0a961242c4fb7d59ac2926b44ffff0d33ae1b854e491d8db5d7bd3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T05:56:42.234Z"
-  },
-  {
     "job_id": "workday-nxp-R-10061952",
     "job_title": "Wireless Systems Engineer Intern - Summer 2026",
     "employer_name": "NXP",
@@ -10633,34 +10575,6 @@
     "job_posted_at": "2026-03-11T05:55:22.947Z"
   },
   {
-    "job_id": "workday-intermountain-health-R162854",
-    "job_title": "Undergraduate Intern Summer 2026 - Health Plan Value Based Care Focus",
-    "employer_name": "Intermountain Health",
-    "job_city": "Murray",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Undergraduate-Intern-Summer-2026---Health-Plan-Value-Based-Care-Focus_R162854-1",
-    "job_posted_at_datetime_utc": "2026-03-11T05:55:21.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a17ee1306a910583a94ece888119613529b987a0c0705e3bc33dc4ce15210924",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T05:55:21.377Z"
-  },
-  {
     "job_id": "workday-f5-RP1036891",
     "job_title": "Software Development Engineer (AI) Intern",
     "employer_name": "F5",
@@ -10733,34 +10647,6 @@
       "employment": "internship",
       "domains": [
         "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T05:55:05.104Z"
-  },
-  {
-    "job_id": "workday-adobe-R159281",
-    "job_title": "2026 Digital Academy Intern - Enterprise Architecture Analyst",
-    "employer_name": "Adobe",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2026-Digital-Academy-Intern---Enterprise-Architecture-Analyst_R159281",
-    "job_posted_at_datetime_utc": "2026-03-11T05:55:05.104Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "04975eb30cb4a2c4694fe6c4d8cac02bf623d87ee1110480c063a7f687627257",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us"
@@ -10945,34 +10831,6 @@
     "job_posted_at": "2026-03-11T05:53:57.229Z"
   },
   {
-    "job_id": "workday-salesforce-JR308796",
-    "job_title": "Summer 2026 Intern - Software Engineer",
-    "employer_name": "Salesforce",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-1",
-    "job_posted_at_datetime_utc": "2026-03-11T05:53:50.634Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3606e2da7dbceccfe488c9efbff50c0d1924aea0ee42162acf0e569b297f85e4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T05:53:50.634Z"
-  },
-  {
     "job_id": "workday-intermountain-health-R164952",
     "job_title": "Intern - DTS",
     "employer_name": "Intermountain Health",
@@ -11114,6 +10972,153 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-11T01:53:07.626Z"
+  },
+  {
+    "job_id": "js-lockheed-martin-yynr_nuvtoygl1nzaaaaaa==",
+    "job_title": "Electrical Engineering Intern",
+    "employer_name": "Lockheed Martin",
+    "job_city": "Riviera Beach",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/riviera-beach/electrical-engineering-intern/694/92659328384",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "9a4c9b8ee88209ea2a309cc8e4cbe160f61c5de198a07d63694fbc082e5487ae",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-arthrex-p_ho4trynhozvb8laaaaaa==",
+    "job_title": "Electrical Engineering Intern",
+    "employer_name": "Arthrex",
+    "job_city": "Ave Maria",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.arthrex.com/NorthAmerica/job/Ave-Maria-Electrical-Engineering-Intern-FL-34142/1355115957/",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "cdbe16484b7f514369e33129b5e35d4852e5a773c5daccd0ee6ed03620e9e414",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "Amentum",
+    "job_city": "Oak Ridge",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ametek-inc-63velbnznisoe0iqaaaaaa==",
+    "job_title": "Electrical Engineer - Intern",
+    "employer_name": "Ametek, Inc.",
+    "job_city": "Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ametek.com/job/Largo-Electrical-Engineer-Intern-FL-33773/1363733900/",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a3a09e9b9c3e0cf2c645331d20d1db66b39a1f9e1fdafb564272fef463df5f80",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-roush-sydnjgndafhhgii6aaaaaa==",
+    "job_title": "Electrical Engineering Internship - Summer 2026",
+    "employer_name": "Roush",
+    "job_city": "Allen Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.roush.com/us/en/job/job_20260311141555_QMPVXE0WS2MK4PTU/Electrical-Engineering-Internship-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "9bee2b6d8f8bfc53c4d3294e8429e2f349057720251c9674807f96b93c07245f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
   },
   {
     "job_id": "js-honeywell-kyd9zgoockuvdo71aaaaaa==",
@@ -11511,124 +11516,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "79f80c2a7a28d0d70e76bc7c27d516f507511bdc9b3e5d63bfe62984eeb9dbca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-lockheed-martin-yynr_nuvtoygl1nzaaaaaa==",
-    "job_title": "Electrical Engineering Intern",
-    "employer_name": "Lockheed Martin",
-    "job_city": "Riviera Beach",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/riviera-beach/electrical-engineering-intern/694/92659328384",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "9a4c9b8ee88209ea2a309cc8e4cbe160f61c5de198a07d63694fbc082e5487ae",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-arthrex-p_ho4trynhozvb8laaaaaa==",
-    "job_title": "Electrical Engineering Intern",
-    "employer_name": "Arthrex",
-    "job_city": "Ave Maria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.arthrex.com/NorthAmerica/job/Ave-Maria-Electrical-Engineering-Intern-FL-34142/1355115957/",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "cdbe16484b7f514369e33129b5e35d4852e5a773c5daccd0ee6ed03620e9e414",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-roush-sydnjgndafhhgii6aaaaaa==",
-    "job_title": "Electrical Engineering Internship - Summer 2026",
-    "employer_name": "Roush",
-    "job_city": "Allen Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.roush.com/us/en/job/job_20260311141555_QMPVXE0WS2MK4PTU/Electrical-Engineering-Internship-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "9bee2b6d8f8bfc53c4d3294e8429e2f349057720251c9674807f96b93c07245f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ametek-inc-63velbnznisoe0iqaaaaaa==",
-    "job_title": "Electrical Engineer - Intern",
-    "employer_name": "Ametek, Inc.",
-    "job_city": "Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ametek.com/job/Largo-Electrical-Engineer-Intern-FL-33773/1363733900/",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a3a09e9b9c3e0cf2c645331d20d1db66b39a1f9e1fdafb564272fef463df5f80",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13256,6 +13143,91 @@
     "job_posted_at": "2026-03-10T06:15:47.083Z"
   },
   {
+    "job_id": "workday-intermountain-health-R164958",
+    "job_title": "Pharmacy Intern",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Primary Childrens Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Pharmacy-Intern_R164958",
+    "job_posted_at_datetime_utc": "2026-03-10T06:12:39.351Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "310eed9fafdc9ef0c82dc199496483d61de0c662ac620ab8f6ba4226a3935279",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T06:12:39.351Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164940",
+    "job_title": "Medical Assistant Internal Medicine",
+    "employer_name": "Intermountain Health",
+    "job_city": "Budge Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Budge-Clinic/Medical-Assistant-Internal-Medicine_R164940",
+    "job_posted_at_datetime_utc": "2026-03-10T06:12:39.351Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9373c41be38730ce197eb246f0210880f81299150da468502341eabfe59474ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T06:12:39.351Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR317299",
+    "job_title": "Summer 2026 Intern - Applied Scientist, Optimization",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Massachusetts---Boston/Summer-2026-Intern---Applied-Scientist--Optimization_JR317299-2",
+    "job_posted_at_datetime_utc": "2026-03-10T06:12:18.960Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "381269beaa246f4c622ca9d23a00dfa0c056a9c3fdb568fc4b9a5bcabd1809f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T06:12:18.960Z"
+  },
+  {
     "job_id": "workday-proofpoint-R13877",
     "job_title": "Agentic AI Workflows Intern",
     "employer_name": "Proofpoint",
@@ -14741,34 +14713,6 @@
     "job_posted_at": "2026-03-10T05:55:42.114Z"
   },
   {
-    "job_id": "workday-intermountain-health-R164940",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Budge Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Budge-Clinic/Medical-Assistant-Internal-Medicine_R164940",
-    "job_posted_at_datetime_utc": "2026-03-10T05:55:21.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9373c41be38730ce197eb246f0210880f81299150da468502341eabfe59474ca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T05:55:21.378Z"
-  },
-  {
     "job_id": "workday-intermountain-health-R163177",
     "job_title": "Data Analytics Intern (Summer)",
     "employer_name": "Intermountain Health",
@@ -14795,34 +14739,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-10T05:55:21.378Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R164958",
-    "job_title": "Pharmacy Intern",
-    "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health Primary Childrens Hospital",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Pharmacy-Intern_R164958",
-    "job_posted_at_datetime_utc": "2026-03-10T05:55:21.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "310eed9fafdc9ef0c82dc199496483d61de0c662ac620ab8f6ba4226a3935279",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T05:55:21.377Z"
   },
   {
     "job_id": "workday-f5-RP1036880",
@@ -15049,35 +14965,6 @@
     "job_posted_at": "2026-03-10T05:54:18.452Z"
   },
   {
-    "job_id": "workday-salesforce-JR317299",
-    "job_title": "Summer 2026 Intern - Applied Scientist, Optimization",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Massachusetts---Boston/Summer-2026-Intern---Applied-Scientist--Optimization_JR317299-2",
-    "job_posted_at_datetime_utc": "2026-03-10T05:53:50.634Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "381269beaa246f4c622ca9d23a00dfa0c056a9c3fdb568fc4b9a5bcabd1809f4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T05:53:50.634Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2611958",
     "job_title": "2026 Summer Mechanical Engineer Intern (Austin, TX)",
     "employer_name": "Applied Materials",
@@ -15223,6 +15110,36 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-10T00:39:28.016+00:00"
+  },
+  {
+    "job_id": "js-schneider-electric-b0b_lcqt2ehs9ad4aaaaaa==",
+    "job_title": "Electromechanical Engineering Intern",
+    "employer_name": "Schneider Electric",
+    "job_city": "Andover",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.se.com/jobs/111031?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "99ab9888d355e12d54e64484f139f7789f10f574b8eb4ba7f7bf4147a3d59817",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-10T00:00:00.000Z"
   },
   {
     "job_id": "js-federal-express-corporation-5gj88h7yl-pus8obaaaaaa==",
@@ -15445,36 +15362,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-schneider-electric-b0b_lcqt2ehs9ad4aaaaaa==",
-    "job_title": "Electromechanical Engineering Intern",
-    "employer_name": "Schneider Electric",
-    "job_city": "Andover",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.se.com/jobs/111031?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "99ab9888d355e12d54e64484f139f7789f10f574b8eb4ba7f7bf4147a3d59817",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
       ],
       "locations": [
         "us",
@@ -17555,6 +17442,35 @@
     "job_posted_at": "2026-03-09T03:49:20.811Z"
   },
   {
+    "job_id": "js-leidos--hndmn_z4r0zv8uraaaaaa==",
+    "job_title": "Electrical Hardware Design Engineering Intern",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.leidos.com/jobs/17287657-electrical-hardware-design-engineering-intern",
+    "job_posted_at_datetime_utc": "2026-03-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a641404e4db204d71f1a167182e585747160daffbce084dae101d0b43981add7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ge-aerospace-vfysgralqviympleaaaaaa==",
     "job_title": "Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US - Summer 2027 - Returning Students",
     "employer_name": "GE Aerospace",
@@ -17630,35 +17546,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-leidos--hndmn_z4r0zv8uraaaaaa==",
-    "job_title": "Electrical Hardware Design Engineering Intern",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.leidos.com/jobs/17287657-electrical-hardware-design-engineering-intern",
-    "job_posted_at_datetime_utc": "2026-03-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a641404e4db204d71f1a167182e585747160daffbce084dae101d0b43981add7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -18579,6 +18466,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-07T06:16:48.270Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164276",
+    "job_title": "Medical Assistant Internal Medicine",
+    "employer_name": "Intermountain Health",
+    "job_city": "Bountiful Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Internal-Medicine_R164276",
+    "job_posted_at_datetime_utc": "2026-03-07T06:12:39.351Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3934f055fc1434d378d5d558e12b8ea59147f8b79836a2c9c6b15bc5d623af2c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-07T06:12:39.351Z"
   },
   {
     "job_id": "workday-disney-10138418",
@@ -19699,34 +19614,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-07T05:57:27.224Z"
-  },
-  {
-    "job_id": "workday-kbr-R2120005",
-    "job_title": "National Security Solutions (NSS) Semiconductor Research Internship",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek Township",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship_R2120005",
-    "job_posted_at_datetime_utc": "2026-03-07T05:56:10.356Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "38984f3aea173c293f9ecc7f9f108e3d58a8ad2b461c32529880e4b7a80a5ea2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:56:10.356Z"
   },
   {
     "job_id": "workday-micron-JR91646",
@@ -21040,34 +20927,6 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-06T19:44:52.918Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R164276",
-    "job_title": "Medical Assistant Internal Medicine",
-    "employer_name": "Intermountain Health",
-    "job_city": "Bountiful Clinic",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Internal-Medicine_R164276",
-    "job_posted_at_datetime_utc": "2026-03-06T19:43:56.664Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3934f055fc1434d378d5d558e12b8ea59147f8b79836a2c9c6b15bc5d623af2c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T19:43:56.664Z"
   },
   {
     "job_id": "workday-leidos-R-00177615",
@@ -28685,34 +28544,6 @@
     "job_posted_at": "2026-03-04T05:59:08.916Z"
   },
   {
-    "job_id": "workday-asml-J-00335979",
-    "job_title": "Internship, Planning DUV Wilton Factory Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Planning-DUV-Wilton-Factory-Summer-2026_J-00335979",
-    "job_posted_at_datetime_utc": "2026-03-04T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "82b2450ccb160d9ebe37a70cfc3d215755f283bcbae2e0183c9bc05b7c22fc4e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T05:58:33.362Z"
-  },
-  {
     "job_id": "workday-kla-2531394",
     "job_title": "Algorithm Engineering Intern (Image Processing)",
     "employer_name": "KLA",
@@ -29245,34 +29076,6 @@
     "job_posted_at": "2026-03-04T05:57:47.483Z"
   },
   {
-    "job_id": "workday-asml-J-00335979",
-    "job_title": "Internship, Planning DUV Wilton Factory Summer 2026",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Planning-DUV-Wilton-Factory-Summer-2026_J-00335979",
-    "job_posted_at_datetime_utc": "2026-03-04T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "82b2450ccb160d9ebe37a70cfc3d215755f283bcbae2e0183c9bc05b7c22fc4e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T05:57:27.224Z"
-  },
-  {
     "job_id": "workday-trimble-R52484",
     "job_title": "Software Engineer Intern",
     "employer_name": "Trimble",
@@ -29327,34 +29130,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-04T05:56:52.959Z"
-  },
-  {
-    "job_id": "workday-kbr-R2119801",
-    "job_title": "National Security Solutions (NSS) Internship – Tactical vPATSOC Emulator Engineer Intern",
-    "employer_name": "KBR",
-    "job_city": "El Segundo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Tactical-vPATSOC-Emulator-Engineer-Intern_R2119801",
-    "job_posted_at_datetime_utc": "2026-03-04T05:56:10.356Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db022de86d8444b2bb6859c4983fae38513e03276d023f22b96b2a7c8957bdab",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T05:56:10.356Z"
   },
   {
     "job_id": "workday-kbr-R2119802",
@@ -35299,61 +35074,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-28T06:48:14.430Z"
-  },
-  {
-    "job_id": "workday-cisco-2008899",
-    "job_title": "AI/ML Modeling Engineer I (Intern)- United States",
-    "employer_name": "Cisco",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-ML-Modeling-Engineer-I--Intern---United-States_2008899",
-    "job_posted_at_datetime_utc": "2026-02-28T06:21:31.244Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc343dc16481f65633a99018334fbf521134a0a8072864f71b54ac4ad0c9f20d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T06:21:31.244Z"
-  },
-  {
-    "job_id": "workday-cisco-2008899",
-    "job_title": "AI/ML Modeling Engineer I (Intern)- United States",
-    "employer_name": "Cisco",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-ML-Modeling-Engineer-I--Intern---United-States_2008899",
-    "job_posted_at_datetime_utc": "2026-02-28T06:20:09.479Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc343dc16481f65633a99018334fbf521134a0a8072864f71b54ac4ad0c9f20d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T06:20:09.479Z"
   }
 ]
