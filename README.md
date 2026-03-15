@@ -31,6 +31,15 @@
 
 <img src="images/zapply.png" alt="Apply to jobs in seconds with Zapply.">
 
+Explore Zapply's website and check out:
+
+- Our chrome extension that auto-fills your job applications in seconds.
+- A dedicated job board with the latest jobs for various types of roles.
+- User account providing multiple profiles for different resume roles.
+- Job application tracking with streaks to unlock commitment awards.
+
+Experience an advanced career journey with us! 🚀
+
 <p align="center">
   <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -85,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | 2026 Intern - Software Engineer Intern (MA) | MA-WOBURN-WB1 ~ 2... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Intern---Software-Engineer-Intern--MA-_01830536) |
 | 🏢 **Cloudflare** | Software Engineer Intern (Summer 2026) | In-Office | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929) |
 | 🏢 **Scale AI** | Software Engineering Intern (Summer 2026) | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4606014005) |
-| 🏢 **Brex** | Software Engineer, Intern | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8434389002?gh_jid=8434389002) |
+| 🏢 **Brex** | Software Engineer, Intern | United States | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8434389002?gh_jid=8434389002) |
 | 🏢 **HP Inc** | Software Developer Internship | 3 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1) |
 | 🏢 **KBR** | National Security Solutions (NSS) - Model Based Systems Engineering Intern | Beavercreek Township | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Model-Based-Systems-Engineering-Intern_R2120304) |
 | 🏢 **Leidos** | Software Developer Intern | Lawton, OK | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Software-Developer-Intern_R-00177923) |
@@ -767,20 +776,23 @@ Check out our other repos for jobs and free resources:
 
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs 2026" height="40"></a>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2026"><img src="images/repo-nsj.png" alt="Healthcare Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
+  <a href="https://github.com/zapplyjobs/Internships-2026"><img src="images/repo-int.png" alt="Internships 2026" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
   &nbsp;&nbsp;
