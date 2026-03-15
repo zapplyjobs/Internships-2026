@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cadence** | Intern-Software Engineering | HOME MI | 17m | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
+| 🏢 **Cadence** | Intern-Software Engineering | HOME MI | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
 | 🏢 **Neuralink** | Software Engineer Intern, Internal Apps | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
 | 🏢 **Citadel** | Software Engineer - Intern (US) | Miami | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 | 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering) |
@@ -542,11 +542,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **HPE (University)** | High School Intern | Spring | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/High-School-Intern_1203849) |
-| 🏢 **Disney** | Disney Branded Television Production Management Intern, Summer/Fall 2026 | Glendale, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Disney-Branded-Television-Production-Management-Intern--Summer-Fall-2026_10139913) |
-| 🏢 **ASML** | Internship - R&D Finance Analyst | San Diego, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---R-D-Finance_J-00335353) |
-| 🏢 **Ochsner Health** | Nurse Intern - RN Students - All Locations | 24 Locations | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Nurse-Intern---RN-Students---All-Locations_REQ_00257143) |
-| 🏢 **Caterpillar** | 2026 Summer Corporate Intern - Engineering | 21 Locations | 17m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Engineering_R0000320875) |
+| 🏢 **HPE (University)** | High School Intern | Spring | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/High-School-Intern_1203849) |
+| 🏢 **Disney** | Disney Branded Television Production Management Intern, Summer/Fall 2026 | Glendale, CA | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Disney-Branded-Television-Production-Management-Intern--Summer-Fall-2026_10139913) |
+| 🏢 **ASML** | Internship - R&D Finance Analyst | San Diego, CA | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---R-D-Finance_J-00335353) |
+| 🏢 **Ochsner Health** | Nurse Intern - RN Students - All Locations | 24 Locations | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Nurse-Intern---RN-Students---All-Locations_REQ_00257143) |
+| 🏢 **Caterpillar** | 2026 Summer Corporate Intern - Engineering | 21 Locations | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Engineering_R0000320875) |
 | 🏢 **SLAC National Accelerator Laboratory USA** | Machine Learning for Particle Accelerators Intern | Menlo Park | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://prosple.com/graduate-employers/slac-national-accelerator-laboratory/jobs-internships/machine-learning-for-particle-accelerators-intern) |
 | 🏢 **Oracle** | Machine Learning PhD Research Intern | Nashville | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.stevenagefc.com/jobs/machine-learning-phd-research-intern-nashville-tennessee/2668567888-2/) |
 | 🏢 **Lucid Motors** | Intern, Charging & Smart Energy - Summer 2026 | Newark, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922153007) |
