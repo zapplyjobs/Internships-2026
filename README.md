@@ -31,15 +31,6 @@
 
 <img src="images/zapply.png" alt="Apply to jobs in seconds with Zapply.">
 
-Explore Zapply's website and check out:
-
-- Our chrome extension that auto-fills your job applications in seconds.
-- A dedicated job board with the latest jobs for various types of roles.
-- User account providing multiple profiles for different resume roles.
-- Job application tracking with streaks to unlock commitment awards.
-
-Experience an advanced career journey with us! 🚀
-
 <p align="center">
   <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -143,7 +134,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Backend Software Engineering Intern 2026 | San Mateo, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5026094007) |
 | 🏢 **Verkada** | Frontend Software Engineering Intern 2026 | San Mateo, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5024322007) |
 | 🏢 **xAI** | Software Engineer, Internal Tools | Palo Alto, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5052038007) |
-| 🏢 **Whatnot** | Software Engineer Intern (Summer 2026) | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7/application) |
+| 🏢 **Whatnot** | Software Engineer Intern (Summer 2026) | San Francisco, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7/application) |
 | 🏢 **FLIR Systems** | Software Engineer (Intern) | Huntsville, AL, AL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Software-Engineer--Intern-_REQ33728) |
 | 📡 **Analog Devices** | Embedded Software Intern | US, TX, Austin, N... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/CLOSED-US-TX-Austin-N-Capital/Embedded-Software-Intern_R256367) |
 | 🏢 **AMERICAN SYSTEMS** | Computer Science/Software Engineering Intern | Patuxent River | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://talent.americansystems.com/join/jobs/4092?lang=en-us) |
@@ -560,8 +551,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **GE HealthCare** | HW Intern | Haifa HEALTHCARE ... | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/HW-Intern_R4033782-2) |
-| 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
+| 🏢 **GE HealthCare** | HW Intern | Haifa HEALTHCARE ... | 37m | [<img src="images/apply.png" width="75" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/HW-Intern_R4033782-2) |
+| 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
 | 🏢 **Ochsner Health** | Nurse Intern - RN Students - All Locations | 24 Locations | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Nurse-Intern---RN-Students---All-Locations_REQ_00257143) |
 | 🏢 **Agility Robotics** | AI Intern | California City | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dcvc.com/companies/agility-robotics/jobs/70742865-ai-intern) |
 | 🏢 **Oracle** | Machine Learning PhD Research Intern | Nashville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.stevenagefc.com/jobs/machine-learning-phd-research-intern-nashville-tennessee/2668567888-2/) |
@@ -759,7 +750,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RE/SPEC Inc.** | Student Engineering Intern - Civil | Fort Myers, FL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000113805397) |
 | 🏢 **Qualtrics** | Federal Account Executive - Skillbridge Internship | United States (Re... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.qualtrics.com/careers/us/en/job/7672845?gh_jid=7672845) |
 | 🏢 **Hudl** | Support Intern | Lincoln, NE | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7561807) |
-| 🏢 **Okta** | Executive IT Support Engineer Intern (Summer 2026) | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544477?gh_jid=7544477) |
+| 🏢 **Okta** | Executive IT Support Engineer Intern (Summer 2026) | San Francisco | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544477?gh_jid=7544477) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
