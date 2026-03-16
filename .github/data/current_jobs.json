@@ -47483,33 +47483,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-02T16:44:48.176Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4053576",
-    "job_title": "Co-op Student RESEARCH NEUROLOGY GP",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Co-op-Student-RESEARCH-NEUROLOGY-GP_RQ4053576",
-    "job_posted_at_datetime_utc": "2026-03-02T16:20:25.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f1118e8c7ce3d00640ad0b14b112e5fa83d9719aea8f6a158dcef64af1f76f8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-02T16:20:25.112Z"
   }
 ]
