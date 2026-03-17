@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1648-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1647-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-397-blue?style=flat&logo=building)
-![Other Internships](https://img.shields.io/badge/Other_Internships-1127-red?style=flat&logo=star)
+![Other Internships](https://img.shields.io/badge/Other_Internships-1126-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -58,37 +58,37 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **CACI** | Software Engineer Intern - Spring 2026 | US TX Austin | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer-Intern---Spring-2026_323363) |
-| 🏢 **Multiply Labs** | Robotics Software Intern | San Francisco | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply) |
-| 🏢 **Multiply Labs** | Software Intern | San Francisco | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply) |
-| 🏢 **WeRide** | 2026 Summer Intern - Software Engineer | San Jose, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/weride/8f84c602-8a79-43f6-b662-74a92ef761f5/apply) |
-| 🏢 **Zoox** | Mapping Software Intern | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f/apply) |
-| 🏢 **Zoox** | Software Engineer Intern – Test Infrastructures | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/1fcd743b-6bba-4e6e-b926-a164fff73654/apply) |
-| 🏢 **Saviynt** | Software Engineering R&D - Internship | El Segundo, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/saviynt/17118748-6a11-44e2-9bf9-58badadb6ac0/apply) |
-| 🏢 **Sift** | Software Engineering Intern | San Francisco | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sift/1685904a-155a-4ccc-aaa3-3a886ffa0ecc/application) |
-| 🏢 **Mechanize** | Software Engineering Intern | San Francisco | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e/application) |
-| 🏢 **Match Group** | Backend Engineer Intern | Palo Alto | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/724734f1-b60b-49ae-8905-8663de76ad7a/apply) |
-| 🏢 **Voyant Photonics** | Spring Internship, Software Developer Experience | New York Office (HQ) | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/96bc5769-dc10-4171-8a30-8bcf0939b8b5/application) |
-| 🏢 **Hermeus** | Software Engineering Intern (Datalinks/C2) - (Summer/Fall 2026) | Atlanta, GA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc/apply) |
-| 🏢 **Hermeus** | Hardware-In-the-Loop Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/2b615685-7872-4da4-a4d5-03410fc1030a/apply) |
-| 🏢 **Rilla** | Software Engineer Intern - 2027 Graduates | New York City | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5/application) |
-| 🏢 **Etched** | Core SWE Intern | San Jose | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea/application) |
-| 🏢 **Cartesia** | Platform Engineer Intern | *HQ - San Francis... | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/57126466-2554-4ae5-baa6-ea56e18db942/application) |
-| 🏢 **Baseten** | Software Engineer - Internal Platform | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de/application) |
-| 🏢 **Baseten** | Software Engineer - Billing and Internal Tooling | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183/application) |
-| 🏢 **Atomic Semi** | Fab Software Engineering Intern - Summer | San Francisco Office | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/0eaedaf8-25e7-4f35-8a18-7a71a28959d0/application) |
-| 🏢 **Atomic Semi** | Infrastructure Software Engineering Intern - Summer | San Francisco Office | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/ad818171-c80f-4116-85f5-50d212a61fb0/application) |
-| 🏢 **Replit** | Software Engineering Intern (Summer 2026) | Foster City, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application) |
-| 🏢 **Palantir** | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply) |
-| 🏢 **Palantir** | Software Engineer, Internship | Seattle, WA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140/apply) |
-| 🏢 **Palantir** | Software Engineer, Internship | Denver, CO | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply) |
-| 🏢 **OpenAI** | Software Engineer Systems Research Internship, Applied Emerging Talent (Summer 2026) | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f/application) |
-| 🏢 **OpenAI** | Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026) | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711/application) |
-| 🏢 **OpenAI** | Software Engineer, Full Stack (Cooperative AI) | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9/application) |
-| 🏢 **Ramp** | Software Engineer Internship, iOS | New York, NY | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da/application) |
-| 🏢 **Ramp** | Software Engineer Internship, Frontend | New York, NY | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application) |
-| 🏢 **Ramp** | Software Engineer Internship, Android | New York, NY | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application) |
-| 🏢 **Notion** | Software Engineer Intern (Summer 2026) | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application) |
+| 🏢 **CACI** | Software Engineer Intern - Spring 2026 | US TX Austin | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer-Intern---Spring-2026_323363) |
+| 🏢 **Multiply Labs** | Robotics Software Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply) |
+| 🏢 **Multiply Labs** | Software Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply) |
+| 🏢 **WeRide** | 2026 Summer Intern - Software Engineer | San Jose, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/weride/8f84c602-8a79-43f6-b662-74a92ef761f5/apply) |
+| 🏢 **Zoox** | Mapping Software Intern | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f/apply) |
+| 🏢 **Zoox** | Software Engineer Intern – Test Infrastructures | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/1fcd743b-6bba-4e6e-b926-a164fff73654/apply) |
+| 🏢 **Saviynt** | Software Engineering R&D - Internship | El Segundo, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/saviynt/17118748-6a11-44e2-9bf9-58badadb6ac0/apply) |
+| 🏢 **Sift** | Software Engineering Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sift/1685904a-155a-4ccc-aaa3-3a886ffa0ecc/application) |
+| 🏢 **Mechanize** | Software Engineering Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e/application) |
+| 🏢 **Match Group** | Backend Engineer Intern | Palo Alto | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/724734f1-b60b-49ae-8905-8663de76ad7a/apply) |
+| 🏢 **Voyant Photonics** | Spring Internship, Software Developer Experience | New York Office (HQ) | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/96bc5769-dc10-4171-8a30-8bcf0939b8b5/application) |
+| 🏢 **Hermeus** | Software Engineering Intern (Datalinks/C2) - (Summer/Fall 2026) | Atlanta, GA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc/apply) |
+| 🏢 **Hermeus** | Hardware-In-the-Loop Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/2b615685-7872-4da4-a4d5-03410fc1030a/apply) |
+| 🏢 **Rilla** | Software Engineer Intern - 2027 Graduates | New York City | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5/application) |
+| 🏢 **Etched** | Core SWE Intern | San Jose | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea/application) |
+| 🏢 **Cartesia** | Platform Engineer Intern | *HQ - San Francis... | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/57126466-2554-4ae5-baa6-ea56e18db942/application) |
+| 🏢 **Baseten** | Software Engineer - Internal Platform | San Francisco | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de/application) |
+| 🏢 **Baseten** | Software Engineer - Billing and Internal Tooling | San Francisco | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183/application) |
+| 🏢 **Atomic Semi** | Fab Software Engineering Intern - Summer | San Francisco Office | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/0eaedaf8-25e7-4f35-8a18-7a71a28959d0/application) |
+| 🏢 **Atomic Semi** | Infrastructure Software Engineering Intern - Summer | San Francisco Office | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/ad818171-c80f-4116-85f5-50d212a61fb0/application) |
+| 🏢 **Replit** | Software Engineering Intern (Summer 2026) | Foster City, CA | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application) |
+| 🏢 **Palantir** | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply) |
+| 🏢 **Palantir** | Software Engineer, Internship | Seattle, WA | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140/apply) |
+| 🏢 **Palantir** | Software Engineer, Internship | Denver, CO | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply) |
+| 🏢 **OpenAI** | Software Engineer Systems Research Internship, Applied Emerging Talent (Summer 2026) | San Francisco | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f/application) |
+| 🏢 **OpenAI** | Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026) | San Francisco | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711/application) |
+| 🏢 **OpenAI** | Software Engineer, Full Stack (Cooperative AI) | San Francisco | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9/application) |
+| 🏢 **Ramp** | Software Engineer Internship, iOS | New York, NY | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da/application) |
+| 🏢 **Ramp** | Software Engineer Internship, Frontend | New York, NY | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application) |
+| 🏢 **Ramp** | Software Engineer Internship, Android | New York, NY | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application) |
+| 🏢 **Notion** | Software Engineer Intern (Summer 2026) | San Francisco | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application) |
 | 🏢 **Anduril** | Software Engineer Intern | Quincy | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinboston.com/job/software-engineer-intern/8772083) |
 | 🏢 **Citadel** | Software Engineer - Intern (US) | Miami | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 | 🏢 **Anduril** | Software Engineer Intern | Atlanta | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007) |
@@ -256,26 +256,26 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Elevance Health** | Business Intelligence (BI) & Analytics Resource Intern- Summer 2026 | 2 Locations | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH-AND-36TH-FL/Business-Intelligence--BI----Analytics-Resource-Intern--Summer-2026_JR185231) |
-| 🏢 **Zoox** | Machine Learning Engineer Intern (Ph.D), Perception | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3/apply) |
-| 🏢 **Zoox** | Machine Learning Engineer Intern, Autonomy Behavior | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/74ef6bb8-ec8a-4c6c-8618-544717f40e2d/apply) |
-| 🏢 **Zoox** | Machine Learning Engineer Intern, Simulation | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/f24a2d0c-bda7-48ff-9c83-9a96900128b7/apply) |
-| 🏢 **Match Group** | Data Scientist Intern | Los Angeles | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply) |
-| 🏢 **Match Group** | Machine Learning Engineer Intern | Palo Alto | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply) |
-| 🏢 **UiPath** | Marketing Analytics Intern | Bellevue | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/uipath/f0f848d0-d5e2-4447-ad31-6ecfe8c03c31/application) |
-| 🏢 **Pulse** | Machine Learning Engineer Intern (Summer 2026) | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264/application) |
-| 🏢 **Handshake** | AI/Machine Learning Engineer Intern | San Francisco, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a/application) |
-| 🏢 **Handshake** | Machine Learning Engineer, PhD Intern | San Francisco, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/792a567b-db9f-4e37-8360-2cb37466e154/application) |
+| 🏢 **Elevance Health** | Business Intelligence (BI) & Analytics Resource Intern- Summer 2026 | 2 Locations | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH-AND-36TH-FL/Business-Intelligence--BI----Analytics-Resource-Intern--Summer-2026_JR185231) |
+| 🏢 **Zoox** | Machine Learning Engineer Intern (Ph.D), Perception | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3/apply) |
+| 🏢 **Zoox** | Machine Learning Engineer Intern, Autonomy Behavior | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/74ef6bb8-ec8a-4c6c-8618-544717f40e2d/apply) |
+| 🏢 **Zoox** | Machine Learning Engineer Intern, Simulation | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/f24a2d0c-bda7-48ff-9c83-9a96900128b7/apply) |
+| 🏢 **Match Group** | Data Scientist Intern | Los Angeles | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply) |
+| 🏢 **Match Group** | Machine Learning Engineer Intern | Palo Alto | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply) |
+| 🏢 **UiPath** | Marketing Analytics Intern | Bellevue | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/uipath/f0f848d0-d5e2-4447-ad31-6ecfe8c03c31/application) |
+| 🏢 **Pulse** | Machine Learning Engineer Intern (Summer 2026) | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264/application) |
+| 🏢 **Handshake** | AI/Machine Learning Engineer Intern | San Francisco, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a/application) |
+| 🏢 **Handshake** | Machine Learning Engineer, PhD Intern | San Francisco, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/792a567b-db9f-4e37-8360-2cb37466e154/application) |
 | 🏢 **Schneider Electric - Global** | Data Scientist Intern | Berry Hill | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talentify.io/job/data-scientist-intern-berry-hill-tennessee-us-schneider-electric-north-america-110592) |
 | 🏢 **Adobe** | 2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern | Seattle | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.adobe.com/us/en/job/R160706/2026-AI-ML-Intern-Machine-Learning-Engineer-Researcher-Intern) |
 | 🖥️ **HPE** | Data Science Intern | Durham | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hpe.com/us/en/job/1192965/Data-Science-Intern) |
-| 🏢 **Instacart** | Machine Learning Engineer, PhD Intern | United States - R... | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=5917202) |
+| 🏢 **Instacart** | Machine Learning Engineer, PhD Intern | United States - R... | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=5917202) |
 | 🏢 **Adobe** | 2026 AI/ML Intern - Machine Learning Engineer Intern | San Jose | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469) |
 | 🏢 **Adobe** | 2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern | 3 Locations | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) |
 | 🏢 **Stripe** | PhD Machine Learning Engineer, Intern | San Francisco | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) |
-| 🏢 **Audax Group** | Business Intelligence CO-OP July - Dec 2026 | New York | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4666844005) |
-| 🏢 **Audax Group** | Data Analyst, Business Development Co-Op | Boston, MA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4648944005) |
-| 🏢 **Audax Group** | Data Engineer, Business Solutions Co-Op | Boston, MA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4649036005) |
+| 🏢 **Audax Group** | Business Intelligence CO-OP July - Dec 2026 | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4666844005) |
+| 🏢 **Audax Group** | Data Analyst, Business Development Co-Op | Boston, MA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4648944005) |
+| 🏢 **Audax Group** | Data Engineer, Business Solutions Co-Op | Boston, MA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4649036005) |
 | 🏢 **Capital One Financial Corporation** | Current PhD - Data Science Internship - Summer 2026   McLean, VA, USA | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-USA-VA-McLean-Current_PhD_-_Data_Science_Internship_-_Summer_2026.id23970306) |
 | 🏢 **Red Bull** | Internship Program, Business Intelligence | Santa Monica, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000114880788) |
 | 🏢 **Red Bull** | Internship Program, Data Science | Santa Monica, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000114876862) |
@@ -384,16 +384,16 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Logitech** | Product Marketing Intern | USA | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://logitech.wd5.myworkdayjobs.com/Logitech/job/San-Jose-California---USA/Product-Marketing-Intern_145582) |
-| 🏢 **Toyota Research Institute** | Human-Centered AI Intern, CAD Design Reasoning Machine Learning | Los Altos, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/ca561b23-9589-49bc-a056-7f741ff48c26/apply) |
-| 🏢 **Zoox** | Design Systems Intern | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/c5d5cc3a-d380-4278-8aec-d88cae791633/apply) |
-| 🏢 **Shield AI** | Graphic Design Intern - 2026 Summer Intern (R4111) | Washington, DC | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/872e86e8-f5b7-4dd5-948a-df606a253334/apply) |
-| 🏢 **Match Group** | Product Design Intern | Los Angeles | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/66cc088d-e7e7-464d-8155-a804e0c04f0e/apply) |
-| 🏢 **Etched** | Design Verification Engineer - Internal IP | San Jose | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39/application) |
-| 🏢 **Crusoe** | Product Design Intern, Summer 2026 | San Francisco, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/654b8821-1d2c-4ac7-a738-ea561de19672/application) |
-| 🏢 **Atomic Semi** | Circuit Design Intern - Summer | San Francisco Office | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/f6328005-5c42-4d1f-b1ad-ff9e220951b0/application) |
-| 🏢 **Palantir** | Product Designer, Internship - US Government | New York, NY | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply) |
-| 🏢 **Palantir** | Product Designer, Internship - US Government | Washington | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply) |
+| 🏢 **Logitech** | Product Marketing Intern | USA | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://logitech.wd5.myworkdayjobs.com/Logitech/job/San-Jose-California---USA/Product-Marketing-Intern_145582) |
+| 🏢 **Toyota Research Institute** | Human-Centered AI Intern, CAD Design Reasoning Machine Learning | Los Altos, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/ca561b23-9589-49bc-a056-7f741ff48c26/apply) |
+| 🏢 **Zoox** | Design Systems Intern | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/c5d5cc3a-d380-4278-8aec-d88cae791633/apply) |
+| 🏢 **Shield AI** | Graphic Design Intern - 2026 Summer Intern (R4111) | Washington, DC | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/872e86e8-f5b7-4dd5-948a-df606a253334/apply) |
+| 🏢 **Match Group** | Product Design Intern | Los Angeles | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/66cc088d-e7e7-464d-8155-a804e0c04f0e/apply) |
+| 🏢 **Etched** | Design Verification Engineer - Internal IP | San Jose | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39/application) |
+| 🏢 **Crusoe** | Product Design Intern, Summer 2026 | San Francisco, CA | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/654b8821-1d2c-4ac7-a738-ea561de19672/application) |
+| 🏢 **Atomic Semi** | Circuit Design Intern - Summer | San Francisco Office | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/f6328005-5c42-4d1f-b1ad-ff9e220951b0/application) |
+| 🏢 **Palantir** | Product Designer, Internship - US Government | New York, NY | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply) |
+| 🏢 **Palantir** | Product Designer, Internship - US Government | Washington | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply) |
 | 🏢 **Asana** | Product Design Intern - Summer 2026 (New York) | New York City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7490328?gh_jid=7490328) |
 | 🏢 **Asana** | Product Design Intern - Summer 2026 (San Francisco) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7490322?gh_jid=7490322) |
 | 🏢 **Genentech** | Intern, Product Marketing | New York, New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Intern--Product-Marketing_55296) |
@@ -454,11 +454,11 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **CACI** | Internet Junior Network Engineer Intern - Summer 2026 | US VA Chantilly | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Internet-Junior-Network-Engineer-Intern---Summer-2026_323038) |
-| 🏢 **Match Group** | Cloud Infrastructure Engineer Intern | Los Angeles | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/55e5b98a-3281-4da1-995c-dbf6e1381575/apply) |
-| 🏢 **Illumio** | Engineering Intern, SRE | Sunnyvale | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/9bb7111e-4749-4135-b43f-6984ab250417/application) |
-| 🏢 **Etched** | Infrastructure Intern | San Jose | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877/application) |
-| 🏢 **Ripple** | Security Engineer Intern, Secure Digital Assets Operations (Summer 2026) | San Francisco, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7467118?gh_jid=7467118) |
+| 🏢 **CACI** | Internet Junior Network Engineer Intern - Summer 2026 | US VA Chantilly | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Internet-Junior-Network-Engineer-Intern---Summer-2026_323038) |
+| 🏢 **Match Group** | Cloud Infrastructure Engineer Intern | Los Angeles | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/55e5b98a-3281-4da1-995c-dbf6e1381575/apply) |
+| 🏢 **Illumio** | Engineering Intern, SRE | Sunnyvale | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/9bb7111e-4749-4135-b43f-6984ab250417/application) |
+| 🏢 **Etched** | Infrastructure Intern | San Jose | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877/application) |
+| 🏢 **Ripple** | Security Engineer Intern, Secure Digital Assets Operations (Summer 2026) | San Francisco, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7467118?gh_jid=7467118) |
 | 🏢 **Red Bull** | Internship Program, IT Infrastructure | Santa Monica, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000114880856) |
 | 🏢 **RTX** | Summer 2026 - Digital Technology Infrastructure Intern | CT-REMOTE | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Summer-2026---Digital-Technology-Infrastructure-Intern_01830042) |
 | 🏢 **Leidos** | DevOps / Site Reliability Engineering Intern | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/DevOps---Site-Reliability-Engineering-Intern_R-00176967) |
@@ -478,7 +478,7 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Point72** | 2026 Technology Internship – UI/UX Engineer (Full Stack) | New York, NY | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8465224002?gh_jid=8465224002) |
+| 🏢 **Point72** | 2026 Technology Internship – UI/UX Engineer (Full Stack) | New York, NY | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8465224002?gh_jid=8465224002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -506,16 +506,16 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Sierra Nevada Corporation** | Mechanical Engineer I (For SNC Summer 2025 Interns Only) | Dayton, OH | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Mechanical-Engineer-I--For-SNC-Summer-2025-Interns-Only-_R0029387) |
-| 🏢 **Jabil** | Electrical Engineering Intern | St. Petersburg/Ta... | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Electrical-Engineering-Intern_J2437209) |
-| 🏢 **Jabil** | Mechanical Engineering Intern | St. Petersburg/Ta... | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2438294) |
-| 🏢 **General Motors** | 2026 Kettering Co-Op: Manufacturing Mechanical Engineer | Lansing | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lansing-Michigan-United-States-of-America/XMLNAME-2026-Kettering-Co-Op--Manufacturing-Mechanical-Engineer_JR-202605984) |
-| 🏢 **Multiply Labs** | Mechanical Engineer Intern | San Francisco | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/5ab5fd72-4432-4465-81e7-fb070eafc213/apply) |
-| 🏢 **Zoox** | Mechanical Engineering Intern | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/9563a5de-8361-4fd1-946a-be872332ae26/apply) |
-| 🏢 **Shield AI** | Electrical Engineering Fall Co-op (June 2026) (R4473) | Dallas | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/7b4e2234-fa9a-4945-8a20-0c16d176c702/apply) |
-| 🏢 **Shield AI** | 2026 Summer Intern - Electrical Engineering (R4626) | Dallas | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/de0ca518-e06f-403a-a8a0-0854e3944f5a/apply) |
-| 🏢 **Voyant Photonics** | Internship, Electrical Engineer | New York Office (HQ) | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/62546d1a-8b80-4c06-a8b1-ab1264c9b2be/application) |
-| 🏢 **Atomic Semi** | Mechanical Engineering Intern - Summer | San Francisco Office | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/6990e072-75a9-4892-a78f-62b94e0a6d3d/application) |
+| 🏢 **Sierra Nevada Corporation** | Mechanical Engineer I (For SNC Summer 2025 Interns Only) | Dayton, OH | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Mechanical-Engineer-I--For-SNC-Summer-2025-Interns-Only-_R0029387) |
+| 🏢 **Jabil** | Electrical Engineering Intern | St. Petersburg/Ta... | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Electrical-Engineering-Intern_J2437209) |
+| 🏢 **Jabil** | Mechanical Engineering Intern | St. Petersburg/Ta... | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2438294) |
+| 🏢 **General Motors** | 2026 Kettering Co-Op: Manufacturing Mechanical Engineer | Lansing | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lansing-Michigan-United-States-of-America/XMLNAME-2026-Kettering-Co-Op--Manufacturing-Mechanical-Engineer_JR-202605984) |
+| 🏢 **Multiply Labs** | Mechanical Engineer Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/5ab5fd72-4432-4465-81e7-fb070eafc213/apply) |
+| 🏢 **Zoox** | Mechanical Engineering Intern | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/9563a5de-8361-4fd1-946a-be872332ae26/apply) |
+| 🏢 **Shield AI** | Electrical Engineering Fall Co-op (June 2026) (R4473) | Dallas | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/7b4e2234-fa9a-4945-8a20-0c16d176c702/apply) |
+| 🏢 **Shield AI** | 2026 Summer Intern - Electrical Engineering (R4626) | Dallas | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/de0ca518-e06f-403a-a8a0-0854e3944f5a/apply) |
+| 🏢 **Voyant Photonics** | Internship, Electrical Engineer | New York Office (HQ) | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/62546d1a-8b80-4c06-a8b1-ab1264c9b2be/application) |
+| 🏢 **Atomic Semi** | Mechanical Engineering Intern - Summer | San Francisco Office | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/6990e072-75a9-4892-a78f-62b94e0a6d3d/application) |
 | 🏢 **Intel USA** | Silicon Hardware Engineering Graduate Intern | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://prosple.com/graduate-employers/intel/jobs-internships/silicon-hardware-engineering-graduate-intern) |
 | 🏢 **General Dynamics Mission Systems** | Electrical Engineer - Intern | Chantilly | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://diversityjobs.com/career/16156629/Electrical-Engineer-Intern-Virginia-Chantilly) |
 | 🏢 **Roush** | Electrical Engineering Internship - Summer 2026 | Allen Park | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.roush.com/us/en/job/job_20260311141555_QMPVXE0WS2MK4PTU/Electrical-Engineering-Internship-Summer-2026) |
@@ -584,10 +584,10 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **CoBot** | Test Engineer Intern (6-Month Internship) | Santa Clara | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cobot/afed5019-99b1-4b1c-a89f-56e3d360c282/application) |
-| 🏢 **CoBot** | Test Engineer Intern (Summer 2026) | Santa Clara | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cobot/639a97d8-b359-4d1c-a9a5-3e39e6fd64f3/application) |
-| 🏢 **Voyant Photonics** | Internship, Lidar Test Engineering | New York Office (HQ) | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/2b39c5b6-4ef5-4891-8ae9-65c21b10769f/application) |
-| 🏢 **Hermeus** | Test Engineering Intern -  (Summer/Fall 2026) | Atlanta, GA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed/apply) |
+| 🏢 **CoBot** | Test Engineer Intern (6-Month Internship) | Santa Clara | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cobot/afed5019-99b1-4b1c-a89f-56e3d360c282/application) |
+| 🏢 **CoBot** | Test Engineer Intern (Summer 2026) | Santa Clara | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cobot/639a97d8-b359-4d1c-a9a5-3e39e6fd64f3/application) |
+| 🏢 **Voyant Photonics** | Internship, Lidar Test Engineering | New York Office (HQ) | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/2b39c5b6-4ef5-4891-8ae9-65c21b10769f/application) |
+| 🏢 **Hermeus** | Test Engineering Intern -  (Summer/Fall 2026) | Atlanta, GA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed/apply) |
 | 🏢 **NXP** | Test Engineering Intern - Summer 2026 | Austin | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/Test-Engineering-Intern---Summer-2026_R-10060439-1) |
 | 💾 **Micron** | Intern - Hardware Automation Engineer | Main Site, ID | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Hardware-Automation-Engineer_JR94404) |
 | 🏢 **Figure AI** | Quality Engineering Intern [Summer 2026] | San Jose, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4662470006) |
@@ -632,86 +632,86 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Sanofi** | Machine learning applied to Quantitative Pharmacology - Small molecules Fall 2026 Co-op | Cambridge, MA | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Machine-learning-applied-to-Quantitative-Pharmacology---Small-molecules-Fall-2026-Co-op_R2841323-1) |
-| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | Olney, IL | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Olney-IL/Pharmacy-Pre-Grad-Intern---WM_R-2368885-1) |
-| 🏢 **Morgan Stanley** | Intern | Pasadena | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/Private/job/Pasadena-California-United-States-of-America/Intern_JR032348) |
-| 🏢 **Morgan Stanley** | Intern | Mount Laurel | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/Private/job/Mount-Laurel-New-Jersey-United-States-of-America/Intern_JR032459) |
-| 🏢 **Logitech** | Legal Intern | USA | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://logitech.wd5.myworkdayjobs.com/Logitech/job/San-Jose-California---USA/Legal-Intern_145543-1) |
-| 🏢 **Hitachi** | Sales Intern | Raleigh | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Sales-Intern_R0122077) |
-| 🏢 **Jabil** | Industrial Engineering Intern | St. Petersburg/Ta... | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2438305) |
-| 🏢 **General Motors** | 2026 Controls/EE Co-Op - LDT | Lansing | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lansing-Michigan-United-States-of-America/XMLNAME-2026-Controls-EE-Co-Op---LDT_JR-202512371) |
-| 🏢 **GE Vernova** | GE Vernova Government Affairs & Policy Intern - Summer 2026 | Washington DC | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Washington-DC/GE-Vernova-Government-Affairs---Policy-Intern---Summer-2026_R5034744-2) |
-| 🏢 **Genentech** | Editorial Intern - Summer Internship | New York, New York | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Editorial-Intern---Summer-Internship_55270) |
-| 🏢 **CVS Health** | Pharmacy Intern - Grad | Randolph | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Randolph/Pharmacy-Intern---Grad_R0863365) |
-| 🏢 **CVS Health** | Pharmacy Intern - Grad | Chester | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Chester/Pharmacy-Intern---Grad_R0863360) |
-| 🏢 **Convergent Research** | Computer Vision and Machine Learning Intern | Watertown, MA | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/convergentresearch/4f276075-e670-4f93-aa47-f89c78272b97/apply) |
-| 🏢 **Life.Church (YouVersion)** | Life.Church Campus Internship | United States | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/2282f1ca-c456-46a2-9ba3-05524e4ce91b/apply) |
-| 🏢 **Life.Church (YouVersion)** | Life.Church Central Internship | Edmond, OK | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/ad7fef6f-16af-4688-b97e-b5c0ff05d46e/apply) |
-| 🏢 **Curtiss-Wright** | Engineering Co-Op/Intern | OH-Cincinnati | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Cincinnati-Nuclear/Engineering-Co-Op-Intern_JR11440) |
-| 🏢 **Mercedes-Benz R&D North America** | ML Ops Intern | San Jose, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/MBRDNA/e214ddad-ee32-49b6-867a-d61381ccceb6/apply) |
-| 🏢 **Toyota Research Institute** | Robotics Intern - Robotics and Human Aware Interaction and Learning | Cambridge, MA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/2f99faec-580c-46e2-b1fe-00e3382e5a46/apply) |
-| 🏢 **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research | Los Altos, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply) |
-| 🏢 **Toyota Research Institute** | Energy & Materials Intern - Generative Models and Reinforcement Learning | Los Altos, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/839dce5a-db02-4e44-b016-0080c4292855/apply) |
-| 🏢 **WeRide** | 2026 Summer Intern - PhD | San Jose, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply) |
-| 🏢 **WeRide** | 2026 Summer Intern - Vehicle Embedded Engineer (DBW) | San Jose, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply) |
-| 🏢 **Waabi** | Product Management Internship/Co-op, Summer 2026 | San Francisco, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/fbac4b25-492e-4076-a2f6-7346ed3ca48c/apply) |
-| 🏢 **Zoox** | Manufacturing Process Intern | Hayward, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/0b25d6a9-8e85-4b38-aae9-c3699e499b6a/apply) |
-| 🏢 **Zoox** | Motion Planning Intern | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/d355532c-5e18-4eaf-9da1-0571c2cbbc96/apply) |
-| 🏢 **Zoox** | Program Management Intern | Foster City, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/128f8fb1-f298-40d9-a862-f00ea929085e/apply) |
-| 🏢 **Voltus** | Energy Markets Intern | Remote | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/voltus/393be62e-9b99-4158-80ad-6a0d5b73b1c9/apply) |
-| 🏢 **Voltus** | Energy Markets Intern (MISO) | Remote | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) |
-| 🏢 **The Athletic** | Engineering Student Intern, Summer 2026 (Remote) | United States | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/theathletic/e55c3738-517a-4033-843d-0c572f63145e/apply) |
-| 🏢 **Shield AI** | Marketing Video Editor Intern - 2026 Summer Intern (R4110) | San Diego | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/a5208a9f-4392-473c-b034-1670c3d0c565/apply) |
-| 🏢 **Cluely** | Engineering Intern | San Francisco | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108/application) |
-| 🏢 **Radiant Industries** | Summer 2026 Internship - Nuclear Engineer | El Segundo HQ | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/0145614b-6844-4821-bd73-a1dd04f279ad/application) |
-| 🏢 **Genies** | Research Engineer Intern, Speech Generation - Spring 2026 | Genies San Francisco | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/genies/1016804c-7ca0-4184-a2f9-850be98fd49e/application) |
-| 🏢 **Magnet Forensics** | Vulnerability Research Internship | United States | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/magnetforensics/a8d3d3a6-fbaf-4ab7-809e-e8c8f2476626/apply) |
-| 🏢 **Match Group** | Android Engineer Intern | Palo Alto | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/84135a99-e009-4764-8e88-f0dba164d097/apply) |
-| 🏢 **Match Group** | iOS Engineer Intern | Los Angeles | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/178e6f99-ddbb-43e1-9e4c-fe2b524e0861/apply) |
-| 🏢 **Voyant Photonics** | Business Development Representative Internship | New York Office (HQ) | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/5d4f6ba3-69a7-498d-9e4b-b496243138e1/application) |
-| 🏢 **UiPath** | Marketing Advocacy Intern | Bellevue | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/uipath/03892565-9c82-49e7-9462-28033cb1cd91/application) |
-| 🏢 **UiPath** | Automation Developer Intern | New York | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/uipath/f20f998f-c3af-4ec3-a755-3edffa82c3c7/application) |
-| 🏢 **Snowflake** | Sales Development Intern - Summer 2026 | US-CA-Menlo Park | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/f06dd58b-360c-4265-b681-8997f6caa4f2/application) |
-| 🏢 **Snowflake** | Sales Development Intern - Summer 2026 | US-CO-Denver | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/b50abb05-5851-45ee-ad0f-df3d3998c1aa/application) |
-| 🏢 **Kitware** | AI Research Internship | Clifton Park | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/c7e16bbe-604a-4669-8f90-4f8a4d50961e/apply) |
-| 🏢 **Hermeus** | Structures Engineer Intern (Summer/Fall 2026) | Los Angeles, CA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/273cb94a-ff5b-4814-81e8-34f406d403c6/apply) |
-| 🏢 **Hermeus** | Supply Chain Intern (Summer 2026) | Atlanta, GA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/f84db43b-d547-4deb-8b2c-82fbd495ed84/apply) |
-| 🏢 **Hermeus** | Avionics Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/0f52df07-bd23-44cb-a24d-3346f6d94201/apply) |
-| 🏢 **Findhelp** | UX Summer Intern | Austin, TX | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/findhelp/a7b2b7d4-6e07-4dd5-805e-350fb6a1a858/apply) |
-| 🏢 **Sierra** | Intern, Agent Development (Summer 2026) | San Francisco, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8/application) |
-| 🏢 **Rilla** | Customer Success - 2027 Intern | New York City | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/c7863366-4f2a-48b4-a67f-70ca54c122a1/application) |
-| 🏢 **Reality Defender** | Multimodal AI PhD Intern (Summer 2026) | USA Remote | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/realitydefender/e937807e-6dde-4753-ac83-4794b25bc357/application) |
-| 🏢 **Reality Defender** | People & Talent Intern | New York City | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/realitydefender/7965962f-8f24-4a4e-a14c-01f42d97d06c/application) |
-| 🏢 **Reality Defender** | HR & Recruiting Intern | New York City | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/realitydefender/e59b3521-056e-446a-b570-403c17b08149/application) |
-| 🏢 **Northwood Space** | Regulatory Compliance Intern | Torrance, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/b3b73903-fb1d-48f4-bb11-ecac7e9e202d/application) |
-| 🏢 **Patreon** | Social Media Intern (Summer 2026) | New York | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/patreon/316b7477-91b3-4bdf-a489-68a9b048fb58/application) |
-| 🏢 **Patreon** | Video Intern (Summer 2026) | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/patreon/d295d945-6312-4d82-aec7-2c4656c2caab/application) |
-| 🏢 **Persona** | Sales Development Representative Intern | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/persona/04184335-a3ff-4bc6-a0a6-4d0a9b7d4d7f/application) |
-| 📡 **Analog Devices** | Product Applications Intern | 5 Locations | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Applications-Intern_R255003) |
-| 🏢 **Mercor** | Research Engineer Intern | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/7622165c-17a4-44e9-85bf-fc6ac4daf977/application) |
-| 🏢 **Illumio** | Technical Program Management Intern | Sunnyvale | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/da9e6331-07ec-46f9-b4b6-b5c4f0b6d21b/application) |
-| 🏢 **Illumio** | Product Management Intern | Sunnyvale | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/0b62d210-abbe-43e8-a4de-fdba787e232e/application) |
-| 🏢 **Etched** | GTM Intern | San Jose | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e/application) |
-| 🏢 **Etched** | Core Ops Intern | San Jose | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d/application) |
-| 🏢 **Etched** | Platform Intern | San Jose | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/097cf1d6-592c-4ce4-910e-401512278368/application) |
-| 🏢 **Crusoe** | Field Engineering Intern, Summer 2026 | Abilene, TX | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/5585b550-3200-4c15-bc76-95045ca7712b/application) |
-| 🏢 **Crusoe** | Data Center Facility Operations Intern, Summer 2026 | San Francisco, CA | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/a96fc69c-5191-46b1-915b-c3241f9d2186/application) |
-| 🏢 **Crusoe** | Energy Development Intern, Summer 2026 | Denver, CO | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/f396305c-2b39-43b6-b64a-494e103a9187/application) |
-| 🏢 **Eight Sleep** | AI/ML Research Internship | San Francisco | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035/application) |
-| 🏢 **Cartesia** | Product Engineer Intern | *HQ - San Francis... | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/ebae3ceb-a6a7-4af0-ae3e-c197af14a67a/application) |
-| 🏢 **Confluent** | Early Talent Intern   Skillbridge | Austin | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/confluent/f66615ae-0662-45ab-bfe5-7dbaba55cc83/application) |
-| 🏢 **Allium** | Generalist Intern | New York | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/allium/8f86b4af-6e4d-42ab-ab6d-6155443542d3/application) |
-| 🏢 **Allium** | Engineering Intern - General / AI | New York | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e/application) |
-| 🏢 **Palantir** | Deployment Strategist, Internship - US Government | Honolulu, HI | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e/apply) |
-| 🏢 **Supabase** | Internal Auditor | Remote | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/349134f8-331d-4012-82a2-0b95d407b5bf/application) |
+| 🏢 **Sanofi** | Machine learning applied to Quantitative Pharmacology - Small molecules Fall 2026 Co-op | Cambridge, MA | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Machine-learning-applied-to-Quantitative-Pharmacology---Small-molecules-Fall-2026-Co-op_R2841323-1) |
+| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | Olney, IL | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Olney-IL/Pharmacy-Pre-Grad-Intern---WM_R-2368885-1) |
+| 🏢 **Morgan Stanley** | Intern | Pasadena | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/Private/job/Pasadena-California-United-States-of-America/Intern_JR032348) |
+| 🏢 **Morgan Stanley** | Intern | Mount Laurel | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/Private/job/Mount-Laurel-New-Jersey-United-States-of-America/Intern_JR032459) |
+| 🏢 **Logitech** | Legal Intern | USA | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://logitech.wd5.myworkdayjobs.com/Logitech/job/San-Jose-California---USA/Legal-Intern_145543-1) |
+| 🏢 **Hitachi** | Sales Intern | Raleigh | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Sales-Intern_R0122077) |
+| 🏢 **Jabil** | Industrial Engineering Intern | St. Petersburg/Ta... | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2438305) |
+| 🏢 **General Motors** | 2026 Controls/EE Co-Op - LDT | Lansing | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lansing-Michigan-United-States-of-America/XMLNAME-2026-Controls-EE-Co-Op---LDT_JR-202512371) |
+| 🏢 **GE Vernova** | GE Vernova Government Affairs & Policy Intern - Summer 2026 | Washington DC | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Washington-DC/GE-Vernova-Government-Affairs---Policy-Intern---Summer-2026_R5034744-2) |
+| 🏢 **Genentech** | Editorial Intern - Summer Internship | New York, New York | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Editorial-Intern---Summer-Internship_55270) |
+| 🏢 **CVS Health** | Pharmacy Intern - Grad | Randolph | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Randolph/Pharmacy-Intern---Grad_R0863365) |
+| 🏢 **CVS Health** | Pharmacy Intern - Grad | Chester | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Chester/Pharmacy-Intern---Grad_R0863360) |
+| 🏢 **Convergent Research** | Computer Vision and Machine Learning Intern | Watertown, MA | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/convergentresearch/4f276075-e670-4f93-aa47-f89c78272b97/apply) |
+| 🏢 **Life.Church (YouVersion)** | Life.Church Campus Internship | United States | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/2282f1ca-c456-46a2-9ba3-05524e4ce91b/apply) |
+| 🏢 **Life.Church (YouVersion)** | Life.Church Central Internship | Edmond, OK | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/ad7fef6f-16af-4688-b97e-b5c0ff05d46e/apply) |
+| 🏢 **Curtiss-Wright** | Engineering Co-Op/Intern | OH-Cincinnati | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Cincinnati-Nuclear/Engineering-Co-Op-Intern_JR11440) |
+| 🏢 **Mercedes-Benz R&D North America** | ML Ops Intern | San Jose, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/MBRDNA/e214ddad-ee32-49b6-867a-d61381ccceb6/apply) |
+| 🏢 **Toyota Research Institute** | Robotics Intern - Robotics and Human Aware Interaction and Learning | Cambridge, MA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/2f99faec-580c-46e2-b1fe-00e3382e5a46/apply) |
+| 🏢 **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research | Los Altos, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply) |
+| 🏢 **Toyota Research Institute** | Energy & Materials Intern - Generative Models and Reinforcement Learning | Los Altos, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/839dce5a-db02-4e44-b016-0080c4292855/apply) |
+| 🏢 **WeRide** | 2026 Summer Intern - PhD | San Jose, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply) |
+| 🏢 **WeRide** | 2026 Summer Intern - Vehicle Embedded Engineer (DBW) | San Jose, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply) |
+| 🏢 **Waabi** | Product Management Internship/Co-op, Summer 2026 | San Francisco, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/fbac4b25-492e-4076-a2f6-7346ed3ca48c/apply) |
+| 🏢 **Zoox** | Manufacturing Process Intern | Hayward, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/0b25d6a9-8e85-4b38-aae9-c3699e499b6a/apply) |
+| 🏢 **Zoox** | Motion Planning Intern | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/d355532c-5e18-4eaf-9da1-0571c2cbbc96/apply) |
+| 🏢 **Zoox** | Program Management Intern | Foster City, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/128f8fb1-f298-40d9-a862-f00ea929085e/apply) |
+| 🏢 **Voltus** | Energy Markets Intern | Remote | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/voltus/393be62e-9b99-4158-80ad-6a0d5b73b1c9/apply) |
+| 🏢 **Voltus** | Energy Markets Intern (MISO) | Remote | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) |
+| 🏢 **The Athletic** | Engineering Student Intern, Summer 2026 (Remote) | United States | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/theathletic/e55c3738-517a-4033-843d-0c572f63145e/apply) |
+| 🏢 **Shield AI** | Marketing Video Editor Intern - 2026 Summer Intern (R4110) | San Diego | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/a5208a9f-4392-473c-b034-1670c3d0c565/apply) |
+| 🏢 **Cluely** | Engineering Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108/application) |
+| 🏢 **Radiant Industries** | Summer 2026 Internship - Nuclear Engineer | El Segundo HQ | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/0145614b-6844-4821-bd73-a1dd04f279ad/application) |
+| 🏢 **Genies** | Research Engineer Intern, Speech Generation - Spring 2026 | Genies San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/genies/1016804c-7ca0-4184-a2f9-850be98fd49e/application) |
+| 🏢 **Magnet Forensics** | Vulnerability Research Internship | United States | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/magnetforensics/a8d3d3a6-fbaf-4ab7-809e-e8c8f2476626/apply) |
+| 🏢 **Match Group** | Android Engineer Intern | Palo Alto | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/84135a99-e009-4764-8e88-f0dba164d097/apply) |
+| 🏢 **Match Group** | iOS Engineer Intern | Los Angeles | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/178e6f99-ddbb-43e1-9e4c-fe2b524e0861/apply) |
+| 🏢 **Voyant Photonics** | Business Development Representative Internship | New York Office (HQ) | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/5d4f6ba3-69a7-498d-9e4b-b496243138e1/application) |
+| 🏢 **UiPath** | Marketing Advocacy Intern | Bellevue | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/uipath/03892565-9c82-49e7-9462-28033cb1cd91/application) |
+| 🏢 **UiPath** | Automation Developer Intern | New York | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/uipath/f20f998f-c3af-4ec3-a755-3edffa82c3c7/application) |
+| 🏢 **Snowflake** | Sales Development Intern - Summer 2026 | US-CA-Menlo Park | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/f06dd58b-360c-4265-b681-8997f6caa4f2/application) |
+| 🏢 **Snowflake** | Sales Development Intern - Summer 2026 | US-CO-Denver | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/b50abb05-5851-45ee-ad0f-df3d3998c1aa/application) |
+| 🏢 **Kitware** | AI Research Internship | Clifton Park | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/c7e16bbe-604a-4669-8f90-4f8a4d50961e/apply) |
+| 🏢 **Hermeus** | Structures Engineer Intern (Summer/Fall 2026) | Los Angeles, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/273cb94a-ff5b-4814-81e8-34f406d403c6/apply) |
+| 🏢 **Hermeus** | Supply Chain Intern (Summer 2026) | Atlanta, GA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/f84db43b-d547-4deb-8b2c-82fbd495ed84/apply) |
+| 🏢 **Hermeus** | Avionics Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/0f52df07-bd23-44cb-a24d-3346f6d94201/apply) |
+| 🏢 **Findhelp** | UX Summer Intern | Austin, TX | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/findhelp/a7b2b7d4-6e07-4dd5-805e-350fb6a1a858/apply) |
+| 🏢 **Sierra** | Intern, Agent Development (Summer 2026) | San Francisco, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8/application) |
+| 🏢 **Rilla** | Customer Success - 2027 Intern | New York City | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/c7863366-4f2a-48b4-a67f-70ca54c122a1/application) |
+| 🏢 **Reality Defender** | Multimodal AI PhD Intern (Summer 2026) | USA Remote | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/realitydefender/e937807e-6dde-4753-ac83-4794b25bc357/application) |
+| 🏢 **Reality Defender** | People & Talent Intern | New York City | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/realitydefender/7965962f-8f24-4a4e-a14c-01f42d97d06c/application) |
+| 🏢 **Reality Defender** | HR & Recruiting Intern | New York City | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/realitydefender/e59b3521-056e-446a-b570-403c17b08149/application) |
+| 🏢 **Northwood Space** | Regulatory Compliance Intern | Torrance, CA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/b3b73903-fb1d-48f4-bb11-ecac7e9e202d/application) |
+| 🏢 **Patreon** | Social Media Intern (Summer 2026) | New York | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/patreon/316b7477-91b3-4bdf-a489-68a9b048fb58/application) |
+| 🏢 **Patreon** | Video Intern (Summer 2026) | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/patreon/d295d945-6312-4d82-aec7-2c4656c2caab/application) |
+| 🏢 **Persona** | Sales Development Representative Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/persona/04184335-a3ff-4bc6-a0a6-4d0a9b7d4d7f/application) |
+| 📡 **Analog Devices** | Product Applications Intern | 5 Locations | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Applications-Intern_R255003) |
+| 🏢 **Mercor** | Research Engineer Intern | San Francisco | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/7622165c-17a4-44e9-85bf-fc6ac4daf977/application) |
+| 🏢 **Illumio** | Technical Program Management Intern | Sunnyvale | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/da9e6331-07ec-46f9-b4b6-b5c4f0b6d21b/application) |
+| 🏢 **Illumio** | Product Management Intern | Sunnyvale | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/0b62d210-abbe-43e8-a4de-fdba787e232e/application) |
+| 🏢 **Etched** | GTM Intern | San Jose | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e/application) |
+| 🏢 **Etched** | Core Ops Intern | San Jose | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d/application) |
+| 🏢 **Etched** | Platform Intern | San Jose | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/097cf1d6-592c-4ce4-910e-401512278368/application) |
+| 🏢 **Crusoe** | Field Engineering Intern, Summer 2026 | Abilene, TX | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/5585b550-3200-4c15-bc76-95045ca7712b/application) |
+| 🏢 **Crusoe** | Data Center Facility Operations Intern, Summer 2026 | San Francisco, CA | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/a96fc69c-5191-46b1-915b-c3241f9d2186/application) |
+| 🏢 **Crusoe** | Energy Development Intern, Summer 2026 | Denver, CO | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/f396305c-2b39-43b6-b64a-494e103a9187/application) |
+| 🏢 **Eight Sleep** | AI/ML Research Internship | San Francisco | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035/application) |
+| 🏢 **Cartesia** | Product Engineer Intern | *HQ - San Francis... | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/ebae3ceb-a6a7-4af0-ae3e-c197af14a67a/application) |
+| 🏢 **Confluent** | Early Talent Intern   Skillbridge | Austin | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/confluent/f66615ae-0662-45ab-bfe5-7dbaba55cc83/application) |
+| 🏢 **Allium** | Generalist Intern | New York | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/allium/8f86b4af-6e4d-42ab-ab6d-6155443542d3/application) |
+| 🏢 **Allium** | Engineering Intern - General / AI | New York | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e/application) |
+| 🏢 **Palantir** | Deployment Strategist, Internship - US Government | Honolulu, HI | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e/apply) |
+| 🏢 **Supabase** | Internal Auditor | Remote | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/349134f8-331d-4012-82a2-0b95d407b5bf/application) |
 | 🏢 **IDEXX** | Rare Reagent Support Internship | Westbrook, ME | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Rare-Reagent-Support-Internship_J-051755) |
 | 🏢 **City of Richmond (CA)** | Administrative Student Intern (OPEN/CONTINUOUS) | California | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.governmentjobs.com/careers/richmondca/jobs/3462272/administrative-student-intern-open-continuous) |
-| 🏢 **CockroachLabs** | Engineering Internships 2026 | New York, NY | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.cockroachlabs.com/careers/job/?gh_jid=6291435) |
-| 🏢 **Roblox** | [Summer 2026] Communications Intern | San Mateo, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7701921?gh_jid=7701921) |
+| 🏢 **CockroachLabs** | Engineering Internships 2026 | New York, NY | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.cockroachlabs.com/careers/job/?gh_jid=6291435) |
+| 🏢 **Roblox** | [Summer 2026] Communications Intern | San Mateo, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7701921?gh_jid=7701921) |
 | 🏢 **The Cigna Group** | Internal Audit SOC-1 Reporting Intern | 4 Locations | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Internal-Audit-SOC-1-Reporting-Intern_25012419) |
 | 🏢 **Adobe** | 2026 MBA Intern - Content Marketing Strategy | San Jose | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---GTM-Strategy-Analyst_R158880) |
 | 🏢 **Cloudflare** | Tax Intern | Hybrid | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7719060?gh_jid=7719060) |
-| 🏢 **RE/SPEC Inc.** | Student Engineering Intern - Water Resources | Rapid City, SD | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000115081380) |
+| 🏢 **RE/SPEC Inc.** | Student Engineering Intern - Water Resources | Rapid City, SD | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000115081380) |
 | 🏢 **Banner Health** | Medical Assistant Internal Medicine Clinic | BUMC Phoenix Inte... | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-Internal-Medicine-1300-N-12th-St-Suite-508/Medical-Assistant-Internal-Medicine-Clinic_R4428318) |
 | 🏢 **Veolia Environnement SA** | Membrane R&D Intern | Minnetonka, MN | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115075178) |
 | 🏢 **Adobe** | 2026 SAMI Intern - Adobe Sales Academy BDR | San Francisco | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-SAMI-Intern---Adobe-Sales-Academy-BDR_R159219) |
@@ -724,19 +724,19 @@
 | 🏢 **Confluent** | Partner Sales Operations Skillbridge Intern | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/confluent/9b228459-6e7e-477c-a737-966c633e83ad/application) |
 | 🏢 **Elastic** | Renewal Manager - SkillBridge Intern | United States | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7711477&gh_jid=7711477) |
 | 🏢 **Stripe** | Internal Recruiter | US-Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7670399) |
-| 🏢 **Amplitude** | Enterprise Data & AI Intern | San Francisco, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/amplitude/jobs/8465037002) |
-| 🏢 **RTX** | Intern: 2026 - Employee & Labor Relations (Onsite) | CT-MIDDLETOWN-130... | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Intern--2026---Employee---Labor-Relations--Onsite-_01830206) |
-| 🏢 **Ripple** | MBA Sales Intern (Summer 2026) | New York, NY | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7462164?gh_jid=7462164) |
+| 🏢 **Amplitude** | Enterprise Data & AI Intern | San Francisco, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/amplitude/jobs/8465037002) |
+| 🏢 **RTX** | Intern: 2026 - Employee & Labor Relations (Onsite) | CT-MIDDLETOWN-130... | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Intern--2026---Employee---Labor-Relations--Onsite-_01830206) |
+| 🏢 **Ripple** | MBA Sales Intern (Summer 2026) | New York, NY | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7462164?gh_jid=7462164) |
 | 🏢 **Patreon** | Machine Learning Intern (PhD) - Summer 2026 | San Francisco | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/patreon/7f4b2ec9-28a8-4254-883f-0e64c720e931/application) |
-| 🏢 **Johnson & Johnson** | Robotics Data Co-op | Santa Clara | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Robotics-Data-Co-op_R-058921) |
-| 🏢 **IMC Trading** | CHI - 2026 - Research Analyst Intern | Chicago | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4671336101) |
-| 🏢 **Sandisk** | Sales Summer Intern (BA/BS) | Milpitas, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000115038318) |
+| 🏢 **Johnson & Johnson** | Robotics Data Co-op | Santa Clara | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Robotics-Data-Co-op_R-058921) |
+| 🏢 **IMC Trading** | CHI - 2026 - Research Analyst Intern | Chicago | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4671336101) |
+| 🏢 **Sandisk** | Sales Summer Intern (BA/BS) | Milpitas, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000115038318) |
 | 🏢 **Glean** | Sales Development Representative Intern | Nashville, TN | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4671732005) |
 | 🏢 **Datadog** | Technical Escalations Engineer 3 (Internal Developer Portal) - US-East | Boston | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7536159/?gh_jid=7536159) |
 | 🏢 **Stantec** | Engineering Intern | Mt Laurel Township | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://stantec.jobs/mount-laurel-nj/engineering-intern/F6EBAE033CD545658273FD3705A10B22/job/) |
-| 🏢 **Audax Group** | IT Operations Co-Op | Boston, MA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4648954005) |
-| 🏢 **HubSpot** | Event Production Co-op, Global Events (Fall 2026) | Remote | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7592447?gh_jid=7592447) |
-| 🏢 **Box** | Legal Intern - Summer 2026 | Redwood City, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7689479) |
+| 🏢 **Audax Group** | IT Operations Co-Op | Boston, MA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4648954005) |
+| 🏢 **HubSpot** | Event Production Co-op, Global Events (Fall 2026) | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7592447?gh_jid=7592447) |
+| 🏢 **Box** | Legal Intern - Summer 2026 | Redwood City, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7689479) |
 | 🏢 **Starburst** | Sales Development Representative Intern | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/starburst/jobs/5152379008) |
 | 🏢 **CFS Energy** | Intern - Manufacturing Engineer - Fall Co-op 2026 | Devens, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/cfsenergy/983efa7e-a6fa-4102-af52-687c9c6ef6fd/apply) |
 | 🏢 **Oracle** | PhD Research Intern - Machine Learning Research Group | Pierre | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.kget.com/jobs/phd-research-intern-machine-learning-research-group-pierre-south-dakota/2671244747-2/) |
@@ -887,7 +887,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1648 current opportunities from 397 companies**
+**🎯 1647 current opportunities from 397 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
