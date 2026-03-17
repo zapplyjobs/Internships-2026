@@ -51744,34 +51744,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-03T05:20:27.438Z"
-  },
-  {
-    "job_id": "ashby-openai-13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f",
-    "job_title": "Software Engineer Systems Research Internship, Applied Emerging Talent (Summer 2026)",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f/application",
-    "job_posted_at_datetime_utc": "2026-03-03T05:10:47.987Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "176487f43f4a416cd1b70c4707fba34809d7bd8e03fbb934a3ef654128319dcd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-03T05:10:47.987Z"
   }
 ]
