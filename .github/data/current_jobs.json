@@ -47434,34 +47434,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-03T14:53:00.823Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000112440445",
-    "job_title": "Product and Project Management Intern",
-    "employer_name": "Bosch Group",
-    "job_city": "Farmington Hills",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000112440445",
-    "job_posted_at_datetime_utc": "2026-03-03T14:45:49.528Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "07c3d19a95beef218c8f7f9d2dc4d0c176a818cc32173084f3a335d818e8ec07",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-03T14:45:49.528Z"
   }
 ]
