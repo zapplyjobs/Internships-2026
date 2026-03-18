@@ -48925,33 +48925,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-04T18:17:44.855Z"
-  },
-  {
-    "job_id": "greenhouse-roblox-7612755",
-    "job_title": "[Summer 2026] Copywriter, Social Intern",
-    "employer_name": "Roblox",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.roblox.com/jobs/7612755?gh_jid=7612755",
-    "job_posted_at_datetime_utc": "2026-03-04T12:52:01-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4c815cf261ad09fa3d68e0db3d4332c08f1bd6d1154209820e8196de2e976f40",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-04T12:52:01-05:00"
   }
 ]
