@@ -51690,34 +51690,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-05T18:02:46-05:00"
-  },
-  {
-    "job_id": "sr-RESPECInc-744000113039218",
-    "job_title": "Student Civil Engineering Intern",
-    "employer_name": "RE/SPEC Inc.",
-    "job_city": "Fairbanks",
-    "job_state": "AK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/RESPECInc/744000113039218",
-    "job_posted_at_datetime_utc": "2026-03-05T22:57:14.497Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7438c9c4d1fce81d7796d1fd8a39f02f0eb9df3fbcadca902c0dfcba6636b9a2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-05T22:57:14.497Z"
   }
 ]
