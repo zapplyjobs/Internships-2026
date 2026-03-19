@@ -51526,33 +51526,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-05T21:52:02.992Z"
-  },
-  {
-    "job_id": "workday-micron-JR93612",
-    "job_title": "Intern - Digital Experience and Strategy",
-    "employer_name": "Micron",
-    "job_city": "Meridian",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Digital-Experience-and-Strategy_JR93612",
-    "job_posted_at_datetime_utc": "2026-03-05T21:09:16.709Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18bc419b6b64ced95b44923f808121800cecbd0be7f0bc919c93ecf0fe8a8a5e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T21:09:16.709Z"
   }
 ]
