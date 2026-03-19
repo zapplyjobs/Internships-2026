@@ -49011,38 +49011,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-05T15:48:40.225Z"
-  },
-  {
-    "job_id": "lever-sunwatercapital-51139004-df7d-409e-92d6-5c38c7f3c40a",
-    "job_title": "Summer Data Engineering Intern - Congressional Data",
-    "employer_name": "Sunwater Capital",
-    "job_city": "North Bethesda",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sunwatercapital/51139004-df7d-409e-92d6-5c38c7f3c40a/apply",
-    "job_posted_at_datetime_utc": "2026-03-05T15:10:05.975Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 16,
-      "max": 18,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "53f4eb3acebb020ce1d6d07cc8a332e2e5e8c8815779c55ce9f551036c16dd4b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-05T15:10:05.975Z"
   }
 ]
