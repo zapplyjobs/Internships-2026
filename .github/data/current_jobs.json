@@ -49044,34 +49044,5 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-03-05T15:10:05.975Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000112950702",
-    "job_title": "AI and SW Development Engineering Intern",
-    "employer_name": "Bosch Group",
-    "job_city": "Plymouth",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000112950702",
-    "job_posted_at_datetime_utc": "2026-03-05T14:56:39.164Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e7c3f9fe866dacc762984bb31b8caf538e4f083c62480ee5183f750a5976c6a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-05T14:56:39.164Z"
   }
 ]
