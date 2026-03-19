@@ -49980,34 +49980,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-05T16:35:42.632Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000112970367",
-    "job_title": "Mechanical Engineering Intern - Thermal Simulation",
-    "employer_name": "Bosch Group",
-    "job_city": "Plymouth",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000112970367",
-    "job_posted_at_datetime_utc": "2026-03-05T15:48:40.225Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e9743adc0d2511236368aa87c34e9a6c948335d624c2e7b3555f1d4cac52f21c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-05T15:48:40.225Z"
   }
 ]
