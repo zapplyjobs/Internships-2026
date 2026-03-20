@@ -48731,33 +48731,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T17:08:07.306Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4051080",
-    "job_title": "MGH Neurosurgery Co-op, Admin",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/MGH-Neurosurgery-Co-op--Admin_RQ4051080",
-    "job_posted_at_datetime_utc": "2026-03-06T16:57:58.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "73068b9920202f87de9ebd51e29d65286f57d0a50a17d7cef9fa6df26de74fc0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T16:57:58.570Z"
   }
 ]
