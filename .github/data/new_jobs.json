@@ -50648,33 +50648,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-05T20:30:58-05:00"
-  },
-  {
-    "job_id": "greenhouse-roblox-7678445",
-    "job_title": "[Summer 2026] Game Design Intern",
-    "employer_name": "Roblox",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.roblox.com/jobs/7678445?gh_jid=7678445",
-    "job_posted_at_datetime_utc": "2026-03-05T19:35:32-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "67df70c0634f62e047666b1d1f7ec93a5e3fd292655666cfd2190d72ec444196",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T19:35:32-05:00"
   }
 ]
