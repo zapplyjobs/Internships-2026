@@ -48844,34 +48844,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T16:05:43.367Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000113214232",
-    "job_title": "Automotive Technician Intern",
-    "employer_name": "Bosch Group",
-    "job_city": "Plymouth",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000113214232",
-    "job_posted_at_datetime_utc": "2026-03-06T15:49:47.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ea4eb285dfdc7616c64144b6dfd1610101022b9b7bd9a912463e2ecb021f600",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-06T15:49:47.347Z"
   }
 ]
