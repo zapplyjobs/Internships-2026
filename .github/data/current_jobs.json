@@ -48788,33 +48788,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-06T11:43:27-05:00"
-  },
-  {
-    "job_id": "greenhouse-roblox-7654991",
-    "job_title": "[Summer 2026] Software Engineer, Community Apprenticeship - Intern",
-    "employer_name": "Roblox",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.roblox.com/jobs/7654991?gh_jid=7654991",
-    "job_posted_at_datetime_utc": "2026-03-06T11:26:15-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ad5fe458b9238716ff968b20d632dc57590075807aa84f1102aa7f8bc4e5c50",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T11:26:15-05:00"
   }
 ]
