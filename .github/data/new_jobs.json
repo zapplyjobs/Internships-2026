@@ -48704,33 +48704,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T15:02:12.001Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235326",
-    "job_title": "University, Digital Transformation Analyst Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0235326",
-    "job_posted_at_datetime_utc": "2026-03-06T14:59:33.394Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18d66bc754c6cbc8c79e1f356f77135c233d2a93fded3e8708e13eac70418193",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T14:59:33.394Z"
   }
 ]
