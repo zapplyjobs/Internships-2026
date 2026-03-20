@@ -48732,34 +48732,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T14:59:33.394Z"
-  },
-  {
-    "job_id": "sr-INFICON2-744000113192898",
-    "job_title": "Human Resource Intern/Generalist  - Part Time (Seasonal)",
-    "employer_name": "INFICON",
-    "job_city": "East Syracuse",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/INFICON2/744000113192898",
-    "job_posted_at_datetime_utc": "2026-03-06T14:39:47.583Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "93c437ba4a0fc1bd6caa1c5ced901ec6074070369ed55ea43367c4e53a63befd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-06T14:39:47.583Z"
   }
 ]
