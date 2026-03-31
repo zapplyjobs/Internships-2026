@@ -24632,38 +24632,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-24T17:42:22-04:00"
-  },
-  {
-    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
-    "job_title": "Business Development Intern",
-    "employer_name": "Samba TV",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
-    "job_posted_at_datetime_utc": "2026-03-24T20:17:04.638Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-24T20:17:04.638Z"
   }
 ]
