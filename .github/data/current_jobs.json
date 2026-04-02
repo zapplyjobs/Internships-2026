@@ -24682,34 +24682,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-26T18:52:43.329Z"
-  },
-  {
-    "job_id": "sr-SmithsGroup2-744000117041068",
-    "job_title": "Summer Engineering Internship",
-    "employer_name": "Smiths Group",
-    "job_city": "603 Hendee Street",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/SmithsGroup2/744000117041068",
-    "job_posted_at_datetime_utc": "2026-03-26T18:20:08.213Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5aa04c5a0ce35b25da2df9255dc68164c0cef5ac2a823d8d3641815c735a0112",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-26T18:20:08.213Z"
   }
 ]
