@@ -1252,39 +1252,6 @@
     "job_posted_at": "2026-04-01T20:44:13.539Z"
   },
   {
-    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
-    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:13.190Z"
-  },
-  {
     "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
     "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
     "employer_name": "Hermeus",
@@ -1306,6 +1273,39 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:13.190Z"
+  },
+  {
+    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
+    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us"
@@ -2871,34 +2871,6 @@
     "job_posted_at": "2026-04-01T16:26:30.098Z"
   },
   {
-    "job_id": "workday-micron-JR84792",
-    "job_title": "Intern - Finance",
-    "employer_name": "Micron",
-    "job_city": "Main Site",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Finance_JR84792",
-    "job_posted_at_datetime_utc": "2026-04-01T16:19:09.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f160317b96fa39c7dbbb656b22c838faae91619719d1faa7dca89fce39a31879",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T16:19:09.014Z"
-  },
-  {
     "job_id": "workday-micron-JR96660",
     "job_title": "Intern - Computer Engineer, AI/ML/LLM",
     "employer_name": "Micron",
@@ -2916,6 +2888,34 @@
       "domains": [
         "software",
         "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T16:19:09.014Z"
+  },
+  {
+    "job_id": "workday-micron-JR84792",
+    "job_title": "Intern - Finance",
+    "employer_name": "Micron",
+    "job_city": "Main Site",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Finance_JR84792",
+    "job_posted_at_datetime_utc": "2026-04-01T16:19:09.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f160317b96fa39c7dbbb656b22c838faae91619719d1faa7dca89fce39a31879",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -3572,6 +3572,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-01T10:34:05.145Z"
+  },
+  {
+    "job_id": "js-noblis-mzwuvxusu7qjv5hqaaaaaa==",
+    "job_title": "Summer 2026 - Health Data AI/ML Intern",
+    "employer_name": "noblis",
+    "job_city": "Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobsearcher.com/jobs/6240e68ea810e77359ec71880c77f539ca33f868c0e132505ed07dfde39423d8",
+    "job_posted_at_datetime_utc": "2026-04-01T09:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "f0a64c54e70bc1fdda85c05021c2a39887648bbe44fa110e6baf149f2f0e3f82",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T09:00:00.000Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7765500",
@@ -4290,6 +4319,35 @@
     "job_posted_at": "2026-04-01T00:02:32.842Z"
   },
   {
+    "job_id": "js-amerihealth-caritas-ywjtqum4rn7vv4qqaaaaaa==",
+    "job_title": "Summer Intern (Graduate Level, Computer Science)",
+    "employer_name": "Amerihealth Caritas",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44290/Summer-Intern-Graduate-Level-Computer-Science",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a9cc488d648f41e9b1e20eca48a19d1fd719c255f2487cb88de753cc82e7b7cf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cisco-qgism9tutp6wzhnmaaaaaa==",
     "job_title": "Software Engineer Embedded/Network Systems I (Co-Op) - United States",
     "employer_name": "Cisco",
@@ -4423,35 +4481,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amerihealth-caritas-ywjtqum4rn7vv4qqaaaaaa==",
-    "job_title": "Summer Intern (Graduate Level, Computer Science)",
-    "employer_name": "Amerihealth Caritas",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44290/Summer-Intern-Graduate-Level-Computer-Science",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a9cc488d648f41e9b1e20eca48a19d1fd719c255f2487cb88de753cc82e7b7cf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us",
@@ -6911,35 +6940,6 @@
     "job_posted_at": "2026-03-30T22:56:36-04:00"
   },
   {
-    "job_id": "js-diversityjobs-l8iftqoskurjmyjcaaaaaa==",
-    "job_title": "Data Science Internship Summer 2027",
-    "employer_name": "diversityjobs",
-    "job_city": "Mifflin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobsearcher.com/jobs/99d7ee92ebd3eba5e33094b5ccb141add9bb647005133f92754ba159457de447",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "3717d47b46127a4751d9aa62d14181c5ed8acb7293354f7870e9fd5388e98f88",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
     "job_id": "js-panasonic-connect-north-america-5zvys5cmfxsi317faaaaaa==",
     "job_title": "Computer Engineering Intern",
     "employer_name": "Panasonic Connect North America",
@@ -6969,22 +6969,23 @@
     "job_posted_at": "2026-03-31T00:00:00.000Z"
   },
   {
-    "job_id": "js-constellation-energy-generation-llc-ygwb6k1rq981rfsoaaaaaa==",
-    "job_title": "Strategic/Systems Engineering Intern - Marseilles, IL",
-    "employer_name": "Constellation Energy Generation, LLC.",
-    "job_city": "Marseilles",
+    "job_id": "js-peregrine-semiconductor-corp-gvrzzvwkq3mognp4aaaaaa==",
+    "job_title": "Intern, Software Engineer, AI/ML - Summer 2026 Job Details | Murata America",
+    "employer_name": "Peregrine Semiconductor Corp.",
+    "job_city": "San Diego",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.constellationenergy.com/careers-home/jobs/130531?lang=en-us",
+    "job_apply_link": "https://jobs.factoryfix.com/jobs/intern-software-engineer-aiml-summer-2026-job-details-murata-america--san-diego--ca--3717444840--V2",
     "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "74e5281af80d01ab9376a721a40b8266f0e0861842b74bd1535f09146d635194",
+    "fingerprint": "99c198644c67fedf3cbef5c379218b5d3701dd849f83d9ad2f7f6292d79086b0",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software"
+        "software",
+        "ai"
       ],
       "locations": [
         "us",
@@ -7023,6 +7024,64 @@
       "special": [
         "unicorn"
       ]
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-diversityjobs-l8iftqoskurjmyjcaaaaaa==",
+    "job_title": "Data Science Internship Summer 2027",
+    "employer_name": "diversityjobs",
+    "job_city": "Mifflin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobsearcher.com/jobs/99d7ee92ebd3eba5e33094b5ccb141add9bb647005133f92754ba159457de447",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "3717d47b46127a4751d9aa62d14181c5ed8acb7293354f7870e9fd5388e98f88",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-constellation-energy-generation-llc-ygwb6k1rq981rfsoaaaaaa==",
+    "job_title": "Strategic/Systems Engineering Intern - Marseilles, IL",
+    "employer_name": "Constellation Energy Generation, LLC.",
+    "job_city": "Marseilles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.constellationenergy.com/careers-home/jobs/130531?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "74e5281af80d01ab9376a721a40b8266f0e0861842b74bd1535f09146d635194",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
@@ -10160,6 +10219,65 @@
     "job_posted_at": "2026-03-30T07:00:17.305Z"
   },
   {
+    "job_id": "js-caci-bhjjvhvdbuc9tm9qaaaaaa==",
+    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150161697",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b0c0b3142ead4b7666c3d3bb2c9431ec5358b0d4c12bd25b5ff48145f9e8d634",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-sei1global-cgackgs_xek00dnwaaaaaa==",
+    "job_title": "2026 Intern - SEI Data Office AI Intern",
+    "employer_name": "SEI1GLOBAL",
+    "job_city": "Oaks",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.seic.com/global/en/job/R0035952/2026-Intern-SEI-Data-Office-AI-Intern",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8ca20d924a30fb4d8e7fc5a6d57f7374ab8294af97623e8f48b5490637cd7fa6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
     "job_id": "js-dover-corporation-uqnmncdgcb7zgezsaaaaaa==",
     "job_title": "Electrical Engineer Intern",
     "employer_name": "Dover Corporation",
@@ -10335,36 +10453,6 @@
     "job_posted_at": "2026-03-30T00:00:00.000Z"
   },
   {
-    "job_id": "js-caci-bhjjvhvdbuc9tm9qaaaaaa==",
-    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150161697",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b0c0b3142ead4b7666c3d3bb2c9431ec5358b0d4c12bd25b5ff48145f9e8d634",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
     "job_id": "js-georgia-tech-research-institute-kvbu6kupp5k0s0_gaaaaaa==",
     "job_title": "Software Engineer Student Intern-Summer 2026 - CIPHER",
     "employer_name": "Georgia Tech Research Institute",
@@ -10381,35 +10469,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sei1global-cgackgs_xek00dnwaaaaaa==",
-    "job_title": "2026 Intern - SEI Data Office AI Intern",
-    "employer_name": "SEI1GLOBAL",
-    "job_city": "Oaks",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.seic.com/global/en/job/R0035952/2026-Intern-SEI-Data-Office-AI-Intern",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8ca20d924a30fb4d8e7fc5a6d57f7374ab8294af97623e8f48b5490637cd7fa6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
       ],
       "locations": [
         "us",
@@ -10655,6 +10714,35 @@
     "job_posted_at": "2026-03-30T00:00:00.000Z"
   },
   {
+    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
+    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
+    "employer_name": "Amerihealth Caritas",
+    "job_city": "Newtown Square",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
+    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-29T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ge-healthcare-crtf-xlugh_jqvudaaaaaa==",
     "job_title": "Edison Engineering Development Program Internship - Hardware",
     "employer_name": "GE HEALTHCARE",
@@ -10846,35 +10934,6 @@
       "employment": "internship",
       "domains": [
         "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
-    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
-    "employer_name": "Amerihealth Caritas",
-    "job_city": "Newtown Square",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
-    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us",
@@ -12715,6 +12774,34 @@
     "job_posted_at": "2026-03-28T11:46:44.975Z"
   },
   {
+    "job_id": "lever-zoox-b28f4bc1-226d-471d-a868-1062bbe85614",
+    "job_title": "Lidar Engineer Intern",
+    "employer_name": "Zoox",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/zoox/b28f4bc1-226d-471d-a868-1062bbe85614/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:37.975Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c929f8af9ce69587d0efe3e7780e8ffbf36f29487afd9a3bce3509acd334f1ad",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:37.975Z"
+  },
+  {
     "job_id": "lever-zoox-9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3",
     "job_title": "Machine Learning Engineer Intern (Ph.D), Perception",
     "employer_name": "Zoox",
@@ -12796,34 +12883,6 @@
       ],
       "locations": [
         "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:37.975Z"
-  },
-  {
-    "job_id": "lever-zoox-b28f4bc1-226d-471d-a868-1062bbe85614",
-    "job_title": "Lidar Engineer Intern",
-    "employer_name": "Zoox",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/zoox/b28f4bc1-226d-471d-a868-1062bbe85614/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:37.975Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c929f8af9ce69587d0efe3e7780e8ffbf36f29487afd9a3bce3509acd334f1ad",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
         "us"
       ],
       "experience": "entry_level",
@@ -13325,130 +13384,6 @@
     "job_posted_at": "2026-03-28T11:46:31.975Z"
   },
   {
-    "job_id": "ashby-snowflake-b50abb05-5851-45ee-ad0f-df3d3998c1aa",
-    "job_title": "Sales Development Intern - Summer 2026",
-    "employer_name": "Snowflake",
-    "job_city": "US-CO-Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/b50abb05-5851-45ee-ad0f-df3d3998c1aa/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "395016ac52109cf30a1c2115db5d26e9731944ae43a0454b77d2949ad7468740",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-f04c36fb-1335-4d3c-aac0-19f7e7e4b8fd",
-    "job_title": "Financial System Intern - Summer 2026",
-    "employer_name": "Snowflake",
-    "job_city": "US-CA-Dublin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/f04c36fb-1335-4d3c-aac0-19f7e7e4b8fd/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "bb6a3d200287b4b55d90efa57422bab27d1d0a6f86e511e891a2a021223f048f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-26316468-f156-40e1-b037-db3337d5fe4c",
-    "job_title": "Order to Cash - Summer 2026",
-    "employer_name": "Snowflake",
-    "job_city": "US-CA-Menlo Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/26316468-f156-40e1-b037-db3337d5fe4c/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "e05d07beb4ea01de1621445294d74d57e2384b23baad06351738c48870a581c5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-83990726-7d4e-439c-8112-34213173adcc",
-    "job_title": "Sales/GTM Apps Developer Intern - Summer 2026",
-    "employer_name": "Snowflake",
-    "job_city": "US-CA-Dublin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/83990726-7d4e-439c-8112-34213173adcc/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "18792cf7beb1fdd5a81021270cd2514a025759f5c59b3b08fe8d59edbbd9f138",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
     "job_id": "ashby-snowflake-b706967a-76f9-4deb-a613-5c2a9073e1ad",
     "job_title": "ABM Operations & Execution Intern - Summer 2026",
     "employer_name": "Snowflake",
@@ -13589,6 +13524,130 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-b50abb05-5851-45ee-ad0f-df3d3998c1aa",
+    "job_title": "Sales Development Intern - Summer 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CO-Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/b50abb05-5851-45ee-ad0f-df3d3998c1aa/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "395016ac52109cf30a1c2115db5d26e9731944ae43a0454b77d2949ad7468740",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-f04c36fb-1335-4d3c-aac0-19f7e7e4b8fd",
+    "job_title": "Financial System Intern - Summer 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Dublin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/f04c36fb-1335-4d3c-aac0-19f7e7e4b8fd/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "bb6a3d200287b4b55d90efa57422bab27d1d0a6f86e511e891a2a021223f048f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-26316468-f156-40e1-b037-db3337d5fe4c",
+    "job_title": "Order to Cash - Summer 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/26316468-f156-40e1-b037-db3337d5fe4c/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "e05d07beb4ea01de1621445294d74d57e2384b23baad06351738c48870a581c5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-83990726-7d4e-439c-8112-34213173adcc",
+    "job_title": "Sales/GTM Apps Developer Intern - Summer 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Dublin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/83990726-7d4e-439c-8112-34213173adcc/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "18792cf7beb1fdd5a81021270cd2514a025759f5c59b3b08fe8d59edbbd9f138",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
       ],
       "locations": [
         "us",
@@ -14458,35 +14517,6 @@
     "job_posted_at": "2026-03-28T11:46:26.404Z"
   },
   {
-    "job_id": "ashby-illumio-76e7f1b9-0993-4142-be38-95ce3011f599",
-    "job_title": "Product Design Intern",
-    "employer_name": "Illumio",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/illumio/76e7f1b9-0993-4142-be38-95ce3011f599/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.277Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "210c3334cf2908679ca13c9b414aa126112a18346db96076d2b6f4a8cf334436",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:25.277Z"
-  },
-  {
     "job_id": "ashby-illumio-da9e6331-07ec-46f9-b4b6-b5c4f0b6d21b",
     "job_title": "Technical Program Management Intern",
     "employer_name": "Illumio",
@@ -14528,6 +14558,35 @@
     "job_employment_type": "Intern",
     "salary": null,
     "fingerprint": "5756867e73f5a06667eb911dafb088c13a6e6bcf3d874ee1930eaf488990be0c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:25.277Z"
+  },
+  {
+    "job_id": "ashby-illumio-76e7f1b9-0993-4142-be38-95ce3011f599",
+    "job_title": "Product Design Intern",
+    "employer_name": "Illumio",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/illumio/76e7f1b9-0993-4142-be38-95ce3011f599/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.277Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "210c3334cf2908679ca13c9b414aa126112a18346db96076d2b6f4a8cf334436",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -14603,74 +14662,6 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-28T11:46:25.118Z"
-  },
-  {
-    "job_id": "lever-matchgroup-55e5b98a-3281-4da1-995c-dbf6e1381575",
-    "job_title": "Cloud Infrastructure Engineer Intern",
-    "employer_name": "Match Group",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/matchgroup/55e5b98a-3281-4da1-995c-dbf6e1381575/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:23.281Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 47,
-      "max": 47,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "2b2fca21250b142e964996a9b83f700003e5e75d1f21518e812c38fe83ec1f95",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:23.281Z"
-  },
-  {
-    "job_id": "lever-matchgroup-596091e0-9d8e-4a3a-92a6-5699386b833e",
-    "job_title": "Data Scientist Intern",
-    "employer_name": "Match Group",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:23.281Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 43,
-      "max": 43,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "8a95dba2ee183c11a74bd1428031e42c3452b5f0f1c030987ae996aa7543a9d3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:23.281Z"
   },
   {
     "job_id": "lever-matchgroup-178e6f99-ddbb-43e1-9e4c-fe2b524e0861",
@@ -14831,6 +14822,74 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:23.281Z"
+  },
+  {
+    "job_id": "lever-matchgroup-55e5b98a-3281-4da1-995c-dbf6e1381575",
+    "job_title": "Cloud Infrastructure Engineer Intern",
+    "employer_name": "Match Group",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/matchgroup/55e5b98a-3281-4da1-995c-dbf6e1381575/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:23.281Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 47,
+      "max": 47,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "2b2fca21250b142e964996a9b83f700003e5e75d1f21518e812c38fe83ec1f95",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:23.281Z"
+  },
+  {
+    "job_id": "lever-matchgroup-596091e0-9d8e-4a3a-92a6-5699386b833e",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "Match Group",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:23.281Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 43,
+      "max": 43,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "8a95dba2ee183c11a74bd1428031e42c3452b5f0f1c030987ae996aa7543a9d3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
       ],
       "locations": [
         "hybrid",
@@ -15513,6 +15572,39 @@
     "job_posted_at": "2026-03-28T11:46:21.126Z"
   },
   {
+    "job_id": "lever-hermeus-a949f158-6900-42e1-890d-fb3ec339c3d0",
+    "job_title": "Propulsion Engineer Intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "0f4849d692a01bf27ccb75af5a128c017e49c2d37befad50c2c198b5bfbdf72e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:19.110Z"
+  },
+  {
     "job_id": "lever-hermeus-1ce52371-c210-49b5-9a2b-5af6706137bc",
     "job_title": "Software Engineering Intern (Datalinks/C2) - (Summer/Fall 2026)",
     "employer_name": "Hermeus",
@@ -15797,39 +15889,6 @@
       "interval": "per-hour-wage"
     },
     "fingerprint": "733b0cc18b33f879c1466973030d790766cb63fa6c655dc3c44ef96034e74efc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:19.110Z"
-  },
-  {
-    "job_id": "lever-hermeus-a949f158-6900-42e1-890d-fb3ec339c3d0",
-    "job_title": "Propulsion Engineer Intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "0f4849d692a01bf27ccb75af5a128c017e49c2d37befad50c2c198b5bfbdf72e",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -17044,6 +17103,35 @@
     "job_posted_at": "2026-03-28T00:13:59.746Z"
   },
   {
+    "job_id": "js-applied-materials-usa-vxt9sjiksomqtsyuaaaaaa==",
+    "job_title": "Computer Science Intern - AI/ML Tools",
+    "employer_name": "Applied Materials USA",
+    "job_city": "Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/applied-materials/jobs-internships/computer-science-intern-aiml-tools",
+    "job_posted_at_datetime_utc": "2026-03-28T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "e5df172a6d476fda9e325773cdfdb6fb052a0356631d96a032ff89b70ba33130",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-28T00:00:00.000Z"
+  },
+  {
     "job_id": "js-experian-0dbrrz5gldkrdurmaaaaaa==",
     "job_title": "Data Science Summer Intern (Remote & Paid)",
     "employer_name": "Experian",
@@ -17089,35 +17177,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-applied-materials-usa-vxt9sjiksomqtsyuaaaaaa==",
-    "job_title": "Computer Science Intern - AI/ML Tools",
-    "employer_name": "Applied Materials USA",
-    "job_city": "Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/applied-materials/jobs-internships/computer-science-intern-aiml-tools",
-    "job_posted_at_datetime_utc": "2026-03-28T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "e5df172a6d476fda9e325773cdfdb6fb052a0356631d96a032ff89b70ba33130",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
       ],
       "locations": [
         "us",
@@ -20482,34 +20541,6 @@
     "job_posted_at": "2026-03-27T07:03:36.896Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236522",
-    "job_title": "Digital Transformation Analyst Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Digital-Transformation-Analyst-Intern_R0236522",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9a83f3dc8c5951fcaee69a12fdc55654786a4a2a87d17ffaee27218d573f5d09",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0236820",
     "job_title": "University, Applied AI Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -20526,6 +20557,34 @@
       "employment": "internship",
       "domains": [
         "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236522",
+    "job_title": "Digital Transformation Analyst Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Digital-Transformation-Analyst-Intern_R0236522",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9a83f3dc8c5951fcaee69a12fdc55654786a4a2a87d17ffaee27218d573f5d09",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -21890,6 +21949,152 @@
     "job_posted_at": "2026-03-27T00:01:32.745Z"
   },
   {
+    "job_id": "js-dassault-systmes-ujlk6_vnqws1xhdgaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "Dassault Systèmes",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.3ds.com/careers/jobs/data-science-intern-547495",
+    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "f273ca44901003d50c0dc42e0d8f62b885ed1ee5675366ccdcaefddfca5012cf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-harder-mechanical-contractors-gqs6bo7gdquoxuxoaaaaaa==",
+    "job_title": "Computer Science Intern-Summer 2026",
+    "employer_name": "Harder Mechanical Contractors",
+    "job_city": "Portland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://harder.applytojob.com/apply/jzhSEOVMgJ/Computer-Science-InternSummer-2026",
+    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "7bc4ca4f026f03700abdbb0768755fb591e2fa9e9db852691520a75841261119",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-netapp-coola34e2eytdcseaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "NetApp",
+    "job_city": "Wichita",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.netapp.com/job/wichita/data-science-intern/27600/93274526896",
+    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "dd7c1731ec8549791ed7c1d1e83a1dd2c334b18c8f2ee818e75de6f4b99f2c36",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-noblis-dtmjwfvg44_c-mclaaaaaa==",
+    "job_title": "Summer 2026 - AI and Data Summer Transportation Internship",
+    "employer_name": "Noblis",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://seasonalworks.labor.ny.gov/albany-ny/summer-2026-ai-and-data-summer-transportation-internship/B4D104AA96934AC5951F1CE189F10FA2/job/",
+    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "1bdae6a6cf185b40331b088c2e60c388d0d72711c59ade001f530ff470af1647",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-caci-international-inc-qdvvnk3ccthnp2bvaaaaaa==",
+    "job_title": "AI/ML Data Scientist Intern - Summer 2026 Colorado Springs, CO, US",
+    "employer_name": "CACI International Inc.",
+    "job_city": "Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/ai-ml-data-scientist-intern/colorado-springs-colorado?id=2585656994",
+    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
+    "job_employment_type": "PART-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "0b639b92cba7431d807f426050996d155a632619cf2708107c6c42286f96c980",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-27T00:00:00.000Z"
+  },
+  {
     "job_id": "js-danaher-corporation-eomofn6zp0sdzhajaaaaaa==",
     "job_title": "Hardware Engineering Intern",
     "employer_name": "Danaher Corporation",
@@ -22125,35 +22330,6 @@
     "job_posted_at": "2026-03-27T00:00:00.000Z"
   },
   {
-    "job_id": "js-dassault-systmes-ujlk6_vnqws1xhdgaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "Dassault Systèmes",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.3ds.com/careers/jobs/data-science-intern-547495",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "f273ca44901003d50c0dc42e0d8f62b885ed1ee5675366ccdcaefddfca5012cf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
     "job_id": "js-summit-securities-group-sl50j-vota8vaq04aaaaaa==",
     "job_title": "Quantitative Research (Machine Learning) Intern",
     "employer_name": "Summit Securities Group",
@@ -22170,35 +22346,6 @@
       "employment": "internship",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-netapp-coola34e2eytdcseaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "NetApp",
-    "job_city": "Wichita",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.netapp.com/job/wichita/data-science-intern/27600/93274526896",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "dd7c1731ec8549791ed7c1d1e83a1dd2c334b18c8f2ee818e75de6f4b99f2c36",
-    "tags": {
-      "employment": "internship",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -22258,94 +22405,6 @@
       "employment": "internship",
       "domains": [
         "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-harder-mechanical-contractors-gqs6bo7gdquoxuxoaaaaaa==",
-    "job_title": "Computer Science Intern-Summer 2026",
-    "employer_name": "Harder Mechanical Contractors",
-    "job_city": "Portland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://harder.applytojob.com/apply/jzhSEOVMgJ/Computer-Science-InternSummer-2026",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "7bc4ca4f026f03700abdbb0768755fb591e2fa9e9db852691520a75841261119",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-noblis-dtmjwfvg44_c-mclaaaaaa==",
-    "job_title": "Summer 2026 - AI and Data Summer Transportation Internship",
-    "employer_name": "Noblis",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://seasonalworks.labor.ny.gov/albany-ny/summer-2026-ai-and-data-summer-transportation-internship/B4D104AA96934AC5951F1CE189F10FA2/job/",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "1bdae6a6cf185b40331b088c2e60c388d0d72711c59ade001f530ff470af1647",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-caci-international-inc-qdvvnk3ccthnp2bvaaaaaa==",
-    "job_title": "AI/ML Data Scientist Intern - Summer 2026 Colorado Springs, CO, US",
-    "employer_name": "CACI International Inc.",
-    "job_city": "Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/ai-ml-data-scientist-intern/colorado-springs-colorado?id=2585656994",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "PART-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "0b639b92cba7431d807f426050996d155a632619cf2708107c6c42286f96c980",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -25271,34 +25330,6 @@
     "job_posted_at": "2026-03-26T07:03:55.058Z"
   },
   {
-    "job_id": "workday-disney-10143843",
-    "job_title": "Disneyland® Resort Executive Communications Intern, Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Anaheim",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland--Resort-Executive-Communications-Intern--Fall-2026_10143843",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:53.791Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4aea1079bb9f6adf40632b1d694a38be922edf301c0bebff71df516a1f032a9e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:53.791Z"
-  },
-  {
     "job_id": "workday-disney-10138404",
     "job_title": "ABC News Assignment Desk Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -25371,6 +25402,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:53.791Z"
+  },
+  {
+    "job_id": "workday-disney-10143843",
+    "job_title": "Disneyland® Resort Executive Communications Intern, Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Anaheim",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland--Resort-Executive-Communications-Intern--Fall-2026_10143843",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:53.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4aea1079bb9f6adf40632b1d694a38be922edf301c0bebff71df516a1f032a9e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
       ],
       "locations": [
         "us"
