@@ -15930,6 +15930,35 @@
     "job_posted_at": "2026-03-30T07:00:17.305Z"
   },
   {
+    "job_id": "js-coherent-usa-kmab3rdcmpjzb944aaaaaa==",
+    "job_title": "Embedded System Engineer Intern",
+    "employer_name": "Coherent USA",
+    "job_city": "California",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/coherent/jobs-internships/embedded-system-engineer-intern",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "76de38d4949376a450d2229c4e0a94dba350df1a597adc8df4b7db9f18546225",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
     "job_id": "js-red-bull-usa-kwa-si6-xyjn_1qdaaaaaa==",
     "job_title": "Data Science Summer Internship",
     "employer_name": "Red Bull USA",
@@ -16233,35 +16262,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f140bd24f0b61091b783bf340137a59fd58ce177923363f87dcd65d30e7b8d26",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-coherent-usa-kmab3rdcmpjzb944aaaaaa==",
-    "job_title": "Embedded System Engineer Intern",
-    "employer_name": "Coherent USA",
-    "job_city": "California",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/coherent/jobs-internships/embedded-system-engineer-intern",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "76de38d4949376a450d2229c4e0a94dba350df1a597adc8df4b7db9f18546225",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -16808,6 +16808,64 @@
     "job_posted_at": "2026-03-30T00:00:00.000Z"
   },
   {
+    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
+    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
+    "employer_name": "Amerihealth Caritas",
+    "job_city": "Newtown Square",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
+    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-first-american-financial-corporation-eabpwlwt__vo3mwaaaaaaa==",
+    "job_title": "AI/Data Science Graduate Intern",
+    "employer_name": "First American Financial Corporation",
+    "job_city": "Santa Ana",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.firstam.com/job/santa-ana/ai-data-science-graduate-intern/39054/93207170288",
+    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "4e59c7c0ed91833655ff4f4a6dcfb0a7d5b0b5f4be5a9dae426035ee1ff9015a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-29T00:00:00.000Z"
+  },
+  {
     "job_id": "js-lockheed-martin-ib-qpx5fjrmnkrdxaaaaaa==",
     "job_title": "Systems Engineer (Configuration Management) - Intern",
     "employer_name": "Lockheed Martin",
@@ -17023,64 +17081,6 @@
     "job_employment_type": "INTERNSHIP",
     "salary": null,
     "fingerprint": "432da22d3d32a7c7736ff0a5557ce63419d0135a78feaaf9c102c336bbdb7ef4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
-    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
-    "employer_name": "Amerihealth Caritas",
-    "job_city": "Newtown Square",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
-    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-first-american-financial-corporation-eabpwlwt__vo3mwaaaaaaa==",
-    "job_title": "AI/Data Science Graduate Intern",
-    "employer_name": "First American Financial Corporation",
-    "job_city": "Santa Ana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.firstam.com/job/santa-ana/ai-data-science-graduate-intern/39054/93207170288",
-    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4e59c7c0ed91833655ff4f4a6dcfb0a7d5b0b5f4be5a9dae426035ee1ff9015a",
     "tags": {
       "employment": "internship",
       "domains": [

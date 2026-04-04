@@ -70,7 +70,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Motorola Solutions** | Software Engineering Intern - Summer 2026 | Allen, TX | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R63617) |
-| 🏢 **HP Inc** | Software Developer Internship | 3 Locations | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1) |
+| 🏢 **HP Inc** | Software Developer Internship | 3 Locations | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1) |
 | 🏢 **Proofpoint** | Software Engineer Intern | 22 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Pennsylvania/Software-Engineer-Intern_R13765) |
 | 🏢 **Virgin Galactic** | Intern, Avionics Systems Engineering | Tustin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://vgcareers.virgingalactic.com/global/en/job/2049/Intern-Avionics-Systems-Engineering) |
 | 🏭 **Siemens** | Siemens Strategic Student Program: Engineering Software Intern, Aerodynamics CFD (STS, Fall 2026) | St. Louis | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.sw.siemens.com/st-louis-mo/siemens-strategic-student-program-engineering-software-intern-aerodynamics-cfd-sts-fall-2026/03AA74A129CF455D863AEFAC779E5B8B/job/) |
@@ -209,8 +209,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | Data Scientist Intern | Arlington | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://simplify.jobs/p/914d3aec-ff96-418e-a886-d30d686215f4/Data-Scientist-Intern) |
 | 🏢 **Red Bull** | Data Science Intern | East Hanover | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://echojobs.io/job/red-bull-2026-internship-summer-data-science-jgc0y) |
 | 🏢 **First Solar** | Data Science Intern (Summer 2026) | Perrysburg | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/data-science-intern-summer-2026/8903235) |
-| 🏢 **crum  forster** | Data Science Intern- Summer 2026 - Morristown, NJ | Morris Twp | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobsearcher.com/jobs/2e197e8dacee02468d16eac31416fcebe0f0fb993bbee03b897220d186dc8df4) |
 | 🏢 **First American Financial Corporation** | AI/Data Science Graduate Intern | Santa Ana | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.firstam.com/job/santa-ana/ai-data-science-graduate-intern/39054/93207170288) |
+| 🏢 **crum  forster** | Data Science Intern- Summer 2026 - Morristown, NJ | Morris Twp | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobsearcher.com/jobs/2e197e8dacee02468d16eac31416fcebe0f0fb993bbee03b897220d186dc8df4) |
 | 🏢 **Cooper Standard** | AI Data Scientist Intern | Northville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.sonicjobs.com/us/jobs/northville/full-time/ai-data-scientist-intern-69cc70fb246cedca123673d2) |
 | 🏢 **UST Global** | Data Science Internship - Summer 2026 | Boston | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.simplyhired.com/job/qCRTMj2VBAuIlS6DGZ3XucEve2n52y2ALZBfPLz4c_oHfSLdIYzlEA) |
 
