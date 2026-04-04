@@ -5125,39 +5125,6 @@
     "job_posted_at": "2026-04-01T20:44:13.539Z"
   },
   {
-    "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
-    "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "40d6c6330bde895d86570b49628dcd8c35b0f04a045d0424fae90bfa1924847a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:13.190Z"
-  },
-  {
     "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
     "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
     "employer_name": "Hermeus",
@@ -5179,6 +5146,39 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:13.190Z"
+  },
+  {
+    "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
+    "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Jacksonville",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "40d6c6330bde895d86570b49628dcd8c35b0f04a045d0424fae90bfa1924847a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -11443,18 +11443,18 @@
     "job_posted_at": "2026-03-31T07:02:52.454Z"
   },
   {
-    "job_id": "workday-disney-10139196",
-    "job_title": "Yellow Shoes Planning Innovation Intern, Summer/Fall 2026",
+    "job_id": "workday-disney-10140055",
+    "job_title": "WDI Project Controls Planning Intern, Summer/Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Celebration",
+    "job_city": "Lake Buena Vista",
     "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Yellow-Shoes-Planning-Innovation-Intern--Summer-Fall-2026_10139196",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Summer-Fall-2026_10140055",
     "job_posted_at_datetime_utc": "2026-03-31T07:02:51.811Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9c1608b7f448f7f36864e28f18ffd0d5e26c744ef9ecead9dd6ddc73adf94a07",
+    "fingerprint": "c86dc2a7a213cd5c61ff465b2b7069ffe449b0d9137a423348619d26789be555",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11471,18 +11471,18 @@
     "job_posted_at": "2026-03-31T07:02:51.811Z"
   },
   {
-    "job_id": "workday-disney-10140055",
-    "job_title": "WDI Project Controls Planning Intern, Summer/Fall 2026",
+    "job_id": "workday-disney-10139196",
+    "job_title": "Yellow Shoes Planning Innovation Intern, Summer/Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Lake Buena Vista",
+    "job_city": "Celebration",
     "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Summer-Fall-2026_10140055",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Yellow-Shoes-Planning-Innovation-Intern--Summer-Fall-2026_10139196",
     "job_posted_at_datetime_utc": "2026-03-31T07:02:51.811Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c86dc2a7a213cd5c61ff465b2b7069ffe449b0d9137a423348619d26789be555",
+    "fingerprint": "9c1608b7f448f7f36864e28f18ffd0d5e26c744ef9ecead9dd6ddc73adf94a07",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11555,35 +11555,6 @@
     "job_posted_at": "2026-03-31T07:02:46.553Z"
   },
   {
-    "job_id": "workday-caci-323387",
-    "job_title": "Program Business Operations Analyst Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Program-Business-Operations-Analyst-Intern---Summer-2026_323387",
-    "job_posted_at_datetime_utc": "2026-03-31T07:02:28.301Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "19054942f7bac82095597d0becc7b1436fa7cc20a51659496e287bce0bc0fe4b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:02:28.301Z"
-  },
-  {
     "job_id": "workday-caci-323833",
     "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
     "employer_name": "CACI",
@@ -11604,6 +11575,35 @@
       ],
       "locations": [
         "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:02:28.301Z"
+  },
+  {
+    "job_id": "workday-caci-323387",
+    "job_title": "Program Business Operations Analyst Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Program-Business-Operations-Analyst-Intern---Summer-2026_323387",
+    "job_posted_at_datetime_utc": "2026-03-31T07:02:28.301Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "19054942f7bac82095597d0becc7b1436fa7cc20a51659496e287bce0bc0fe4b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "remote"
       ],
       "experience": "entry_level",
       "special": []
@@ -11897,35 +11897,6 @@
     "job_posted_at": "2026-03-30T22:56:36-04:00"
   },
   {
-    "job_id": "js-cisco-t2jquplr9zb4cjy2aaaaaa==",
-    "job_title": "Software Engineer Security & Automation I (Intern) – United States",
-    "employer_name": "Cisco",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000460EXTERNALENGLOBAL/Software-Engineer-Security-Automation-I-Intern-United-States",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0fa8b34e32f553bd494b0392af5510ea2a6f5bd7561ae7de44638f6be25a716f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
     "job_id": "js-parsons-corporation-jvsugwezew8zku9oaaaaaa==",
     "job_title": "Software Engineering Intern (Summer 2026)",
     "employer_name": "Parsons Corporation",
@@ -11967,6 +11938,35 @@
     "job_employment_type": "INTERNSHIP",
     "salary": null,
     "fingerprint": "7d0fbfe80bab142f730e9c402269ec0026d0b2916eaca67ee3ff0cc08cf45926",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cisco-t2jquplr9zb4cjy2aaaaaa==",
+    "job_title": "Software Engineer Security & Automation I (Intern) – United States",
+    "employer_name": "Cisco",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000460EXTERNALENGLOBAL/Software-Engineer-Security-Automation-I-Intern-United-States",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0fa8b34e32f553bd494b0392af5510ea2a6f5bd7561ae7de44638f6be25a716f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15788,7 +15788,7 @@
     "job_id": "js-borgwarner-oefryueurbdibs7vaaaaaa==",
     "job_title": "Finance Summer Intern",
     "employer_name": "BorgWarner",
-    "job_city": "Auburn Hills",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -15796,7 +15796,7 @@
     "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "b0071621a4d6b84c157f20dca1ab18d4662193148f249c971f64f46b12d91200",
+    "fingerprint": "a94dfe0ec557322a039beebc5dfb2af3c273a85be10885d1e2647762627c86bf",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -16579,7 +16579,7 @@
     "job_id": "js-acuity-inc-ttnjc531ejy9llheaaaaaa==",
     "job_title": "Product Management Intern — Tech & Finance Systems",
     "employer_name": "Acuity Inc.",
-    "job_city": "Atlanta",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -16587,7 +16587,7 @@
     "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "03aa77ce3ea6fb6df66ee48edd7ea1e90d329f5b9c7afb5d64549d45e5bb1a97",
+    "fingerprint": "b1ba968d9d03301a308d44503ea5d2b5ff00ac0e0b5cba8197ef7dac0400be54",
     "tags": {
       "employment": "internship",
       "domains": [
