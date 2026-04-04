@@ -7441,62 +7441,6 @@
     "job_posted_at": "2026-04-01T07:03:53.472Z"
   },
   {
-    "job_id": "workday-ge-aerospace-R5032037",
-    "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5032037-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:26.157Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c862dbd41b9a9c9ad0bf7bee2c8c60e17822ef6e3746e5a17f18188e3d734093",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:26.157Z"
-  },
-  {
-    "job_id": "workday-ge-aerospace-R5032035",
-    "job_title": "Military DoD SkillBridge Internship - Test Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician_R5032035",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:26.157Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:26.157Z"
-  },
-  {
     "job_id": "workday-ge-aerospace-R5032038",
     "job_title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
     "employer_name": "GE Aerospace",
@@ -7537,6 +7481,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1003b8eaddeecb63a9f6bfc9010529b81d9c00971e863a377104bed8fc908757",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:26.157Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032037",
+    "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5032037-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:26.157Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c862dbd41b9a9c9ad0bf7bee2c8c60e17822ef6e3746e5a17f18188e3d734093",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:26.157Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032035",
+    "job_title": "Military DoD SkillBridge Internship - Test Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician_R5032035",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:26.157Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11039,18 +11039,18 @@
     "job_posted_at": "2026-03-31T07:02:52.454Z"
   },
   {
-    "job_id": "workday-disney-10140055",
-    "job_title": "WDI Project Controls Planning Intern, Summer/Fall 2026",
+    "job_id": "workday-disney-10139196",
+    "job_title": "Yellow Shoes Planning Innovation Intern, Summer/Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Lake Buena Vista",
+    "job_city": "Celebration",
     "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Summer-Fall-2026_10140055",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Yellow-Shoes-Planning-Innovation-Intern--Summer-Fall-2026_10139196",
     "job_posted_at_datetime_utc": "2026-03-31T07:02:51.811Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c86dc2a7a213cd5c61ff465b2b7069ffe449b0d9137a423348619d26789be555",
+    "fingerprint": "9c1608b7f448f7f36864e28f18ffd0d5e26c744ef9ecead9dd6ddc73adf94a07",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11067,18 +11067,18 @@
     "job_posted_at": "2026-03-31T07:02:51.811Z"
   },
   {
-    "job_id": "workday-disney-10139196",
-    "job_title": "Yellow Shoes Planning Innovation Intern, Summer/Fall 2026",
+    "job_id": "workday-disney-10140055",
+    "job_title": "WDI Project Controls Planning Intern, Summer/Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Celebration",
+    "job_city": "Lake Buena Vista",
     "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Yellow-Shoes-Planning-Innovation-Intern--Summer-Fall-2026_10139196",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Summer-Fall-2026_10140055",
     "job_posted_at_datetime_utc": "2026-03-31T07:02:51.811Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9c1608b7f448f7f36864e28f18ffd0d5e26c744ef9ecead9dd6ddc73adf94a07",
+    "fingerprint": "c86dc2a7a213cd5c61ff465b2b7069ffe449b0d9137a423348619d26789be555",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11179,35 +11179,6 @@
     "job_posted_at": "2026-03-31T07:02:45.883Z"
   },
   {
-    "job_id": "workday-caci-323833",
-    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US CO Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Engineer--AI-ML-Intern---Summer-2026_323833",
-    "job_posted_at_datetime_utc": "2026-03-31T07:02:28.301Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9b3fa0c50a29f70072ef2f10523ce67dc01a68b91ebd43976af7aeafc8d5e24",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:02:28.301Z"
-  },
-  {
     "job_id": "workday-caci-323387",
     "job_title": "Program Business Operations Analyst Intern - Summer 2026",
     "employer_name": "CACI",
@@ -11228,6 +11199,35 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:02:28.301Z"
+  },
+  {
+    "job_id": "workday-caci-323833",
+    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US CO Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Engineer--AI-ML-Intern---Summer-2026_323833",
+    "job_posted_at_datetime_utc": "2026-03-31T07:02:28.301Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9b3fa0c50a29f70072ef2f10523ce67dc01a68b91ebd43976af7aeafc8d5e24",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "entry_level",
       "special": []
@@ -15381,36 +15381,6 @@
     "job_posted_at": "2026-03-30T07:00:17.305Z"
   },
   {
-    "job_id": "js-caci-bhjjvhvdbuc9tm9qaaaaaa==",
-    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150161697",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b0c0b3142ead4b7666c3d3bb2c9431ec5358b0d4c12bd25b5ff48145f9e8d634",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
     "job_id": "js-hp-inc-c4xoe8xqyfcdubdkaaaaaa==",
     "job_title": "Personal Systems Hardware Engineering Internship",
     "employer_name": "HP Inc.",
@@ -15428,6 +15398,36 @@
       "domains": [
         "software",
         "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-caci-bhjjvhvdbuc9tm9qaaaaaa==",
+    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150161697",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b0c0b3142ead4b7666c3d3bb2c9431ec5358b0d4c12bd25b5ff48145f9e8d634",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
       ],
       "locations": [
         "us",
@@ -16171,6 +16171,35 @@
     "job_posted_at": "2026-03-30T00:00:00.000Z"
   },
   {
+    "job_id": "js-ge-healthcare-crtf-xlugh_jqvudaaaaaa==",
+    "job_title": "Edison Engineering Development Program Internship - Hardware",
+    "employer_name": "GE HEALTHCARE",
+    "job_city": "Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4027687EXTERNALENGLOBAL/Edison-Engineering-Development-Program-Internship-Hardware",
+    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "8b19ca9b2a5540aad1ac1c47369e9c7682f6857f0dbedad05405d8bbf3b6e96c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-29T00:00:00.000Z"
+  },
+  {
     "job_id": "js-leidos-xegccdm5xolocqgxaaaaaa==",
     "job_title": "Data Science / Decision Science Intern",
     "employer_name": "Leidos",
@@ -16477,35 +16506,6 @@
       "employment": "internship",
       "domains": [
         "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ge-healthcare-crtf-xlugh_jqvudaaaaaa==",
-    "job_title": "Edison Engineering Development Program Internship - Hardware",
-    "employer_name": "GE HEALTHCARE",
-    "job_city": "Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4027687EXTERNALENGLOBAL/Edison-Engineering-Development-Program-Internship-Hardware",
-    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "8b19ca9b2a5540aad1ac1c47369e9c7682f6857f0dbedad05405d8bbf3b6e96c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -16898,34 +16898,6 @@
     "job_posted_at": "2026-03-28T14:42:04-04:00"
   },
   {
-    "job_id": "workday-sel-2025-18339",
-    "job_title": "Drafter/ Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Lakewood",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
-    "job_posted_at_datetime_utc": "2026-03-28T12:08:32.552Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:08:32.552Z"
-  },
-  {
     "job_id": "workday-sel-2026-19609",
     "job_title": "Account Administrator Intern",
     "employer_name": "SEL",
@@ -16998,6 +16970,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:08:32.552Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18339",
+    "job_title": "Drafter/ Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Lakewood",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
+    "job_posted_at_datetime_utc": "2026-03-28T12:08:32.552Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -17687,6 +17687,37 @@
     "job_posted_at": "2026-03-28T12:08:32.551Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R2572",
+    "job_title": "Software Intern, AI/ML — Warehouse Robotics, Stretch Team",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Intern--AI-ML---Warehouse-Robotics--Stretch-Team_R2572",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2df63d22e82a66ef5f736aad17fc6b079ba34774178ac2ba4b49e4e44b64bda",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai",
+        "hardware",
+        "logistics"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:35.154Z"
+  },
+  {
     "job_id": "workday-boston-dynamics-R2536",
     "job_title": "Mechanical Engineering Intern",
     "employer_name": "Boston Dynamics",
@@ -17940,37 +17971,6 @@
     "job_posted_at": "2026-03-28T12:05:35.154Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2572",
-    "job_title": "Software Intern, AI/ML — Warehouse Robotics, Stretch Team",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Intern--AI-ML---Warehouse-Robotics--Stretch-Team_R2572",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2df63d22e82a66ef5f736aad17fc6b079ba34774178ac2ba4b49e4e44b64bda",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai",
-        "hardware",
-        "logistics"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:35.154Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2388",
     "job_title": "Product Quality Engineer Co-Op",
     "employer_name": "Boston Dynamics",
@@ -18160,35 +18160,6 @@
     "job_posted_at": "2026-03-28T11:46:51.108Z"
   },
   {
-    "job_id": "lever-tri-2f99faec-580c-46e2-b1fe-00e3382e5a46",
-    "job_title": "Robotics Intern - Robotics and Human Aware Interaction and Learning",
-    "employer_name": "Toyota Research Institute",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/tri/2f99faec-580c-46e2-b1fe-00e3382e5a46/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:46.786Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4f782ce3141597a3005fe06e0671d4d47c8f883b6f80ace4b062b5cec3faa92c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:46.786Z"
-  },
-  {
     "job_id": "lever-tri-63d61db3-ac43-4c0d-8b9b-5006e3b92149",
     "job_title": "Human Interactive Driving Intern – World Models",
     "employer_name": "Toyota Research Institute",
@@ -18248,6 +18219,35 @@
     "job_posted_at": "2026-03-28T11:46:46.786Z"
   },
   {
+    "job_id": "lever-tri-2f99faec-580c-46e2-b1fe-00e3382e5a46",
+    "job_title": "Robotics Intern - Robotics and Human Aware Interaction and Learning",
+    "employer_name": "Toyota Research Institute",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/tri/2f99faec-580c-46e2-b1fe-00e3382e5a46/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:46.786Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f782ce3141597a3005fe06e0671d4d47c8f883b6f80ace4b062b5cec3faa92c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:46.786Z"
+  },
+  {
     "job_id": "lever-tri-90e4b33e-2953-45a8-bc54-a5b224821182",
     "job_title": "Human-Centered AI Intern, Behavioral Science",
     "employer_name": "Toyota Research Institute",
@@ -18277,39 +18277,6 @@
     "job_posted_at": "2026-03-28T11:46:46.786Z"
   },
   {
-    "job_id": "lever-multiplylabs-8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b",
-    "job_title": "Software Intern",
-    "employer_name": "Multiply Labs",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:45.765Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 5000,
-      "max": 10000,
-      "currency": "USD",
-      "interval": "per-month-salary"
-    },
-    "fingerprint": "50c22b619b9acbb00db0f309e17ad00f71bdf9ce94b01f9817fa386c9528ab14",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:45.765Z"
-  },
-  {
     "job_id": "lever-multiplylabs-acca98ab-c206-4f71-b7a5-6977e4828586",
     "job_title": "Robotics Software Intern",
     "employer_name": "Multiply Labs",
@@ -18332,6 +18299,39 @@
       "domains": [
         "software",
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:45.765Z"
+  },
+  {
+    "job_id": "lever-multiplylabs-8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b",
+    "job_title": "Software Intern",
+    "employer_name": "Multiply Labs",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:45.765Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 5000,
+      "max": 10000,
+      "currency": "USD",
+      "interval": "per-month-salary"
+    },
+    "fingerprint": "50c22b619b9acbb00db0f309e17ad00f71bdf9ce94b01f9817fa386c9528ab14",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us"
@@ -19844,6 +19844,39 @@
     "job_posted_at": "2026-03-28T11:46:29.145Z"
   },
   {
+    "job_id": "lever-sambatv-00567176-7d88-40b5-9741-3d2f57e5ad00",
+    "job_title": "Programmatic Analyst Intern",
+    "employer_name": "Samba TV",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/00567176-7d88-40b5-9741-3d2f57e5ad00/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:28.854Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "12cc0966041648f90fa92f828bfcc37ca4366f9cd4d2d70f59657a3eef99f371",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:28.854Z"
+  },
+  {
     "job_id": "lever-sambatv-34cf777f-a320-41c4-8a26-9d456121765f",
     "job_title": "Marketing Intern",
     "employer_name": "Samba TV",
@@ -19898,39 +19931,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:28.854Z"
-  },
-  {
-    "job_id": "lever-sambatv-00567176-7d88-40b5-9741-3d2f57e5ad00",
-    "job_title": "Programmatic Analyst Intern",
-    "employer_name": "Samba TV",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/00567176-7d88-40b5-9741-3d2f57e5ad00/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:28.854Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "12cc0966041648f90fa92f828bfcc37ca4366f9cd4d2d70f59657a3eef99f371",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -21657,6 +21657,147 @@
     "job_posted_at": "2026-03-28T11:46:16.617Z"
   },
   {
+    "job_id": "lever-palantir-030ece08-c341-4959-bdfe-314e89b691ce",
+    "job_title": "Year at Palantir, Internship",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aa650ef8b1afa3bf61cc6459dcb9ef3be106f8f5b85be7ecfb2ac83d6552925a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-d582cd84-14fd-4aa3-b413-15982d286bd9",
+    "job_title": "Forward Deployed Software Engineer, Internship - Poland",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4536fd6f4d84dd9317836b2390ccc32622b6a6b09efb5c7da38fda0a1e3bd860",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "job_title": "Forward Deployed Software Engineer, Internship - US Government",
+    "employer_name": "Palantir",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26f54ab08b666aca958a50f982345e507d7ce2fb9cbfc5bf9e44e007ca687a1b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "job_title": "Product Designer, Internship - US Government",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76345a83563b2fe9d87f600aa23a0a81c7b26498486a33b1e6fda5030e70a63a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "job_title": "Product Designer, Internship - US Government",
+    "employer_name": "Palantir",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "73da73caa99f69b64a50780ff18ec70b33abd565ff0c183eb09f22b78756d84f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
     "job_id": "lever-palantir-2fb19022-bb65-4af8-b6fa-31beb345c140",
     "job_title": "Software Engineer, Internship",
     "employer_name": "Palantir",
@@ -21909,34 +22050,6 @@
     "job_posted_at": "2026-03-28T11:46:16.036Z"
   },
   {
-    "job_id": "lever-palantir-030ece08-c341-4959-bdfe-314e89b691ce",
-    "job_title": "Year at Palantir, Internship",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa650ef8b1afa3bf61cc6459dcb9ef3be106f8f5b85be7ecfb2ac83d6552925a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
     "job_id": "lever-palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
     "job_title": "Forward Deployed Software Engineer, Internship - France",
     "employer_name": "Palantir",
@@ -21956,119 +22069,6 @@
       ],
       "locations": [
         "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-d582cd84-14fd-4aa3-b413-15982d286bd9",
-    "job_title": "Forward Deployed Software Engineer, Internship - Poland",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4536fd6f4d84dd9317836b2390ccc32622b6a6b09efb5c7da38fda0a1e3bd860",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
-    "job_title": "Forward Deployed Software Engineer, Internship - US Government",
-    "employer_name": "Palantir",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26f54ab08b666aca958a50f982345e507d7ce2fb9cbfc5bf9e44e007ca687a1b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-8f7bbffa-92aa-4d25-9586-943b3322a27d",
-    "job_title": "Product Designer, Internship - US Government",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76345a83563b2fe9d87f600aa23a0a81c7b26498486a33b1e6fda5030e70a63a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-fa060d94-f85d-4d02-be58-b81787fe57e5",
-    "job_title": "Product Designer, Internship - US Government",
-    "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "73da73caa99f69b64a50780ff18ec70b33abd565ff0c183eb09f22b78756d84f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
         "us"
       ],
       "experience": "entry_level",
