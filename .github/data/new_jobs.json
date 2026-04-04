@@ -56,6 +56,35 @@
     "job_posted_at": "2026-04-03T23:01:58.100Z"
   },
   {
+    "job_id": "js-bae-systems-2nmmlcjqwwborqflaaaaaa==",
+    "job_title": "Systems Engineering Intern II, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Nashua",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/122952BR/Systems-Engineering-Intern-II-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-03T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "86f94c26a110a6058cd3fd66250544bd6f46a59edbf801f18e7cd5fd40daf97f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T23:00:00.000Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2616222",
     "job_title": "Summer Intern",
     "employer_name": "Applied Materials",
@@ -1512,6 +1541,64 @@
     "job_posted_at": "2026-04-03T00:31:45.758Z"
   },
   {
+    "job_id": "js-cisco-systems-inc-daotic46-ihbvtr1aaaaaa==",
+    "job_title": "AI/ML Modeling Engineer II (Intern)- United States",
+    "employer_name": "cisco systems inc",
+    "job_city": "Millbrae",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobsearcher.com/jobs/4b8dc0a85dc285b96c60821dd68ff10cbe6324b53fb9b48870e8f15fa99bd788",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "67a798f394784ec8f3bfd9d4e5b3cebebb1331fe9e427076a69b20f8ed0c9a44",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-wayup-fmcpqwmaac-7qkcuaaaaaa==",
+    "job_title": "Adobe, 2026 AI/ML Intern",
+    "employer_name": "WayUp",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.trabajo.org/job-4112-084e27f7a662357d1e70311d469a7408",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "dab9f53bcf434b29e008c22450d178ea827870f6949c08a7804e3c112220d99f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-blue-origin-personnel-llc--owgkyuridcfxzxfaaaaaa==",
     "job_title": "Summer 2026 Artificial Intelligence / Machine Learning Intern - Graduate Student",
     "employer_name": "Blue Origin Personnel, LLC",
@@ -1600,35 +1687,6 @@
     "job_posted_at": "2026-04-03T00:00:00.000Z"
   },
   {
-    "job_id": "js-wayup-fmcpqwmaac-7qkcuaaaaaa==",
-    "job_title": "Adobe, 2026 AI/ML Intern",
-    "employer_name": "WayUp",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.trabajo.org/job-4112-084e27f7a662357d1e70311d469a7408",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "dab9f53bcf434b29e008c22450d178ea827870f6949c08a7804e3c112220d99f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
     "job_id": "greenhouse-ripple-7733773",
     "job_title": "Data Analyst Intern, GTreasury (Summer 2026)",
     "employer_name": "Ripple",
@@ -1685,34 +1743,6 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-04-02T22:56:31.083Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54898",
-    "job_title": "Summer 2026 Electrical Systems Engineering Internship - Undergraduate",
-    "employer_name": "Blue Origin",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Electrical-Systems-Engineering-Internship---Undergraduate_R54898",
-    "job_posted_at_datetime_utc": "2026-04-02T22:47:46.947Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bee28e2a86c81676090c3c39b666b9d38983bc885b0b327bc462c0bdbed734dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T22:47:46.947Z"
   },
   {
     "job_id": "ashby-snowflake-c300639a-a6cc-4d72-8185-82fe23119e87",
@@ -1800,118 +1830,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-02T21:50:12.671Z"
-  },
-  {
-    "job_id": "workday-s&p-global-326741",
-    "job_title": "Summer Intern",
-    "employer_name": "S&P Global",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1",
-    "job_posted_at_datetime_utc": "2026-04-02T20:58:36.478Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e74660c1c34e857462b65fee7268a095f355c63f78ec6224ea0747f124dcc79",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:58:36.478Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00179877",
-    "job_title": "Software Engineer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Morgantown",
-    "job_state": "WV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/Software-Engineer-Intern_R-00179877",
-    "job_posted_at_datetime_utc": "2026-04-02T20:57:22.075Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c78b78ea6d2c29aeff56b2a3b4f41e8fd2013ed21d064366a254830cc87c845f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:57:22.075Z"
-  },
-  {
-    "job_id": "workday-jabil-J2445298",
-    "job_title": "Engineering Intern",
-    "employer_name": "Jabil",
-    "job_city": "Monument",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Engineering-Intern_J2445298",
-    "job_posted_at_datetime_utc": "2026-04-02T20:56:48.885Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bca7d895d69935e9692845a4a7254d190ccac05bbebeb305cb891c2df4764bda",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:56:48.885Z"
-  },
-  {
-    "job_id": "workday-abbott-31146516",
-    "job_title": "High School STEM Intern",
-    "employer_name": "Abbott",
-    "job_city": "10 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/High-School-STEM-Intern_31146516",
-    "job_posted_at_datetime_utc": "2026-04-02T20:55:00.254Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b6aa9e880c102fecfb18882601d48005014f069d05582b6d06a6b9d0fc7175a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:55:00.254Z"
   },
   {
     "job_id": "ashby-the-exploration-company-effec614-d532-4297-92f8-6e19020ed968",
@@ -2089,34 +2007,6 @@
     "job_posted_at": "2026-04-02T16:29:50-04:00"
   },
   {
-    "job_id": "workday-general-motors-JR-202519570",
-    "job_title": "2026 Co-Op - Software Developer – Virtualization and SIL Integration",
-    "employer_name": "General Motors",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Co-Op---Software-Developer---Virtualization-and-SIL-Integration_JR-202519570",
-    "job_posted_at_datetime_utc": "2026-04-02T20:03:21.554Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fcbed5891c4961c423f41ce916ff574203d167d4a24bc7d4ef0a0d55ae67dc71",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:03:21.554Z"
-  },
-  {
     "job_id": "sr-VeoliaEnvironnementSA-744000118488577",
     "job_title": "Metering Intern",
     "employer_name": "Veolia Environnement SA",
@@ -2204,174 +2094,6 @@
     "job_posted_at": "2026-04-02T19:28:19.021Z"
   },
   {
-    "job_id": "workday-ge-vernova-R5037473",
-    "job_title": "GE Vernova Government Affairs & Policy Intern - Summer 2026",
-    "employer_name": "GE Vernova",
-    "job_city": "Washington DC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Washington-DC/GE-Vernova-Government-Affairs---Policy-Intern---Summer-2026_R5037473-2",
-    "job_posted_at_datetime_utc": "2026-04-02T19:18:01.172Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ab6318021dba16e2e30062a347827503651516ff0a4f99b9c3a2760e8824e39",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T19:18:01.172Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54897",
-    "job_title": "Summer 2026 Electrical Systems Engineering Intern - Graduate Student",
-    "employer_name": "Blue Origin",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Electrical-Systems-Engineering-Intern---Graduate-Student_R54897",
-    "job_posted_at_datetime_utc": "2026-04-02T19:17:08.459Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fde38e531043df49a850acc6df0d227446fdcfa4bcde06e9f9b06102801b587a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T19:17:08.459Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54895",
-    "job_title": "Summer 2026 Aerospace Systems Engineering Intern - Graduate Student",
-    "employer_name": "Blue Origin",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Aerospace-Systems-Engineering-Intern---Graduate-Student_R54895",
-    "job_posted_at_datetime_utc": "2026-04-02T19:17:08.459Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e805110df523e842fb11eb1a069428aadefa7b4cd582442acf211d6de9f70171",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T19:17:08.459Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54896",
-    "job_title": "Summer 2026 Aerospace Systems Engineering Intern - Undergraduate Student",
-    "employer_name": "Blue Origin",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Aerospace-Systems-Engineering-Intern---Undergraduate-Student_R54896",
-    "job_posted_at_datetime_utc": "2026-04-02T19:17:08.459Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84e4c5ac3883bfeb75ebf0989d4f726c28551c2003bc0e6aa5b163260e345fb7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T19:17:08.459Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54901",
-    "job_title": "Summer 2026 Guidance, Navigation & Controls Intern - Graduate Student",
-    "employer_name": "Blue Origin",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Guidance--Navigation---Controls-Intern---Graduate-Student_R54901",
-    "job_posted_at_datetime_utc": "2026-04-02T19:17:08.459Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c7db451e4d828b68985c582b37623fee29d35df944c407b539b49a54ba338bd5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T19:17:08.459Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54902",
-    "job_title": "Summer 2026 Guidance, Navigation & Controls Internship - Undergraduate",
-    "employer_name": "Blue Origin",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Guidance--Navigation---Controls-Internship---Undergraduate_R54902",
-    "job_posted_at_datetime_utc": "2026-04-02T19:17:08.459Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fd787fb49246d37d06987ef77738c7df4a1a17a31642477e199613870a3f2f01",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T19:17:08.459Z"
-  },
-  {
     "job_id": "lever-MBRDNA-ee62d63c-c5ec-459c-8382-f0e3720dcbc9",
     "job_title": "Concept Prototype Intern",
     "employer_name": "Mercedes-Benz R&D North America",
@@ -2398,62 +2120,6 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-02T18:49:59.148Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00179868",
-    "job_title": "Systems Engineering Intern",
-    "employer_name": "Leidos",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineering-Intern_R-00179868-1",
-    "job_posted_at_datetime_utc": "2026-04-02T18:35:49.002Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39cedcea64a6505f3f4c118d08596350410c1ff66cf97bbbc8df7deb2c87b396",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T18:35:49.002Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121145",
-    "job_title": "Space Suit Production Logistics Internship Summer 2026",
-    "employer_name": "KBR",
-    "job_city": "Webster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Space-Suit-Production-Logistics-Internship-Summer-2026_R2121145",
-    "job_posted_at_datetime_utc": "2026-04-02T18:35:45.951Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bddafd930df55d93b62bf7030f31385795bd320013b0b2ef7ee39788472af398",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T18:35:45.951Z"
   },
   {
     "job_id": "ashby-snowflake-aff4210d-127f-45d3-844b-9313b4e86edd",
@@ -2902,34 +2568,6 @@
     "job_posted_at": "2026-04-02T13:24:17-04:00"
   },
   {
-    "job_id": "workday-rtx-01816985",
-    "job_title": "SkillBridge Intern DOD: Test Technician, 1st Shift (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "AZ-PHOENIX-1007 ~ 1007 E University Dr ~ 1007 E UNIVERSITY DR",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-1007--1007-E-University-Dr--1007-E-UNIVERSITY-DR/SkillBridge-Intern-DOD--Test-Technician--1st-Shift--Onsite-_01816985",
-    "job_posted_at_datetime_utc": "2026-04-02T17:20:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "207592c2a4046c159c31518eb6506c9671573ccbf5d695b8d74707eafa4b001e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T17:20:32.742Z"
-  },
-  {
     "job_id": "ashby-sentry-5e112240-922a-48f1-8865-9e7f89687f39",
     "job_title": "Software Engineer, Intern (Fall 2026)",
     "employer_name": "Sentry",
@@ -3015,34 +2653,6 @@
     "job_posted_at": "2026-04-02T16:28:56.205Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30264899",
-    "job_title": "Systems Technician Intern",
-    "employer_name": "Johnson Controls",
-    "job_city": "Maryland-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/Systems-Technician-Intern_WD30264899",
-    "job_posted_at_datetime_utc": "2026-04-02T16:28:24.096Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d742ebe8753238caf560489aa33741ab7960fcedb8a5ca162908eb8235f6cb01",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T16:28:24.096Z"
-  },
-  {
     "job_id": "greenhouse-sharkninjaoperatingllc-4669676006",
     "job_title": "Fall 2026: Applied AI & Analytics Co-op (July to December)",
     "employer_name": "SharkNinja",
@@ -3097,34 +2707,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-02T12:16:28-04:00"
-  },
-  {
-    "job_id": "workday-disney-10138044",
-    "job_title": "Disney Entertainment Television Communication Intern, Summer/Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Burbank",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Television-Communication-Intern--Summer-Fall-2026_10138044-2",
-    "job_posted_at_datetime_utc": "2026-04-02T16:07:04.612Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0783b954b6cd2a038139390fea59795c299aa40f9f5fa3bd9e4fa201f4bbcc8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T16:07:04.612Z"
   },
   {
     "job_id": "workday-leidos-R-00179675",
@@ -3386,62 +2968,6 @@
     "job_posted_at": "2026-04-02T14:36:06.165Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000356049",
-    "job_title": "Engineering Intern",
-    "employer_name": "Caterpillar",
-    "job_city": "Pontiac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Pontiac-Illinois/Engineering-Intern_R0000356049",
-    "job_posted_at_datetime_utc": "2026-04-02T14:32:33.725Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ffa7528fbfb5ec8fe6cc67225c907e4e0a77e0e6f567d877fb5fea672588887",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T14:32:33.725Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000356956",
-    "job_title": "Engineering Intern",
-    "employer_name": "Caterpillar",
-    "job_city": "Pontiac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Pontiac-Illinois/Engineering-Intern_R0000356956",
-    "job_posted_at_datetime_utc": "2026-04-02T14:32:33.725Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ffa7528fbfb5ec8fe6cc67225c907e4e0a77e0e6f567d877fb5fea672588887",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T14:32:33.725Z"
-  },
-  {
     "job_id": "sr-BoschGroup-744000118432747",
     "job_title": "Training Technology Digital Solutions Intern",
     "employer_name": "Bosch Group",
@@ -3469,62 +2995,6 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-02T14:29:58.868Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01328135",
-    "job_title": "Instrument Control Software Intern",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Jose-California-USA/Instrument-Control-Software-Intern_R-01328135",
-    "job_posted_at_datetime_utc": "2026-04-02T14:20:30.756Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "445cdaa93feb121790d1b38dfaa0209be14ba4a2efb9724687141fa8f5fc1dae",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T14:20:30.756Z"
-  },
-  {
-    "job_id": "workday-the-hartford-R2624692",
-    "job_title": "Intern - Data, Analytics, AI, and Operations",
-    "employer_name": "The Hartford",
-    "job_city": "Worth Ave",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH-Worth-Ave/Intern---Data--Analytics--AI--and-Operations_R2624692",
-    "job_posted_at_datetime_utc": "2026-04-02T14:20:29.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e0418bbface754fd7f549a8cfa750e1cf0c3a0c917792a6cc5540183b92a2083",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T14:20:29.857Z"
   },
   {
     "job_id": "workday-sierra-nevada-corporation-R0029620",
@@ -3583,34 +3053,6 @@
     "job_posted_at": "2026-04-02T14:17:52.973Z"
   },
   {
-    "job_id": "workday-cisco-2001867",
-    "job_title": "ASIC Design Verification Engineer I Intern - United States",
-    "employer_name": "Cisco",
-    "job_city": "Maynard",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/ASIC-Design-Verification-Engineer-I-Intern---United-States_2001867",
-    "job_posted_at_datetime_utc": "2026-04-02T14:17:27.764Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4f9b5027f9d974fd8bf58f8b5b3a65b5e410dd366c8b314b8938bb663b8c8cb4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T14:17:27.764Z"
-  },
-  {
     "job_id": "workday-allison-transmission-R007508",
     "job_title": "Material Planning Intern",
     "employer_name": "Allison Transmission",
@@ -3637,90 +3079,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-02T14:02:16.273Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00178098",
-    "job_title": "Global Regulatory Compliance Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Global-Regulatory-Compliance-Intern_R-00178098",
-    "job_posted_at_datetime_utc": "2026-04-02T13:44:06.916Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7227765a7829b19347e01a6bc1b61f561446c9117bee459ec2a87a8b37a748a0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T13:44:06.916Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121279",
-    "job_title": "Electrical Engineer Intern - Summer 2026",
-    "employer_name": "KBR",
-    "job_city": "Las Cruces",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Electrical-Engineer-Intern---Summer-2026_R2121279",
-    "job_posted_at_datetime_utc": "2026-04-02T13:04:50.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "54c0f0deb0de312abdb39f5fcda5157fe2d6a30532b3a2cd78dd60e9266650e2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T13:04:50.023Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121281",
-    "job_title": "Mechanical Engineer Intern - Summer 2026",
-    "employer_name": "KBR",
-    "job_city": "Las Cruces",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Mechanical-Engineer-Intern---Summer-2026_R2121281",
-    "job_posted_at_datetime_utc": "2026-04-02T13:04:50.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a094f043fdf997944c2624dddd2be0825801c4504d5fe5db14d5eb2af9034d7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T13:04:50.023Z"
   },
   {
     "job_id": "js-amentum-dc4zdgaga4ftv4sbaaaaaa==",
@@ -3778,6 +3136,706 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-02T10:49:21.283Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01328135",
+    "job_title": "Instrument Control Software Intern",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Jose-California-USA/Instrument-Control-Software-Intern_R-01328135",
+    "job_posted_at_datetime_utc": "2026-04-02T07:50:14.946Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "445cdaa93feb121790d1b38dfaa0209be14ba4a2efb9724687141fa8f5fc1dae",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:50:14.946Z"
+  },
+  {
+    "job_id": "workday-the-hartford-R2624692",
+    "job_title": "Intern - Data, Analytics, AI, and Operations",
+    "employer_name": "The Hartford",
+    "job_city": "Worth Ave",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH-Worth-Ave/Intern---Data--Analytics--AI--and-Operations_R2624692",
+    "job_posted_at_datetime_utc": "2026-04-02T07:50:13.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e0418bbface754fd7f549a8cfa750e1cf0c3a0c917792a6cc5540183b92a2083",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:50:13.791Z"
+  },
+  {
+    "job_id": "workday-s&p-global-326741",
+    "job_title": "Summer Intern",
+    "employer_name": "S&P Global",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1",
+    "job_posted_at_datetime_utc": "2026-04-02T07:50:01.801Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e74660c1c34e857462b65fee7268a095f355c63f78ec6224ea0747f124dcc79",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:50:01.801Z"
+  },
+  {
+    "job_id": "workday-rtx-01816985",
+    "job_title": "SkillBridge Intern DOD: Test Technician, 1st Shift (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "AZ-PHOENIX-1007 ~ 1007 E University Dr ~ 1007 E UNIVERSITY DR",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-1007--1007-E-University-Dr--1007-E-UNIVERSITY-DR/SkillBridge-Intern-DOD--Test-Technician--1st-Shift--Onsite-_01816985",
+    "job_posted_at_datetime_utc": "2026-04-02T07:49:50.404Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "207592c2a4046c159c31518eb6506c9671573ccbf5d695b8d74707eafa4b001e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:49:50.404Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179868",
+    "job_title": "Systems Engineering Intern",
+    "employer_name": "Leidos",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineering-Intern_R-00179868-1",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:56.180Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "39cedcea64a6505f3f4c118d08596350410c1ff66cf97bbbc8df7deb2c87b396",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:56.180Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00178098",
+    "job_title": "Global Regulatory Compliance Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Global-Regulatory-Compliance-Intern_R-00178098",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:56.180Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7227765a7829b19347e01a6bc1b61f561446c9117bee459ec2a87a8b37a748a0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:56.180Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179877",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Morgantown",
+    "job_state": "WV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/Software-Engineer-Intern_R-00179877",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:56.179Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c78b78ea6d2c29aeff56b2a3b4f41e8fd2013ed21d064366a254830cc87c845f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:56.179Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121145",
+    "job_title": "Space Suit Production Logistics Internship Summer 2026",
+    "employer_name": "KBR",
+    "job_city": "Webster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Space-Suit-Production-Logistics-Internship-Summer-2026_R2121145",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:53.962Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bddafd930df55d93b62bf7030f31385795bd320013b0b2ef7ee39788472af398",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:53.962Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121279",
+    "job_title": "Electrical Engineer Intern - Summer 2026",
+    "employer_name": "KBR",
+    "job_city": "Las Cruces",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Electrical-Engineer-Intern---Summer-2026_R2121279",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:53.962Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "54c0f0deb0de312abdb39f5fcda5157fe2d6a30532b3a2cd78dd60e9266650e2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:53.962Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121281",
+    "job_title": "Mechanical Engineer Intern - Summer 2026",
+    "employer_name": "KBR",
+    "job_city": "Las Cruces",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Mechanical-Engineer-Intern---Summer-2026_R2121281",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:53.962Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a094f043fdf997944c2624dddd2be0825801c4504d5fe5db14d5eb2af9034d7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:53.962Z"
+  },
+  {
+    "job_id": "workday-jabil-J2445298",
+    "job_title": "Engineering Intern",
+    "employer_name": "Jabil",
+    "job_city": "Monument",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Engineering-Intern_J2445298",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:28.030Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bca7d895d69935e9692845a4a7254d190ccac05bbebeb305cb891c2df4764bda",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:28.030Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30264899",
+    "job_title": "Systems Technician Intern",
+    "employer_name": "Johnson Controls",
+    "job_city": "Maryland-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/Systems-Technician-Intern_WD30264899",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:16.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d742ebe8753238caf560489aa33741ab7960fcedb8a5ca162908eb8235f6cb01",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:16.282Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202519570",
+    "job_title": "2026 Co-Op - Software Developer – Virtualization and SIL Integration",
+    "employer_name": "General Motors",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Co-Op---Software-Developer---Virtualization-and-SIL-Integration_JR-202519570",
+    "job_posted_at_datetime_utc": "2026-04-02T07:48:02.248Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fcbed5891c4961c423f41ce916ff574203d167d4a24bc7d4ef0a0d55ae67dc71",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:48:02.248Z"
+  },
+  {
+    "job_id": "workday-ge-vernova-R5037473",
+    "job_title": "GE Vernova Government Affairs & Policy Intern - Summer 2026",
+    "employer_name": "GE Vernova",
+    "job_city": "Washington DC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Washington-DC/GE-Vernova-Government-Affairs---Policy-Intern---Summer-2026_R5037473-2",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:48.824Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ab6318021dba16e2e30062a347827503651516ff0a4f99b9c3a2760e8824e39",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:48.824Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000356049",
+    "job_title": "Engineering Intern",
+    "employer_name": "Caterpillar",
+    "job_city": "Pontiac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Pontiac-Illinois/Engineering-Intern_R0000356049",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:35.948Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ffa7528fbfb5ec8fe6cc67225c907e4e0a77e0e6f567d877fb5fea672588887",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:35.948Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000356956",
+    "job_title": "Engineering Intern",
+    "employer_name": "Caterpillar",
+    "job_city": "Pontiac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Pontiac-Illinois/Engineering-Intern_R0000356956",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:35.948Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ffa7528fbfb5ec8fe6cc67225c907e4e0a77e0e6f567d877fb5fea672588887",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:35.948Z"
+  },
+  {
+    "job_id": "workday-disney-10138044",
+    "job_title": "Disney Entertainment Television Communication Intern, Summer/Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Burbank",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Television-Communication-Intern--Summer-Fall-2026_10138044-2",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:30.266Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0783b954b6cd2a038139390fea59795c299aa40f9f5fa3bd9e4fa201f4bbcc8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:30.266Z"
+  },
+  {
+    "job_id": "workday-cisco-2001867",
+    "job_title": "ASIC Design Verification Engineer I Intern - United States",
+    "employer_name": "Cisco",
+    "job_city": "Maynard",
+    "job_state": "US",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/ASIC-Design-Verification-Engineer-I-Intern---United-States_2001867",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:23.135Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f9b5027f9d974fd8bf58f8b5b3a65b5e410dd366c8b314b8938bb663b8c8cb4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:23.135Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R54898",
+    "job_title": "Summer 2026 Electrical Systems Engineering Internship - Undergraduate",
+    "employer_name": "Blue Origin",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Electrical-Systems-Engineering-Internship---Undergraduate_R54898",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:12.118Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bee28e2a86c81676090c3c39b666b9d38983bc885b0b327bc462c0bdbed734dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:12.118Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R54897",
+    "job_title": "Summer 2026 Electrical Systems Engineering Intern - Graduate Student",
+    "employer_name": "Blue Origin",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Electrical-Systems-Engineering-Intern---Graduate-Student_R54897",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:12.118Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fde38e531043df49a850acc6df0d227446fdcfa4bcde06e9f9b06102801b587a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:12.118Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R54895",
+    "job_title": "Summer 2026 Aerospace Systems Engineering Intern - Graduate Student",
+    "employer_name": "Blue Origin",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Aerospace-Systems-Engineering-Intern---Graduate-Student_R54895",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:12.118Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e805110df523e842fb11eb1a069428aadefa7b4cd582442acf211d6de9f70171",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:12.118Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R54896",
+    "job_title": "Summer 2026 Aerospace Systems Engineering Intern - Undergraduate Student",
+    "employer_name": "Blue Origin",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Aerospace-Systems-Engineering-Intern---Undergraduate-Student_R54896",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:12.118Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84e4c5ac3883bfeb75ebf0989d4f726c28551c2003bc0e6aa5b163260e345fb7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:12.118Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R54901",
+    "job_title": "Summer 2026 Guidance, Navigation & Controls Intern - Graduate Student",
+    "employer_name": "Blue Origin",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Guidance--Navigation---Controls-Intern---Graduate-Student_R54901",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:12.118Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c7db451e4d828b68985c582b37623fee29d35df944c407b539b49a54ba338bd5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:12.118Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R54902",
+    "job_title": "Summer 2026 Guidance, Navigation & Controls Internship - Undergraduate",
+    "employer_name": "Blue Origin",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Guidance--Navigation---Controls-Internship---Undergraduate_R54902",
+    "job_posted_at_datetime_utc": "2026-04-02T07:47:12.118Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fd787fb49246d37d06987ef77738c7df4a1a17a31642477e199613870a3f2f01",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:47:12.118Z"
+  },
+  {
+    "job_id": "workday-abbott-31146516",
+    "job_title": "High School STEM Intern",
+    "employer_name": "Abbott",
+    "job_city": "10 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/High-School-STEM-Intern_31146516",
+    "job_posted_at_datetime_utc": "2026-04-02T07:46:50.278Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b6aa9e880c102fecfb18882601d48005014f069d05582b6d06a6b9d0fc7175a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:46:50.278Z"
   },
   {
     "job_id": "workday-microchip-technology-R1024-26",
@@ -5008,39 +5066,6 @@
     "job_posted_at": "2026-04-01T20:44:13.539Z"
   },
   {
-    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
-    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:13.190Z"
-  },
-  {
     "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
     "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
     "employer_name": "Hermeus",
@@ -5062,6 +5087,39 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:13.190Z"
+  },
+  {
+    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
+    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us"
@@ -6151,34 +6209,6 @@
     "job_posted_at": "2026-04-01T16:00:00.000Z"
   },
   {
-    "job_id": "workday-rtx-01832438",
-    "job_title": "2026 Intern – Environmental, Health & Safety Intern – Onsite (MA)",
-    "employer_name": "RTX",
-    "job_city": "MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/XMLNAME-2026-Intern---Environmental--Health---Safety-Intern---Onsite--MA-_01832438",
-    "job_posted_at_datetime_utc": "2026-04-01T15:20:51.409Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "15397c945ab7aa87e6bfc09df0587d948aacf8a27bfd9fc7cb28717dc15c1046",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T15:20:51.409Z"
-  },
-  {
     "job_id": "workday-leidos-R-00179751",
     "job_title": "Electrical Engineering Intern",
     "employer_name": "Leidos",
@@ -6514,6 +6544,90 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-04-01T08:00:00.000Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01329364",
+    "job_title": "Engineering Co-Op",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Hillsboro",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364",
+    "job_posted_at_datetime_utc": "2026-04-01T07:50:14.947Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3bc21702aaf724333537fc4a8f59fd0d52861556202263487f770d6a659f6b78",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:50:14.947Z"
+  },
+  {
+    "job_id": "workday-rtx-01832438",
+    "job_title": "2026 Intern – Environmental, Health & Safety Intern – Onsite (MA)",
+    "employer_name": "RTX",
+    "job_city": "MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/XMLNAME-2026-Intern---Environmental--Health---Safety-Intern---Onsite--MA-_01832438",
+    "job_posted_at_datetime_utc": "2026-04-01T07:49:50.407Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "15397c945ab7aa87e6bfc09df0587d948aacf8a27bfd9fc7cb28717dc15c1046",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:49:50.407Z"
+  },
+  {
+    "job_id": "workday-rtx-01834756",
+    "job_title": "2026 Intern - Mechanical Engineering - Land Based Effectors - Onsite",
+    "employer_name": "RTX",
+    "job_city": "AZ-TUCSON-M09 ~ 3350 E Hemisphere Loop ~ BLDG M09",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/XMLNAME-2026-Intern---Mechanical-Engineering---Land-Based-Effectors---Onsite_01834756",
+    "job_posted_at_datetime_utc": "2026-04-01T07:49:50.405Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "728046ee9a5cbf76900ba57897103165f7ba3943918b437de816f2d3c1750131",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:49:50.405Z"
   },
   {
     "job_id": "workday-merck-&-co.-R368725",
@@ -7107,34 +7221,6 @@
     "job_posted_at": "2026-04-01T07:04:29.751Z"
   },
   {
-    "job_id": "workday-moog-R-25-13655",
-    "job_title": "Intern, Product Engineering",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13655",
-    "job_posted_at_datetime_utc": "2026-04-01T07:04:22.073Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "97944f7af73acf4d8bb7c13842f583feaec5c6f80c27192d1ac63d879328cc77",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:04:22.073Z"
-  },
-  {
     "job_id": "workday-moog-R-26-16779",
     "job_title": "Intern, Operations",
     "employer_name": "Moog",
@@ -7319,6 +7405,34 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:04:22.073Z"
+  },
+  {
+    "job_id": "workday-moog-R-25-13655",
+    "job_title": "Intern, Product Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13655",
+    "job_posted_at_datetime_utc": "2026-04-01T07:04:22.073Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "97944f7af73acf4d8bb7c13842f583feaec5c6f80c27192d1ac63d879328cc77",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -8495,6 +8609,67 @@
     "job_posted_at": "2026-04-01T02:00:00.000Z"
   },
   {
+    "job_id": "js-general-motors-jwimwizdmoh8c0fzaaaaaa==",
+    "job_title": "AI/ML Software Engineer Summer Intern - Master's",
+    "employer_name": "General Motors",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/general-motors/jobs-internships/aiml-software-engineer-summer-intern-masters",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "5569969b16c791e65dde76ba7c42876cfe7766e8a29cc89eb9a019119cf95ed3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-tyto-athene-gtdk5g68p0jia0otaaaaaa==",
+    "job_title": "AI/ML Engineering Intern",
+    "employer_name": "Tyto Athene",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://reston.us.expertini.com/job/aiml-engineering-intern-reston-tyto-athene-3d00a5d310944c2e9fd67cdac53fa2d6105/",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "d0f8e272540a3f695cee61acf9e72a1e8b3377e765270bd5d71469fa28563153",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ametek-inc-jrgwgrzlt5ru7bppaaaaaa==",
     "job_title": "Data Science and AI Intern",
     "employer_name": "Ametek, Inc.",
@@ -8716,67 +8891,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-general-motors-jwimwizdmoh8c0fzaaaaaa==",
-    "job_title": "AI/ML Software Engineer Summer Intern - Master's",
-    "employer_name": "General Motors",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/general-motors/jobs-internships/aiml-software-engineer-summer-intern-masters",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "5569969b16c791e65dde76ba7c42876cfe7766e8a29cc89eb9a019119cf95ed3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-tyto-athene-gtdk5g68p0jia0otaaaaaa==",
-    "job_title": "AI/ML Engineering Intern",
-    "employer_name": "Tyto Athene",
-    "job_city": "Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://reston.us.expertini.com/job/aiml-engineering-intern-reston-tyto-athene-3d00a5d310944c2e9fd67cdac53fa2d6105/",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "d0f8e272540a3f695cee61acf9e72a1e8b3377e765270bd5d71469fa28563153",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -10508,6 +10622,34 @@
     "job_posted_at": "2026-03-31T09:00:00.000Z"
   },
   {
+    "job_id": "workday-cisco-2006310",
+    "job_title": "Corporate Strategy Manager MBA (Intern) - United States",
+    "employer_name": "Cisco",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Corporate-Strategy-Manager-MBA--Intern----United-States_2006310-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:47:23.135Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e54aca904ecb841e1efeba9db57620d5dd4756be9618bf1fd21d990df029c5b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:47:23.135Z"
+  },
+  {
     "job_id": "workday-usaa-R0115009",
     "job_title": "Audit Intern",
     "employer_name": "USAA",
@@ -11496,32 +11638,92 @@
     "job_posted_at": "2026-03-30T22:56:36-04:00"
   },
   {
-    "job_id": "workday-lumentum-2026369",
-    "job_title": "Failure Analysis and New Product Qualification Intern",
-    "employer_name": "Lumentum",
-    "job_city": "CA - San Jose",
+    "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
+    "job_title": "2026 Intern - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026369",
-    "job_posted_at_datetime_utc": "2026-03-31T00:58:36.826Z",
-    "job_employment_type": "FULLTIME",
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "25a6473cfc85019a4391d1955fb9d9cf257156e9bb1c96c35d285dc9eecb9935",
+    "fingerprint": "87e00c990da413f7a8eeef42b05a3ea4bcab7995b4a88301aff097aeac18ce19",
     "tags": {
       "employment": "internship",
       "domains": [
-        "hardware"
+        "ai",
+        "data_science"
       ],
       "locations": [
-        "us"
+        "us",
+        "on_site"
       ],
       "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T00:58:36.826Z"
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-westinghouse-electric-company-llc-_prdihuba-iznenzaaaaaa==",
+    "job_title": "Systems Engineering Intern",
+    "employer_name": "Westinghouse Electric Company LLC",
+    "job_city": "Warrendale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/systems-engineering-intern-summer-2026--warrendale--e0b442bd87abe544f4252652aeeb06ae2",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "70e81cee74ef65cac32d6ed24d1039ad4dd76a9b282cac69bfd21bade747e8c0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-constellation-energy-generation-llc-ygwb6k1rq981rfsoaaaaaa==",
+    "job_title": "Strategic/Systems Engineering Intern - Marseilles, IL",
+    "employer_name": "Constellation Energy Generation, LLC.",
+    "job_city": "Marseilles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.constellationenergy.com/careers-home/jobs/130531?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "74e5281af80d01ab9376a721a40b8266f0e0861842b74bd1535f09146d635194",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
   },
   {
     "job_id": "js-panasonic-connect-north-america-5zvys5cmfxsi317faaaaaa==",
@@ -11628,36 +11830,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
-    "job_title": "2026 Intern - Machine Learning Engineer",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "87e00c990da413f7a8eeef42b05a3ea4bcab7995b4a88301aff097aeac18ce19",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -11828,64 +12000,6 @@
     "job_employment_type": "INTERNSHIP",
     "salary": null,
     "fingerprint": "7d0fbfe80bab142f730e9c402269ec0026d0b2916eaca67ee3ff0cc08cf45926",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-constellation-energy-generation-llc-ygwb6k1rq981rfsoaaaaaa==",
-    "job_title": "Strategic/Systems Engineering Intern - Marseilles, IL",
-    "employer_name": "Constellation Energy Generation, LLC.",
-    "job_city": "Marseilles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.constellationenergy.com/careers-home/jobs/130531?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "74e5281af80d01ab9376a721a40b8266f0e0861842b74bd1535f09146d635194",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-westinghouse-electric-company-llc-_prdihuba-iznenzaaaaaa==",
-    "job_title": "Systems Engineering Intern",
-    "employer_name": "Westinghouse Electric Company LLC",
-    "job_city": "Warrendale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/systems-engineering-intern-summer-2026--warrendale--e0b442bd87abe544f4252652aeeb06ae2",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "70e81cee74ef65cac32d6ed24d1039ad4dd76a9b282cac69bfd21bade747e8c0",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13836,6 +13950,62 @@
     "job_posted_at": "2026-03-30T12:34:15.197Z"
   },
   {
+    "job_id": "workday-moog-R-26-16911",
+    "job_title": "Intern, Test Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-16911",
+    "job_posted_at_datetime_utc": "2026-03-30T07:48:37.821Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b73b0302929155b6da6a7b984f3efe24d65c0796d8bb923c60a34c7cfa790d4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:48:37.821Z"
+  },
+  {
+    "job_id": "workday-lumentum-2026369",
+    "job_title": "Failure Analysis and New Product Qualification Intern",
+    "employer_name": "Lumentum",
+    "job_city": "CA - San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026369",
+    "job_posted_at_datetime_utc": "2026-03-30T07:48:36.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25a6473cfc85019a4391d1955fb9d9cf257156e9bb1c96c35d285dc9eecb9935",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:48:36.677Z"
+  },
+  {
     "job_id": "workday-salesforce-JR324012",
     "job_title": "Summer 2026 Scholar - Futureforce Tech Launchpad",
     "employer_name": "Salesforce",
@@ -14260,34 +14430,6 @@
     "job_posted_at": "2026-03-30T07:05:24.990Z"
   },
   {
-    "job_id": "workday-motorola-solutions-R62370",
-    "job_title": "Intern - Software Test Engineer - 2026",
-    "employer_name": "Motorola Solutions",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Software-Test-Engineer---2026_R62370",
-    "job_posted_at_datetime_utc": "2026-03-30T07:04:42.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "223cc4068ef2672b47ad55ffd577b6000052459fe0f926e338034b0344ca9c48",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:04:42.570Z"
-  },
-  {
     "job_id": "workday-motorola-solutions-R62377",
     "job_title": "R&D Intern - Test Engineer - 2026",
     "employer_name": "Motorola Solutions",
@@ -14413,6 +14555,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1b9e7c19c3c0946c57c4b4c6191636b3260ec5c25d0693e8b3ec8a0bf5ee5b20",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:04:42.570Z"
+  },
+  {
+    "job_id": "workday-motorola-solutions-R62370",
+    "job_title": "Intern - Software Test Engineer - 2026",
+    "employer_name": "Motorola Solutions",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Software-Test-Engineer---2026_R62370",
+    "job_posted_at_datetime_utc": "2026-03-30T07:04:42.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "223cc4068ef2672b47ad55ffd577b6000052459fe0f926e338034b0344ca9c48",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15327,6 +15497,153 @@
     "job_posted_at": "2026-03-30T07:00:17.305Z"
   },
   {
+    "job_id": "js-sei1global-cgackgs_xek00dnwaaaaaa==",
+    "job_title": "2026 Intern - SEI Data Office AI Intern",
+    "employer_name": "SEI1GLOBAL",
+    "job_city": "Oaks",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.seic.com/global/en/job/R0035952/2026-Intern-SEI-Data-Office-AI-Intern",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8ca20d924a30fb4d8e7fc5a6d57f7374ab8294af97623e8f48b5490637cd7fa6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-caci-bhjjvhvdbuc9tm9qaaaaaa==",
+    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150161697",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b0c0b3142ead4b7666c3d3bb2c9431ec5358b0d4c12bd25b5ff48145f9e8d634",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-peregrine-semiconductor-corp-gvrzzvwkq3mognp4aaaaaa==",
+    "job_title": "Intern, Software Engineer, AI/ML - Summer 2026 Job Details | Murata America",
+    "employer_name": "Peregrine Semiconductor Corp.",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.factoryfix.com/jobs/intern-software-engineer-aiml-summer-2026-job-details-murata-america--san-diego--ca--3717444840--V2",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "99c198644c67fedf3cbef5c379218b5d3701dd849f83d9ad2f7f6292d79086b0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-saic-xsyolnk0ywexzhtkaaaaaa==",
+    "job_title": "Mission Assurance Engineer Intern",
+    "employer_name": "SAIC",
+    "job_city": "Chantilly",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.saic.com/jobs/17565020-mission-assurance-engineer-intern",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "72a6d1114935eb5f0ed1b5ced7247d6f8b9105c2ffdb8ddfc0ceadff31ee3915",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-borgwarner-oefryueurbdibs7vaaaaaa==",
+    "job_title": "Finance Summer Intern",
+    "employer_name": "BorgWarner",
+    "job_city": "Auburn Hills",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/finance-summer-intern/8904629",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b0071621a4d6b84c157f20dca1ab18d4662193148f249c971f64f46b12d91200",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
     "job_id": "js-hp-inc-c4xoe8xqyfcdubdkaaaaaa==",
     "job_title": "Personal Systems Hardware Engineering Internship",
     "employer_name": "HP Inc.",
@@ -15635,153 +15952,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-saic-xsyolnk0ywexzhtkaaaaaa==",
-    "job_title": "Mission Assurance Engineer Intern",
-    "employer_name": "SAIC",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.saic.com/jobs/17565020-mission-assurance-engineer-intern",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "72a6d1114935eb5f0ed1b5ced7247d6f8b9105c2ffdb8ddfc0ceadff31ee3915",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-borgwarner-oefryueurbdibs7vaaaaaa==",
-    "job_title": "Finance Summer Intern",
-    "employer_name": "BorgWarner",
-    "job_city": "Auburn Hills",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/finance-summer-intern/8904629",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b0071621a4d6b84c157f20dca1ab18d4662193148f249c971f64f46b12d91200",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sei1global-cgackgs_xek00dnwaaaaaa==",
-    "job_title": "2026 Intern - SEI Data Office AI Intern",
-    "employer_name": "SEI1GLOBAL",
-    "job_city": "Oaks",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.seic.com/global/en/job/R0035952/2026-Intern-SEI-Data-Office-AI-Intern",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8ca20d924a30fb4d8e7fc5a6d57f7374ab8294af97623e8f48b5490637cd7fa6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-caci-bhjjvhvdbuc9tm9qaaaaaa==",
-    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150161697",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b0c0b3142ead4b7666c3d3bb2c9431ec5358b0d4c12bd25b5ff48145f9e8d634",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-peregrine-semiconductor-corp-gvrzzvwkq3mognp4aaaaaa==",
-    "job_title": "Intern, Software Engineer, AI/ML - Summer 2026 Job Details | Murata America",
-    "employer_name": "Peregrine Semiconductor Corp.",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.factoryfix.com/jobs/intern-software-engineer-aiml-summer-2026-job-details-murata-america--san-diego--ca--3717444840--V2",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "99c198644c67fedf3cbef5c379218b5d3701dd849f83d9ad2f7f6292d79086b0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
       ],
       "locations": [
         "us",
@@ -16117,6 +16287,93 @@
     "job_posted_at": "2026-03-30T00:00:00.000Z"
   },
   {
+    "job_id": "js-lockheed-martin-ib-qpx5fjrmnkrdxaaaaaa==",
+    "job_title": "Systems Engineer (Configuration Management) - Intern",
+    "employer_name": "Lockheed Martin",
+    "job_city": "Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/fort-worth/systems-engineer-configuration-management-intern/694/93382254400",
+    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "808d69780839257f2db19c577f3dc240b2e751a7493ecdf9c9b65c8d80f2ecc3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-collins-aerospace-pbt9phzzsf_nyfkzaaaaaa==",
+    "job_title": "Systems Engineering Intern (Summer 2026) (Onsite)",
+    "employer_name": "Collins Aerospace",
+    "job_city": "Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jsfirm.com/job/Engineering-Systems-Engineering-Intern-(Summer-2026)-(Onsite)/marlborough-Massachusetts/jobID_1901319",
+    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e136ddaee354369ec771ea680ccd1ea80ab8277389ae200305a312272d09b030",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-acuity-inc-ttnjc531ejy9llheaaaaaa==",
+    "job_title": "Product Management Intern — Tech & Finance Systems",
+    "employer_name": "Acuity Inc.",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.jobrapido.com/jobpreview/4474933991287291904",
+    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "03aa77ce3ea6fb6df66ee48edd7ea1e90d329f5b9c7afb5d64549d45e5bb1a97",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-29T00:00:00.000Z"
+  },
+  {
     "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
     "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
     "employer_name": "Amerihealth Caritas",
@@ -16365,93 +16622,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-lockheed-martin-ib-qpx5fjrmnkrdxaaaaaa==",
-    "job_title": "Systems Engineer (Configuration Management) - Intern",
-    "employer_name": "Lockheed Martin",
-    "job_city": "Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/fort-worth/systems-engineer-configuration-management-intern/694/93382254400",
-    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "808d69780839257f2db19c577f3dc240b2e751a7493ecdf9c9b65c8d80f2ecc3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-collins-aerospace-pbt9phzzsf_nyfkzaaaaaa==",
-    "job_title": "Systems Engineering Intern (Summer 2026) (Onsite)",
-    "employer_name": "Collins Aerospace",
-    "job_city": "Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jsfirm.com/job/Engineering-Systems-Engineering-Intern-(Summer-2026)-(Onsite)/marlborough-Massachusetts/jobID_1901319",
-    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "e136ddaee354369ec771ea680ccd1ea80ab8277389ae200305a312272d09b030",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-acuity-inc-ttnjc531ejy9llheaaaaaa==",
-    "job_title": "Product Management Intern — Tech & Finance Systems",
-    "employer_name": "Acuity Inc.",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.jobrapido.com/jobpreview/4474933991287291904",
-    "job_posted_at_datetime_utc": "2026-03-29T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "03aa77ce3ea6fb6df66ee48edd7ea1e90d329f5b9c7afb5d64549d45e5bb1a97",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
       ],
       "locations": [
         "us",
@@ -19819,39 +19989,6 @@
     "job_posted_at": "2026-03-28T11:46:29.145Z"
   },
   {
-    "job_id": "lever-sambatv-00567176-7d88-40b5-9741-3d2f57e5ad00",
-    "job_title": "Programmatic Analyst Intern",
-    "employer_name": "Samba TV",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/00567176-7d88-40b5-9741-3d2f57e5ad00/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:28.854Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "12cc0966041648f90fa92f828bfcc37ca4366f9cd4d2d70f59657a3eef99f371",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:28.854Z"
-  },
-  {
     "job_id": "lever-sambatv-34cf777f-a320-41c4-8a26-9d456121765f",
     "job_title": "Marketing Intern",
     "employer_name": "Samba TV",
@@ -19906,6 +20043,39 @@
       "employment": "internship",
       "domains": [
         "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:28.854Z"
+  },
+  {
+    "job_id": "lever-sambatv-00567176-7d88-40b5-9741-3d2f57e5ad00",
+    "job_title": "Programmatic Analyst Intern",
+    "employer_name": "Samba TV",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/00567176-7d88-40b5-9741-3d2f57e5ad00/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:28.854Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "12cc0966041648f90fa92f828bfcc37ca4366f9cd4d2d70f59657a3eef99f371",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -20270,40 +20440,6 @@
     "job_posted_at": "2026-03-28T11:46:25.118Z"
   },
   {
-    "job_id": "lever-matchgroup-66cc088d-e7e7-464d-8155-a804e0c04f0e",
-    "job_title": "Product Design Intern",
-    "employer_name": "Match Group",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/matchgroup/66cc088d-e7e7-464d-8155-a804e0c04f0e/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:23.281Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 47,
-      "max": 47,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "585ef22c9b638661ea65441f1bd62901859e0a764c90d70c5c4ccdfd09007d13",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:23.281Z"
-  },
-  {
     "job_id": "lever-matchgroup-84135a99-e009-4764-8e88-f0dba164d097",
     "job_title": "Android Engineer Intern",
     "employer_name": "Match Group",
@@ -20496,6 +20632,40 @@
       "domains": [
         "ai",
         "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:23.281Z"
+  },
+  {
+    "job_id": "lever-matchgroup-66cc088d-e7e7-464d-8155-a804e0c04f0e",
+    "job_title": "Product Design Intern",
+    "employer_name": "Match Group",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/matchgroup/66cc088d-e7e7-464d-8155-a804e0c04f0e/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:23.281Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 47,
+      "max": 47,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "585ef22c9b638661ea65441f1bd62901859e0a764c90d70c5c4ccdfd09007d13",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
       ],
       "locations": [
         "hybrid",
@@ -21003,6 +21173,35 @@
     "job_posted_at": "2026-03-28T11:46:21.281Z"
   },
   {
+    "job_id": "ashby-crusoe-8d07e3e4-290e-48f3-8ff2-30c4c0ada05e",
+    "job_title": "Construction Management Intern, 2026",
+    "employer_name": "Crusoe",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/8d07e3e4-290e-48f3-8ff2-30c4c0ada05e/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:21.126Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "d643fdda83dfd2c78f3405d7acc6fb5c240d6c90a43f9d1083423c0963b6f47a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:21.126Z"
+  },
+  {
     "job_id": "ashby-crusoe-5585b550-3200-4c15-bc76-95045ca7712b",
     "job_title": "Field Engineering Intern, Summer 2026",
     "employer_name": "Crusoe",
@@ -21091,35 +21290,6 @@
     "job_posted_at": "2026-03-28T11:46:21.126Z"
   },
   {
-    "job_id": "ashby-crusoe-8d07e3e4-290e-48f3-8ff2-30c4c0ada05e",
-    "job_title": "Construction Management Intern, 2026",
-    "employer_name": "Crusoe",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/8d07e3e4-290e-48f3-8ff2-30c4c0ada05e/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:21.126Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "d643fdda83dfd2c78f3405d7acc6fb5c240d6c90a43f9d1083423c0963b6f47a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:21.126Z"
-  },
-  {
     "job_id": "ashby-crusoe-654b8821-1d2c-4ac7-a738-ea561de19672",
     "job_title": "Product Design Intern, Summer 2026",
     "employer_name": "Crusoe",
@@ -21178,6 +21348,72 @@
     "job_posted_at": "2026-03-28T11:46:21.126Z"
   },
   {
+    "job_id": "lever-hermeus-a949f158-6900-42e1-890d-fb3ec339c3d0",
+    "job_title": "Propulsion Engineer Intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "0f4849d692a01bf27ccb75af5a128c017e49c2d37befad50c2c198b5bfbdf72e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:19.110Z"
+  },
+  {
+    "job_id": "lever-hermeus-1ce52371-c210-49b5-9a2b-5af6706137bc",
+    "job_title": "Software Engineering Intern (Datalinks/C2) - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "d55ca538eb121b62f6eab9a22431a82131cfd8d4b31ffec85a1e4af33ae1cb90",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:19.110Z"
+  },
+  {
     "job_id": "lever-hermeus-273cb94a-ff5b-4814-81e8-34f406d403c6",
     "job_title": "Structures Engineer Intern (Fall 2026)",
     "employer_name": "Hermeus",
@@ -21232,6 +21468,73 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:19.110Z"
+  },
+  {
+    "job_id": "lever-hermeus-51378fa0-0327-45fd-9420-b6e7d8b56440",
+    "job_title": "Flight Software Engineering Intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "eb767fddda7c60c005c158f3718ab1804aad99e7b7fec528ec8a9fe649e0672f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:19.110Z"
+  },
+  {
+    "job_id": "lever-hermeus-751c9919-5b19-4609-80ff-ca82d6947e07",
+    "job_title": "GNC Engineering Intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "21c468d40aef72ba1e8412ef53be6f7b839602b3494b5e7d3aca9dbef78bc885",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
       ],
       "locations": [
         "us"
@@ -21378,139 +21681,6 @@
     "job_posted_at": "2026-03-28T11:46:19.110Z"
   },
   {
-    "job_id": "lever-hermeus-a949f158-6900-42e1-890d-fb3ec339c3d0",
-    "job_title": "Propulsion Engineer Intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "0f4849d692a01bf27ccb75af5a128c017e49c2d37befad50c2c198b5bfbdf72e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:19.110Z"
-  },
-  {
-    "job_id": "lever-hermeus-1ce52371-c210-49b5-9a2b-5af6706137bc",
-    "job_title": "Software Engineering Intern (Datalinks/C2) - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "d55ca538eb121b62f6eab9a22431a82131cfd8d4b31ffec85a1e4af33ae1cb90",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:19.110Z"
-  },
-  {
-    "job_id": "lever-hermeus-51378fa0-0327-45fd-9420-b6e7d8b56440",
-    "job_title": "Flight Software Engineering Intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "eb767fddda7c60c005c158f3718ab1804aad99e7b7fec528ec8a9fe649e0672f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:19.110Z"
-  },
-  {
-    "job_id": "lever-hermeus-751c9919-5b19-4609-80ff-ca82d6947e07",
-    "job_title": "GNC Engineering Intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:19.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "21c468d40aef72ba1e8412ef53be6f7b839602b3494b5e7d3aca9dbef78bc885",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:19.110Z"
-  },
-  {
     "job_id": "lever-hermeus-0f52df07-bd23-44cb-a24d-3346f6d94201",
     "job_title": "Avionics Engineering Intern - (Summer/Fall 2026)",
     "employer_name": "Hermeus",
@@ -21630,90 +21800,6 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-28T11:46:16.617Z"
-  },
-  {
-    "job_id": "lever-palantir-030ece08-c341-4959-bdfe-314e89b691ce",
-    "job_title": "Year at Palantir, Internship",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa650ef8b1afa3bf61cc6459dcb9ef3be106f8f5b85be7ecfb2ac83d6552925a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-8f7bbffa-92aa-4d25-9586-943b3322a27d",
-    "job_title": "Product Designer, Internship - US Government",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76345a83563b2fe9d87f600aa23a0a81c7b26498486a33b1e6fda5030e70a63a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-fa060d94-f85d-4d02-be58-b81787fe57e5",
-    "job_title": "Product Designer, Internship - US Government",
-    "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "73da73caa99f69b64a50780ff18ec70b33abd565ff0c183eb09f22b78756d84f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
   },
   {
     "job_id": "lever-palantir-2fb19022-bb65-4af8-b6fa-31beb345c140",
@@ -21968,6 +22054,34 @@
     "job_posted_at": "2026-03-28T11:46:16.036Z"
   },
   {
+    "job_id": "lever-palantir-030ece08-c341-4959-bdfe-314e89b691ce",
+    "job_title": "Year at Palantir, Internship",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aa650ef8b1afa3bf61cc6459dcb9ef3be106f8f5b85be7ecfb2ac83d6552925a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
     "job_id": "lever-palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
     "job_title": "Forward Deployed Software Engineer, Internship - France",
     "employer_name": "Palantir",
@@ -22042,6 +22156,62 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "job_title": "Product Designer, Internship - US Government",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76345a83563b2fe9d87f600aa23a0a81c7b26498486a33b1e6fda5030e70a63a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "job_title": "Product Designer, Internship - US Government",
+    "employer_name": "Palantir",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "73da73caa99f69b64a50780ff18ec70b33abd565ff0c183eb09f22b78756d84f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
       ],
       "locations": [
         "us"
