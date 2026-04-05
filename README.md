@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-597-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-596-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-234-blue?style=flat&logo=building)
 ![Other Internships](https://img.shields.io/badge/Other_Internships-355-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -307,7 +307,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Stantec** | Electrical Engineering Intern - Water (Summer 2026) | Chandler | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://stantec.jobs/chandler-az/electrical-engineering-intern-water-summer-2026/C8C3411BC15B430D9DEB9D26B9DC0D1F/job/) |
 | 🏢 **Lumentum** | Mechanical Engineering Intern | CA - San Jose | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Mechanical-Engineering-Intern_2026272) |
 | 🏢 **Arconic** | Electrical Engineering Intern | Bettendorf | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.khon2.com/jobs/electrical-engineering-intern-bettendorf-iowa/2701828474-2/) |
-| 🌐 **Cisco** | Hardware Engineer II (Intern) - United States | Unknown | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2000134EXTERNALENGLOBAL/Hardware-Engineer-II-Intern-United-States) |
 | 🏢 **WSP** | Electrical Engineering Intern- Summer 2026 | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/84106) |
 | 🏢 **KBR** | Electrical Engineer Intern - Summer 2026 | Las Cruces | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Electrical-Engineer-Intern---Summer-2026_R2121279) |
 | 🏢 **KBR** | Mechanical Engineer Intern - Summer 2026 | Las Cruces | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Mechanical-Engineer-Intern---Summer-2026_R2121281) |
@@ -324,8 +323,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Electrical Engineering Intern | St. Petersburg, FL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Electrical-Engineering-Intern_R-00179751) |
 | 🏢 **RTX** | 2026 Intern - Mechanical Engineering - Land Based Effectors - Onsite | AZ-TUCSON-M09 ~ 3... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/XMLNAME-2026-Intern---Mechanical-Engineering---Land-Based-Effectors---Onsite_01834756) |
 | 🏢 **CACI** | Electrical / Mechanical Engineering Intern - Summer 2026 | US NC High Point | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NC-High-Point/Electrical---Mechanical-Engineering-Intern---Summer-2026_324029) |
-| 🏢 **Palomar Products Inc.** | Hardware Engineering Intern | Unknown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-4111-447e1b0ce7f348da38739575b776f1ec) |
 | 🏢 **Crown Equipment Corporation** | Electrical Engineering Intern/Co-op - Fall 2026 | Kinston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://us-careers.crown.com/job/Kinston-Electrical-Engineering-InternCo-op-Fall-2026-NC-28504/1379171800/) |
+| 🏢 **Palomar Products Inc.** | Hardware Engineering Intern | Unknown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-4111-447e1b0ce7f348da38739575b776f1ec) |
 | 🏢 **AnySignal** | Intern - Hardware Engineer | Los Angeles | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/intern-hardware-engineer/7516173) |
 | 🏢 **Sigma Defense** | 1665 - Electrical Engineering Intern | Huntsville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.workable.com/sigmadefense/j/AEE3BA635F) |
 | 🏢 **Intuitive** | Mechanical Engineering Intern | Blacksburg, VA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000117984944) |
@@ -340,9 +339,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | 2026 Intern - Mechanical Engineer - Test Equipment - Onsite | AZ-TUCSON-848 ~ 1... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Intern---Mechanical-Engineer---Test-Equipment---Onsite_01832329) |
 | 🏢 **RTX** | Firmware Engineering Intern (Summer 2026) | MA-MARLBOROUGH-MA... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Firmware-Engineering-Intern--Summer-2026-_01833633) |
 | 🏢 **Motorola Solutions** | Intern - Mechanical Engineer - 2026 | Los Angeles, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Mechanical-Engineer---2026_R62371) |
-| 🏢 **KOSTAL of America, Inc.** | Hardware Engineering Intern | Unknown | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.kostal-career.com/en-US/career/hardware-engineering-intern) |
 | 🏢 **Dover Corporation** | Electrical Engineer Intern | Salem | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dovercorporation.com/job/Salem-Electrical-Engineer-Intern-NH-03079/1379643633/) |
 | 🏢 **City of Idaho Falls** | Electrical Engineer Intern | Idaho Falls | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.governmentjobs.com/careers/idahofallsid/jobs/5293307/electrical-engineer-intern) |
+| 🏢 **KOSTAL of America, Inc.** | Hardware Engineering Intern | Unknown | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.kostal-career.com/en-US/career/hardware-engineering-intern) |
 | 🏢 **HP Inc.** | Personal Systems Hardware Engineering Internship | The Woodlands | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/personal-systems-hardware-engineering-internship/woodlands-texas?id=2595385083) |
 
 <p align="center">Apply for more jobs at</p>
@@ -473,9 +472,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cloudflare** | Sales Revenue AI Tools Intern (Summer 2026) | In-Office | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7770160?gh_jid=7770160) |
 | 🏢 **Lucid Motors** | Intern, Charging & Smart Energy - Summer 2026 | Newark, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922153007) |
 | 🏢 **Audax Group** | IT Operations Co-Op - New York | New York, NY | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4677784005) |
+| 🏢 **Netflix** | Documentary Awards & Publicity Intern, Summer 2026 | Los Angeles, Cali... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790315177455) |
 | 🏢 **Blue Origin Personnel, LLC** | Summer 2026 Artificial Intelligence / Machine Learning Intern - Graduate Student | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Aerospace-Software-Developer-Internship---Graduate-Student_R55021) |
 | 🏢 **KOSTAL Group** | Hands-On Hardware Intern: PCB, Circuits & Prototyping | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/hands-on-hardware-intern-pcb-circuits-prototyping--troy--eaf1c4ca7f7a18f75cce02f241b136e54) |
-| 🏢 **Netflix** | Documentary Awards & Publicity Intern, Summer 2026 | Los Angeles, Cali... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790315177455) |
 | 🏢 **WayUp** | Adobe, 2026 AI/ML Intern | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-4112-084e27f7a662357d1e70311d469a7408) |
 | 🏢 **RoboForce** | AI Research Engineer Intern - Real-Time Inference for Embodied AI | Milpitas | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/ai-research-engineer-intern-phd-real-time-inference-for-embodied-ai--milpitas--eb260fd2e64f9d6a4d5faf4bfa040d25b) |
 | 🏢 **Red Bull** | 2026 Internship, Summer - Digital Growth & Content | Harrison, NJ | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000118262857) |
@@ -646,7 +645,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 597 current opportunities from 234 companies**
+**🎯 596 current opportunities from 234 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
