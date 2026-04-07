@@ -1,5 +1,119 @@
 [
   {
+    "job_id": "workday-leidos-R-00166896",
+    "job_title": "Engineering Intern",
+    "employer_name": "Leidos",
+    "job_city": "Gaithersburg",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Engineering-Intern_R-00166896",
+    "job_posted_at_datetime_utc": "2026-04-07T20:30:01.612Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f256fa3093ef3fd4038b4dba56ad0e370fbdfc2b69f70eebc99fc3ee42189397",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T20:30:01.612Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30264385",
+    "job_title": "Fire Protection Sales Intern",
+    "employer_name": "Johnson Controls",
+    "job_city": "USA DE New Castle Boulden",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/USA-DE-New-Castle-Boulden/Fire-Protection-Sales-Intern_WD30264385",
+    "job_posted_at_datetime_utc": "2026-04-07T20:29:21.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4ef0048d1a967c88b34864b9af394b7dcefc399833e937fd6e3bb0ac6c2190b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T20:29:21.715Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000346878",
+    "job_title": "2026 Summer Corporate Intern - Business Operations",
+    "employer_name": "Caterpillar",
+    "job_city": "7 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Business-Operations_R0000346878",
+    "job_posted_at_datetime_utc": "2026-04-07T20:28:38.629Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9cc22f676af16ebb49a55fbdd4fded313ddaa3184f6d3616c6ede64328f788c6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T20:28:38.629Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2616699",
+    "job_title": "AI/ML for Chemistry/Materials Intern",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-ML-for-Chemistry-Materials-Intern_R2616699",
+    "job_posted_at_datetime_utc": "2026-04-07T20:27:52.413Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50361de26db040dbc6bac03233b5c5bcccbde0a88170d0f756b109b453c31d72",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T20:27:52.413Z"
+  },
+  {
     "job_id": "workday-sierra-nevada-corporation-R0028234",
     "job_title": "Systems Security Engineer Intern - Summer 2026",
     "employer_name": "Sierra Nevada Corporation",
@@ -6055,6 +6169,35 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
+    "job_id": "js-uber-freight-gqeducu8euih3wpraaaaaa==",
+    "job_title": "Data Scientist Intern - Summer 2026",
+    "employer_name": "Uber Freight",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinchicago.org/job/data-scientist-intern-summer-2026/8966238",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "bf79d60e48565a12414aca172062665c7fcda9dd1b72e6d0cb0fa4d6d6e4ff2d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
     "job_id": "js-red-alpha-b6k9riakd3mvqjlvaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "Red Alpha",
@@ -6096,35 +6239,6 @@
     "job_employment_type": "PART-TIME",
     "salary": null,
     "fingerprint": "10075366388648954c11a7603ad0dca23c2ed59e5ea20c86d2ba8e822eb49d14",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-uber-freight-gqeducu8euih3wpraaaaaa==",
-    "job_title": "Data Scientist Intern - Summer 2026",
-    "employer_name": "Uber Freight",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.builtinchicago.org/job/data-scientist-intern-summer-2026/8966238",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "bf79d60e48565a12414aca172062665c7fcda9dd1b72e6d0cb0fa4d6d6e4ff2d",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15244,62 +15358,6 @@
     "job_posted_at": "2026-04-01T07:02:53.298Z"
   },
   {
-    "job_id": "workday-ge-aerospace-R5032037",
-    "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5032037-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c862dbd41b9a9c9ad0bf7bee2c8c60e17822ef6e3746e5a17f18188e3d734093",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
-    "job_id": "workday-ge-aerospace-R5032035",
-    "job_title": "Military DoD SkillBridge Internship - Test Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician_R5032035",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
     "job_id": "workday-ge-aerospace-R5032038",
     "job_title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
     "employer_name": "GE Aerospace",
@@ -15340,6 +15398,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1003b8eaddeecb63a9f6bfc9010529b81d9c00971e863a377104bed8fc908757",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032037",
+    "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5032037-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c862dbd41b9a9c9ad0bf7bee2c8c60e17822ef6e3746e5a17f18188e3d734093",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032035",
+    "job_title": "Military DoD SkillBridge Internship - Test Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician_R5032035",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -17549,61 +17663,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-31T20:46:27.374Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4613067006",
-    "job_title": "Hardware Reliability Intern [Summer 2026]",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-    "job_posted_at_datetime_utc": "2026-03-31T16:41:09-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5951af07845d761fbd28925bee7d4c5d3aacc5e277d1a27a9397c3f1a968fbc7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T16:41:09-04:00"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7652742",
-    "job_title": "Internal Audit Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "In-Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7652742?gh_jid=7652742",
-    "job_posted_at_datetime_utc": "2026-03-31T16:38:55-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b082658540e72da6f98d6e5eb1eccee2fe9cdb6c6c1854607616f4a07aa3f889",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T16:38:55-04:00"
   }
 ]
