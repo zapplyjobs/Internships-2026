@@ -87,7 +87,7 @@
     "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
     "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
     "employer_name": "Logistics Management Institute",
-    "job_city": "Tysons",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -95,7 +95,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T03:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "54e3e19c9dde90b268d274d31c3bd789424eb1bdfa38adcf17ed52895849eeb9",
+    "fingerprint": "c0975b776f84f548d99c6d54de069e7f15324f9c9c271d0eaeb1778078af6ab9",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3676,7 +3676,7 @@
     "job_id": "js-cumberland-farms-ozfi879ctpucgrsgaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "Cumberland Farms",
-    "job_city": "Westborough",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -3684,7 +3684,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T13:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "89690c8e0635f1d7047066d64f37cf3d9556d071c3683cc73e6b6f2e7ff6b8aa",
+    "fingerprint": "953f0545960844572a40293c49f48b9b77cde2a7c7faef11a667991be628bd4a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3759,10 +3759,39 @@
     "job_posted_at": "2026-04-05T21:50:26-04:00"
   },
   {
+    "job_id": "js-mayo-clinic-advyu_o5xaouwvg1aaaaaa==",
+    "job_title": "Intern Data Science AI&I (Bachelors degree level)",
+    "employer_name": "Mayo Clinic",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.mayoclinic.org/job/rochester/intern-data-science-ai-and-i-bachelors-degree-level/33647/93659153744",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "0ac124490a9df2a61f20a282f419cf9e47ca24123d2c252a7b14e53e0b57ea03",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-null-auto-club-of-southern-calif-5dosbnptpzqxsy5faaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "null, Auto Club Of Southern Calif",
-    "job_city": "Costa Mesa",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -3770,7 +3799,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "8274e6b72a0904481a72b019e90dc230ebb5633b56b38930b613400fae75c960",
+    "fingerprint": "f7f3d80a30ad96fca6f8f91d24ccda312387b82385a4fb5649e5c9d3142826ed",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3791,7 +3820,7 @@
     "job_id": "js-shake-shack-_yz0gcbu5sfmlwzvaaaaaa==",
     "job_title": "Intern - Data Science",
     "employer_name": "Shake Shack",
-    "job_city": "Atlanta",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -3799,7 +3828,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
     "job_employment_type": "PART-TIME",
     "salary": null,
-    "fingerprint": "10075366388648954c11a7603ad0dca23c2ed59e5ea20c86d2ba8e822eb49d14",
+    "fingerprint": "f30465b5f9b69ab90074e23efdc4151214b9f264456c5eae9885201563e8a1f2",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3862,35 +3891,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-mayo-clinic-advyu_o5xaouwvg1aaaaaa==",
-    "job_title": "Intern Data Science AI&I (Bachelors degree level)",
-    "employer_name": "Mayo Clinic",
-    "job_city": "Rochester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.mayoclinic.org/job/rochester/intern-data-science-ai-and-i-bachelors-degree-level/33647/93659153744",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "327eb20479e654e0e0e72b84e8d4bbc92655cc71a7265be5d62e58f022dc7186",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -5706,62 +5706,6 @@
     "job_posted_at": "2026-04-03T07:02:06.631Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237150",
-    "job_title": "Cyber Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Cyber-Intern_R0237150",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c693d90c67501f6b815685c8d69d515726dfa5dae4459cffedb2cea227c5be62",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237140",
-    "job_title": "Cyber Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Cyber-Intern_R0237140",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c693d90c67501f6b815685c8d69d515726dfa5dae4459cffedb2cea227c5be62",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237149",
     "job_title": "Systems Administrator Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -5802,6 +5746,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "14d5e21f4c0717cb772dcc05c4919c5b902ac856178e996128e2f54ade47dec5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237150",
+    "job_title": "Cyber Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Cyber-Intern_R0237150",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c693d90c67501f6b815685c8d69d515726dfa5dae4459cffedb2cea227c5be62",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237140",
+    "job_title": "Cyber Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Cyber-Intern_R0237140",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c693d90c67501f6b815685c8d69d515726dfa5dae4459cffedb2cea227c5be62",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8171,34 +8171,6 @@
     "job_posted_at": "2026-04-02T07:03:26.657Z"
   },
   {
-    "job_id": "workday-kbr-R2121145",
-    "job_title": "Space Suit Production Logistics Internship Summer 2026",
-    "employer_name": "KBR",
-    "job_city": "Webster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Space-Suit-Production-Logistics-Internship-Summer-2026_R2121145",
-    "job_posted_at_datetime_utc": "2026-04-02T07:03:22.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bddafd930df55d93b62bf7030f31385795bd320013b0b2ef7ee39788472af398",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:03:22.981Z"
-  },
-  {
     "job_id": "workday-kbr-R2121279",
     "job_title": "Electrical Engineer Intern - Summer 2026",
     "employer_name": "KBR",
@@ -8243,6 +8215,34 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:03:22.981Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121145",
+    "job_title": "Space Suit Production Logistics Internship Summer 2026",
+    "employer_name": "KBR",
+    "job_city": "Webster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Space-Suit-Production-Logistics-Internship-Summer-2026_R2121145",
+    "job_posted_at_datetime_utc": "2026-04-02T07:03:22.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bddafd930df55d93b62bf7030f31385795bd320013b0b2ef7ee39788472af398",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -10279,39 +10279,6 @@
     "job_posted_at": "2026-04-01T20:44:13.539Z"
   },
   {
-    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
-    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:13.190Z"
-  },
-  {
     "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
     "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
     "employer_name": "Hermeus",
@@ -10333,6 +10300,39 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:13.190Z"
+  },
+  {
+    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
+    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us"
@@ -12492,62 +12492,6 @@
     "job_posted_at": "2026-04-01T07:03:22.106Z"
   },
   {
-    "job_id": "workday-moog-R-26-16887",
-    "job_title": "Intern, Design Engineering",
-    "employer_name": "Moog",
-    "job_city": "Arvada",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Arvada-CO/Intern--Design-Engineering_R-26-16887",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:15.302Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44a5ccfb7f6e95f3d94a481b4d8963d11aead9ff19d92bd26e13c2581b082b3e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:15.302Z"
-  },
-  {
-    "job_id": "workday-moog-R-26-16875",
-    "job_title": "Intern, Manufacturing & Industrial Engineering",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-16875",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:15.302Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61f58abd3868fc817527a81d8895790454704e1b0895176f62a8fac4e5fb69c9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:15.302Z"
-  },
-  {
     "job_id": "workday-moog-R-26-16779",
     "job_title": "Intern, Operations",
     "employer_name": "Moog",
@@ -12744,6 +12688,62 @@
     "job_posted_at": "2026-04-01T07:03:15.302Z"
   },
   {
+    "job_id": "workday-moog-R-26-16887",
+    "job_title": "Intern, Design Engineering",
+    "employer_name": "Moog",
+    "job_city": "Arvada",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Arvada-CO/Intern--Design-Engineering_R-26-16887",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:15.302Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44a5ccfb7f6e95f3d94a481b4d8963d11aead9ff19d92bd26e13c2581b082b3e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:15.302Z"
+  },
+  {
+    "job_id": "workday-moog-R-26-16875",
+    "job_title": "Intern, Manufacturing & Industrial Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-16875",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:15.302Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61f58abd3868fc817527a81d8895790454704e1b0895176f62a8fac4e5fb69c9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:15.302Z"
+  },
+  {
     "job_id": "workday-moog-R-25-13655",
     "job_title": "Intern, Product Engineering",
     "employer_name": "Moog",
@@ -12913,62 +12913,6 @@
     "job_posted_at": "2026-04-01T07:02:53.298Z"
   },
   {
-    "job_id": "workday-ge-aerospace-R5032037",
-    "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5032037-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c862dbd41b9a9c9ad0bf7bee2c8c60e17822ef6e3746e5a17f18188e3d734093",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
-    "job_id": "workday-ge-aerospace-R5032035",
-    "job_title": "Military DoD SkillBridge Internship - Test Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician_R5032035",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
     "job_id": "workday-ge-aerospace-R5032038",
     "job_title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
     "employer_name": "GE Aerospace",
@@ -13009,6 +12953,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1003b8eaddeecb63a9f6bfc9010529b81d9c00971e863a377104bed8fc908757",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032037",
+    "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5032037-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c862dbd41b9a9c9ad0bf7bee2c8c60e17822ef6e3746e5a17f18188e3d734093",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032035",
+    "job_title": "Military DoD SkillBridge Internship - Test Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician_R5032035",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13911,7 +13911,7 @@
     "job_id": "js-ametek-inc-jrgwgrzlt5ru7bppaaaaaa==",
     "job_title": "Data Science and AI Intern",
     "employer_name": "Ametek, Inc.",
-    "job_city": "San Diego",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -13919,7 +13919,36 @@
     "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
     "job_employment_type": "FULL-TIME AND INTERNSHIP",
     "salary": null,
-    "fingerprint": "648500c53004e1798660ecdc1bf2a24089bb72984dc8ac9f517969f3ee558a06",
+    "fingerprint": "874e01c48013aa409430ba5fb8f8589216caed0db95154999a848ce24f8c9743",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-trane-technologies-bqszjdyfweodltvzaaaaaa==",
+    "job_title": "2026 Analytics & Data Science Intern",
+    "employer_name": "trane technologies",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502557/2026-Analytics-Data-Science-Intern",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9a1ac834327c66c7f468dbcacee6d2d7fa8b9a497ba9c43a3531af6d2ed00a28",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -14069,35 +14098,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-trane-technologies-bqszjdyfweodltvzaaaaaa==",
-    "job_title": "2026 Analytics & Data Science Intern",
-    "employer_name": "trane technologies",
-    "job_city": "Davidson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502557/2026-Analytics-Data-Science-Intern",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9dc3f634f46c55d05e018689574be44808610f3636043363c9df3da1afd31499",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
