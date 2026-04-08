@@ -2968,7 +2968,7 @@
     "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
     "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
     "employer_name": "Logistics Management Institute",
-    "job_city": "Tysons",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -2976,7 +2976,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T03:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "54e3e19c9dde90b268d274d31c3bd789424eb1bdfa38adcf17ed52895849eeb9",
+    "fingerprint": "c0975b776f84f548d99c6d54de069e7f15324f9c9c271d0eaeb1778078af6ab9",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3079,22 +3079,51 @@
     "job_posted_at": "2026-04-07T00:33:56.757Z"
   },
   {
-    "job_id": "js-bae-systems-4gybwow2nyxjbuzqaaaaaa==",
-    "job_title": "Software Engineering Intern III, Summer 2026",
-    "employer_name": "BAE Systems",
+    "job_id": "js-fortive-tlbtvflxvdvuvk-raaaaaa==",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "Fortive",
     "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118009BR/Software-Engineering-Intern-III-Summer-2026",
+    "job_apply_link": "https://fortive.eightfold.ai/careers/job/893394407700-data-scientist-intern-minneapolis-mn-united-states?domain=fortive.com",
     "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "cd66a0a839aebcad9da13125c2987e8400f6676b51ef4e547c1567630e6b673c",
+    "fingerprint": "b402344218c0d26fe24e734391cb8aacfa74b0fd9bff1d6ba37ce5b39cbd58c8",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software"
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-boehringerprd-bodbyypv1oqozeiraaaaaa==",
+    "job_title": "Fall Co-Op, Clinical Data Science - Statistics",
+    "employer_name": "BoehringerPRD",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-Fall-Co-Op%2C-Clinical-Data-Science-Statistics-Unit/1381402733/",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "cf94f98cec29021d530a1b321b5301e7209ed03d537156ccfe989ec244246c73",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
       ],
       "locations": [
         "us",
@@ -3182,64 +3211,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-fortive-tlbtvflxvdvuvk-raaaaaa==",
-    "job_title": "Data Scientist Intern",
-    "employer_name": "Fortive",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://fortive.eightfold.ai/careers/job/893394407700-data-scientist-intern-minneapolis-mn-united-states?domain=fortive.com",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b5150338af09f45c8db3782b4f36a8ffd3ec6e9cbc3df2883bd66fd09ddfcf2d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-boehringerprd-bodbyypv1oqozeiraaaaaa==",
-    "job_title": "Fall Co-Op, Clinical Data Science - Statistics",
-    "employer_name": "BoehringerPRD",
-    "job_city": "Ridgefield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-Fall-Co-Op%2C-Clinical-Data-Science-Statistics-Unit/1381402733/",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "8ef97b48842c6bc6b7916522c4706cbc22cd054debbb9a1c68393d950d03e2c8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -5126,118 +5097,6 @@
     "job_posted_at": "2026-04-06T19:04:23.348Z"
   },
   {
-    "job_id": "workday-caci-324469",
-    "job_title": "Configuration Management Co-op/Intern - Summer & Fall 2026",
-    "employer_name": "CACI",
-    "job_city": "US CT Danbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Configuration-Management-Co-op-Intern---Summer---Fall-2026_324469",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cfbe8223915252f09945e6c158c8d8cfdd09a922d3b1f6cb2a9b0dd126909d90",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
-    "job_id": "workday-caci-324464",
-    "job_title": "Accounting Intern - Year Round",
-    "employer_name": "CACI",
-    "job_city": "US CT Danbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Accounting-Intern---Year-Round_324464",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bfa596d94ce48575fb4a3f131b157f05870d8d7aee8a5897af6328d752e19a42",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
-    "job_id": "workday-caci-324471",
-    "job_title": "Software Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US MI Ypsilanti",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "266b1e5b97ac6facfe4e48baf2cd7de4121bb23295604b396312e53360a5d539",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
-    "job_id": "workday-caci-324266",
-    "job_title": "Contracts Intern - Year Round",
-    "employer_name": "CACI",
-    "job_city": "US CT Danbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Contracts-Intern---Year-Round_324266",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c311ad578cec5fc9691aa28ca167c673c6734e8eff0f393d525d71242e2b2261",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
     "job_id": "workday-caci-324278",
     "job_title": "Communications and Signal Processing Engineering Intern - Summer 2026",
     "employer_name": "CACI",
@@ -5453,6 +5312,118 @@
       "domains": [
         "software",
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324469",
+    "job_title": "Configuration Management Co-op/Intern - Summer & Fall 2026",
+    "employer_name": "CACI",
+    "job_city": "US CT Danbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Configuration-Management-Co-op-Intern---Summer---Fall-2026_324469",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfbe8223915252f09945e6c158c8d8cfdd09a922d3b1f6cb2a9b0dd126909d90",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324464",
+    "job_title": "Accounting Intern - Year Round",
+    "employer_name": "CACI",
+    "job_city": "US CT Danbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Accounting-Intern---Year-Round_324464",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bfa596d94ce48575fb4a3f131b157f05870d8d7aee8a5897af6328d752e19a42",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324471",
+    "job_title": "Software Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US MI Ypsilanti",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "266b1e5b97ac6facfe4e48baf2cd7de4121bb23295604b396312e53360a5d539",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324266",
+    "job_title": "Contracts Intern - Year Round",
+    "employer_name": "CACI",
+    "job_city": "US CT Danbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Contracts-Intern---Year-Round_324266",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c311ad578cec5fc9691aa28ca167c673c6734e8eff0f393d525d71242e2b2261",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -7279,6 +7250,64 @@
     "job_posted_at": "2026-04-05T07:03:00.934Z"
   },
   {
+    "job_id": "js-mayo-clinic-advyu_o5xaouwvg1aaaaaa==",
+    "job_title": "Intern Data Science AI&I (Bachelors degree level)",
+    "employer_name": "Mayo Clinic",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.mayoclinic.org/job/rochester/intern-data-science-ai-and-i-bachelors-degree-level/33647/93659153744",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "0ac124490a9df2a61f20a282f419cf9e47ca24123d2c252a7b14e53e0b57ea03",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-shake-shack-_yz0gcbu5sfmlwzvaaaaaa==",
+    "job_title": "Intern - Data Science",
+    "employer_name": "Shake Shack",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.shakeshack.com/intern-data-science/job/PAF-SS-D18F239C-3F4C-4F86-AAE6-C55BE7FF26DE_26633_1774304113_0",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "f30465b5f9b69ab90074e23efdc4151214b9f264456c5eae9885201563e8a1f2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
     "job_id": "js-caci-cr6dbq97biqpnygpaaaaaa==",
     "job_title": "Software Engineering Intern - Summer 2026",
     "employer_name": "CACI",
@@ -7441,64 +7470,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-mayo-clinic-advyu_o5xaouwvg1aaaaaa==",
-    "job_title": "Intern Data Science AI&I (Bachelors degree level)",
-    "employer_name": "Mayo Clinic",
-    "job_city": "Rochester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.mayoclinic.org/job/rochester/intern-data-science-ai-and-i-bachelors-degree-level/33647/93659153744",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "327eb20479e654e0e0e72b84e8d4bbc92655cc71a7265be5d62e58f022dc7186",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-shake-shack-_yz0gcbu5sfmlwzvaaaaaa==",
-    "job_title": "Intern - Data Science",
-    "employer_name": "Shake Shack",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.shakeshack.com/intern-data-science/job/PAF-SS-D18F239C-3F4C-4F86-AAE6-C55BE7FF26DE_26633_1774304113_0",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "10075366388648954c11a7603ad0dca23c2ed59e5ea20c86d2ba8e822eb49d14",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -11759,18 +11730,18 @@
     "job_posted_at": "2026-04-02T07:04:22.901Z"
   },
   {
-    "job_id": "workday-leidos-R-00179868",
-    "job_title": "Systems Engineering Intern",
+    "job_id": "workday-leidos-R-00179877",
+    "job_title": "Software Engineer Intern",
     "employer_name": "Leidos",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "job_city": "Morgantown",
+    "job_state": "WV",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineering-Intern_R-00179868-1",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/Software-Engineer-Intern_R-00179877",
     "job_posted_at_datetime_utc": "2026-04-02T07:03:32.341Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "39cedcea64a6505f3f4c118d08596350410c1ff66cf97bbbc8df7deb2c87b396",
+    "fingerprint": "c78b78ea6d2c29aeff56b2a3b4f41e8fd2013ed21d064366a254830cc87c845f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11787,18 +11758,18 @@
     "job_posted_at": "2026-04-02T07:03:32.341Z"
   },
   {
-    "job_id": "workday-leidos-R-00179877",
-    "job_title": "Software Engineer Intern",
+    "job_id": "workday-leidos-R-00179868",
+    "job_title": "Systems Engineering Intern",
     "employer_name": "Leidos",
-    "job_city": "Morgantown",
-    "job_state": "WV",
+    "job_city": "Arlington",
+    "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/Software-Engineer-Intern_R-00179877",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineering-Intern_R-00179868-1",
     "job_posted_at_datetime_utc": "2026-04-02T07:03:32.341Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c78b78ea6d2c29aeff56b2a3b4f41e8fd2013ed21d064366a254830cc87c845f",
+    "fingerprint": "39cedcea64a6505f3f4c118d08596350410c1ff66cf97bbbc8df7deb2c87b396",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -12740,6 +12711,94 @@
     "job_posted_at": "2026-04-01T20:30:30-04:00"
   },
   {
+    "job_id": "js-spectrum-hhza_g6oo60ns_ataaaaaa==",
+    "job_title": "2026 Summer Intern: Associate Data Scientist",
+    "employer_name": "Spectrum",
+    "job_city": "Darien",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.themuse.com/jobs/spectrum/2026-summer-intern-associate-data-scientist-cc272a",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "05a9cf7c185c1d65f4c54006d7f4327bf6e7e47c48da7c4839aa9039b7e568db",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-red-alpha-js8y2c2_jxgusavjaaaaaa==",
+    "job_title": "Data Science Intern (Graduate Student) - Summer 2026",
+    "employer_name": "Red Alpha",
+    "job_city": "Columbia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.jobvite.com/redalpha/job/oZAVzfwN",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a1bb6fa20f262e16c58a137c89f5590abd6580d55fbf28d9e6732bc57680c9f5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "netflix-790315177455",
+    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
+    "employer_name": "Netflix",
+    "job_city": "Los Angeles",
+    "job_state": "California",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "netflix",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
     "job_id": "js-parsons-dqfsg6xcfcri5zcwaaaaaa==",
     "job_title": "Software Engineering Intern (Summer 2026)",
     "employer_name": "Parsons",
@@ -12824,36 +12883,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "netflix-790315177455",
-    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
-    "employer_name": "Netflix",
-    "job_city": "Los Angeles",
-    "job_state": "California",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "netflix",
     "job_posted_at": "2026-04-02T00:00:00.000Z"
   },
   {
@@ -13194,64 +13223,6 @@
       "employment": "internship",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-spectrum-hhza_g6oo60ns_ataaaaaa==",
-    "job_title": "2026 Summer Intern: Associate Data Scientist",
-    "employer_name": "Spectrum",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.themuse.com/jobs/spectrum/2026-summer-intern-associate-data-scientist-cc272a",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a34ffb42f4d1ba73fe4f9be7686d516619e94dd7bbe0bad7887f193da3654c4d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-red-alpha-js8y2c2_jxgusavjaaaaaa==",
-    "job_title": "Data Science Intern (Graduate Student) - Summer 2026",
-    "employer_name": "Red Alpha",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.jobvite.com/redalpha/job/oZAVzfwN",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "0f9e29cfb438b6a1e1edbc889d699c1f2d386ddeca7d05ee3c5ef92841f647b0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -17384,179 +17355,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-04-01T04:16:33.788Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7760450",
-    "job_title": "Sales Bootcamp Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "In-Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7760450?gh_jid=7760450",
-    "job_posted_at_datetime_utc": "2026-03-31T23:04:27-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1a50b8eb33ac0b11d6accae322fa0e75d1afee39770bfa4cca031704257c9af8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T23:04:27-04:00"
-  },
-  {
-    "job_id": "lever-hermeus-a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67",
-    "job_title": "Human Machine Interface (HMI) Software Engineering Intern  - Fall 2026",
-    "employer_name": "Hermeus",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T03:02:00.692Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 22,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "4f4f5d49ee3d6c8b61324316b2fb1ea793d6bcf708fa9ebda3615b248f55007a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T03:02:00.692Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7368864",
-    "job_title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7368864",
-    "job_posted_at_datetime_utc": "2026-03-31T23:01:31-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4151b69ee9fd1a884143d418c6aecbbacda094d62d37f6399716b0fe6816c013",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T23:01:31-04:00"
-  },
-  {
-    "job_id": "greenhouse-waymo-7296694",
-    "job_title": "2026 Summer Intern, MS/PhD, ML Runtime and Deployment",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7296694",
-    "job_posted_at_datetime_utc": "2026-03-31T23:01:30-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5f3619e70a3a34d0b1c94680879fec2b60ddd1913715a85f90eca7211714745c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T23:01:30-04:00"
-  },
-  {
-    "job_id": "greenhouse-waymo-7252833",
-    "job_title": "2026 Intern, PhD, Machine Learning Engineer, Simulation",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7252833",
-    "job_posted_at_datetime_utc": "2026-03-31T23:01:29-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d119627fbe21d462edfa8532c468c7dde8e33e13203a3846b6536ba6fed6c3c3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T23:01:29-04:00"
-  },
-  {
-    "job_id": "greenhouse-waymo-7249409",
-    "job_title": "2026 Summer Intern, BS/MS, Software Engineering, Simulation",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7249409",
-    "job_posted_at_datetime_utc": "2026-03-31T23:01:29-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7998262db21813e1e74e63a9396a0b985c283f5bc4de65efc3de5013c20b2d8d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T23:01:29-04:00"
   }
 ]
