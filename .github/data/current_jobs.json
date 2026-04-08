@@ -1072,6 +1072,34 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
+    "job_id": "workday-sel-2026-20327",
+    "job_title": "Human Resources Intern - Immigration",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern---Immigration_2026-20327",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "628511c956617b5439b261935bebf60274bab743ebc82f1d49d3ff58b9946403",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20280",
     "job_title": "Process Engineering Intern",
     "employer_name": "SEL",
@@ -1370,34 +1398,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20327",
-    "job_title": "Human Resources Intern - Immigration",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern---Immigration_2026-20327",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "628511c956617b5439b261935bebf60274bab743ebc82f1d49d3ff58b9946403",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
       ],
       "locations": [
         "us"
@@ -6314,34 +6314,6 @@
     "job_posted_at": "2026-04-06T07:08:22.901Z"
   },
   {
-    "job_id": "workday-rtx-01835715",
-    "job_title": "Intern 2026 - Financial Planning & Analysis - Hot Section Module Center - Asheville (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "NC-ASHEVILLE-330 ~ 330 Pratt Whitney Blvd ~ PRATT WHITNEY",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-ASHEVILLE-330--330-Pratt-Whitney-Blvd--PRATT-WHITNEY/Intern-2026---Financial-Planning---Analysis---Hot-Section-Module-Center---Asheville--Onsite-_01835715",
-    "job_posted_at_datetime_utc": "2026-04-06T07:08:21.069Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "00d8f1e00bc209640d6a23b3f3a850dfa36d00e5c4e91ca3fa1edec3261c0e27",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:08:21.069Z"
-  },
-  {
     "job_id": "workday-rtx-01835321",
     "job_title": "Systems Engineering Intern (Summer 2026) (Onsite)",
     "employer_name": "RTX",
@@ -6358,6 +6330,34 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:08:21.069Z"
+  },
+  {
+    "job_id": "workday-rtx-01835715",
+    "job_title": "Intern 2026 - Financial Planning & Analysis - Hot Section Module Center - Asheville (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "NC-ASHEVILLE-330 ~ 330 Pratt Whitney Blvd ~ PRATT WHITNEY",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-ASHEVILLE-330--330-Pratt-Whitney-Blvd--PRATT-WHITNEY/Intern-2026---Financial-Planning---Analysis---Hot-Section-Module-Center---Asheville--Onsite-_01835715",
+    "job_posted_at_datetime_utc": "2026-04-06T07:08:21.069Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "00d8f1e00bc209640d6a23b3f3a850dfa36d00e5c4e91ca3fa1edec3261c0e27",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -15613,90 +15613,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-01T18:43:27.061Z"
-  },
-  {
-    "job_id": "js-jacobs-nwkklhdf3m8pkfocaaaaaa==",
-    "job_title": "Electrical Engineering Intern",
-    "employer_name": "Jacobs",
-    "job_city": "Conshohocken",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.trabajo.org/job-4112-f1b1a9e9eed82f047d571eb8c6d56310",
-    "job_posted_at_datetime_utc": "2026-04-01T18:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "3f22abcb95049e4a4aa23b2d765b47f29294935488fdf4a7845f06bc70c0912d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T18:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-audaxgroup-4649036005",
-    "job_title": "Data Engineer, Business Solutions Co-Op",
-    "employer_name": "Audax Group",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/audaxgroup/jobs/4649036005",
-    "job_posted_at_datetime_utc": "2026-04-01T13:47:05-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "73bf4d23455bcc0920ae49c3627a5936230072e31ed076fd7f685a2c77a97936",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-01T13:47:05-04:00"
-  },
-  {
-    "job_id": "greenhouse-audaxgroup-4648954005",
-    "job_title": "IT Operations Co-Op",
-    "employer_name": "Audax Group",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/audaxgroup/jobs/4648954005",
-    "job_posted_at_datetime_utc": "2026-04-01T13:47:05-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc5a10e36907c4dfadd9e83e7fd79a8153e3c03c869321f636c42dfea1a6484a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-01T13:47:05-04:00"
   }
 ]
