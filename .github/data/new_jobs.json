@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-jabil-J2445298",
+    "job_title": "Engineering Intern",
+    "employer_name": "Jabil",
+    "job_city": "Monument",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Engineering-Intern_J2445298",
+    "job_posted_at_datetime_utc": "2026-04-09T19:17:02.290Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bca7d895d69935e9692845a4a7254d190ccac05bbebeb305cb891c2df4764bda",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T19:17:02.290Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01328070",
     "job_title": "Systems Integration and Test Engineering Intern",
     "employer_name": "Thermo Fisher Scientific",
@@ -202,15 +230,15 @@
     "job_id": "workday-proofpoint-R13963",
     "job_title": "AI Intern",
     "employer_name": "Proofpoint",
-    "job_city": "2 Locations",
-    "job_state": "",
+    "job_city": "Draper",
+    "job_state": "UT",
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/AI-Intern_R13963",
     "job_posted_at_datetime_utc": "2026-04-09T18:19:30.800Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c9b3ae2e0b29e55dc53e6600efaffbf4d0fc0973001320f487cf6e1109e1f263",
+    "fingerprint": "0dbbace8977f4da09c9c2adc118438cbd6e260233ce156615c3ed62c8449d520",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -287,7 +315,7 @@
     "job_id": "workday-cisco-2000041",
     "job_title": "Hardware Engineer I (Co-op) - United States",
     "employer_name": "Cisco",
-    "job_city": "3 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -295,7 +323,7 @@
     "job_posted_at_datetime_utc": "2026-04-09T18:05:54.639Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "639ee8e0e1523b9bebd705796fa40c3ef45c4579375e343fed1d7d94477a0414",
+    "fingerprint": "dcabd70b84b7557e7d71947ea18cb3a701f3deb490f96dd18b1cea0e7ab56f85",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -1395,7 +1423,7 @@
     "job_id": "workday-applied-materials-R2616917",
     "job_title": "Data Science / Optimization Intern",
     "employer_name": "Applied Materials",
-    "job_city": "2 Locations",
+    "job_city": "Santa ClaraCA",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -1403,7 +1431,7 @@
     "job_posted_at_datetime_utc": "2026-04-08T21:46:55.193Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e525882fce35ccce2ed0976e280f6dc7a2136abceb5efe0b584c851d942d589c",
+    "fingerprint": "70406055cbccc136581f39de0631d096d9287e6e51bb62ae83310ffc74a617e9",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -1794,18 +1822,18 @@
     "job_posted_at": "2026-04-08T19:46:30.536Z"
   },
   {
-    "job_id": "workday-disney-10147297",
-    "job_title": "Labor Relations Intern - Orlando, Fall 2026",
+    "job_id": "workday-disney-10148095",
+    "job_title": "Labor Relations Intern - Anaheim, Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Lake Buena Vista",
-    "job_state": "FL",
+    "job_city": "Anaheim",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Relations-Intern---Orlando--Fall-2026_10147297",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Labor-Relations-Intern---Anaheim--Fall-2026_10148095",
     "job_posted_at_datetime_utc": "2026-04-08T19:44:36.493Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9262603dcef97ea45f5395146f1839ff7feb9cc431be29fd0f64da4bc5b664a1",
+    "fingerprint": "c5aa5030ac30b984de4cea08dc68e9f942a5b282e508c89491d471d320312604",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -1822,18 +1850,18 @@
     "job_posted_at": "2026-04-08T19:44:36.493Z"
   },
   {
-    "job_id": "workday-disney-10148095",
-    "job_title": "Labor Relations Intern - Anaheim, Fall 2026",
+    "job_id": "workday-disney-10147297",
+    "job_title": "Labor Relations Intern - Orlando, Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Anaheim",
-    "job_state": "CA",
+    "job_city": "Lake Buena Vista",
+    "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Labor-Relations-Intern---Anaheim--Fall-2026_10148095",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Relations-Intern---Orlando--Fall-2026_10147297",
     "job_posted_at_datetime_utc": "2026-04-08T19:44:36.493Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c5aa5030ac30b984de4cea08dc68e9f942a5b282e508c89491d471d320312604",
+    "fingerprint": "9262603dcef97ea45f5395146f1839ff7feb9cc431be29fd0f64da4bc5b664a1",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -2078,7 +2106,7 @@
     "job_id": "workday-cisco-2000247",
     "job_title": "Project Specialist I (Intern) United States",
     "employer_name": "Cisco",
-    "job_city": "5 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -2086,7 +2114,7 @@
     "job_posted_at_datetime_utc": "2026-04-08T18:32:45.200Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "510d58c9257158a8ea6c927f32c547e2ac898bc4c5be0afc54667efbfce48552",
+    "fingerprint": "c37b3bd34be59248cf4ab01ddc10527f7acadc3f73e861b0151a466c6bac5aa3",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3209,7 +3237,7 @@
     "job_id": "workday-cisco-2002648",
     "job_title": "Data Science Analyst I (Intern) United States",
     "employer_name": "Cisco",
-    "job_city": "3 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -3217,7 +3245,7 @@
     "job_posted_at_datetime_utc": "2026-04-08T14:18:23.778Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a911c89218a09057ff1cb82de816af750a0032afcd976a62805452fbc8ea95ec",
+    "fingerprint": "b35e47a75ee78f977d8e7d623aa4711f540500643a6fe654e13a4ed93a7010c0",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4371,7 +4399,7 @@
     "job_id": "workday-analog-devices-R257656",
     "job_title": "AI/ML Researcher Intern - Co-op",
     "employer_name": "Analog Devices",
-    "job_city": "2 Locations",
+    "job_city": "US MA Boston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -4379,7 +4407,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T16:32:32.914Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ec8598bf919b7cf7e70d6216ccea73f3015e9c077347568f25361c7cd8f054c8",
+    "fingerprint": "d8fa439214509af7bdcbc0a93aa0325261abea869689b66ff39e8f0d590eb888",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4741,15 +4769,15 @@
     "job_id": "workday-t.-rowe-price-80630",
     "job_title": "Equity Research Internship Opportunity – Summer 2027",
     "employer_name": "T. Rowe Price",
-    "job_city": "2 Locations",
-    "job_state": "",
+    "job_city": "Baltimore",
+    "job_state": "MD",
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Equity-Research-Internship-Opportunity---Summer-2027_80630",
     "job_posted_at_datetime_utc": "2026-04-07T07:08:46.325Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7eb4f75494e18b09bc20c031c7674441cd4de25a08427ba788e014553cfa1ddb",
+    "fingerprint": "bc5d271ce521211e92fb4139bbb0237f1a02cfb4026400d198e5950d77b735e3",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5186,62 +5214,6 @@
     "job_posted_at": "2026-04-07T07:06:54.748Z"
   },
   {
-    "job_id": "workday-jabil-J2437711",
-    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
-    "employer_name": "Jabil",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
-    "job_id": "workday-jabil-J2444715",
-    "job_title": "Financial Reporting Intern (Consolidations)",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
     "job_id": "workday-jabil-J2445379",
     "job_title": "Talent Acquisition Intern",
     "employer_name": "Jabil",
@@ -5342,6 +5314,62 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2437711",
+    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
+    "employer_name": "Jabil",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2444715",
+    "job_title": "Financial Reporting Intern (Consolidations)",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -5496,90 +5524,6 @@
     "job_posted_at": "2026-04-07T07:06:44.697Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067039",
-    "job_title": "Electrical Engineer Co-op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067610",
-    "job_title": "Customer Service and Channel Ops Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Customer-Service-and-Channel-Ops-Co-Op_R-067610",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "903c59ee98a506a496ca94ab1a6d3dd74967ccd556b68671e8ffb4f4a4b75b63",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068293",
-    "job_title": "Offer Development Analyst Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/West-Chester-Pennsylvania-United-States-of-America/Offer-Development-Analyst-Co-Op_R-068293",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c414bffdcc66017e1330bda856a7d75d55b3d4229ed9469be020b5d56e2eca0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-063875",
     "job_title": "Engineering Co-op",
     "employer_name": "Johnson & Johnson",
@@ -5680,6 +5624,90 @@
       "employment": "internship",
       "domains": [
         "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067039",
+    "job_title": "Electrical Engineer Co-op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067610",
+    "job_title": "Customer Service and Channel Ops Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Customer-Service-and-Channel-Ops-Co-Op_R-067610",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "903c59ee98a506a496ca94ab1a6d3dd74967ccd556b68671e8ffb4f4a4b75b63",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068293",
+    "job_title": "Offer Development Analyst Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/West-Chester-Pennsylvania-United-States-of-America/Offer-Development-Analyst-Co-Op_R-068293",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c414bffdcc66017e1330bda856a7d75d55b3d4229ed9469be020b5d56e2eca0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -5836,7 +5864,7 @@
     "job_id": "workday-caterpillar-R0000346878",
     "job_title": "2026 Summer Corporate Intern - Business Operations",
     "employer_name": "Caterpillar",
-    "job_city": "7 Locations",
+    "job_city": "Peoria Illinois",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -5844,7 +5872,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T07:05:58.394Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9cc22f676af16ebb49a55fbdd4fded313ddaa3184f6d3616c6ede64328f788c6",
+    "fingerprint": "a8efad5792f111f65437d951f14e76bf6546736fb885c3662d8d08fa9d7e2249",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6061,7 +6089,7 @@
     "job_id": "workday-cisco-2000450",
     "job_title": "Software Engineer Full Stack & Application Development I (Intern) – United States",
     "employer_name": "Cisco",
-    "job_city": "13 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -6069,7 +6097,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T07:05:48.392Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f27d8a62e3859a0a8ac95777a429ed1b7abac0e0366bac67d7520af348eb99ac",
+    "fingerprint": "bf801630a167a9acf6f028d844a5deb12b276e36bbcd968d6821d04a86d409f8",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6089,7 +6117,7 @@
     "job_id": "workday-cisco-2004562",
     "job_title": "Software Engineer Embedded/Network Systems I (Co-Op) - United States",
     "employer_name": "Cisco",
-    "job_city": "14 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -6097,7 +6125,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T07:05:48.392Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9b77ce2bf0d8f2d7107b8d8fd3dc78b5d311854d59c2bee5077a595cacdcd282",
+    "fingerprint": "efd2360e11cab87352b53f89132ab71194eb80d099a37e9e7c27bdca0facc431",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6169,34 +6197,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:05:47.126Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026503273",
-    "job_title": "Intern-Business Support",
-    "employer_name": "Boeing",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CHN---Shanghai-China/Intern-Business-Support_JR2026503273",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:35.736Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4a500c5416fb59aa9a5e15e66e6c9a3c404379f075ca982994d25e517c199ad",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:35.736Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0236822",
@@ -6367,6 +6367,34 @@
     "job_posted_at": "2026-04-07T07:05:14.221Z"
   },
   {
+    "job_id": "workday-applied-materials-R2614626",
+    "job_title": "AI Algorithm - Intern",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm---Intern_R2614626",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:05.090Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3c7350c1abd602a747ce33420388a198cc93964383f5abef565a9761e3b0eef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:05.090Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2616484",
     "job_title": "Technology Market Research Intern, Strategy and Operations- Master's (Santa Clara, CA)",
     "employer_name": "Applied Materials",
@@ -6412,34 +6440,6 @@
       "domains": [
         "ai",
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:05.090Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614626",
-    "job_title": "AI Algorithm - Intern",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm---Intern_R2614626",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:05.090Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3c7350c1abd602a747ce33420388a198cc93964383f5abef565a9761e3b0eef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -6974,90 +6974,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2026-19530",
-    "job_title": "Marketing Intern - SEO",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Operations-Intern_2026-19530",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "775a99d3ebb4b5006dcf3e24e3a7205a5febd9c5cb6f6d370acd2a45802198d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19760",
-    "job_title": "HR Recruiting Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/HR-Recruiting-Intern_2026-19760",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d77d027f91952a91a93f30054f146038858b1bdb466d2fd37fbbd123ee89ab7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19324",
-    "job_title": "Marketing Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Intern_2026-19324-1",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f7b10225b058a7b65084898dd05efd3a702a1df03f3f0c2a7fb2853d6bb9d19",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2025-18339",
     "job_title": "Drafter/ Designer Intern",
     "employer_name": "SEL",
@@ -7158,6 +7074,90 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19530",
+    "job_title": "Marketing Intern - SEO",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Operations-Intern_2026-19530",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "775a99d3ebb4b5006dcf3e24e3a7205a5febd9c5cb6f6d370acd2a45802198d1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19760",
+    "job_title": "HR Recruiting Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/HR-Recruiting-Intern_2026-19760",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d77d027f91952a91a93f30054f146038858b1bdb466d2fd37fbbd123ee89ab7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19324",
+    "job_title": "Marketing Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Intern_2026-19324-1",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f7b10225b058a7b65084898dd05efd3a702a1df03f3f0c2a7fb2853d6bb9d19",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
       ],
       "locations": [
         "us"
@@ -8991,7 +8991,7 @@
     "job_id": "workday-salesforce-JR337175",
     "job_title": "Summer 2026 Intern - Strategy & Change Management Intern",
     "employer_name": "Salesforce",
-    "job_city": "2 Locations",
+    "job_city": "Illinois Chicago",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -8999,7 +8999,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T07:08:25.127Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bd0654a1e8a86ad1b44f853336434c5f1ff8c964e53bb6d292ddcd955e8f99a2",
+    "fingerprint": "5a987ff9a54d4fc7d2bfc02606358a92bc86583a3348f99b952d5b3597974884",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9384,7 +9384,7 @@
     "job_id": "workday-micron-JR86988",
     "job_title": "Intern - Product Owner AI/Agentic Automation",
     "employer_name": "Micron",
-    "job_city": "2 Locations",
+    "job_city": "Boise ID Main Site",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -9392,7 +9392,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T07:07:02.919Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d23ae457505ba51b5bc080d6ab7f26232557eec763f59b457b449dfebbc1ae51",
+    "fingerprint": "ef3ad38ad4c12282e72658ec3ad7818ce173c7ea9882f9228a12c37b4d76fa69",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9691,18 +9691,18 @@
     "job_posted_at": "2026-04-06T07:06:36.691Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-062718",
-    "job_title": "Fall 2026 Quality Engineering Co-op",
+    "job_id": "workday-johnson-&-johnson-R-067622",
+    "job_title": "Chemical Engineering Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Cornelia",
+    "job_city": "Raritan",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Chemical-Engineering-Co-Op---Fall-2026_R-067622",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:34.837Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "76f7d5c425eb1011a91e02cd73fef36166e538c8a03c5b7df1928a93c8e62979",
+    "fingerprint": "4e8bf0aeef64c89adf15bab6ba98513039e7b23570112b1442c9ed3cfd2f4f48",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9719,18 +9719,18 @@
     "job_posted_at": "2026-04-06T07:06:34.837Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067622",
-    "job_title": "Chemical Engineering Co-Op - Fall 2026",
+    "job_id": "workday-johnson-&-johnson-R-062718",
+    "job_title": "Fall 2026 Quality Engineering Co-op",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
+    "job_city": "Cornelia",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Chemical-Engineering-Co-Op---Fall-2026_R-067622",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:34.837Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4e8bf0aeef64c89adf15bab6ba98513039e7b23570112b1442c9ed3cfd2f4f48",
+    "fingerprint": "76f7d5c425eb1011a91e02cd73fef36166e538c8a03c5b7df1928a93c8e62979",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9975,7 +9975,7 @@
     "job_id": "workday-cisco-2007170",
     "job_title": "Software Engineer I (Intern) - United States",
     "employer_name": "Cisco",
-    "job_city": "2 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -9983,7 +9983,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T07:05:43.465Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3af53eeceedfa5dae5a1fd8c60d4de8862eba8332ff0d8e871bbf0034ff3543b",
+    "fingerprint": "678b98fc2e30b6165151d9261801119f63492bf61fcdabcfede007e57b793da9",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13123,7 +13123,7 @@
     "job_id": "workday-salesforce-JR316308",
     "job_title": "Summer 2026 Intern- Tableau Research",
     "employer_name": "Salesforce",
-    "job_city": "2 Locations",
+    "job_city": "California Palo Alto",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -13131,7 +13131,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:04:36.844Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d5fd836fa15d8c0907ec23dab60d595c589392f47ed218dee0f1b8b2a01634e6",
+    "fingerprint": "76cc6ab862e6740ea70b9681d99c2ca043ed5e7442d8c04b403460412de74d77",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13543,7 +13543,7 @@
     "job_id": "workday-cisco-2012190",
     "job_title": "Technical Sales Engineer Intern (United States)",
     "employer_name": "Cisco",
-    "job_city": "13 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -13551,7 +13551,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:02:06.631Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b315914fa782c2898c981ba22de50ed582459ee265eab65067ee1b5e26ff8c52",
+    "fingerprint": "59fa6a6958768352f357b1b2dbba393e31e9142a41e50b5cd911ab6a3b4a096d",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13571,7 +13571,7 @@
     "job_id": "workday-cisco-2012189",
     "job_title": "Field Sales Intern (United States)",
     "employer_name": "Cisco",
-    "job_city": "14 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -13579,7 +13579,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:02:06.631Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1859374bff7dd7bdac7619f5df601366201b73ec32b48fffc6d9b1d32ba0e7fe",
+    "fingerprint": "89ab64a9693307275b750eebb7b69451fa1a15c5f870ee8ab0e2ab098fe2e144",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13740,7 +13740,7 @@
     "job_id": "workday-blue-origin-R55021",
     "job_title": "Summer 2026 Artificial Intelligence / Machine Learning Intern - Graduate Student",
     "employer_name": "Blue Origin",
-    "job_city": "3 Locations",
+    "job_city": "Greater Seattle Area",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -13748,7 +13748,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:01:51.863Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e7aa6e39fff075f274ce25ecf3a7647dba4f81f026fbe97b00563ebae31e974e",
+    "fingerprint": "3496604cfde2cdfd878f026222261e8f6167e6bb652cccb2b35234429666facb",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13769,7 +13769,7 @@
     "job_id": "workday-blue-origin-R54905",
     "job_title": "Summer 2026 Materials & Processes Intern- Graduate Student",
     "employer_name": "Blue Origin",
-    "job_city": "3 Locations",
+    "job_city": "Greater Seattle Area",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -13777,7 +13777,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:01:51.863Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "50e04552e9af0f4ea90028811549a38610d23699b5c04726d4d6787693f75521",
+    "fingerprint": "e538e97900bbb7338963c709a30c65cbf4aa1bc8de3e848fce754dd964c867a4",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13797,7 +13797,7 @@
     "job_id": "workday-blue-origin-R54906",
     "job_title": "Summer 2026 Materials & Processes Intern - Undergraduate",
     "employer_name": "Blue Origin",
-    "job_city": "3 Locations",
+    "job_city": "Greater Seattle Area",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -13805,7 +13805,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:01:51.863Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5b69a48b050c4b79bfdf9fb7606c0ae5964ace0369f0039abea5653dfabb1560",
+    "fingerprint": "e8b733dea78734526bef2f96de4d26e59317cff39dc18edab38b99ca59a0b2ba",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -14020,36 +14020,6 @@
       "employment": "internship",
       "domains": [
         "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
-    "job_title": "2026 Intern - Machine Learning Engineer",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "87e00c990da413f7a8eeef42b05a3ea4bcab7995b4a88301aff097aeac18ce19",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -14936,63 +14906,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-02T19:34:48.143Z"
-  },
-  {
-    "job_id": "sr-VeoliaEnvironnementSA-744000118487675",
-    "job_title": "Metering Intern",
-    "employer_name": "Veolia Environnement SA",
-    "job_city": "West Nyack",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118487675",
-    "job_posted_at_datetime_utc": "2026-04-02T19:30:31.067Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2483ab5fc676c742e75068b885258bdd76841b7efbee437ca4803df6c69396b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-02T19:30:31.067Z"
-  },
-  {
-    "job_id": "sr-RedBull-744000118486368",
-    "job_title": "2026 Internship, Summer - Youth Programs Education",
-    "employer_name": "Red Bull",
-    "job_city": "Harrison",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/RedBull/744000118486368",
-    "job_posted_at_datetime_utc": "2026-04-02T19:28:19.021Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "318730ace33d817a60da8ce23e6f4c7963d33788aaea1eceb876984859919565",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-02T19:28:19.021Z"
   }
 ]
