@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-trimble-R53800",
+    "job_title": "Manufacturer and Operations Specialist Intern",
+    "employer_name": "Trimble",
+    "job_city": "CA, San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-San-Diego/Manufacturer-and-Operations-Specialist-Intern_R53800",
+    "job_posted_at_datetime_utc": "2026-04-09T20:53:26.889Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e79bc8fd7ae6b08d44f5b77ed6fbee8029d403df33f5c63e06bfa7af4a89a8f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T20:53:26.889Z"
+  },
+  {
+    "job_id": "workday-intel-JR0282713",
+    "job_title": "EC Infra and DevOps Engineer Undergraduate Intern",
+    "employer_name": "Intel",
+    "job_city": "US California Santa Clara",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/EC-Infra-and-DevOps-Engineer-Undergraduate-Intern_JR0282713",
+    "job_posted_at_datetime_utc": "2026-04-09T20:51:30.376Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af52a5b16c42d3797d238a175cd45031cd2739efc4d8c96bb2d36c218d2b1b27",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T20:51:30.376Z"
+  },
+  {
     "job_id": "workday-disney-10147808",
     "job_title": "Antipiracy Technical Operations Intern, Summer 2026",
     "employer_name": "Disney",
@@ -1473,6 +1529,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-09T00:02:29.320Z"
+  },
+  {
+    "job_id": "js-city-of-lubbock-i3xf8gthboun_ijjaaaaaa==",
+    "job_title": "Part-Time Electrical Engineering Intern",
+    "employer_name": "City of Lubbock",
+    "job_city": "Lubbock",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://tml.careerwebsite.com/job/part-time-electrical-engineering-intern/83170038/",
+    "job_posted_at_datetime_utc": "2026-04-08T23:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "4c0451e1a59db3c6dc6d08017d6ecff287d68f7665a4a4b4cd1e44c80fd780c0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T23:00:00.000Z"
   },
   {
     "job_id": "js-trane-technologies-awnq_tfdc7g3uyzlaaaaaa==",
@@ -3771,146 +3856,6 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
-    "job_id": "workday-sel-2026-19395",
-    "job_title": "Equipment Maintenance Technician Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19855",
-    "job_title": "Project Management Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Project-Management-Intern_2026-19855",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c0fcad186bffb9279d71ffe8a3619602882b562274724a12a1f3f73d6e9ebb0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20203",
-    "job_title": "Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -4109,33 +4054,144 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "js-wsp-qjqr0ussdhhiemsvaaaaaa==",
-    "job_title": "Electrical Engineering Intern- Summer 2026",
-    "employer_name": "WSP",
-    "job_city": "Lakewood",
-    "job_state": "",
+    "job_id": "workday-sel-2026-19395",
+    "job_title": "Equipment Maintenance Technician Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.ihireengineering.com/jobs/view/516506738",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "29c0ddded7a3ff8298861dacbe07a3ca7f6de8e2ebb5e691cdb866359a2e49be",
+    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
     "tags": {
       "employment": "internship",
       "domains": [
-        "hardware"
+        "manufacturing"
       ],
       "locations": [
-        "us",
-        "on_site"
+        "us"
       ],
       "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19855",
+    "job_title": "Project Management Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Project-Management-Intern_2026-19855",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c0fcad186bffb9279d71ffe8a3619602882b562274724a12a1f3f73d6e9ebb0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20203",
+    "job_title": "Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
     "job_id": "js-nvidia-usa-mwx101ftn_iztva9aaaaaa==",
@@ -5162,18 +5218,18 @@
     "job_posted_at": "2026-04-07T07:07:23.199Z"
   },
   {
-    "job_id": "workday-kbr-R2121506",
-    "job_title": "Project Controls Internship 2026",
+    "job_id": "workday-kbr-R2121411",
+    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
     "employer_name": "KBR",
-    "job_city": "Houston",
+    "job_city": "Ann Arbor",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
+    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5190,18 +5246,18 @@
     "job_posted_at": "2026-04-07T07:07:13.617Z"
   },
   {
-    "job_id": "workday-kbr-R2121411",
-    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
+    "job_id": "workday-kbr-R2121506",
+    "job_title": "Project Controls Internship 2026",
     "employer_name": "KBR",
-    "job_city": "Ann Arbor",
+    "job_city": "Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
+    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5386,62 +5442,6 @@
     "job_posted_at": "2026-04-07T07:06:54.748Z"
   },
   {
-    "job_id": "workday-jabil-J2437711",
-    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
-    "employer_name": "Jabil",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
-    "job_id": "workday-jabil-J2444715",
-    "job_title": "Financial Reporting Intern (Consolidations)",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
     "job_id": "workday-jabil-J2445379",
     "job_title": "Talent Acquisition Intern",
     "employer_name": "Jabil",
@@ -5542,6 +5542,62 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2437711",
+    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
+    "employer_name": "Jabil",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2444715",
+    "job_title": "Financial Reporting Intern (Consolidations)",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -5694,6 +5750,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:06:44.697Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066944",
+    "job_title": "HFE co-op (Fall 2026)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-067039",
@@ -5852,34 +5936,6 @@
       "employment": "internship",
       "domains": [
         "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066944",
-    "job_title": "HFE co-op (Fall 2026)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
       ],
       "locations": [
         "us"
@@ -6539,6 +6595,34 @@
     "job_posted_at": "2026-04-07T07:05:14.221Z"
   },
   {
+    "job_id": "workday-applied-materials-R2614626",
+    "job_title": "AI Algorithm - Intern",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm---Intern_R2614626",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:05.090Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3c7350c1abd602a747ce33420388a198cc93964383f5abef565a9761e3b0eef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:05.090Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2616484",
     "job_title": "Technology Market Research Intern, Strategy and Operations- Master's (Santa Clara, CA)",
     "employer_name": "Applied Materials",
@@ -6584,34 +6668,6 @@
       "domains": [
         "ai",
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:05.090Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614626",
-    "job_title": "AI Algorithm - Intern",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm---Intern_R2614626",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:05.090Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3c7350c1abd602a747ce33420388a198cc93964383f5abef565a9761e3b0eef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -6765,6 +6821,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-07T01:33:28.233Z"
+  },
+  {
+    "job_id": "js-wsp-qjqr0ussdhhiemsvaaaaaa==",
+    "job_title": "Electrical Engineering Intern- Summer 2026",
+    "employer_name": "WSP",
+    "job_city": "Lakewood",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.ihireengineering.com/jobs/view/516506738",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "29c0ddded7a3ff8298861dacbe07a3ca7f6de8e2ebb5e691cdb866359a2e49be",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
     "job_id": "js-dsm-firmenich-fdvff0h7lo7mfssyaaaaaa==",
@@ -10681,6 +10766,64 @@
     "job_posted_at": "2026-04-06T07:04:46.965Z"
   },
   {
+    "job_id": "js-cmta-inc-cqma1urbeam9k_v7aaaaaa==",
+    "job_title": "Electrical Engineer Intern/Co-op Summer 2026 - CMTA",
+    "employer_name": "CMTA, Inc",
+    "job_city": "Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://usnlx.com/arlington-va/electrical-engineer-internco-op-summer-2026-cmta/15DF8BDABF3E4778A9FBBE1FDE1941A0/job/",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "0fb1d6169da9202c737ab437941dcf77383a2d6f983ebe5de24aa0f71e4ce572",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-kt6tntw8j5g8fr-4aaaaaa==",
+    "job_title": "Electrical Engineering Coop, Summer-Fall 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Cedar Rapids",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cc57634b0fb5563e82be60d63ff82e7a907ba7bc5e7b03519ceb7db9fb41afa4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-fortive-tlbtvflxvdvuvk-raaaaaa==",
     "job_title": "Data Scientist Intern",
     "employer_name": "Fortive",
@@ -11060,35 +11203,6 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-cmta-inc-cqma1urbeam9k_v7aaaaaa==",
-    "job_title": "Electrical Engineer Intern/Co-op Summer 2026 - CMTA",
-    "employer_name": "CMTA, Inc",
-    "job_city": "Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://usnlx.com/arlington-va/electrical-engineer-internco-op-summer-2026-cmta/15DF8BDABF3E4778A9FBBE1FDE1941A0/job/",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "0fb1d6169da9202c737ab437941dcf77383a2d6f983ebe5de24aa0f71e4ce572",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "js-blue-origin-w3hit8rnm7k1bin9aaaaaa==",
     "job_title": "Artificial Intelligence / Machine Learning Intern - Graduate Student",
     "employer_name": "Blue Origin",
@@ -11135,35 +11249,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-kt6tntw8j5g8fr-4aaaaaa==",
-    "job_title": "Electrical Engineering Coop, Summer-Fall 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Cedar Rapids",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cc57634b0fb5563e82be60d63ff82e7a907ba7bc5e7b03519ceb7db9fb41afa4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -13881,6 +13966,34 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
+    "job_id": "workday-blue-origin-R54906",
+    "job_title": "Summer 2026 Materials & Processes Intern - Undergraduate",
+    "employer_name": "Blue Origin",
+    "job_city": "Greater Seattle Area",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Materials---Processes-Intern---Undergraduate_R54906",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:51.863Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e8b733dea78734526bef2f96de4d26e59317cff39dc18edab38b99ca59a0b2ba",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:51.863Z"
+  },
+  {
     "job_id": "workday-blue-origin-R55041",
     "job_title": "Summer 2026 Supply Chain Intern - Undergraduate",
     "employer_name": "Blue Origin",
@@ -13950,34 +14063,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e538e97900bbb7338963c709a30c65cbf4aa1bc8de3e848fce754dd964c867a4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:51.863Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54906",
-    "job_title": "Summer 2026 Materials & Processes Intern - Undergraduate",
-    "employer_name": "Blue Origin",
-    "job_city": "Greater Seattle Area",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Materials---Processes-Intern---Undergraduate_R54906",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:51.863Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e8b733dea78734526bef2f96de4d26e59317cff39dc18edab38b99ca59a0b2ba",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -14903,121 +14988,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-02T21:50:12.671Z"
-  },
-  {
-    "job_id": "ashby-the-exploration-company-effec614-d532-4297-92f8-6e19020ed968",
-    "job_title": "Crew Systems Engineering Intern, Human Factors",
-    "employer_name": "The Exploration Company",
-    "job_city": "Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/the-exploration-company/effec614-d532-4297-92f8-6e19020ed968/application",
-    "job_posted_at_datetime_utc": "2026-04-02T20:54:57.348Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "1f61d82912f185653cf4de35240311f2be67d314e41f208aa295eea0baacac26",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-02T20:54:57.348Z"
-  },
-  {
-    "job_id": "ashby-gimlet-23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
-    "job_title": "Member of Technical Staff (Intern)",
-    "employer_name": "Gimlet Labs",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9/application",
-    "job_posted_at_datetime_utc": "2026-04-02T20:54:43.632Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "2d6c588349c116bbf6ee4bd34178097a5961ef238b2f48773d625802c3e13037",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-02T20:54:43.632Z"
-  },
-  {
-    "job_id": "ashby-gimlet-373302e0-c4ab-4fdf-a8be-18ec45e4c5f5",
-    "job_title": "Member of Technical Staff - AI Research (Intern)",
-    "employer_name": "Gimlet Labs",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5/application",
-    "job_posted_at_datetime_utc": "2026-04-02T20:54:43.632Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "0926a20b8201b32c8a575e6e8118b3322f14f9e9d6ef4f9444c6a958f10f0db8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-02T20:54:43.632Z"
-  },
-  {
-    "job_id": "ashby-etched-6f23713f-5409-45b7-aae8-adb8710cdbc3",
-    "job_title": "Architecture Intern - Inference",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3/application",
-    "job_posted_at_datetime_utc": "2026-04-02T20:54:43.236Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "3392afc3c22d389f49a24eac9788c1dec1d05b2144f2cf8b6184665df334ca66",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-02T20:54:43.236Z"
   }
 ]
