@@ -1,5 +1,124 @@
 [
   {
+    "job_id": "workday-leidos-R-00180867",
+    "job_title": "Data Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Fort Belvoir",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
+    "job_posted_at_datetime_utc": "2026-04-15T13:34:24.706Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "53c1d714e9a58eeefe409bb977c1bcca4f22f0da1d5c8e3ff0fb47e27d2f84bc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T13:34:24.706Z"
+  },
+  {
+    "job_id": "sr-BoschGroup-744000120962972",
+    "job_title": "Industrial Engineering Co-op - Summer 2026",
+    "employer_name": "Bosch Group",
+    "job_city": "Fountain Inn",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000120962972",
+    "job_posted_at_datetime_utc": "2026-04-15T13:29:21.365Z",
+    "job_employment_type": "full-time",
+    "salary": null,
+    "fingerprint": "14101d4f3f56f588da4a0e6efcf769a49a3adc8972baced16d4555b970601b01",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-15T13:29:21.365Z"
+  },
+  {
+    "job_id": "sr-BoschGroup-744000120964083",
+    "job_title": "Project Management Intern - Vehicle Motion Manufacturing",
+    "employer_name": "Bosch Group",
+    "job_city": "Plymouth",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000120964083",
+    "job_posted_at_datetime_utc": "2026-04-15T13:27:42.818Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f35ba605374d3c5ebfa8aa75f469a4295b60d7796375da1d68e20b31d2c38a6d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-15T13:27:42.818Z"
+  },
+  {
+    "job_id": "lever-shieldai-87d982f2-8b2b-4c73-9a19-71e461c7b724",
+    "job_title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
+    "employer_name": "Shield AI",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724/apply",
+    "job_posted_at_datetime_utc": "2026-04-15T13:22:29.091Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 40,
+      "max": 56,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "ae829912bc140a96ffc40391922071a364b2dfeca1b921adccb20cab686bcf52",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-15T13:22:29.091Z"
+  },
+  {
     "job_id": "sr-BoschGroup-744000120957218",
     "job_title": "Chassis Control Summer Intern - Summer 2026",
     "employer_name": "Bosch Group",
@@ -206,35 +325,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-15T00:20:08.048Z"
-  },
-  {
-    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
-    "job_title": "Software Engineering Intern II, Summer 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "84efd1c022e2f1d130dfd0e61d65e9fa9af043f7884438ed8e826d4afb643351",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
     "job_id": "workday-microchip-technology-R1598-26",
@@ -4711,34 +4801,6 @@
     "job_posted_at": "2026-04-13T07:21:44.558Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068080",
-    "job_title": "J&J Innovative Medicine North America Operations Undergrad Summer Intern",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/J-J-Innovative-Medicine-North-America-Operations-Undergrad-Summer-Intern_R-068080",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:43.268Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68a8083efa8fec488f59971f99b8f8879473b41596546668e9db9ec9e78ebcc7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:21:43.268Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-068249",
     "job_title": "R&D Engineer Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
@@ -4797,6 +4859,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "589ca4ce6d758b7f24575402ab3b5680e8c5d1e653a6bb7c708a2f9107fef0d4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:21:43.268Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068080",
+    "job_title": "J&J Innovative Medicine North America Operations Undergrad Summer Intern",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/J-J-Innovative-Medicine-North-America-Operations-Undergrad-Summer-Intern_R-068080",
+    "job_posted_at_datetime_utc": "2026-04-13T07:21:43.268Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68a8083efa8fec488f59971f99b8f8879473b41596546668e9db9ec9e78ebcc7",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5655,6 +5745,76 @@
     "job_posted_at": "2026-04-13T07:00:33.255Z"
   },
   {
+    "job_id": "workday-leidos-R-00177513",
+    "job_title": "Transportation Engineering Lab Intern",
+    "employer_name": "Leidos",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00177513",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d92d28bf74ef64659ab05c6146d46f86e9738bb1a6fa694fc6e7fd0cf7bb65b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180640",
+    "job_title": "Software Intern",
+    "employer_name": "Leidos",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "matlab",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180628",
     "job_title": "Software Development Intern",
     "employer_name": "Leidos",
@@ -5755,76 +5915,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177513",
-    "job_title": "Transportation Engineering Lab Intern",
-    "employer_name": "Leidos",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00177513",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d92d28bf74ef64659ab05c6146d46f86e9738bb1a6fa694fc6e7fd0cf7bb65b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180640",
-    "job_title": "Software Intern",
-    "employer_name": "Leidos",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "matlab",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-13T07:00:25.402Z"
   },
   {
@@ -6431,6 +6521,139 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-lmi-consulting-llc-g6kq72dwmx856cbbaaaaaa==",
+    "job_title": "Data Science Intern (Usps) - Summer 2026",
+    "employer_name": "LMI Consulting, LLC",
+    "job_city": "Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/data-science-intern-usps/arlington-virginia?id=2632455762",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "40739b11c767c5363c654729492da2600d9804bddb56ca8f6cbf4748dd09a33b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "computer science",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "matplotlib",
+        "power bi",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "sql",
+        "tableau",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications Current enrollment in a degree seeking program required Availability to work full-time for at least 10-12 weeks for summer 2026 Must be available starting at the end of May 2026 Current…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-lmi-consulting-llc-ha6krvqi1tflo6-maaaaaa==",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "LMI Consulting, LLC",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.trabajo.org/job-2850-3130aae9aab7778a98b5c27f27859a64",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "7844cbe5a3a054ec8b2eb971a113abb2e823248053cec05eb8c455b60ea6b0f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ucla-health-careers-fs4d3nfxys6woghtaaaaaa==",
+    "job_title": "Undergraduate Summer Intern -UCLA Health Information Technology's Advanced Analytics (Data Science) Team",
+    "employer_name": "UCLA Health Careers",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.uclahealthcareers.org/job/23256108/undergraduate-summer-intern-ucla-health-information-technologys-advanced-analytics-data-science-team-los-angeles-ca/",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "f61c38a17bc2c77b274cd6fdd664dbd8ba89647127c655dd03c27f80c541a5c6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "ci/cd",
+        "data pipeline",
+        "data quality",
+        "databricks",
+        "feature engineering",
+        "machine learning",
+        "observability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "This internship is embedded within UCLA Health Information Technology’s Office of Health Informatics and Analytics Teams, supporting analytics and AI/ML use cases across clinical, operations, finance,…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-parsons-corporation-esejvopfknfhz46vaaaaaa==",
     "job_title": "Space Ops Software Engineer Intern (Summer 2026)",
     "employer_name": "Parsons Corporation",
@@ -6696,110 +6919,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-lmi-consulting-llc-g6kq72dwmx856cbbaaaaaa==",
-    "job_title": "Data Science Intern (Usps) - Summer 2026",
-    "employer_name": "LMI Consulting, LLC",
-    "job_city": "Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/data-science-intern-usps/arlington-virginia?id=2632455762",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "40739b11c767c5363c654729492da2600d9804bddb56ca8f6cbf4748dd09a33b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "computer science",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "matplotlib",
-        "power bi",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "sql",
-        "tableau",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications Current enrollment in a degree seeking program required Availability to work full-time for at least 10-12 weeks for summer 2026 Must be available starting at the end of May 2026 Current…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ucla-health-careers-fs4d3nfxys6woghtaaaaaa==",
-    "job_title": "Undergraduate Summer Intern -UCLA Health Information Technology's Advanced Analytics (Data Science) Team",
-    "employer_name": "UCLA Health Careers",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.uclahealthcareers.org/job/23256108/undergraduate-summer-intern-ucla-health-information-technologys-advanced-analytics-data-science-team-los-angeles-ca/",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "f61c38a17bc2c77b274cd6fdd664dbd8ba89647127c655dd03c27f80c541a5c6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "api",
-        "aws",
-        "azure",
-        "ci/cd",
-        "data pipeline",
-        "data quality",
-        "databricks",
-        "feature engineering",
-        "machine learning",
-        "observability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "This internship is embedded within UCLA Health Information Technology’s Office of Health Informatics and Analytics Teams, supporting analytics and AI/ML use cases across clinical, operations, finance,…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
@@ -7282,6 +7401,103 @@
     "job_posted_at": "2026-04-11T21:48:14.424Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R2536",
+    "job_title": "Mechanical Engineering Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2536",
+    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "cad",
+        "catia",
+        "fea",
+        "gd&t",
+        "labview",
+        "matlab",
+        "python",
+        "robotics",
+        "solidworks",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Compute and Sensing Mechanical Engineering team.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:36:03.652Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2534",
+    "job_title": "Mechanical Engineering Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2534",
+    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "catia",
+        "fea",
+        "gd&t",
+        "labview",
+        "matlab",
+        "python",
+        "robotics",
+        "solidworks",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Boston Dynamics is seeking a creative and proactive Junior Engineer to join the Atlas End Effectors Team to contribute to gripper development.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:36:03.652Z"
+  },
+  {
     "job_id": "workday-boston-dynamics-R2502",
     "job_title": "Electronics Manufacturing & Supply Chain Engineering Intern",
     "employer_name": "Boston Dynamics",
@@ -7475,103 +7691,6 @@
     "job_posted_at": "2026-04-11T07:36:03.652Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2536",
-    "job_title": "Mechanical Engineering Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2536",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "cad",
-        "catia",
-        "fea",
-        "gd&t",
-        "labview",
-        "matlab",
-        "python",
-        "robotics",
-        "solidworks",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Compute and Sensing Mechanical Engineering team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.652Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2534",
-    "job_title": "Mechanical Engineering Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2534",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "catia",
-        "fea",
-        "gd&t",
-        "labview",
-        "matlab",
-        "python",
-        "robotics",
-        "solidworks",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Boston Dynamics is seeking a creative and proactive Junior Engineer to join the Atlas End Effectors Team to contribute to gripper development.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.652Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2572",
     "job_title": "Software Intern, AI/ML — Warehouse Robotics, Stretch Team",
     "employer_name": "Boston Dynamics",
@@ -7650,6 +7769,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-11T07:00:57.788Z"
+  },
+  {
+    "job_id": "js-cisco-dk96gro7gg5lew-vaaaaaa==",
+    "job_title": "Data Science Analyst I (Intern) United States",
+    "employer_name": "Cisco",
+    "job_city": "Milwaukee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.jobrapido.com/jobpreview/2732902883891609600",
+    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "da02f0498ac5f6b89161c1410ece563d693569cd299e335030ab95d7041de2df",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data science",
+        "data visualization",
+        "etl",
+        "excel",
+        "hadoop",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "reporting",
+        "scikit-learn",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T00:00:00.000Z"
   },
   {
     "job_id": "js-essential-utilities-vzacspy2d73o_muyaaaaaa==",
@@ -7894,62 +8069,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What you will need: • Currently pursuing a Bachelors or Masters in Business • Strong interpersonal and communication skills.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-dk96gro7gg5lew-vaaaaaa==",
-    "job_title": "Data Science Analyst I (Intern) United States",
-    "employer_name": "Cisco",
-    "job_city": "Milwaukee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.jobrapido.com/jobpreview/2732902883891609600",
-    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "da02f0498ac5f6b89161c1410ece563d693569cd299e335030ab95d7041de2df",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data science",
-        "data visualization",
-        "etl",
-        "excel",
-        "hadoop",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "power bi",
-        "python",
-        "reporting",
-        "scikit-learn",
-        "sql",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T00:00:00.000Z"
@@ -13287,6 +13406,50 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "HealthTrust",
+    "job_city": "Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data science",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Job Summary and Qualifications  A Data Science Intern supports the team by analyzing data, building basic models, and helping turn raw information into useful insights for the business.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-generac-zvzmco1rdr-yqw4xaaaaaa==",
     "job_title": "Operations Finance Intern",
     "employer_name": "Generac",
@@ -13750,50 +13913,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "HealthTrust",
-    "job_city": "Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "data science",
-        "machine learning",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Job Summary and Qualifications  A Data Science Intern supports the team by analyzing data, building basic models, and helping turn raw information into useful insights for the business.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
