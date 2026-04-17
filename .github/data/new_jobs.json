@@ -17028,55 +17028,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-workato-8492935002",
-    "job_title": "Intern, AI Engineering",
-    "employer_name": "Workato",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/workato/jobs/8492935002",
-    "job_posted_at_datetime_utc": "2026-04-10T03:06:29.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b9df3077635e43fbea3c55ad9447c1771db75dda4e41f8e302b97b24d4a26db",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "fine-tuning",
-        "hugging face",
-        "large language model",
-        "llm",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "spring"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Workato transforms technology complexity into business opportunity.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T03:06:29.000Z"
   }
 ]
