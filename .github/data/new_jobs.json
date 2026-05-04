@@ -2449,76 +2449,6 @@
     "job_posted_at": "2026-05-01T07:04:06.553Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30267913",
-    "job_title": "Summer Intern - Fire Alarm Helper",
-    "employer_name": "Johnson Controls",
-    "job_city": "Wisconsin-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Green Bay-Wisconsin-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Green-Bay-Wisconsin-United-States-of-America/Summer-Intern---Fire-Alarm-Helper_WD30267913",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:00.522Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a21d5cf2878b0cecbde39c9459046275c8438ecfed5558625a3390f51315fa3c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:04:00.522Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30265421",
-    "job_title": "Controls Intern",
-    "employer_name": "Johnson Controls",
-    "job_city": "Texas-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston-Texas-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/Controls-Intern_WD30265421-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:00.522Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "716d3126d4d706111f02e7a0d558ecca48239887fd8aaab1089e8fb6d84b828d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:00.522Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30266353",
     "job_title": "Fire Service Tech Intern",
     "employer_name": "Johnson Controls",
@@ -2592,6 +2522,76 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b65d90ce7bf6da45bdc798837edc48aaeb162f8365c14c00ce7811ebf3097beb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:00.522Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30267913",
+    "job_title": "Summer Intern - Fire Alarm Helper",
+    "employer_name": "Johnson Controls",
+    "job_city": "Wisconsin-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Green Bay-Wisconsin-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Green-Bay-Wisconsin-United-States-of-America/Summer-Intern---Fire-Alarm-Helper_WD30267913",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:00.522Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a21d5cf2878b0cecbde39c9459046275c8438ecfed5558625a3390f51315fa3c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:04:00.522Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30265421",
+    "job_title": "Controls Intern",
+    "employer_name": "Johnson Controls",
+    "job_city": "Texas-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston-Texas-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/Controls-Intern_WD30265421-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:00.522Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "716d3126d4d706111f02e7a0d558ecca48239887fd8aaab1089e8fb6d84b828d",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4701,6 +4701,108 @@
     "job_posted_at": "2026-04-30T07:05:33.634Z"
   },
   {
+    "job_id": "workday-rtx-01841924",
+    "job_title": "Internship Fall 2026 - Continuous Improvement Transformational Projects, Industrial or Mechanical Engineering",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Continuous-Improvement-Transformational-Projects--Industrial-or-Mechanical-Engineering_01841924",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "259f8c1bcb8081fda8d825c1b643a067f476d2e4b22ba9296aa7601b7898c4f7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "lean manufacturing",
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:04:56.979Z"
+  },
+  {
+    "job_id": "workday-rtx-01841734",
+    "job_title": "Stagiaire en Hygiene industrielle et Ergonomie / Internship in Industrial Hygiene and Ergonomics",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "312b6bf25758c36e0df19fd19dbd0c291647c8e77d3206bd29f1fa314bddb700",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:04:56.979Z"
+  },
+  {
+    "job_id": "workday-rtx-01838534",
+    "job_title": "Stage - Analyste logistique Atelier ME/ Internship - Med Shop logistics Analyst",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Analyste-logistique-Atelier-ME--Internship---Med-Shop-logistics-Analyst_01838534",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78c6bed31d19a5200db5a2d0350cdb612e75a9ce8b48f52c2fc98c2b23ac56ed",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:04:56.979Z"
+  },
+  {
     "job_id": "workday-rtx-01841944",
     "job_title": "Stage - Automne 2026 - Analyse et optimisation des approvisionnements/ Internship - Fall 2026  - Supply Chain Analysis and Optimization",
     "employer_name": "RTX",
@@ -4852,108 +4954,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:04:56.979Z"
-  },
-  {
-    "job_id": "workday-rtx-01841924",
-    "job_title": "Internship Fall 2026 - Continuous Improvement Transformational Projects, Industrial or Mechanical Engineering",
-    "employer_name": "RTX",
-    "job_city": "Ns",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ns, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Continuous-Improvement-Transformational-Projects--Industrial-or-Mechanical-Engineering_01841924",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "259f8c1bcb8081fda8d825c1b643a067f476d2e4b22ba9296aa7601b7898c4f7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "lean manufacturing",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:04:56.979Z"
-  },
-  {
-    "job_id": "workday-rtx-01841734",
-    "job_title": "Stagiaire en Hygiene industrielle et Ergonomie / Internship in Industrial Hygiene and Ergonomics",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "312b6bf25758c36e0df19fd19dbd0c291647c8e77d3206bd29f1fa314bddb700",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:04:56.979Z"
-  },
-  {
-    "job_id": "workday-rtx-01838534",
-    "job_title": "Stage - Analyste logistique Atelier ME/ Internship - Med Shop logistics Analyst",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Analyste-logistique-Atelier-ME--Internship---Med-Shop-logistics-Analyst_01838534",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78c6bed31d19a5200db5a2d0350cdb612e75a9ce8b48f52c2fc98c2b23ac56ed",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
       ],
       "locations": [
         "us"
@@ -6623,6 +6623,120 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T04:17:03.351Z"
+  },
+  {
+    "job_id": "simplify-f5a9931b-496d-472a-b3d6-3701df506088",
+    "job_title": "Applied Scientist Intern",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7629488401364060469/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9548ec63918d6066becb9d08781d65c82701d8c3c1c73dbcf2791fb1343371a2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-6b5654e3-e07c-4ab9-9b75-9728f4c9de20",
+    "job_title": "ASIC Design&Verification Engineer Intern - Video Silicon IP - 2026 Summer",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7538943256295606546/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25595bd6994b4b5ae98167e35717f2e5bc4a04d0a35aa26d73037fcc6baefbfc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-8e3d641a-8bc6-43f8-9fc3-16e49711a6d9",
+    "job_title": "Software Engineer Project Intern - Recommendation Infrastructure",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7629500062003218741",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1116a5b18fa3312c90fde2b96a9d2937fc161b5f85f4233ebf6321d1cc0792c3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
     "job_id": "simplify-13994ae1-e484-4b8d-857a-36fdc5cddde3",
@@ -10443,120 +10557,6 @@
     "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
-    "job_id": "simplify-f5a9931b-496d-472a-b3d6-3701df506088",
-    "job_title": "Applied Scientist Intern",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7629488401364060469/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9548ec63918d6066becb9d08781d65c82701d8c3c1c73dbcf2791fb1343371a2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-6b5654e3-e07c-4ab9-9b75-9728f4c9de20",
-    "job_title": "ASIC Design&Verification Engineer Intern - Video Silicon IP - 2026 Summer",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7538943256295606546/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25595bd6994b4b5ae98167e35717f2e5bc4a04d0a35aa26d73037fcc6baefbfc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-8e3d641a-8bc6-43f8-9fc3-16e49711a6d9",
-    "job_title": "Software Engineer Project Intern - Recommendation Infrastructure",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7629500062003218741",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1116a5b18fa3312c90fde2b96a9d2937fc161b5f85f4233ebf6321d1cc0792c3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
     "job_id": "simplify-8a259c97-f4fc-43e7-9493-f2824159d556",
     "job_title": "Research Scientist Intern - Mathematics - PhD",
     "employer_name": "Meta",
@@ -10870,6 +10870,429 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-60ae1ee5-3a5b-43ed-9d79-967f2621f9e6",
+    "job_title": "Technical Program Manager Intern - Global Monetization Product and Technology - BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7561479542730705213",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4cce7785ccb01158aa3c0e9e804ca9be1ea16fd294a4df0adb8a7e2e60d01a44",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-988e1921-4591-416e-8af1-ecc45cbfcff1",
+    "job_title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7535156407059925266/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7e88ef96abd2dd1afb8ec90803641e4dc210242c8e2f4ce5d1c70cc02e17fd5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-60f7755d-aecf-4a56-b740-8c0c5d37cab7",
+    "job_title": "Machine Learning Engineer Intern - E-commerce Conversational AI",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7535157501571500306/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f0ad381fcc67e0f4da60ffe186c446eebeb37097bfdcfedc5d9ddee3067e66ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-bb549c71-7b62-436b-9a16-21d9da8c69dc",
+    "job_title": "Data Engineer Intern",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7568546589788227893",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d6283405c9f76d08bfe69c68b88e94a5121e5f2246f81995bdbdc2f95a0d417b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-2b049d7b-f298-403a-8172-68cbe8ad6423",
+    "job_title": "Research Scientist Intern - Monetization GenAI - 2026 Start",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7535623435700766984",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e73db22370240da25525f79979e729422ca5eb61a723b3e29e899522a0911bca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-c6b69846-839a-44c7-b22c-fa62c69a2ffd",
+    "job_title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7572358528171510069",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "97484f3e0922e425edab851eb7323810a1c6dfd040578425c188bf8b1b201f63",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-41b49e0b-6452-42a9-8893-0d31db922126",
+    "job_title": "Research Scientist Intern, Computational Chemist",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.metacareers.com/profile/job_details/2059739221232640",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08e826c3230900f1ac77292335e62a95e81d07bc2467084276c081ab1f81ca9a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-1009dc2c-0870-44a9-a48f-4ac0b57cd856",
+    "job_title": "Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.metacareers.com/profile/job_details/25514049594874160",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17d2a4333321212b4ca8c9fa64887a3ff4c0336a581fb754fb92031df84787f3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-2c5d7095-48e9-43ec-bb00-96891d5d0cdd",
+    "job_title": "Research Scientist Intern, Organic Optoelectronic Materials (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.metacareers.com/profile/job_details/843617948284299",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e73ca94bd14256e266de2665b564358d4c86f131d3fed0e6fef45a3dd38188e8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-932eae26-30ca-4b13-9092-ad3924591106",
+    "job_title": "Research Scientist Intern, LLM Evaluation",
+    "employer_name": "Meta",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://www.metacareers.com/profile/job_details/4203446973242742",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "653d5ef2751c20e69266f105ae5936d244876d4d2fb8a182e79a5f081986da4c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-b49af921-2592-4429-807b-644549005c26",
+    "job_title": "Researcher Intern - Vision and Graphics - 2026 Start",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7528196025854380306",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "533bbe79d5d6604ce82df54c55d4bb478948cedf7d0e96c1f4a34dcbdd88bdfb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
     "job_posted_at": "2026-04-30T03:45:27.045Z"
   },
   {
@@ -13454,429 +13877,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-60ae1ee5-3a5b-43ed-9d79-967f2621f9e6",
-    "job_title": "Technical Program Manager Intern - Global Monetization Product and Technology - BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7561479542730705213",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4cce7785ccb01158aa3c0e9e804ca9be1ea16fd294a4df0adb8a7e2e60d01a44",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-988e1921-4591-416e-8af1-ecc45cbfcff1",
-    "job_title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7535156407059925266/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7e88ef96abd2dd1afb8ec90803641e4dc210242c8e2f4ce5d1c70cc02e17fd5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-60f7755d-aecf-4a56-b740-8c0c5d37cab7",
-    "job_title": "Machine Learning Engineer Intern - E-commerce Conversational AI",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7535157501571500306/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f0ad381fcc67e0f4da60ffe186c446eebeb37097bfdcfedc5d9ddee3067e66ca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-bb549c71-7b62-436b-9a16-21d9da8c69dc",
-    "job_title": "Data Engineer Intern",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7568546589788227893",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d6283405c9f76d08bfe69c68b88e94a5121e5f2246f81995bdbdc2f95a0d417b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-2b049d7b-f298-403a-8172-68cbe8ad6423",
-    "job_title": "Research Scientist Intern - Monetization GenAI - 2026 Start",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7535623435700766984",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e73db22370240da25525f79979e729422ca5eb61a723b3e29e899522a0911bca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-c6b69846-839a-44c7-b22c-fa62c69a2ffd",
-    "job_title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7572358528171510069",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "97484f3e0922e425edab851eb7323810a1c6dfd040578425c188bf8b1b201f63",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-41b49e0b-6452-42a9-8893-0d31db922126",
-    "job_title": "Research Scientist Intern, Computational Chemist",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.metacareers.com/profile/job_details/2059739221232640",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "08e826c3230900f1ac77292335e62a95e81d07bc2467084276c081ab1f81ca9a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-1009dc2c-0870-44a9-a48f-4ac0b57cd856",
-    "job_title": "Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.metacareers.com/profile/job_details/25514049594874160",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "17d2a4333321212b4ca8c9fa64887a3ff4c0336a581fb754fb92031df84787f3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-2c5d7095-48e9-43ec-bb00-96891d5d0cdd",
-    "job_title": "Research Scientist Intern, Organic Optoelectronic Materials (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.metacareers.com/profile/job_details/843617948284299",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e73ca94bd14256e266de2665b564358d4c86f131d3fed0e6fef45a3dd38188e8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-932eae26-30ca-4b13-9092-ad3924591106",
-    "job_title": "Research Scientist Intern, LLM Evaluation",
-    "employer_name": "Meta",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://www.metacareers.com/profile/job_details/4203446973242742",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "653d5ef2751c20e69266f105ae5936d244876d4d2fb8a182e79a5f081986da4c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-b49af921-2592-4429-807b-644549005c26",
-    "job_title": "Researcher Intern - Vision and Graphics - 2026 Start",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7528196025854380306",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "533bbe79d5d6604ce82df54c55d4bb478948cedf7d0e96c1f4a34dcbdd88bdfb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
     "job_posted_at": "2026-04-30T03:45:27.045Z"
   },
   {
@@ -19226,36 +19226,6 @@
     "job_posted_at": "2026-04-29T07:01:36.249Z"
   },
   {
-    "job_id": "workday-moog-R-26-17425",
-    "job_title": "Intern, Contracts",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Buffalo, NY",
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Contracts_R-26-17425",
-    "job_posted_at_datetime_utc": "2026-04-29T07:01:32.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "94e2d9026d656a49c2d832322d2d2ec4b7e4671a6586ea90afda1074d7362e0f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:01:32.126Z"
-  },
-  {
     "job_id": "workday-moog-R-25-13444",
     "job_title": "Intern, Sustainment Engineering",
     "employer_name": "Moog",
@@ -19293,6 +19263,36 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-29T07:01:32.126Z"
+  },
+  {
+    "job_id": "workday-moog-R-26-17425",
+    "job_title": "Intern, Contracts",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Buffalo, NY",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Contracts_R-26-17425",
+    "job_posted_at_datetime_utc": "2026-04-29T07:01:32.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "94e2d9026d656a49c2d832322d2d2ec4b7e4671a6586ea90afda1074d7362e0f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-29T07:01:32.126Z"
   },
   {
@@ -20146,36 +20146,6 @@
     "job_posted_at": "2026-04-29T07:00:17.202Z"
   },
   {
-    "job_id": "workday-fis-JR0300829",
-    "job_title": "Intern, Financial Analyst, Summer FIS University Program 2026",
-    "employer_name": "FIS",
-    "job_city": "US FL JAX 347",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US FL JAX 347 + 1 more",
-    "job_apply_link": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Intern--Financial-Analyst--Summer-FIS-University-Program-2026_JR0300829",
-    "job_posted_at_datetime_utc": "2026-04-29T07:00:13.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "816b964094ca17e7cb39972e78126c2b46ae5d7696b472ddca327682e59a2bda",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:00:13.449Z"
-  },
-  {
     "job_id": "workday-fis-JR0306871",
     "job_title": "Intern, Business Analyst, FIS University Program",
     "employer_name": "FIS",
@@ -20193,6 +20163,36 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:00:13.449Z"
+  },
+  {
+    "job_id": "workday-fis-JR0300829",
+    "job_title": "Intern, Financial Analyst, Summer FIS University Program 2026",
+    "employer_name": "FIS",
+    "job_city": "US FL JAX 347",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US FL JAX 347 + 1 more",
+    "job_apply_link": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Intern--Financial-Analyst--Summer-FIS-University-Program-2026_JR0300829",
+    "job_posted_at_datetime_utc": "2026-04-29T07:00:13.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "816b964094ca17e7cb39972e78126c2b46ae5d7696b472ddca327682e59a2bda",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
       ],
       "locations": [
         "us"
@@ -20874,7 +20874,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862680",
     "job_posted_at_datetime_utc": "2026-04-28T22:15:40.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "03b7e04f2d4feab995c37f9a1523a287d5acd437b8b2e6e7861ef2c772010ca0",
     "tags": {
