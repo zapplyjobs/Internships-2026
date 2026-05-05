@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-moog-R-26-17597",
+    "job_title": "Intern, Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Buffalo, NY",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Engineering_R-26-17597",
+    "job_posted_at_datetime_utc": "2026-05-05T20:17:44.198Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da5852082ced69d1f272a30b9d869a7a2d51dbbc6bc5bdf02a848ade6d41d131",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T20:17:44.198Z"
+  },
+  {
     "job_id": "workday-intel-JR0281621",
     "job_title": "Ocotillo Technology Fabrication Process Engineering Graduate Intern",
     "employer_name": "Intel",
@@ -28,6 +58,14 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T20:02:39.931Z"
   },
   {
@@ -59,47 +97,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T20:02:39.931Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30267295",
-    "job_title": "Fire Alarm Inspector Intern",
-    "employer_name": "Johnson Controls",
-    "job_city": "Illinois-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "East Peoria-Illinois-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/East-Peoria-Illinois-United-States-of-America/Fire-Alarm-Inspector-Intern_WD30267295",
-    "job_posted_at_datetime_utc": "2026-05-05T19:47:43.730Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "290ccce86ffb138a2005f28d5e44a4dace5d8f623c604614ea2aa2a0a2cb9c82",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T19:47:43.730Z"
   },
   {
     "job_id": "workday-applied-materials-R2619056",
@@ -5109,36 +5106,6 @@
     "job_posted_at": "2026-05-01T19:49:32.000Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30266727",
-    "job_title": "Fire & Life Safety Inspector - Intern",
-    "employer_name": "Johnson Controls",
-    "job_city": "Ohio-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Maumee-Ohio-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Maumee-Ohio-United-States-of-America/Intern-Tech-School_WD30266727-1",
-    "job_posted_at_datetime_utc": "2026-05-01T19:47:43.731Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b65d90ce7bf6da45bdc798837edc48aaeb162f8365c14c00ce7811ebf3097beb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T19:47:43.731Z"
-  },
-  {
     "job_id": "ashby-openai-821168d6-c97c-457a-9187-88a2cb95ba32",
     "job_title": "Business Insights Intern",
     "employer_name": "OpenAI",
@@ -10131,6 +10098,124 @@
     "job_posted_at": "2026-04-30T04:17:03.351Z"
   },
   {
+    "job_id": "simplify-3773a013-3865-41fd-ae0d-5b66938ff357",
+    "job_title": "Quantitative Research Analyst Intern - Bachelor Master - US",
+    "employer_name": "Citadel",
+    "job_city": "Miami",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Miami, FL",
+    "job_apply_link": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "00e8c5ace644df9554c8a8ee70fd4bcb0185a9d6459e5a09bc5ae2136ca3fb75",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-de46453a-ef54-4d06-94b4-f86021b89215",
+    "job_title": "Research Scientist Intern - Applied Perception Science - PhD",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.metacareers.com/jobs/25766888559672059",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7861ff457cd04ac12d06d596a0df6d03447da722101d23bcefea73f38e65d55",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-de215e2c-25b9-4713-90e5-31dba65622de",
+    "job_title": "Research Scientist Intern PhD - Applied Research",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Menlo Park, CA",
+    "job_apply_link": "https://www.metacareers.com/jobs/2633206137040139",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1e0cdb2e2ecd9e4a8e98d71d4596427fdf2310b443346fea58bfc4f47706985",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
     "job_id": "simplify-ce2b8a69-f8a4-41dc-8b62-0a5987028ce6",
     "job_title": "Research Scientist Intern - AI/ML - Core Ads Growth",
     "employer_name": "Meta",
@@ -13904,124 +13989,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-3773a013-3865-41fd-ae0d-5b66938ff357",
-    "job_title": "Quantitative Research Analyst Intern - Bachelor Master - US",
-    "employer_name": "Citadel",
-    "job_city": "Miami",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Miami, FL",
-    "job_apply_link": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "00e8c5ace644df9554c8a8ee70fd4bcb0185a9d6459e5a09bc5ae2136ca3fb75",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-de46453a-ef54-4d06-94b4-f86021b89215",
-    "job_title": "Research Scientist Intern - Applied Perception Science - PhD",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.metacareers.com/jobs/25766888559672059",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7861ff457cd04ac12d06d596a0df6d03447da722101d23bcefea73f38e65d55",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-de215e2c-25b9-4713-90e5-31dba65622de",
-    "job_title": "Research Scientist Intern PhD - Applied Research",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Menlo Park, CA",
-    "job_apply_link": "https://www.metacareers.com/jobs/2633206137040139",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1e0cdb2e2ecd9e4a8e98d71d4596427fdf2310b443346fea58bfc4f47706985",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
@@ -24330,6 +24297,38 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T22:18:10.938Z"
+  },
+  {
+    "job_id": "microsoft-200036313",
+    "job_title": "Research Intern - Socio-Technical Workflow Analysis",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, Washington, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862680",
+    "job_posted_at_datetime_utc": "2026-04-28T22:15:40.000Z",
+    "job_employment_type": "internship",
+    "salary": null,
+    "fingerprint": "03b7e04f2d4feab995c37f9a1523a287d5acd437b8b2e6e7861ef2c772010ca0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-04-28T22:15:40.000Z"
   },
   {
     "job_id": "workday-sel-2026-19615",
