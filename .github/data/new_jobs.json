@@ -1,7 +1,7 @@
 [
   {
     "job_id": "greenhouse-cloudflare-7736919",
-    "job_title": "Marketing Events and Campaigns Intern (July to Dec 2026)",
+    "job_title": "Marketing Events and Campaigns Intern (Mid-Year 2026)",
     "employer_name": "Cloudflare",
     "job_city": "",
     "job_state": "",
@@ -12,7 +12,7 @@
     "job_posted_at_datetime_utc": "2026-05-07T04:23:08.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e11526b50dfacc640bacfeb6478decf5830e14263df4f7a80d83dd143f696db8",
+    "fingerprint": "c700c6fab1452a00c61a45b73ca89b4c23ec488e826354005214d03ae30e8216",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -92,38 +92,6 @@
     "job_posted_at": "2026-05-07T01:17:41.000Z"
   },
   {
-    "job_id": "microsoft-200036958",
-    "job_title": "Research Intern - Fault Tolerant Quantum System Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
-    "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T22:44:55.000Z"
-  },
-  {
     "job_id": "microsoft-200036961",
     "job_title": "Research Intern - AI Frontiers",
     "employer_name": "Microsoft",
@@ -196,7 +164,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
