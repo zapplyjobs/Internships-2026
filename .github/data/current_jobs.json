@@ -299,7 +299,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -373,7 +373,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -405,7 +405,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -557,6 +557,142 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-06T14:29:20.202Z"
+  },
+  {
+    "job_id": "simplify-04690200-00da-4592-b697-fc3f8a39af9c",
+    "job_title": "Quantitative Systematic Trading Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1acea524aaa7506353449dd846f6d70ba3b51320e08e3312759e230470c1919",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-4f46a01a-d152-4a18-9cf9-ff106eede269",
+    "job_title": "Quantitative Research Intern - PhD: Summer 2027",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cde8d823e218d4abd3b7ae97ac7e212df5a0d1ae42da6016df4f093823212076",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
+    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-214fe12f-0a66-495e-bbeb-de7c8d78fdf8",
+    "job_title": "Quantitative Research Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d07fbed46101fe49978d9d46642551b5e05b3bef06b196b62a1294e7f67fe98b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
     "job_id": "simplify-9424072c-485e-43c4-91e8-4f124356a286",
@@ -761,142 +897,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-04690200-00da-4592-b697-fc3f8a39af9c",
-    "job_title": "Quantitative Systematic Trading Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1acea524aaa7506353449dd846f6d70ba3b51320e08e3312759e230470c1919",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-4f46a01a-d152-4a18-9cf9-ff106eede269",
-    "job_title": "Quantitative Research Intern - PhD: Summer 2027",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cde8d823e218d4abd3b7ae97ac7e212df5a0d1ae42da6016df4f093823212076",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
-    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-214fe12f-0a66-495e-bbeb-de7c8d78fdf8",
-    "job_title": "Quantitative Research Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d07fbed46101fe49978d9d46642551b5e05b3bef06b196b62a1294e7f67fe98b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
@@ -8730,76 +8730,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-30T20:17:06.535Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5206831008",
-    "job_title": "Intern - Zenith Finance Team",
-    "employer_name": "LG Electronics",
-    "job_city": "Illinois",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Illinois ",
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5206831008",
-    "job_posted_at_datetime_utc": "2026-04-30T20:01:16.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a6c4bfdd7d7b964bdcdb12060d14704f7b4375a2ed7d16f83db27b94ac5791f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-30T20:01:16.000Z"
-  },
-  {
-    "job_id": "sr-VeoliaEnvironnementSA-744000124019104",
-    "job_title": "Engineering Intern",
-    "employer_name": "Veolia Environnement SA",
-    "job_city": "Arkadelphia",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arkadelphia, AR",
-    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124019104",
-    "job_posted_at_datetime_utc": "2026-04-30T20:00:31.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "337208a571b89dafc9cdec849745c65fbf47f3d471730439e7412c2d990799db",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T20:00:31.547Z"
   }
 ]
