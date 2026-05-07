@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-255-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-256-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -178,6 +178,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🏢 **Hermeus** | Avionics Electrical Engineering Intern - Fall 2026 | Atlanta, GA | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/3cee58bc-55ef-4230-acf2-9a2e2851cf43/apply) |
 | 🏢 **Leidos** | Mechanical Engineering Intern | White Sands, NM | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/White-Sands-NM/Mechanical-Engineering-Intern_R-00182510) |
 | 🏢 **CFS Energy** | Intern - Mechanical Engineer - Fall Co-op 2026 | Devens, MA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/cfsenergy/481da293-bd14-4188-b67f-83dcb9d2729e/apply) |
 | 🏢 **Figure AI** | Electrical Engineering Intern [Fall 2026] | San Jose, CA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
@@ -283,8 +284,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🟦 **Microsoft** | Research Intern - Post-Training | Redmond, Washingt... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) |
-| 🟦 **Microsoft** | Research Intern - AI Frontiers | Redmond, Washingt... | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864498) |
+| 🟦 **Microsoft** | Research Intern - Post-Training | Redmond, Washingt... | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) |
+| 🟦 **Microsoft** | Research Intern - AI Frontiers | Redmond, Washingt... | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864498) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Research Intern | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Summer 2026 Cyber Research Intern - Bedford - NH | Bedford, NH | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false) |
@@ -336,7 +337,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (Mid-Year 2026) | In- | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
+| 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (Mid-Year 2026) | In- | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
 | 🏢 **KnowBe4** | Sales Development Representative Intern (Hybrid) | Arlington, Virginia | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8538904002) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Trader Intern | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Strategy Developer Intern | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
@@ -369,7 +370,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Health Account Intern | Atlanta, GA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239312) |
 | 🏢 **Booz Allen Hamilton** | Health Account Intern | Atlanta, GA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239301) |
 | 🏢 **Bosch Group** | Engine / Vehicle Embedded Controls Intern | Farmington Hills, MI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) |
-| 🏢 **FLIR Systems** | Manufacturing Test Technician Intern | Chestnut Ridge, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Test-Technician-Intern_REQ34615) |
+| 🏢 **FLIR Systems** | Manufacturing Test Technician Intern | Chestnut Ridge, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Test-Technician-Intern_REQ34615) |
 | 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) OR REDMOND ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OR-REDMOND-02243-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2499168) |
 | 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) OH ELYRIA 0... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-ELYRIA-04255-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2499247-1) |
 | 🏢 **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) NY GLENMONT... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-NY-GLENMONT-03583-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2499326) |
@@ -491,7 +492,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 255 current opportunities from 101 companies**
+**🎯 256 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
