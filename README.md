@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-196-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-197-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-83-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -72,7 +72,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Snowflake** | Software Engineer Intern (Infrastructure Automation) - Fall 2026 | Menlo Park, CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application) |
 | 🏢 **Snowflake** | Software Engineer Intern (Database Engineering) - Fall 2026 | Menlo Park, CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application) |
 | 🏢 **TikTok** | Software Engineer Intern - Quality and Efficiency Technology | San Jose, CA | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7637047421538404613) |
-| 🏢 **True Anomaly** | Front End Software Engineer Intern | Denver, CO | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131359007) |
+| 🏢 **True Anomaly** | Front End Software Engineer Intern | Denver, CO | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131359007) |
 | 🏢 **Oracle** | Software Engineer Intern - NetSuite | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332961) |
 | 🏢 **Tesla** | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269819) |
 | 🏢 **Tesla** | Software Engineer Intern - Integration Tools | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269445) |
@@ -293,7 +293,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Tesla** | Abuse Testing & Engineering Intern - Abuse Testing & Engineering | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269326) |
 | 🏢 **GlobalFoundries** | Field Application Engineering Intern, Austin, TX (Summer 2026) | Texas | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795) |
 | 🏢 **GlobalFoundries** | Advanced Manufacturing Engineering Intern (Summer 2026) | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Summer-2026-_JR-2503124) |
-| ⚗️ **Applied Materials** | Summer 2026 Industrial Engineering Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2619056-1) |
+| ⚗️ **Applied Materials** | Summer 2026 Industrial Engineering Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2619056-1) |
 | 🏢 **Astranis** | Mission Engineering Intern (Fall 2026) | San Francisco | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4628847006) |
 | 🏢 **Copart** | Yard Engineering Intern | Dallas, TX - Head... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554) |
 | 🏢 **Copart** | Yard Engineering Intern | Dallas, TX - Head... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108552) |
@@ -311,6 +311,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🏢 **Unity** | Intern, Research Science | Mountain View, CA... | 17m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://unity.com/careers/positions/7904529?gh_jid=7904529) |
 | 🏢 **Veolia Environnement SA** | Intern - Engineering | Plainfield, IL | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125380509) |
 | 🏢 **Veolia Environnement SA** | Drafting Intern | Plainfield, IL | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125222379) |
 | 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (Mid-Year 2026) | In- | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
@@ -446,7 +447,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 196 current opportunities from 83 companies**
+**🎯 197 current opportunities from 83 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

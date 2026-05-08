@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "greenhouse-unity3d-7904529",
+    "job_title": "Intern, Research Science",
+    "employer_name": "Unity",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mountain View, CA, USA",
+    "job_apply_link": "https://unity.com/careers/positions/7904529?gh_jid=7904529",
+    "job_posted_at_datetime_utc": "2026-05-08T19:28:40.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f356aa43b58b7b5885fd7a3f47f8ed24ee08c1010b890740963a68001be5815",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T19:28:40.000Z"
+  },
+  {
     "job_id": "ashby-snowflake-a488959b-6874-4563-acb2-af747c3dc6f7",
     "job_title": "Software Engineer Intern (Security) - Fall 2026",
     "employer_name": "Snowflake",
@@ -852,7 +882,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -946,7 +976,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
