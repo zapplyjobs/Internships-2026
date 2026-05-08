@@ -1,5 +1,96 @@
 [
   {
+    "job_id": "workday-comcast-R436088",
+    "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
+    "job_posted_at_datetime_utc": "2026-05-08T20:34:50.290Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84915d6f4fc0ecf35e09fedce1e9928e8bdd52cc5f3995d81f192f5a483a27a8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:34:50.290Z"
+  },
+  {
+    "job_id": "workday-comcast-R436190",
+    "job_title": "Comcast Software Architect Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
+    "job_posted_at_datetime_utc": "2026-05-08T20:34:50.290Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc409984f88e4265ac29930f0e7b47099ae41369e7df58c52f55c150569bc4c1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:34:50.290Z"
+  },
+  {
+    "job_id": "greenhouse-cribl-5807803004",
+    "job_title": "Customer Experience Ops Intern",
+    "employer_name": "Cribl",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - San Francisco, California",
+    "job_apply_link": "https://cribl.io/job-detail/?gh_jid=5807803004",
+    "job_posted_at_datetime_utc": "2026-05-08T20:34:21.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17675e3ee0c94ba60ce700d2628d5fea1bfbad407362fa093644a5a15d474466",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T20:34:21.470Z"
+  },
+  {
     "job_id": "workday-walmart-R-2504435",
     "job_title": "Part-Time Pre Grad Intern - Sam's Club Pharmacy",
     "employer_name": "Walmart",
@@ -3189,36 +3280,6 @@
     "job_posted_at": "2026-05-08T20:06:07.747Z"
   },
   {
-    "job_id": "workday-comcast-R437194",
-    "job_title": "Comcast Content & Partnerships Intern",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Content---Partnerships-Intern_R437194",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e99fc1a8e72b8a78282dd853b4e49b6cc2c415b3dd29410ad07d1e6f32b2c290",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:07.746Z"
-  },
-  {
     "job_id": "workday-comcast-R436576",
     "job_title": "Comcast Market & Competitive Insights Co-op",
     "employer_name": "Comcast",
@@ -3322,6 +3383,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c092f4c9fe8502b77ee6232a5a40cbbeb8cb03ab30268bf243d897ce08ec8a8d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.746Z"
+  },
+  {
+    "job_id": "workday-comcast-R437194",
+    "job_title": "Comcast Content & Partnerships Intern",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Content---Partnerships-Intern_R437194",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e99fc1a8e72b8a78282dd853b4e49b6cc2c415b3dd29410ad07d1e6f32b2c290",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3519,6 +3610,36 @@
     "job_posted_at": "2026-05-08T20:05:49.183Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237923",
+    "job_title": "Human Resources Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237923-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:48.508Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0239666",
     "job_title": "Cyber Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -3566,36 +3687,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237923",
-    "job_title": "Human Resources Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237923-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
       ],
       "locations": [
         "us"
@@ -4737,7 +4828,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -11647,55 +11738,6 @@
     "job_posted_at": "2026-05-02T13:30:45.194Z"
   },
   {
-    "job_id": "lever-hermeus-10d69ef6-a754-42ab-833c-76adf01367bf",
-    "job_title": "Software Engineering Intern (HIL) - Fall 2026",
-    "employer_name": "Hermeus",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:43.694Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "baa1bb6b42f09283d3577e2639943be3c2da673c92defc3ab61d07738f40b457",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "julia",
-        "matlab",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:43.694Z"
-  },
-  {
     "job_id": "lever-hermeus-49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
     "job_title": "Software Engineering Intern (Modeling & Simulation) - Fall 2026",
     "employer_name": "Hermeus",
@@ -11736,6 +11778,55 @@
         "matlab",
         "python",
         "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:43.694Z"
+  },
+  {
+    "job_id": "lever-hermeus-10d69ef6-a754-42ab-833c-76adf01367bf",
+    "job_title": "Software Engineering Intern (HIL) - Fall 2026",
+    "employer_name": "Hermeus",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:43.694Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "baa1bb6b42f09283d3577e2639943be3c2da673c92defc3ab61d07738f40b457",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "julia",
+        "matlab",
+        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
