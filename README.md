@@ -117,7 +117,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cresta** | Conversation Design Intern (Customer Success) | United States (Re... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213455008) |
+| 🏢 **Cresta** | Conversation Design Intern (Customer Success) | United States (Re... | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213455008) |
 | 🌐 **Cisco** | ASIC Design Verification Engineer I Intern - United States | Maynard, Massachu... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/ASIC-Design-Verification-Engineer-I-Intern---United-States_2001867) |
 | 🏢 **TikTok** | Product Manager Project Intern - Brand Innovation - Monetization Product | San Jose, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7636024964612770101) |
 | 🏢 **Oshkosh Corporation** | Marketing Intern - Graphic Design (Summer 2026) | Hagerstown, Maryl... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Marketing-Intern_R44190) |
@@ -240,7 +240,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Generac** | Supply Chain Intern | Pewaukee, WI - USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Pewaukee-WI---USA/Supply-Chain-Intern_JR13991) |
 | 🏢 **Leidos** | Contracts and Supply Chain Intern | Reston, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Contracts-and-Supply-Chain-Intern_R-00182471) |
-| 🏢 **Entegris** | Supply Chain Planning Co-Op - Fall 2026 | Rockrimmon, Color... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Supply-Chain-Planning-Co-Op---Fall-2026_REQ-10148) |
+| 🏢 **Entegris** | Supply Chain Planning Co-Op - Fall 2026 | Rockrimmon, Color... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Supply-Chain-Planning-Co-Op---Fall-2026_REQ-10148) |
 | 🏢 **Cloudflare** | Procurement Intern (JD) | Hybrid | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7822659?gh_jid=7822659) |
 
 <p align="center">Apply for more jobs at</p>
