@@ -284,7 +284,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **SEL** | Marketing Intern | Boise | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Marketing-Intern_2026-20928) |
-| 🏢 **Uber** | 2026 Internal Communications Intern - US | New York, New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.uber.com/us/en/careers/list/159301/) |
+| 🏢 **Uber** | 2026 Internal Communications Intern - US | New York, New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.uber.com/us/en/careers/list/159301/) |
 | 🏢 **Proofpoint** | Talent Marketing Intern | Sunnyvale, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/Talent-Marketing-Intern_R13955) |
 | 🏢 **OpenEye Scientific** | Marketing Intern | Liberty Lake, Was... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8538778002) |
 | 🏢 **Trimble** | Marketing and Communications Intern | OR, Lake Oswego | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Marketing-and-Communications-Intern_R54648) |
