@@ -235,8 +235,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **S&P Global** | Public Finance Intern | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Public-Finance-Intern_328504-1) |
 | 🏢 **Jabil** | Accounting/Finance Intern | Monument, CO | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Accounting-Finance-Intern_J2449672-1) |
+| 🏢 **S&P Global** | Public Finance Intern | New York, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Public-Finance-Intern_328504-1) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Systematic Trading Intern | Ardmore, PA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) |
 | 🏢 **State Street** | Revenue Operations Internship- 6 months - July-Dec | Burlington Massac... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Revenue-Operations-Internship--6-months---July-Dec_R-789608-1) |
