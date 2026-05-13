@@ -6,7 +6,7 @@
  * Reads new_jobs.json written by job-fetcher/index.js and outputs
  * current_jobs.json for jobs-data-2026 discord-poster to consume.
  *
- * Active window: 14 days (matches aggregator output window)
+ * Active window: 120 days (internships post 6-12 months ahead, SUP-TTL-1)
  */
 
 const fs = require('fs');
@@ -16,7 +16,7 @@ const dataDir = path.join(process.cwd(), '.github', 'data');
 const newJobsPath = path.join(dataDir, 'new_jobs.json');
 const outputPath = path.join(dataDir, 'current_jobs.json');
 
-const ACTIVE_WINDOW_DAYS = 14;
+const ACTIVE_WINDOW_DAYS = 120;
 const ACTIVE_WINDOW_MS = ACTIVE_WINDOW_DAYS * 24 * 60 * 60 * 1000;
 
 function isJobActive(job) {
@@ -39,7 +39,7 @@ try {
   console.log(`📥 Read ${jobs.length} jobs from new_jobs.json`);
 
   const activeJobs = jobs.filter(isJobActive);
-  console.log(`📅 After 14-day filter: ${activeJobs.length} active jobs`);
+  console.log(`📅 After 120-day internship filter: ${activeJobs.length} active jobs`);
 
   fs.writeFileSync(outputPath, JSON.stringify(activeJobs, null, 2), 'utf8');
   console.log(`✅ Wrote ${activeJobs.length} jobs to current_jobs.json`);
