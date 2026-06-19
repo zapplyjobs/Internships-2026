@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Main entry point for the job fetcher system - Internships-2026
+ * Main entry point for the job fetcher system - Internships-2027
  *
  * Fetches internship jobs from centralized aggregator and generates README.
  * Replaced JSearch direct fetch with aggregator consumer (2026-02-18).
